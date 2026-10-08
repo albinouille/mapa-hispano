@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Mapa Hispano · Actualidad</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div>
+      <h1>🌎 Mapa del mundo hispano</h1>
+      <p>Haz clic en un país para ver las últimas noticias.</p>
+    </div>
+    <div id="live"><span class="dot"></span><span id="updated">Cargando…</span></div>
+  </header>
+  <main>
+    <div id="map"></div>
+    <aside id="panel">
+      <h2 id="country-name">Selecciona un país</h2>
+      <div id="controls" hidden>
+        <label>Periodo
+          <select id="timespan">
+            <option value="1">Últimas 24 h</option>
+            <option value="3" selected>3 días</option>
+            <option value="7">7 días</option>
+          </select>
+        </label>
+      </div>
+      <ul id="news"></ul>
+      <p id="status"></p>
+    </aside>
+  </main>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="countries.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

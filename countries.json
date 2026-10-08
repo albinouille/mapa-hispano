@@ -1,0 +1,22 @@
+{
+  "ESP": { "name": "España", "fips": "SP" },
+  "MEX": { "name": "México", "fips": "MX" },
+  "GTM": { "name": "Guatemala", "fips": "GT" },
+  "HND": { "name": "Honduras", "fips": "HO" },
+  "SLV": { "name": "El Salvador", "fips": "ES" },
+  "NIC": { "name": "Nicaragua", "fips": "NU" },
+  "CRI": { "name": "Costa Rica", "fips": "CS" },
+  "PAN": { "name": "Panamá", "fips": "PM" },
+  "CUB": { "name": "Cuba", "fips": "CU" },
+  "DOM": { "name": "República Dominicana", "fips": "DR" },
+  "COL": { "name": "Colombia", "fips": "CO" },
+  "VEN": { "name": "Venezuela", "fips": "VE" },
+  "ECU": { "name": "Ecuador", "fips": "EC" },
+  "PER": { "name": "Perú", "fips": "PE" },
+  "BOL": { "name": "Bolivia", "fips": "BL" },
+  "CHL": { "name": "Chile", "fips": "CI" },
+  "ARG": { "name": "Argentina", "fips": "AR" },
+  "URY": { "name": "Uruguay", "fips": "UY" },
+  "PRY": { "name": "Paraguay", "fips": "PA" },
+  "GNQ": { "name": "Guinea Ecuatorial", "fips": "EK" }
+}
