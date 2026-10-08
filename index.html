@@ -11,27 +11,39 @@
   <header>
     <div>
       <h1>🌎 Mapa del mundo hispano</h1>
-      <p>Haz clic en un país para ver las últimas noticias.</p>
+      <p>España, Latinoamérica y Brasil · titulares, sismos y eventos naturales</p>
     </div>
     <div id="live"><span class="dot"></span><span id="updated">Cargando…</span></div>
   </header>
+
+  <nav id="toolbar">
+    <label><input type="checkbox" id="toggle-activity" checked> Actividad mediática</label>
+    <label><input type="checkbox" id="toggle-quakes" checked> Sismos M2.5+ <span class="count" id="count-quakes"></span></label>
+    <label><input type="checkbox" id="toggle-events" checked> Eventos naturales (NASA) <span class="count" id="count-events"></span></label>
+    <label class="period">Periodo
+      <select id="timespan">
+        <option value="1">Últimas 24 h</option>
+        <option value="3" selected>3 días</option>
+        <option value="7">7 días</option>
+      </select>
+    </label>
+    <span id="toolstatus"></span>
+  </nav>
+
   <main>
     <div id="map"></div>
     <aside id="panel">
-      <h2 id="country-name">Selecciona un país</h2>
-      <div id="controls" hidden>
-        <label>Periodo
-          <select id="timespan">
-            <option value="1">Últimas 24 h</option>
-            <option value="3" selected>3 días</option>
-            <option value="7">7 días</option>
-          </select>
-        </label>
+      <div class="panel-head">
+        <h2 id="country-name">Titulares en directo</h2>
+        <button type="button" id="back" hidden>← Todos</button>
       </div>
+      <div id="topics"></div>
       <ul id="news"></ul>
       <p id="status"></p>
+      <p class="note">Temas clasificados de forma aproximada por palabras clave. Fuentes: GDELT, USGS, NASA EONET.</p>
     </aside>
   </main>
+
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
   <script src="countries.js"></script>
   <script src="app.js"></script>

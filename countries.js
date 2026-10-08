@@ -19,5 +19,6 @@ const COUNTRIES = {
   ARG: { name: "Argentina", fips: "AR" },
   URY: { name: "Uruguay", fips: "UY" },
   PRY: { name: "Paraguay", fips: "PA" },
-  GNQ: { name: "Guinea Ecuatorial", fips: "EK" }
+  GNQ: { name: "Guinea Ecuatorial", fips: "EK" },
+  BRA: { name: "Brasil", fips: "BR", lang: "portuguese" }
 };
