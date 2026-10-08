@@ -3,6 +3,7 @@ const GEOJSON_URL =
 const GDELT = "https://api.gdeltproject.org/api/v2/doc/doc";
 const REFRESH_MS = 5 * 60 * 1000; // la page relit news.json toutes les 5 minutes
 
+const map = L.map("map", { worldCopyJump: true }).setView([10, -60], 3);
 L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
   attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
   maxZoom: 8
