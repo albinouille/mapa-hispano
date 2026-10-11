@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T21:49:41+00:00",
+ "updated": "2026-10-11T22:18:09+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -272,30 +272,6 @@
      "seendate": "20261011T133724Z"
     },
     {
-     "title": "Tarjeta de Movilidad Integrada ya se puede recargar en toda la ruta del Tren al AIFA",
-     "url": "https://www.eluniversal.com.mx/metropoli/tarjeta-de-movilidad-integrada-ya-se-puede-recargar-en-toda-la-ruta-del-tren-al-aifa/",
-     "domain": "El Universal",
-     "seendate": "20261011T095843Z"
-    },
-    {
-     "title": "“Ordenamiento podría optimizar uso de suelo”",
-     "url": "https://www.eluniversal.com.mx/metropoli/ordenamiento-podria-optimizar-uso-de-suelo/",
-     "domain": "El Universal",
-     "seendate": "20261011T090600Z"
-    },
-    {
-     "title": "Árboles protegidos y “consentidos”",
-     "url": "https://www.eluniversal.com.mx/metropoli/arboles-protegidos-y-consentidos/",
-     "domain": "El Universal",
-     "seendate": "20261011T090500Z"
-    },
-    {
-     "title": "Ambulantes copan plazas; serán rehabilitadas",
-     "url": "https://www.eluniversal.com.mx/metropoli/ambulantes-copan-plazas-seran-rehabilitadas/",
-     "domain": "El Universal",
-     "seendate": "20261011T090400Z"
-    },
-    {
      "title": "Birmex adquiere 2.5 millones de vacunas covid por 31 mil mdp; entrega de inmunización será hasta 2030",
      "url": "https://www.eluniversal.com.mx/nacion/birmex-adquiere-25-millones-de-vacunas-covid-por-31-mil-mdp-entrega-de-inmunizacion-sera-hasta-2030/",
      "domain": "El Universal",
@@ -473,6 +449,12 @@
   },
   "PAN": {
    "articles": [
+    {
+     "title": "El terremoto sacude el patrimonio y cambia la vida en La Villa",
+     "url": "https://www.prensa.com/sociedad/el-terremoto-sacude-el-patrimonio-y-cambia-la-vida-en-la-villa/",
+     "domain": "La Prensa",
+     "seendate": "20261011T220646Z"
+    },
     {
      "title": "Geociencias registra 256 réplicas tras el terremoto de magnitud 7.5 en Azuero",
      "url": "https://www.prensa.com/sociedad/geociencias-registra-256-replicas-en-azuero-cuatro-superaron-magnitud-6/",
@@ -791,6 +773,12 @@
   "COL": {
    "articles": [
     {
+     "title": "Un extranjero murió durante el primer día del festival de música electrónica EDC en la Unidad Deportiva Atanasio Girardot de Medellín",
+     "url": "https://www.eltiempo.com/colombia/medellin/un-extranjero-murio-durante-el-primer-dia-del-festival-de-musica-electronica-edc-en-la-unidad-deportiva-atanasio-girardot-de-medellin-3592891",
+     "domain": "El Tiempo",
+     "seendate": "20261011T220228Z"
+    },
+    {
      "title": "Australiano recibió 25 puñaladas en Medellín tras salir del festival EDC: investigan posible hurto",
      "url": "https://www.eltiempo.com/colombia/medellin/australiano-recibio-25-punaladas-en-medellin-tras-salir-del-festival-edc-investigan-posible-hurto-3592919",
      "domain": "El Tiempo",
@@ -801,12 +789,6 @@
      "url": "https://www.eltiempo.com/colombia/medellin/transito-suspendido-por-dron-desconocido-lo-que-se-sabe-del-episodio-que-obligo-a-detener-la-operacion-del-aeropuerto-jose-maria-cordova-3592912",
      "domain": "El Tiempo",
      "seendate": "20261011T193521Z"
-    },
-    {
-     "title": "Un extranjero murió durante el primer día del festival de música electrónica EDC en la Unidad Deportiva Atanasio Girardot de Medellín",
-     "url": "https://www.eltiempo.com/colombia/medellin/un-extranjero-murio-durante-el-primer-dia-del-festival-de-musica-electronica-edc-en-la-unidad-deportiva-atanasio-girardot-de-medellin-3592891",
-     "domain": "El Tiempo",
-     "seendate": "20261011T183118Z"
     },
     {
      "title": "Atlántico: plastiqueras en Galapa tenían 14 transformadores ilegales y deudas por $2.700 millones: conexiones afectan servicio de familias vulnerables",
@@ -1031,10 +1013,10 @@
   "PER": {
    "articles": [
     {
-     "title": "Temblor en Perú hoy, domingo 11 de octubre: Epicentro y de cuántos grados fue el sismo en Arequipa",
+     "title": "Temblor en Arequipa hoy, domingo 11 de octubre: Sismos en Perú vía IGP, lugar y magnitud",
      "url": "https://elcomercio.pe/peru/temblor-hoy-en-peru-en-vivo-reportes-del-igp-lugar-magnitud-y-ultimo-minuto-tdpe-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261011T195100Z"
+     "seendate": "20261011T214927Z"
     },
     {
      "title": "Cusco: dos incendios forestales activos en Calca y La Convención",
@@ -1078,10 +1060,28 @@
   "ARG": {
    "articles": [
     {
+     "title": "Fibromialgia: un especialista explicó en qué consiste esta patología y por qué afecta más a las mujeres",
+     "url": "https://www.lanacion.com.ar/sociedad/fibromialgia-un-especialista-explico-en-que-consiste-esta-patologia-y-por-que-afecta-mas-a-las-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261011T220000Z"
+    },
+    {
+     "title": "El argentino Nicolás Mendioroz Juncosa será extraditado de Australia acusado de estafas con criptomonedas",
+     "url": "https://www.lanacion.com.ar/seguridad/el-argentino-nicolas-mendioroz-juncosa-sera-extraditado-de-australia-acusado-de-estafas-con-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261011T215349Z"
+    },
+    {
      "title": "Murió un argentino en Punta Cana tras chocar contra un camión mientras circulaba en moto",
      "url": "https://www.lanacion.com.ar/sociedad/murio-un-argentino-en-punta-cana-tras-chocar-contra-un-camion-mientras-circulaba-en-moto-nid11102026/",
      "domain": "La Nación",
-     "seendate": "20261011T213902Z"
+     "seendate": "20261011T215257Z"
+    },
+    {
+     "title": "Legisladores peronistas pidieron suspender la privatización de AySA: reclaman conocer la tasación",
+     "url": "https://www.lanacion.com.ar/politica/legisladores-peronistas-pidieron-suspender-la-privatizacion-de-aysa-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261011T215236Z"
     },
     {
      "title": "El mensaje de Milei al Papa tras el anuncio de su problema de salud: “Toda la Argentina lo acompaña”",
@@ -1226,24 +1226,6 @@
      "url": "https://www.lanacion.com.ar/economia/campo/la-pregunta-que-cambio-todo-una-familia-se-animo-a-un-negocio-que-no-tenia-en-sus-planes-con-la-nid10102026/",
      "domain": "La Nación",
      "seendate": "20261011T150624Z"
-    },
-    {
-     "title": "Calendario Anses: comienza el pago de las prestaciones sociales que se cobran en la semana del 12 al 16 de octubre",
-     "url": "https://www.lanacion.com.ar/economia/calendario-anses-comienza-el-pago-de-las-prestaciones-sociales-que-se-cobran-en-la-semana-del-12-al-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T145540Z"
-    },
-    {
-     "title": "Prisión preventiva para los dueños de la concesionaria de autos de Pilar acusados de estafar a sus clientes",
-     "url": "https://www.lanacion.com.ar/seguridad/prision-preventiva-para-los-duenos-de-la-concesionaria-de-autos-de-pilar-acusados-de-estafar-a-sus-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T145521Z"
-    },
-    {
-     "title": "Alfredo Di Costanzo, de la Universidad de Minnesota, y un éxito de EE.UU. ahora bajo presión: productores de 80 años con 500 vacas sin herederos",
-     "url": "https://www.lanacion.com.ar/economia/campo/alfredo-di-costanzo-de-la-universidad-de-minnesota-y-un-exito-de-eeuu-ahora-bajo-presion-productores-nid10102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T145343Z"
     }
    ]
   },
