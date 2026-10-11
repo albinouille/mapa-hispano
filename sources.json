@@ -1,0 +1,63 @@
+{
+  "ESP": [
+    { "name": "El País", "site": "https://elpais.com/", "feed": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada" }
+  ],
+  "MEX": [
+    { "name": "El Universal", "site": "https://www.eluniversal.com.mx/", "feed": "https://www.eluniversal.com.mx/rss.xml" }
+  ],
+  "GTM": [
+    { "name": "Prensa Libre", "site": "https://www.prensalibre.com/" }
+  ],
+  "HND": [
+    { "name": "La Prensa", "site": "https://www.laprensa.hn/" }
+  ],
+  "SLV": [
+    { "name": "La Prensa Gráfica", "site": "https://www.laprensagrafica.com/" }
+  ],
+  "NIC": [
+    { "name": "Confidencial", "site": "https://confidencial.digital/" }
+  ],
+  "CRI": [
+    { "name": "La Nación", "site": "https://www.nacion.com/", "feed": "https://www.nacion.com/arc/outboundfeeds/rss/?outputType=xml" }
+  ],
+  "PAN": [
+    { "name": "La Prensa", "site": "https://www.prensa.com/" }
+  ],
+  "CUB": [
+    { "name": "14ymedio", "site": "https://www.14ymedio.com/" }
+  ],
+  "DOM": [
+    { "name": "Listín Diario", "site": "https://listindiario.com/" }
+  ],
+  "COL": [
+    { "name": "El Tiempo", "site": "https://www.eltiempo.com/", "feed": "https://www.eltiempo.com/rss/colombia.xml" }
+  ],
+  "VEN": [
+    { "name": "El Nacional", "site": "https://www.el-nacional.com/" }
+  ],
+  "ECU": [
+    { "name": "El Universo", "site": "https://www.eluniverso.com/", "feed": "https://www.eluniverso.com/arc/outboundfeeds/rss/?outputType=xml" }
+  ],
+  "PER": [
+    { "name": "El Comercio", "site": "https://elcomercio.pe/", "feed": "https://elcomercio.pe/arc/outboundfeeds/rss/?outputType=xml" }
+  ],
+  "BOL": [
+    { "name": "Los Tiempos", "site": "https://www.lostiempos.com/" }
+  ],
+  "CHL": [
+    { "name": "Emol (El Mercurio)", "site": "https://www.emol.com/" }
+  ],
+  "ARG": [
+    { "name": "La Nación", "site": "https://www.lanacion.com.ar/", "feed": "https://www.lanacion.com.ar/arc/outboundfeeds/rss/" }
+  ],
+  "URY": [
+    { "name": "El País", "site": "https://www.elpais.com.uy/" }
+  ],
+  "PRY": [
+    { "name": "ABC Color", "site": "https://www.abc.com.py/", "feed": "https://www.abc.com.py/arc/outboundfeeds/rss/?outputType=xml" }
+  ],
+  "GNQ": [],
+  "BRA": [
+    { "name": "O Globo", "site": "https://oglobo.globo.com/", "feed": "https://oglobo.globo.com/rss.xml" }
+  ]
+}
