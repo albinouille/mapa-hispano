@@ -1,19 +1,19 @@
 {
- "updated": "2026-10-11T13:48:41+00:00",
+ "updated": "2026-10-11T14:17:48+00:00",
  "countries": {
   "ESP": {
    "articles": [
+    {
+     "title": "Una madrugada de huidas y otro campamento desalojado en Ceuta",
+     "url": "https://elpais.com/espana/2026-10-11/la-policia-se-despliega-en-el-guano-para-desalojar-otro-asentamiento-de-inmigrantes-en-ceuta-48-horas-antes-de-la-visita-de-los-reyes.html",
+     "domain": "El País",
+     "seendate": "20261011T140804Z"
+    },
     {
      "title": "Sánchez pide al Supremo que “frene el intento de atropello” de Feijóo y Abascal y permita votar a los descendientes del exilio",
      "url": "https://elpais.com/espana/elecciones-generales/2026-10-11/sanchez-pide-al-supremo-que-frene-el-intento-de-atropello-de-feijoo-y-abascal-y-permita-votar-a-los-descendientes-del-exilio.html",
      "domain": "El País",
      "seendate": "20261011T112839Z"
-    },
-    {
-     "title": "La Policía se despliega en El Guano para desalojar otro asentamiento de inmigrantes en Ceuta 48 horas antes de la visita de los Reyes",
-     "url": "https://elpais.com/espana/2026-10-11/la-policia-se-despliega-en-el-guano-para-desalojar-otro-asentamiento-de-inmigrantes-en-ceuta-48-horas-antes-de-la-visita-de-los-reyes.html",
-     "domain": "El País",
-     "seendate": "20261011T100924Z"
     },
     {
      "title": "Gabriel Rufián será candidato por Esquerra Republicana el 29-N",
@@ -109,6 +109,12 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Aseguran mil 201 kilogramos de narcóticos en San Luis Río Colorado; detienen a dos personas y decomisan una camioneta",
+     "url": "https://www.eluniversal.com.mx/estados/aseguran-mil-201-kilogramos-de-narcoticos-en-san-luis-rio-colorado-detienen-a-dos-personas-y-decomisan-una-camioneta/",
+     "domain": "El Universal",
+     "seendate": "20261011T140527Z"
+    },
     {
      "title": "El Centro Histórico de la CDMX resplandece en colores; se lleva a cabo el Paseo de Alebrijes Iluminados",
      "url": "https://www.eluniversal.com.mx/metropoli/el-centro-historico-de-la-cdmx-resplandece-en-colores-se-lleva-a-cabo-el-paseo-de-alebrijes-iluminados/",
@@ -252,12 +258,6 @@
      "url": "https://www.eluniversal.com.mx/nacion/imss-alista-consulta-para-empleados-sobre-aumento-salarial-zoe-robledo-admite-retos-financieros-y-operativos/",
      "domain": "El Universal",
      "seendate": "20261011T015106Z"
-    },
-    {
-     "title": "José Braña, sobrino de AMLO, se registra para buscar coordinación de la 4T en Ciudad Victoria, Tamaulipas; realiza anuncio en redes sociales",
-     "url": "https://www.eluniversal.com.mx/estados/jose-brana-sobrino-de-amlo-se-registra-para-buscar-coordinacion-de-la-4t-en-ciudad-victoria-tamaulipas-realiza-anuncio-en-redes-sociales/",
-     "domain": "El Universal",
-     "seendate": "20261011T013232Z"
     },
     {
      "title": "Cierran playas de Puerto Vallarta ante la proximidad del huracán Simon; se encuentran en alerta máxima",
@@ -510,12 +510,6 @@
      "url": "https://www.nacion.com/el-pais/inestabilidad-en-tipo-de-cambio-desincentiva/RMIMWTVZLFATRKI44LCN2LG72A/story/",
      "domain": "La Nación",
      "seendate": "20261010T081500Z"
-    },
-    {
-     "title": "Ingreso de onda tropical N.° 50 provocará fuertes aguaceros este sábado en Costa Rica: conozca las zonas que podrían verse afectadas",
-     "url": "https://www.nacion.com/sucesos/ingreso-de-onda-tropical-n-50-provocara-fuertes/KOGOHLWRNRCHPAKMRBUJPUBQBU/story/",
-     "domain": "La Nación",
-     "seendate": "20261010T044437Z"
     }
    ]
   },
@@ -931,6 +925,24 @@
   "ECU": {
    "articles": [
     {
+     "title": "Mariana Fest regresa a Manta: fecha, lugar y lo que se conoce hasta ahora del festival",
+     "url": "https://eluniverso.com/comunidad/ecuador/mariana-fest-en-manta-fecha-lugar-y-dj-confirmados-nota/",
+     "domain": "El Universo",
+     "seendate": "20261011T140000Z"
+    },
+    {
+     "title": "Fuerzas Armadas capturan a ocho presuntos miembros de Los Fatales en Monte Sinaí",
+     "url": "https://eluniverso.com/politica/seguridad/fuerzas-armadas-capturan-a-ocho-presuntos-miembros-de-los-fatales-en-monte-sinai-nota/",
+     "domain": "El Universo",
+     "seendate": "20261011T135432Z"
+    },
+    {
+     "title": "Decomiso de más de 300 kilos de marihuana y tres detenidos durante operativo policial en Carchi",
+     "url": "https://eluniverso.com/politica/seguridad/decomiso-de-mas-de-300-kilos-de-marihuana-y-tres-detenidos-durante-operativo-policial-en-carchi-nota/",
+     "domain": "El Universo",
+     "seendate": "20261011T134626Z"
+    },
+    {
      "title": "Martha Toapanta, la candidata a consejera de Participación que no tendrá rivales en la campaña",
      "url": "https://eluniverso.com/politica/elecciones/elecciones-seccionales-2027-consejo-de-participacion-ciudadana-y-control-social-indigenas-nota/",
      "domain": "El Universo",
@@ -1061,12 +1073,6 @@
      "url": "https://eluniverso.com/politica/elecciones/sofia-espin-candidata-a-la-prefectura-del-guayas-por-el-pse-la-ampliacion-de-concesiones-viales-tiene-que-ser-fiscalizada-nota/",
      "domain": "El Universo",
      "seendate": "20261010T130000Z"
-    },
-    {
-     "title": "Militares persiguen a sospechosos tras detonaciones y atropellamiento de un servidor en Milagro",
-     "url": "https://eluniverso.com/politica/seguridad/militares-persiguen-a-sospechosos-tras-detonaciones-y-atropellamiento-de-un-servidor-en-milagro-nota/",
-     "domain": "El Universo",
-     "seendate": "20261010T040147Z"
     },
     {
      "title": "Militares destruyen maquinaria pesada y detienen a ocho personas en operativos contra la minería ilegal",
@@ -1388,12 +1394,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/gran-fondo-buenos-aires-que-autopistas-y-avenidas-esta-cortadas-este-domingo-por-la-carrera-de-nid11102026/",
      "domain": "La Nación",
      "seendate": "20261011T103434Z"
-    },
-    {
-     "title": "El Rolls-Royce de 1910 que recorrió Europa con la familia Pereyra Iraola y esquivó el hundimiento del Titanic",
-     "url": "https://www.lanacion.com.ar/sociedad/el-rolls-royce-de-1910-que-recorrio-europa-con-la-familia-pereyra-iraola-y-esquivo-el-hundimiento-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T090006Z"
     }
    ]
   },
