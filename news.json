@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T12:21:57+00:00",
+ "updated": "2026-10-11T12:55:14+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -522,17 +522,17 @@
      "url": "https://www.nacion.com/politica/jose-miguel-villalobos-pide-respeto-hacia/77A7ECHCFNFCPOOVUS6RQHUWZ4/story/",
      "domain": "La Nación",
      "seendate": "20261010T030405Z"
-    },
-    {
-     "title": "Chances de la JPS: Estos son los números ganadores del sorteo de este viernes 9 de octubre",
-     "url": "https://www.nacion.com/el-pais/chances-de-la-jps-estos-son-los-numeros-ganadores/K72LTMCCBFEJDC37BAO6DZ5G5I/story/",
-     "domain": "La Nación",
-     "seendate": "20261010T015836Z"
     }
    ]
   },
   "PAN": {
    "articles": [
+    {
+     "title": "Cerca del epicentro del terremoto en Panamá: sin agua ni luz mientras todo sigue temblando",
+     "url": "https://www.prensa.com/sociedad/cerca-del-epicentro-del-terremoto-en-panama-sin-agua-ni-luz-mientras-todo-sigue-temblando/",
+     "domain": "La Prensa",
+     "seendate": "20261011T124228Z"
+    },
     {
      "title": "‘Lo que el gobierno presenta como un cierre es una explotación minera que dura décadas’: Carlos Bichet",
      "url": "https://www.prensa.com/sociedad/lo-que-el-gobierno-presenta-como-un-cierre-es-una-explotacion-minera-que-dura-decadas-carlos-bichet/",
@@ -717,6 +717,12 @@
   },
   "CUB": {
    "articles": [
+    {
+     "title": "Entre dos orillas y un basurero, el puente olvidado de Matanzas",
+     "url": "https://www.14ymedio.com/cuba/orillas-basurero-puente-olvidado-matanzas_1_1131815.html",
+     "domain": "14ymedio",
+     "seendate": "20261011T124607Z"
+    },
     {
      "title": "Díaz-Canel reafirma su amistad con Corea del Norte tras reducir su presencia diplomática en Seúl",
      "url": "https://www.14ymedio.com/cuba/diaz-canel-reafirma-amistad-corea_1_1131811.html",
@@ -1051,22 +1057,10 @@
      "seendate": "20261010T144510Z"
     },
     {
-     "title": "Socavón obligó al cierre temporal de avenida en Santo Domingo",
-     "url": "https://eluniverso.com/comunidad/ecuador/socavon-obligo-al-cierre-temporal-de-avenida-en-santo-domingo-nota/",
-     "domain": "El Universo",
-     "seendate": "20261010T142525Z"
-    },
-    {
      "title": "Baños proyecta recibir más de 50.000 turistas durante este feriado de octubre",
      "url": "https://eluniverso.com/comunidad/ecuador/buen-clima-nota/",
      "domain": "El Universo",
      "seendate": "20261010T141450Z"
-    },
-    {
-     "title": "Esmeraldas refuerza su seguridad con nuevas camionetas y motos policiales",
-     "url": "https://eluniverso.com/comunidad/ecuador/esmeraldas-refuerza-su-seguridad-con-nuevas-camionetas-y-motos-policiales-nota/",
-     "domain": "El Universo",
-     "seendate": "20261010T140409Z"
     },
     {
      "title": "Operativo militar contra la minería ilegal afecta en $ 3,6 millones a Los Lobos en El Oro",
@@ -1104,9 +1098,9 @@
    "articles": [
     {
      "title": "Apenas el 17% de los puntos críticos por el Fenómeno El Niño tiene intervenciones en ejecución",
-     "url": "https://elcomercio.pe/economia/peru/el-nino-solo-17-de-los-puntos-criticos-por-el-fenomeno-el-nino-tiene-intervenciones-en-ejecucion-noticia/",
+     "url": "https://elcomercio.pe/economia/peru/el-nino-solo-17-de-los-puntos-criticos-por-el-fenomeno-el-nino-tiene-intervenciones-en-ejecucion-apuesplan-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261011T110000Z"
+     "seendate": "20261011T122754Z"
     }
    ]
   },
@@ -1144,6 +1138,30 @@
   "ARG": {
    "articles": [
     {
+     "title": "Frase destacada del día, Stephen Hawking, físico: “El mayor enemigo del conocimiento no es la ignorancia, sino la ilusión del conocimiento”",
+     "url": "https://www.lanacion.com.ar/sociedad/frase-destacada-del-dia-stephen-hawking-fisico-el-mayor-enemigo-del-conocimiento-no-es-la-ignorancia-nid10102026/",
+     "domain": "La Nación",
+     "seendate": "20261011T123308Z"
+    },
+    {
+     "title": "Dólar hoy y dólar blue hoy: a cuánto cotiza este domingo 11 de octubre",
+     "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-hoy-a-cuanto-cotiza-este-domingo-11-de-octubre-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261011T122613Z"
+    },
+    {
+     "title": "El gobierno de EE.UU. no ve que en el caso $LIBRA haya pruebas de un delito",
+     "url": "https://www.lanacion.com.ar/politica/caso-libra-eeuu-rechazo-el-pedido-de-colaboracion-de-la-justicia-argentina-tras-concluir-que-faltan-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261011T122529Z"
+    },
+    {
+     "title": "A cuánto abre el dólar el martes 13 de octubre",
+     "url": "https://www.lanacion.com.ar/economia/dolar/a-cuanto-abre-el-dolar-el-martes-13-de-octubre-nid10102026/",
+     "domain": "La Nación",
+     "seendate": "20261011T122436Z"
+    },
+    {
      "title": "Prisión preventiva para los dueños de la concesionaria de autos de Pilar acusados de estafar a sus clientes",
      "url": "https://www.lanacion.com.ar/seguridad/prision-preventiva-para-los-duenos-de-la-concesionaria-de-autos-de-pilar-acusados-de-estafar-a-sus-nid11102026/",
      "domain": "La Nación",
@@ -1166,12 +1184,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/gran-fondo-buenos-aires-que-autopistas-y-avenidas-esta-cortadas-este-domingo-por-la-carrera-de-nid11102026/",
      "domain": "La Nación",
      "seendate": "20261011T103434Z"
-    },
-    {
-     "title": "Dólar hoy y dólar blue hoy: a cuánto cotiza este domingo 11 de octubre",
-     "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-hoy-a-cuanto-cotiza-este-domingo-11-de-octubre-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T103100Z"
     },
     {
      "title": "El Rolls-Royce de 1910 que recorrió Europa con la familia Pereyra Iraola y esquivó el hundimiento del Titanic",
@@ -1210,12 +1222,6 @@
      "seendate": "20261011T030243Z"
     },
     {
-     "title": "Lo que la Argentina gana con la ola azul de Brasil",
-     "url": "https://www.lanacion.com.ar/economia/lo-que-la-argentina-gana-con-la-ola-azul-de-brasil-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T030100Z"
-    },
-    {
      "title": "“Pérdida de agencia humana”: los desafíos de la educación frente a la IA, según el rector de la Universidad Siglo 21",
      "url": "https://www.lanacion.com.ar/economia/IA/perdida-de-agencia-humana-los-desafios-de-la-educacion-frente-a-la-ia-segun-el-rector-de-la-nid11102026/",
      "domain": "La Nación",
@@ -1228,14 +1234,26 @@
      "seendate": "20261011T030100Z"
     },
     {
-     "title": "La Argentina exportadora: hasta dónde puede llegar la nueva fábrica de dólares",
-     "url": "https://www.lanacion.com.ar/economia/la-argentina-exportadora-hasta-donde-puede-llegar-la-nueva-fabrica-de-dolares-nid11102026/",
+     "title": "Lo que la Argentina gana con la ola azul de Brasil",
+     "url": "https://www.lanacion.com.ar/economia/lo-que-la-argentina-gana-con-la-ola-azul-de-brasil-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261011T030100Z"
+    },
+    {
+     "title": "Hay alerta amarilla por nevadas para este domingo 11 de octubre: las provincias afectadas",
+     "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-nevadas-para-este-domingo-11-de-octubre-las-provincias-afectadas-nid11102026/",
      "domain": "La Nación",
      "seendate": "20261011T030100Z"
     },
     {
      "title": "¿Cuán fuerte estará el Gobierno de cara a las elecciones de 2027?",
      "url": "https://www.lanacion.com.ar/economia/cuan-fuerte-estara-el-gobierno-de-cara-a-las-elecciones-de-2027-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261011T030100Z"
+    },
+    {
+     "title": "Los aprendizajes que nos dejó el 62° Coloquio de IDEA",
+     "url": "https://www.lanacion.com.ar/economia/los-aprendizajes-que-nos-dejo-el-62-coloquio-de-idea-nid11102026/",
      "domain": "La Nación",
      "seendate": "20261011T030100Z"
     },
@@ -1252,22 +1270,10 @@
      "seendate": "20261011T030100Z"
     },
     {
-     "title": "Los aprendizajes que nos dejó el 62° Coloquio de IDEA",
-     "url": "https://www.lanacion.com.ar/economia/los-aprendizajes-que-nos-dejo-el-62-coloquio-de-idea-nid11102026/",
+     "title": "La Argentina exportadora: hasta dónde puede llegar la nueva fábrica de dólares",
+     "url": "https://www.lanacion.com.ar/economia/la-argentina-exportadora-hasta-donde-puede-llegar-la-nueva-fabrica-de-dolares-nid11102026/",
      "domain": "La Nación",
      "seendate": "20261011T030100Z"
-    },
-    {
-     "title": "Hay alerta amarilla por nevadas para este domingo 11 de octubre: las provincias afectadas",
-     "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-nevadas-para-este-domingo-11-de-octubre-las-provincias-afectadas-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T030100Z"
-    },
-    {
-     "title": "Tony Robbins, experto en desarrollo personal: “Todos somos egoístas a veces, pero si te quedás ahí, sufrís”",
-     "url": "https://www.lanacion.com.ar/sociedad/tony-robbins-experto-en-desarrollo-personal-todos-somos-egoistas-a-veces-pero-si-te-quedas-ahi-nid10102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T010000Z"
     }
    ]
   },
@@ -1284,10 +1290,10 @@
   "PRY": {
    "articles": [
     {
-     "title": "El latido de un reino milenario: un viaje por el corazón de Marruecos",
-     "url": "https://www.abc.com.py/nacionales/2026/10/11/el-latido-de-un-reino-milenario-un-viaje-por-el-corazon-de-marruecos/",
+     "title": "Nivel de los ríos: ¿dónde subieron y dónde bajaron las aguas?",
+     "url": "https://www.abc.com.py/nacionales/2026/10/11/nivel-de-los-rios-donde-subieron-y-donde-bajaron-las-aguas/",
      "domain": "ABC Color",
-     "seendate": "20261011T040000Z"
+     "seendate": "20261011T123859Z"
     }
    ]
   },
@@ -1296,6 +1302,18 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "PM atira 45 vezes e mata jovem durante abordagem na Zona Sul de SP",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/11/pm-atira-45-vezes-e-mata-jovem-durante-abordagem-em-sp.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261011T123957Z"
+    },
+    {
+     "title": "Influenciador brasileiro preso pelo ICE nos EUA é deportado após quase um mês; veja o que se sabe",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/11/influenciador-brasileiro-preso-pelo-ice-nos-eua-e-deportado-apos-quase-um-mes-veja-o-que-se-sabe.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261011T122355Z"
+    },
     {
      "title": "Círio de Nazaré 2026: corda se rompe durante Trasladação, devotos disputam pedaços e procissão atrasa em Belém",
      "url": "https://oglobo.globo.com/brasil/noticia/2026/10/11/cirio-de-nazare-2026-corda-se-rompe-durante-trasladacao-devotos-disputam-pedacos-e-procissao-atrasa-em-belem.ghtml",
@@ -1355,30 +1373,6 @@
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/10/alckmin-defende-falar-com-a-classe-media-para-virada-no-segundo-turno-mostrando-os-prejuizos-que-podem-ter.ghtml",
      "domain": "O Globo",
      "seendate": "20261010T231939Z"
-    },
-    {
-     "title": "Ministério do Meio Ambiente afirma que governo do Amazonas pediu ajuda federal para comabte ao fogo, mas desistiu",
-     "url": "https://oglobo.globo.com/brasil/meio-ambiente/noticia/2026/10/10/ministerio-do-meio-ambiente-afirma-que-governo-do-amazonas-pediu-ajuda-federal-para-comabte-ao-fogo-mas-desistiu.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261010T223209Z"
-    },
-    {
-     "title": "Ratinho Jr anuncia apoio a Flávio Bolsonaro no segundo turno: 'Vamos caminhar juntos pelo futuro do nosso Brasil'",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/10/ratinho-jr-anuncia-apoio-a-flavio-bolsonaro-no-segundo-turno-vamos-caminhar-juntos-pelo-futuro-do-nosso-brasil.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261010T220021Z"
-    },
-    {
-     "title": "TSE questiona Meta, dona do Instagram, após campanha de Lula acusar empresa de favorecer Flávio Bolsonaro",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/10/tse-questiona-meta-dona-do-instagram-apos-campanha-de-lula-acusar-empresa-de-favorecer-flavio-bolsonaro.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261010T202834Z"
-    },
-    {
-     "title": "Felipe Nunes: Flávio se saiu melhor que Jair. É o agro, estúpido!",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/10/felipe-nunes-flavio-foi-melhor-que-jair-foi-o-agro-estupido.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261010T201837Z"
     }
    ]
   }
