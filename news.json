@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T18:20:33+00:00",
+ "updated": "2026-10-11T18:52:36+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -85,6 +85,18 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Detienen en Acapulco a \"El Junior\", ligado a \"Los Rusos\"; lo vinculan a ataque a elementos de la SSPC en octubre de 2025",
+     "url": "https://www.eluniversal.com.mx/nacion/detienen-en-acapulco-a-el-junior-ligado-a-los-rusos-lo-vinculan-a-ataque-a-elementos-de-la-sspc-en-octubre-de-2025/",
+     "domain": "El Universal",
+     "seendate": "20261011T182441Z"
+    },
+    {
+     "title": "Personal del IMSS en Culiacán marcha por mejores prestaciones y abasto de medicamentos; denuncian sobrecarga laboral",
+     "url": "https://www.eluniversal.com.mx/estados/personal-del-imss-en-culiacan-marcha-por-mejores-prestaciones-y-abasto-de-medicamentos-denuncian-sobrecarga-laboral/",
+     "domain": "El Universal",
+     "seendate": "20261011T182126Z"
+    },
     {
      "title": "Caen dos hombres en la alcaldía Cuauhtémoc por presunto robo de autopartes en Atizapán; aseguran presuntas drogas",
      "url": "https://www.eluniversal.com.mx/metropoli/caen-dos-hombres-en-la-alcaldia-cuauhtemoc-por-presunto-robo-de-autopartes-en-atizapan-aseguran-presuntas-drogas/",
@@ -706,12 +718,6 @@
      "seendate": "20261009T114832Z"
     },
     {
-     "title": "La Habana huele a gasolina y a aguas albañales",
-     "url": "https://www.14ymedio.com/cuba/habana-huele-gasolina-aguas-albanales_1_1131709.html",
-     "domain": "14ymedio",
-     "seendate": "20261008T213208Z"
-    },
-    {
      "title": "Cardiología, ultrasonidos obstétricos, odontología: la medicina privada desafía las prohibiciones en Cuba",
      "url": "https://www.14ymedio.com/cuba/cardiologia-ultrasonidos-obstetricos-odontologia-medicina_1_1131706.html",
      "domain": "14ymedio",
@@ -817,7 +823,19 @@
   "ECU": {
    "articles": [
     {
-     "title": "ECU911 alcanza interoperabilidad con 22.000 cámaras de entidades para reforzar la seguridad y encamina proceso de modernización con 40.000 nuevos equipos",
+     "title": "IESS dispone medidas para mejorar el abastecimiento de medicamentos en el Hospital del Día Sur Valdivia tras inspección",
+     "url": "https://eluniverso.com/politica/ejecutivo/iess-dispone-medidas-para-mejorar-el-abastecimiento-de-medicamentos-en-el-hospital-del-dia-sur-valdivia-tras-inspeccion-nota/",
+     "domain": "El Universo",
+     "seendate": "20261011T184504Z"
+    },
+    {
+     "title": "Ciclistas recorrieron más de 20 kilómetros en Atacames para promover la paz, la seguridad y el turismo",
+     "url": "https://eluniverso.com/comunidad/ecuador/ciclistas-recorrieron-mas-de-20-kilometros-en-atacames-para-promover-la-paz-la-seguridad-y-el-turismo-nota/",
+     "domain": "El Universo",
+     "seendate": "20261011T184046Z"
+    },
+    {
+     "title": "ECU911 alcanza interoperabilidad con 22.000 cámaras de entidades para reforzar la seguridad y encamina modernización con 40.000 nuevos equipos",
      "url": "https://eluniverso.com/politica/seguridad/ecu911-alcanza-interoperabilidad-con-22000-camaras-de-entidades-para-reforzar-la-seguridad-y-encamina-proceso-de-modernizacion-con-40000-nuevos-equipos-nota/",
      "domain": "El Universo",
      "seendate": "20261011T180100Z"
@@ -890,7 +908,7 @@
     },
     {
      "title": "Antes de llegar a una lata, el atún se busca desde el cielo: Jonathan Chiluisa sobrevuela el Pacífico en helicóptero para encontrar cardúmenes",
-     "url": "https://eluniverso.com/noticias/ecuador/pesca-de-atun-en-ecuador-asi-trabaja-un-piloto-desde-manta-nota/",
+     "url": "https://eluniverso.com/comunidad/ecuador/pesca-de-atun-en-ecuador-asi-trabaja-un-piloto-desde-manta-nota/",
      "domain": "El Universo",
      "seendate": "20261011T120100Z"
     },
@@ -941,18 +959,6 @@
      "url": "https://eluniverso.com/politica/seguridad/rescatan-a-una-madre-y-su-hija-durante-intervenciones-policiales-contra-redes-de-extorsion-y-secuestro-en-milagro-nota/",
      "domain": "El Universo",
      "seendate": "20261010T210327Z"
-    },
-    {
-     "title": "Más de 50.000 personas acudieron al primer día del festival Manabí Gastronomía Milenaria",
-     "url": "https://eluniverso.com/comunidad/ecuador/festival-manabi-gastronomia-milenaria-reune-a-50000-personas-nota/",
-     "domain": "El Universo",
-     "seendate": "20261010T200547Z"
-    },
-    {
-     "title": "Tortuga Bay, una de las playas más famosas de Galápagos, estará cerrada durante dos días",
-     "url": "https://eluniverso.com/comunidad/ecuador/tortuga-bay-una-de-las-playas-mas-famosas-de-galapagos-estara-cerrada-durante-dos-dias-nota/",
-     "domain": "El Universo",
-     "seendate": "20261010T194011Z"
     },
     {
      "title": "Bellavista, el barrio de Portoviejo que vio crecer a Shyare Andrade, primera finalista del Miss Grand International",
@@ -1024,10 +1030,28 @@
   "ARG": {
    "articles": [
     {
+     "title": "El mensaje de Milei al Papa tras el anuncio de su problema de salud: “Toda la Argentina lo acompaña”",
+     "url": "https://www.lanacion.com.ar/politica/el-mensaje-de-milei-al-papa-tras-el-anuncio-de-su-problema-de-salud-toda-la-argentina-lo-acompana-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261011T184420Z"
+    },
+    {
+     "title": "La informalidad laboral crece, es de 70% entre los cuentapropistas del conurbano, y muestra amplias brechas en el país",
+     "url": "https://www.lanacion.com.ar/economia/la-informalidad-laboral-crece-es-de-70-entre-los-cuentapropistas-del-conurbano-y-muestra-amplias-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261011T184029Z"
+    },
+    {
      "title": "Crecida del río Uruguay: evacuaron familias en Concordia y hay alerta en Corrientes y Entre Ríos por El Niño",
      "url": "https://www.lanacion.com.ar/sociedad/crecida-del-rio-uruguay-evacuaron-familias-en-concordia-y-hay-alerta-en-corrientes-y-entre-rios-por-nid11102026/",
      "domain": "La Nación",
-     "seendate": "20261011T181626Z"
+     "seendate": "20261011T183558Z"
+    },
+    {
+     "title": "Uruguay y Chile intensifican las relaciones comerciales con las Malvinas",
+     "url": "https://www.lanacion.com.ar/politica/uruguay-y-chile-intensifican-las-relaciones-comerciales-con-las-malvinas-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261011T183549Z"
     },
     {
      "title": "Aterosclerosis y trombosis: alimentaron animales con remolacha forrajera y el resultado fue sorprendente",
@@ -1244,48 +1268,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/hay-feriado-el-lunes-9-de-noviembre-por-la-visita-del-papa-leon-xiv-nid22092026/",
      "domain": "La Nación",
      "seendate": "20261011T132607Z"
-    },
-    {
-     "title": "Sueldo oficial: cuánto ganan los miembros de las Fuerzas Armadas en octubre de 2026 con el aumento confirmado",
-     "url": "https://www.lanacion.com.ar/economia/sueldo-oficial-cuanto-ganan-los-miembros-de-las-fuerzas-armadas-en-octubre-de-2026-con-el-aumento-nid08102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T132558Z"
-    },
-    {
-     "title": "Paritaria oficial: cuánto ganan los camioneros en octubre 2026 tras el aumento confirmado",
-     "url": "https://www.lanacion.com.ar/economia/paritaria-oficial-cuanto-ganan-los-camioneros-en-octubre-2026-tras-el-aumento-confirmado-nid07102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T132556Z"
-    },
-    {
-     "title": "Paritaria con aumento: cuánto gana el personal de la Policía Federal Argentina en octubre 2026",
-     "url": "https://www.lanacion.com.ar/economia/paritaria-con-aumento-cuanto-gana-el-personal-de-la-policia-federal-argentina-en-octubre-2026-nid07102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T132553Z"
-    },
-    {
-     "title": "Paritaria confirmada: cuánto cobran las empleadas domésticas en octubre de 2026 con el aumento oficial",
-     "url": "https://www.lanacion.com.ar/economia/paritaria-confirmada-cuanto-cobran-las-empleadas-domesticas-en-octubre-de-2026-con-el-aumento-nid06102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T132550Z"
-    },
-    {
-     "title": "Nueva paritaria de la construcción: cuánto cobra un albañil en octubre 2026 con el aumento confirmado por la Uocra",
-     "url": "https://www.lanacion.com.ar/economia/nueva-paritaria-de-la-construccion-cuanto-cobra-un-albanil-en-octubre-2026-con-el-aumento-confirmado-nid01102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T132548Z"
-    },
-    {
-     "title": "Calendario escolar: cuándo terminan las clases en Córdoba",
-     "url": "https://www.lanacion.com.ar/sociedad/calendario-escolar-cuando-terminan-las-clases-en-cordoba-nid07102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T132545Z"
-    },
-    {
-     "title": "Calendario escolar: cuándo terminan las clases en CABA",
-     "url": "https://www.lanacion.com.ar/sociedad/calendario-escolar-cuando-terminan-las-clases-en-caba-nid30092026/",
-     "domain": "La Nación",
-     "seendate": "20261011T132542Z"
     }
    ]
   },
@@ -1301,6 +1283,18 @@
   },
   "PRY": {
    "articles": [
+    {
+     "title": "Día Nacional de Lucha contra la Obesidad: el 69% de los adultos en Paraguay padece exceso de peso",
+     "url": "https://www.abc.com.py/nacionales/2026/10/11/dia-nacional-de-lucha-contra-la-obesidad-el-69-de-los-adultos-en-paraguay-padece-exceso-de-peso/",
+     "domain": "ABC Color",
+     "seendate": "20261011T183237Z"
+    },
+    {
+     "title": "Peña vetó exoneraciones tributarias para bomberos: este es el motivo",
+     "url": "https://www.abc.com.py/nacionales/2026/10/11/pena-veto-exoneraciones-tributarias-para-bomberos-este-es-el-motivo/",
+     "domain": "ABC Color",
+     "seendate": "20261011T182836Z"
+    },
     {
      "title": "Día Nacional del Ñandutí: postergan festejos previstos en Itauguá por alerta meteorológica",
      "url": "https://www.abc.com.py/nacionales/2026/10/11/dia-nacional-del-nanduti-postergan-festejos-previstos-en-itaugua-por-alerta-meteorologica/",
@@ -1330,12 +1324,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/11/caso-deisy-gimenez-la-justicia-debe-llegar-antes-de-que-la-violencia-sea-una-tragedia/",
      "domain": "ABC Color",
      "seendate": "20261011T164737Z"
-    },
-    {
-     "title": "Obispo de Caacupé advierte que los vicios destruyen familias y alimentan la violencia",
-     "url": "https://www.abc.com.py/nacionales/2026/10/11/obispo-de-caacupe-advierte-que-los-vicios-destruyen-familias-y-alimentan-la-violencia/",
-     "domain": "ABC Color",
-     "seendate": "20261011T150517Z"
     }
    ]
   },
@@ -1344,6 +1332,18 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "Relator de caso do canal 'Exército do Lula' derruba decisão de Nunes Marques",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/11/relator-de-caso-do-canal-exercito-do-lula-derruba-decisao-de-nunes-marques.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261011T184827Z"
+    },
+    {
+     "title": "Após derrota de Paes, reeleição de Cavaliere no Rio em 2028 vira prioridade para grupo manter a capital como base",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/11/apos-derrota-de-paes-reeleicao-de-cavaliere-no-rio-vira-prioridade-para-grupo-manter-a-capital-como-base.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261011T184017Z"
+    },
     {
      "title": "Flávio afirma que 'ninguém vai tocar' em programas sociais como o Bolsa Família, mas não explica ajuste",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/11/flavio-afirma-que-ninguem-vai-tocar-em-programas-sociais-como-o-bolsa-familia-mas-nao-explica-ajuste.ghtml",
