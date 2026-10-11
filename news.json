@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T19:17:33+00:00",
+ "updated": "2026-10-11T19:47:43+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -85,6 +85,18 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Detienen a mujer con 15 kilos de presunta marihuana en la alcaldía Cuauhtémoc; tiene dos ingresos a prisión",
+     "url": "https://www.eluniversal.com.mx/metropoli/detienen-a-mujer-con-15-kilos-de-presunta-marihuana-en-la-alcaldia-cuauhtemoc-tiene-dos-ingresos-a-prision/",
+     "domain": "El Universal",
+     "seendate": "20261011T192654Z"
+    },
+    {
+     "title": "“Queremos agua limpia”: Marchan en Guadalajara por agua contaminada; manifestación llega a Casa Jalisco",
+     "url": "https://www.eluniversal.com.mx/estados/queremos-agua-limpia-marchan-en-guadalajara-por-agua-contaminada-manifestacion-llega-a-casa-jalisco/",
+     "domain": "El Universal",
+     "seendate": "20261011T192530Z"
+    },
     {
      "title": "Compra de vacunas contra Covid permitirá ahorros por mil 326 mdp, afirma Birmex; es \"un monto previsto\", señala",
      "url": "https://www.eluniversal.com.mx/nacion/compra-de-vacunas-contra-covid-permitira-ahorros-por-mil-326-mdp-afirma-birmex-es-un-monto-previsto-senala/",
@@ -991,18 +1003,6 @@
      "seendate": "20261010T213212Z"
     },
     {
-     "title": "Rescatan a una madre y su hija durante intervenciones policiales contra redes de extorsión y secuestro en Milagro",
-     "url": "https://eluniverso.com/politica/seguridad/rescatan-a-una-madre-y-su-hija-durante-intervenciones-policiales-contra-redes-de-extorsion-y-secuestro-en-milagro-nota/",
-     "domain": "El Universo",
-     "seendate": "20261010T210327Z"
-    },
-    {
-     "title": "Bellavista, el barrio de Portoviejo que vio crecer a Shyare Andrade, primera finalista del Miss Grand International",
-     "url": "https://eluniverso.com/comunidad/ecuador/shyare-andrade-el-barrio-de-portoviejo-donde-crecio-nota/",
-     "domain": "El Universo",
-     "seendate": "20261010T181516Z"
-    },
-    {
      "title": "Sofía Espín, candidata a la Prefectura del Guayas por el PSE: “La ampliación de concesiones viales tiene que ser fiscalizada”",
      "url": "https://eluniverso.com/politica/elecciones/sofia-espin-candidata-a-la-prefectura-del-guayas-por-el-pse-la-ampliacion-de-concesiones-viales-tiene-que-ser-fiscalizada-nota/",
      "domain": "El Universo",
@@ -1012,6 +1012,12 @@
   },
   "PER": {
    "articles": [
+    {
+     "title": "Cusco: dos incendios forestales activos en Calca y La Convención",
+     "url": "https://elcomercio.pe/peru/cusco/cusco-dos-incendios-forestales-activos-en-calca-y-la-convencion-ultimas-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261011T193935Z"
+    },
     {
      "title": "Temblor en Perú hoy, domingo 11 de octubre: Epicentro y de cuántos grados fue el sismo en Arequipa",
      "url": "https://elcomercio.pe/peru/temblor-hoy-en-peru-en-vivo-reportes-del-igp-lugar-magnitud-y-ultimo-minuto-tdpe-noticia/",
@@ -1060,16 +1066,34 @@
   "ARG": {
    "articles": [
     {
-     "title": "Aníbal Pordomingo, investigador del INTA: “El país tiene un margen de crecimiento del 30 al 40% en su peso medio de faena”",
-     "url": "https://www.lanacion.com.ar/economia/campo/anibal-pordomingo-investigador-del-inta-el-pais-tiene-un-margen-de-crecimiento-del-30-al-40-en-su-nid11102026/",
+     "title": "Solo 14 provincias y la ciudad tienen pediatras en una especialidad clave para evitar secuelas con un diagnóstico precoz",
+     "url": "https://www.lanacion.com.ar/sociedad/solo-14-provincias-y-la-ciudad-tienen-reumatologos-pediatras-en-la-mayoria-apenas-hay-uno-nid11102026/",
      "domain": "La Nación",
-     "seendate": "20261011T190904Z"
+     "seendate": "20261011T193831Z"
+    },
+    {
+     "title": "Investigan la solvencia de un municipio, clubes de fútbol y presuntos “soldaditos” que operaron con Sur Finanzas",
+     "url": "https://www.lanacion.com.ar/politica/investigan-la-solvencia-de-un-municipio-clubes-de-futbol-y-presuntos-soldaditos-que-operaron-con-sur-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261011T192938Z"
+    },
+    {
+     "title": "Frase destacada del día, Stephen Hawking, físico: “El mayor enemigo del conocimiento no es la ignorancia, sino la ilusión del conocimiento”",
+     "url": "https://www.lanacion.com.ar/sociedad/frase-destacada-del-dia-stephen-hawking-fisico-el-mayor-enemigo-del-conocimiento-no-es-la-ignorancia-nid10102026/",
+     "domain": "La Nación",
+     "seendate": "20261011T192459Z"
     },
     {
      "title": "El mensaje de Milei al Papa tras el anuncio de su problema de salud: “Toda la Argentina lo acompaña”",
      "url": "https://www.lanacion.com.ar/politica/el-mensaje-de-milei-al-papa-tras-el-anuncio-de-su-problema-de-salud-toda-la-argentina-lo-acompana-nid11102026/",
      "domain": "La Nación",
-     "seendate": "20261011T190621Z"
+     "seendate": "20261011T191310Z"
+    },
+    {
+     "title": "Aníbal Pordomingo, investigador del INTA: “El país tiene un margen de crecimiento del 30 al 40% en su peso medio de faena”",
+     "url": "https://www.lanacion.com.ar/economia/campo/anibal-pordomingo-investigador-del-inta-el-pais-tiene-un-margen-de-crecimiento-del-30-al-40-en-su-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261011T190904Z"
     },
     {
      "title": "Crecida del río Uruguay: evacuaron familias en Concordia y hay alerta en Corrientes y Entre Ríos por El Niño",
@@ -1100,12 +1124,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/que-son-las-cadenas-miofasciales-los-ejercicios-disruptivos-que-revolucionaron-la-forma-de-practicar-nid11102026/",
      "domain": "La Nación",
      "seendate": "20261011T180000Z"
-    },
-    {
-     "title": "Solo 14 provincias y la ciudad tienen pediatras en una especialidad clave para evitar secuelas con un diagnóstico precoz",
-     "url": "https://www.lanacion.com.ar/sociedad/solo-14-provincias-y-la-ciudad-tienen-reumatologos-pediatras-en-la-mayoria-apenas-hay-uno-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T170324Z"
     },
     {
      "title": "Mario Alonso Puig, médico y referente en desarrollo personal: “El miedo casi nunca aparece donde no hay nada que valga la pena”",
@@ -1238,66 +1256,6 @@
      "url": "https://www.lanacion.com.ar/economia/cuanto-cobran-los-jubilados-en-octubre-de-2026-con-el-nuevo-bono-confirmado-nid29092026/",
      "domain": "La Nación",
      "seendate": "20261011T132743Z"
-    },
-    {
-     "title": "Con bono oficial y aumento confirmado: este es el monto que cobran los jubilados de la Anses en octubre 2026",
-     "url": "https://www.lanacion.com.ar/economia/con-bono-oficial-y-aumento-confirmado-este-es-el-monto-que-cobran-los-jubilados-de-la-anses-en-nid28092026/",
-     "domain": "La Nación",
-     "seendate": "20261011T132739Z"
-    },
-    {
-     "title": "Cuánto cobran de mínima los jubilados de la Anses en octubre 2026 con el aumento oficial",
-     "url": "https://www.lanacion.com.ar/economia/cuanto-cobran-de-minima-los-jubilados-de-la-anses-en-octubre-2026-con-el-aumento-oficial-nid23092026/",
-     "domain": "La Nación",
-     "seendate": "20261011T132736Z"
-    },
-    {
-     "title": "Cambios en la Libreta AUH: las acreditaciones de la Asignación Universal serán automáticas y ya no habrá que presentar certificados",
-     "url": "https://www.lanacion.com.ar/economia/cambios-en-la-libreta-auh-las-acreditaciones-de-la-asignacion-universal-seran-automaticas-y-ya-no-nid17092026/",
-     "domain": "La Nación",
-     "seendate": "20261011T132734Z"
-    },
-    {
-     "title": "Pagos Anses: a cuánto llega la PUAM en octubre de 2026 con el aumento confirmado",
-     "url": "https://www.lanacion.com.ar/economia/pagos-anses-a-cuanto-llega-la-puam-en-octubre-de-2026-con-el-aumento-confirmado-nid17092026/",
-     "domain": "La Nación",
-     "seendate": "20261011T132731Z"
-    },
-    {
-     "title": "Calendario PNC de la Anses: cuál es el monto de las Pensiones no Contributivas en octubre de 2026",
-     "url": "https://www.lanacion.com.ar/economia/calendario-pnc-de-la-anses-cual-es-el-monto-de-las-pensiones-no-contributivas-en-octubre-de-2026-nid16092026/",
-     "domain": "La Nación",
-     "seendate": "20261011T132728Z"
-    },
-    {
-     "title": "Asignación Universal por Hijo de Anses: de cuánto es la AUH en octubre, con el aumento confirmado",
-     "url": "https://www.lanacion.com.ar/economia/asignacion-universal-por-hijo-de-anses-de-cuanto-es-la-auh-en-octubre-con-el-aumento-confirmado-nid15092026/",
-     "domain": "La Nación",
-     "seendate": "20261011T132722Z"
-    },
-    {
-     "title": "Jubilaciones de Anses: cuánto se cobra en octubre 2026, con el bono y el aumento confirmado",
-     "url": "https://www.lanacion.com.ar/economia/jubilaciones-de-anses-cuanto-se-cobra-en-octubre-2026-con-el-bono-y-el-aumento-confirmado-nid14092026/",
-     "domain": "La Nación",
-     "seendate": "20261011T132719Z"
-    },
-    {
-     "title": "Cuándo cobro Anses: el calendario completo de octubre 2026",
-     "url": "https://www.lanacion.com.ar/economia/cuando-cobro-anses-el-calendario-completo-de-octubre-2026-nid30092026/",
-     "domain": "La Nación",
-     "seendate": "20261011T132716Z"
-    },
-    {
-     "title": "Miden 13 cm y pesan casi un kilo: Gendarmería recuperó seis huevos de ñandú que iban escondidos de forma ilegal debajo del asiento de un auto en la Patagonia",
-     "url": "https://www.lanacion.com.ar/sociedad/miden-13-cm-y-pesan-casi-un-kilo-gendarmeria-recupero-seis-huevos-de-nandu-que-iban-escondidos-de-nid08102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T132710Z"
-    },
-    {
-     "title": "Cardenales, jilgueros y reinamoras: recuperaron 88 aves del tráfico clandestino, los rehabilitaron e hicieron una liberación masiva en Zárate",
-     "url": "https://www.lanacion.com.ar/sociedad/cardenales-jilgueros-y-reinamoras-recuperaron-88-aves-del-trafico-clandestino-los-rehabilitaron-e-nid07102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T132706Z"
     }
    ]
   },
@@ -1313,6 +1271,12 @@
   },
   "PRY": {
    "articles": [
+    {
+     "title": "Las instituciones del Estado que le fallaron a Deisy: sin cambios, habrá más feminicidios, alerta abogada",
+     "url": "https://www.abc.com.py/nacionales/2026/10/11/las-instituciones-del-estado-que-le-fallaron-a-deisy-gimenez-sin-cambios-habra-mas-feminicidios-alerta-abogada/",
+     "domain": "ABC Color",
+     "seendate": "20261011T192212Z"
+    },
     {
      "title": "Día Nacional de Lucha contra la Obesidad: el 69% de los adultos en Paraguay padece exceso de peso",
      "url": "https://www.abc.com.py/nacionales/2026/10/11/dia-nacional-de-lucha-contra-la-obesidad-el-69-de-los-adultos-en-paraguay-padece-exceso-de-peso/",
