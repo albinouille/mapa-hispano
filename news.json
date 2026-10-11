@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T16:50:12+00:00",
+ "updated": "2026-10-11T17:17:09+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -42,12 +42,6 @@
     {
      "title": "El gran enfado salta a las urnas",
      "url": "https://elpais.com/espana/elecciones-generales/2026-10-11/el-gran-enfado-salta-a-las-urnas.html",
-     "domain": "El País",
-     "seendate": "20261011T033001Z"
-    },
-    {
-     "title": "Una hora de tregua en Ceuta: la lavandería que iguala a policías y migrantes",
-     "url": "https://elpais.com/espana/2026-10-11/una-hora-de-tregua-en-ceuta-la-lavanderia-que-iguala-a-policias-y-migrantes.html",
      "domain": "El País",
      "seendate": "20261011T033001Z"
     },
@@ -258,24 +252,6 @@
      "url": "https://www.eluniversal.com.mx/metropoli/reportan-conato-de-incendio-en-restaurante-bar-de-tlalpan-una-mujer-resulta-con-quemaduras/",
      "domain": "El Universal",
      "seendate": "20261011T034004Z"
-    },
-    {
-     "title": "Gobierno de Nayarit declara Ley seca por \"Simon\"; ordenan impedir que personas permanezan dentro del mar o en sitios peligrosos",
-     "url": "https://www.eluniversal.com.mx/estados/gobierno-de-nayarit-declara-ley-seca-por-simon-ordenan-impedir-que-personas-permanezan-dentro-del-mar-o-en-sitios-peligrosos/",
-     "domain": "El Universal",
-     "seendate": "20261011T032457Z"
-    },
-    {
-     "title": "Huracán Simon: fuertes olas golpean el malecón de Puerto Vallarta; elementos federales y estatales realizan patrullajes",
-     "url": "https://www.eluniversal.com.mx/estados/huracan-simon-fuertes-olas-golpean-el-malecon-de-puerto-vallarta-elementos-federales-y-estatales-realizan-patrullajes/",
-     "domain": "El Universal",
-     "seendate": "20261011T022602Z"
-    },
-    {
-     "title": "Sheinbaum llama a la población a resguardarse tras intensificación de huracán Simon a categoría 3; pide mantenerse informado",
-     "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-llama-a-la-poblacion-a-resguardarse-tras-intensificacion-de-huracan-simon-a-categoria-3-pide-mantenerse-informado/",
-     "domain": "El Universal",
-     "seendate": "20261010T043646Z"
     }
    ]
   },
@@ -462,12 +438,6 @@
      "url": "https://www.nacion.com/el-pais/cnfl-programa-cortes-de-luz-en-san-jose-este/LVNUIRACUFGFXLT6NA42QU6KNE/story/",
      "domain": "La Nación",
      "seendate": "20261010T145500Z"
-    },
-    {
-     "title": "Hace 50 años: el Ministerio de Seguridad Pública ordenó redadas en San José",
-     "url": "https://www.nacion.com/el-pais/hace-50-anos-el-ministerio-de-seguridad-publica/3JANTXTY3ZACFD4SUL7JZOT2SU/story/",
-     "domain": "La Nación",
-     "seendate": "20261010T133000Z"
     }
    ]
   },
@@ -788,7 +758,13 @@
      "title": "Un extranjero murió durante el primer día del festival de música electrónica EDC en la Unidad Deportiva Atanasio Girardot de Medellín",
      "url": "https://www.eltiempo.com/colombia/medellin/un-extranjero-murio-durante-el-primer-dia-del-festival-de-musica-electronica-edc-en-la-unidad-deportiva-atanasio-girardot-de-medellin-3592891",
      "domain": "El Tiempo",
-     "seendate": "20261011T162359Z"
+     "seendate": "20261011T170907Z"
+    },
+    {
+     "title": "Ataque con explosivos y ráfagas de fusil contra base militar en Toribío, Cauca: cinco veredas permanecen confinadas",
+     "url": "https://www.eltiempo.com/colombia/santander/ataque-con-explosivos-y-rafagas-de-fusil-contra-base-militar-en-toribio-cauca-cinco-veredas-permanecen-confinadas-3592896",
+     "domain": "El Tiempo",
+     "seendate": "20261011T164607Z"
     },
     {
      "title": "Nairo Quintana se despidió en Cartagena con un Gran Fondo de 186 kilómetros que reunió a Froome, Contador, Urán y miles de ciclistas de 21 países",
@@ -833,12 +809,6 @@
      "seendate": "20261011T030100Z"
     },
     {
-     "title": "El capricho, la millonaria multa y la falsa reunión que habrían antecedido el homicidio del mejor montador de mulas de Colombia en Antioquia",
-     "url": "https://www.eltiempo.com/colombia/medellin/el-capricho-operativo-la-millonaria-multa-y-la-falsa-reunion-que-habrian-antecedido-el-homicidio-del-mejor-montador-de-mulas-de-colombia-en-antioquia-3592790",
-     "domain": "El Tiempo",
-     "seendate": "20261010T231222Z"
-    },
-    {
      "title": "Más de 300 taxistas del aeropuerto de Barranquilla serán capacitados para convertirse en promotores turísticos",
      "url": "https://www.eltiempo.com/colombia/barranquilla/mas-de-300-taxistas-del-aeropuerto-de-barranquilla-seran-capacitados-para-convertirse-en-promotores-turisticos-3592803",
      "domain": "El Tiempo",
@@ -870,6 +840,12 @@
   },
   "ECU": {
    "articles": [
+    {
+     "title": "Distribución de kits electorales avanza a escala nacional para los comicios seccionales del 29 de noviembre",
+     "url": "https://eluniverso.com/politica/elecciones/distribucion-de-kits-electorales-avanza-a-escala-nacional-para-los-comicios-del-29-de-noviembre-nota/",
+     "domain": "El Universo",
+     "seendate": "20261011T164445Z"
+    },
     {
      "title": "Consejo de la Judicatura y la magistratura de Italia firman un memorando de cooperación técnica contra el crimen organizado",
      "url": "https://eluniverso.com/politica/expedientes/consejo-de-la-judicatura-y-la-magistratura-de-italia-firman-un-memorando-de-cooperacion-tecnica-contra-el-crimen-organizado-nota/",
@@ -985,12 +961,6 @@
      "seendate": "20261010T194011Z"
     },
     {
-     "title": "Alias ‘Fito’, ‘Pipo’ y ‘Gato Negro’, entre los 56 objetivos de alto valor de Ecuador que han sido detenidos desde noviembre de 2023: así fueron sus capturas",
-     "url": "https://eluniverso.com/politica/seguridad/alias-fito-pipo-y-gato-negro-entre-los-56-objetivos-de-alto-valor-de-ecuador-que-han-sido-detenidos-desde-noviembre-de-2023-asi-fueron-sus-capturas-nota/",
-     "domain": "El Universo",
-     "seendate": "20261010T184256Z"
-    },
-    {
      "title": "Bellavista, el barrio de Portoviejo que vio crecer a Shyare Andrade, primera finalista del Miss Grand International",
      "url": "https://eluniverso.com/comunidad/ecuador/shyare-andrade-el-barrio-de-portoviejo-donde-crecio-nota/",
      "domain": "El Universo",
@@ -1001,12 +971,6 @@
      "url": "https://eluniverso.com/comunidad/ecuador/el-clima-esta-excelente-turistas-disfrutan-de-las-playas-de-santa-elena-durante-el-feriado-nota/",
      "domain": "El Universo",
      "seendate": "20261010T171749Z"
-    },
-    {
-     "title": "Operativo militar en Quito termina con la incautación de más de 44 carabinas, 7 pistolas y 2 subametralladoras",
-     "url": "https://eluniverso.com/politica/seguridad/operativo-militar-en-quito-termina-con-la-incautacion-de-mas-de-40-carabinas-7-pistolas-y-2-subametralladoras-nota/",
-     "domain": "El Universo",
-     "seendate": "20261010T144510Z"
     },
     {
      "title": "Operativo militar contra la minería ilegal afecta en $ 3,6 millones a Los Lobos en El Oro",
@@ -1071,6 +1035,18 @@
   },
   "ARG": {
    "articles": [
+    {
+     "title": "Solo 14 provincias y la ciudad tienen pediatras en una especialidad clave para evitar secuelas con un diagnóstico precoz",
+     "url": "https://www.lanacion.com.ar/sociedad/solo-14-provincias-y-la-ciudad-tienen-reumatologos-pediatras-en-la-mayoria-apenas-hay-uno-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261011T170324Z"
+    },
+    {
+     "title": "Mario Alonso Puig, médico y referente en desarrollo personal: “El miedo casi nunca aparece donde no hay nada que valga la pena”",
+     "url": "https://www.lanacion.com.ar/sociedad/mario-alonso-puig-medico-y-referente-en-desarrollo-personal-el-miedo-casi-nunca-aparece-donde-no-hay-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261011T170000Z"
+    },
     {
      "title": "Aterosclerosis y trombosis: alimentaron animales con remolacha forrajera y el resultado fue sorprendente",
      "url": "https://www.lanacion.com.ar/economia/campo/aterosclerosis-y-trombosis-alimentaron-animales-con-remolacha-forrajera-y-el-resultado-fue-nid11102026/",
@@ -1340,12 +1316,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/dia-de-la-madre-2026-que-domingo-de-octubre-cae-en-la-argentina-nid01102026/",
      "domain": "La Nación",
      "seendate": "20261011T132528Z"
-    },
-    {
-     "title": "Cuándo es el Día de la Madre 2026 en la Argentina",
-     "url": "https://www.lanacion.com.ar/sociedad/cuando-es-el-dia-de-la-madre-2026-en-la-argentina-nid22092026/",
-     "domain": "La Nación",
-     "seendate": "20261011T132525Z"
     }
    ]
   },
@@ -1362,6 +1332,18 @@
   "PRY": {
    "articles": [
     {
+     "title": "Aumenta la cantidad de damnificados en Ciudad del Este",
+     "url": "https://www.abc.com.py/nacionales/2026/10/11/aumenta-la-cantidad-de-damnificados-en-ciudad-del-este/",
+     "domain": "ABC Color",
+     "seendate": "20261011T170047Z"
+    },
+    {
+     "title": "Caso Deisy Giménez: “La Justicia debe llegar antes de que la violencia sea una tragedia”",
+     "url": "https://www.abc.com.py/nacionales/2026/10/11/caso-deisy-gimenez-la-justicia-debe-llegar-antes-de-que-la-violencia-sea-una-tragedia/",
+     "domain": "ABC Color",
+     "seendate": "20261011T164737Z"
+    },
+    {
      "title": "Obispo de Caacupé advierte que los vicios destruyen familias y alimentan la violencia",
      "url": "https://www.abc.com.py/nacionales/2026/10/11/obispo-de-caacupe-advierte-que-los-vicios-destruyen-familias-y-alimentan-la-violencia/",
      "domain": "ABC Color",
@@ -1372,18 +1354,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/11/catedral-de-asuncion-recibio-a-cientos-de-devotos-de-san-miguel-arcangel/",
      "domain": "ABC Color",
      "seendate": "20261011T144154Z"
-    },
-    {
-     "title": "Consejo de la Magistratura busca evitar “cuellos de botella” en concursos y ternas",
-     "url": "https://www.abc.com.py/nacionales/2026/10/11/consejo-de-la-magistratura-busca-evitar-cuellos-de-botella-en-concursos-y-ternas/",
-     "domain": "ABC Color",
-     "seendate": "20261011T130711Z"
-    },
-    {
-     "title": "Nivel de los ríos: ¿dónde subieron y dónde bajaron las aguas?",
-     "url": "https://www.abc.com.py/nacionales/2026/10/11/nivel-de-los-rios-donde-subieron-y-donde-bajaron-las-aguas/",
-     "domain": "ABC Color",
-     "seendate": "20261011T123859Z"
     }
    ]
   },
@@ -1392,6 +1362,18 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "Entenda o que acontece com investigação sobre Douglas Ruas após eleição",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/11/entenda-o-que-acontece-com-investigacao-sobre-douglas-ruas-apos-eleicao.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261011T165947Z"
+    },
+    {
+     "title": "Lula, Alckmin e aliados participam de ato na avenida Paulista neste domingo",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/11/lula-alckmin-e-aliados-participam-de-ato-na-avenida-paulista-neste-domingo.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261011T165032Z"
+    },
     {
      "title": "Lula critica TSE por derrubar canal de WhatsApp: 'Decisões tendenciosas contra a nossa candidatura'",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/11/lula-critica-tse-por-derrubar-canal-de-whatsapp-decisoes-tendenciosas-contra-a-nossa-candidatura.ghtml",
