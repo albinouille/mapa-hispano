@@ -23,6 +23,11 @@ L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
   maxZoom: 8
 }).addTo(map);
 
+// Les repères (sismos, événements) vivent sur un calque au-dessus des pays,
+// pour qu'un pays sélectionné ne les recouvre jamais.
+map.createPane("markers");
+map.getPane("markers").style.zIndex = 450;
+
 const $ = (id) => document.getElementById(id);
 const days = () => +$("timespan").value;
 
@@ -148,17 +153,27 @@ function renderItems(items) {
     link.rel = "noopener noreferrer";
     link.textContent = a.title;
     li.append(link);
+    const meta = document.createElement("div");
+    meta.className = "meta";
     if (!currentIso && a.iso && COUNTRIES[a.iso]) {
       const tag = document.createElement("button");
       tag.type = "button";
       tag.className = "tag";
       tag.textContent = COUNTRIES[a.iso].name;
       tag.addEventListener("click", () => selectIso(a.iso, true));
-      li.append(tag);
+      meta.appendChild(tag);
     }
-    const meta = document.createElement("small");
+    const src = document.createElement("span");
+    src.className = "src";
+    src.textContent = a.domain || "";
+    meta.appendChild(src);
     const seen = parseSeen(a.seendate);
-    meta.textContent = seen ? `${a.domain} · ${timeAgo(seen)}` : a.domain;
+    if (seen) {
+      const when = document.createElement("span");
+      when.className = "when";
+      when.textContent = timeAgo(seen);
+      meta.appendChild(when);
+    }
     li.append(meta);
     list.appendChild(li);
   }
@@ -219,7 +234,8 @@ function render() {
 
 /* ---------- Carte : pays et actividad mediática ---------- */
 
-const RAMP = ["#fde8d4", "#f9c49a", "#f4a261", "#e8590c", "#a63a08"];
+const RAMP = ["#34322b", "#5f5438", "#8f7c52", "#b9a577", "#dccb9f"];
+const EMPTY_FILL = "#26272d";
 
 function computeActivity() {
   const counts = {};
@@ -233,23 +249,23 @@ function computeActivity() {
 
 function styleFor(iso) {
   const selected = iso === currentIso;
-  let fill = "#f4a261";
-  let opacity = 0.4;
+  let fill = "#cdb78a";
+  let opacity = 0.22;
   if ($("toggle-activity").checked && newsData) {
     const n = activity.counts[iso] || 0;
     if (n === 0 || activity.max === 0) {
-      fill = "#e9ecef";
+      fill = EMPTY_FILL;
     } else {
       const idx = Math.min(RAMP.length - 1, Math.ceil((n / activity.max) * RAMP.length) - 1);
       fill = RAMP[idx];
     }
-    opacity = 0.75;
+    opacity = 0.9;
   }
   return {
-    color: "#7a2e0e",
-    weight: selected ? 3 : 1,
+    color: selected ? "#fffaf0" : "#8f7a4e",
+    weight: selected ? 2.5 : 0.8,
     fillColor: fill,
-    fillOpacity: selected ? 0.9 : opacity
+    fillOpacity: selected ? 1 : opacity
   };
 }
 
@@ -287,10 +303,7 @@ function clearSelection() {
 const legend = L.control({ position: "bottomleft" });
 legend.onAdd = () => {
   const div = L.DomUtil.create("div", "legend");
-  div.innerHTML =
-    "<span>Menos</span>" +
-    RAMP.map((c) => `<i style="background:${c}"></i>`).join("") +
-    "<span>Más titulares</span>";
+  div.innerHTML = '<span>Menos</span><span class="bar"></span><span>Más titulares</span>';
   return div;
 };
 legend.addTo(map);
@@ -314,11 +327,12 @@ function drawQuakes() {
     if (!(p.time >= cutoff) || !inRegion(lat, lon)) continue;
     const m = p.mag || 0;
     L.circleMarker([lat, lon], {
+      pane: "markers",
       radius: 3 + m * 1.8,
-      color: "#7a0c0c",
+      color: "#f0b8a8",
       weight: 1,
-      fillColor: m >= 5 ? "#c92a2a" : m >= 4 ? "#e8590c" : "#f59f00",
-      fillOpacity: 0.6
+      fillColor: m >= 5 ? "#e0583f" : m >= 4 ? "#d1745f" : "#b98778",
+      fillOpacity: 0.8
     })
       .bindPopup(
         popupEl(`Sismo M${m.toFixed(1)}`, [p.place || "", new Date(p.time).toLocaleString("es-ES")], p.url)
@@ -345,19 +359,19 @@ async function loadQuakes() {
 /* ---------- Événements naturels (NASA EONET) ---------- */
 
 const EVENT_COLORS = {
-  wildfires: "#e8590c",
-  volcanoes: "#c92a2a",
-  severeStorms: "#1c7ed6",
-  floods: "#0b7285",
-  drought: "#a67c00",
-  landslides: "#6f4e37",
-  earthquakes: "#c92a2a",
-  seaLakeIce: "#74c0fc",
-  dustHaze: "#868e96",
-  snow: "#74c0fc",
-  tempExtremes: "#f03e3e",
-  waterColor: "#12b886",
-  manmade: "#495057"
+  wildfires: "#d1745f",
+  volcanoes: "#e0583f",
+  severeStorms: "#8fb4c9",
+  floods: "#6f9bb3",
+  drought: "#b59a5f",
+  landslides: "#9c8570",
+  earthquakes: "#e0583f",
+  seaLakeIce: "#b9d3e0",
+  dustHaze: "#a8a294",
+  snow: "#d6e3ea",
+  tempExtremes: "#e0883f",
+  waterColor: "#7fb3a4",
+  manmade: "#8a8a90"
 };
 const EVENT_LABELS = {
   wildfires: "Incendio",
@@ -399,11 +413,12 @@ function drawEvents() {
     if (!(when.getTime() >= cutoff)) continue;
     const cat = (ev.categories || [])[0] || {};
     L.circleMarker([pt.lat, pt.lon], {
+      pane: "markers",
       radius: 7,
-      color: "#222",
-      weight: 1,
-      fillColor: EVENT_COLORS[cat.id] || "#495057",
-      fillOpacity: 0.85
+      color: "#15161a",
+      weight: 1.5,
+      fillColor: EVENT_COLORS[cat.id] || "#8a8a90",
+      fillOpacity: 0.9
     })
       .bindPopup(
         popupEl(
@@ -499,7 +514,7 @@ fetch(GEOJSON_URL)
   .then((geo) => {
     L.geoJSON(geo, {
       filter: (f) => f.id in COUNTRIES,
-      style: () => ({ color: "#7a2e0e", weight: 1, fillColor: "#f4a261", fillOpacity: 0.4 }),
+      style: (f) => styleFor(f.id),
       onEachFeature: (f, layer) => {
         countryLayers[f.id] = layer;
         layer.bindTooltip(() => tooltipText(f.id), { sticky: true });
