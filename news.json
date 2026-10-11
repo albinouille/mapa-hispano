@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T16:17:41+00:00",
+ "updated": "2026-10-11T16:50:12+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -97,6 +97,18 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Marco Bonilla asume coordinación estatal para la Defensa de la Patria, la Familia y la Libertad en Chihuahua; PAN perfila rumbo a 2027",
+     "url": "https://www.eluniversal.com.mx/estados/marco-bonilla-asume-coordinacion-estatal-para-la-defensa-de-la-patria-la-familia-y-la-libertad-en-chihuahua-pan-perfila-rumbo-a-2027/",
+     "domain": "El Universal",
+     "seendate": "20261011T163846Z"
+    },
+    {
+     "title": "Sheinbaum llama a la población a resguardarse por huracán Simón categoría 4; pide esperar a que el peligro termine",
+     "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-llama-a-la-poblacion-a-resguardarse-por-huracan-simon-categoria-4-pide-esperar-a-que-el-peligro-termine/",
+     "domain": "El Universal",
+     "seendate": "20261011T161432Z"
+    },
     {
      "title": "Senado amplía plazo para dictaminar ley de feminicidio, anuncia Higinio Martínez; alista diálogos con víctimas y especialistas",
      "url": "https://www.eluniversal.com.mx/nacion/senado-amplia-plazo-para-dictaminar-ley-de-feminicidio-anuncia-higinio-martinez-alista-dialogos-con-victimas-y-especialistas/",
@@ -260,24 +272,6 @@
      "seendate": "20261011T022602Z"
     },
     {
-     "title": "Defensa mantiene Plan DN-III-E en Colima, Jalisco y Nayarit por Huracán Simon; despliega a casi 3 mil elementos",
-     "url": "https://www.eluniversal.com.mx/nacion/defensa-mantiene-plan-dn-iii-e-en-colima-jalisco-y-nayarit-por-huracan-simon-despliega-a-casi-3-mil-elementos/",
-     "domain": "El Universal",
-     "seendate": "20261010T230548Z"
-    },
-    {
-     "title": "Reportan compras de pánico y largas filas en gasolineras ante llegada del huracán “Simon” a Puerto Vallarta; se esperan lluvias y fuertes vientos",
-     "url": "https://www.eluniversal.com.mx/estados/reportan-compras-de-panico-y-largas-filas-en-gasolineras-ante-llegada-del-huracan-simon-a-puerto-vallarta-se-esperan-lluvias-y-fuertes-vientos/",
-     "domain": "El Universal",
-     "seendate": "20261010T200830Z"
-    },
-    {
-     "title": "De acuerdo a la trayectoria, Simon tocará tierra este domingo en Jalisco, informa Sheinbaum; 4 estados suspenden actividades no esenciales",
-     "url": "https://www.eluniversal.com.mx/nacion/de-acuerdo-a-la-trayectoria-simon-tocara-tierra-este-domingo-en-jalisco-informa-sheinbaum-4-estados-suspenden-actividades-no-esenciales/",
-     "domain": "El Universal",
-     "seendate": "20261010T185243Z"
-    },
-    {
      "title": "Sheinbaum llama a la población a resguardarse tras intensificación de huracán Simon a categoría 3; pide mantenerse informado",
      "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-llama-a-la-poblacion-a-resguardarse-tras-intensificacion-de-huracan-simon-a-categoria-3-pide-mantenerse-informado/",
      "domain": "El Universal",
@@ -367,6 +361,12 @@
   },
   "CRI": {
    "articles": [
+    {
+     "title": "Costarricense muere durante festival EDC de música electrónica en Medellín, Colombia",
+     "url": "https://www.nacion.com/sucesos/costarricense-muere-durante-festival-edc-de-musica/YTN35QSHERE35LA37DAC5PCR4M/story/",
+     "domain": "La Nación",
+     "seendate": "20261011T163313Z"
+    },
     {
      "title": "Corte de luz de Jasec afectará Guayabal y Finca los Romero en Cartago este martes 13 de octubre",
      "url": "https://www.nacion.com/el-pais/corte-de-luz-de-jasec-afectara-guayabal-y-finca/LUBDCN4RKBA5PCCXM4KNCCMOLQ/story/",
@@ -785,16 +785,16 @@
   "COL": {
    "articles": [
     {
+     "title": "Un extranjero murió durante el primer día del festival de música electrónica EDC en la Unidad Deportiva Atanasio Girardot de Medellín",
+     "url": "https://www.eltiempo.com/colombia/medellin/un-extranjero-murio-durante-el-primer-dia-del-festival-de-musica-electronica-edc-en-la-unidad-deportiva-atanasio-girardot-de-medellin-3592891",
+     "domain": "El Tiempo",
+     "seendate": "20261011T162359Z"
+    },
+    {
      "title": "Nairo Quintana se despidió en Cartagena con un Gran Fondo de 186 kilómetros que reunió a Froome, Contador, Urán y miles de ciclistas de 21 países",
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/nairo-quintana-se-despidio-en-cartagena-con-un-gran-fondo-de-186-kilometros-que-reunio-a-froome-contador-uran-y-miles-de-ciclistas-de-21-paises-3592889",
      "domain": "El Tiempo",
      "seendate": "20261011T154916Z"
-    },
-    {
-     "title": "Un extranjero murió durante el primer día del festival de música electrónica EDC en la Unidad Deportiva Atanasio Girardot de Medellín",
-     "url": "https://www.eltiempo.com/colombia/medellin/un-extranjero-murio-durante-el-primer-dia-del-festival-de-musica-electronica-edc-en-la-unidad-deportiva-atanasio-girardot-de-medellin-3592891",
-     "domain": "El Tiempo",
-     "seendate": "20261011T153520Z"
     },
     {
      "title": "Cámaras de seguridad siguieron la ruta de un camión robado en Sabanalarga y permitieron recuperarlo en Soledad: cuatro capturados",
@@ -991,12 +991,6 @@
      "seendate": "20261010T184256Z"
     },
     {
-     "title": "Este martes, juicio político al consejero David Rosero ingresará a resolución en el pleno de la Asamblea",
-     "url": "https://eluniverso.com/politica/asamblea-nacional/este-martes-13-juicio-politico-al-consejero-david-rosero-ingresara-a-resolucion-en-el-pleno-de-la-asamblea-nota/",
-     "domain": "El Universo",
-     "seendate": "20261010T182708Z"
-    },
-    {
      "title": "Bellavista, el barrio de Portoviejo que vio crecer a Shyare Andrade, primera finalista del Miss Grand International",
      "url": "https://eluniverso.com/comunidad/ecuador/shyare-andrade-el-barrio-de-portoviejo-donde-crecio-nota/",
      "domain": "El Universo",
@@ -1077,6 +1071,12 @@
   },
   "ARG": {
    "articles": [
+    {
+     "title": "Aterosclerosis y trombosis: alimentaron animales con remolacha forrajera y el resultado fue sorprendente",
+     "url": "https://www.lanacion.com.ar/economia/campo/aterosclerosis-y-trombosis-alimentaron-animales-con-remolacha-forrajera-y-el-resultado-fue-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261011T163535Z"
+    },
     {
      "title": "La Iglesia argentina pidió rezar por la salud del papa León XIV ante la operación a la que será sometido",
      "url": "https://www.lanacion.com.ar/politica/la-iglesia-argentina-pidio-rezar-por-la-salud-del-papa-leon-xiv-ante-la-operacion-a-la-que-sera-nid11102026/",
@@ -1346,12 +1346,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/cuando-es-el-dia-de-la-madre-2026-en-la-argentina-nid22092026/",
      "domain": "La Nación",
      "seendate": "20261011T132525Z"
-    },
-    {
-     "title": "Un especialista advirtió por qué crecen los castigos como método de disciplina",
-     "url": "https://www.lanacion.com.ar/sociedad/un-especialista-advirtio-por-que-crecen-los-castigos-como-metodo-de-disciplina-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T130000Z"
     }
    ]
   },
@@ -1399,6 +1393,12 @@
   "BRA": {
    "articles": [
     {
+     "title": "Lula critica TSE por derrubar canal de WhatsApp: 'Decisões tendenciosas contra a nossa candidatura'",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/11/lula-critica-tse-por-derrubar-canal-de-whatsapp-decisoes-tendenciosas-contra-a-nossa-candidatura.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261011T162016Z"
+    },
+    {
      "title": "Nunes Marques passa por cima de corregedor do TSE, atende pedido de Flávio Bolsonaro e manda derrubar canal 'Exército de Lula'",
      "url": "https://oglobo.globo.com/politica/noticia/2026/10/11/kassio-nunes-passa-por-cima-de-corregedor-atende-pedido-de-flavio-e-manda-derrubar-canal-exercito-de-lula.ghtml",
      "domain": "O Globo",
@@ -1433,30 +1433,6 @@
      "url": "https://oglobo.globo.com/politica/noticia/2026/10/11/ala-do-tse-ve-interferencia-de-nunes-marques-em-julgamentos-para-favorecer-flavio-bolsonaro.ghtml",
      "domain": "O Globo",
      "seendate": "20261011T080001Z"
-    },
-    {
-     "title": "'Mea culpa' petista vai além da campanha: os erros de gestão e articulação que custaram caro a Lula no 1º turno",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/11/mea-culpa-petista-vai-alem-da-campanha-os-erros-de-gestao-e-articulacao-que-custaram-caro-a-lula-no-1o-turno.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261011T063000Z"
-    },
-    {
-     "title": "PL tem crescimento expressivo na Câmara puxado por discurso ideológico e verba pública",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/11/pl-tem-crescimento-expressivo-na-camara-puxado-por-discurso-ideologico-e-verba-publica.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261011T063000Z"
-    },
-    {
-     "title": "Nova derrota de Paes reforça o obstáculo de prefeitos da capital na corrida pelo governo do Rio",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/11/nova-derrota-de-paes-reforca-o-obstaculo-de-prefeitos-da-capital-na-corrida-pelo-governo-do-rio.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261011T063000Z"
-    },
-    {
-     "title": "'Nunca funciona dizer que a economia vai bem se o eleitor não sente isso', aconselha Karl Rove, arquiteto das vitórias de Bush",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/11/nunca-funciona-dizer-que-a-economia-vai-bem-se-o-eleitor-nao-sente-isso-aconselha-karl-rove-arquiteto-das-vitorias-de-bush.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261011T063000Z"
     }
    ]
   }
