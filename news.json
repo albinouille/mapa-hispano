@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T20:48:58+00:00",
+ "updated": "2026-10-11T21:17:42+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -85,6 +85,30 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Habitantes de Monte Sinaí II, Chiapas, denuncian hombres armados; piden presencia permanente del Ejército",
+     "url": "https://www.eluniversal.com.mx/estados/habitantes-de-monte-sinai-ii-chiapas-denuncian-hombres-armados-piden-presencia-permanente-del-ejercito/",
+     "domain": "El Universal",
+     "seendate": "20261011T210317Z"
+    },
+    {
+     "title": "INE conmemora su 36 aniversario; refrenda su compromiso con la democracia",
+     "url": "https://www.eluniversal.com.mx/nacion/ine-conmemora-su-36-aniversario-refrenda-su-compromiso-con-la-democracia/",
+     "domain": "El Universal",
+     "seendate": "20261011T205946Z"
+    },
+    {
+     "title": "Detienen a dos jóvenes armados en Mocorito, Sinaloa; viajaban en una camioneta robada en Estados Unidos",
+     "url": "https://www.eluniversal.com.mx/estados/detienen-a-dos-jovenes-armados-en-mocorito-sinaloa-viajaban-en-una-camioneta-robada-en-estados-unidos/",
+     "domain": "El Universal",
+     "seendate": "20261011T205106Z"
+    },
+    {
+     "title": "Nuevo León enfrenta retos de vivienda y movilidad; especialista asegura que crecimiento económico no garantiza bienestar social",
+     "url": "https://www.eluniversal.com.mx/estados/nuevo-leon-enfrenta-retos-de-vivienda-y-movilidad-especialista-asegura-que-crecimiento-economico-no-garantiza-bienestar-social/",
+     "domain": "El Universal",
+     "seendate": "20261011T204707Z"
+    },
     {
      "title": "Suspenden clases en Baja California por tormenta tropical Rachel; medida aplica a todos los niveles educativos",
      "url": "https://www.eluniversal.com.mx/estados/suspenden-clases-en-baja-california-por-tormenta-tropical-rachel-medida-aplica-a-todos-los-niveles-educativos/",
@@ -284,46 +308,10 @@
      "seendate": "20261011T090100Z"
     },
     {
-     "title": "El miedo persiste en Poza Rica; vecinos del río Cazones aprenden a vivir con el agua",
-     "url": "https://www.eluniversal.com.mx/estados/el-miedo-persiste-en-poza-rica-vecinos-del-rio-cazones-aprenden-a-vivir-con-el-agua/",
-     "domain": "El Universal",
-     "seendate": "20261011T090000Z"
-    },
-    {
-     "title": "Partidos desaparecidos chupan miles de millones en los estados",
-     "url": "https://www.eluniversal.com.mx/nacion/partidos-desaparecidos-chupan-miles-de-millones-en-los-estados/",
-     "domain": "El Universal",
-     "seendate": "20261011T084609Z"
-    },
-    {
-     "title": "Pemex confirma ataque en refinería de Minatitlán, Veracruz; hay dos lesionados",
-     "url": "https://www.eluniversal.com.mx/estados/ataque-en-refineria-dos-lesionados/",
-     "domain": "El Universal",
-     "seendate": "20261011T084224Z"
-    },
-    {
-     "title": "Berkeley cuestiona el papel de la titular de la CNDH; la liga con Morena",
-     "url": "https://www.eluniversal.com.mx/nacion/berkeley-cuestiona-el-papel-de-la-titular-de-la-cndh-la-liga-con-morena/",
-     "domain": "El Universal",
-     "seendate": "20261011T081019Z"
-    },
-    {
-     "title": "Tijuana lidera lista de desaparecidos en el país: ONG",
-     "url": "https://www.eluniversal.com.mx/nacion/tijuana-lidera-lista-de-desaparecidos-en-el-pais-ong/",
-     "domain": "El Universal",
-     "seendate": "20261011T080128Z"
-    },
-    {
      "title": "Birmex adquiere 2.5 millones de vacunas covid por 31 mil mdp; entrega de inmunización será hasta 2030",
      "url": "https://www.eluniversal.com.mx/nacion/birmex-adquiere-25-millones-de-vacunas-covid-por-31-mil-mdp-entrega-de-inmunizacion-sera-hasta-2030/",
      "domain": "El Universal",
      "seendate": "20261011T072953Z"
-    },
-    {
-     "title": "Podemos ganar sin aliados, afirma Morena",
-     "url": "https://www.eluniversal.com.mx/nacion/podemos-ganar-sin-aliados-afirma-morena/",
-     "domain": "El Universal",
-     "seendate": "20261011T065528Z"
     }
    ]
   },
@@ -492,12 +480,6 @@
      "url": "https://www.nacion.com/politica/yorgina-alvarado-acude-al-ministerio-publico-y/EYGMFS3UHRH23EAOTBYZMGXU74/story/",
      "domain": "La Nación",
      "seendate": "20261010T165756Z"
-    },
-    {
-     "title": "OIJ y Fiscalía investigan presuntas agresiones a reos; Ministerio de Justicia niega maltratos en La Reforma",
-     "url": "https://www.nacion.com/sucesos/oij-y-fiscalia-investigan-presuntas-agresiones-a/ULQ4MCBILVDJLDUHRSY2GISXIY/story/",
-     "domain": "La Nación",
-     "seendate": "20261010T160330Z"
     }
    ]
   },
@@ -907,7 +889,19 @@
   "ECU": {
    "articles": [
     {
-     "title": "Más de 17.000 personas afectadas dejan las intensas lluvias en el país desde que se activó alerta roja por El Niño",
+     "title": "Lluvias y ráfagas de viento: nueva alerta del Inamhi para el Litoral y la cordillera occidental",
+     "url": "https://eluniverso.com/comunidad/ecuador/lluvias-y-rafagas-de-viento-nueva-alerta-del-inamhi-para-el-litoral-y-la-cordillera-occidental-nota/",
+     "domain": "El Universo",
+     "seendate": "20261011T210911Z"
+    },
+    {
+     "title": "¿A dónde fue el turismo este feriado? El ‘efecto Guayaquil’ que movió visitantes y compitió con las playas",
+     "url": "https://eluniverso.com/comunidad/ecuador/feriado-de-guayaquil-menos-turistas-en-manta-y-esmeraldas-nota/",
+     "domain": "El Universo",
+     "seendate": "20261011T210200Z"
+    },
+    {
+     "title": "Más de 17.000 personas afectadas por las intensas lluvias en el país desde que se activó alerta roja por El Niño",
      "url": "https://eluniverso.com/comunidad/ecuador/mas-de-17000-personas-afectadas-dejan-las-intensas-lluvias-en-el-pais-desde-que-se-activo-alerta-roja-por-el-nino-nota/",
      "domain": "El Universo",
      "seendate": "20261011T200136Z"
@@ -1033,18 +1027,6 @@
      "seendate": "20261010T224906Z"
     },
     {
-     "title": "Incendio forestal en el cerro Abuga moviliza a los bomberos de Azogues",
-     "url": "https://eluniverso.com/comunidad/ecuador/incendio-forestal-en-el-cerro-abuga-moviliza-a-bomberos-nota/",
-     "domain": "El Universo",
-     "seendate": "20261010T221614Z"
-    },
-    {
-     "title": "Radiación UV en Ecuador: el Inamhi pronostica niveles muy altos para este domingo, 11 de octubre",
-     "url": "https://eluniverso.com/comunidad/ecuador/radiacion-uv-en-ecuador-pronostico-del-inamhi-para-el-domingo-nota/",
-     "domain": "El Universo",
-     "seendate": "20261010T221057Z"
-    },
-    {
      "title": "Sofía Espín, candidata a la Prefectura del Guayas por el PSE: “La ampliación de concesiones viales tiene que ser fiscalizada”",
      "url": "https://eluniverso.com/politica/elecciones/sofia-espin-candidata-a-la-prefectura-del-guayas-por-el-pse-la-ampliacion-de-concesiones-viales-tiene-que-ser-fiscalizada-nota/",
      "domain": "El Universo",
@@ -1065,12 +1047,6 @@
      "url": "https://elcomercio.pe/peru/cusco/cusco-dos-incendios-forestales-activos-en-calca-y-la-convencion-ultimas-noticia/",
      "domain": "El Comercio",
      "seendate": "20261011T193935Z"
-    },
-    {
-     "title": "Reportes de temblor en Perú este 10 de octubre del 2026",
-     "url": "https://elcomercio.pe/peru/temblor-hoy-epicentro-magnitud-y-reporte-del-ultimo-sismo-en-peru-segun-igp-tdpe-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261011T015100Z"
     }
    ]
   },
@@ -1108,16 +1084,40 @@
   "ARG": {
    "articles": [
     {
-     "title": "Un joven recibió una golpiza a la salida de un boliche y un automovilista se metió en contramano para defenderlo",
-     "url": "https://www.lanacion.com.ar/seguridad/un-joven-recibio-una-golpiza-a-la-salida-de-un-boliche-y-un-automovilista-se-metio-en-contramano-nid11102026/",
+     "title": "Por el cambio de hábitos, ya hay 672 sucursales bancarias menos que hace siete años",
+     "url": "https://www.lanacion.com.ar/economia/por-el-cambio-de-habitos-ya-hay-672-sucursales-bancarias-menos-que-hace-siete-anos-nid11102026/",
      "domain": "La Nación",
-     "seendate": "20261011T204308Z"
+     "seendate": "20261011T211328Z"
     },
     {
      "title": "Murió un argentino en Punta Cana tras chocar contra un camión mientras circulaba en moto",
      "url": "https://www.lanacion.com.ar/sociedad/murio-un-argentino-en-punta-cana-tras-chocar-contra-un-camion-mientras-circulaba-en-moto-nid11102026/",
      "domain": "La Nación",
-     "seendate": "20261011T203814Z"
+     "seendate": "20261011T211157Z"
+    },
+    {
+     "title": "Golpearon, desnudaron y ataron a un árbol a un hombre acusado de asaltar a un repartidor en Quilmes",
+     "url": "https://www.lanacion.com.ar/seguridad/golpearon-desnudaron-y-ataron-a-un-arbol-a-un-hombre-acusado-de-asaltar-a-un-repartidor-en-quilmes-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261011T210943Z"
+    },
+    {
+     "title": "El Gobierno comenzó el traslado de presos de la cárcel de Devoto a Marcos Paz",
+     "url": "https://www.lanacion.com.ar/seguridad/el-gobierno-comenzo-el-traslado-de-presos-de-la-carcel-de-devoto-a-marcos-paz-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261011T210707Z"
+    },
+    {
+     "title": "La cirugía del Papa: qué es un nódulo pulmonar, cómo se opera y cuánto tarda la recuperación, según los expertos",
+     "url": "https://www.lanacion.com.ar/sociedad/la-cirugia-del-papa-que-es-un-nodulo-pulmonar-como-se-opera-y-cuanto-tarda-la-recuperacion-segun-los-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261011T205739Z"
+    },
+    {
+     "title": "Un joven recibió una golpiza a la salida de un boliche y un automovilista se metió en contramano para defenderlo",
+     "url": "https://www.lanacion.com.ar/seguridad/un-joven-recibio-una-golpiza-a-la-salida-de-un-boliche-y-un-automovilista-se-metio-en-contramano-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261011T204308Z"
     },
     {
      "title": "Crecida del río Uruguay: evacuaron familias en Concordia y hay alerta en Corrientes y Entre Ríos por El Niño",
@@ -1130,12 +1130,6 @@
      "url": "https://www.lanacion.com.ar/politica/el-mensaje-de-milei-al-papa-tras-el-anuncio-de-su-problema-de-salud-toda-la-argentina-lo-acompana-nid11102026/",
      "domain": "La Nación",
      "seendate": "20261011T202941Z"
-    },
-    {
-     "title": "El Gobierno comenzó el traslado de presos de la cárcel de Devoto a Marcos Paz",
-     "url": "https://www.lanacion.com.ar/seguridad/el-gobierno-comenzo-el-traslado-de-presos-de-la-carcel-de-devoto-a-marcos-paz-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T202721Z"
     },
     {
      "title": "Solo 14 provincias y la ciudad tienen pediatras en una especialidad clave para evitar secuelas con un diagnóstico precoz",
@@ -1244,12 +1238,6 @@
      "url": "https://www.lanacion.com.ar/economia/campo/alfredo-di-costanzo-de-la-universidad-de-minnesota-y-un-exito-de-eeuu-ahora-bajo-presion-productores-nid10102026/",
      "domain": "La Nación",
      "seendate": "20261011T145343Z"
-    },
-    {
-     "title": "Hay alerta amarilla por nevadas para este domingo 11 de octubre: las provincias afectadas",
-     "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-nevadas-para-este-domingo-11-de-octubre-las-provincias-afectadas-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T141937Z"
     }
    ]
   },
