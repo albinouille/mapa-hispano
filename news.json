@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T14:17:48+00:00",
+ "updated": "2026-10-11T14:49:14+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -504,12 +504,6 @@
      "url": "https://www.nacion.com/sucesos/14-carros-y-motocicletas-asi-habria-administrado/MOFPLC2HXVCHLOKVTMPIBJFQHA/story/",
      "domain": "La Nación",
      "seendate": "20261010T103000Z"
-    },
-    {
-     "title": "Inestabilidad en tipo de cambio desincentiva participación de empresas en contratos de obra pública",
-     "url": "https://www.nacion.com/el-pais/inestabilidad-en-tipo-de-cambio-desincentiva/RMIMWTVZLFATRKI44LCN2LG72A/story/",
-     "domain": "La Nación",
-     "seendate": "20261010T081500Z"
     }
    ]
   },
@@ -544,6 +538,12 @@
      "url": "https://www.prensa.com/sociedad/al-menos-600-viviendas-y-400-escuelas-resultaron-afectadas-en-el-pais-por-el-terremoto/",
      "domain": "La Prensa",
      "seendate": "20261011T033820Z"
+    },
+    {
+     "title": "Decretan estado de emergencia tras el terremoto de 7.5",
+     "url": "https://www.prensa.com/politica/consejo-de-gabinete-tras-el-terremoto-de-75-en-panama/",
+     "domain": "La Prensa",
+     "seendate": "20261011T025000Z"
     },
     {
      "title": "El Metro de Panamá realiza pruebas para el reinicio de operaciones",
@@ -586,12 +586,6 @@
      "url": "https://www.prensa.com/sociedad/por-que-no-se-pueden-comparar-los-terremotos-de-venezuela-y-panama/",
      "domain": "La Prensa",
      "seendate": "20261010T170844Z"
-    },
-    {
-     "title": "Decretan estado de emergencia tras el terremoto de 7.5",
-     "url": "https://www.prensa.com/politica/consejo-de-gabinete-tras-el-terremoto-de-75-en-panama/",
-     "domain": "La Prensa",
-     "seendate": "20261010T165757Z"
     },
     {
      "title": "Nerviosismo por las réplicas tras terremoto de 7.7 en Panamá, sin víctimas pero sí daños",
@@ -839,6 +833,12 @@
   "COL": {
    "articles": [
     {
+     "title": "Consejo de Estado niega indemnización a familias de víctimas de la explosión del carrotanque en Tasajera, que dejó 45 muertos en el Magdalena en 2020",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/consejo-de-estado-niega-indemnizacion-a-familias-de-victimas-de-la-explosion-del-carrotanque-en-tasajera-que-dejo-45-muertos-en-el-magdalena-en-3592876",
+     "domain": "El Tiempo",
+     "seendate": "20261011T142147Z"
+    },
+    {
      "title": "Atentado contra dos guardianes del Inpec en Barranquilla desata alerta del Gobierno: amenazas alcanzarían al presidente y al ministro de Justicia",
      "url": "https://www.eltiempo.com/colombia/barranquilla/atentado-contra-dos-guardianes-del-inpec-en-barranquilla-desata-alerta-del-gobierno-amenazas-alcanzarian-al-presidente-y-al-ministro-de-justicia-3592861",
      "domain": "El Tiempo",
@@ -891,12 +891,6 @@
      "url": "https://www.eltiempo.com/colombia/barranquilla/mas-de-250-000-vehiculos-circularian-por-las-vias-del-atlantico-durante-el-puente-festivo-estas-son-las-recomendaciones-para-viajar-3592793",
      "domain": "El Tiempo",
      "seendate": "20261010T204438Z"
-    },
-    {
-     "title": "Sincelejo reduce los homicidios y reporta caídas de hasta el 33 % en los principales delitos durante 2026",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/sincelejo-reduce-los-homicidios-y-reporta-caidas-de-hasta-el-33-en-los-principales-delitos-durante-3592788",
-     "domain": "El Tiempo",
-     "seendate": "20261010T202543Z"
     }
    ]
   },
@@ -931,7 +925,7 @@
      "seendate": "20261011T140000Z"
     },
     {
-     "title": "Fuerzas Armadas capturan a ocho presuntos miembros de Los Fatales en Monte Sinaí",
+     "title": "Fuerzas Armadas intervienen reunión y capturan a ocho presuntos miembros de Los Fatales en Monte Sinaí",
      "url": "https://eluniverso.com/politica/seguridad/fuerzas-armadas-capturan-a-ocho-presuntos-miembros-de-los-fatales-en-monte-sinai-nota/",
      "domain": "El Universo",
      "seendate": "20261011T135432Z"
@@ -1125,6 +1119,18 @@
   },
   "ARG": {
    "articles": [
+    {
+     "title": "Prisión preventiva para los dueños de la concesionaria de autos de Pilar acusados de estafar a sus clientes",
+     "url": "https://www.lanacion.com.ar/seguridad/prision-preventiva-para-los-duenos-de-la-concesionaria-de-autos-de-pilar-acusados-de-estafar-a-sus-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261011T143840Z"
+    },
+    {
+     "title": "Hay alerta amarilla por nevadas para este domingo 11 de octubre: las provincias afectadas",
+     "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-nevadas-para-este-domingo-11-de-octubre-las-provincias-afectadas-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261011T141937Z"
+    },
     {
      "title": "Con drenaje sostenible, suelo absorbente y farolas peatonales: la Ciudad recuperó un predio usurpado y lo transforma en un nuevo parque que promete beneficiar a más de 50.000 vecinos porteños",
      "url": "https://www.lanacion.com.ar/sociedad/con-drenaje-sostenible-suelo-absorbente-y-farolas-peatonales-la-ciudad-recupero-un-predio-usurpado-y-nid08102026/",
@@ -1342,12 +1348,6 @@
      "seendate": "20261011T132525Z"
     },
     {
-     "title": "Cobraron miles de dólares por autos y camionetas que nunca entregaron: prisión preventiva",
-     "url": "https://www.lanacion.com.ar/seguridad/prision-preventiva-para-los-duenos-de-la-concesionaria-de-autos-de-pilar-acusados-de-estafar-a-sus-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T130515Z"
-    },
-    {
      "title": "Un especialista advirtió por qué crecen los castigos como método de disciplina",
      "url": "https://www.lanacion.com.ar/sociedad/un-especialista-advirtio-por-que-crecen-los-castigos-como-metodo-de-disciplina-nid11102026/",
      "domain": "La Nación",
@@ -1376,24 +1376,6 @@
      "url": "https://www.lanacion.com.ar/economia/dolar/a-cuanto-abre-el-dolar-el-martes-13-de-octubre-nid10102026/",
      "domain": "La Nación",
      "seendate": "20261011T122436Z"
-    },
-    {
-     "title": "El Papa en Luján: las invitaciones que va a hacer Kicillof y los enviados de Milei a la misa en territorio opositor",
-     "url": "https://www.lanacion.com.ar/politica/el-papa-en-lujan-las-invitaciones-que-va-a-hacer-kicillof-y-los-enviados-de-milei-a-la-misa-en-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T104714Z"
-    },
-    {
-     "title": "La controversia por la ley de Tierras avivó las diferencias internas en la Corte Suprema",
-     "url": "https://www.lanacion.com.ar/politica/la-controversia-por-la-ley-de-tierras-avivo-las-diferencias-internas-en-la-corte-suprema-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T104038Z"
-    },
-    {
-     "title": "Gran Fondo Buenos Aires: qué autopistas y avenidas está cortadas este domingo por la carrera de ciclismo",
-     "url": "https://www.lanacion.com.ar/sociedad/gran-fondo-buenos-aires-que-autopistas-y-avenidas-esta-cortadas-este-domingo-por-la-carrera-de-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T103434Z"
     }
    ]
   },
@@ -1409,6 +1391,12 @@
   },
   "PRY": {
    "articles": [
+    {
+     "title": "Catedral de Asunción recibió a cientos de devotos de San Miguel Arcángel",
+     "url": "https://www.abc.com.py/nacionales/2026/10/11/catedral-de-asuncion-recibio-a-cientos-de-devotos-de-san-miguel-arcangel/",
+     "domain": "ABC Color",
+     "seendate": "20261011T144154Z"
+    },
     {
      "title": "Consejo de la Magistratura busca evitar “cuellos de botella” en concursos y ternas",
      "url": "https://www.abc.com.py/nacionales/2026/10/11/consejo-de-la-magistratura-busca-evitar-cuellos-de-botella-en-concursos-y-ternas/",
@@ -1428,6 +1416,12 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "CNBB cita dia de Nossa Senhora e envia oração ao Papa Leão XIV: 'confiamos sua saúde à intercessão da Padroeira do Brasil'",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/11/cnbb-cita-dia-de-nossa-senhora-e-envia-oracao-ao-papa-leao-xiv-confiamos-sua-saude-a-intercessao-da-padroeira-do-brasil.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261011T130945Z"
+    },
     {
      "title": "PM atira 45 vezes e mata jovem durante abordagem na Zona Sul de SP",
      "url": "https://oglobo.globo.com/brasil/noticia/2026/10/11/pm-atira-45-vezes-e-mata-jovem-durante-abordagem-em-sp.ghtml",
