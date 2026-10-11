@@ -11,6 +11,7 @@ Si aucun journal d'un pays ne répond, une recherche GDELT sert de secours.
 Lancé par GitHub Actions (.github/workflows/update-news.yml).
 Le journal d'exécution indique, pour chaque journal, OK ou ÉCHEC.
 """
+import collections
 import datetime
 import email.utils
 import html
@@ -64,6 +65,35 @@ def fold(s):
 def domain_of(url):
     host = urllib.parse.urlparse(url or "").netloc.lower()
     return host[4:] if host.startswith("www.") else host
+
+
+def url_segments(url):
+    path = urllib.parse.urlparse(url or "").path
+    return [s.lower() for s in path.split("/") if s]
+
+
+def in_sections(url, sections):
+    """Vrai si l'un des 3 premiers segments de l'adresse est une rubrique voulue.
+    Ex. https://elpais.com/espana/2026/... -> segments ['espana', '2026', ...]"""
+    wanted = {s.lower() for s in sections}
+    return any(seg in wanted for seg in url_segments(url)[:3])
+
+
+def section_label(url):
+    """Rubrique d'un article : 1er segment de l'adresse, plus le 2e s'il s'agit d'une
+    sous-rubrique (ni un nombre, ni le titre de l'article lui-même)."""
+    segs = url_segments(url)
+    if not segs:
+        return "(accueil)"
+    if len(segs) >= 3 and not segs[1][:1].isdigit():
+        return f"{segs[0]}/{segs[1]}"
+    return segs[0]
+
+
+def section_overview(items, top=8):
+    """Texte du type 'espana 12, internacional 8' : rubriques vues dans le flux."""
+    counts = collections.Counter(section_label(it["url"]) for it in items)
+    return ", ".join(f"{name} {n}" for name, n in counts.most_common(top))
 
 
 def to_seendate(dt):
@@ -205,7 +235,8 @@ def normalize_entry(raw):
         return None
     if not site.startswith(("http://", "https://")):
         site = "https://" + site
-    return {"name": raw.get("name") or domain_of(site), "site": site, "feed": raw.get("feed")}
+    return {"name": raw.get("name") or domain_of(site), "site": site, "feed": raw.get("feed"),
+            "sections": raw.get("sections") or []}
 
 
 def collect_country(iso, info):
@@ -217,10 +248,23 @@ def collect_country(iso, info):
 
     for entry in entries:
         items, used, auto = load_site(entry)
-        if items:
-            ok += 1
+        if items and entry["sections"]:
+            total = len(items)
+            seen_sections = section_overview(items)
+            items = [it for it in items if in_sections(it["url"], entry["sections"])]
+            if not items:
+                print(f"[{iso}] ÉCHEC  {entry['name']}  : {total} articles lus, aucun dans la "
+                      f"rubrique {entry['sections']}. Rubriques vues : {seen_sections}")
+                time.sleep(SITE_DELAY)
+                continue
+            print(f"[{iso}] OK     {len(items):3d}/{total} articles nationaux  {entry['name']}  "
+                  f"(rubriques {entry['sections']})  <- {used}")
+        elif items:
             note = " (flux trouvé automatiquement)" if auto else ""
             print(f"[{iso}] OK     {len(items):3d} articles  {entry['name']}  <- {used}{note}")
+            print(f"[{iso}]        rubriques vues : {section_overview(items)}")
+        if items:
+            ok += 1
             for it in items:
                 it["name"] = entry["name"]
             raw.extend(items)
