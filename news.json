@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T12:55:14+00:00",
+ "updated": "2026-10-11T13:18:57+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -516,17 +516,17 @@
      "url": "https://www.nacion.com/politica/regidor-de-la-municipalidad-de-san-jose-denuncia/SUIMYA5NLZBP3ERL7GUVEL533U/story/",
      "domain": "La Nación",
      "seendate": "20261010T041703Z"
-    },
-    {
-     "title": "José Miguel Villalobos pide respeto hacia comunidad china tras polémica por caso de chino-tico detenido para extradición",
-     "url": "https://www.nacion.com/politica/jose-miguel-villalobos-pide-respeto-hacia/77A7ECHCFNFCPOOVUS6RQHUWZ4/story/",
-     "domain": "La Nación",
-     "seendate": "20261010T030405Z"
     }
    ]
   },
   "PAN": {
    "articles": [
+    {
+     "title": "Metro de Panamá reanuda operaciones este domingo tras el terremoto",
+     "url": "https://www.prensa.com/sociedad/metro-de-panama-reanuda-operaciones-este-domingo-tras-el-terremoto/",
+     "domain": "La Prensa",
+     "seendate": "20261011T130842Z"
+    },
     {
      "title": "Cerca del epicentro del terremoto en Panamá: sin agua ni luz mientras todo sigue temblando",
      "url": "https://www.prensa.com/sociedad/cerca-del-epicentro-del-terremoto-en-panama-sin-agua-ni-luz-mientras-todo-sigue-temblando/",
@@ -857,6 +857,12 @@
   "COL": {
    "articles": [
     {
+     "title": "Atentado contra dos guardianes del Inpec en Barranquilla desata alerta del Gobierno: amenazas alcanzarían al presidente y al ministro de Justicia",
+     "url": "https://www.eltiempo.com/colombia/barranquilla/atentado-contra-dos-guardianes-del-inpec-en-barranquilla-desata-alerta-del-gobierno-amenazas-alcanzarian-al-presidente-y-al-ministro-de-justicia-3592861",
+     "domain": "El Tiempo",
+     "seendate": "20261011T125307Z"
+    },
+    {
      "title": "'Pensé que hasta ahí había llegado, sentí que caía en picada': el angustiante relato de una de las pasajeras del vuelo entre Medellín y Nueva York",
      "url": "https://www.eltiempo.com/colombia/medellin/pense-que-hasta-aqui-habia-llegado-sentimos-que-caia-en-picada-el-angustiante-relato-de-una-de-las-pasajeras-del-vuelo-entre-medellin-y-nueva-york-3592812",
      "domain": "El Tiempo",
@@ -909,12 +915,6 @@
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/sincelejo-reduce-los-homicidios-y-reporta-caidas-de-hasta-el-33-en-los-principales-delitos-durante-3592788",
      "domain": "El Tiempo",
      "seendate": "20261010T202543Z"
-    },
-    {
-     "title": "Confirman aprehensión de alias 'Rambo', presunto implicado en la muerte de una cuidadora del ICBF en Barrancabermeja: la mujer evitó una violación",
-     "url": "https://www.eltiempo.com/colombia/santander/confirman-aprehension-de-alias-rambo-presunto-implicado-en-la-muerte-de-una-cuidadora-del-icbf-en-barrancabermeja-la-mujer-evito-una-violacion-3592781",
-     "domain": "El Tiempo",
-     "seendate": "20261010T195854Z"
     }
    ]
   },
@@ -942,6 +942,12 @@
   },
   "ECU": {
    "articles": [
+    {
+     "title": "Las curiosidades en la elección de consejeros de Participación Ciudadana: mayoría de profesionales, hermanos en competencia y una lista de indígenas sin rivales",
+     "url": "https://eluniverso.com/politica/elecciones/elecciones-seccionales-2027-consejo-de-participacion-ciudadana-consejo-nacional-electoral-nota/",
+     "domain": "El Universo",
+     "seendate": "20261011T130000Z"
+    },
     {
      "title": "San Pedro de Huaca despide a Carolina Pérez Cuasquer tras seis años de búsqueda e incertidumbre",
      "url": "https://eluniverso.com/comunidad/ecuador/san-pedro-de-huaca-despide-a-carolina-perez-cuasquer-tras-seis-anos-de-busqueda-e-incertidumbre-nota/",
@@ -1045,22 +1051,10 @@
      "seendate": "20261010T171749Z"
     },
     {
-     "title": "Un hombre con notificación roja de Interpol fue detenido por estafa en Quito",
-     "url": "https://eluniverso.com/politica/seguridad/un-hombre-con-notificacion-roja-de-interpol-fue-detenido-por-la-policia-en-quito-nota/",
-     "domain": "El Universo",
-     "seendate": "20261010T150601Z"
-    },
-    {
      "title": "Operativo militar en Quito termina con la incautación de más de 44 carabinas, 7 pistolas y 2 subametralladoras",
      "url": "https://eluniverso.com/politica/seguridad/operativo-militar-en-quito-termina-con-la-incautacion-de-mas-de-40-carabinas-7-pistolas-y-2-subametralladoras-nota/",
      "domain": "El Universo",
      "seendate": "20261010T144510Z"
-    },
-    {
-     "title": "Baños proyecta recibir más de 50.000 turistas durante este feriado de octubre",
-     "url": "https://eluniverso.com/comunidad/ecuador/buen-clima-nota/",
-     "domain": "El Universo",
-     "seendate": "20261010T141450Z"
     },
     {
      "title": "Operativo militar contra la minería ilegal afecta en $ 3,6 millones a Los Lobos en El Oro",
@@ -1138,6 +1132,18 @@
   "ARG": {
    "articles": [
     {
+     "title": "Cobraron miles de dólares por autos y camionetas que nunca entregaron: prisión preventiva",
+     "url": "https://www.lanacion.com.ar/seguridad/prision-preventiva-para-los-duenos-de-la-concesionaria-de-autos-de-pilar-acusados-de-estafar-a-sus-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261011T130515Z"
+    },
+    {
+     "title": "Un especialista advirtió por qué crecen los castigos como método de disciplina",
+     "url": "https://www.lanacion.com.ar/sociedad/un-especialista-advirtio-por-que-crecen-los-castigos-como-metodo-de-disciplina-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261011T130000Z"
+    },
+    {
      "title": "Frase destacada del día, Stephen Hawking, físico: “El mayor enemigo del conocimiento no es la ignorancia, sino la ilusión del conocimiento”",
      "url": "https://www.lanacion.com.ar/sociedad/frase-destacada-del-dia-stephen-hawking-fisico-el-mayor-enemigo-del-conocimiento-no-es-la-ignorancia-nid10102026/",
      "domain": "La Nación",
@@ -1160,12 +1166,6 @@
      "url": "https://www.lanacion.com.ar/economia/dolar/a-cuanto-abre-el-dolar-el-martes-13-de-octubre-nid10102026/",
      "domain": "La Nación",
      "seendate": "20261011T122436Z"
-    },
-    {
-     "title": "Prisión preventiva para los dueños de la concesionaria de autos de Pilar acusados de estafar a sus clientes",
-     "url": "https://www.lanacion.com.ar/seguridad/prision-preventiva-para-los-duenos-de-la-concesionaria-de-autos-de-pilar-acusados-de-estafar-a-sus-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T105600Z"
     },
     {
      "title": "El Papa en Luján: las invitaciones que va a hacer Kicillof y los enviados de Milei a la misa en territorio opositor",
@@ -1222,6 +1222,12 @@
      "seendate": "20261011T030243Z"
     },
     {
+     "title": "Lo que la Argentina gana con la ola azul de Brasil",
+     "url": "https://www.lanacion.com.ar/economia/lo-que-la-argentina-gana-con-la-ola-azul-de-brasil-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261011T030100Z"
+    },
+    {
      "title": "“Pérdida de agencia humana”: los desafíos de la educación frente a la IA, según el rector de la Universidad Siglo 21",
      "url": "https://www.lanacion.com.ar/economia/IA/perdida-de-agencia-humana-los-desafios-de-la-educacion-frente-a-la-ia-segun-el-rector-de-la-nid11102026/",
      "domain": "La Nación",
@@ -1234,26 +1240,8 @@
      "seendate": "20261011T030100Z"
     },
     {
-     "title": "Lo que la Argentina gana con la ola azul de Brasil",
-     "url": "https://www.lanacion.com.ar/economia/lo-que-la-argentina-gana-con-la-ola-azul-de-brasil-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T030100Z"
-    },
-    {
-     "title": "Hay alerta amarilla por nevadas para este domingo 11 de octubre: las provincias afectadas",
-     "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-nevadas-para-este-domingo-11-de-octubre-las-provincias-afectadas-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T030100Z"
-    },
-    {
      "title": "¿Cuán fuerte estará el Gobierno de cara a las elecciones de 2027?",
      "url": "https://www.lanacion.com.ar/economia/cuan-fuerte-estara-el-gobierno-de-cara-a-las-elecciones-de-2027-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T030100Z"
-    },
-    {
-     "title": "Los aprendizajes que nos dejó el 62° Coloquio de IDEA",
-     "url": "https://www.lanacion.com.ar/economia/los-aprendizajes-que-nos-dejo-el-62-coloquio-de-idea-nid11102026/",
      "domain": "La Nación",
      "seendate": "20261011T030100Z"
     },
@@ -1266,6 +1254,12 @@
     {
      "title": "Las elecciones en Brasil derramaron en el mercado local",
      "url": "https://www.lanacion.com.ar/economia/las-elecciones-en-brasil-derramaron-en-el-mercado-local-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261011T030100Z"
+    },
+    {
+     "title": "Los aprendizajes que nos dejó el 62° Coloquio de IDEA",
+     "url": "https://www.lanacion.com.ar/economia/los-aprendizajes-que-nos-dejo-el-62-coloquio-de-idea-nid11102026/",
      "domain": "La Nación",
      "seendate": "20261011T030100Z"
     },
@@ -1289,6 +1283,12 @@
   },
   "PRY": {
    "articles": [
+    {
+     "title": "Consejo de la Magistratura busca evitar “cuellos de botella” en concursos y ternas",
+     "url": "https://www.abc.com.py/nacionales/2026/10/11/consejo-de-la-magistratura-busca-evitar-cuellos-de-botella-en-concursos-y-ternas/",
+     "domain": "ABC Color",
+     "seendate": "20261011T130711Z"
+    },
     {
      "title": "Nivel de los ríos: ¿dónde subieron y dónde bajaron las aguas?",
      "url": "https://www.abc.com.py/nacionales/2026/10/11/nivel-de-los-rios-donde-subieron-y-donde-bajaron-las-aguas/",
@@ -1367,12 +1367,6 @@
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/11/tarcisio-projeta-reforma-no-secretariado-em-sp-com-menos-espaco-para-o-psd-de-kassab.ghtml",
      "domain": "O Globo",
      "seendate": "20261011T063000Z"
-    },
-    {
-     "title": "Alckmin defende 'falar com a classe média' para virada no segundo turno: 'Mostrando os prejuízos que podem ter'",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/10/alckmin-defende-falar-com-a-classe-media-para-virada-no-segundo-turno-mostrando-os-prejuizos-que-podem-ter.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261010T231939Z"
     }
    ]
   }
