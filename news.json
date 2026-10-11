@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T23:16:56+00:00",
+ "updated": "2026-10-11T23:48:36+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -85,6 +85,12 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Morena CDMX reitera que no habrá \"predialazo\"; critican campaña del PAN que busca causar miedo",
+     "url": "https://www.eluniversal.com.mx/metropoli/morena-cdmx-reitera-que-no-habra-predialazo-critican-campana-del-pan-que-busca-causar-miedo/",
+     "domain": "El Universal",
+     "seendate": "20261011T231212Z"
+    },
     {
      "title": "Reginaldo Sandoval reitera respaldo a Raúl Morón en Michoacán; \"el proceso aún no concluye\", asegura",
      "url": "https://www.eluniversal.com.mx/nacion/reginaldo-sandoval-reitera-respaldo-a-raul-moron-en-michoacan-el-proceso-aun-no-concluye-asegura/",
@@ -380,6 +386,12 @@
   "CRI": {
    "articles": [
     {
+     "title": "Sala Constitucional admite para revisión recurso de vecinos de Mora contra proyecto de relleno sanitario",
+     "url": "https://www.nacion.com/el-pais/sala-constitucional-admite-para-revision-recurso/VTLJJQDURFENPGJX3GL6ZE5AXE/story/",
+     "domain": "La Nación",
+     "seendate": "20261011T233458Z"
+    },
+    {
      "title": "Alias Sobrino llevaba control de inquilinos y habría usado Airbnb para reuniones entre miembros de su estructura criminal",
      "url": "https://www.nacion.com/sucesos/alias-sobrino-llevaba-control-de-inquilinos-y/47ZZ2OEZRVBS3JOC4SYHJY7X6Y/story/",
      "domain": "La Nación",
@@ -461,6 +473,12 @@
   },
   "PAN": {
    "articles": [
+    {
+     "title": "En la costa de Veraguas, sobrevivir al terremoto es buscar agua y alimentos",
+     "url": "https://www.prensa.com/politica/en-la-costa-de-veraguas-sobrevivir-al-terremoto-es-buscar-agua-y-alimentos/",
+     "domain": "La Prensa",
+     "seendate": "20261011T231531Z"
+    },
     {
      "title": "En vivo. terremoto en Panamá: Gobierno actualiza informe sobre las afectaciones",
      "url": "https://www.prensa.com/politica/en-vivo-terremoto-en-panama-gobierno-actualiza-informe-sobre-las-afectaciones/",
@@ -630,12 +648,6 @@
      "seendate": "20261009T225511Z"
     },
     {
-     "title": "Presidente Mulino visita áreas afectadas por terremoto; países vecinos ofrecen ayuda",
-     "url": "https://www.prensa.com/sociedad/presidente-mulino-visita-areas-afectadas-por-terremoto-paises-vecinos-ofrecen-ayuda/",
-     "domain": "La Prensa",
-     "seendate": "20261009T225108Z"
-    },
-    {
      "title": "Imágenes del terremoto que sacudió a Panamá",
      "url": "https://www.prensa.com/sociedad/imagenes-del-terremoto-que-sacudio-a-panama/",
      "domain": "La Prensa",
@@ -646,12 +658,6 @@
      "url": "https://www.prensa.com/sociedad/terremoto-en-panama-balance-preliminar-de-danos-y-afectaciones/",
      "domain": "La Prensa",
      "seendate": "20261009T213100Z"
-    },
-    {
-     "title": "¿Sismo, temblor o terremoto? Así se diferencian",
-     "url": "https://www.prensa.com/sociedad/sismo-temblor-o-terremoto-asi-se-diferencian/",
-     "domain": "La Prensa",
-     "seendate": "20261009T205958Z"
     },
     {
      "title": "Terremoto de magnitud 7.5 y más de 100 réplicas se registran en Panamá",
@@ -1025,6 +1031,12 @@
   "PER": {
    "articles": [
     {
+     "title": "Sismo de magnitud 3.6 se registró esta tarde en Arequipa, informó el IGP",
+     "url": "https://elcomercio.pe/peru/arequipa/sismo-de-magnitud-36-se-registro-esta-tarde-en-arequipa-informo-el-igp-indeci-ultimas-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261011T231600Z"
+    },
+    {
      "title": "Incendios forestales se mantienen activos en otras tres regiones de Perú",
      "url": "https://elcomercio.pe/peru/incendios-forestales-se-mantienen-activos-en-otras-tres-regiones-de-peru-ayacucho-moquegua-puno-ultimas-noticia/",
      "domain": "El Comercio",
@@ -1077,6 +1089,24 @@
   },
   "ARG": {
    "articles": [
+    {
+     "title": "El Gobierno comenzó el traslado de presos de la cárcel de Devoto a Marcos Paz",
+     "url": "https://www.lanacion.com.ar/seguridad/el-gobierno-comenzo-el-traslado-de-presos-de-la-carcel-de-devoto-a-marcos-paz-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261011T232822Z"
+    },
+    {
+     "title": "Vandalismo rural: la oposición advirtió que el proyecto que obtuvo dictamen duplica delitos y reduce penas",
+     "url": "https://www.lanacion.com.ar/politica/vandalismo-rural-la-oposicion-advirtio-que-el-proyecto-que-obtuvo-dictamen-duplica-delitos-y-reduce-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261011T231731Z"
+    },
+    {
+     "title": "El Gobierno recurre a un tribunal de la ONU por el petróleo en Malvinas y expertos advierten sobre el riesgo de la jugada",
+     "url": "https://www.lanacion.com.ar/politica/el-gobierno-recurre-a-un-tribunal-de-la-onu-por-el-petroleo-en-malvinas-y-expertos-advierten-sobre-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261011T231333Z"
+    },
     {
      "title": "El Gobierno y la Iglesia argentina enviaron mensajes de afecto al Papa y evitaron hacer especulaciones sobre su visita",
      "url": "https://www.lanacion.com.ar/politica/el-gobierno-y-la-iglesia-argentina-enviaron-mensajes-de-afecto-al-papa-y-evitaron-hacer-nid11102026/",
@@ -1136,12 +1166,6 @@
      "url": "https://www.lanacion.com.ar/politica/la-corte-freno-a-los-jueces-que-recortan-los-honorarios-de-los-abogados-y-debaten-posibles-sanciones-nid11102026/",
      "domain": "La Nación",
      "seendate": "20261011T212630Z"
-    },
-    {
-     "title": "El Gobierno comenzó el traslado de presos de la cárcel de Devoto a Marcos Paz",
-     "url": "https://www.lanacion.com.ar/seguridad/el-gobierno-comenzo-el-traslado-de-presos-de-la-carcel-de-devoto-a-marcos-paz-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T212240Z"
     },
     {
      "title": "Por el cambio de hábitos, ya hay 672 sucursales bancarias menos que hace siete años",
@@ -1232,12 +1256,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/mario-alonso-puig-medico-y-referente-en-desarrollo-personal-el-miedo-casi-nunca-aparece-donde-no-hay-nid11102026/",
      "domain": "La Nación",
      "seendate": "20261011T170000Z"
-    },
-    {
-     "title": "La Iglesia argentina pidió rezar por la salud del papa León XIV ante la operación a la que será sometido",
-     "url": "https://www.lanacion.com.ar/politica/la-iglesia-argentina-pidio-rezar-por-la-salud-del-papa-leon-xiv-ante-la-operacion-a-la-que-sera-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T160527Z"
     }
    ]
   },
