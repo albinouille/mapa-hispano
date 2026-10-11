@@ -1,19 +1,25 @@
 {
- "updated": "2026-10-11T09:49:59+00:00",
+ "updated": "2026-10-11T10:18:13+00:00",
  "countries": {
   "ESP": {
    "articles": [
+    {
+     "title": "La Policía se despliega en El Guano para desalojar otro asentamiento de inmigrantes en Ceuta 48 horas antes de la visita de los Reyes",
+     "url": "https://elpais.com/espana/2026-10-11/la-policia-se-despliega-en-el-guano-para-desalojar-otro-asentamiento-de-inmigrantes-en-ceuta-48-horas-antes-de-la-visita-de-los-reyes.html",
+     "domain": "El País",
+     "seendate": "20261011T100924Z"
+    },
+    {
+     "title": "Rufián será candidato por Esquerra Republicana el 29-N",
+     "url": "https://elpais.com/espana/catalunya/2026-10-11/rufian-sera-candidato-por-esquerra-republicana-el-29-n.html",
+     "domain": "El País",
+     "seendate": "20261011T100653Z"
+    },
     {
      "title": "Mertxe Aizpurua no repetirá como candidata de EH Bildu al Congreso el 29-N",
      "url": "https://elpais.com/espana/elecciones-generales/2026-10-11/mertxe-aizpurua-no-repetira-como-candidata-de-eh-bildu-al-congreso-el-29-n.html",
      "domain": "El País",
      "seendate": "20261011T083557Z"
-    },
-    {
-     "title": "La Policía se despliega en El Guano para desalojar otro asentamiento de inmigrantes en Ceuta 48 horas antes de la visita de los Reyes",
-     "url": "https://elpais.com/espana/2026-10-11/la-policia-se-despliega-en-el-guano-para-desalojar-otro-asentamiento-de-inmigrantes-en-ceuta-48-horas-antes-de-la-visita-de-los-reyes.html",
-     "domain": "El País",
-     "seendate": "20261011T074602Z"
     },
     {
      "title": "Cándido Conde-Pumpido: “Cuestionar al Tribunal Constitucional es cuestionar la democracia”",
@@ -30,12 +36,6 @@
     {
      "title": "¿Juntos o separados? Calcula cómo se moverían los escaños con distintas coaliciones",
      "url": "https://elpais.com/espana/elecciones-generales/2026-10-11/juntos-o-separados-calcula-como-se-moverian-los-escanos-con-distintas-coaliciones.html",
-     "domain": "El País",
-     "seendate": "20261011T033001Z"
-    },
-    {
-     "title": "Ada Colau, la exalcaldesa que puso la vivienda en la agenda pública ahora quiere dar el salto al Congreso",
-     "url": "https://elpais.com/espana/catalunya/2026-10-11/ada-colau-la-exalcaldesa-que-puso-la-vivienda-en-la-agenda-publica-ahora-quiere-dar-el-salto-al-congreso.html",
      "domain": "El País",
      "seendate": "20261011T033001Z"
     },
@@ -109,6 +109,12 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Tarjeta de Movilidad Integrada ya se puede recargar en toda la ruta del Tren al AIFA",
+     "url": "https://www.eluniversal.com.mx/metropoli/tarjeta-de-movilidad-integrada-ya-se-puede-recargar-en-toda-la-ruta-del-tren-al-aifa/",
+     "domain": "El Universal",
+     "seendate": "20261011T095843Z"
+    },
     {
      "title": "“Ordenamiento podría optimizar uso de suelo”",
      "url": "https://www.eluniversal.com.mx/metropoli/ordenamiento-podria-optimizar-uso-de-suelo/",
@@ -276,12 +282,6 @@
      "url": "https://www.eluniversal.com.mx/estados/policias-repliegan-a-trabajadores-del-imss-que-se-manifiestan-por-segundo-dia-consecutivo-en-pachuca-hay-al-menos-dos-detenidos/",
      "domain": "El Universal",
      "seendate": "20261011T001104Z"
-    },
-    {
-     "title": "FGR asegura casi 90 máquinas tragamonedas en San Cristóbal de las Casas; continúa investigación",
-     "url": "https://www.eluniversal.com.mx/nacion/fgr-asegura-casi-90-maquinas-tragamonedas-en-san-cristobal-de-las-casas-continua-investigacion/",
-     "domain": "El Universal",
-     "seendate": "20261010T234144Z"
     },
     {
      "title": "Defensa mantiene Plan DN-III-E en Colima, Jalisco y Nayarit por Huracán Simon; despliega a casi 3 mil elementos",
@@ -1191,12 +1191,6 @@
      "seendate": "20261011T030243Z"
     },
     {
-     "title": "Lo que la Argentina gana con la ola azul de Brasil",
-     "url": "https://www.lanacion.com.ar/economia/lo-que-la-argentina-gana-con-la-ola-azul-de-brasil-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T030100Z"
-    },
-    {
      "title": "“Pérdida de agencia humana”: los desafíos de la educación frente a la IA, según el rector de la Universidad Siglo 21",
      "url": "https://www.lanacion.com.ar/economia/IA/perdida-de-agencia-humana-los-desafios-de-la-educacion-frente-a-la-ia-segun-el-rector-de-la-nid11102026/",
      "domain": "La Nación",
@@ -1209,8 +1203,14 @@
      "seendate": "20261011T030100Z"
     },
     {
-     "title": "La Argentina exportadora: hasta dónde puede llegar la nueva fábrica de dólares",
-     "url": "https://www.lanacion.com.ar/economia/la-argentina-exportadora-hasta-donde-puede-llegar-la-nueva-fabrica-de-dolares-nid11102026/",
+     "title": "Lo que la Argentina gana con la ola azul de Brasil",
+     "url": "https://www.lanacion.com.ar/economia/lo-que-la-argentina-gana-con-la-ola-azul-de-brasil-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261011T030100Z"
+    },
+    {
+     "title": "Hay alerta amarilla por nevadas para este domingo 11 de octubre: las provincias afectadas",
+     "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-nevadas-para-este-domingo-11-de-octubre-las-provincias-afectadas-nid11102026/",
      "domain": "La Nación",
      "seendate": "20261011T030100Z"
     },
@@ -1221,26 +1221,26 @@
      "seendate": "20261011T030100Z"
     },
     {
-     "title": "Los riesgos de delegarle a la IA un plan estratégico",
-     "url": "https://www.lanacion.com.ar/economia/las-sombras-del-pensamiento-estrategico-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T030100Z"
-    },
-    {
-     "title": "Las elecciones en Brasil derramaron en el mercado local",
-     "url": "https://www.lanacion.com.ar/economia/las-elecciones-en-brasil-derramaron-en-el-mercado-local-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T030100Z"
-    },
-    {
      "title": "Los aprendizajes que nos dejó el 62° Coloquio de IDEA",
      "url": "https://www.lanacion.com.ar/economia/los-aprendizajes-que-nos-dejo-el-62-coloquio-de-idea-nid11102026/",
      "domain": "La Nación",
      "seendate": "20261011T030100Z"
     },
     {
-     "title": "Hay alerta amarilla por nevadas para este domingo 11 de octubre: las provincias afectadas",
-     "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-nevadas-para-este-domingo-11-de-octubre-las-provincias-afectadas-nid11102026/",
+     "title": "Los riesgos de delegarle a la IA un plan estratégico",
+     "url": "https://www.lanacion.com.ar/economia/las-sombras-del-pensamiento-estrategico-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261011T030100Z"
+    },
+    {
+     "title": "La Argentina exportadora: hasta dónde puede llegar la nueva fábrica de dólares",
+     "url": "https://www.lanacion.com.ar/economia/la-argentina-exportadora-hasta-donde-puede-llegar-la-nueva-fabrica-de-dolares-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261011T030100Z"
+    },
+    {
+     "title": "Las elecciones en Brasil derramaron en el mercado local",
+     "url": "https://www.lanacion.com.ar/economia/las-elecciones-en-brasil-derramaron-en-el-mercado-local-nid11102026/",
      "domain": "La Nación",
      "seendate": "20261011T030100Z"
     },
@@ -1263,14 +1263,14 @@
      "seendate": "20261011T000443Z"
     },
     {
-     "title": "Daniel López Rosetti, cardiólogo: “El movimiento no es sólo salud, también es tratamiento”",
-     "url": "https://www.lanacion.com.ar/sociedad/daniel-lopez-rosetti-cardiologo-el-movimiento-no-es-solo-salud-tambien-es-tratamiento-nid10102026/",
+     "title": "Conrado Estol, neurólogo: “Crucigramas, juegos o ajedrez sirven para cargar tu mochila cognitiva y evitar que el cerebro se deteriore”",
+     "url": "https://www.lanacion.com.ar/sociedad/conrado-estol-neurologo-crucigramas-juegos-o-ajedrez-sirven-para-cargar-tu-mochila-cognitiva-y-nid10102026/",
      "domain": "La Nación",
      "seendate": "20261011T000000Z"
     },
     {
-     "title": "Conrado Estol, neurólogo: “Crucigramas, juegos o ajedrez sirven para cargar tu mochila cognitiva y evitar que el cerebro se deteriore”",
-     "url": "https://www.lanacion.com.ar/sociedad/conrado-estol-neurologo-crucigramas-juegos-o-ajedrez-sirven-para-cargar-tu-mochila-cognitiva-y-nid10102026/",
+     "title": "Daniel López Rosetti, cardiólogo: “El movimiento no es sólo salud, también es tratamiento”",
+     "url": "https://www.lanacion.com.ar/sociedad/daniel-lopez-rosetti-cardiologo-el-movimiento-no-es-solo-salud-tambien-es-tratamiento-nid10102026/",
      "domain": "La Nación",
      "seendate": "20261011T000000Z"
     },
@@ -1426,12 +1426,6 @@
      "url": "https://oglobo.globo.com/brasil/noticia/2026/10/10/policia-prende-na-bahia-ex-militar-russo-condenado-a-prisao-perpetua.ghtml",
      "domain": "O Globo",
      "seendate": "20261010T175948Z"
-    },
-    {
-     "title": "Lula endurece ataques a Flávio na TV com caso Master; senador promete reajustar o Bolsa Família",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/10/lula-endurece-ataques-a-flavio-na-tv-com-caso-master-senador-promete-reajustar-o-bolsa-familia.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261010T172938Z"
     }
    ]
   }
