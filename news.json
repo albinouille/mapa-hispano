@@ -1,8 +1,14 @@
 {
- "updated": "2026-10-11T17:48:39+00:00",
+ "updated": "2026-10-11T18:20:33+00:00",
  "countries": {
   "ESP": {
    "articles": [
+    {
+     "title": "Los Mossos buscan a los autores de un tiroteo que acaba con una mujer herida de bala en la cabeza en Figueres",
+     "url": "https://elpais.com/espana/catalunya/2026-10-11/los-mossos-buscan-a-los-autores-de-un-tiroteo-acaba-con-una-mujer-herida-de-bala-en-la-cabeza-en-figueres.html",
+     "domain": "El País",
+     "seendate": "20261011T174108Z"
+    },
     {
      "title": "Mertxe Aizpurua no repetirá como candidata de EH Bildu al Congreso el 29-N",
      "url": "https://elpais.com/espana/elecciones-generales/2026-10-11/mertxe-aizpurua-no-repetira-como-candidata-de-eh-bildu-al-congreso-el-29-n.html",
@@ -58,14 +64,14 @@
      "seendate": "20261011T033000Z"
     },
     {
-     "title": "El doble reto de Albiol si es candidato de Feijóo el 29-N: frenar a Vox sin olvidar Badalona",
-     "url": "https://elpais.com/espana/catalunya/2026-10-11/el-doble-reto-de-albiol-si-es-candidato-de-feijoo-el-29-n-frenar-a-vox-sin-olvidar-badalona.html",
+     "title": "Rafael Amargo es detenido junto a su pareja tras una pelea con otra persona que entró en su vivienda de madrugada",
+     "url": "https://elpais.com/espana/madrid/2026-10-10/rafael-amargo-es-detenido-junto-a-su-pareja-tras-una-pelea-con-otra-persona-que-entro-en-su-vivienda-de-madrugada.html",
      "domain": "El País",
-     "seendate": "20261011T033000Z"
+     "seendate": "20261010T123810Z"
     },
     {
-     "title": "Qué pasó con el robo de votos por correo en Extremadura: los sospechosos están en prisión y se les acusa de llevarse el camión de la lotería",
-     "url": "https://elpais.com/espana/2026-10-10/que-paso-con-el-robo-de-votos-por-correo-en-extremadura-los-sospechosos-estan-en-prision-y-se-les-acusa-de-llevarse-el-camion-de-la-loteria.html",
+     "title": "La caída del esquivo Andrey Victorovich, el artesano de las ‘armas Frankenstein’",
+     "url": "https://elpais.com/espana/2026-10-10/la-caida-del-esquivo-andrey-victorovich-el-artesano-de-las-armas-frankenstein.html",
      "domain": "El País",
      "seendate": "20261010T033001Z"
     },
@@ -74,23 +80,17 @@
      "url": "https://elpais.com/espana/andalucia/2026-09-28/andalucia-a-la-cola-de-espana-en-comunidades-energeticas-pese-a-ser-la-region-con-mayor-potencial-solar.html",
      "domain": "El País",
      "seendate": "20261010T033001Z"
-    },
-    {
-     "title": "La Fiscalía insiste en la absolución del hermano de Sánchez y de Gallardo por falta de pruebas",
-     "url": "https://elpais.com/espana/2026-10-09/la-fiscalia-insiste-en-la-absolucion-del-hermano-de-pedro-sanchez-y-gallardo-por-falta-de-pruebas.html",
-     "domain": "El País",
-     "seendate": "20261009T121421Z"
-    },
-    {
-     "title": "El juez Pedraz rechaza imputar “en este momento” al PSOE en el ‘caso Leire Díez’, como pedía el PP",
-     "url": "https://elpais.com/espana/2026-10-09/el-juez-pedraz-rechaza-imputar-por-ahora-al-psoe-en-el-caso-leire-diez-como-pedia-el-pp.html",
-     "domain": "El País",
-     "seendate": "20261009T083936Z"
     }
    ]
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Caen dos hombres en la alcaldía Cuauhtémoc por presunto robo de autopartes en Atizapán; aseguran presuntas drogas",
+     "url": "https://www.eluniversal.com.mx/metropoli/caen-dos-hombres-en-la-alcaldia-cuauhtemoc-por-presunto-robo-de-autopartes-en-atizapan-aseguran-presuntas-drogas/",
+     "domain": "El Universal",
+     "seendate": "20261011T172223Z"
+    },
     {
      "title": "Marco Bonilla asume coordinación estatal para la Defensa de la Patria, la Familia y la Libertad en Chihuahua; PAN perfila rumbo a 2027",
      "url": "https://www.eluniversal.com.mx/estados/marco-bonilla-asume-coordinacion-estatal-para-la-defensa-de-la-patria-la-familia-y-la-libertad-en-chihuahua-pan-perfila-rumbo-a-2027/",
@@ -140,7 +140,7 @@
      "seendate": "20261011T150553Z"
     },
     {
-     "title": "Sheinbaum llama a población de cuatro estados a resguardarse ante impacto del huracán Simón; sigue EN VIVO su trayectoria",
+     "title": "Sheinbaum llama a población de cuatro estados a resguardarse ante impacto del Huracán Simon; sigue EN VIVO su trayectoria",
      "url": "https://www.eluniversal.com.mx/estados/huracan-simon-se-acerca-a-las-costas-del-pacifico-mexicano-sigue-en-vivo-su-trayectoria/",
      "domain": "El Universal",
      "seendate": "20261011T150041Z"
@@ -234,24 +234,6 @@
      "url": "https://www.eluniversal.com.mx/nacion/podemos-ganar-sin-aliados-afirma-morena/",
      "domain": "El Universal",
      "seendate": "20261011T065528Z"
-    },
-    {
-     "title": "Trabajadores del IMSS adelantan marcha nacional para el martes 13 de octubre; sindicato llama al diálogo",
-     "url": "https://www.eluniversal.com.mx/nacion/trabajadores-del-imss-adelantan-marcha-nacional-para-el-martes-13-de-octubre-sindicato-llama-al-dialogo/",
-     "domain": "El Universal",
-     "seendate": "20261011T041241Z"
-    },
-    {
-     "title": "Desde el Ecatepec, Sheinbaum anuncia contratación de más personal médico y compra de equipo; supervisa IMSS-Bienestar",
-     "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-anuncia-contratacion-de-mas-personal-medico-y-compra-de-equipo-supervisa-imss-bienestar/",
-     "domain": "El Universal",
-     "seendate": "20261011T034422Z"
-    },
-    {
-     "title": "Reportan conato de incendio en restaurante bar de Tlalpan; una mujer resulta con quemaduras",
-     "url": "https://www.eluniversal.com.mx/metropoli/reportan-conato-de-incendio-en-restaurante-bar-de-tlalpan-una-mujer-resulta-con-quemaduras/",
-     "domain": "El Universal",
-     "seendate": "20261011T034004Z"
     }
    ]
   },
@@ -749,6 +731,12 @@
   "COL": {
    "articles": [
     {
+     "title": "Atlántico: plastiqueras en Galapa tenían 14 transformadores ilegales y deudas por $2.700 millones: conexiones afectan servicio de familias vulnerables",
+     "url": "https://www.eltiempo.com/colombia/barranquilla/atlantico-plastiqueras-en-galapa-tenian-14-transformadores-ilegales-y-deudas-por-2-700-millones-conexiones-afectan-servicio-de-familias-vulnerables-3592886",
+     "domain": "El Tiempo",
+     "seendate": "20261011T173000Z"
+    },
+    {
      "title": "Un extranjero murió durante el primer día del festival de música electrónica EDC en la Unidad Deportiva Atanasio Girardot de Medellín",
      "url": "https://www.eltiempo.com/colombia/medellin/un-extranjero-murio-durante-el-primer-dia-del-festival-de-musica-electronica-edc-en-la-unidad-deportiva-atanasio-girardot-de-medellin-3592891",
      "domain": "El Tiempo",
@@ -801,12 +789,6 @@
      "url": "https://www.eltiempo.com/colombia/barranquilla/de-cienaga-contaminada-a-joya-del-turismo-de-naturaleza-mallorquin-el-tesoro-que-barranquilla-recupero-y-hoy-atrae-a-miles-de-visitantes-3592808",
      "domain": "El Tiempo",
      "seendate": "20261011T030100Z"
-    },
-    {
-     "title": "Más de 300 taxistas del aeropuerto de Barranquilla serán capacitados para convertirse en promotores turísticos",
-     "url": "https://www.eltiempo.com/colombia/barranquilla/mas-de-300-taxistas-del-aeropuerto-de-barranquilla-seran-capacitados-para-convertirse-en-promotores-turisticos-3592803",
-     "domain": "El Tiempo",
-     "seendate": "20261010T223652Z"
     }
    ]
   },
@@ -834,6 +816,12 @@
   },
   "ECU": {
    "articles": [
+    {
+     "title": "ECU911 alcanza interoperabilidad con 22.000 cámaras de entidades para reforzar la seguridad y encamina proceso de modernización con 40.000 nuevos equipos",
+     "url": "https://eluniverso.com/politica/seguridad/ecu911-alcanza-interoperabilidad-con-22000-camaras-de-entidades-para-reforzar-la-seguridad-y-encamina-proceso-de-modernizacion-con-40000-nuevos-equipos-nota/",
+     "domain": "El Universo",
+     "seendate": "20261011T180100Z"
+    },
     {
      "title": "Bomberos de Azogues atendieron emergencia por incendio forestal en Bosque Azul",
      "url": "https://eluniverso.com/comunidad/ecuador/incendio-forestal-en-bosque-azul-canar-ecu-911-nota/",
@@ -973,18 +961,6 @@
      "seendate": "20261010T181516Z"
     },
     {
-     "title": "‘El clima está excelente’: turistas disfrutan de las playas de Santa Elena durante el feriado",
-     "url": "https://eluniverso.com/comunidad/ecuador/el-clima-esta-excelente-turistas-disfrutan-de-las-playas-de-santa-elena-durante-el-feriado-nota/",
-     "domain": "El Universo",
-     "seendate": "20261010T171749Z"
-    },
-    {
-     "title": "Operativo militar contra la minería ilegal afecta en $ 3,6 millones a Los Lobos en El Oro",
-     "url": "https://eluniverso.com/politica/seguridad/operativo-militar-contra-la-mineria-ilegal-afecta-en-36-millones-a-los-lobos-en-el-oro-nota/",
-     "domain": "El Universo",
-     "seendate": "20261010T135436Z"
-    },
-    {
      "title": "Sofía Espín, candidata a la Prefectura del Guayas por el PSE: “La ampliación de concesiones viales tiene que ser fiscalizada”",
      "url": "https://eluniverso.com/politica/elecciones/sofia-espin-candidata-a-la-prefectura-del-guayas-por-el-pse-la-ampliacion-de-concesiones-viales-tiene-que-ser-fiscalizada-nota/",
      "domain": "El Universo",
@@ -995,10 +971,22 @@
   "PER": {
    "articles": [
     {
+     "title": "Temblor en Perú hoy, domingo 11 de octubre: Epicentro y de cuántos grados fue el sismo en Arequipa",
+     "url": "https://elcomercio.pe/peru/temblor-hoy-en-peru-en-vivo-reportes-del-igp-lugar-magnitud-y-ultimo-minuto-tdpe-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261011T175121Z"
+    },
+    {
      "title": "Sismo de magnitud 5.1 se registró esta mañana en Arequipa, según el IGP",
      "url": "https://elcomercio.pe/peru/arequipa/sismo-de-magnitud-51-se-registro-esta-manana-en-arequipa-segun-el-igp-ultimas-noticia/",
      "domain": "El Comercio",
      "seendate": "20261011T155720Z"
+    },
+    {
+     "title": "Reportes de temblor en Perú este 10 de octubre del 2026",
+     "url": "https://elcomercio.pe/peru/temblor-hoy-epicentro-magnitud-y-reporte-del-ultimo-sismo-en-peru-segun-igp-tdpe-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261011T015100Z"
     }
    ]
   },
@@ -1036,6 +1024,24 @@
   "ARG": {
    "articles": [
     {
+     "title": "Crecida del río Uruguay: evacuaron familias en Concordia y hay alerta en Corrientes y Entre Ríos por El Niño",
+     "url": "https://www.lanacion.com.ar/sociedad/crecida-del-rio-uruguay-evacuaron-familias-en-concordia-y-hay-alerta-en-corrientes-y-entre-rios-por-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261011T181626Z"
+    },
+    {
+     "title": "Aterosclerosis y trombosis: alimentaron animales con remolacha forrajera y el resultado fue sorprendente",
+     "url": "https://www.lanacion.com.ar/economia/campo/aterosclerosis-y-trombosis-alimentaron-animales-con-remolacha-forrajera-y-el-resultado-fue-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261011T180458Z"
+    },
+    {
+     "title": "Qué son las cadenas miofasciales: los ejercicios disruptivos que revolucionaron la forma de practicar el método pilates",
+     "url": "https://www.lanacion.com.ar/sociedad/que-son-las-cadenas-miofasciales-los-ejercicios-disruptivos-que-revolucionaron-la-forma-de-practicar-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261011T180000Z"
+    },
+    {
      "title": "Solo 14 provincias y la ciudad tienen pediatras en una especialidad clave para evitar secuelas con un diagnóstico precoz",
      "url": "https://www.lanacion.com.ar/sociedad/solo-14-provincias-y-la-ciudad-tienen-reumatologos-pediatras-en-la-mayoria-apenas-hay-uno-nid11102026/",
      "domain": "La Nación",
@@ -1046,12 +1052,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/mario-alonso-puig-medico-y-referente-en-desarrollo-personal-el-miedo-casi-nunca-aparece-donde-no-hay-nid11102026/",
      "domain": "La Nación",
      "seendate": "20261011T170000Z"
-    },
-    {
-     "title": "Aterosclerosis y trombosis: alimentaron animales con remolacha forrajera y el resultado fue sorprendente",
-     "url": "https://www.lanacion.com.ar/economia/campo/aterosclerosis-y-trombosis-alimentaron-animales-con-remolacha-forrajera-y-el-resultado-fue-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T163535Z"
     },
     {
      "title": "La Iglesia argentina pidió rezar por la salud del papa León XIV ante la operación a la que será sometido",
@@ -1286,30 +1286,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/calendario-escolar-cuando-terminan-las-clases-en-caba-nid30092026/",
      "domain": "La Nación",
      "seendate": "20261011T132542Z"
-    },
-    {
-     "title": "Calendario escolar: cuándo terminan las clases en la provincia de Buenos Aires",
-     "url": "https://www.lanacion.com.ar/sociedad/calendario-escolar-cuando-terminan-las-clases-en-la-provincia-de-buenos-aires-nid29092026/",
-     "domain": "La Nación",
-     "seendate": "20261011T132540Z"
-    },
-    {
-     "title": "Cuándo terminan las clases en la Argentina 2026, provincia por provincia",
-     "url": "https://www.lanacion.com.ar/sociedad/cuando-terminan-las-clases-en-la-argentina-2026-provincia-por-provincia-nid22092026/",
-     "domain": "La Nación",
-     "seendate": "20261011T132536Z"
-    },
-    {
-     "title": "Cuándo se festeja Halloween 2026 en la Argentina",
-     "url": "https://www.lanacion.com.ar/sociedad/cuando-se-festeja-halloween-2026-en-la-argentina-nid07102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T132534Z"
-    },
-    {
-     "title": "Cuándo es Halloween en la Argentina 2026",
-     "url": "https://www.lanacion.com.ar/sociedad/cuando-es-halloween-en-la-argentina-2026-nid24092026/",
-     "domain": "La Nación",
-     "seendate": "20261011T132531Z"
     }
    ]
   },
@@ -1325,6 +1301,12 @@
   },
   "PRY": {
    "articles": [
+    {
+     "title": "Día Nacional del Ñandutí: postergan festejos previstos en Itauguá por alerta meteorológica",
+     "url": "https://www.abc.com.py/nacionales/2026/10/11/dia-nacional-del-nanduti-postergan-festejos-previstos-en-itaugua-por-alerta-meteorologica/",
+     "domain": "ABC Color",
+     "seendate": "20261011T180401Z"
+    },
     {
      "title": "Cardenal Martínez lamentó el feminicidio de Deisy Paola: esto fue lo que dijo",
      "url": "https://www.abc.com.py/nacionales/2026/10/11/cardenal-martinez-lamento-el-feminicidio-de-deisy-paola-esto-fue-lo-que-dijo/",
@@ -1354,12 +1336,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/11/obispo-de-caacupe-advierte-que-los-vicios-destruyen-familias-y-alimentan-la-violencia/",
      "domain": "ABC Color",
      "seendate": "20261011T150517Z"
-    },
-    {
-     "title": "Catedral de Asunción recibió a cientos de devotos de San Miguel Arcángel",
-     "url": "https://www.abc.com.py/nacionales/2026/10/11/catedral-de-asuncion-recibio-a-cientos-de-devotos-de-san-miguel-arcangel/",
-     "domain": "ABC Color",
-     "seendate": "20261011T144154Z"
     }
    ]
   },
