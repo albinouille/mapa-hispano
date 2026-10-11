@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T15:17:55+00:00",
+ "updated": "2026-10-11T15:49:01+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -103,6 +103,24 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Habrá siete movilizaciones en la CDMX este domingo; prevén afectaciones viales",
+     "url": "https://www.eluniversal.com.mx/metropoli/habra-siete-movilizaciones-en-la-cdmx-este-domingo-preven-afectaciones-viales/",
+     "domain": "El Universal",
+     "seendate": "20261011T154037Z"
+    },
+    {
+     "title": "¿Qué significan los colores de alerta de un huracán?; conoce qué hacer ante cada alarma",
+     "url": "https://www.eluniversal.com.mx/estados/que-significan-los-colores-de-alerta-de-un-huracan-conoce-que-hacer-ante-cada-alarma/",
+     "domain": "El Universal",
+     "seendate": "20261011T152041Z"
+    },
+    {
+     "title": "CDMX tendrá domingo nublado y lluvias fuertes; prevén temperatura máxima de 23 grados",
+     "url": "https://www.eluniversal.com.mx/metropoli/cdmx-tendra-domingo-nublado-y-lluvias-fuertes-preven-temperatura-maxima-de-23-grados/",
+     "domain": "El Universal",
+     "seendate": "20261011T151710Z"
+    },
     {
      "title": "Fallece el periodista Francisco Garfias, columnista en Excelsior; comunicólogos expresan condolencias",
      "url": "https://www.eluniversal.com.mx/nacion/fallece-el-periodista-francisco-garfias-columnista-en-excelsior-comunicologos-expresan-condolencias/",
@@ -230,28 +248,10 @@
      "seendate": "20261011T032457Z"
     },
     {
-     "title": "Evacúan comunidad al norte de Comala, Colima, por Huracán \"Simon\"; son trasladados a un refugio temporal",
-     "url": "https://www.eluniversal.com.mx/estados/evacuan-comunidad-al-norte-de-comala-colima-por-huracan-simon-son-trasladados-a-un-refugio-temporal/",
-     "domain": "El Universal",
-     "seendate": "20261011T025606Z"
-    },
-    {
      "title": "Huracán Simon: fuertes olas golpean el malecón de Puerto Vallarta; elementos federales y estatales realizan patrullajes",
      "url": "https://www.eluniversal.com.mx/estados/huracan-simon-fuertes-olas-golpean-el-malecon-de-puerto-vallarta-elementos-federales-y-estatales-realizan-patrullajes/",
      "domain": "El Universal",
      "seendate": "20261011T022602Z"
-    },
-    {
-     "title": "IMSS respetará manifestaciones del personal médico; sindicato alista consulta sobre aumento salarial",
-     "url": "https://www.eluniversal.com.mx/nacion/imss-alista-consulta-para-empleados-sobre-aumento-salarial-zoe-robledo-admite-retos-financieros-y-operativos/",
-     "domain": "El Universal",
-     "seendate": "20261011T015106Z"
-    },
-    {
-     "title": "Cierran playas de Puerto Vallarta ante la proximidad del huracán Simon; se encuentran en alerta máxima",
-     "url": "https://www.eluniversal.com.mx/estados/cierran-playas-de-puerto-vallarta-ante-la-proximidad-del-huracan-simon-se-encuentran-en-alerta-maxima/",
-     "domain": "El Universal",
-     "seendate": "20261011T005649Z"
     },
     {
      "title": "Puerto Vallarta vive aparente calma antes de que \"Simon\" desate su furia",
@@ -294,12 +294,6 @@
      "url": "https://www.eluniversal.com.mx/estados/suspenden-actividades-no-esenciales-en-cuatro-estados-por-simon-huracan-mantiene-categoria-4/",
      "domain": "El Universal",
      "seendate": "20261010T174520Z"
-    },
-    {
-     "title": "Prevén que Huracán \"Simon\" y tormenta \"Rachel\" azoten con lluvias a 7 estados; consulta los municipios afectados",
-     "url": "https://www.eluniversal.com.mx/nacion/preven-que-huracan-simon-y-tormenta-rachel-azoten-con-lluvias-a-7-estados-consulta-los-municipios-afectados/",
-     "domain": "El Universal",
-     "seendate": "20261010T171214Z"
     },
     {
      "title": "Sheinbaum llama a la población a resguardarse tras intensificación de huracán Simon a categoría 3; pide mantenerse informado",
@@ -682,12 +676,6 @@
      "url": "https://www.prensa.com/politica/enrique-lau-bienes-de-lujo-circulo-familiar-y-fondos-que-no-ha-podido-justificar/",
      "domain": "La Prensa",
      "seendate": "20261009T050400Z"
-    },
-    {
-     "title": "¿Puede la Contraloría retirarse de las juntas directivas?",
-     "url": "https://www.prensa.com/politica/polemica-decision-de-flores-quien-vigila-las-juntas-directivas-sin-los-representantes-de-la-contraloria/",
-     "domain": "La Prensa",
-     "seendate": "20261009T050200Z"
     }
    ]
   },
@@ -790,12 +778,6 @@
      "seendate": "20261009T114832Z"
     },
     {
-     "title": "Cáritas recibe ayuda de EE UU para familias vulnerables de la diócesis de Pinar del Río",
-     "url": "https://www.14ymedio.com/cuba/caritas-recibe-ayuda-ee-uu_1_1131718.html",
-     "domain": "14ymedio",
-     "seendate": "20261009T104837Z"
-    },
-    {
      "title": "La Habana huele a gasolina y a aguas albañales",
      "url": "https://www.14ymedio.com/cuba/habana-huele-gasolina-aguas-albanales_1_1131709.html",
      "domain": "14ymedio",
@@ -806,12 +788,6 @@
      "url": "https://www.14ymedio.com/cuba/cardiologia-ultrasonidos-obstetricos-odontologia-medicina_1_1131706.html",
      "domain": "14ymedio",
      "seendate": "20261008T210555Z"
-    },
-    {
-     "title": "Los dólares que no aparecen al volver de una misión médica en Angola",
-     "url": "https://www.14ymedio.com/cuba/dolares-no-aparecen-volver-mision_1_1131693.html",
-     "domain": "14ymedio",
-     "seendate": "20261008T151347Z"
     },
     {
      "title": "\"Salir de aquí es ser libre\": el 'freestyle' pone en verso las angustias de los jóvenes cubanos",
@@ -1120,6 +1096,24 @@
   "ARG": {
    "articles": [
     {
+     "title": "Yesica Espínola, cabañera de 34 años: “Las vacas no tienen ni feriado ni fines de semana, por eso estamos todos los días pendientes”",
+     "url": "https://www.lanacion.com.ar/economia/campo/yesica-espinola-cabanera-34-anos-y-al-frente-de-un-equipo-de-hombres-algunos-renegaban-de-que-los-nid08102026/",
+     "domain": "La Nación",
+     "seendate": "20261011T152903Z"
+    },
+    {
+     "title": "El economista Alberto Ades explicó por qué participó de la reunión de Gabinete",
+     "url": "https://www.lanacion.com.ar/economia/el-economista-alberto-ades-explico-por-que-participo-de-la-reunion-de-gabinete-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261011T152628Z"
+    },
+    {
+     "title": "Nelson Ginter, de 62 años, el productor de huevos de color azul más austral del mundo: “Si los dejás más de un día se congelan”",
+     "url": "https://www.lanacion.com.ar/economia/campo/nelson-ginter-de-62-anos-el-productor-de-huevos-mas-austral-del-mundo-si-los-dejas-mas-de-un-dia-se-nid09102026/",
+     "domain": "La Nación",
+     "seendate": "20261011T152431Z"
+    },
+    {
      "title": "La pregunta que cambió todo: una familia se animó a un negocio que no tenía en sus planes con la carne y hoy llega a Suiza, Dubái, Estados Unidos e Israel",
      "url": "https://www.lanacion.com.ar/economia/campo/la-pregunta-que-cambio-todo-una-familia-se-animo-a-un-negocio-que-no-tenia-en-sus-planes-con-la-nid10102026/",
      "domain": "La Nación",
@@ -1370,24 +1364,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/un-especialista-advirtio-por-que-crecen-los-castigos-como-metodo-de-disciplina-nid11102026/",
      "domain": "La Nación",
      "seendate": "20261011T130000Z"
-    },
-    {
-     "title": "Frase destacada del día, Stephen Hawking, físico: “El mayor enemigo del conocimiento no es la ignorancia, sino la ilusión del conocimiento”",
-     "url": "https://www.lanacion.com.ar/sociedad/frase-destacada-del-dia-stephen-hawking-fisico-el-mayor-enemigo-del-conocimiento-no-es-la-ignorancia-nid10102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T123308Z"
-    },
-    {
-     "title": "Dólar hoy y dólar blue hoy: a cuánto cotiza este domingo 11 de octubre",
-     "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-hoy-a-cuanto-cotiza-este-domingo-11-de-octubre-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T122613Z"
-    },
-    {
-     "title": "El gobierno de EE.UU. no ve que en el caso $LIBRA haya pruebas de un delito",
-     "url": "https://www.lanacion.com.ar/politica/caso-libra-eeuu-rechazo-el-pedido-de-colaboracion-de-la-justicia-argentina-tras-concluir-que-faltan-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T122529Z"
     }
    ]
   },
@@ -1434,6 +1410,12 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "Nunes Marques passa por cima de corregedor do TSE, atende pedido de Flávio Bolsonaro e manda derrubar canal 'Exército de Lula'",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/11/kassio-nunes-passa-por-cima-de-corregedor-atende-pedido-de-flavio-e-manda-derrubar-canal-exercito-de-lula.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261011T150424Z"
+    },
     {
      "title": "CNBB cita dia de Nossa Senhora e envia oração ao Papa Leão XIV: 'confiamos sua saúde à intercessão da Padroeira do Brasil'",
      "url": "https://oglobo.globo.com/brasil/noticia/2026/10/11/cnbb-cita-dia-de-nossa-senhora-e-envia-oracao-ao-papa-leao-xiv-confiamos-sua-saude-a-intercessao-da-padroeira-do-brasil.ghtml",
@@ -1491,18 +1473,6 @@
     {
      "title": "Ouro invisível: a teia de R$ 10 bilhões que liga a Amazônia às joalherias da Suíça e Itália",
      "url": "https://oglobo.globo.com/brasil/especial/ouro-invisivel-a-teia-de-r-10-bilhoes-que-liga-a-amazonia-as-joalherias-da-suica-e-italia.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261011T063000Z"
-    },
-    {
-     "title": "Vitória de Flávio no 1º turno faz PL articular anistia para tirar Jair Bolsonaro da prisão em 2026",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/11/vitoria-de-flavio-no-1o-turno-faz-pl-articular-anistia-para-tirar-jair-bolsonaro-da-prisao-em-2026.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261011T063000Z"
-    },
-    {
-     "title": "Tarcísio projeta reforma no secretariado em SP com menos espaço para o PSD de Kassab",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/11/tarcisio-projeta-reforma-no-secretariado-em-sp-com-menos-espaco-para-o-psd-de-kassab.ghtml",
      "domain": "O Globo",
      "seendate": "20261011T063000Z"
     }
