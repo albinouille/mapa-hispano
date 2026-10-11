@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T11:48:43+00:00",
+ "updated": "2026-10-11T12:21:57+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -252,12 +252,6 @@
      "url": "https://www.eluniversal.com.mx/estados/jose-brana-sobrino-de-amlo-se-registra-para-buscar-coordinacion-de-la-4t-en-ciudad-victoria-tamaulipas-realiza-anuncio-en-redes-sociales/",
      "domain": "El Universal",
      "seendate": "20261011T013232Z"
-    },
-    {
-     "title": "Madre e hijo mueren ahogados en río de Tamaulipas; habían ido a divertirse",
-     "url": "https://www.eluniversal.com.mx/estados/madre-e-hijo-mueren-ahogados-en-rio-de-tamaulipas-habian-ido-a-divertirse/",
-     "domain": "El Universal",
-     "seendate": "20261011T011332Z"
     },
     {
      "title": "Cierran playas de Puerto Vallarta ante la proximidad del huracán Simon; se encuentran en alerta máxima",
@@ -534,18 +528,6 @@
      "url": "https://www.nacion.com/el-pais/chances-de-la-jps-estos-son-los-numeros-ganadores/K72LTMCCBFEJDC37BAO6DZ5G5I/story/",
      "domain": "La Nación",
      "seendate": "20261010T015836Z"
-    },
-    {
-     "title": "Fuertes lluvias provocan inundaciones dentro del Hospital de Guápiles",
-     "url": "https://www.nacion.com/sucesos/fuertes-lluvias-provocan-inundaciones-dentro-del/X4C4633S6NGBDDUU443STLMM2U/story/",
-     "domain": "La Nación",
-     "seendate": "20261010T015412Z"
-    },
-    {
-     "title": "Colegio de Enfermeras denuncia que empresa de publicidad retiró sus anuncios sobre atrasos salariales en CCSS por una supuesta orden del gobierno",
-     "url": "https://www.nacion.com/el-pais/colegio-de-enfermeras-denuncia-que-por-una/F7LDMOGBWZBX5DC2KRCLICAVGU/story/",
-     "domain": "La Nación",
-     "seendate": "20261010T012701Z"
     }
    ]
   },
@@ -860,12 +842,6 @@
      "url": "https://www.14ymedio.com/cuba/salir-libre-freestyle-pone-verso_1_1131556.html",
      "domain": "14ymedio",
      "seendate": "20261005T173511Z"
-    },
-    {
-     "title": "Libros para salvaguardar un país que se pierde",
-     "url": "https://www.14ymedio.com/cuba/libros-salvaguardar-pais-pierde_1_1131499.html",
-     "domain": "14ymedio",
-     "seendate": "20261004T120558Z"
     }
    ]
   },
@@ -960,6 +936,18 @@
   },
   "ECU": {
    "articles": [
+    {
+     "title": "San Pedro de Huaca despide a Carolina Pérez Cuasquer tras seis años de búsqueda e incertidumbre",
+     "url": "https://eluniverso.com/comunidad/ecuador/san-pedro-de-huaca-despide-a-carolina-perez-cuasquer-tras-seis-anos-de-busqueda-e-incertidumbre-nota/",
+     "domain": "El Universo",
+     "seendate": "20261011T121518Z"
+    },
+    {
+     "title": "Antes de llegar a una lata, el atún se busca desde el cielo: Jonathan Chiluisa sobrevuela el Pacífico en helicóptero para encontrar cardúmenes",
+     "url": "https://eluniverso.com/noticias/ecuador/pesca-de-atun-en-ecuador-asi-trabaja-un-piloto-desde-manta-nota/",
+     "domain": "El Universo",
+     "seendate": "20261011T120100Z"
+    },
     {
      "title": "En la Asamblea Nacional hay una docena de proyectos de ley para regular el uso de la inteligencia artificial en Ecuador",
      "url": "https://eluniverso.com/politica/asamblea-nacional/asamblea-nacional-reposa-docena-proyectos-ley-regular-uso-inteligencia-artificial-ecuador-nota/",
@@ -1222,6 +1210,12 @@
      "seendate": "20261011T030243Z"
     },
     {
+     "title": "Lo que la Argentina gana con la ola azul de Brasil",
+     "url": "https://www.lanacion.com.ar/economia/lo-que-la-argentina-gana-con-la-ola-azul-de-brasil-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261011T030100Z"
+    },
+    {
      "title": "“Pérdida de agencia humana”: los desafíos de la educación frente a la IA, según el rector de la Universidad Siglo 21",
      "url": "https://www.lanacion.com.ar/economia/IA/perdida-de-agencia-humana-los-desafios-de-la-educacion-frente-a-la-ia-segun-el-rector-de-la-nid11102026/",
      "domain": "La Nación",
@@ -1234,14 +1228,8 @@
      "seendate": "20261011T030100Z"
     },
     {
-     "title": "Lo que la Argentina gana con la ola azul de Brasil",
-     "url": "https://www.lanacion.com.ar/economia/lo-que-la-argentina-gana-con-la-ola-azul-de-brasil-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T030100Z"
-    },
-    {
-     "title": "Hay alerta amarilla por nevadas para este domingo 11 de octubre: las provincias afectadas",
-     "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-nevadas-para-este-domingo-11-de-octubre-las-provincias-afectadas-nid11102026/",
+     "title": "La Argentina exportadora: hasta dónde puede llegar la nueva fábrica de dólares",
+     "url": "https://www.lanacion.com.ar/economia/la-argentina-exportadora-hasta-donde-puede-llegar-la-nueva-fabrica-de-dolares-nid11102026/",
      "domain": "La Nación",
      "seendate": "20261011T030100Z"
     },
@@ -1252,20 +1240,8 @@
      "seendate": "20261011T030100Z"
     },
     {
-     "title": "Los aprendizajes que nos dejó el 62° Coloquio de IDEA",
-     "url": "https://www.lanacion.com.ar/economia/los-aprendizajes-que-nos-dejo-el-62-coloquio-de-idea-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T030100Z"
-    },
-    {
      "title": "Los riesgos de delegarle a la IA un plan estratégico",
      "url": "https://www.lanacion.com.ar/economia/las-sombras-del-pensamiento-estrategico-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T030100Z"
-    },
-    {
-     "title": "La Argentina exportadora: hasta dónde puede llegar la nueva fábrica de dólares",
-     "url": "https://www.lanacion.com.ar/economia/la-argentina-exportadora-hasta-donde-puede-llegar-la-nueva-fabrica-de-dolares-nid11102026/",
      "domain": "La Nación",
      "seendate": "20261011T030100Z"
     },
@@ -1276,28 +1252,22 @@
      "seendate": "20261011T030100Z"
     },
     {
+     "title": "Los aprendizajes que nos dejó el 62° Coloquio de IDEA",
+     "url": "https://www.lanacion.com.ar/economia/los-aprendizajes-que-nos-dejo-el-62-coloquio-de-idea-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261011T030100Z"
+    },
+    {
+     "title": "Hay alerta amarilla por nevadas para este domingo 11 de octubre: las provincias afectadas",
+     "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-nevadas-para-este-domingo-11-de-octubre-las-provincias-afectadas-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261011T030100Z"
+    },
+    {
      "title": "Tony Robbins, experto en desarrollo personal: “Todos somos egoístas a veces, pero si te quedás ahí, sufrís”",
      "url": "https://www.lanacion.com.ar/sociedad/tony-robbins-experto-en-desarrollo-personal-todos-somos-egoistas-a-veces-pero-si-te-quedas-ahi-nid10102026/",
      "domain": "La Nación",
      "seendate": "20261011T010000Z"
-    },
-    {
-     "title": "Frase destacada del día, Stephen Hawking, físico: “El mayor enemigo del conocimiento no es la ignorancia, sino la ilusión del conocimiento”",
-     "url": "https://www.lanacion.com.ar/sociedad/frase-destacada-del-dia-stephen-hawking-fisico-el-mayor-enemigo-del-conocimiento-no-es-la-ignorancia-nid10102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T002200Z"
-    },
-    {
-     "title": "El oficialismo impulsa un ambiciosa megasesión en Diputados para bloquear una ofensiva opositora",
-     "url": "https://www.lanacion.com.ar/politica/el-oficialismo-impulsa-un-ambiciosa-megasesion-en-diputados-para-bloquear-una-ofensiva-opositora-nid10102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T000443Z"
-    },
-    {
-     "title": "Conrado Estol, neurólogo: “Crucigramas, juegos o ajedrez sirven para cargar tu mochila cognitiva y evitar que el cerebro se deteriore”",
-     "url": "https://www.lanacion.com.ar/sociedad/conrado-estol-neurologo-crucigramas-juegos-o-ajedrez-sirven-para-cargar-tu-mochila-cognitiva-y-nid10102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T000000Z"
     }
    ]
   },
@@ -1409,18 +1379,6 @@
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/10/felipe-nunes-flavio-foi-melhor-que-jair-foi-o-agro-estupido.ghtml",
      "domain": "O Globo",
      "seendate": "20261010T201837Z"
-    },
-    {
-     "title": "'Não posso pedir voto, mas se pudesse pediria para o Flávio', diz Bispo Samuel Ferreira em evento evangélico com candidato no Maracanãzinho",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/10/nao-posso-pedir-voto-mas-se-pudesse-pediria-para-o-flavio-bolsonaro-diz-bispo-samuel-ferreira-em-evento-evangelico-com-candidato-no-maracanazinho.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261010T200609Z"
-    },
-    {
-     "title": "'Missão está apenas começando', afirma Douglas Ruas após retotalização no TRE-RJ",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/10/missao-esta-apenas-comecando-afirma-douglas-ruas-apos-retotalizacao-no-tre-rj.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261010T192349Z"
     }
    ]
   }
