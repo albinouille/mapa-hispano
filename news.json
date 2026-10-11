@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T22:49:40+00:00",
+ "updated": "2026-10-11T23:16:56+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -456,19 +456,13 @@
      "url": "https://www.nacion.com/politica/candidatos-a-dirigir-el-pln-rechazan-imposiciones/6FKUYCIPIBALVNEVXN455J6SZI/story/",
      "domain": "La Nación",
      "seendate": "20261010T184707Z"
-    },
-    {
-     "title": "¿Hay costarricenses en Panamá afectados por el temblor de magnitud 7,7? Esto dicen los Consulados",
-     "url": "https://www.nacion.com/el-pais/hay-costarricenses-en-panama-afectados-por-el/3AVECEDCFFBZ3MDQAWFEWTOFWA/story/",
-     "domain": "La Nación",
-     "seendate": "20261010T170633Z"
     }
    ]
   },
   "PAN": {
    "articles": [
     {
-     "title": "En vivo: terremoto en Panamá: Gobierno actualiza informe sobre las afectaciones",
+     "title": "En vivo. terremoto en Panamá: Gobierno actualiza informe sobre las afectaciones",
      "url": "https://www.prensa.com/politica/en-vivo-terremoto-en-panama-gobierno-actualiza-informe-sobre-las-afectaciones/",
      "domain": "La Prensa",
      "seendate": "20261011T224307Z"
@@ -797,16 +791,16 @@
   "COL": {
    "articles": [
     {
+     "title": "Ciudadano australiano recibió 25 puñaladas en Medellín: investigan posible hurto tras salir de un evento",
+     "url": "https://www.eltiempo.com/colombia/medellin/australiano-recibio-25-punaladas-en-medellin-tras-salir-del-festival-edc-investigan-posible-hurto-3592919",
+     "domain": "El Tiempo",
+     "seendate": "20261011T230040Z"
+    },
+    {
      "title": "Bloqueo en Tasajera paraliza la vía Santa Marta-Barranquilla: comunidad protesta por falta de agua potable",
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/bloqueo-en-tasajera-paraliza-la-via-santa-marta-barranquilla-comunidad-protesta-por-falta-de-agua-potable-3592929",
      "domain": "El Tiempo",
      "seendate": "20261011T222708Z"
-    },
-    {
-     "title": "Ciudadano australiano recibió 25 puñaladas en Medellín: investigan posible hurto tras salir de un evento",
-     "url": "https://www.eltiempo.com/colombia/medellin/australiano-recibio-25-punaladas-en-medellin-tras-salir-del-festival-edc-investigan-posible-hurto-3592919",
-     "domain": "El Tiempo",
-     "seendate": "20261011T221851Z"
     },
     {
      "title": "Un extranjero murió durante el primer día del festival de música electrónica EDC en la Unidad Deportiva Atanasio Girardot de Medellín",
@@ -1031,6 +1025,12 @@
   "PER": {
    "articles": [
     {
+     "title": "Incendios forestales se mantienen activos en otras tres regiones de Perú",
+     "url": "https://elcomercio.pe/peru/incendios-forestales-se-mantienen-activos-en-otras-tres-regiones-de-peru-ayacucho-moquegua-puno-ultimas-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261011T224924Z"
+    },
+    {
      "title": "Temblor en Arequipa hoy, domingo 11 de octubre: Sismos en Perú vía IGP, lugar y magnitud",
      "url": "https://elcomercio.pe/peru/temblor-hoy-en-peru-en-vivo-reportes-del-igp-lugar-magnitud-y-ultimo-minuto-tdpe-noticia/",
      "domain": "El Comercio",
@@ -1077,6 +1077,18 @@
   },
   "ARG": {
    "articles": [
+    {
+     "title": "El Gobierno y la Iglesia argentina enviaron mensajes de afecto al Papa y evitaron hacer especulaciones sobre su visita",
+     "url": "https://www.lanacion.com.ar/politica/el-gobierno-y-la-iglesia-argentina-enviaron-mensajes-de-afecto-al-papa-y-evitaron-hacer-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261011T231205Z"
+    },
+    {
+     "title": "Estas son las tres claves imbatibles para alcanzar un descanso reparador",
+     "url": "https://www.lanacion.com.ar/sociedad/estas-son-las-tres-claves-imbatibles-para-alcanzar-un-descanso-reparador-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261011T230000Z"
+    },
     {
      "title": "Luego de 20 días: el cuerpo hallado en Las Toninas fue identificado como uno de los kayakistas desaparecidos",
      "url": "https://www.lanacion.com.ar/sociedad/luego-de-20-dias-el-cuerpo-hallado-en-las-toninas-fue-identificado-como-uno-de-los-kayakistas-nid11102026/",
@@ -1226,24 +1238,6 @@
      "url": "https://www.lanacion.com.ar/politica/la-iglesia-argentina-pidio-rezar-por-la-salud-del-papa-leon-xiv-ante-la-operacion-a-la-que-sera-nid11102026/",
      "domain": "La Nación",
      "seendate": "20261011T160527Z"
-    },
-    {
-     "title": "Yesica Espínola, cabañera de 34 años: “Las vacas no tienen ni feriado ni fines de semana, por eso estamos todos los días pendientes”",
-     "url": "https://www.lanacion.com.ar/economia/campo/yesica-espinola-cabanera-34-anos-y-al-frente-de-un-equipo-de-hombres-algunos-renegaban-de-que-los-nid08102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T152903Z"
-    },
-    {
-     "title": "El economista Alberto Ades explicó por qué participó de la reunión de Gabinete",
-     "url": "https://www.lanacion.com.ar/economia/el-economista-alberto-ades-explico-por-que-participo-de-la-reunion-de-gabinete-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T152628Z"
-    },
-    {
-     "title": "Nelson Ginter, de 62 años, el productor de huevos de color azul más austral del mundo: “Si los dejás más de un día se congelan”",
-     "url": "https://www.lanacion.com.ar/economia/campo/nelson-ginter-de-62-anos-el-productor-de-huevos-mas-austral-del-mundo-si-los-dejas-mas-de-un-dia-se-nid09102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T152431Z"
     }
    ]
   },
@@ -1326,6 +1320,12 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "Incêndio de grandes proporções atinge Igreja Matriz de Treze de Maio, em Santa Catarina",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/11/incendio-de-grandes-proporcoes-atinge-igreja-matriz-de-treze-de-maio-em-santa-catarina.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261011T213747Z"
+    },
     {
      "title": "Flávio Bolsonaro apresenta pedido de investigação contra diretor-geral da PF por suposto uso eleitoral da corporação",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/11/flavio-bolsonaro-apresenta-pedido-de-investigacao-contra-diretor-geral-da-pf-por-suposto-uso-eleitoral-da-corporacao.ghtml",
@@ -1421,12 +1421,6 @@
      "url": "https://oglobo.globo.com/brasil/noticia/2026/10/11/cirio-de-nazare-2026-corda-se-rompe-durante-trasladacao-devotos-disputam-pedacos-e-procissao-atrasa-em-belem.ghtml",
      "domain": "O Globo",
      "seendate": "20261011T105818Z"
-    },
-    {
-     "title": "Ala do TSE vê interferência de Nunes Marques em julgamentos para favorecer Flávio Bolsonaro",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/11/ala-do-tse-ve-interferencia-de-nunes-marques-em-julgamentos-para-favorecer-flavio-bolsonaro.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261011T080001Z"
     }
    ]
   }
