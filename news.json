@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T21:17:42+00:00",
+ "updated": "2026-10-11T21:49:41+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -294,18 +294,6 @@
      "url": "https://www.eluniversal.com.mx/metropoli/ambulantes-copan-plazas-seran-rehabilitadas/",
      "domain": "El Universal",
      "seendate": "20261011T090400Z"
-    },
-    {
-     "title": "Piden a las autoridades que los volteen a ver",
-     "url": "https://www.eluniversal.com.mx/estados/piden-a-las-autoridades-que-los-volteen-a-ver/",
-     "domain": "El Universal",
-     "seendate": "20261011T090200Z"
-    },
-    {
-     "title": "“Estamos con temor de que se vuelva a salir el río”",
-     "url": "https://www.eluniversal.com.mx/estados/estamos-con-temor-de-que-se-vuelva-a-salir-el-rio/",
-     "domain": "El Universal",
-     "seendate": "20261011T090100Z"
     },
     {
      "title": "Birmex adquiere 2.5 millones de vacunas covid por 31 mil mdp; entrega de inmunización será hasta 2030",
@@ -803,6 +791,12 @@
   "COL": {
    "articles": [
     {
+     "title": "Australiano recibió 25 puñaladas en Medellín tras salir del festival EDC: investigan posible hurto",
+     "url": "https://www.eltiempo.com/colombia/medellin/australiano-recibio-25-punaladas-en-medellin-tras-salir-del-festival-edc-investigan-posible-hurto-3592919",
+     "domain": "El Tiempo",
+     "seendate": "20261011T211756Z"
+    },
+    {
      "title": "'Tránsito suspendido por dron desconocido': lo que se sabe del episodio que obligó a detener la operación del aeropuerto José María Córdova",
      "url": "https://www.eltiempo.com/colombia/medellin/transito-suspendido-por-dron-desconocido-lo-que-se-sabe-del-episodio-que-obligo-a-detener-la-operacion-del-aeropuerto-jose-maria-cordova-3592912",
      "domain": "El Tiempo",
@@ -855,12 +849,6 @@
      "url": "https://www.eltiempo.com/colombia/medellin/pense-que-hasta-aqui-habia-llegado-sentimos-que-caia-en-picada-el-angustiante-relato-de-una-de-las-pasajeras-del-vuelo-entre-medellin-y-nueva-york-3592812",
      "domain": "El Tiempo",
      "seendate": "20261011T110100Z"
-    },
-    {
-     "title": "Suspenden temporalmente las operaciones en el aeropuerto José María Córdova de Rionegro, Antioquia, por presencia de un dron",
-     "url": "https://www.eltiempo.com/colombia/medellin/suspenden-temporalmente-las-operaciones-en-el-aeropuerto-jose-maria-cordova-de-rionegro-antioquia-por-presencia-de-un-dron-3592843",
-     "domain": "El Tiempo",
-     "seendate": "20261011T042723Z"
     }
    ]
   },
@@ -888,6 +876,12 @@
   },
   "ECU": {
    "articles": [
+    {
+     "title": "Mujer de 61 años recibe la primera cirugía bilateral de prótesis de rodilla en el hospital Miguel Hilario Alcívar, en Manabí",
+     "url": "https://eluniverso.com/politica/ejecutivo/mujer-de-61-anos-recibe-la-primera-cirugia-bilateral-de-protesis-de-rodilla-en-el-hospital-miguel-hilario-alcivar-en-manabi-nota/",
+     "domain": "El Universo",
+     "seendate": "20261011T213604Z"
+    },
     {
      "title": "Lluvias y ráfagas de viento: nueva alerta del Inamhi para el Litoral y la cordillera occidental",
      "url": "https://eluniverso.com/comunidad/ecuador/lluvias-y-rafagas-de-viento-nueva-alerta-del-inamhi-para-el-litoral-y-la-cordillera-occidental-nota/",
@@ -1084,28 +1078,46 @@
   "ARG": {
    "articles": [
     {
+     "title": "Murió un argentino en Punta Cana tras chocar contra un camión mientras circulaba en moto",
+     "url": "https://www.lanacion.com.ar/sociedad/murio-un-argentino-en-punta-cana-tras-chocar-contra-un-camion-mientras-circulaba-en-moto-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261011T213902Z"
+    },
+    {
+     "title": "El mensaje de Milei al Papa tras el anuncio de su problema de salud: “Toda la Argentina lo acompaña”",
+     "url": "https://www.lanacion.com.ar/politica/el-mensaje-de-milei-al-papa-tras-el-anuncio-de-su-problema-de-salud-toda-la-argentina-lo-acompana-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261011T212716Z"
+    },
+    {
+     "title": "La Corte frenó a los jueces que recortan los honorarios de los abogados y debaten posibles sanciones en el Consejo",
+     "url": "https://www.lanacion.com.ar/politica/la-corte-freno-a-los-jueces-que-recortan-los-honorarios-de-los-abogados-y-debaten-posibles-sanciones-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261011T212630Z"
+    },
+    {
+     "title": "Luego de 20 días: el cuerpo hallado en Las Toninas fue identificado como uno de los kayakistas desaparecidos",
+     "url": "https://www.lanacion.com.ar/sociedad/luego-de-20-dias-el-cuerpo-hallado-en-las-toninas-fue-identificado-como-uno-de-los-kayakistas-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261011T212542Z"
+    },
+    {
+     "title": "El Gobierno comenzó el traslado de presos de la cárcel de Devoto a Marcos Paz",
+     "url": "https://www.lanacion.com.ar/seguridad/el-gobierno-comenzo-el-traslado-de-presos-de-la-carcel-de-devoto-a-marcos-paz-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261011T212240Z"
+    },
+    {
      "title": "Por el cambio de hábitos, ya hay 672 sucursales bancarias menos que hace siete años",
      "url": "https://www.lanacion.com.ar/economia/por-el-cambio-de-habitos-ya-hay-672-sucursales-bancarias-menos-que-hace-siete-anos-nid11102026/",
      "domain": "La Nación",
      "seendate": "20261011T211328Z"
     },
     {
-     "title": "Murió un argentino en Punta Cana tras chocar contra un camión mientras circulaba en moto",
-     "url": "https://www.lanacion.com.ar/sociedad/murio-un-argentino-en-punta-cana-tras-chocar-contra-un-camion-mientras-circulaba-en-moto-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T211157Z"
-    },
-    {
      "title": "Golpearon, desnudaron y ataron a un árbol a un hombre acusado de asaltar a un repartidor en Quilmes",
      "url": "https://www.lanacion.com.ar/seguridad/golpearon-desnudaron-y-ataron-a-un-arbol-a-un-hombre-acusado-de-asaltar-a-un-repartidor-en-quilmes-nid11102026/",
      "domain": "La Nación",
      "seendate": "20261011T210943Z"
-    },
-    {
-     "title": "El Gobierno comenzó el traslado de presos de la cárcel de Devoto a Marcos Paz",
-     "url": "https://www.lanacion.com.ar/seguridad/el-gobierno-comenzo-el-traslado-de-presos-de-la-carcel-de-devoto-a-marcos-paz-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T210707Z"
     },
     {
      "title": "La cirugía del Papa: qué es un nódulo pulmonar, cómo se opera y cuánto tarda la recuperación, según los expertos",
@@ -1124,12 +1136,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/crecida-del-rio-uruguay-evacuaron-familias-en-concordia-y-hay-alerta-en-corrientes-y-entre-rios-por-nid11102026/",
      "domain": "La Nación",
      "seendate": "20261011T202942Z"
-    },
-    {
-     "title": "El mensaje de Milei al Papa tras el anuncio de su problema de salud: “Toda la Argentina lo acompaña”",
-     "url": "https://www.lanacion.com.ar/politica/el-mensaje-de-milei-al-papa-tras-el-anuncio-de-su-problema-de-salud-toda-la-argentina-lo-acompana-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T202941Z"
     },
     {
      "title": "Solo 14 provincias y la ciudad tienen pediatras en una especialidad clave para evitar secuelas con un diagnóstico precoz",
