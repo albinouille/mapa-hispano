@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T01:26:18+00:00",
+ "updated": "2026-10-12T01:53:40+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -86,7 +86,7 @@
   "MEX": {
    "articles": [
     {
-     "title": "Alcaldes de Morena no tienen reelección asegurada; deberán ir a encuesta, dice líder guinda en CDMX",
+     "title": "Alcaldes de Morena no tienen nominación asegurada; deberán ir a encuesta interna, dice líder guinda en CDMX",
      "url": "https://www.eluniversal.com.mx/metropoli/alcaldes-de-morena-no-tienen-reeleccion-asegurada-deberan-ir-a-encuesta-dice-lider-guinda-en-cdmx/",
      "domain": "El Universal",
      "seendate": "20261012T011312Z"
@@ -98,7 +98,7 @@
      "seendate": "20261012T011209Z"
     },
     {
-     "title": "Asesinan a balazos a dos jugadores en cancha de futbol en Mazatlán; Fiscalía investiga el ataque",
+     "title": "Mazatlán vive nueva jornada violenta; asesinan a dos hombres en cancha de futbol",
      "url": "https://www.eluniversal.com.mx/estados/asesinan-a-balazos-a-dos-jugadores-en-cancha-de-futbol-en-mazatlan-fiscalia-investiga-el-ataque/",
      "domain": "El Universal",
      "seendate": "20261012T004905Z"
@@ -290,12 +290,6 @@
      "seendate": "20261011T160228Z"
     },
     {
-     "title": "En hechos distintos, ataques a balazos dejan 2 mujeres sin vida en Sinaloa; Escuinapa suma 17 feminicidios en el año",
-     "url": "https://www.eluniversal.com.mx/estados/en-hechos-distintos-ataques-a-balazos-dejan-2-mujeres-sin-vida-en-sinaloa-escuinapa-suma-17-feminicidios-en-el-ano/",
-     "domain": "El Universal",
-     "seendate": "20261011T155123Z"
-    },
-    {
      "title": "Huracán Simon se degrada a categoría 3; sigue EN VIVO su trayectoria y afectaciones",
      "url": "https://www.eluniversal.com.mx/estados/huracan-simon-se-acerca-a-las-costas-del-pacifico-mexicano-sigue-en-vivo-su-trayectoria/",
      "domain": "El Universal",
@@ -397,6 +391,12 @@
   },
   "CRI": {
    "articles": [
+    {
+     "title": "Policía de Fronteras decomisa 103 bultos con aparente cocaína",
+     "url": "https://www.nacion.com/sucesos/policia-de-fronteras-decomisa-103-bultos-con/GG4OZP6WKZDHDDVTUJYIIBJIJQ/story/",
+     "domain": "La Nación",
+     "seendate": "20261012T013759Z"
+    },
     {
      "title": "Ovsicori registra más de 300 réplicas tras terremoto en Panamá",
      "url": "https://www.nacion.com/el-pais/ovsicori-registra-mas-de-300-replicas-tras/ZQMWOZJKIZBRDG3TZLQPMXW64A/story/",
@@ -901,7 +901,7 @@
   "ECU": {
    "articles": [
     {
-     "title": "Alias ‘Gato’, presunto integrante de los ChoneKillers, fue capturado en Nobol",
+     "title": "Alias ‘Gato’, presunto integrante de los Chone Killers, fue capturado en Nobol",
      "url": "https://eluniverso.com/politica/seguridad/alias-gato-presunto-integrante-de-los-chonekillers-fue-capturado-en-nobol-nota/",
      "domain": "El Universo",
      "seendate": "20261012T010905Z"
@@ -973,7 +973,7 @@
      "seendate": "20261011T172915Z"
     },
     {
-     "title": "Proyecto busca regular los sistemas de financiamiento y la compra de vehículos",
+     "title": "Proyecto busca regular los sistemas de financiamiento y compra de vehículos",
      "url": "https://eluniverso.com/politica/asamblea-nacional/proyecto-para-proteger-al-consumidor-de-sistemas-de-financiamiento-y-compra-de-vehiculos-nota/",
      "domain": "El Universo",
      "seendate": "20261011T171500Z"
