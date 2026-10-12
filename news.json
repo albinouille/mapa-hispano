@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T16:52:00+00:00",
+ "updated": "2026-10-12T17:19:59+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -26,6 +26,12 @@
      "url": "https://elpais.com/espana/2026-10-12/sanchez-confirma-la-entrada-de-buques-de-guerra-marroquies-en-aguas-espanolas-el-dia-de-la-entrada-masiva-fueron-dias-intensos.html",
      "domain": "El País",
      "seendate": "20261012T160752Z"
+    },
+    {
+     "title": "Illa viaja a Bruselas para acudir al Comité de las Regiones y reunirse con Costa y Ribera",
+     "url": "https://elpais.com/espana/catalunya/2026-10-12/illa-viaja-a-bruselas-para-acudir-al-comite-de-las-regiones-y-reunirse-con-costa-y-ribera.html",
+     "domain": "El País",
+     "seendate": "20261012T153816Z"
     },
     {
      "title": "Comuns acusa a Rufián de azuzar la división en las izquierdas por su acuerdo con Podemos",
@@ -68,12 +74,6 @@
      "url": "https://elpais.com/espana/2026-10-12/el-rey-preside-un-desfile-militar-marcado-por-el-adelanto-electoral.html",
      "domain": "El País",
      "seendate": "20261012T104607Z"
-    },
-    {
-     "title": "Illa lamenta que TV3 de voz a discursos antivacunas en un programa de debate: “Es una irresponsabilidad”",
-     "url": "https://elpais.com/espana/catalunya/2026-10-12/illa-lamenta-que-tv3-de-voz-a-discursos-antivacunas-en-un-programa-de-debate-es-una-irresponsabilidad.html",
-     "domain": "El País",
-     "seendate": "20261012T103057Z"
     },
     {
      "title": "Pilar Bernabé encabezará la lista del PSOE por Valencia, por delante de Arcadi España y Rebeca Torró",
@@ -160,12 +160,6 @@
      "seendate": "20261012T031500Z"
     },
     {
-     "title": "Un empresario reclamado por Myanmar por contratar a un ‘lobby’ internacional rechaza su extradición: “Es una venganza”",
-     "url": "https://elpais.com/espana/catalunya/2026-10-12/un-empresario-reclamado-por-myanmar-por-contratar-a-un-lobby-internacional-rechaza-su-extradicion-es-una-venganza.html",
-     "domain": "El País",
-     "seendate": "20261012T031500Z"
-    },
-    {
      "title": "Cándido Conde-Pumpido: “Cuestionar al Tribunal Constitucional es cuestionar la democracia”",
      "url": "https://elpais.com/espana/2026-10-11/candido-conde-pumpido-cuestionar-al-tribunal-constitucional-es-cuestionar-la-democracia.html",
      "domain": "El País",
@@ -193,6 +187,12 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Situación de México \"es especial\", expresa Sheinbaum ante escenario político en Brasil; \"la gente está contenta\", asegura",
+     "url": "https://www.eluniversal.com.mx/nacion/situacion-de-mexico-es-especial-expresa-sheinbaum-ante-escenario-politico-en-brasil-la-gente-esta-contenta-asegura/",
+     "domain": "El Universal",
+     "seendate": "20261012T171040Z"
+    },
     {
      "title": "ADI advierte que plan metropolitano encarecerá la vivienda; pide modificar propuesta de Sedatu",
      "url": "https://www.eluniversal.com.mx/metropoli/adi-advierte-que-plan-metropolitano-encarecera-la-vivienda-pide-modificar-propuesta-de-sedatu/",
@@ -470,6 +470,18 @@
   "CRI": {
    "articles": [
     {
+     "title": "Corte Plena cuestiona falta de consulta de la Asamblea Legislativa sobre normas presupuestarias que condicionan ¢29.843 millones y 2.463 plazas judiciales",
+     "url": "https://www.nacion.com/politica/corte-plena-cuestiona-falta-de-consulta-de-la/CYQDFCELAJDFXGGI7GZCN5PYUI/story/",
+     "domain": "La Nación",
+     "seendate": "20261012T170304Z"
+    },
+    {
+     "title": "Familia de Ismael Méndez, costarricense fallecido en festival EDC de Colombia, solicita ayuda para repatriar su cuerpo",
+     "url": "https://www.nacion.com/sucesos/familia-de-costarricense-fallecido-en-festival-edc/WQSNMWWM3ZH7NAFU6LJOORBE3I/story/",
+     "domain": "La Nación",
+     "seendate": "20261012T165049Z"
+    },
+    {
      "title": "Contraloría señala vicios constitucionales en normas que limitan el presupuesto judicial y pide eliminar aquellas que le asignan funciones impropias",
      "url": "https://www.nacion.com/politica/contraloria-senala-vicios-constitucionales-en/UPR6R35XINCSXCVSW2C5NNPV3E/story/",
      "domain": "La Nación",
@@ -708,12 +720,6 @@
      "seendate": "20261010T183938Z"
     },
     {
-     "title": "Bomberos pide revisar instalaciones de gas en edificios tras el sismo",
-     "url": "https://www.prensa.com/sociedad/bomberos-pide-revisar-instalaciones-de-gas-en-edificios-tras-el-sismo/",
-     "domain": "La Prensa",
-     "seendate": "20261010T182333Z"
-    },
-    {
      "title": "¿Por qué no se pueden comparar los terremotos de Venezuela y Panamá?",
      "url": "https://www.prensa.com/sociedad/por-que-no-se-pueden-comparar-los-terremotos-de-venezuela-y-panama/",
      "domain": "La Prensa",
@@ -899,16 +905,28 @@
   "COL": {
    "articles": [
     {
+     "title": "Videos muestran destrucción del peaje de El Bordo tras carro bomba en Cauca: identifican a una mujer herida",
+     "url": "https://www.eltiempo.com/colombia/cali/videos-muestran-destruccion-del-peaje-de-el-bordo-tras-carro-bomba-en-cauca-identifican-a-una-mujer-herida-3593009",
+     "domain": "El Tiempo",
+     "seendate": "20261012T170032Z"
+    },
+    {
+     "title": "Cuatro personas murieron y 15 resultaron heridas en grave accidente de tránsito entre tres vehículos en el Meta",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/cuatro-personas-murieron-y-15-resultaron-heridas-en-grave-accidente-de-transito-entre-tres-vehiculos-en-el-meta-3593012",
+     "domain": "El Tiempo",
+     "seendate": "20261012T164858Z"
+    },
+    {
+     "title": "Colombiana Melany Mejía se coronó campeona mundial de bachata en Suiza tras superar distintas pruebas",
+     "url": "https://www.eltiempo.com/colombia/colombiana-melany-mejia-se-corono-campeona-mundial-de-bachata-en-suiza-tras-superar-distintas-pruebas-3593014",
+     "domain": "El Tiempo",
+     "seendate": "20261012T164742Z"
+    },
+    {
      "title": "'Mongolo' y 'Guajiro', fugitivos por los que el presidente De La Espriella ordenó salida del comandante de Policía de Santa Marta: hay recompensa",
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/alias-mongolo-y-alias-guajiro-los-dos-fugados-que-mas-preocupan-al-gobierno-tras-la-evasion-de-41-detenidos-en-santa-marta-hay-recompensa-3593003",
      "domain": "El Tiempo",
      "seendate": "20261012T162643Z"
-    },
-    {
-     "title": "Videos muestran destrucción del peaje de El Bordo tras carro bomba en Cauca: identifican a una mujer herida",
-     "url": "https://www.eltiempo.com/colombia/cali/videos-muestran-destruccion-del-peaje-de-el-bordo-tras-carro-bomba-en-cauca-identifican-a-una-mujer-herida-3593009",
-     "domain": "El Tiempo",
-     "seendate": "20261012T162134Z"
     },
     {
      "title": "Por qué hay tantos mosquitos en Barranquilla: la mayoría son Culex, que no transmite dengue, y se multiplican con las lluvias y el calor de octubre",
@@ -945,18 +963,6 @@
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/estatua-danada-en-cartagena-piden-aplicar-a-turista-una-reparacion-como-la-de-epa-colombia-y-alcalde-exige-que-responda-3592967",
      "domain": "El Tiempo",
      "seendate": "20261012T122248Z"
-    },
-    {
-     "title": "El sistema de alerta temprana, que combina tecnología y participación comunitaria, que previno una tragedia mayor tras el desbordamiento de La Iguaná",
-     "url": "https://www.eltiempo.com/colombia/medellin/el-sistema-de-alerta-temprana-que-combina-tecnologia-y-participacion-comunitaria-que-previno-una-tragedia-mayor-tras-el-desbordamiento-de-la-iguana-3592945",
-     "domain": "El Tiempo",
-     "seendate": "20261012T041508Z"
-    },
-    {
-     "title": "Barranquilla gasta $17.000 millones al año limpiando sus arroyos: la basura que arrastra la lluvia termina amenazando la ciénaga y el mar Caribe",
-     "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-gasta-17-000-millones-al-ano-limpiando-sus-arroyos-la-basura-que-arrastra-la-lluvia-termina-amenazando-la-cienaga-y-el-mar-caribe-3592935",
-     "domain": "El Tiempo",
-     "seendate": "20261012T030100Z"
     }
    ]
   },
@@ -1111,12 +1117,6 @@
      "seendate": "20261011T213604Z"
     },
     {
-     "title": "Lluvias y ráfagas de viento: nueva alerta del Inamhi para el Litoral y la cordillera occidental",
-     "url": "https://eluniverso.com/comunidad/ecuador/lluvias-y-rafagas-de-viento-nueva-alerta-del-inamhi-para-el-litoral-y-la-cordillera-occidental-nota/",
-     "domain": "El Universo",
-     "seendate": "20261011T210911Z"
-    },
-    {
      "title": "Ecuador impulsa una comisión de investigación y un sistema de alerta temprana para responder a los riesgos de las drogas",
      "url": "https://eluniverso.com/politica/ejecutivo/ecuador-impulsa-una-comision-de-investigacion-y-un-sistema-de-alerta-temprana-para-responder-a-los-riesgos-de-las-drogas-nota/",
      "domain": "El Universo",
@@ -1145,6 +1145,12 @@
   "PER": {
    "articles": [
     {
+     "title": "Minedu endurece disciplina escolar: mal uso del celular, tres tardanzas y agresiones serán faltas graves",
+     "url": "https://elcomercio.pe/peru/minedu-endurece-disciplina-escolar-mal-uso-del-celular-tres-tardanzas-y-agresiones-seran-faltas-graves-apuesplan-ultimas-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261012T165524Z"
+    },
+    {
      "title": "El dólar abre a la baja en S/3,43 pese al fortalecimiento global de la divisa",
      "url": "https://elcomercio.pe/economia/peru/el-dolar-abre-a-la-baja-en-s343-pese-al-fortalecimiento-global-de-la-divisa-l-tipo-de-cambio-l-ultimas-noticia/",
      "domain": "El Comercio",
@@ -1167,6 +1173,12 @@
      "url": "https://elcomercio.pe/economia/peru/ministro-de-energia-senala-que-adenda-de-calidda-para-llevar-gas-a-siete-regiones-sigue-en-evaluacion-y-admite-diferencias-con-osinergmin-l-ultimas-noticia/",
      "domain": "El Comercio",
      "seendate": "20261012T152308Z"
+    },
+    {
+     "title": "Apenas el 17% de los puntos críticos por el Fenómeno El Niño tiene intervenciones en ejecución",
+     "url": "https://elcomercio.pe/economia/peru/el-nino-solo-17-de-los-puntos-criticos-por-el-fenomeno-el-nino-tiene-intervenciones-en-ejecucion-apuesplan-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261012T140005Z"
     }
    ]
   },
@@ -1204,6 +1216,78 @@
   "ARG": {
    "articles": [
     {
+     "title": "Se aproxima un “bloqueo en la circulación atmosférica” que prolongará el mal tiempo y las tormentas: las zonas afectadas",
+     "url": "https://www.lanacion.com.ar/sociedad/se-aproxima-un-bloqueo-en-la-circulacion-atmosferica-que-prolongara-el-mal-tiempo-y-las-tormentas-nid12102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T170501Z"
+    },
+    {
+     "title": "Javier Milei y sus medidas, EN VIVO: el Presidente negó la salida de Caputo y se mostró confiado en que será reelecto",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-nos-unimos-en-oracion-por-su-salud-dijo-el-presidente-por-la-nid12102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T170407Z"
+    },
+    {
+     "title": "Arthur Brooks, experto en felicidad de Harvard: “Hay una inteligencia que nace a partir de los 40 años”",
+     "url": "https://www.lanacion.com.ar/sociedad/arthur-brooks-experto-en-felicidad-de-harvard-hay-una-inteligencia-que-nace-a-partir-de-los-40-anos-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T165254Z"
+    },
+    {
+     "title": "Súper Niño 2026: qué se sabe del fenómeno que cambiará el pronóstico de la Argentina y llegará pronto a su pico máximo",
+     "url": "https://www.lanacion.com.ar/sociedad/super-nino-2026-que-se-sabe-del-fenomeno-que-cambiara-por-completo-el-clima-en-la-argentina-y-nid05102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T165246Z"
+    },
+    {
+     "title": "Los psicólogos coinciden: no es fácil saber qué se desea porque entre el deseo y uno mismo se interponen deseos ajenos y mandatos",
+     "url": "https://www.lanacion.com.ar/sociedad/los-psicologos-coinciden-no-es-facil-saber-que-se-desea-porque-entre-el-deseo-y-uno-mismo-se-nid10102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T165238Z"
+    },
+    {
+     "title": "La reflexión de Descartes sobre la duda: “Si no pienso, luego me doy cuenta que tengo que estar existiendo, porque si yo no existo, no pienso”",
+     "url": "https://www.lanacion.com.ar/sociedad/la-reflexion-de-descartes-sobre-la-duda-si-no-pienso-luego-me-doy-cuenta-que-tengo-que-estar-nid07102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T165235Z"
+    },
+    {
+     "title": "Robin Sharma, especialista en crecimiento personal: “Un mal día para el ego es un buen día para el alma; aprendemos en la dificultad”",
+     "url": "https://www.lanacion.com.ar/sociedad/robin-sharma-especialista-en-crecimiento-personal-un-mal-dia-para-el-ego-es-un-buen-dia-para-el-alma-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T165230Z"
+    },
+    {
+     "title": "Gabriel Rolón, psicoanalista, sobre la búsqueda de bienestar: “A veces uno desea más haber sido feliz que ser feliz”",
+     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-sobre-la-busqueda-de-bienestar-a-veces-uno-desea-mas-haber-sido-feliz-nid08102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T165222Z"
+    },
+    {
+     "title": "Arthur Brooks, experto de Harvard, de 62 años: “Lo que hacen las personas felices y exitosas en la segunda mitad de sus vidas es pasar de sumar a restar”",
+     "url": "https://www.lanacion.com.ar/sociedad/arthur-brooks-experto-de-harvard-de-62-anos-lo-que-hacen-las-personas-felices-y-exitosas-en-la-nid08102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T165215Z"
+    },
+    {
+     "title": "Qué son las cadenas miofasciales: los ejercicios disruptivos que revolucionaron la forma de practicar el método pilates",
+     "url": "https://www.lanacion.com.ar/sociedad/que-son-las-cadenas-miofasciales-los-ejercicios-disruptivos-que-revolucionaron-la-forma-de-practicar-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T165141Z"
+    },
+    {
+     "title": "Fibromialgia: un especialista explicó en qué consiste esta patología y por qué afecta más a las mujeres",
+     "url": "https://www.lanacion.com.ar/sociedad/fibromialgia-un-especialista-explico-en-que-consiste-esta-patologia-y-por-que-afecta-mas-a-las-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T165130Z"
+    },
+    {
+     "title": "Estas son las tres claves imbatibles para alcanzar un descanso reparador",
+     "url": "https://www.lanacion.com.ar/sociedad/estas-son-las-tres-claves-imbatibles-para-alcanzar-un-descanso-reparador-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T165126Z"
+    },
+    {
      "title": "Tragedia en la ruta: una joven pareja y su bebé murieron cuando la moto en la que viajaban chocó contra una camioneta",
      "url": "https://www.lanacion.com.ar/seguridad/tragedia-en-la-ruta-una-joven-pareja-y-su-bebe-murieron-cuando-la-moto-en-la-que-viajaban-choco-nid12102026/",
      "domain": "La Nación",
@@ -1226,18 +1310,6 @@
      "url": "https://www.lanacion.com.ar/seguridad/horror-en-rosario-encontraron-el-cuerpo-de-una-joven-envuelto-en-una-frazada-y-detuvieron-a-un-nid12102026/",
      "domain": "La Nación",
      "seendate": "20261012T164044Z"
-    },
-    {
-     "title": "Javier Milei y sus medidas, EN VIVO: el Presidente negó la salida de Caputo y se mostró confiado en que será reelecto",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-nos-unimos-en-oracion-por-su-salud-dijo-el-presidente-por-la-nid12102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T163147Z"
-    },
-    {
-     "title": "Se aproxima un “bloqueo en la circulación atmosférica” que prolongará el mal tiempo y las tormentas: las zonas afectadas",
-     "url": "https://www.lanacion.com.ar/sociedad/se-aproxima-un-bloqueo-en-la-circulacion-atmosferica-que-prolongara-el-mal-tiempo-y-las-tormentas-nid12102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T161358Z"
     },
     {
      "title": "Después de una meseta de seis meses, el precio de la carne vacuna pronto tomará envión y aumentaría un 10% hasta fin de año",
@@ -1268,66 +1340,6 @@
      "url": "https://www.lanacion.com.ar/economia/luis-caputo-nego-las-versiones-sobre-una-posible-salida-del-gabinete-quedate-tranquilo-que-no-voy-a-nid12102026/",
      "domain": "La Nación",
      "seendate": "20261012T151938Z"
-    },
-    {
-     "title": "Estas son las tres claves imbatibles para alcanzar un descanso reparador",
-     "url": "https://www.lanacion.com.ar/sociedad/estas-son-las-tres-claves-imbatibles-para-alcanzar-un-descanso-reparador-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T151741Z"
-    },
-    {
-     "title": "Fibromialgia: un especialista explicó en qué consiste esta patología y por qué afecta más a las mujeres",
-     "url": "https://www.lanacion.com.ar/sociedad/fibromialgia-un-especialista-explico-en-que-consiste-esta-patologia-y-por-que-afecta-mas-a-las-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T151735Z"
-    },
-    {
-     "title": "Qué son las cadenas miofasciales: los ejercicios disruptivos que revolucionaron la forma de practicar el método pilates",
-     "url": "https://www.lanacion.com.ar/sociedad/que-son-las-cadenas-miofasciales-los-ejercicios-disruptivos-que-revolucionaron-la-forma-de-practicar-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T151722Z"
-    },
-    {
-     "title": "Arthur Brooks, experto en felicidad de Harvard: “Hay una inteligencia que nace a partir de los 40 años”",
-     "url": "https://www.lanacion.com.ar/sociedad/arthur-brooks-experto-en-felicidad-de-harvard-hay-una-inteligencia-que-nace-a-partir-de-los-40-anos-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T151644Z"
-    },
-    {
-     "title": "Súper Niño 2026: qué se sabe del fenómeno que cambiará el pronóstico de la Argentina y llegará pronto a su pico máximo",
-     "url": "https://www.lanacion.com.ar/sociedad/super-nino-2026-que-se-sabe-del-fenomeno-que-cambiara-por-completo-el-clima-en-la-argentina-y-nid05102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T151637Z"
-    },
-    {
-     "title": "Los psicólogos coinciden: no es fácil saber qué se desea porque entre el deseo y uno mismo se interponen deseos ajenos y mandatos",
-     "url": "https://www.lanacion.com.ar/sociedad/los-psicologos-coinciden-no-es-facil-saber-que-se-desea-porque-entre-el-deseo-y-uno-mismo-se-nid10102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T151625Z"
-    },
-    {
-     "title": "La reflexión de Descartes sobre la duda: “Si no pienso, luego me doy cuenta que tengo que estar existiendo, porque si yo no existo, no pienso”",
-     "url": "https://www.lanacion.com.ar/sociedad/la-reflexion-de-descartes-sobre-la-duda-si-no-pienso-luego-me-doy-cuenta-que-tengo-que-estar-nid07102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T151621Z"
-    },
-    {
-     "title": "Robin Sharma, especialista en crecimiento personal: “Un mal día para el ego es un buen día para el alma; aprendemos en la dificultad”",
-     "url": "https://www.lanacion.com.ar/sociedad/robin-sharma-especialista-en-crecimiento-personal-un-mal-dia-para-el-ego-es-un-buen-dia-para-el-alma-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T151618Z"
-    },
-    {
-     "title": "Gabriel Rolón, psicoanalista, sobre la búsqueda de bienestar: “A veces uno desea más haber sido feliz que ser feliz”",
-     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-sobre-la-busqueda-de-bienestar-a-veces-uno-desea-mas-haber-sido-feliz-nid08102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T151550Z"
-    },
-    {
-     "title": "Arthur Brooks, experto de Harvard, de 62 años: “Lo que hacen las personas felices y exitosas en la segunda mitad de sus vidas es pasar de sumar a restar”",
-     "url": "https://www.lanacion.com.ar/sociedad/arthur-brooks-experto-de-harvard-de-62-anos-lo-que-hacen-las-personas-felices-y-exitosas-en-la-nid08102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T151537Z"
     },
     {
      "title": "Dónde queda la cárcel de Devoto: qué van a hacer con los terrenos una vez que cierre el penal",
@@ -1394,18 +1406,6 @@
      "url": "https://www.lanacion.com.ar/economia/el-nobel-de-economia-2026-fue-para-robert-hall-y-michael-woodford-por-sus-aportes-a-la-nid12102026/",
      "domain": "La Nación",
      "seendate": "20261012T133154Z"
-    },
-    {
-     "title": "No son los perros: un estudio descubrió que los humanos suelen interrumpir primero el sueño de sus mascotas",
-     "url": "https://www.lanacion.com.ar/sociedad/no-son-los-perros-un-estudio-descubrio-que-los-humanos-suelen-interrumpir-primero-el-sueno-de-sus-nid12102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T132337Z"
-    },
-    {
-     "title": "La cirugía del Papa: qué es un nódulo pulmonar, cómo se opera y cuánto tarda la recuperación, según los expertos",
-     "url": "https://www.lanacion.com.ar/sociedad/la-cirugia-del-papa-que-es-un-nodulo-pulmonar-como-se-opera-y-cuanto-tarda-la-recuperacion-segun-los-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T131410Z"
     }
    ]
   },
@@ -1456,12 +1456,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/12/bosque-san-vicente-vecinos-rechazan-pedido-de-desestimacion-y-denuncian-delito-ambiental/",
      "domain": "ABC Color",
      "seendate": "20261012T150737Z"
-    },
-    {
-     "title": "Jefe técnico de Yacyretá prevé que el caudal del río Paraná alcance su pico antes del fin de semana",
-     "url": "https://www.abc.com.py/nacionales/2026/10/12/jefe-tecnico-de-yacyreta-preve-que-el-caudal-del-rio-parana-alcance-su-pico-antes-del-fin-de-semana/",
-     "domain": "ABC Color",
-     "seendate": "20261012T145117Z"
     }
    ]
   },
