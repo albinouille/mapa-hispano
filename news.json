@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T17:19:59+00:00",
+ "updated": "2026-10-12T17:51:32+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -7,7 +7,7 @@
      "title": "Desfile del Día de la Hispanidad y reacciones políticas en directo | La Policía impide el enfrentamiento entre un grupo de jóvenes con banderas de España y los acampados de Sol",
      "url": "https://elpais.com/espana/2026-10-12/ultima-hora-del-dia-de-la-hispanidad-y-reacciones-politicas-en-directo.html",
      "domain": "El País",
-     "seendate": "20261012T164018Z"
+     "seendate": "20261012T172715Z"
     },
     {
      "title": "Las claves de la decisión del Supremo: ¿quién puede votar en el 29-N? ¿Es posible cumplir con la orden del alto tribunal antes de las elecciones?",
@@ -187,6 +187,24 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Sheinbaum pide responsabilidad a plataformas para evitar promoción de la violencia; \"la educación es la mejor herramienta\", dice",
+     "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-pide-responsabilidad-a-plataformas-para-evitar-promocion-de-la-violencia-la-educacion-es-la-mejor-herramienta-dice/",
+     "domain": "El Universal",
+     "seendate": "20261012T172755Z"
+    },
+    {
+     "title": "Tlalpan tendrá ley seca durante octubre; te decimos en qué colonias",
+     "url": "https://www.eluniversal.com.mx/metropoli/tlalpan-tendra-ley-seca-durante-octubre-te-decimos-en-que-colonias/",
+     "domain": "El Universal",
+     "seendate": "20261012T172411Z"
+    },
+    {
+     "title": "Sobse lanza licitación para construir skatepark en Cuauhtémoc; iniciará el próximo 2 de noviembre",
+     "url": "https://www.eluniversal.com.mx/metropoli/sobse-lanza-licitacion-para-construir-skatepark-en-cuauhtemoc-iniciara-el-proximo-2-de-noviembre/",
+     "domain": "El Universal",
+     "seendate": "20261012T172129Z"
+    },
     {
      "title": "Situación de México \"es especial\", expresa Sheinbaum ante escenario político en Brasil; \"la gente está contenta\", asegura",
      "url": "https://www.eluniversal.com.mx/nacion/situacion-de-mexico-es-especial-expresa-sheinbaum-ante-escenario-politico-en-brasil-la-gente-esta-contenta-asegura/",
@@ -469,6 +487,12 @@
   },
   "CRI": {
    "articles": [
+    {
+     "title": "Corte de luz del ICE afectará sector de Guápiles este miércoles 14 de octubre",
+     "url": "https://www.nacion.com/el-pais/corte-de-luz-del-ice-afectara-sector-de-guapiles/RQ6DAWYRZFF3TAI4XPSSXJ23M4/story/",
+     "domain": "La Nación",
+     "seendate": "20261012T171535Z"
+    },
     {
      "title": "Corte Plena cuestiona falta de consulta de la Asamblea Legislativa sobre normas presupuestarias que condicionan ¢29.843 millones y 2.463 plazas judiciales",
      "url": "https://www.nacion.com/politica/corte-plena-cuestiona-falta-de-consulta-de-la/CYQDFCELAJDFXGGI7GZCN5PYUI/story/",
@@ -778,6 +802,12 @@
   "CUB": {
    "articles": [
     {
+     "title": "Liberan a un implicado en el feminicidio de Melani García, a casi tres años del asesinato",
+     "url": "https://www.14ymedio.com/cuba/liberan-implicado-feminicidio-melani-garcia_1_1131872.html",
+     "domain": "14ymedio",
+     "seendate": "20261012T173755Z"
+    },
+    {
      "title": "Cinco heridos, uno en estado crítico, en el incendio de un tanque de combustible de Azcuba en Manzanillo",
      "url": "https://www.14ymedio.com/cuba/cinco-heridos-critico-incendio-tanque_1_1131867.html",
      "domain": "14ymedio",
@@ -890,12 +920,6 @@
      "url": "https://www.14ymedio.com/cuba/cartas-vinculan-ex-gran-maestro_1_1131752.html",
      "domain": "14ymedio",
      "seendate": "20261009T171407Z"
-    },
-    {
-     "title": "\"Salir de aquí es ser libre\": el 'freestyle' pone en verso las angustias de los jóvenes cubanos",
-     "url": "https://www.14ymedio.com/cuba/salir-libre-freestyle-pone-verso_1_1131556.html",
-     "domain": "14ymedio",
-     "seendate": "20261005T173511Z"
     }
    ]
   },
@@ -904,6 +928,12 @@
   },
   "COL": {
    "articles": [
+    {
+     "title": "'Mongolo' y 'Guajiro', fugitivos por los que el presidente De La Espriella ordenó salida del comandante de Policía de Santa Marta: hay recompensa",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/alias-mongolo-y-alias-guajiro-los-dos-fugados-que-mas-preocupan-al-gobierno-tras-la-evasion-de-41-detenidos-en-santa-marta-hay-recompensa-3593003",
+     "domain": "El Tiempo",
+     "seendate": "20261012T174220Z"
+    },
     {
      "title": "Videos muestran destrucción del peaje de El Bordo tras carro bomba en Cauca: identifican a una mujer herida",
      "url": "https://www.eltiempo.com/colombia/cali/videos-muestran-destruccion-del-peaje-de-el-bordo-tras-carro-bomba-en-cauca-identifican-a-una-mujer-herida-3593009",
@@ -921,12 +951,6 @@
      "url": "https://www.eltiempo.com/colombia/colombiana-melany-mejia-se-corono-campeona-mundial-de-bachata-en-suiza-tras-superar-distintas-pruebas-3593014",
      "domain": "El Tiempo",
      "seendate": "20261012T164742Z"
-    },
-    {
-     "title": "'Mongolo' y 'Guajiro', fugitivos por los que el presidente De La Espriella ordenó salida del comandante de Policía de Santa Marta: hay recompensa",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/alias-mongolo-y-alias-guajiro-los-dos-fugados-que-mas-preocupan-al-gobierno-tras-la-evasion-de-41-detenidos-en-santa-marta-hay-recompensa-3593003",
-     "domain": "El Tiempo",
-     "seendate": "20261012T162643Z"
     },
     {
      "title": "Por qué hay tantos mosquitos en Barranquilla: la mayoría son Culex, que no transmite dengue, y se multiplican con las lluvias y el calor de octubre",
@@ -990,6 +1014,12 @@
   },
   "ECU": {
    "articles": [
+    {
+     "title": "Descubren medio kilogramo de cocaína en una viajera en el aeropuerto de Quito",
+     "url": "https://eluniverso.com/politica/seguridad/descubren-medio-kilogramo-de-cocaina-en-una-viajera-en-el-aeropuerto-de-quito-nota/",
+     "domain": "El Universo",
+     "seendate": "20261012T173448Z"
+    },
     {
      "title": "Las intensas lluvias dejan inundaciones y clases suspendidas en Machala y Santa Rosa",
      "url": "https://eluniverso.com/comunidad/ecuador/las-intensas-lluvias-dejan-inundaciones-y-clases-suspendidas-en-machala-y-santa-rosa-nota/",
@@ -1145,6 +1175,12 @@
   "PER": {
    "articles": [
     {
+     "title": "Promperú impulsa reinversión de empresas extranjeras en el país a través del Perú Investment Round Table 2026",
+     "url": "https://elcomercio.pe/economia/peru/promperu-impulsa-reinversion-de-empresas-extranjeras-en-el-pais-a-traves-del-peru-investment-round-table-2026-l-ultimas-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261012T174217Z"
+    },
+    {
      "title": "Minedu endurece disciplina escolar: mal uso del celular, tres tardanzas y agresiones serán faltas graves",
      "url": "https://elcomercio.pe/peru/minedu-endurece-disciplina-escolar-mal-uso-del-celular-tres-tardanzas-y-agresiones-seran-faltas-graves-apuesplan-ultimas-noticia/",
      "domain": "El Comercio",
@@ -1167,12 +1203,6 @@
      "url": "https://elcomercio.pe/peru/el-peru-que-espera-a-leon-xiv-por-kurth-mendoza-gutierrez-noticia/",
      "domain": "El Comercio",
      "seendate": "20261012T153423Z"
-    },
-    {
-     "title": "Ministro de Energía señala que adenda de Calidda para llevar gas a siete regiones sigue en evaluación y admite diferencias con Osinergmin",
-     "url": "https://elcomercio.pe/economia/peru/ministro-de-energia-senala-que-adenda-de-calidda-para-llevar-gas-a-siete-regiones-sigue-en-evaluacion-y-admite-diferencias-con-osinergmin-l-ultimas-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261012T152308Z"
     },
     {
      "title": "Apenas el 17% de los puntos críticos por el Fenómeno El Niño tiene intervenciones en ejecución",
@@ -1216,58 +1246,76 @@
   "ARG": {
    "articles": [
     {
-     "title": "Se aproxima un “bloqueo en la circulación atmosférica” que prolongará el mal tiempo y las tormentas: las zonas afectadas",
-     "url": "https://www.lanacion.com.ar/sociedad/se-aproxima-un-bloqueo-en-la-circulacion-atmosferica-que-prolongara-el-mal-tiempo-y-las-tormentas-nid12102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T170501Z"
-    },
-    {
      "title": "Javier Milei y sus medidas, EN VIVO: el Presidente negó la salida de Caputo y se mostró confiado en que será reelecto",
      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-nos-unimos-en-oracion-por-su-salud-dijo-el-presidente-por-la-nid12102026/",
      "domain": "La Nación",
-     "seendate": "20261012T170407Z"
+     "seendate": "20261012T174000Z"
+    },
+    {
+     "title": "Una provincia aplicó una medida inédita en el país y logró un invierno sin muertes de bebés por un virus que causa bronquiolitis",
+     "url": "https://www.lanacion.com.ar/sociedad/una-provincia-aplico-una-medida-inedita-en-el-pais-y-logro-un-invierno-sin-muertes-de-bebes-por-un-nid12102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T173245Z"
+    },
+    {
+     "title": "Se aproxima un “bloqueo en la circulación atmosférica” que prolongará el mal tiempo y las tormentas: las zonas afectadas",
+     "url": "https://www.lanacion.com.ar/sociedad/se-aproxima-un-bloqueo-en-la-circulacion-atmosferica-que-prolongara-el-mal-tiempo-y-las-tormentas-nid12102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T173219Z"
+    },
+    {
+     "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este lunes 12 de octubre, minuto a minuto",
+     "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid12102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T172900Z"
     },
     {
      "title": "Arthur Brooks, experto en felicidad de Harvard: “Hay una inteligencia que nace a partir de los 40 años”",
      "url": "https://www.lanacion.com.ar/sociedad/arthur-brooks-experto-en-felicidad-de-harvard-hay-una-inteligencia-que-nace-a-partir-de-los-40-anos-nid11102026/",
      "domain": "La Nación",
-     "seendate": "20261012T165254Z"
+     "seendate": "20261012T172709Z"
     },
     {
      "title": "Súper Niño 2026: qué se sabe del fenómeno que cambiará el pronóstico de la Argentina y llegará pronto a su pico máximo",
      "url": "https://www.lanacion.com.ar/sociedad/super-nino-2026-que-se-sabe-del-fenomeno-que-cambiara-por-completo-el-clima-en-la-argentina-y-nid05102026/",
      "domain": "La Nación",
-     "seendate": "20261012T165246Z"
+     "seendate": "20261012T172658Z"
     },
     {
      "title": "Los psicólogos coinciden: no es fácil saber qué se desea porque entre el deseo y uno mismo se interponen deseos ajenos y mandatos",
      "url": "https://www.lanacion.com.ar/sociedad/los-psicologos-coinciden-no-es-facil-saber-que-se-desea-porque-entre-el-deseo-y-uno-mismo-se-nid10102026/",
      "domain": "La Nación",
-     "seendate": "20261012T165238Z"
+     "seendate": "20261012T172647Z"
     },
     {
      "title": "La reflexión de Descartes sobre la duda: “Si no pienso, luego me doy cuenta que tengo que estar existiendo, porque si yo no existo, no pienso”",
      "url": "https://www.lanacion.com.ar/sociedad/la-reflexion-de-descartes-sobre-la-duda-si-no-pienso-luego-me-doy-cuenta-que-tengo-que-estar-nid07102026/",
      "domain": "La Nación",
-     "seendate": "20261012T165235Z"
+     "seendate": "20261012T172634Z"
     },
     {
      "title": "Robin Sharma, especialista en crecimiento personal: “Un mal día para el ego es un buen día para el alma; aprendemos en la dificultad”",
      "url": "https://www.lanacion.com.ar/sociedad/robin-sharma-especialista-en-crecimiento-personal-un-mal-dia-para-el-ego-es-un-buen-dia-para-el-alma-nid11102026/",
      "domain": "La Nación",
-     "seendate": "20261012T165230Z"
+     "seendate": "20261012T172623Z"
     },
     {
      "title": "Gabriel Rolón, psicoanalista, sobre la búsqueda de bienestar: “A veces uno desea más haber sido feliz que ser feliz”",
      "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-sobre-la-busqueda-de-bienestar-a-veces-uno-desea-mas-haber-sido-feliz-nid08102026/",
      "domain": "La Nación",
-     "seendate": "20261012T165222Z"
+     "seendate": "20261012T172610Z"
     },
     {
      "title": "Arthur Brooks, experto de Harvard, de 62 años: “Lo que hacen las personas felices y exitosas en la segunda mitad de sus vidas es pasar de sumar a restar”",
      "url": "https://www.lanacion.com.ar/sociedad/arthur-brooks-experto-de-harvard-de-62-anos-lo-que-hacen-las-personas-felices-y-exitosas-en-la-nid08102026/",
      "domain": "La Nación",
-     "seendate": "20261012T165215Z"
+     "seendate": "20261012T172601Z"
+    },
+    {
+     "title": "Intereses cruzados dificultan el acuerdo LLA-Pro en la Capital: la tensión entre los Macri, el rol de Angelici y la presión libertaria",
+     "url": "https://www.lanacion.com.ar/politica/intereses-cruzados-dificultan-el-acuerdo-lla-pro-en-la-capital-la-tension-entre-los-macri-el-rol-de-nid12102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T172512Z"
     },
     {
      "title": "Qué son las cadenas miofasciales: los ejercicios disruptivos que revolucionaron la forma de practicar el método pilates",
@@ -1298,12 +1346,6 @@
      "url": "https://www.lanacion.com.ar/economia/campo/quebro-uno-de-los-aserraderos-productores-de-pallets-mas-grandes-del-pais-nid12102026/",
      "domain": "La Nación",
      "seendate": "20261012T164315Z"
-    },
-    {
-     "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este lunes 12 de octubre, minuto a minuto",
-     "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid12102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T164309Z"
     },
     {
      "title": "Horror en Rosario: encontraron el cuerpo de una joven envuelto en una frazada y detuvieron a un expolicía",
@@ -1360,12 +1402,6 @@
      "seendate": "20261012T150131Z"
     },
     {
-     "title": "Una provincia aplicó una medida inédita en el país y logró un invierno sin muertes de bebés por un virus que causa bronquiolitis",
-     "url": "https://www.lanacion.com.ar/sociedad/una-provincia-aplico-una-medida-inedita-en-el-pais-y-logro-un-invierno-sin-muertes-de-bebes-por-un-nid12102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T145610Z"
-    },
-    {
      "title": "El Gobierno comenzó el traslado de presos de la cárcel de Devoto a Marcos Paz",
      "url": "https://www.lanacion.com.ar/seguridad/el-gobierno-comenzo-el-traslado-de-presos-de-la-carcel-de-devoto-a-marcos-paz-nid11102026/",
      "domain": "La Nación",
@@ -1394,18 +1430,6 @@
      "url": "https://www.lanacion.com.ar/economia/negocios/la-apuesta-lactea-de-adecoagro-us100-millones-mas-exportaciones-y-la-mira-puesta-en-sancor-nid12102026/",
      "domain": "La Nación",
      "seendate": "20261012T135714Z"
-    },
-    {
-     "title": "Mike McCloskey, dueño de un tambo de 20.000 vacas Holando: el emprendedor serial que convirtió un problema en un ingreso de miles de dólares",
-     "url": "https://www.lanacion.com.ar/economia/campo/mike-mccloskey-dueno-de-un-tambo-de-20000-vacas-holando-el-emprendedor-serial-que-convirtio-un-nid12102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T134444Z"
-    },
-    {
-     "title": "El Nobel de Economía 2026 fue para Robert Hall y Michael Woodford por sus aportes a la estabilización macroeconómica",
-     "url": "https://www.lanacion.com.ar/economia/el-nobel-de-economia-2026-fue-para-robert-hall-y-michael-woodford-por-sus-aportes-a-la-nid12102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T133154Z"
     }
    ]
   },
@@ -1421,6 +1445,18 @@
   },
   "PRY": {
    "articles": [
+    {
+     "title": "Artritis reumatoidea y la importancia de su detección precoz",
+     "url": "https://www.abc.com.py/nacionales/2026/10/12/artritis-reumatoidea-y-la-importancia-de-su-deteccion-precoz/",
+     "domain": "ABC Color",
+     "seendate": "20261012T173808Z"
+    },
+    {
+     "title": "Meteorología, sin radar ante El Niño: el equipo está averiado y el plan de cobertura, recortado",
+     "url": "https://www.abc.com.py/nacionales/2026/10/12/meteorologia-sin-radar-ante-el-nino-el-equipo-esta-averiado-y-el-plan-de-cobertura-recortado/",
+     "domain": "ABC Color",
+     "seendate": "20261012T173230Z"
+    },
     {
      "title": "Estudiantes de Enfermería de la UNA exigen destitución de autoridades y denuncian amedrentamiento a docentes",
      "url": "https://www.abc.com.py/nacionales/2026/10/12/estudiantes-de-enfermeria-de-la-una-exigen-destitucion-de-autoridades-y-denuncian-amedrentamiento-a-docentes/",
@@ -1444,18 +1480,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/12/el-nino-golpea-con-fuerza-a-la-horticultura-y-deja-mas-de-170-hectareas-afectadas-en-caaguazu/",
      "domain": "ABC Color",
      "seendate": "20261012T161642Z"
-    },
-    {
-     "title": "Huelga de bioquímicos: Salud recurrirá al chequeo físico tradicional",
-     "url": "https://www.abc.com.py/nacionales/2026/10/12/huelga-de-bioquimicos-salud-recurrira-al-chequeo-fisico-tradicional/",
-     "domain": "ABC Color",
-     "seendate": "20261012T151112Z"
-    },
-    {
-     "title": "Bosque San Vicente: vecinos rechazan pedido de desestimación y denuncian delito ambiental",
-     "url": "https://www.abc.com.py/nacionales/2026/10/12/bosque-san-vicente-vecinos-rechazan-pedido-de-desestimacion-y-denuncian-delito-ambiental/",
-     "domain": "ABC Color",
-     "seendate": "20261012T150737Z"
     }
    ]
   },
