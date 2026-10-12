@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T03:22:17+00:00",
+ "updated": "2026-10-12T03:55:44+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -85,6 +85,18 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "\"Simon, no te pases\", Puerto Vallarta escribe sus temores y esperanzas ante la llegada del huracán; fachadas se llenan de mensajes",
+     "url": "https://www.eluniversal.com.mx/estados/simon-no-te-pases-puerto-vallarta-escribe-sus-temores-y-esperanzas-ante-la-llegada-del-huracan-fachadas-se-llenan-de-mensajes/",
+     "domain": "El Universal",
+     "seendate": "20261012T033403Z"
+    },
+    {
+     "title": "Universidades de Jalisco condenan detenciones en protesta por el agua; UdeG e ITESO exigen garantizar derechos y diálogo",
+     "url": "https://www.eluniversal.com.mx/estados/universidades-de-jalisco-condenan-detenciones-en-protesta-por-el-agua-udeg-e-iteso-exigen-garantizar-derechos-y-dialogo/",
+     "domain": "El Universal",
+     "seendate": "20261012T032643Z"
+    },
     {
      "title": "Personal médico convoca a marcha nacional este 13 de octubre; conoce sus demandas y qué vialidades podrían ser afectadas",
      "url": "https://www.eluniversal.com.mx/nacion/personal-medico-convoca-a-marcha-nacional-este-13-de-octubre-conoce-sus-demandas-y-que-vialidades-podrian-ser-afectadas/",
@@ -258,30 +270,6 @@
      "url": "https://www.eluniversal.com.mx/nacion/compra-de-vacunas-contra-covid-permitira-ahorros-por-mil-326-mdp-afirma-birmex-es-un-monto-previsto-senala/",
      "domain": "El Universal",
      "seendate": "20261011T191247Z"
-    },
-    {
-     "title": "Anticorrupción sanciona a más de 4 mil servidores públicos en lo que va del sexenio; la mayoría por faltas no graves",
-     "url": "https://www.eluniversal.com.mx/nacion/anticorrupcion-sanciona-a-mas-de-4-mil-servidores-publicos-en-lo-que-va-del-sexenio-la-mayoria-por-faltas-no-graves/",
-     "domain": "El Universal",
-     "seendate": "20261011T191140Z"
-    },
-    {
-     "title": "Lluvias causan daños en varios municipios de Chiapas; un hombre muere arrastrado por un río en Oxchuc",
-     "url": "https://www.eluniversal.com.mx/estados/lluvias-causan-danos-en-varios-municipios-de-chiapas-un-hombre-muere-arrastrado-por-un-rio-en-oxchuc/",
-     "domain": "El Universal",
-     "seendate": "20261011T185020Z"
-    },
-    {
-     "title": "Despliegan más de 22 mil elementos en cuatro estados por impacto de huracán Simon; Protección Civil pide resguardo total",
-     "url": "https://www.eluniversal.com.mx/nacion/despliegan-mas-de-22-mil-elementos-en-cuatro-estados-por-impacto-de-huracan-simon-proteccion-civil-pide-resguardo-total/",
-     "domain": "El Universal",
-     "seendate": "20261011T184838Z"
-    },
-    {
-     "title": "Aumentan tensiones políticas en Arabia Saudita; SRE llama mexicanos a extremar precauciones tras nuevo ataque",
-     "url": "https://www.eluniversal.com.mx/nacion/aumentan-tensiones-politicas-en-arabia-saudita-sre-llama-mexicanos-a-extremar-precauciones-tras-nuevo-ataque/",
-     "domain": "El Universal",
-     "seendate": "20261011T184405Z"
     },
     {
      "title": "Detienen en Acapulco a \"El Junior\", ligado a \"Los Rusos\"; lo vinculan a ataque a elementos de la SSPC en octubre de 2025",
@@ -468,12 +456,6 @@
      "url": "https://www.nacion.com/politica/alvaro-ramos-se-retira-de-asamblea-del-pln-sin/D45EC5WG2RESPEYUMUOR52JF3Y/story/",
      "domain": "La Nación",
      "seendate": "20261011T000529Z"
-    },
-    {
-     "title": "Deslizamiento deja a 21 personas sin salida de Mercadito Gastronómico Los Bambúes en Grecia",
-     "url": "https://www.nacion.com/sucesos/deslizamiento-deja-a-21-personas-sin-salida-de/GVDRIDIE25E63AEB3JCCSX3FUQ/story/",
-     "domain": "La Nación",
-     "seendate": "20261010T233740Z"
     }
    ]
   },
@@ -802,12 +784,6 @@
      "seendate": "20261008T210555Z"
     },
     {
-     "title": "El robo, móvil del asesinato de un cubanoamericano a manos de su pareja en La Habana",
-     "url": "https://www.14ymedio.com/cuba/robo-movil-asesinato-cubanoamericano-manos_1_1131689.html",
-     "domain": "14ymedio",
-     "seendate": "20261008T141107Z"
-    },
-    {
      "title": "\"Salir de aquí es ser libre\": el 'freestyle' pone en verso las angustias de los jóvenes cubanos",
      "url": "https://www.14ymedio.com/cuba/salir-libre-freestyle-pone-verso_1_1131556.html",
      "domain": "14ymedio",
@@ -821,6 +797,12 @@
   "COL": {
    "articles": [
     {
+     "title": "Denuncian presunto uso de gas pimienta para robar durante el festival EDC Colombia en Medellín",
+     "url": "https://www.eltiempo.com/colombia/medellin/denuncian-presunto-uso-de-gas-pimienta-para-robar-durante-el-festival-edc-colombia-en-medellin-3592951",
+     "domain": "El Tiempo",
+     "seendate": "20261012T032553Z"
+    },
+    {
      "title": "Barranquilla gasta $17.000 millones al año limpiando sus arroyos: la basura que arrastra la lluvia termina amenazando la ciénaga y el mar Caribe",
      "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-gasta-17-000-millones-al-ano-limpiando-sus-arroyos-la-basura-que-arrastra-la-lluvia-termina-amenazando-la-cienaga-y-el-mar-caribe-3592935",
      "domain": "El Tiempo",
@@ -831,12 +813,6 @@
      "url": "https://www.eltiempo.com/colombia/santander/los-perros-que-encontraron-una-familia-en-los-cai-de-bucaramanga-una-historia-de-lealtad-y-segundas-oportunidades-3592895",
      "domain": "El Tiempo",
      "seendate": "20261012T025934Z"
-    },
-    {
-     "title": "Denuncian presunto uso de gas pimienta para robar durante el festival EDC Colombia en Medellín",
-     "url": "https://www.eltiempo.com/colombia/medellin/denuncian-presunto-uso-de-gas-pimienta-para-robar-durante-el-festival-edc-colombia-en-medellin-3592951",
-     "domain": "El Tiempo",
-     "seendate": "20261012T020500Z"
     },
     {
      "title": "Con la bendición del maestro Eddie Santiago, Ryan Castro grabó nueva versión de uno de los grandes clásicos del género en el Museo de la Salsa de Cali",
@@ -907,7 +883,7 @@
   "ECU": {
    "articles": [
     {
-     "title": "Alias ‘Gato’, presunto integrante de los Chone Killers, fue capturado en Nobol",
+     "title": "Alias ‘Gato’, presunto integrante de los Chone Killers, fue capturado por doble asesinato en Nobol",
      "url": "https://eluniverso.com/politica/seguridad/alias-gato-presunto-integrante-de-los-chonekillers-fue-capturado-en-nobol-nota/",
      "domain": "El Universo",
      "seendate": "20261012T010905Z"
@@ -1120,10 +1096,28 @@
   "ARG": {
    "articles": [
     {
+     "title": "Javier Milei y sus medidas, EN VIVO: “Nos unimos en oración por su salud”, dijo el Presidente por la operación del Papa",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-nos-unimos-en-oracion-por-su-salud-dijo-el-presidente-por-la-nid12102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T034628Z"
+    },
+    {
+     "title": "Buscan intensamente a un hombre de 39 años que lleva más de 48 horas desaparecido",
+     "url": "https://www.lanacion.com.ar/sociedad/buscan-desesperadamente-a-un-hombre-de-39-anos-que-lleva-mas-de-48-horas-desaparecido-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T033553Z"
+    },
+    {
+     "title": "Hay alerta naranja y amarilla por tormentas, lluvias, nevadas y vientos para este lunes 12 de octubre: las provincias afectadas",
+     "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-naranja-y-amarilla-por-tormentas-lluvias-nevadas-y-vientos-para-este-lunes-12-de-octubre-nid12102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T032716Z"
+    },
+    {
      "title": "Juan Carlos de Pablo habló sobre los lingotes de oro del BCRA, la figura de Luis Caputo y el futuro de la economía",
      "url": "https://www.lanacion.com.ar/economia/juan-carlos-de-pablo-economista-para-la-argentina-es-un-problema-que-brasil-no-funcione-nid11102026/",
      "domain": "La Nación",
-     "seendate": "20261012T032042Z"
+     "seendate": "20261012T032304Z"
     },
     {
      "title": "Cómo figura Milei en el mercado de apuestas para el Nobel de Economía",
@@ -1154,12 +1148,6 @@
      "url": "https://www.lanacion.com.ar/politica/martin-menem-alerto-sobre-la-sesion-para-rechazar-el-dnu-7023-quieren-sembrar-el-caos-nid11102026/",
      "domain": "La Nación",
      "seendate": "20261012T011549Z"
-    },
-    {
-     "title": "Buscan intensamente a un hombre de 39 años que lleva más de 48 horas desaparecido",
-     "url": "https://www.lanacion.com.ar/sociedad/buscan-desesperadamente-a-un-hombre-de-39-anos-que-lleva-mas-de-48-horas-desaparecido-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T010324Z"
     },
     {
      "title": "Un niño de 4 años murió tras ser atacado por un pitbull cuando estaba al cuidado de su madrina en Moreno",
@@ -1451,12 +1439,6 @@
      "url": "https://oglobo.globo.com/brasil/noticia/2026/10/11/influenciador-brasileiro-preso-pelo-ice-nos-eua-e-deportado-apos-quase-um-mes-veja-o-que-se-sabe.ghtml",
      "domain": "O Globo",
      "seendate": "20261011T122355Z"
-    },
-    {
-     "title": "Círio de Nazaré 2026: corda se rompe durante Trasladação, devotos disputam pedaços e procissão atrasa em Belém",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/11/cirio-de-nazare-2026-corda-se-rompe-durante-trasladacao-devotos-disputam-pedacos-e-procissao-atrasa-em-belem.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261011T105818Z"
     }
    ]
   }
