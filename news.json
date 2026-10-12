@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T02:20:55+00:00",
+ "updated": "2026-10-12T02:53:09+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -85,6 +85,18 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Coyoacán lleva su Orquesta Filarmónica a los Culhuacanes; Giovani Gutiérrez reafirma el compromiso con la cultura",
+     "url": "https://www.eluniversal.com.mx/metropoli/coyoacan-lleva-su-orquesta-filarmonica-a-los-culhuacanes-giovani-gutierrez-reafirma-el-compromiso-con-la-cultura/",
+     "domain": "El Universal",
+     "seendate": "20261012T022403Z"
+    },
+    {
+     "title": "Gobierno de Jalisco reporta 39 detenidos tras marcha por agua; hay 59 personas heridas, dice",
+     "url": "https://www.eluniversal.com.mx/estados/gobierno-de-jalisco-reporta-39-detenidos-tras-marcha-por-agua-hay-59-personas-heridas-dice/",
+     "domain": "El Universal",
+     "seendate": "20261012T021709Z"
+    },
     {
      "title": "Matan a coordinador de Protección Civil en Escuinapa; es el quinto funcionario asesinado en Sinaloa este año",
      "url": "https://www.eluniversal.com.mx/estados/matan-a-coordinador-de-proteccion-civil-en-escuinapa-es-el-quinto-funcionario-asesinado-en-sinaloa-este-ano/",
@@ -282,12 +294,6 @@
      "url": "https://www.eluniversal.com.mx/estados/marco-bonilla-asume-coordinacion-estatal-para-la-defensa-de-la-patria-la-familia-y-la-libertad-en-chihuahua-pan-perfila-rumbo-a-2027/",
      "domain": "El Universal",
      "seendate": "20261011T163846Z"
-    },
-    {
-     "title": "Sheinbaum llama a la población a resguardarse por huracán Simón categoría 4; pide esperar a que el peligro termine",
-     "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-llama-a-la-poblacion-a-resguardarse-por-huracan-simon-categoria-4-pide-esperar-a-que-el-peligro-termine/",
-     "domain": "El Universal",
-     "seendate": "20261011T161432Z"
     },
     {
      "title": "Huracán Simon se degrada a categoría 3; sigue EN VIVO su trayectoria y afectaciones",
@@ -1114,10 +1120,16 @@
   "ARG": {
    "articles": [
     {
-     "title": "Juan Carlos de Pablo analizó el rumbo económico del Gobierno, la polémica por el oro de BCRA y las elecciones en Brasil",
+     "title": "Juan Carlos de Pablo analizó el rumbo económico del Gobierno, la polémica por el oro del BCRA y las elecciones en Brasil",
      "url": "https://www.lanacion.com.ar/economia/juan-carlos-de-pablo-economista-para-la-argentina-es-un-problema-que-brasil-no-funcione-nid11102026/",
      "domain": "La Nación",
-     "seendate": "20261012T021237Z"
+     "seendate": "20261012T023346Z"
+    },
+    {
+     "title": "Aterosclerosis y trombosis: alimentaron animales con remolacha forrajera y el resultado fue sorprendente",
+     "url": "https://www.lanacion.com.ar/economia/campo/aterosclerosis-y-trombosis-alimentaron-animales-con-remolacha-forrajera-y-el-resultado-fue-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T021745Z"
     },
     {
      "title": "Martín Menem alertó sobre la sesión para rechazar el DNU 70/23: “Quieren sembrar el caos”",
@@ -1292,12 +1304,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/frase-destacada-del-dia-stephen-hawking-fisico-el-mayor-enemigo-del-conocimiento-no-es-la-ignorancia-nid10102026/",
      "domain": "La Nación",
      "seendate": "20261011T192459Z"
-    },
-    {
-     "title": "Aníbal Pordomingo, investigador del INTA: “El país tiene un margen de crecimiento del 30 al 40% en su peso medio de faena”",
-     "url": "https://www.lanacion.com.ar/economia/campo/anibal-pordomingo-investigador-del-inta-el-pais-tiene-un-margen-de-crecimiento-del-30-al-40-en-su-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T190904Z"
     }
    ]
   },
