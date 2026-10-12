@@ -1,8 +1,14 @@
 {
- "updated": "2026-10-12T15:54:07+00:00",
+ "updated": "2026-10-12T16:20:30+00:00",
  "countries": {
   "ESP": {
    "articles": [
+    {
+     "title": "Sánchez confirma la entrada de buques de guerra marroquíes en aguas españolas el día de la entrada masiva: “Fueron días intensos”",
+     "url": "https://elpais.com/espana/2026-10-12/sanchez-confirma-la-entrada-de-buques-de-guerra-marroquies-en-aguas-espanolas-el-dia-de-la-entrada-masiva-fueron-dias-intensos.html",
+     "domain": "El País",
+     "seendate": "20261012T160752Z"
+    },
     {
      "title": "Comuns acusa a Rufián de azuzar la división en las izquierdas por su acuerdo con Podemos",
      "url": "https://elpais.com/espana/elecciones-generales/2026-10-12/podemos-y-erc-oficializan-el-acuerdo-por-el-que-rufian-y-montero-haran-campana-juntos.html",
@@ -26,6 +32,12 @@
      "url": "https://elpais.com/espana/elecciones-generales/2026-10-12/el-voto-particular-sobre-la-decision-del-supremo-sobre-la-ley-de-nietos-el-29-n-introdujo-un-elemento-nuevo-y-decisivo.html",
      "domain": "El País",
      "seendate": "20261012T140829Z"
+    },
+    {
+     "title": "La UE cierra ahora filas con España sobre Ceuta dos meses después de la crisis migratoria",
+     "url": "https://elpais.com/espana/2026-10-12/la-ue-cierra-ahora-filas-con-espana-sobre-ceuta-dos-meses-despues-de-la-crisis-migratoria.html",
+     "domain": "El País",
+     "seendate": "20261012T134952Z"
     },
     {
      "title": "El Supremo mantiene para el 29-N la suspensión del derecho al voto de los nacionalizados por la ‘ley de nietos’",
@@ -64,20 +76,8 @@
      "seendate": "20261012T090033Z"
     },
     {
-     "title": "Martin Schulz: “Echar a una mujer de 87 años de la casa en la que ha vivido décadas es de una frialdad insuperable”",
-     "url": "https://elpais.com/espana/2026-10-12/martin-schulz-echar-a-una-mujer-de-87-anos-de-la-casa-en-la-que-ha-vivido-decadas-es-de-una-frialdad-insuperable.html",
-     "domain": "El País",
-     "seendate": "20261012T072541Z"
-    },
-    {
      "title": "Feijóo toca a rebato y pide a los barones “movilización máxima”",
      "url": "https://elpais.com/espana/elecciones-generales/2026-10-12/feijoo-toca-a-rebato-y-pide-a-los-barones-movilizacion-maxima.html",
-     "domain": "El País",
-     "seendate": "20261012T033001Z"
-    },
-    {
-     "title": "Loba joven y loba vieja tras los pasos de la loba reina Shakira",
-     "url": "https://elpais.com/espana/madrid/2026-10-12/loba-joven-y-loba-vieja-tras-los-pasos-de-la-loba-reina-shakira.html",
      "domain": "El País",
      "seendate": "20261012T033001Z"
     },
@@ -90,6 +90,12 @@
     {
      "title": "El sexto destructor lanzamisiles de EE UU llegará este jueves a la base naval de Rota",
      "url": "https://elpais.com/espana/2026-10-12/el-sexto-destructor-lanzamisiles-de-ee-uu-llegara-este-jueves-a-la-base-naval-de-rota.html",
+     "domain": "El País",
+     "seendate": "20261012T033001Z"
+    },
+    {
+     "title": "Loba joven y loba vieja tras los pasos de la loba reina Shakira",
+     "url": "https://elpais.com/espana/madrid/2026-10-12/loba-joven-y-loba-vieja-tras-los-pasos-de-la-loba-reina-shakira.html",
      "domain": "El País",
      "seendate": "20261012T033001Z"
     },
@@ -176,6 +182,36 @@
   "MEX": {
    "articles": [
     {
+     "title": "Convoca edil de Ecatepec a la unidad",
+     "url": "https://www.eluniversal.com.mx/metropoli/convoca-edil-de-ecatepec-a-la-unidad/",
+     "domain": "El Universal",
+     "seendate": "20261012T161250Z"
+    },
+    {
+     "title": "Marchas y protestas hoy en CDMX; las concentraciones se realizarán en distintos puntos de la capital",
+     "url": "https://www.eluniversal.com.mx/metropoli/marchas-y-protestas-hoy-en-cdmx-las-concentraciones-se-realizaran-en-distintos-puntos-de-la-capital/",
+     "domain": "El Universal",
+     "seendate": "20261012T161117Z"
+    },
+    {
+     "title": "No queremos conflicto político con gobierno de Jalisco por crisis de agua: Sheinbaum; cuestiona esquema que busca aplicar Lemus",
+     "url": "https://www.eluniversal.com.mx/nacion/no-queremos-conflicto-politico-con-gobierno-de-jalisco-por-crisis-de-agua-sheinbaum-cuestiona-esquema-que-busca-aplicar-lemus/",
+     "domain": "El Universal",
+     "seendate": "20261012T160909Z"
+    },
+    {
+     "title": "Sheinbaum no habló sobre Academia Policial en encuentro con embajador Johnson; reitera se deben cumplir leyes mexicanas",
+     "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-no-hablo-sobre-academia-policial-en-encuentro-con-embajador-johnson-reitera-se-deben-cumplir-leyes-mexicanas/",
+     "domain": "El Universal",
+     "seendate": "20261012T160305Z"
+    },
+    {
+     "title": "Lemus debe explicar uso de agua y gas lacrimógeno para reprimir protestas, dice Sheinbaum; se opone a privatización del servicio",
+     "url": "https://www.eluniversal.com.mx/nacion/lemus-debe-explicar-uso-de-agua-y-gas-lacrimogeno-para-reprimir-protestas-dice-sheinbaum-se-opone-a-privatizacion-del-servicio/",
+     "domain": "El Universal",
+     "seendate": "20261012T155207Z"
+    },
+    {
      "title": "Proyecto de Ley de Derechos Indígenas, sin terminar; Sheinbaum menciona que \"aún hay debate\" en algunos temas",
      "url": "https://www.eluniversal.com.mx/nacion/proyecto-de-ley-de-derechos-indigenas-sin-terminar-sheinbaum-menciona-que-aun-hay-debate-en-algunos-temas/",
      "domain": "El Universal",
@@ -242,7 +278,7 @@
      "seendate": "20261012T132712Z"
     },
     {
-     "title": "Huracán Simon provoca lluvias muy fuertes en cuatro estados; sigue EN VIVO su trayectoria y afectaciones",
+     "title": "Huracán Simon baja a categoría 2 frente a costas mexicanas; sigue EN VIVO su trayectoria y afectaciones",
      "url": "https://www.eluniversal.com.mx/estados/huracan-simon-provoca-lluvias-muy-fuertes-en-cuatro-estados-sigue-en-vivo-su-trayectoria-y-afectaciones/",
      "domain": "El Universal",
      "seendate": "20261012T125157Z"
@@ -336,42 +372,6 @@
      "url": "https://www.eluniversal.com.mx/estados/suman-dos-muertos-por-ataque-a-elementos-de-seguridad-de-pemex-investigan-agresion-en-refineria-de-minatitlan/",
      "domain": "El Universal",
      "seendate": "20261012T055857Z"
-    },
-    {
-     "title": "Detienen a Jesús Darío “N”, integrante de “La Barredora 24/7”; es señalado como generador de violencia en Sonora",
-     "url": "https://www.eluniversal.com.mx/nacion/detienen-a-jesus-dario-n-integrante-de-la-barredora-247-es-senalado-como-generador-de-violencia-en-sonora/",
-     "domain": "El Universal",
-     "seendate": "20261012T042134Z"
-    },
-    {
-     "title": "Secretaría de Seguridad de la CDMX investiga actuar de policías en marcha de trabajadores del IMSS; analiza videos difundidos",
-     "url": "https://www.eluniversal.com.mx/metropoli/secretaria-de-seguridad-de-la-cdmx-investiga-actuar-de-policias-en-marcha-de-trabajadores-del-imss-analiza-videos-difundidos/",
-     "domain": "El Universal",
-     "seendate": "20261012T041538Z"
-    },
-    {
-     "title": "Olas de Simon rompen con furia frente a El Caballito en Puerto Vallarta; turistas se acercan a malecón pese a advertencias",
-     "url": "https://www.eluniversal.com.mx/estados/olas-de-simon-rompen-con-furia-frente-a-el-caballito-en-puerto-vallarta-turistas-se-acercan-a-malecon-pese-a-advertencias/",
-     "domain": "El Universal",
-     "seendate": "20261012T035608Z"
-    },
-    {
-     "title": "\"Simon, no te pases\", Puerto Vallarta escribe sus temores y esperanzas ante la llegada del huracán; fachadas se llenan de mensajes",
-     "url": "https://www.eluniversal.com.mx/estados/simon-no-te-pases-puerto-vallarta-escribe-sus-temores-y-esperanzas-ante-la-llegada-del-huracan-fachadas-se-llenan-de-mensajes/",
-     "domain": "El Universal",
-     "seendate": "20261012T033403Z"
-    },
-    {
-     "title": "Huracán Simon convierte a Puerto Vallarta en un pueblo fantasma; calles permanecen vacías ante resguardo de turistas y habitantes",
-     "url": "https://www.eluniversal.com.mx/estados/huracan-simon-convierte-a-puerto-vallarta-en-un-pueblo-fantasma-calles-permanecen-vacias-ante-resguardo-de-turistas-y-habitantes/",
-     "domain": "El Universal",
-     "seendate": "20261012T011209Z"
-    },
-    {
-     "title": "Jornada violenta en Mazatlán deja 7 asesinatos; municipio suma 29 homicidios en 4 días",
-     "url": "https://www.eluniversal.com.mx/estados/asesinan-a-balazos-a-dos-jugadores-en-cancha-de-futbol-en-mazatlan-fiscalia-investiga-el-ataque/",
-     "domain": "El Universal",
-     "seendate": "20261012T004905Z"
     }
    ]
   },
@@ -457,6 +457,12 @@
   },
   "CRI": {
    "articles": [
+    {
+     "title": "Corte Plena rechaza reforma de Marta Esquivel: devolvería el voto secreto y permitiría injerencia de la Asamblea",
+     "url": "https://www.nacion.com/politica/corte-plena-rechaza-reforma-de-marta-esquivel/D5U2DOMYC5DSROIJ644NNQ257Q/story/",
+     "domain": "La Nación",
+     "seendate": "20261012T160000Z"
+    },
     {
      "title": "Vecino encuentra cuerpo flotando en río de Valle La Estrella, Limón",
      "url": "https://www.nacion.com/sucesos/vecino-encuentra-cuerpo-flotando-en-rio-de-valle/5TPEZK2MQBFWPC4SXX5ESQ3XBE/story/",
@@ -754,6 +760,18 @@
   "CUB": {
    "articles": [
     {
+     "title": "Arroz, pañales y whisky figuran en el mercado mayorista de Sancti Spíritus, primero de este tipo en Cuba",
+     "url": "https://www.14ymedio.com/cuba/arroz-panales-whisky-figuran-mercado_1_1131864.html",
+     "domain": "14ymedio",
+     "seendate": "20261012T155942Z"
+    },
+    {
+     "title": "Las cancelaciones de Air China dejan varados a decenas de cubanos en Madrid",
+     "url": "https://www.14ymedio.com/cuba/cancelaciones-air-china-dejan-varados_1_1131860.html",
+     "domain": "14ymedio",
+     "seendate": "20261012T155748Z"
+    },
+    {
      "title": "La minería ilegal de oro en Las Tunas \"se ha convertido en un problema de salud pública\"",
      "url": "https://www.14ymedio.com/cuba/mineria-ilegal-oro-tunas-convertido_1_1131848.html",
      "domain": "14ymedio",
@@ -826,12 +844,6 @@
      "seendate": "20261010T123418Z"
     },
     {
-     "title": "Mucho anuncio y poca mercancía en el nuevo Mercado de Barrio de Matanzas",
-     "url": "https://www.14ymedio.com/cuba/anuncio-mercancia-nuevo-mercado-barrio_1_1131775.html",
-     "domain": "14ymedio",
-     "seendate": "20261010T122254Z"
-    },
-    {
      "title": "El grupo estatal Gaviota mantiene cerradas casi el 90% de sus más de 30.000 habitaciones",
      "url": "https://www.14ymedio.com/cuba/grupo-estatal-gaviota-mantiene-cerradas_1_1131770.html",
      "domain": "14ymedio",
@@ -863,7 +875,7 @@
   "COL": {
    "articles": [
     {
-     "title": "Alias ‘Mongolo’ y alias ‘Guajiro’, los dos fugados que más preocupan al Gobierno tras la evasión de 41 detenidos en Santa Marta; hay recompensa",
+     "title": "Alias ‘Mongolo’ y ‘Guajiro’, los fugitivos por cuya fuga De La Espriella ordenó la salida del comandante de la Policía de Santa Marta: hay recompensa",
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/alias-mongolo-y-alias-guajiro-los-dos-fugados-que-mas-preocupan-al-gobierno-tras-la-evasion-de-41-detenidos-en-santa-marta-hay-recompensa-3593003",
      "domain": "El Tiempo",
      "seendate": "20261012T153600Z"
@@ -1087,18 +1099,6 @@
      "seendate": "20261011T185109Z"
     },
     {
-     "title": "IESS dispone medidas para mejorar el abastecimiento de medicamentos en el Hospital del Día Sur Valdivia tras inspección",
-     "url": "https://eluniverso.com/politica/ejecutivo/iess-dispone-medidas-para-mejorar-el-abastecimiento-de-medicamentos-en-el-hospital-del-dia-sur-valdivia-tras-inspeccion-nota/",
-     "domain": "El Universo",
-     "seendate": "20261011T184504Z"
-    },
-    {
-     "title": "Ciclistas recorrieron más de 20 kilómetros en Atacames para promover la paz, la seguridad y el turismo",
-     "url": "https://eluniverso.com/comunidad/ecuador/ciclistas-recorrieron-mas-de-20-kilometros-en-atacames-para-promover-la-paz-la-seguridad-y-el-turismo-nota/",
-     "domain": "El Universo",
-     "seendate": "20261011T184046Z"
-    },
-    {
      "title": "Proyecto busca regular los sistemas de financiamiento y compra de vehículos",
      "url": "https://eluniverso.com/politica/asamblea-nacional/proyecto-para-proteger-al-consumidor-de-sistemas-de-financiamiento-y-compra-de-vehiculos-nota/",
      "domain": "El Universo",
@@ -1162,6 +1162,24 @@
   "ARG": {
    "articles": [
     {
+     "title": "Se aproxima un “bloqueo en la circulación atmosférica” que prolongará el mal tiempo y las tormentas: las zonas afectadas",
+     "url": "https://www.lanacion.com.ar/sociedad/se-aproxima-un-bloqueo-en-la-circulacion-atmosferica-que-prolongara-el-mal-tiempo-y-las-tormentas-nid12102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T161358Z"
+    },
+    {
+     "title": "Javier Milei y sus medidas, EN VIVO: el Presidente negó la salida de Caputo y se mostró confiado en que será reelecto",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-nos-unimos-en-oracion-por-su-salud-dijo-el-presidente-por-la-nid12102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T160856Z"
+    },
+    {
+     "title": "Después de una meseta de seis meses, el precio de la carne vacuna pronto tomará envión y aumentaría un 10% hasta fin de año",
+     "url": "https://www.lanacion.com.ar/economia/campo/despues-de-una-meseta-de-seis-meses-el-precio-de-la-carne-vacuna-pronto-tomara-envion-y-aumentaria-nid12102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T155352Z"
+    },
+    {
      "title": "El peronismo marchará dividido por el Día de la Lealtad: La Matanza y San José 1111 serán los puntos de concentración",
      "url": "https://www.lanacion.com.ar/politica/el-peronismo-marchara-dividido-por-el-dia-de-la-lealtad-la-matanza-y-san-jose-1111-seran-puntos-de-nid12102026/",
      "domain": "La Nación",
@@ -1178,12 +1196,6 @@
      "url": "https://www.lanacion.com.ar/economia/la-importancia-de-la-micro-quienes-ganaron-el-nobel-de-economia-y-que-aportes-de-sus-investigaciones-nid12102026/",
      "domain": "La Nación",
      "seendate": "20261012T153210Z"
-    },
-    {
-     "title": "Javier Milei y sus medidas, EN VIVO: el Presidente negó la salida de Caputo y se mostró confiado en que será reelecto",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-nos-unimos-en-oracion-por-su-salud-dijo-el-presidente-por-la-nid12102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T153030Z"
     },
     {
      "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este lunes 12 de octubre, minuto a minuto",
@@ -1352,18 +1364,6 @@
      "url": "https://www.lanacion.com.ar/economia/campo/una-startup-fue-elegida-entre-44-por-su-tecnologia-para-asegurar-al-agro-frente-al-clima-nid12102026/",
      "domain": "La Nación",
      "seendate": "20261012T130017Z"
-    },
-    {
-     "title": "Quebró uno de los aserraderos productores de pallets más grandes del país",
-     "url": "https://www.lanacion.com.ar/economia/campo/quebro-uno-de-los-aserraderos-productores-de-pallets-mas-grandes-del-pais-nid12102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T124427Z"
-    },
-    {
-     "title": "Volvió a la naturaleza el aguará guazú que había sorprendido a vecinos al aparecer por las calles de Rosario",
-     "url": "https://www.lanacion.com.ar/sociedad/volvio-a-la-naturaleza-el-aguara-guazu-que-habia-sorprendido-a-vecinos-al-aparecer-por-las-calles-de-nid12102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T123547Z"
     }
    ]
   },
@@ -1420,12 +1420,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/12/la-mamografia-es-gratis-sin-orden-medica-todo-el-ano-revela-experta-del-incan-a-abc/",
      "domain": "ABC Color",
      "seendate": "20261012T093000Z"
-    },
-    {
-     "title": "El futuro de la educación y la salud mental: MEC promete psicólogos, pero docentes denuncian abandono",
-     "url": "https://www.abc.com.py/nacionales/2026/10/10/el-futuro-de-la-educacion-y-la-salud-mental-mec-promete-psicologos-pero-docentes-denuncian-abandono/",
-     "domain": "ABC Color",
-     "seendate": "20261010T174524Z"
     }
    ]
   },
@@ -1434,6 +1428,12 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "Flávio Bolsonaro diz que visitará o pai na terça-feira após Moraes autorizar retomada dos encontros",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/12/flavio-bolsonaro-nesta-terca-feira-apos-moraes-autorizar-retomada-dos-encontros.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261012T155759Z"
+    },
     {
      "title": "Em aceno a católicos, Alckmin anuncia 'Caminho da Fé' para os romeiros de Aparecida, com 134 quilômetros de pista e ciclovia ao lado da Dutra",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/12/em-aceno-a-catolicos-alckmin-anuncia-caminho-da-fe-para-os-romeiros-de-aparecida-com-134-quilometros-de-pista-e-ciclovia-ao-lado-da-dutra.ghtml",
