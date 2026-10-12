@@ -1,25 +1,13 @@
 {
- "updated": "2026-10-12T17:51:32+00:00",
+ "updated": "2026-10-12T18:20:36+00:00",
  "countries": {
   "ESP": {
    "articles": [
     {
-     "title": "Desfile del Día de la Hispanidad y reacciones políticas en directo | La Policía impide el enfrentamiento entre un grupo de jóvenes con banderas de España y los acampados de Sol",
-     "url": "https://elpais.com/espana/2026-10-12/ultima-hora-del-dia-de-la-hispanidad-y-reacciones-politicas-en-directo.html",
+     "title": "El Frente Amplio propone a Ada Colau como candidata a la presidencia y deja abierta la integración de Podemos",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-10-12/el-frente-amplio-propone-a-ada-colau-como-candidata-a-la-presidencia-y-deja-abierta-la-integracion-de-podemos.html",
      "domain": "El País",
-     "seendate": "20261012T172715Z"
-    },
-    {
-     "title": "Las claves de la decisión del Supremo: ¿quién puede votar en el 29-N? ¿Es posible cumplir con la orden del alto tribunal antes de las elecciones?",
-     "url": "https://elpais.com/espana/2026-10-12/las-claves-de-la-decision-del-supremo-quien-puede-votar-en-el-29-n-es-posible-cumplir-con-la-orden-del-alto-tribunal-antes-de-las-elecciones.html",
-     "domain": "El País",
-     "seendate": "20261012T163512Z"
-    },
-    {
-     "title": "La crisis de Ceuta y el adelanto electoral marcan la recepción en Palacio Real por el día de la Fiesta Nacional",
-     "url": "https://elpais.com/espana/2026-10-12/la-crisis-de-ceuta-y-el-adelanto-electoral-marcan-la-recepcion-en-palacio-real-por-el-dia-de-la-fiesta-nacional.html",
-     "domain": "El País",
-     "seendate": "20261012T163255Z"
+     "seendate": "20261012T175630Z"
     },
     {
      "title": "Sánchez confirma la entrada de buques de guerra marroquíes en aguas españolas el día de la entrada masiva: “Fueron días intensos”",
@@ -86,12 +74,6 @@
      "url": "https://elpais.com/espana/2026-10-12/canarias-recibe-a-mas-de-1000-migrantes-en-cayucos-desde-el-viernes.html",
      "domain": "El País",
      "seendate": "20261012T090033Z"
-    },
-    {
-     "title": "Feijóo toca a rebato y pide a los barones “movilización máxima”",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-10-12/feijoo-toca-a-rebato-y-pide-a-los-barones-movilizacion-maxima.html",
-     "domain": "El País",
-     "seendate": "20261012T033001Z"
     },
     {
      "title": "Buques de guerra marroquíes entraron en aguas de Ceuta coincidiendo con la llegada masiva de inmigrantes",
@@ -188,6 +170,24 @@
   "MEX": {
    "articles": [
     {
+     "title": "Crece nueve veces producción de cempasúchil en CDMX; alistan casi 10 millones de plantas para Día de Muertos",
+     "url": "https://www.eluniversal.com.mx/metropoli/crece-nueve-veces-produccion-de-cempasuchil-en-cdmx-alistan-casi-10-millones-de-plantas-para-dia-de-muertos/",
+     "domain": "El Universal",
+     "seendate": "20261012T180807Z"
+    },
+    {
+     "title": "Asesinan a balazos a un hombre en la Gustavo A. Madero; SSC busca al responsable",
+     "url": "https://www.eluniversal.com.mx/metropoli/asesinan-a-balazos-a-un-hombre-en-la-gustavo-a-madero-ssc-busca-al-responsable/",
+     "domain": "El Universal",
+     "seendate": "20261012T180455Z"
+    },
+    {
+     "title": "Lemus responde a Sheinbaum tras violencia en marcha por el agua; investigarán detenciones y actuación policial",
+     "url": "https://www.eluniversal.com.mx/estados/lemus-responde-a-sheinbaum-tras-violencia-en-marcha-por-el-agua-investigaran-detenciones-y-actuacion-policial/",
+     "domain": "El Universal",
+     "seendate": "20261012T174409Z"
+    },
+    {
      "title": "Sheinbaum pide responsabilidad a plataformas para evitar promoción de la violencia; \"la educación es la mejor herramienta\", dice",
      "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-pide-responsabilidad-a-plataformas-para-evitar-promocion-de-la-violencia-la-educacion-es-la-mejor-herramienta-dice/",
      "domain": "El Universal",
@@ -200,7 +200,7 @@
      "seendate": "20261012T172411Z"
     },
     {
-     "title": "Sobse lanza licitación para construir skatepark en Cuauhtémoc; iniciará el próximo 2 de noviembre",
+     "title": "Secretaría de Obras lanza licitación para construir skatepark en Cuauhtémoc; fallo se dará el 30 de octubre",
      "url": "https://www.eluniversal.com.mx/metropoli/sobse-lanza-licitacion-para-construir-skatepark-en-cuauhtemoc-iniciara-el-proximo-2-de-noviembre/",
      "domain": "El Universal",
      "seendate": "20261012T172129Z"
@@ -218,7 +218,7 @@
      "seendate": "20261012T163040Z"
     },
     {
-     "title": "Convoca edil de Ecatepec a la unidad",
+     "title": "Ecatepec cierra filas con Sheinbaum y Delfina Gómez; Azucena Cisneros llama a defender la soberanía nacional",
      "url": "https://www.eluniversal.com.mx/metropoli/convoca-edil-de-ecatepec-a-la-unidad/",
      "domain": "El Universal",
      "seendate": "20261012T161250Z"
@@ -488,6 +488,18 @@
   "CRI": {
    "articles": [
     {
+     "title": "Corte Plena solicita a Asociación Solidarista de Servidores Judiciales informe sobre inversiones en concierto de Snoop Dogg y otras actividades",
+     "url": "https://www.nacion.com/sucesos/corte-plena-solicita-a-asociacion-solidarista-de/HZ764XLIU5BABMPCUWCRTSRWWM/story/",
+     "domain": "La Nación",
+     "seendate": "20261012T180337Z"
+    },
+    {
+     "title": "CNFL programó cortes de luz en Pavas este miércoles 14 de octubre",
+     "url": "https://www.nacion.com/el-pais/cnfl-programo-cortes-de-luz-en-pavas-este/AH3GWSDX5NCD7IZVBAHXHNG5VI/story/",
+     "domain": "La Nación",
+     "seendate": "20261012T174957Z"
+    },
+    {
      "title": "Corte de luz del ICE afectará sector de Guápiles este miércoles 14 de octubre",
      "url": "https://www.nacion.com/el-pais/corte-de-luz-del-ice-afectara-sector-de-guapiles/RQ6DAWYRZFF3TAI4XPSSXJ23M4/story/",
      "domain": "La Nación",
@@ -605,6 +617,12 @@
   },
   "PAN": {
    "articles": [
+    {
+     "title": "Pacientes de hemodiálisis del Santo Tomás protestan y exigen una solución definitiva",
+     "url": "https://www.prensa.com/sociedad/pacientes-de-hemodialisis-del-santo-tomas-protestan-y-exigen-una-solucion-definitiva/",
+     "domain": "La Prensa",
+     "seendate": "20261012T175500Z"
+    },
     {
      "title": "La Asamblea Nacional suspende sus actividades tras el terremoto del viernes",
      "url": "https://www.prensa.com/politica/la-asamblea-nacional-suspende-sus-actividades-tras-el-terremoto-del-viernes/",
@@ -790,12 +808,6 @@
      "url": "https://www.prensa.com/sociedad/terremoto-en-panama-balance-preliminar-de-danos-y-afectaciones/",
      "domain": "La Prensa",
      "seendate": "20261009T213100Z"
-    },
-    {
-     "title": "Terremoto de magnitud 7.5 y más de 100 réplicas se registran en Panamá",
-     "url": "https://www.prensa.com/sociedad/fuerte-temblor-de-70-sacude-a-panama/",
-     "domain": "La Prensa",
-     "seendate": "20261009T181552Z"
     }
    ]
   },
@@ -932,7 +944,13 @@
      "title": "'Mongolo' y 'Guajiro', fugitivos por los que el presidente De La Espriella ordenó salida del comandante de Policía de Santa Marta: hay recompensa",
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/alias-mongolo-y-alias-guajiro-los-dos-fugados-que-mas-preocupan-al-gobierno-tras-la-evasion-de-41-detenidos-en-santa-marta-hay-recompensa-3593003",
      "domain": "El Tiempo",
-     "seendate": "20261012T174220Z"
+     "seendate": "20261012T174500Z"
+    },
+    {
+     "title": "Temblor en Colombia hoy, 12 de octubre: sismo de magnitud 3,3 sacudió a Chaparral, Tolima, según el Servicio Geológico Colombiano",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-en-colombia-hoy-12-de-octubre-sismo-de-magnitud-3-3-sacudio-a-chaparral-tolima-segun-el-servicio-geologico-colombiano-3592991",
+     "domain": "El Tiempo",
+     "seendate": "20261012T174500Z"
     },
     {
      "title": "Videos muestran destrucción del peaje de El Bordo tras carro bomba en Cauca: identifican a una mujer herida",
@@ -957,12 +975,6 @@
      "url": "https://www.eltiempo.com/colombia/barranquilla/por-que-hay-tantos-mosquitos-en-barranquilla-la-mayoria-son-culex-que-no-transmite-dengue-y-se-multiplican-con-las-lluvias-y-el-calor-de-octubre-3592989",
      "domain": "El Tiempo",
      "seendate": "20261012T150100Z"
-    },
-    {
-     "title": "Temblor en Colombia hoy, 12 de octubre: sismo de magnitud 3,3 sacudió a Chaparral, Tolima, según el Servicio Geológico Colombiano",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-en-colombia-hoy-12-de-octubre-sismo-de-magnitud-3-3-sacudio-a-chaparral-tolima-segun-el-servicio-geologico-colombiano-3592991",
-     "domain": "El Tiempo",
-     "seendate": "20261012T142323Z"
     },
     {
      "title": "Al menos tres heridos deja un atentado con carro bomba en la vía Panamericana, cerca del peaje de El Bordo, Cauca: esto se sabe",
@@ -1014,6 +1026,18 @@
   },
   "ECU": {
    "articles": [
+    {
+     "title": "Policía libera a cuatro víctimas y aprehende a 33 personas en operativos contra secuestro y extorsión",
+     "url": "https://eluniverso.com/politica/seguridad/policia-libera-a-cuatro-victimas-y-aprehende-a-33-personas-en-operativos-contra-secuestro-y-extorsion-nota/",
+     "domain": "El Universo",
+     "seendate": "20261012T181221Z"
+    },
+    {
+     "title": "Acnur reconoce a 105 empresas en Ecuador por impulsar la inclusión laboral de personas refugiadas",
+     "url": "https://eluniverso.com/comunidad/ecuador/acnur-reconoce-a-105-empresas-en-ecuador-por-impulsar-la-inclusion-laboral-de-personas-refugiadas-nota/",
+     "domain": "El Universo",
+     "seendate": "20261012T175752Z"
+    },
     {
      "title": "Descubren medio kilogramo de cocaína en una viajera en el aeropuerto de Quito",
      "url": "https://eluniverso.com/politica/seguridad/descubren-medio-kilogramo-de-cocaina-en-una-viajera-en-el-aeropuerto-de-quito-nota/",
@@ -1135,18 +1159,6 @@
      "seendate": "20261012T001938Z"
     },
     {
-     "title": "Militares capturan a presunta integrante de Los Águilas con armas, droga y prendas similares a uniformes policiales",
-     "url": "https://eluniverso.com/politica/seguridad/militares-capturan-a-presunta-integrante-de-los-aguilas-con-armas-droga-y-prendas-similares-a-uniformes-policiales-nota/",
-     "domain": "El Universo",
-     "seendate": "20261011T223905Z"
-    },
-    {
-     "title": "Mujer de 61 años recibe la primera cirugía bilateral de prótesis de rodilla en el hospital Miguel Hilario Alcívar, en Manabí",
-     "url": "https://eluniverso.com/politica/ejecutivo/mujer-de-61-anos-recibe-la-primera-cirugia-bilateral-de-protesis-de-rodilla-en-el-hospital-miguel-hilario-alcivar-en-manabi-nota/",
-     "domain": "El Universo",
-     "seendate": "20261011T213604Z"
-    },
-    {
      "title": "Ecuador impulsa una comisión de investigación y un sistema de alerta temprana para responder a los riesgos de las drogas",
      "url": "https://eluniverso.com/politica/ejecutivo/ecuador-impulsa-una-comision-de-investigacion-y-un-sistema-de-alerta-temprana-para-responder-a-los-riesgos-de-las-drogas-nota/",
      "domain": "El Universo",
@@ -1175,6 +1187,12 @@
   "PER": {
    "articles": [
     {
+     "title": "BTS en Lima: conciertos generaron más de S/5.8 millones por ventas de alimentos, bebidas y merchandising",
+     "url": "https://elcomercio.pe/economia/peru/bts-en-lima-conciertos-generaron-mas-de-s58-millones-por-ventas-de-alimentos-bebidas-y-merchandising-l-bts-l-ultimas-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261012T181653Z"
+    },
+    {
      "title": "Promperú impulsa reinversión de empresas extranjeras en el país a través del Perú Investment Round Table 2026",
      "url": "https://elcomercio.pe/economia/peru/promperu-impulsa-reinversion-de-empresas-extranjeras-en-el-pais-a-traves-del-peru-investment-round-table-2026-l-ultimas-noticia/",
      "domain": "El Comercio",
@@ -1191,18 +1209,6 @@
      "url": "https://elcomercio.pe/economia/peru/el-dolar-abre-a-la-baja-en-s343-pese-al-fortalecimiento-global-de-la-divisa-l-tipo-de-cambio-l-ultimas-noticia/",
      "domain": "El Comercio",
      "seendate": "20261012T162034Z"
-    },
-    {
-     "title": "Último temblor en Perú hoy, lunes 12 de octubre: dónde fue el epicentro, magnitud y reportes del IGP",
-     "url": "https://elcomercio.pe/peru/temblor-hoy-en-peru-en-vivo-reportes-del-igp-lugar-magnitud-y-ultimo-minuto-tdpe-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261012T153500Z"
-    },
-    {
-     "title": "“El Perú que espera a León XIV”, por Kurth Mendoza Gutiérrez",
-     "url": "https://elcomercio.pe/peru/el-peru-que-espera-a-leon-xiv-por-kurth-mendoza-gutierrez-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261012T153423Z"
     },
     {
      "title": "Apenas el 17% de los puntos críticos por el Fenómeno El Niño tiene intervenciones en ejecución",
@@ -1246,10 +1252,40 @@
   "ARG": {
    "articles": [
     {
+     "title": "Mike McCloskey, dueño de un tambo de 20.000 vacas Holando: el emprendedor serial que convirtió un problema en un ingreso de miles de dólares",
+     "url": "https://www.lanacion.com.ar/economia/campo/mike-mccloskey-dueno-de-un-tambo-de-20000-vacas-holando-el-emprendedor-serial-que-convirtio-un-nid12102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T181408Z"
+    },
+    {
+     "title": "El “oro blanco”: el informe del Gobierno que revela la actualidad del mineral estrella",
+     "url": "https://www.lanacion.com.ar/economia/el-oro-blanco-el-informe-del-gobierno-que-revela-la-actualidad-del-mineral-estrella-nid12102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T181321Z"
+    },
+    {
      "title": "Javier Milei y sus medidas, EN VIVO: el Presidente negó la salida de Caputo y se mostró confiado en que será reelecto",
      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-nos-unimos-en-oracion-por-su-salud-dijo-el-presidente-por-la-nid12102026/",
      "domain": "La Nación",
-     "seendate": "20261012T174000Z"
+     "seendate": "20261012T181253Z"
+    },
+    {
+     "title": "Quebró uno de los aserraderos productores de pallets más grandes del país",
+     "url": "https://www.lanacion.com.ar/economia/campo/quebro-uno-de-los-aserraderos-productores-de-pallets-mas-grandes-del-pais-nid12102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T181243Z"
+    },
+    {
+     "title": "“Se nos viene la noche”: la crecida del río Uruguay por El Niño enciende las alarmas en los campos de Corrientes y Entre Ríos",
+     "url": "https://www.lanacion.com.ar/economia/campo/se-nos-viene-la-noche-la-crecida-del-rio-uruguay-por-el-nino-enciende-las-alarmas-en-los-campos-de-nid12102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T180530Z"
+    },
+    {
+     "title": "Con Luis Caputo ratificado, siguen los pedidos de correcciones en el gabinete",
+     "url": "https://www.lanacion.com.ar/politica/con-luis-caputo-ratificado-siguen-los-pedidos-de-correcciones-en-el-gabinete-nid12102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T175907Z"
     },
     {
      "title": "Una provincia aplicó una medida inédita en el país y logró un invierno sin muertes de bebés por un virus que causa bronquiolitis",
@@ -1342,12 +1378,6 @@
      "seendate": "20261012T164616Z"
     },
     {
-     "title": "Quebró uno de los aserraderos productores de pallets más grandes del país",
-     "url": "https://www.lanacion.com.ar/economia/campo/quebro-uno-de-los-aserraderos-productores-de-pallets-mas-grandes-del-pais-nid12102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T164315Z"
-    },
-    {
      "title": "Horror en Rosario: encontraron el cuerpo de una joven envuelto en una frazada y detuvieron a un expolicía",
      "url": "https://www.lanacion.com.ar/seguridad/horror-en-rosario-encontraron-el-cuerpo-de-una-joven-envuelto-en-una-frazada-y-detuvieron-a-un-nid12102026/",
      "domain": "La Nación",
@@ -1424,12 +1454,6 @@
      "url": "https://www.lanacion.com.ar/politica/la-oposicion-dialoguista-del-senado-desafia-a-karina-milei-con-gestos-de-rebeldia-nid12102026/",
      "domain": "La Nación",
      "seendate": "20261012T140014Z"
-    },
-    {
-     "title": "La apuesta láctea de Adecoagro: US$100 millones, más exportaciones y la mira puesta en SanCor",
-     "url": "https://www.lanacion.com.ar/economia/negocios/la-apuesta-lactea-de-adecoagro-us100-millones-mas-exportaciones-y-la-mira-puesta-en-sancor-nid12102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T135714Z"
     }
    ]
   },
@@ -1458,7 +1482,7 @@
      "seendate": "20261012T173230Z"
     },
     {
-     "title": "Estudiantes de Enfermería de la UNA exigen destitución de autoridades y denuncian amedrentamiento a docentes",
+     "title": "Estudiantes de Obstetricia de la UNA exigen destitución de autoridades y denuncian amedrentamiento a docentes",
      "url": "https://www.abc.com.py/nacionales/2026/10/12/estudiantes-de-enfermeria-de-la-una-exigen-destitucion-de-autoridades-y-denuncian-amedrentamiento-a-docentes/",
      "domain": "ABC Color",
      "seendate": "20261012T162615Z"
@@ -1488,6 +1512,24 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "O que a área técnica do TSE disse sobre o canal ‘Exército do Lula’, questionado pela campanha de Flávio",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/12/o-que-a-area-tecnica-do-tse-disse-sobre-o-canal-exercito-do-lula-questionado-pela-campanha-de-flavio.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261012T180928Z"
+    },
+    {
+     "title": "Paes anuncia volta após 'fim de semana no sítio' e posta apoio a Lula: 'Hora de falar de vida real'",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/12/paes-anuncia-volta-apos-fim-de-semana-no-sitio-e-posta-apoio-a-lula-hora-de-falar-de-vida-real.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261012T171357Z"
+    },
+    {
+     "title": "Apoiadores ocupam quarteirões da Praia de Copacabana (RJ) em ato sem Lula no Rio",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/12/apoiadores-ocupam-quarteiroes-da-praia-de-copacabana-rj-em-ato-sem-lula-no-rio.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261012T171307Z"
+    },
     {
      "title": "Criança de 10 anos morre após afogamento em parque aquático no Ceará",
      "url": "https://oglobo.globo.com/brasil/noticia/2026/10/12/crianca-de-10-anos-morre-apos-afogamento-em-parque-aquatico-no-ceara.ghtml",
