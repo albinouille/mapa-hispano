@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T11:54:36+00:00",
+ "updated": "2026-10-12T12:31:36+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -7,10 +7,10 @@
      "title": "Desfile del Día de la Hispanidad y reacciones políticas en directo | Los Reyes celebran en el Palacio Real el tradicional besamanos",
      "url": "https://elpais.com/espana/2026-10-12/ultima-hora-del-dia-de-la-hispanidad-y-reacciones-politicas-en-directo.html",
      "domain": "El País",
-     "seendate": "20261012T114239Z"
+     "seendate": "20261012T122340Z"
     },
     {
-     "title": "Podemos y ERC oficializan el acuerdo por el que Rufián y Montero harán campaña juntos",
+     "title": "Comuns acusa a Rufián de azuzar la división en las izquierdas",
      "url": "https://elpais.com/espana/elecciones-generales/2026-10-12/podemos-y-erc-oficializan-el-acuerdo-por-el-que-rufian-y-montero-haran-campana-juntos.html",
      "domain": "El País",
      "seendate": "20261012T111438Z"
@@ -60,12 +60,6 @@
     {
      "title": "El sexto destructor lanzamisiles de EE UU llegará este jueves a la base naval de Rota",
      "url": "https://elpais.com/espana/2026-10-12/el-sexto-destructor-lanzamisiles-de-ee-uu-llegara-este-jueves-a-la-base-naval-de-rota.html",
-     "domain": "El País",
-     "seendate": "20261012T033001Z"
-    },
-    {
-     "title": "La candidatura por Madrid frena el acuerdo del Frente Amplio",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-10-12/la-candidatura-por-madrid-frena-el-acuerdo-del-frente-amplio.html",
      "domain": "El País",
      "seendate": "20261012T033001Z"
     },
@@ -446,6 +440,18 @@
   "CRI": {
    "articles": [
     {
+     "title": "Lotería Nacional de Costa Rica: lista completa de ganadores y premios del sorteo N.° 4.922 de este domingo 11 de octubre",
+     "url": "https://www.nacion.com/el-pais/loteria-nacional-de-costa-rica-lista-completa-de/ZFTVLWCT7RE4JF3MSGBOYM2JBQ/story/",
+     "domain": "La Nación",
+     "seendate": "20261012T122045Z"
+    },
+    {
+     "title": "Más de 100 personas afrontan desalojo en Purral. Viven sobre terrenos del IMAS destinados a áreas verdes e infantiles",
+     "url": "https://www.nacion.com/el-pais/mas-de-100-personas-afrontan-desalojo-en-purral/55TCOU55YFDXRBW5VCZSMROK4I/story/",
+     "domain": "La Nación",
+     "seendate": "20261012T120000Z"
+    },
+    {
      "title": "Cuatro magistrados de la Corte Suprema esperan decisión de diputados sobre su reelección antes de finalizar 2026",
      "url": "https://www.nacion.com/politica/cuatro-magistrados-de-la-corte-suprema-esperan/S3LFVC7DVVFD7LGBXFU5BUWFMM/story/",
      "domain": "La Nación",
@@ -510,18 +516,6 @@
      "url": "https://www.nacion.com/politica/marta-acosta-evitaba-reunirse-a-solas-con/OSDW3XSJOBHL3D35EBTE3FUF2Y/story/",
      "domain": "La Nación",
      "seendate": "20261011T070000Z"
-    },
-    {
-     "title": "Ruta 32 cerrada por caída de material",
-     "url": "https://www.nacion.com/el-pais/ruta-32-cerrada-por-caida-de-material/FHR54Q6DEBFDRA6VXKNV6KFOTU/story/",
-     "domain": "La Nación",
-     "seendate": "20261011T034540Z"
-    },
-    {
-     "title": "Este es el testimonio de uno de los reos que denunció al Ministro de Justicia por supuestas agresiones en La Reforma",
-     "url": "https://www.nacion.com/sucesos/este-es-el-testimonio-de-uno-de-los-reos-que/USYJ6U5GW5CPDBQASC5DQDQ5K4/story/",
-     "domain": "La Nación",
-     "seendate": "20261011T024134Z"
     }
    ]
   },
@@ -724,6 +718,12 @@
   "CUB": {
    "articles": [
     {
+     "title": "La minería ilegal de oro en Las Tunas \"se ha convertido en un problema de salud pública\"",
+     "url": "https://www.14ymedio.com/cuba/mineria-ilegal-oro-tunas-convertido_1_1131848.html",
+     "domain": "14ymedio",
+     "seendate": "20261012T115845Z"
+    },
+    {
      "title": "Cafecito informativo del lunes 12 de octubre de 2026",
      "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-lunes-12-octubre_7_1131847.html",
      "domain": "14ymedio",
@@ -851,6 +851,12 @@
   "COL": {
    "articles": [
     {
+     "title": "‘Quien se mete con funcionarios de Gobierno, se mete con el Tigre’: Abelardo De La Espriella tras atentado contra guardianes del Inpec en Barranquilla",
+     "url": "https://www.eltiempo.com/colombia/barranquilla/quien-se-mete-con-los-funcionarios-del-gobierno-se-mete-con-el-tigre-de-la-espriella-tras-atentado-contra-dos-guardianes-del-inpec-en-barranquilla-3592939",
+     "domain": "El Tiempo",
+     "seendate": "20261012T115839Z"
+    },
+    {
      "title": "Estatua dañada en Cartagena: piden aplicar a turista una reparación como la de ‘Epa Colombia’ y alcalde exige que responda",
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/estatua-danada-en-cartagena-piden-aplicar-a-turista-una-reparacion-como-la-de-epa-colombia-y-alcalde-exige-que-responda-3592967",
      "domain": "El Tiempo",
@@ -885,12 +891,6 @@
      "url": "https://www.eltiempo.com/colombia/cali/con-la-bendicion-del-maestro-eddie-santiago-ryan-castro-grabo-nueva-version-de-uno-de-los-grandes-clasicos-del-genero-en-el-museo-de-la-salsa-de-cali-3592936",
      "domain": "El Tiempo",
      "seendate": "20261011T235845Z"
-    },
-    {
-     "title": "‘Quien se mete con los funcionarios del Gobierno, se mete con el Tigre’: De la Espriella tras atentado contra dos guardianes del Inpec en Barranquilla",
-     "url": "https://www.eltiempo.com/colombia/barranquilla/quien-se-mete-con-los-funcionarios-del-gobierno-se-mete-con-el-tigre-de-la-espriella-tras-atentado-contra-dos-guardianes-del-inpec-en-barranquilla-3592939",
-     "domain": "El Tiempo",
-     "seendate": "20261011T235743Z"
     },
     {
      "title": "Ciudadano australiano recibió 25 puñaladas en Medellín: investigan posible hurto tras salir de un evento",
@@ -936,6 +936,12 @@
   },
   "ECU": {
    "articles": [
+    {
+     "title": "Tres sismos se registraron en Tungurahua, Pastaza y Esmeraldas entre la noche del 11 y la madrugada del 12 de octubre",
+     "url": "https://eluniverso.com/comunidad/ecuador/tres-sismos-se-registraron-en-tungurahua-pastaza-y-esmeraldas-entre-la-noche-del-11-y-la-madrugada-del-12-de-octubre-nota/",
+     "domain": "El Universo",
+     "seendate": "20261012T115602Z"
+    },
     {
      "title": "Una mujer fue aprehendida en Manta por presunto asesinato de una menor de edad",
      "url": "https://eluniverso.com/politica/seguridad/una-mujer-fue-aprehendida-en-manta-por-presunto-asesinato-de-una-menor-de-edad-nota/",
@@ -1063,12 +1069,6 @@
      "seendate": "20261011T135432Z"
     },
     {
-     "title": "Decomiso de más de 300 kilos de marihuana y tres detenidos durante operativo policial en Carchi",
-     "url": "https://eluniverso.com/politica/seguridad/decomiso-de-mas-de-300-kilos-de-marihuana-y-tres-detenidos-durante-operativo-policial-en-carchi-nota/",
-     "domain": "El Universo",
-     "seendate": "20261011T134626Z"
-    },
-    {
      "title": "San Pedro de Huaca despide a Carolina Pérez Cuasquer tras seis años de búsqueda e incertidumbre",
      "url": "https://eluniverso.com/comunidad/ecuador/san-pedro-de-huaca-despide-a-carolina-perez-cuasquer-tras-seis-anos-de-busqueda-e-incertidumbre-nota/",
      "domain": "El Universo",
@@ -1150,6 +1150,60 @@
   "ARG": {
    "articles": [
     {
+     "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este lunes 12 de octubre, minuto a minuto",
+     "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid12102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T122419Z"
+    },
+    {
+     "title": "Arthur Brooks, experto en felicidad de Harvard: “Hay una inteligencia que nace a partir de los 40 años”",
+     "url": "https://www.lanacion.com.ar/sociedad/arthur-brooks-experto-en-felicidad-de-harvard-hay-una-inteligencia-que-nace-a-partir-de-los-40-anos-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T122333Z"
+    },
+    {
+     "title": "Súper Niño 2026: qué se sabe del fenómeno que cambiará el pronóstico de la Argentina y llegará pronto a su pico máximo",
+     "url": "https://www.lanacion.com.ar/sociedad/super-nino-2026-que-se-sabe-del-fenomeno-que-cambiara-por-completo-el-clima-en-la-argentina-y-nid05102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T122323Z"
+    },
+    {
+     "title": "Los psicólogos coinciden: no es fácil saber qué se desea porque entre el deseo y uno mismo se interponen deseos ajenos y mandatos",
+     "url": "https://www.lanacion.com.ar/sociedad/los-psicologos-coinciden-no-es-facil-saber-que-se-desea-porque-entre-el-deseo-y-uno-mismo-se-nid10102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T122256Z"
+    },
+    {
+     "title": "La reflexión de Descartes sobre la duda: “Si no pienso, luego me doy cuenta que tengo que estar existiendo, porque si yo no existo, no pienso”",
+     "url": "https://www.lanacion.com.ar/sociedad/la-reflexion-de-descartes-sobre-la-duda-si-no-pienso-luego-me-doy-cuenta-que-tengo-que-estar-nid07102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T122251Z"
+    },
+    {
+     "title": "Robin Sharma, especialista en crecimiento personal: “Un mal día para el ego es un buen día para el alma; aprendemos en la dificultad”",
+     "url": "https://www.lanacion.com.ar/sociedad/robin-sharma-especialista-en-crecimiento-personal-un-mal-dia-para-el-ego-es-un-buen-dia-para-el-alma-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T122244Z"
+    },
+    {
+     "title": "Gabriel Rolón, psicoanalista, sobre la búsqueda de bienestar: “A veces uno desea más haber sido feliz que ser feliz”",
+     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-sobre-la-busqueda-de-bienestar-a-veces-uno-desea-mas-haber-sido-feliz-nid08102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T122233Z"
+    },
+    {
+     "title": "Arthur Brooks, experto de Harvard, de 62 años: “Lo que hacen las personas felices y exitosas en la segunda mitad de sus vidas es pasar de sumar a restar”",
+     "url": "https://www.lanacion.com.ar/sociedad/arthur-brooks-experto-de-harvard-de-62-anos-lo-que-hacen-las-personas-felices-y-exitosas-en-la-nid08102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T121959Z"
+    },
+    {
+     "title": "Volvió a la naturaleza el aguará guazú que había sorprendido a vecinos al aparecer por las calles de Rosario",
+     "url": "https://www.lanacion.com.ar/sociedad/volvio-a-la-naturaleza-el-aguara-guazu-que-habia-sorprendido-a-vecinos-al-aparecer-por-las-calles-de-nid12102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T121647Z"
+    },
+    {
      "title": "Javier Milei y sus medidas, EN VIVO: “Nos unimos en oración por su salud”, dijo el Presidente por la operación del Papa",
      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-nos-unimos-en-oracion-por-su-salud-dijo-el-presidente-por-la-nid12102026/",
      "domain": "La Nación",
@@ -1178,12 +1232,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/nuestra-senora-del-pilar-esta-es-su-historia-y-la-oracion-que-hay-que-rezar-para-pedir-su-ayuda-nid12102026/",
      "domain": "La Nación",
      "seendate": "20261012T113357Z"
-    },
-    {
-     "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este lunes 12 de octubre, minuto a minuto",
-     "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid12102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T112839Z"
     },
     {
      "title": "Una niña de un año murió ahogada tras caer a un canal de riego frente a su casa en Guaymallén",
@@ -1412,42 +1460,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/cuando-es-el-dia-de-la-madre-2026-en-la-argentina-nid22092026/",
      "domain": "La Nación",
      "seendate": "20261012T103622Z"
-    },
-    {
-     "title": "Hay alerta naranja y amarilla por tormentas, lluvias, nevadas y vientos para este lunes 12 de octubre: las provincias afectadas",
-     "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-naranja-y-amarilla-por-tormentas-lluvias-nevadas-y-vientos-para-este-lunes-12-de-octubre-nid12102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T102713Z"
-    },
-    {
-     "title": "Día de la Raza: por qué se celebra hoy y las claves de la jornada",
-     "url": "https://www.lanacion.com.ar/sociedad/dia-de-la-raza-por-que-se-celebra-hoy-y-las-claves-de-la-jornada-nid12102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T102236Z"
-    },
-    {
-     "title": "Encontraron diez kilos de oro en lingotes dentro del depósito de agua de un viejo inodoro en Santa Cruz",
-     "url": "https://www.lanacion.com.ar/seguridad/ocultaban-diez-kilos-de-oro-en-lingotes-dentro-del-deposito-de-agua-de-un-viejo-inodoro-nid09102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T102211Z"
-    },
-    {
-     "title": "El Nobel de Economía 2026 fue para Robert Hall y Michael Woodford por sus aportes a la estabilización macroeconómica",
-     "url": "https://www.lanacion.com.ar/economia/el-nobel-de-economia-2026-fue-para-robert-hall-y-michael-woodford-por-sus-aportes-a-la-nid12102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T101716Z"
-    },
-    {
-     "title": "El sustancial cambio de vida de 30 felinos del abandonado exzoológico de Luján: qué pasará con los que quedan",
-     "url": "https://www.lanacion.com.ar/sociedad/el-sustancial-cambio-de-vida-de-30-felinos-del-abandonado-exzoologico-de-lujan-que-pasara-con-los-nid12102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T100000Z"
-    },
-    {
-     "title": "Consumidores adaptados y resignados",
-     "url": "https://www.lanacion.com.ar/economia/consumidores-adaptados-y-resignados-nid12102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T090000Z"
     }
    ]
   },
@@ -1464,10 +1476,34 @@
   "PRY": {
    "articles": [
     {
+     "title": "Guía de mamógrafos y centros habilitados para controles en Paraguay",
+     "url": "https://www.abc.com.py/nacionales/2026/10/01/octubre-rosa-guia-de-mamografos-y-centros-habilitados-para-controles-en-paraguay/",
+     "domain": "ABC Color",
+     "seendate": "20261012T121901Z"
+    },
+    {
+     "title": "Vecinos del barrio Bella Vista exigen urgente mantenimiento de puente sobre el Mburicaó",
+     "url": "https://www.abc.com.py/nacionales/2026/10/12/vecinos-del-barrio-bella-vista-exigen-urgente-mantenimiento-de-puente-sobre-el-mburicao/",
+     "domain": "ABC Color",
+     "seendate": "20261012T121103Z"
+    },
+    {
      "title": "“La mamografía es gratis sin orden médica todo el año”, informa experta del Incan a ABC",
      "url": "https://www.abc.com.py/nacionales/2026/10/12/la-mamografia-es-gratis-sin-orden-medica-todo-el-ano-revela-experta-del-incan-a-abc/",
      "domain": "ABC Color",
      "seendate": "20261012T093000Z"
+    },
+    {
+     "title": "La Iglesia católica paraguaya pide proteger a las mujeres de la violencia machista",
+     "url": "https://www.abc.com.py/nacionales/2026/10/12/la-iglesia-catolica-paraguaya-pide-proteger-a-las-mujeres-de-la-violencia-machista/",
+     "domain": "ABC Color",
+     "seendate": "20261010T013010Z"
+    },
+    {
+     "title": "Estiman que 3 millones de fieles asistirán a festejos de la Virgen de Caacupé en Paraguay",
+     "url": "https://www.abc.com.py/nacionales/2026/10/09/estiman-que-3-millones-de-fieles-asistiran-a-festejos-de-la-virgen-de-caacupe-en-paraguay/",
+     "domain": "ABC Color",
+     "seendate": "20261009T201014Z"
     }
    ]
   },
@@ -1477,7 +1513,19 @@
   "BRA": {
    "articles": [
     {
-     "title": "'Exército do Lula': o que havia no canal de Janones que Nunes Marques tentou derrubar?",
+     "title": "Dia de Nossa Senhora: Lula participa de missa restrita na capela no Alvorada; evangélico, Flávio vai à Catedral de Brasília",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/12/dia-de-nossa-senhora-aparecida-lula-participa-de-missa-restrita-na-capela-no-alvorada-evangelico-flavio-vai-a-catedral-de-brasilia.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261012T121838Z"
+    },
+    {
+     "title": "Autora de impeachment de Dilma pede feedback na tribuna após não ser eleita: 'Por que não recebi seu voto?'",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/12/autora-de-impeachment-de-dilma-pede-feedback-na-tribuna-apos-nao-ser-eleita-por-que-nao-recebi-seu-voto.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261012T120538Z"
+    },
+    {
+     "title": "'Exército do Lula': o que havia no canal articulado por Janones que Nunes Marques tentou derrubar?",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/12/exercito-do-lula-o-que-havia-no-canal-de-janones-que-nunes-marques-tentou-derrubar.ghtml",
      "domain": "O Globo",
      "seendate": "20261012T113511Z"
