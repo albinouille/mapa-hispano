@@ -1,8 +1,26 @@
 {
- "updated": "2026-10-12T16:20:30+00:00",
+ "updated": "2026-10-12T16:52:00+00:00",
  "countries": {
   "ESP": {
    "articles": [
+    {
+     "title": "Desfile del Día de la Hispanidad y reacciones políticas en directo | La Policía impide el enfrentamiento entre un grupo de jóvenes con banderas de España y los acampados de Sol",
+     "url": "https://elpais.com/espana/2026-10-12/ultima-hora-del-dia-de-la-hispanidad-y-reacciones-politicas-en-directo.html",
+     "domain": "El País",
+     "seendate": "20261012T164018Z"
+    },
+    {
+     "title": "Las claves de la decisión del Supremo: ¿quién puede votar en el 29-N? ¿Es posible cumplir con la orden del alto tribunal antes de las elecciones?",
+     "url": "https://elpais.com/espana/2026-10-12/las-claves-de-la-decision-del-supremo-quien-puede-votar-en-el-29-n-es-posible-cumplir-con-la-orden-del-alto-tribunal-antes-de-las-elecciones.html",
+     "domain": "El País",
+     "seendate": "20261012T163512Z"
+    },
+    {
+     "title": "La crisis de Ceuta y el adelanto electoral marcan la recepción en Palacio Real por el día de la Fiesta Nacional",
+     "url": "https://elpais.com/espana/2026-10-12/la-crisis-de-ceuta-y-el-adelanto-electoral-marcan-la-recepcion-en-palacio-real-por-el-dia-de-la-fiesta-nacional.html",
+     "domain": "El País",
+     "seendate": "20261012T163255Z"
+    },
     {
      "title": "Sánchez confirma la entrada de buques de guerra marroquíes en aguas españolas el día de la entrada masiva: “Fueron días intensos”",
      "url": "https://elpais.com/espana/2026-10-12/sanchez-confirma-la-entrada-de-buques-de-guerra-marroquies-en-aguas-espanolas-el-dia-de-la-entrada-masiva-fueron-dias-intensos.html",
@@ -14,12 +32,6 @@
      "url": "https://elpais.com/espana/elecciones-generales/2026-10-12/podemos-y-erc-oficializan-el-acuerdo-por-el-que-rufian-y-montero-haran-campana-juntos.html",
      "domain": "El País",
      "seendate": "20261012T151128Z"
-    },
-    {
-     "title": "Desfile del Día de la Hispanidad y reacciones políticas en directo | La Policía impide el enfrentamiento entre un grupo de jóvenes con banderas de España y los acampados de Sol",
-     "url": "https://elpais.com/espana/2026-10-12/ultima-hora-del-dia-de-la-hispanidad-y-reacciones-politicas-en-directo.html",
-     "domain": "El País",
-     "seendate": "20261012T150333Z"
     },
     {
      "title": "Malestar en el Gobierno tras la decisión del Supremo sobre la ‘ley de nietos’: “Parece que el derecho a voto no es tan relevante para algunos”",
@@ -181,6 +193,12 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "ADI advierte que plan metropolitano encarecerá la vivienda; pide modificar propuesta de Sedatu",
+     "url": "https://www.eluniversal.com.mx/metropoli/adi-advierte-que-plan-metropolitano-encarecera-la-vivienda-pide-modificar-propuesta-de-sedatu/",
+     "domain": "El Universal",
+     "seendate": "20261012T163040Z"
+    },
     {
      "title": "Convoca edil de Ecatepec a la unidad",
      "url": "https://www.eluniversal.com.mx/metropoli/convoca-edil-de-ecatepec-a-la-unidad/",
@@ -366,12 +384,6 @@
      "url": "https://www.eluniversal.com.mx/nacion/no-sabemos-si-nuestros-hijos-viven-forman-colectivo-tras-jovenes-desaparecidos-en-tamaulipas/",
      "domain": "El Universal",
      "seendate": "20261012T092353Z"
-    },
-    {
-     "title": "Suman dos muertos por ataque a elementos de seguridad de Pemex; investigan agresión en refinería de Minatitlán",
-     "url": "https://www.eluniversal.com.mx/estados/suman-dos-muertos-por-ataque-a-elementos-de-seguridad-de-pemex-investigan-agresion-en-refineria-de-minatitlan/",
-     "domain": "El Universal",
-     "seendate": "20261012T055857Z"
     }
    ]
   },
@@ -457,6 +469,12 @@
   },
   "CRI": {
    "articles": [
+    {
+     "title": "Contraloría señala vicios constitucionales en normas que limitan el presupuesto judicial y pide eliminar aquellas que le asignan funciones impropias",
+     "url": "https://www.nacion.com/politica/contraloria-senala-vicios-constitucionales-en/UPR6R35XINCSXCVSW2C5NNPV3E/story/",
+     "domain": "La Nación",
+     "seendate": "20261012T163000Z"
+    },
     {
      "title": "Corte Plena rechaza reforma de Marta Esquivel: devolvería el voto secreto y permitiría injerencia de la Asamblea",
      "url": "https://www.nacion.com/politica/corte-plena-rechaza-reforma-de-marta-esquivel/D5U2DOMYC5DSROIJ644NNQ257Q/story/",
@@ -546,17 +564,17 @@
      "url": "https://www.nacion.com/sucesos/alias-sobrino-llevaba-control-de-inquilinos-y/47ZZ2OEZRVBS3JOC4SYHJY7X6Y/story/",
      "domain": "La Nación",
      "seendate": "20261011T221151Z"
-    },
-    {
-     "title": "Cancillería confirma muerte de costarricense en festival EDC de música electrónica en Medellín",
-     "url": "https://www.nacion.com/sucesos/costarricense-muere-durante-festival-edc-de-musica/YTN35QSHERE35LA37DAC5PCR4M/story/",
-     "domain": "La Nación",
-     "seendate": "20261011T163313Z"
     }
    ]
   },
   "PAN": {
    "articles": [
+    {
+     "title": "La Asamblea Nacional suspende sus actividades tras el terremoto del viernes",
+     "url": "https://www.prensa.com/politica/la-asamblea-nacional-suspende-sus-actividades-tras-el-terremoto-del-viernes/",
+     "domain": "La Prensa",
+     "seendate": "20261012T162206Z"
+    },
     {
      "title": "Alcalde de Mariato responde a Mulino: ‘Jamás uso los recursos del Estado con fines políticos’",
      "url": "https://www.prensa.com/politica/alcalde-de-mariato-responde-a-mulino-jamas-uso-los-recursos-del-estado-con-fines-politicos/",
@@ -576,7 +594,7 @@
      "seendate": "20261012T051156Z"
     },
     {
-     "title": "CSS anuncia cierre temporal de varias instalaciones y ajustes en otras tras terremoto",
+     "title": "¿Qué instalaciones de la CSS están cerradas tras el sismo? Conozca los cambios en la atención",
      "url": "https://www.prensa.com/sociedad/css-anuncia-cierre-temporal-de-varias-instalaciones-y-ajustes-en-otras-tras-terremoto/",
      "domain": "La Prensa",
      "seendate": "20261012T024742Z"
@@ -702,12 +720,6 @@
      "seendate": "20261010T170844Z"
     },
     {
-     "title": "Nerviosismo por las réplicas tras terremoto de 7.7 en Panamá, sin víctimas pero sí daños",
-     "url": "https://www.prensa.com/sociedad/nerviosismo-por-las-replicas-tras-terremoto-de-77-en-panama-sin-victimas-pero-si-danos/",
-     "domain": "La Prensa",
-     "seendate": "20261010T162850Z"
-    },
-    {
      "title": "¿Por qué tembló tan fuerte en Panamá? Un geólogo explica las causas del terremoto",
      "url": "https://www.prensa.com/sociedad/por-que-temblo-tan-fuerte-en-panama-un-geologo-explica-las-causas-del-terremoto/",
      "domain": "La Prensa",
@@ -759,6 +771,18 @@
   },
   "CUB": {
    "articles": [
+    {
+     "title": "Cinco heridos, uno en estado crítico, en el incendio de un tanque de combustible de Azcuba en Manzanillo",
+     "url": "https://www.14ymedio.com/cuba/cinco-heridos-critico-incendio-tanque_1_1131867.html",
+     "domain": "14ymedio",
+     "seendate": "20261012T163316Z"
+    },
+    {
+     "title": "Muere Raúl Borges, el padre que dedicó casi tres décadas a luchar por la libertad de su hijo",
+     "url": "https://www.14ymedio.com/cuba/muere-raul-borges-padre-dedico_1_1131868.html",
+     "domain": "14ymedio",
+     "seendate": "20261012T163002Z"
+    },
     {
      "title": "Arroz, pañales y whisky figuran en el mercado mayorista de Sancti Spíritus, primero de este tipo en Cuba",
      "url": "https://www.14ymedio.com/cuba/arroz-panales-whisky-figuran-mercado_1_1131864.html",
@@ -875,10 +899,16 @@
   "COL": {
    "articles": [
     {
-     "title": "Alias ‘Mongolo’ y ‘Guajiro’, los fugitivos por cuya fuga De La Espriella ordenó la salida del comandante de la Policía de Santa Marta: hay recompensa",
+     "title": "'Mongolo' y 'Guajiro', fugitivos por los que el presidente De La Espriella ordenó salida del comandante de Policía de Santa Marta: hay recompensa",
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/alias-mongolo-y-alias-guajiro-los-dos-fugados-que-mas-preocupan-al-gobierno-tras-la-evasion-de-41-detenidos-en-santa-marta-hay-recompensa-3593003",
      "domain": "El Tiempo",
-     "seendate": "20261012T153600Z"
+     "seendate": "20261012T162643Z"
+    },
+    {
+     "title": "Videos muestran destrucción del peaje de El Bordo tras carro bomba en Cauca: identifican a una mujer herida",
+     "url": "https://www.eltiempo.com/colombia/cali/videos-muestran-destruccion-del-peaje-de-el-bordo-tras-carro-bomba-en-cauca-identifican-a-una-mujer-herida-3593009",
+     "domain": "El Tiempo",
+     "seendate": "20261012T162134Z"
     },
     {
      "title": "Por qué hay tantos mosquitos en Barranquilla: la mayoría son Culex, que no transmite dengue, y se multiplican con las lluvias y el calor de octubre",
@@ -927,12 +957,6 @@
      "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-gasta-17-000-millones-al-ano-limpiando-sus-arroyos-la-basura-que-arrastra-la-lluvia-termina-amenazando-la-cienaga-y-el-mar-caribe-3592935",
      "domain": "El Tiempo",
      "seendate": "20261012T030100Z"
-    },
-    {
-     "title": "Los perros que encontraron una familia en los CAI de Bucaramanga: una historia de lealtad y segundas oportunidades",
-     "url": "https://www.eltiempo.com/colombia/santander/los-perros-que-encontraron-una-familia-en-los-cai-de-bucaramanga-una-historia-de-lealtad-y-segundas-oportunidades-3592895",
-     "domain": "El Tiempo",
-     "seendate": "20261012T025934Z"
     }
    ]
   },
@@ -960,6 +984,18 @@
   },
   "ECU": {
    "articles": [
+    {
+     "title": "Las intensas lluvias dejan inundaciones y clases suspendidas en Machala y Santa Rosa",
+     "url": "https://eluniverso.com/comunidad/ecuador/las-intensas-lluvias-dejan-inundaciones-y-clases-suspendidas-en-machala-y-santa-rosa-nota/",
+     "domain": "El Universo",
+     "seendate": "20261012T162131Z"
+    },
+    {
+     "title": "Nuevos jueces conocerán la etapa de juicio en el caso Encuentro; Leonardo Cortázar, Hernán Luque y otras dos acusadas siguen sin ser juzgados",
+     "url": "https://eluniverso.com/politica/expedientes/nuevos-jueces-conoceran-etapa-juicio-caso-encuentro-leonardo-cortazar-hernan-luque-siguen-juzgados-nota/",
+     "domain": "El Universo",
+     "seendate": "20261012T162105Z"
+    },
     {
      "title": "Drones impresos en 3D, aeronaves de larga autonomía y aviones híbridos forman parte de la cooperación militar de Estados Unidos en Ecuador",
      "url": "https://eluniverso.com/politica/seguridad/drones-impresos-en-3d-aeronaves-de-larga-autonomia-y-aviones-hibridos-forman-parte-de-la-cooperacion-militar-de-estados-unidos-en-ecuador-nota/",
@@ -1081,18 +1117,6 @@
      "seendate": "20261011T210911Z"
     },
     {
-     "title": "¿A dónde fue el turismo este feriado? El ‘efecto Guayaquil’ que movió visitantes y compitió con las playas",
-     "url": "https://eluniverso.com/comunidad/ecuador/feriado-de-guayaquil-menos-turistas-en-manta-y-esmeraldas-nota/",
-     "domain": "El Universo",
-     "seendate": "20261011T210200Z"
-    },
-    {
-     "title": "Más de 17.000 personas afectadas por las intensas lluvias en el país desde que se activó alerta roja por El Niño",
-     "url": "https://eluniverso.com/comunidad/ecuador/mas-de-17000-personas-afectadas-dejan-las-intensas-lluvias-en-el-pais-desde-que-se-activo-alerta-roja-por-el-nino-nota/",
-     "domain": "El Universo",
-     "seendate": "20261011T200136Z"
-    },
-    {
      "title": "Ecuador impulsa una comisión de investigación y un sistema de alerta temprana para responder a los riesgos de las drogas",
      "url": "https://eluniverso.com/politica/ejecutivo/ecuador-impulsa-una-comision-de-investigacion-y-un-sistema-de-alerta-temprana-para-responder-a-los-riesgos-de-las-drogas-nota/",
      "domain": "El Universo",
@@ -1103,11 +1127,29 @@
      "url": "https://eluniverso.com/politica/asamblea-nacional/proyecto-para-proteger-al-consumidor-de-sistemas-de-financiamiento-y-compra-de-vehiculos-nota/",
      "domain": "El Universo",
      "seendate": "20261011T171500Z"
+    },
+    {
+     "title": "Penas de hasta 26 años de cárcel, control de las redes sociales y rol de los GAD en la lucha contra el reclutamiento de niños, ejes de la ley que destacan los analistas",
+     "url": "https://eluniverso.com/politica/asamblea-nacional/penas-de-hasta-26-anos-de-carcel-control-de-las-redes-sociales-y-rol-de-los-gad-en-la-lucha-contra-el-reclutamiento-de-ninos-ejes-de-la-ley-que-destacan-los-analistas-nota/",
+     "domain": "El Universo",
+     "seendate": "20261011T144500Z"
+    },
+    {
+     "title": "Gabinetes binacionales: Ecuador buscaría convertir la cooperación con Colombia y Perú en resultados concretos",
+     "url": "https://eluniverso.com/politica/ejecutivo/gabinetes-binacionales-ecuador-buscaria-convertir-la-cooperacion-con-colombia-y-peru-en-resultados-concretos-nota/",
+     "domain": "El Universo",
+     "seendate": "20261010T111500Z"
     }
    ]
   },
   "PER": {
    "articles": [
+    {
+     "title": "El dólar abre a la baja en S/3,43 pese al fortalecimiento global de la divisa",
+     "url": "https://elcomercio.pe/economia/peru/el-dolar-abre-a-la-baja-en-s343-pese-al-fortalecimiento-global-de-la-divisa-l-tipo-de-cambio-l-ultimas-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261012T162034Z"
+    },
     {
      "title": "Último temblor en Perú hoy, lunes 12 de octubre: dónde fue el epicentro, magnitud y reportes del IGP",
      "url": "https://elcomercio.pe/peru/temblor-hoy-en-peru-en-vivo-reportes-del-igp-lugar-magnitud-y-ultimo-minuto-tdpe-noticia/",
@@ -1162,16 +1204,40 @@
   "ARG": {
    "articles": [
     {
-     "title": "Se aproxima un “bloqueo en la circulación atmosférica” que prolongará el mal tiempo y las tormentas: las zonas afectadas",
-     "url": "https://www.lanacion.com.ar/sociedad/se-aproxima-un-bloqueo-en-la-circulacion-atmosferica-que-prolongara-el-mal-tiempo-y-las-tormentas-nid12102026/",
+     "title": "Tragedia en la ruta: una joven pareja y su bebé murieron cuando la moto en la que viajaban chocó contra una camioneta",
+     "url": "https://www.lanacion.com.ar/seguridad/tragedia-en-la-ruta-una-joven-pareja-y-su-bebe-murieron-cuando-la-moto-en-la-que-viajaban-choco-nid12102026/",
      "domain": "La Nación",
-     "seendate": "20261012T161358Z"
+     "seendate": "20261012T164616Z"
+    },
+    {
+     "title": "Quebró uno de los aserraderos productores de pallets más grandes del país",
+     "url": "https://www.lanacion.com.ar/economia/campo/quebro-uno-de-los-aserraderos-productores-de-pallets-mas-grandes-del-pais-nid12102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T164315Z"
+    },
+    {
+     "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este lunes 12 de octubre, minuto a minuto",
+     "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid12102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T164309Z"
+    },
+    {
+     "title": "Horror en Rosario: encontraron el cuerpo de una joven envuelto en una frazada y detuvieron a un expolicía",
+     "url": "https://www.lanacion.com.ar/seguridad/horror-en-rosario-encontraron-el-cuerpo-de-una-joven-envuelto-en-una-frazada-y-detuvieron-a-un-nid12102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T164044Z"
     },
     {
      "title": "Javier Milei y sus medidas, EN VIVO: el Presidente negó la salida de Caputo y se mostró confiado en que será reelecto",
      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-nos-unimos-en-oracion-por-su-salud-dijo-el-presidente-por-la-nid12102026/",
      "domain": "La Nación",
-     "seendate": "20261012T160856Z"
+     "seendate": "20261012T163147Z"
+    },
+    {
+     "title": "Se aproxima un “bloqueo en la circulación atmosférica” que prolongará el mal tiempo y las tormentas: las zonas afectadas",
+     "url": "https://www.lanacion.com.ar/sociedad/se-aproxima-un-bloqueo-en-la-circulacion-atmosferica-que-prolongara-el-mal-tiempo-y-las-tormentas-nid12102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T161358Z"
     },
     {
      "title": "Después de una meseta de seis meses, el precio de la carne vacuna pronto tomará envión y aumentaría un 10% hasta fin de año",
@@ -1196,12 +1262,6 @@
      "url": "https://www.lanacion.com.ar/economia/la-importancia-de-la-micro-quienes-ganaron-el-nobel-de-economia-y-que-aportes-de-sus-investigaciones-nid12102026/",
      "domain": "La Nación",
      "seendate": "20261012T153210Z"
-    },
-    {
-     "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este lunes 12 de octubre, minuto a minuto",
-     "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid12102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T152527Z"
     },
     {
      "title": "Luis Caputo negó las versiones sobre una posible salida del Gabinete: “Quedate tranquilo que no voy a renunciar”",
@@ -1294,12 +1354,6 @@
      "seendate": "20261012T145610Z"
     },
     {
-     "title": "Horror en Rosario: encontraron el cuerpo de una joven envuelto en una frazada y detuvieron a un expolicía",
-     "url": "https://www.lanacion.com.ar/seguridad/horror-en-rosario-encontraron-el-cuerpo-de-una-joven-envuelto-en-una-frazada-y-detuvieron-a-un-nid12102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T144803Z"
-    },
-    {
      "title": "El Gobierno comenzó el traslado de presos de la cárcel de Devoto a Marcos Paz",
      "url": "https://www.lanacion.com.ar/seguridad/el-gobierno-comenzo-el-traslado-de-presos-de-la-carcel-de-devoto-a-marcos-paz-nid11102026/",
      "domain": "La Nación",
@@ -1352,18 +1406,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/la-cirugia-del-papa-que-es-un-nodulo-pulmonar-como-se-opera-y-cuanto-tarda-la-recuperacion-segun-los-nid11102026/",
      "domain": "La Nación",
      "seendate": "20261012T131410Z"
-    },
-    {
-     "title": "Aterosclerosis y trombosis: alimentaron animales con remolacha forrajera y el resultado fue sorprendente",
-     "url": "https://www.lanacion.com.ar/economia/campo/aterosclerosis-y-trombosis-alimentaron-animales-con-remolacha-forrajera-y-el-resultado-fue-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T130733Z"
-    },
-    {
-     "title": "Una startup fue elegida entre 44 por su tecnología para asegurar al agro frente al clima",
-     "url": "https://www.lanacion.com.ar/economia/campo/una-startup-fue-elegida-entre-44-por-su-tecnologia-para-asegurar-al-agro-frente-al-clima-nid12102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T130017Z"
     }
    ]
   },
@@ -1379,6 +1421,30 @@
   },
   "PRY": {
    "articles": [
+    {
+     "title": "Estudiantes de Enfermería de la UNA exigen destitución de autoridades y denuncian amedrentamiento a docentes",
+     "url": "https://www.abc.com.py/nacionales/2026/10/12/estudiantes-de-enfermeria-de-la-una-exigen-destitucion-de-autoridades-y-denuncian-amedrentamiento-a-docentes/",
+     "domain": "ABC Color",
+     "seendate": "20261012T162615Z"
+    },
+    {
+     "title": "Día del defensor público: la incansable lucha a favor de víctimas de la mafia de los pagarés",
+     "url": "https://www.abc.com.py/nacionales/2026/10/12/dia-del-defensor-publico-la-incansable-lucha-a-favor-de-victimas-de-la-mafia-de-los-pagares/",
+     "domain": "ABC Color",
+     "seendate": "20261012T162540Z"
+    },
+    {
+     "title": "San Ignacio: padres denuncian posible negligencia tras muerte de una niña de 12 años",
+     "url": "https://www.abc.com.py/nacionales/2026/10/12/san-ignacio-padres-denuncian-posible-negligencia-tras-muerte-de-una-nina-de-12-anos/",
+     "domain": "ABC Color",
+     "seendate": "20261012T161840Z"
+    },
+    {
+     "title": "“El Niño” golpea con fuerza a la horticultura y deja más de 170 hectáreas afectadas en Caaguazú",
+     "url": "https://www.abc.com.py/nacionales/2026/10/12/el-nino-golpea-con-fuerza-a-la-horticultura-y-deja-mas-de-170-hectareas-afectadas-en-caaguazu/",
+     "domain": "ABC Color",
+     "seendate": "20261012T161642Z"
+    },
     {
      "title": "Huelga de bioquímicos: Salud recurrirá al chequeo físico tradicional",
      "url": "https://www.abc.com.py/nacionales/2026/10/12/huelga-de-bioquimicos-salud-recurrira-al-chequeo-fisico-tradicional/",
@@ -1396,30 +1462,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/12/jefe-tecnico-de-yacyreta-preve-que-el-caudal-del-rio-parana-alcance-su-pico-antes-del-fin-de-semana/",
      "domain": "ABC Color",
      "seendate": "20261012T145117Z"
-    },
-    {
-     "title": "Elecciones de abogados para el CM: TSJE establece periodo de tachas y propaganda electoral",
-     "url": "https://www.abc.com.py/nacionales/2026/10/12/elecciones-de-abogados-para-el-cm-tsje-establece-periodo-de-tachas-y-propaganda-electoral/",
-     "domain": "ABC Color",
-     "seendate": "20261012T142916Z"
-    },
-    {
-     "title": "Cementerio del Este: se inician excavaciones en busca de los restos del Dr. Agustín Goiburú",
-     "url": "https://www.abc.com.py/nacionales/2026/10/12/cementerio-del-este-se-inician-excavaciones-en-busca-de-los-restos-del-dr-agustin-goiburu/",
-     "domain": "ABC Color",
-     "seendate": "20261012T140745Z"
-    },
-    {
-     "title": "A 10 años del secuestro de Félix Urbieta, familia clama el fin de la incertidumbre",
-     "url": "https://www.abc.com.py/nacionales/2026/10/12/a-10-anos-del-secuestro-de-felix-urbieta-familia-clama-el-fin-de-la-incertidumbre/",
-     "domain": "ABC Color",
-     "seendate": "20261012T135003Z"
-    },
-    {
-     "title": "“La mamografía es gratis sin orden médica todo el año”, informa experta del Incan a ABC",
-     "url": "https://www.abc.com.py/nacionales/2026/10/12/la-mamografia-es-gratis-sin-orden-medica-todo-el-ano-revela-experta-del-incan-a-abc/",
-     "domain": "ABC Color",
-     "seendate": "20261012T093000Z"
     }
    ]
   },
@@ -1428,6 +1470,12 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "Criança de 10 anos morre após afogamento em parque aquático no Ceará",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/12/crianca-de-10-anos-morre-apos-afogamento-em-parque-aquatico-no-ceara.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261012T162233Z"
+    },
     {
      "title": "Flávio Bolsonaro diz que visitará o pai na terça-feira após Moraes autorizar retomada dos encontros",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/12/flavio-bolsonaro-nesta-terca-feira-apos-moraes-autorizar-retomada-dos-encontros.ghtml",
@@ -1547,12 +1595,6 @@
      "url": "https://oglobo.globo.com/brasil/noticia/2026/10/12/brasileira-pode-pegar-prisao-perpetua-apos-ser-flagrada-com-36-kg-de-cocaina-em-shampoo-na-indonesia.ghtml",
      "domain": "O Globo",
      "seendate": "20261012T092359Z"
-    },
-    {
-     "title": "Círio de Nazaré: conheça a história da procissão que reúne milhões de fiéis há mais de 230 anos em Belém",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/12/cirio-de-nazare-conheca-a-historia-da-procissao-que-reune-milhoes-de-fieis-ha-mais-de-230-anos-em-belem.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261012T070000Z"
     }
    ]
   }
