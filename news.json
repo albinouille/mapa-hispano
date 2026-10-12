@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T20:53:22+00:00",
+ "updated": "2026-10-12T21:21:27+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -206,7 +206,7 @@
      "seendate": "20261012T195712Z"
     },
     {
-     "title": "Presidenta del Congreso de la CDMX se reúne con Clara Brugada; pide evitar rezago en publicación de decretos",
+     "title": "Olivia Garza, presidenta del Congreso de la CDMX, se reúne con la jefa de gobierno, Clara Brugada; propuso mecanismo para dar seguimiento a la publicación de decretos",
      "url": "https://www.eluniversal.com.mx/metropoli/presidenta-del-congreso-de-la-cdmx-se-reune-con-clara-brugada-pide-evitar-rezago-en-publicacion-de-decretos/",
      "domain": "El Universal",
      "seendate": "20261012T194623Z"
@@ -536,7 +536,7 @@
      "seendate": "20261012T184227Z"
     },
     {
-     "title": "Disputa por la presidencia del Poder Judicial se concentra en la Sala III: dos magistradas de este tribunal ya presentaron sus candidaturas",
+     "title": "Disputa por la presidencia del Poder Judicial se concentra en la Sala III: tres magistrados de ese tribunal ya presentaron su candidatura",
      "url": "https://www.nacion.com/politica/disputa-por-la-presidencia-del-poder-judicial-se/YXTPBCYYFFCEVFCJWIGHT63Y2I/story/",
      "domain": "La Nación",
      "seendate": "20261012T182838Z"
@@ -636,12 +636,6 @@
      "url": "https://www.nacion.com/politica/excanciller-bruno-stagno-cuestiona-tlc-con-israel/G6QG4B7BIBHGRH5PS3G33JHJKQ/story/",
      "domain": "La Nación",
      "seendate": "20261012T042034Z"
-    },
-    {
-     "title": "Lotería Nacional: salió el PREMIO MAYOR del domingo 11 de octubre",
-     "url": "https://www.nacion.com/el-pais/loteria-nacional-salio-el-segundo-y-tercer-premio/N4NKZDXQPJB6FN2OM3C5BWNGOA/story/",
-     "domain": "La Nación",
-     "seendate": "20261012T014221Z"
     }
    ]
   },
@@ -910,22 +904,10 @@
      "seendate": "20261011T131857Z"
     },
     {
-     "title": "Entre dos orillas y un basurero, el puente olvidado de Matanzas",
-     "url": "https://www.14ymedio.com/cuba/orillas-basurero-puente-olvidado-matanzas_1_1131815.html",
-     "domain": "14ymedio",
-     "seendate": "20261011T124607Z"
-    },
-    {
      "title": "Díaz-Canel reafirma su amistad con Corea del Norte tras reducir su presencia diplomática en Seúl",
      "url": "https://www.14ymedio.com/cuba/diaz-canel-reafirma-amistad-corea_1_1131811.html",
      "domain": "14ymedio",
      "seendate": "20261011T114009Z"
-    },
-    {
-     "title": "El régimen tilda de “persecución enfermiza” el informe de EE UU sobre los médicos cubanos",
-     "url": "https://www.14ymedio.com/cuba/bruno-rodriguez-tilda-persecucion-enfermiza_1_1131809.html",
-     "domain": "14ymedio",
-     "seendate": "20261011T111541Z"
     },
     {
      "title": "Fogones de aserrín y marabú por diésel: algunas soluciones de la llamada “transición energética” en Cuba",
@@ -1223,6 +1205,12 @@
   "PER": {
    "articles": [
     {
+     "title": "El dólar cierra al alza en S/3,44 ante fortalecimiento global de la divisa",
+     "url": "https://elcomercio.pe/economia/peru/el-dolar-cierra-al-alza-en-s344-ante-fortalecimiento-global-de-la-divisa-l-tipo-de-cambio-l-ultimas-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261012T205519Z"
+    },
+    {
      "title": "Temblor hoy, lunes 12 de octubre: dónde fue el epicentro, magnitud y reportes de sismos en Perú",
      "url": "https://elcomercio.pe/peru/temblor-hoy-en-peru-en-vivo-reportes-del-igp-lugar-magnitud-y-ultimo-minuto-tdpe-noticia/",
      "domain": "El Comercio",
@@ -1288,6 +1276,42 @@
   "ARG": {
    "articles": [
     {
+     "title": "Córdoba: condenaron a un colegio privado por las quemaduras que sufrió una alumna durante un experimento de química",
+     "url": "https://www.lanacion.com.ar/sociedad/cordoba-condenaron-a-un-colegio-privado-por-las-quemaduras-que-sufrio-una-alumna-durante-un-nid12102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T211742Z"
+    },
+    {
+     "title": "Javier Milei y sus medidas, EN VIVO: el Presidente negó la salida de Caputo y se mostró confiado en que será reelecto",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-nos-unimos-en-oracion-por-su-salud-dijo-el-presidente-por-la-nid12102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T211629Z"
+    },
+    {
+     "title": "Desbarataron un laboratorio clandestino que desactivaba bloqueos de celulares y secuestraron 61 equipos",
+     "url": "https://www.lanacion.com.ar/seguridad/desbarataron-un-laboratorio-clandestino-que-desactivaba-bloqueos-de-celulares-y-secuestraron-61-nid12102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T210951Z"
+    },
+    {
+     "title": "Una neuróloga reveló cuál es el impacto concreto de tomar una copa de vino antes de dormirnos",
+     "url": "https://www.lanacion.com.ar/sociedad/una-neurologa-revelo-cual-es-el-impacto-concreto-de-tomar-una-copa-de-vino-antes-de-dormirnos-nid12102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T210000Z"
+    },
+    {
+     "title": "Fibromialgia: un especialista explicó en qué consiste esta patología y por qué afecta más a las mujeres",
+     "url": "https://www.lanacion.com.ar/sociedad/fibromialgia-un-especialista-explico-en-que-consiste-esta-patologia-y-por-que-afecta-mas-a-las-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T205900Z"
+    },
+    {
+     "title": "Tiene 84 años y su novia virtual lo estafó: en cuatro meses le robó 160.000 dólares y él aún no puede creer que ella no existe",
+     "url": "https://www.lanacion.com.ar/seguridad/tiene-84-anos-y-su-novia-virtual-lo-estafo-en-cuatro-meses-le-robo-160000-dolares-y-el-aun-no-puede-nid12102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T205353Z"
+    },
+    {
      "title": "Frase destacada del día, Stephen Hawking, físico: “El mayor enemigo del conocimiento no es la ignorancia, sino la ilusión del conocimiento”",
      "url": "https://www.lanacion.com.ar/sociedad/frase-destacada-del-dia-stephen-hawking-fisico-el-mayor-enemigo-del-conocimiento-no-es-la-ignorancia-nid10102026/",
      "domain": "La Nación",
@@ -1330,12 +1354,6 @@
      "seendate": "20261012T201805Z"
     },
     {
-     "title": "Javier Milei y sus medidas, EN VIVO: el Presidente negó la salida de Caputo y se mostró confiado en que será reelecto",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-nos-unimos-en-oracion-por-su-salud-dijo-el-presidente-por-la-nid12102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T201720Z"
-    },
-    {
      "title": "Se conoce el IPC de septiembre y el mercado espera una leve aceleración",
      "url": "https://www.lanacion.com.ar/economia/se-conoce-el-ipc-de-septiembre-y-el-mercado-espera-una-leve-aceleracion-nid12102026/",
      "domain": "La Nación",
@@ -1346,12 +1364,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/clima-extremo-el-nino-obliga-a-reescribir-los-protocolos-de-seguridad-en-las-cataratas-y-continua-el-nid12102026/",
      "domain": "La Nación",
      "seendate": "20261012T200641Z"
-    },
-    {
-     "title": "Tiene 84 años y su novia virtual lo estafó: en cuatro meses le robó 160.000 dólares y él aún no puede creer que ella no existe",
-     "url": "https://www.lanacion.com.ar/seguridad/tiene-84-anos-y-su-novia-virtual-lo-estafo-en-cuatro-meses-le-robo-160000-dolares-y-el-aun-no-puede-nid12102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T200122Z"
     },
     {
      "title": "Viajó más gente el fin de semana largo, pero bajó el gasto turístico por estadías más cortas, según la CAME",
@@ -1466,24 +1478,6 @@
      "url": "https://www.lanacion.com.ar/politica/con-luis-caputo-ratificado-siguen-los-pedidos-de-correcciones-en-el-gabinete-nid12102026/",
      "domain": "La Nación",
      "seendate": "20261012T175907Z"
-    },
-    {
-     "title": "Una provincia aplicó una medida inédita en el país y logró un invierno sin muertes de bebés por un virus que causa bronquiolitis",
-     "url": "https://www.lanacion.com.ar/sociedad/una-provincia-aplico-una-medida-inedita-en-el-pais-y-logro-un-invierno-sin-muertes-de-bebes-por-un-nid12102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T173245Z"
-    },
-    {
-     "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este lunes 12 de octubre, minuto a minuto",
-     "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid12102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T172900Z"
-    },
-    {
-     "title": "Los psicólogos coinciden: no es fácil saber qué se desea porque entre el deseo y uno mismo se interponen deseos ajenos y mandatos",
-     "url": "https://www.lanacion.com.ar/sociedad/los-psicologos-coinciden-no-es-facil-saber-que-se-desea-porque-entre-el-deseo-y-uno-mismo-se-nid10102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T172647Z"
     }
    ]
   },
@@ -1499,6 +1493,18 @@
   },
   "PRY": {
    "articles": [
+    {
+     "title": "IPS Santaní: apartan a médico que supuestamente acudió ebrio a su consultorio",
+     "url": "https://www.abc.com.py/nacionales/2026/10/12/ips-santani-apartan-a-medico-que-supuestamente-acudio-ebrio-a-su-consultorio/",
+     "domain": "ABC Color",
+     "seendate": "20261012T211512Z"
+    },
+    {
+     "title": "Persecución y balacera en Sajonia: revelan las identidades de los tres detenidos",
+     "url": "https://www.abc.com.py/nacionales/2026/10/12/persecucion-y-balacera-en-sajonia-revelan-las-identidades-de-los-tres-detenidos/",
+     "domain": "ABC Color",
+     "seendate": "20261012T210608Z"
+    },
     {
      "title": "Conflicto en Asunción: Sin dictamen para el contrato colectivo y sindicatos insisten con amenaza de huelga",
      "url": "https://www.abc.com.py/nacionales/2026/10/12/conflicto-en-asuncion-sin-dictamen-para-el-contrato-colectivo-y-sindicatos-insisten-con-amenaza-de-huelga/",
@@ -1570,12 +1576,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/12/narcojet-jueza-envia-a-prision-a-ultimos-imputados-por-la-fiscalia/",
      "domain": "ABC Color",
      "seendate": "20261012T183603Z"
-    },
-    {
-     "title": "Estudiantes de Obstetricia de la UNA exigen destitución de autoridades y denuncian amedrentamiento a docentes",
-     "url": "https://www.abc.com.py/nacionales/2026/10/12/estudiantes-de-enfermeria-de-la-una-exigen-destitucion-de-autoridades-y-denuncian-amedrentamiento-a-docentes/",
-     "domain": "ABC Color",
-     "seendate": "20261012T162615Z"
     },
     {
      "title": "Día del Defensor Público: la incansable lucha a favor de víctimas de la mafia de los pagarés",
