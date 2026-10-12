@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-12T19:19:40+00:00",
+ "updated": "2026-10-12T19:51:08+00:00",
  "countries": {
   "ESP": {
    "articles": [
     {
-     "title": "Desfile del Día de la Hispanidad y reacciones políticas en directo | Tres detenidos y un policía herido después de que un grupo de extrema derecha increpara a los acampados de Sol",
-     "url": "https://elpais.com/espana/2026-10-12/ultima-hora-del-dia-de-la-hispanidad-y-reacciones-politicas-en-directo.html",
+     "title": "Tres detenidos y un policía herido en los disturbios entre los ultras y los acampados en Sol",
+     "url": "https://elpais.com/espana/madrid/2026-10-12/tres-detenidos-y-un-policia-herido-en-los-disturbios-entre-los-ultras-y-los-acampados-en-sol.html",
      "domain": "El País",
-     "seendate": "20261012T190532Z"
+     "seendate": "20261012T191857Z"
     },
     {
      "title": "El Frente Amplio propone a Ada Colau como candidata a la presidencia y deja abierta la integración de Podemos",
@@ -26,12 +26,6 @@
      "url": "https://elpais.com/espana/catalunya/2026-10-12/illa-viaja-a-bruselas-para-acudir-al-comite-de-las-regiones-y-reunirse-con-costa-y-ribera.html",
      "domain": "El País",
      "seendate": "20261012T153816Z"
-    },
-    {
-     "title": "Comuns acusa a Rufián de azuzar la división en las izquierdas por su acuerdo con Podemos",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-10-12/podemos-y-erc-oficializan-el-acuerdo-por-el-que-rufian-y-montero-haran-campana-juntos.html",
-     "domain": "El País",
-     "seendate": "20261012T151128Z"
     },
     {
      "title": "Malestar en el Gobierno tras la decisión del Supremo sobre la ‘ley de nietos’: “Parece que el derecho a voto no es tan relevante para algunos”",
@@ -175,6 +169,60 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Asesinan a dos mujeres en menos de 48 horas en Escuinapa; atacan a balazos a trabajadora de una estética",
+     "url": "https://www.eluniversal.com.mx/estados/asesinan-a-dos-mujeres-en-menos-de-48-horas-en-escuinapa-atacan-a-balazos-a-trabajadora-de-una-estetica/",
+     "domain": "El Universal",
+     "seendate": "20261012T194327Z"
+    },
+    {
+     "title": "Hallan a tres hombres calcinados en vivienda de Hidalgo; investigan mensaje con amenazas",
+     "url": "https://www.eluniversal.com.mx/estados/hallan-a-tres-hombres-calcinados-en-vivienda-de-hidalgo-investigan-mensaje-con-amenazas/",
+     "domain": "El Universal",
+     "seendate": "20261012T193541Z"
+    },
+    {
+     "title": "Investigan ataque armado contra trabajadores de Pemex en Minatitlán; hay varias líneas de investigación",
+     "url": "https://www.eluniversal.com.mx/estados/investigan-ataque-armado-contra-trabajadores-de-pemex-en-minatitlan-hay-varias-lineas-de-investigacion/",
+     "domain": "El Universal",
+     "seendate": "20261012T192816Z"
+    },
+    {
+     "title": "Familias de detenidos en marcha por el agua en Guadalajara denuncian abusos; exigen cotejar listas ante posibles desapariciones",
+     "url": "https://www.eluniversal.com.mx/estados/familias-de-detenidos-en-marcha-por-el-agua-en-guadalajara-denuncian-abusos-exigen-cotejar-listas-ante-posibles-desapariciones/",
+     "domain": "El Universal",
+     "seendate": "20261012T192607Z"
+    },
+    {
+     "title": "Ella es Lydia Antonio de la Garza, designada embajadora de México en Perú; destaca trabajo con mexicanos en el exterior",
+     "url": "https://www.eluniversal.com.mx/nacion/ella-es-lydia-antonio-de-la-garza-designada-embajadora-de-mexico-en-peru-destaca-trabajo-con-mexicanos-en-el-exterior/",
+     "domain": "El Universal",
+     "seendate": "20261012T191624Z"
+    },
+    {
+     "title": "IMSS responderá a consulta salarial del sindicato, afirma Zoé Robledo; revisan denuncias de desabasto de medicamentos",
+     "url": "https://www.eluniversal.com.mx/nacion/imss-esperara-resultado-de-consulta-salarial-del-sindicato-afirma-zoe-robledo-alista-revision-de-desabasto-en-unidades-medicas/",
+     "domain": "El Universal",
+     "seendate": "20261012T191455Z"
+    },
+    {
+     "title": "Américo Villarreal llama a la unidad entre aspirantes de Morena; revela que dos secretarios buscan contender por un cargo de elección popular",
+     "url": "https://www.eluniversal.com.mx/estados/americo-villarreal-llama-a-la-unidad-entre-aspirantes-de-morena-revela-que-dos-secretarios-buscan-contender-por-un-cargo-de-eleccion-popular/",
+     "domain": "El Universal",
+     "seendate": "20261012T191342Z"
+    },
+    {
+     "title": "Sheinbaum designa a Lydia Antonio de la Garza como embajadora en Perú; SRE reitera fortalecimiento de relaciones",
+     "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-designa-a-lydia-antonio-de-la-garza-como-embajadora-en-peru-sre-reitera-fortalecimiento-de-relaciones/",
+     "domain": "El Universal",
+     "seendate": "20261012T191224Z"
+    },
+    {
+     "title": "VIDEO: México y EU lanzan operativo en altamar; detienen a 7 personas y aseguran 1.2 toneladas de cocaína",
+     "url": "https://www.eluniversal.com.mx/nacion/video-detienen-a-7-personas-y-aseguran-12-toneladas-de-cocaina-droga-iba-a-bordo-de-embarcacion-frente-a-costas-de-oaxaca/",
+     "domain": "El Universal",
+     "seendate": "20261012T190930Z"
+    },
     {
      "title": "Aseguran casi una tonelada de marihuana en Chihuahua; dos baleados mueren en el hospital",
      "url": "https://www.eluniversal.com.mx/estados/aseguran-casi-una-tonelada-de-marihuana-en-chihuahua-dos-baleados-mueren-en-el-hospital/",
@@ -344,12 +392,6 @@
      "seendate": "20261012T140243Z"
     },
     {
-     "title": "Detienen en Tabasco a \"El Cabra\", líder de la \"Mara 18\" buscado en El Salvador; lo vinculan a 15 homicidios",
-     "url": "https://www.eluniversal.com.mx/nacion/detienen-en-tabasco-a-el-cabra-lider-de-la-mara-18-buscado-en-el-salvador-lo-vinculan-a-15-homicidios/",
-     "domain": "El Universal",
-     "seendate": "20261012T132739Z"
-    },
-    {
      "title": "La mañanera de Sheinbaum, 12 de octubre, minuto a minuto",
      "url": "https://www.eluniversal.com.mx/nacion/la-mananera-de-sheinbaum-12-de-octubre-minuto-a-minuto/",
      "domain": "El Universal",
@@ -360,42 +402,6 @@
      "url": "https://www.eluniversal.com.mx/estados/huracan-simon-provoca-lluvias-muy-fuertes-en-cuatro-estados-sigue-en-vivo-su-trayectoria-y-afectaciones/",
      "domain": "El Universal",
      "seendate": "20261012T125157Z"
-    },
-    {
-     "title": "Edomex, lidera las denuncias por violación a nivel nacional",
-     "url": "https://www.eluniversal.com.mx/metropoli/edomex-lidera-las-denuncias-por-violacion-a-nivel-nacional/",
-     "domain": "El Universal",
-     "seendate": "20261012T112913Z"
-    },
-    {
-     "title": "Arranca plan contra fugas de agua potable",
-     "url": "https://www.eluniversal.com.mx/metropoli/arranca-plan-contra-fugas-de-agua-potable/",
-     "domain": "El Universal",
-     "seendate": "20261012T112848Z"
-    },
-    {
-     "title": "Destacan adopción ciudadana de árboles",
-     "url": "https://www.eluniversal.com.mx/metropoli/destacan-adopcion-ciudadana-de-arboles/",
-     "domain": "El Universal",
-     "seendate": "20261012T112815Z"
-    },
-    {
-     "title": "Acuerdan 85 espacios para ambulantes en la Alameda Central; gobierno de CDMX firma convenio con comerciantes",
-     "url": "https://www.eluniversal.com.mx/metropoli/acuerdan-85-espacios-para-ambulantes-en-la-alameda-central-gobierno-de-cdmx-firma-convenio-con-comerciantes/",
-     "domain": "El Universal",
-     "seendate": "20261012T112749Z"
-    },
-    {
-     "title": "Álvarez Máynez encabeza encuesta rumbo a la gubernatura de Zacatecas; lidera preferencia con 30%",
-     "url": "https://www.eluniversal.com.mx/estados/maynez-lidera-preferencias-para-gobierno-de-la-entidad/",
-     "domain": "El Universal",
-     "seendate": "20261012T102549Z"
-    },
-    {
-     "title": "Falso, que secretaria de Energía abogue por empresa",
-     "url": "https://www.eluniversal.com.mx/nacion/falso-que-secretaria-de-energia-abogue-por-empresa/",
-     "domain": "El Universal",
-     "seendate": "20261012T100000Z"
     }
    ]
   },
@@ -481,6 +487,12 @@
   },
   "CRI": {
    "articles": [
+    {
+     "title": "Paciente lleva cuatro días en una silla esperando camilla en Hospital de Liberia: ‘Un muchacho que se tragó una gillette esperó más’",
+     "url": "https://www.nacion.com/el-pais/paciente-lleva-cuatro-dias-en-una-silla-esperando/LPW5P2JI6VANBN5UX72A3MNK4I/story/",
+     "domain": "La Nación",
+     "seendate": "20261012T192955Z"
+    },
     {
      "title": "Magistrada Patricia Vargas anuncia apoyo a reelección de Carlo Díaz como fiscal general: ‘Ha sido valiente en sus posiciones’",
      "url": "https://www.nacion.com/sucesos/magistrada-patricia-vargas-anuncia-apoyo-a/QI6YXMSPIFHSZGY4TXB4QD42UA/story/",
@@ -606,12 +618,6 @@
      "url": "https://www.nacion.com/sucesos/policia-de-fronteras-decomisa-103-bultos-con/GG4OZP6WKZDHDDVTUJYIIBJIJQ/story/",
      "domain": "La Nación",
      "seendate": "20261012T013759Z"
-    },
-    {
-     "title": "Ovsicori registra más de 300 réplicas tras terremoto en Panamá",
-     "url": "https://www.nacion.com/el-pais/ovsicori-registra-mas-de-300-replicas-tras/ZQMWOZJKIZBRDG3TZLQPMXW64A/story/",
-     "domain": "La Nación",
-     "seendate": "20261012T000910Z"
     }
    ]
   },
@@ -820,6 +826,12 @@
   "CUB": {
    "articles": [
     {
+     "title": "Un periodista oficialista critica los precios excesivos de los nuevos Mercados de Barrio",
+     "url": "https://www.14ymedio.com/cuba/periodista-oficialista-critica-precios-excesivos_1_1131874.html",
+     "domain": "14ymedio",
+     "seendate": "20261012T192852Z"
+    },
+    {
      "title": "De la O Levy niega vínculos de la estatal Enetec con los 90 envíos de combustible confiscados en EE UU",
      "url": "https://www.14ymedio.com/cuba/levy-niega-vinculos-estatal-enetec_1_1131879.html",
      "domain": "14ymedio",
@@ -953,16 +965,16 @@
   "COL": {
    "articles": [
     {
+     "title": "Ojo con los mensajes spam que buscan robar datos: están suplantando al Banco de Bogotá y Seguros Bolívar; este es el código desde donde los envían",
+     "url": "https://www.eltiempo.com/colombia/ojo-con-los-mensajes-spam-que-buscan-robar-datos-estan-suplantando-al-banco-de-bogota-y-seguros-bolivar-este-es-el-codigo-desde-donde-los-envian-3593022",
+     "domain": "El Tiempo",
+     "seendate": "20261012T192547Z"
+    },
+    {
      "title": "Terremoto en Panamá deja daños en Colombia: activan trabajos en la vía Turbo - Nuevo Antioquia y evalúan casas e infraestructuras",
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-panama-deja-danos-en-colombia-activan-trabajos-en-la-via-turbo-nuevo-antioquia-y-evaluan-casas-e-infraestructuras-3593025",
      "domain": "El Tiempo",
      "seendate": "20261012T183712Z"
-    },
-    {
-     "title": "Ojo con los mensajes Spam que buscan robar datos: están suplantando al Banco de Bogotá y Seguros Bolívar; este es el código desde donde los envían",
-     "url": "https://www.eltiempo.com/colombia/ojo-con-los-mensajes-spam-que-buscan-robar-datos-estan-suplantando-al-banco-de-bogota-y-seguros-bolivar-este-es-el-codigo-desde-donde-los-envian-3593022",
-     "domain": "El Tiempo",
-     "seendate": "20261012T181821Z"
     },
     {
      "title": "Pese a las fuertes lluvias y a una mejoría en el comportamiento de ahorro de agua, EPM anunció que se mantendrán los cortes nocturnos en Medellín",
@@ -1038,6 +1050,12 @@
   },
   "ECU": {
    "articles": [
+    {
+     "title": "Suspenden captación de agua tras derrame de hidrocarburo en río Cupa, en Quinindé",
+     "url": "https://eluniverso.com/comunidad/ecuador/suspenden-captacion-de-agua-tras-derrame-de-hidrocarburo-en-rio-cupa-en-quininde-nota/",
+     "domain": "El Universo",
+     "seendate": "20261012T191732Z"
+    },
     {
      "title": "Daniel Noboa recibió cartas credenciales de nuevos embajadores de Chile, Israel, Canadá y Egipto",
      "url": "https://eluniverso.com/politica/ejecutivo/daniel-noboa-recibio-cartas-credenciales-de-nuevos-embajadores-de-chile-israel-canada-y-egipto-nota/",
@@ -1165,18 +1183,6 @@
      "seendate": "20261012T110814Z"
     },
     {
-     "title": "Alias ‘Gato’, presunto integrante de los Chone Killers, fue capturado por doble asesinato en Nobol",
-     "url": "https://eluniverso.com/politica/seguridad/alias-gato-presunto-integrante-de-los-chonekillers-fue-capturado-en-nobol-nota/",
-     "domain": "El Universo",
-     "seendate": "20261012T010905Z"
-    },
-    {
-     "title": "Proyecto busca regular los sistemas de financiamiento y compra de vehículos",
-     "url": "https://eluniverso.com/politica/asamblea-nacional/proyecto-para-proteger-al-consumidor-de-sistemas-de-financiamiento-y-compra-de-vehiculos-nota/",
-     "domain": "El Universo",
-     "seendate": "20261011T171500Z"
-    },
-    {
      "title": "Penas de hasta 26 años de cárcel, control de las redes sociales y rol de los GAD en la lucha contra el reclutamiento de niños, ejes de la ley que destacan los analistas",
      "url": "https://eluniverso.com/politica/asamblea-nacional/penas-de-hasta-26-anos-de-carcel-control-de-las-redes-sociales-y-rol-de-los-gad-en-la-lucha-contra-el-reclutamiento-de-ninos-ejes-de-la-ley-que-destacan-los-analistas-nota/",
      "domain": "El Universo",
@@ -1199,6 +1205,12 @@
   "PER": {
    "articles": [
     {
+     "title": "Apenas el 17% de los puntos críticos por el Fenómeno El Niño tiene intervenciones en ejecución",
+     "url": "https://elcomercio.pe/economia/peru/el-nino-solo-17-de-los-puntos-criticos-por-el-fenomeno-el-nino-tiene-intervenciones-en-ejecucion-apuesplan-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261012T192859Z"
+    },
+    {
      "title": "Navidad 2026: alimentación concentra el principal uso del aguinaldo para el 54% de trabajadores",
      "url": "https://elcomercio.pe/economia/peru/navidad-2026-alimentacion-concentra-el-principal-uso-del-aguinaldo-para-el-54-de-trabajadores-l-ultimas-noticia/",
      "domain": "El Comercio",
@@ -1215,12 +1227,6 @@
      "url": "https://elcomercio.pe/economia/peru/promperu-impulsa-reinversion-de-empresas-extranjeras-en-el-pais-a-traves-del-peru-investment-round-table-2026-l-ultimas-noticia/",
      "domain": "El Comercio",
      "seendate": "20261012T174217Z"
-    },
-    {
-     "title": "Apenas el 17% de los puntos críticos por el Fenómeno El Niño tiene intervenciones en ejecución",
-     "url": "https://elcomercio.pe/economia/peru/el-nino-solo-17-de-los-puntos-criticos-por-el-fenomeno-el-nino-tiene-intervenciones-en-ejecucion-apuesplan-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261012T140005Z"
     }
    ]
   },
@@ -1258,16 +1264,52 @@
   "ARG": {
    "articles": [
     {
-     "title": "Gran Rosario: viaje al principal nodo agroexportador del mundo, donde en 1813 se libró la Batalla de San Lorenzo",
-     "url": "https://www.lanacion.com.ar/economia/gran-rosario-viaje-al-principal-nodo-agroexportador-del-mundo-donde-en-1813-se-libro-la-batalla-de-nid12102026/",
+     "title": "Investigación argentina: descubren una importante propiedad de la mostaza",
+     "url": "https://www.lanacion.com.ar/economia/campo/investigacion-argentina-descubren-una-importante-propiedad-de-la-mostaza-nid12102026/",
      "domain": "La Nación",
-     "seendate": "20261012T190955Z"
+     "seendate": "20261012T194613Z"
+    },
+    {
+     "title": "La importancia de la micro: quiénes ganaron el Nobel de Economía y qué aportes de sus investigaciones usó Milei",
+     "url": "https://www.lanacion.com.ar/economia/la-importancia-de-la-micro-quienes-ganaron-el-nobel-de-economia-y-que-aportes-de-sus-investigaciones-nid12102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T194311Z"
+    },
+    {
+     "title": "Arthur Brooks, experto de Harvard, de 62 años: “Lo que hacen las personas felices y exitosas en la segunda mitad de sus vidas es pasar de sumar a restar”",
+     "url": "https://www.lanacion.com.ar/sociedad/arthur-brooks-experto-de-harvard-de-62-anos-lo-que-hacen-las-personas-felices-y-exitosas-en-la-nid08102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T192800Z"
+    },
+    {
+     "title": "Javier Milei y sus medidas, EN VIVO: el Presidente negó la salida de Caputo y se mostró confiado en que será reelecto",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-nos-unimos-en-oracion-por-su-salud-dijo-el-presidente-por-la-nid12102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T192500Z"
+    },
+    {
+     "title": "Aterosclerosis y trombosis: alimentaron animales con remolacha forrajera y el resultado fue sorprendente",
+     "url": "https://www.lanacion.com.ar/economia/campo/aterosclerosis-y-trombosis-alimentaron-animales-con-remolacha-forrajera-y-el-resultado-fue-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T191532Z"
+    },
+    {
+     "title": "La Corte llamó a conjueces para decidir si reabre una causa por corrupción contra Rodríguez Larreta por la obra del Paseo del Bajo",
+     "url": "https://www.lanacion.com.ar/politica/la-corte-llamo-a-conjueces-para-decidir-si-reabre-una-causa-por-corrupcion-contra-rodriguez-larreta-nid12102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T191340Z"
     },
     {
      "title": "Una oportunidad para exportar conocimiento agropecuario",
      "url": "https://www.lanacion.com.ar/economia/campo/una-oportunidad-para-exportar-conocimiento-agropecuario-nid12102026/",
      "domain": "La Nación",
-     "seendate": "20261012T190707Z"
+     "seendate": "20261012T191240Z"
+    },
+    {
+     "title": "Gran Rosario: viaje al principal nodo agroexportador del mundo, donde en 1813 se libró la Batalla de San Lorenzo",
+     "url": "https://www.lanacion.com.ar/economia/gran-rosario-viaje-al-principal-nodo-agroexportador-del-mundo-donde-en-1813-se-libro-la-batalla-de-nid12102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T190955Z"
     },
     {
      "title": "Qué son las cadenas miofasciales: los ejercicios disruptivos que revolucionaron la forma de practicar el método pilates",
@@ -1280,12 +1322,6 @@
      "url": "https://www.lanacion.com.ar/politica/alberto-fernandez-recordo-sus-diferencias-con-cristina-kirchner-por-el-acuerdo-con-el-fmi-nid12102026/",
      "domain": "La Nación",
      "seendate": "20261012T185001Z"
-    },
-    {
-     "title": "Javier Milei y sus medidas, EN VIVO: el Presidente negó la salida de Caputo y se mostró confiado en que será reelecto",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-nos-unimos-en-oracion-por-su-salud-dijo-el-presidente-por-la-nid12102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T185000Z"
     },
     {
      "title": "La semilla que creció después de Francisco: cómo Ópera Villera pasó del Bajo Flores al Vaticano y ahora espera a León XIV",
@@ -1390,12 +1426,6 @@
      "seendate": "20261012T172610Z"
     },
     {
-     "title": "Arthur Brooks, experto de Harvard, de 62 años: “Lo que hacen las personas felices y exitosas en la segunda mitad de sus vidas es pasar de sumar a restar”",
-     "url": "https://www.lanacion.com.ar/sociedad/arthur-brooks-experto-de-harvard-de-62-anos-lo-que-hacen-las-personas-felices-y-exitosas-en-la-nid08102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T172601Z"
-    },
-    {
      "title": "Intereses cruzados dificultan el acuerdo LLA-Pro en la Capital: la tensión entre los Macri, el rol de Angelici y la presión libertaria",
      "url": "https://www.lanacion.com.ar/politica/intereses-cruzados-dificultan-el-acuerdo-lla-pro-en-la-capital-la-tension-entre-los-macri-el-rol-de-nid12102026/",
      "domain": "La Nación",
@@ -1444,12 +1474,6 @@
      "seendate": "20261012T154010Z"
     },
     {
-     "title": "La importancia de la micro: quiénes ganaron el Nobel de Economía y qué aportes de sus investigaciones usó Milei",
-     "url": "https://www.lanacion.com.ar/economia/la-importancia-de-la-micro-quienes-ganaron-el-nobel-de-economia-y-que-aportes-de-sus-investigaciones-nid12102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T153210Z"
-    },
-    {
      "title": "Luis Caputo negó las versiones sobre una posible salida del Gabinete: “Quedate tranquilo que no voy a renunciar”",
      "url": "https://www.lanacion.com.ar/economia/luis-caputo-nego-las-versiones-sobre-una-posible-salida-del-gabinete-quedate-tranquilo-que-no-voy-a-nid12102026/",
      "domain": "La Nación",
@@ -1460,18 +1484,6 @@
      "url": "https://www.lanacion.com.ar/seguridad/donde-queda-la-carcel-de-devoto-que-van-a-hacer-con-los-terrenos-una-vez-que-cierre-el-penal-nid12102026/",
      "domain": "La Nación",
      "seendate": "20261012T151004Z"
-    },
-    {
-     "title": "Complicaciones por El Niño: debido a la fuerte crecida del río Iguazú, restringieron el acceso a las Cataratas",
-     "url": "https://www.lanacion.com.ar/sociedad/complicaciones-por-el-nino-debido-a-la-fuerte-crecida-del-rio-iguazu-restringieron-el-acceso-a-las-nid12102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T150148Z"
-    },
-    {
-     "title": "Milei negó la salida de Luis Caputo y se mostró confiado en que será reelecto",
-     "url": "https://www.lanacion.com.ar/politica/milei-nego-la-salida-de-luis-caputo-y-se-mostro-confiado-en-que-sera-reelecto-nid12102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T150131Z"
     }
    ]
   },
@@ -1487,6 +1499,24 @@
   },
   "PRY": {
    "articles": [
+    {
+     "title": "Lluvias, crecida de ríos y caminos destruidos en San Pedro",
+     "url": "https://www.abc.com.py/nacionales/2026/10/12/lluvias-crecida-de-rios-y-caminos-destruidos-agravan-la-situacion-en-san-pedro/",
+     "domain": "ABC Color",
+     "seendate": "20261012T194114Z"
+    },
+    {
+     "title": "Parálisis en Santo Domingo: Desagüe pluvial de Nenecho y Luis Bello se frena tras elecciones municipales",
+     "url": "https://www.abc.com.py/nacionales/2026/10/12/paralisis-en-santo-domingo-desague-pluvial-de-nenecho-y-luis-bello-se-frena-tras-elecciones-municipales/",
+     "domain": "ABC Color",
+     "seendate": "20261012T193437Z"
+    },
+    {
+     "title": "Conferencia internacional abre programa de 4° aniversario del Club Veteranos de Prensa",
+     "url": "https://www.abc.com.py/nacionales/2026/10/12/conferencia-internacional-abre-programa-de-4-aniversario-del-club-veteranos-de-prensa/",
+     "domain": "ABC Color",
+     "seendate": "20261012T192524Z"
+    },
     {
      "title": "Crecida dispar: Río Paraná está en alerta de inundación y el Paraguay no recupera su nivel normal",
      "url": "https://www.abc.com.py/nacionales/2026/10/12/crecida-dispar-rio-parana-esta-en-alerta-de-inundacion-y-el-paraguay-no-recupera-su-nivel-normal/",
@@ -1561,6 +1591,18 @@
   "BRA": {
    "articles": [
     {
+     "title": "Tereza Cristina cita desejo de ser presidente do Senado e vê ambiente favorável a impeachment de ministros do STF",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/12/tereza-cristina-cita-desejo-de-ser-presidente-do-senado-e-ve-ambiente-favoravel-a-impeachment-de-ministros-do-stf.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261012T191534Z"
+    },
+    {
+     "title": "Vídeo mostra PM batendo cano de escopeta contra celular que filmava ação em Paraisópolis, em SP",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/12/video-mostra-pm-batendo-cano-de-escopeta-contra-celular-que-filmava-acao-em-paraisopolis-em-sp.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261012T182046Z"
+    },
+    {
      "title": "O que a área técnica do TSE disse sobre o canal ‘Exército do Lula’, questionado pela campanha de Flávio",
      "url": "https://oglobo.globo.com/politica/noticia/2026/10/12/o-que-a-area-tecnica-do-tse-disse-sobre-o-canal-exercito-do-lula-questionado-pela-campanha-de-flavio.ghtml",
      "domain": "O Globo",
@@ -1573,7 +1615,7 @@
      "seendate": "20261012T171357Z"
     },
     {
-     "title": "Apoiadores ocupam quarteirões da Praia de Copacabana (RJ) em ato sem Lula no Rio",
+     "title": "Apoiadores ocupam quarteirões da Praia de Copacabana em ato sem Lula no Rio",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/12/apoiadores-ocupam-quarteiroes-da-praia-de-copacabana-rj-em-ato-sem-lula-no-rio.ghtml",
      "domain": "O Globo",
      "seendate": "20261012T171307Z"
@@ -1685,24 +1727,6 @@
      "url": "https://oglobo.globo.com/brasil/noticia/2026/10/12/dia-das-criancas-e-de-nossa-senhora-aparecida-qual-a-relacao-entre-data-comemorativa-e-feriado-da-padroeira-do-brasil.ghtml",
      "domain": "O Globo",
      "seendate": "20261012T105526Z"
-    },
-    {
-     "title": "Quando é o segundo turno das eleições 2026?",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/guia/quando-e-o-segundo-turno-das-eleicoes-2026-1.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261012T100032Z"
-    },
-    {
-     "title": "Feriados 2026: no dia de Nossa Senhora Aparecida, veja os próximos feriados do ano",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/12/feriados-2026-no-dia-de-nossa-senhora-aparecida-veja-os-proximos-feriados-do-ano.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261012T094356Z"
-    },
-    {
-     "title": "Brasileira pode pegar prisão perpétua após ser flagrada com 3,6 kg de cocaína em shampoo na Indonésia",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/12/brasileira-pode-pegar-prisao-perpetua-apos-ser-flagrada-com-36-kg-de-cocaina-em-shampoo-na-indonesia.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261012T092359Z"
     }
    ]
   }
