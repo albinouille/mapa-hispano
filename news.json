@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T04:21:10+00:00",
+ "updated": "2026-10-12T04:54:53+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -151,6 +151,12 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Detienen a Jesús Darío “N”, integrante de “La Barredora 24/7”; es señalado como generador de violencia en Sonora",
+     "url": "https://www.eluniversal.com.mx/nacion/detienen-a-jesus-dario-n-integrante-de-la-barredora-247-es-senalado-como-generador-de-violencia-en-sonora/",
+     "domain": "El Universal",
+     "seendate": "20261012T042134Z"
+    },
     {
      "title": "Secretaría de Seguridad de la CDMX investiga actuar de policías en marcha de trabajadores del IMSS; analiza videos difundidos",
      "url": "https://www.eluniversal.com.mx/metropoli/secretaria-de-seguridad-de-la-cdmx-investiga-actuar-de-policias-en-marcha-de-trabajadores-del-imss-analiza-videos-difundidos/",
@@ -338,12 +344,6 @@
      "seendate": "20261011T195400Z"
     },
     {
-     "title": "Ataque armado en Nacajuca, Tabasco deja tres personas muertas; entre las víctimas hay una adolescente de 13 años",
-     "url": "https://www.eluniversal.com.mx/estados/ataque-armado-en-nacajuca-tabasco-deja-tres-personas-muertas-entre-las-victimas-hay-una-adolescente-de-13-anos/",
-     "domain": "El Universal",
-     "seendate": "20261011T194534Z"
-    },
-    {
      "title": "“Queremos agua limpia”: Marchan en Guadalajara por agua contaminada; enfrentamiento en Casa Jalisco deja detenidos",
      "url": "https://www.eluniversal.com.mx/estados/queremos-agua-limpia-marchan-en-guadalajara-por-agua-contaminada-manifestacion-llega-a-casa-jalisco/",
      "domain": "El Universal",
@@ -469,6 +469,12 @@
   },
   "CRI": {
    "articles": [
+    {
+     "title": "Excanciller Bruno Stagno cuestiona TLC con Israel por omisiones sobre derechos del pueblo palestino",
+     "url": "https://www.nacion.com/politica/excanciller-bruno-stagno-cuestiona-tlc-con-israel/G6QG4B7BIBHGRH5PS3G33JHJKQ/story/",
+     "domain": "La Nación",
+     "seendate": "20261012T042034Z"
+    },
     {
      "title": "Lotería Nacional: salió el PREMIO MAYOR del domingo 11 de octubre",
      "url": "https://www.nacion.com/el-pais/loteria-nacional-salio-el-segundo-y-tercer-premio/N4NKZDXQPJB6FN2OM3C5BWNGOA/story/",
@@ -702,12 +708,6 @@
      "seendate": "20261010T053500Z"
     },
     {
-     "title": "Metro de Panamá revisa sus instalaciones tras el sismo; el servicio sigue suspendido",
-     "url": "https://www.prensa.com/sociedad/metro-de-panama-revisa-sus-instalaciones-tras-el-sismo-el-servicio-sigue-suspendido/",
-     "domain": "La Prensa",
-     "seendate": "20261010T042000Z"
-    },
-    {
      "title": "Parque Omar estará abierto para quienes busquen resguardo tras el sismo",
      "url": "https://www.prensa.com/sociedad/parque-omar-estara-abierto-para-quienes-busquen-resguardo-tras-el-sismo/",
      "domain": "La Prensa",
@@ -881,6 +881,12 @@
   "COL": {
    "articles": [
     {
+     "title": "El sistema de alerta temprana, que combina tecnología y participación comunitaria, que previno una tragedia mayor tras el desbordamiento de La Iguaná",
+     "url": "https://www.eltiempo.com/colombia/medellin/el-sistema-de-alerta-temprana-que-combina-tecnologia-y-participacion-comunitaria-que-previno-una-tragedia-mayor-tras-el-desbordamiento-de-la-iguana-3592945",
+     "domain": "El Tiempo",
+     "seendate": "20261012T041508Z"
+    },
+    {
      "title": "Denuncian presunto uso de gas pimienta para robar durante el festival EDC Colombia en Medellín",
      "url": "https://www.eltiempo.com/colombia/medellin/denuncian-presunto-uso-de-gas-pimienta-para-robar-durante-el-festival-edc-colombia-en-medellin-3592951",
      "domain": "El Tiempo",
@@ -933,12 +939,6 @@
      "url": "https://www.eltiempo.com/colombia/barranquilla/atlantico-plastiqueras-en-galapa-tenian-14-transformadores-ilegales-y-deudas-por-2-700-millones-conexiones-afectan-servicio-de-familias-vulnerables-3592886",
      "domain": "El Tiempo",
      "seendate": "20261011T173000Z"
-    },
-    {
-     "title": "Ataque con explosivos y ráfagas de fusil contra base militar en Toribío, Cauca: cinco veredas permanecen confinadas",
-     "url": "https://www.eltiempo.com/colombia/santander/ataque-con-explosivos-y-rafagas-de-fusil-contra-base-militar-en-toribio-cauca-cinco-veredas-permanecen-confinadas-3592896",
-     "domain": "El Tiempo",
-     "seendate": "20261011T164607Z"
     }
    ]
   },
@@ -1414,12 +1414,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/11/octubre-rosa-directora-del-incan-llama-a-realizarse-la-mamografia-y-no-postergar-la-consulta-medica/",
      "domain": "ABC Color",
      "seendate": "20261011T223450Z"
-    },
-    {
-     "title": "Las instituciones del Estado que le fallaron a Deisy: sin cambios, habrá más feminicidios, alerta abogada",
-     "url": "https://www.abc.com.py/nacionales/2026/10/11/las-instituciones-del-estado-que-le-fallaron-a-deisy-gimenez-sin-cambios-habra-mas-feminicidios-alerta-abogada/",
-     "domain": "ABC Color",
-     "seendate": "20261011T192212Z"
     }
    ]
   },
