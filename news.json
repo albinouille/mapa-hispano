@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T23:19:34+00:00",
+ "updated": "2026-10-12T23:49:52+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -176,13 +176,31 @@
   "MEX": {
    "articles": [
     {
+     "title": "Delfina Gómez se reúne con Rosa Icela Rodríguez y Mario Delgado; revisan Plan Integral del Edomex",
+     "url": "https://www.eluniversal.com.mx/metropoli/delfina-gomez-se-reune-con-rosa-icela-rodriguez-y-mario-delgado-revisan-plan-integral-del-edomex/",
+     "domain": "El Universal",
+     "seendate": "20261012T232646Z"
+    },
+    {
+     "title": "Padre de Dafne Zapata es declarado culpable por abuso sexual en Tamaulipas; defensa de Gabriel \"N\" anuncia apelación",
+     "url": "https://www.eluniversal.com.mx/estados/padre-de-dafne-zapata-es-declarado-culpable-por-abuso-sexual-en-tamaulipas-defensa-de-gabriel-n-anuncia-apelacion/",
+     "domain": "El Universal",
+     "seendate": "20261012T232454Z"
+    },
+    {
+     "title": "Sindicato del Metro pide recursos para rehabilitación de la Línea A; advierten posible suspensión por riesgos de seguridad",
+     "url": "https://www.eluniversal.com.mx/metropoli/sindicato-del-metro-pide-recursos-para-rehabilitacion-de-la-linea-a-advierten-posible-suspension-por-riesgos-de-seguridad/",
+     "domain": "El Universal",
+     "seendate": "20261012T231453Z"
+    },
+    {
      "title": "Mauricio Tabe pide retirar cables en desuso en Miguel Hidalgo; exige sanciones a empresas que incumplan normas de cableado",
      "url": "https://www.eluniversal.com.mx/metropoli/mauricio-tabe-pide-retirar-cables-en-desuso-en-miguel-hidalgo-exige-sanciones-a-empresas-que-incumplan-normas-de-cableado/",
      "domain": "El Universal",
      "seendate": "20261012T230357Z"
     },
     {
-     "title": "Aseguran flotilla de drones en El Rosario, Sinaloa; 48 aparatos con 64 baterías fueron incautados junto con explosivos",
+     "title": "Aseguran flotilla de drones en El Rosario, Sinaloa; 48 aparatos fueron incautados junto cartuchos y uniformes tácticos",
      "url": "https://www.eluniversal.com.mx/nacion/aseguran-flotilla-de-drones-en-el-rosario-sinaloa-48-aparatos-con-64-baterias-fueron-incautados-junto-con-explosivos/",
      "domain": "El Universal",
      "seendate": "20261012T225342Z"
@@ -416,12 +434,6 @@
      "seendate": "20261012T160909Z"
     },
     {
-     "title": "Sheinbaum no habló sobre Academia Policial en encuentro con embajador Johnson; reitera se deben cumplir leyes mexicanas",
-     "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-no-hablo-sobre-academia-policial-en-encuentro-con-embajador-johnson-reitera-se-deben-cumplir-leyes-mexicanas/",
-     "domain": "El Universal",
-     "seendate": "20261012T160305Z"
-    },
-    {
      "title": "Trabajadores del IMSS protestan en Monterrey; denuncian falta de insumos, especialistas y mejoras salariales",
      "url": "https://www.eluniversal.com.mx/estados/trabajadores-del-imss-convocan-a-protestas-en-cinco-hospitales-de-nuevo-leon-exigen-aumento-salarial-del-10/",
      "domain": "El Universal",
@@ -523,6 +535,30 @@
   },
   "CRI": {
    "articles": [
+    {
+     "title": "Don Stockwell asegura que alias Sobrino no quiso conocerlo ni encender cámara durante videollamada",
+     "url": "https://www.nacion.com/sucesos/don-stockwell-asegura-que-alias-sobrino-no-quiso/YJWFZ6XTPRFATOI7Y6WYLB6HYU/story/",
+     "domain": "La Nación",
+     "seendate": "20261012T233813Z"
+    },
+    {
+     "title": "Temblor de magnitud 5,8 sacudió zona fronteriza entre Costa Rica y Panamá este lunes",
+     "url": "https://www.nacion.com/sucesos/temblor-de-magnitud-58-sacudio-zona-fronteriza/Z6ADTBHI4BFYPGIAUQGJFD2LEQ/story/",
+     "domain": "La Nación",
+     "seendate": "20261012T233203Z"
+    },
+    {
+     "title": "Sala Constitucional declara con lugar recurso contra Hacienda por omitir información sobre protección de datos de personas",
+     "url": "https://www.nacion.com/el-pais/sala-constitucional-declara-con-lugar-recurso/3WEVGH5DQFDAHGXQCM2HQDTNY4/story/",
+     "domain": "La Nación",
+     "seendate": "20261012T232855Z"
+    },
+    {
+     "title": "Magistrada Damaris Vargas busca presidir Corte Suprema de Justicia y propone tender puentes con Gobierno de Laura Fernández",
+     "url": "https://www.nacion.com/sucesos/magistrada-damaris-vargas-busca-presidir-corte/WNUZZEVGABEEHPVAWNN7NBTIIE/story/",
+     "domain": "La Nación",
+     "seendate": "20261012T231747Z"
+    },
     {
      "title": "ICE buscó acceso a fotos y datos civiles y patrimoniales de ciudadanos de Costa Rica",
      "url": "https://www.nacion.com/el-pais/ice-busco-acceso-a-fotos-y-datos-civiles-y/2CMFHRVWYNE2NKAU5PTMYWJZYU/story/",
@@ -648,23 +684,17 @@
      "url": "https://www.nacion.com/sucesos/hijo-no-reconocido-de-pecho-rata-articulaba/V6GCKOUP5JBYXAD2AI2TYVRN3U/story/",
      "domain": "La Nación",
      "seendate": "20261012T140000Z"
-    },
-    {
-     "title": "Lotería Nacional de Costa Rica: lista completa de ganadores y premios del sorteo N.° 4.922 de este domingo 11 de octubre",
-     "url": "https://www.nacion.com/el-pais/loteria-nacional-de-costa-rica-lista-completa-de/ZFTVLWCT7RE4JF3MSGBOYM2JBQ/story/",
-     "domain": "La Nación",
-     "seendate": "20261012T122045Z"
-    },
-    {
-     "title": "Más de 100 personas afrontan desalojo en Purral. Viven sobre terrenos del IMAS destinados a áreas verdes e infantiles",
-     "url": "https://www.nacion.com/el-pais/mas-de-100-personas-afrontan-desalojo-en-purral/55TCOU55YFDXRBW5VCZSMROK4I/story/",
-     "domain": "La Nación",
-     "seendate": "20261012T120000Z"
     }
    ]
   },
   "PAN": {
    "articles": [
+    {
+     "title": "Terremoto en Panamá: Gobierno actualiza balance de daños",
+     "url": "https://www.prensa.com/politica/terremoto-en-panama-gobierno-actualiza-balance-de-danos/",
+     "domain": "La Prensa",
+     "seendate": "20261012T231840Z"
+    },
     {
      "title": "Un pueblo incomunicado por el terremoto en Panamá corre por la ayuda llegada del cielo",
      "url": "https://www.prensa.com/sociedad/un-pueblo-incomunicado-por-el-terremoto-en-panama-corre-por-la-ayuda-llegada-del-cielo/",
@@ -1001,6 +1031,12 @@
   "COL": {
    "articles": [
     {
+     "title": "Pánico en las corralejas de Ayapel, Córdoba: asistentes bajaron de los palcos con niños en brazos ante el temor de un derrumbe",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/panico-en-las-corralejas-de-ayapel-cordoba-asistentes-bajaron-de-los-palcos-con-ninos-en-brazos-ante-el-temor-de-un-derrumbe-3593055",
+     "domain": "El Tiempo",
+     "seendate": "20261012T231721Z"
+    },
+    {
      "title": "Fuga en Santa Marta: tres prófugos se entregan y uno es capturado; trasladan a 40 detenidos a la cárcel Rodrigo de Bastidas",
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/fuga-en-santa-marta-tres-profugos-se-entregan-y-uno-es-capturado-trasladan-a-40-detenidos-a-la-carcel-rodrigo-de-bastidas-3593031",
      "domain": "El Tiempo",
@@ -1053,12 +1089,6 @@
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-panama-deja-danos-en-colombia-activan-trabajos-en-la-via-turbo-nuevo-antioquia-y-evaluan-casas-e-infraestructuras-3593025",
      "domain": "El Tiempo",
      "seendate": "20261012T183712Z"
-    },
-    {
-     "title": "Pese a las fuertes lluvias y a una mejoría en el comportamiento de ahorro de agua, EPM anunció que se mantendrán los cortes nocturnos en Medellín",
-     "url": "https://www.eltiempo.com/colombia/medellin/pese-a-las-fuertes-lluvias-y-a-una-mejoria-en-el-comportamiento-de-ahorro-de-agua-epm-anuncio-que-se-mantendran-los-cortes-nocturnos-en-medellin-3593019",
-     "domain": "El Tiempo",
-     "seendate": "20261012T181734Z"
     }
    ]
   },
@@ -1086,6 +1116,12 @@
   },
   "ECU": {
    "articles": [
+    {
+     "title": "Ecuador expone avances en protección e integración de personas refugiadas ante organismo de la ONU",
+     "url": "https://eluniverso.com/politica/ejecutivo/ecuador-expone-avances-en-proteccion-e-integracion-de-personas-refugiadas-ante-organismo-de-la-onu-nota/",
+     "domain": "El Universo",
+     "seendate": "20261012T231916Z"
+    },
     {
      "title": "1.469 servidores judiciales se postulan para ocupar 222 cargos de jueces temporales en Ecuador",
      "url": "https://eluniverso.com/politica/transparencia/1469-servidores-judiciales-se-postulan-para-ocupar-222-cargos-de-jueces-temporales-en-ecuador-nota/",
@@ -1171,12 +1207,6 @@
      "seendate": "20261012T151515Z"
     },
     {
-     "title": "Vía Cuenca-Molleturo-El Empalme se reabre parcialmente luego de los trabajos de limpieza",
-     "url": "https://eluniverso.com/comunidad/ecuador/via-cuenca-molleturo-el-empalme-se-reabre-parcialmente-luego-de-los-trabajos-de-limpieza-nota/",
-     "domain": "El Universo",
-     "seendate": "20261012T142408Z"
-    },
-    {
      "title": "¿Cuáles son los días de feriado de noviembre?",
      "url": "https://eluniverso.com/comunidad/ecuador/cuales-son-los-dias-de-feriado-de-noviembre-nota/",
      "domain": "El Universo",
@@ -1227,12 +1257,6 @@
      "url": "https://elcomercio.pe/economia/peru/proinversion-puerto-corio-sera-la-infraestructura-mas-importante-que-tendra-el-pais-en-los-proximos-anos-noticia/",
      "domain": "El Comercio",
      "seendate": "20261012T222851Z"
-    },
-    {
-     "title": "El dólar cierra al alza en S/3,44 ante fortalecimiento global de la divisa",
-     "url": "https://elcomercio.pe/economia/peru/el-dolar-cierra-al-alza-en-s344-ante-fortalecimiento-global-de-la-divisa-l-tipo-de-cambio-l-ultimas-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261012T205519Z"
     }
    ]
   },
@@ -1270,16 +1294,34 @@
   "ARG": {
    "articles": [
     {
-     "title": "Marcos Galperin cuestionó la norma del BCRA que obliga a informar el costo financiero de los préstamos",
-     "url": "https://www.lanacion.com.ar/economia/marcos-galperin-cuestiono-la-norma-del-bcra-que-obliga-a-informar-el-costo-financiero-de-los-nid12102026/",
+     "title": "Rechazaron un habeas corpus y siguió el traslado de presos a Marcos Paz, mientras los pabellones de Villa Devoto se vacían",
+     "url": "https://www.lanacion.com.ar/seguridad/rechazaron-un-habeas-corpus-y-siguio-el-traslado-de-presos-a-marcos-paz-mientras-los-pabellones-de-nid12102026/",
      "domain": "La Nación",
-     "seendate": "20261012T231659Z"
+     "seendate": "20261012T234720Z"
     },
     {
      "title": "Habló Rogerio Tomaz Jr, el periodista crítico de Milei que fue deportado en Aeroparque: “Es un orgullo”",
      "url": "https://www.lanacion.com.ar/politica/hablo-rogerio-tomaz-jr-el-periodista-critico-de-milei-que-fue-deportado-en-aeroparque-es-un-orgullo-nid12102026/",
      "domain": "La Nación",
-     "seendate": "20261012T231552Z"
+     "seendate": "20261012T234315Z"
+    },
+    {
+     "title": "Se hizo pasar por juez federal para acceder a información policial secreta y ahora investigan un posible vínculo con el narcotráfico",
+     "url": "https://www.lanacion.com.ar/seguridad/se-hizo-pasar-por-juez-federal-para-acceder-a-informacion-policial-secreta-y-ahora-investigan-un-nid12102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T233807Z"
+    },
+    {
+     "title": "Marcos Galperin cuestionó la norma del BCRA que obliga a informar el costo financiero de los préstamos",
+     "url": "https://www.lanacion.com.ar/economia/marcos-galperin-cuestiono-la-norma-del-bcra-que-obliga-a-informar-el-costo-financiero-de-los-nid12102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T233644Z"
+    },
+    {
+     "title": "Robin Sharma, especialista en crecimiento personal: “Un mal día para el ego es un buen día para el alma; aprendemos en la dificultad”",
+     "url": "https://www.lanacion.com.ar/sociedad/robin-sharma-especialista-en-crecimiento-personal-un-mal-dia-para-el-ego-es-un-buen-dia-para-el-alma-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T232800Z"
     },
     {
      "title": "Javier Milei y sus medidas, EN VIVO: el Presidente negó la salida de Caputo y se mostró confiado en que será reelecto",
@@ -1412,36 +1454,6 @@
      "url": "https://www.lanacion.com.ar/economia/la-importancia-de-la-micro-quienes-ganaron-el-nobel-de-economia-y-que-aportes-de-sus-investigaciones-nid12102026/",
      "domain": "La Nación",
      "seendate": "20261012T194311Z"
-    },
-    {
-     "title": "Arthur Brooks, experto de Harvard, de 62 años: “Lo que hacen las personas felices y exitosas en la segunda mitad de sus vidas es pasar de sumar a restar”",
-     "url": "https://www.lanacion.com.ar/sociedad/arthur-brooks-experto-de-harvard-de-62-anos-lo-que-hacen-las-personas-felices-y-exitosas-en-la-nid08102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T192800Z"
-    },
-    {
-     "title": "Aterosclerosis y trombosis: alimentaron animales con remolacha forrajera y el resultado fue sorprendente",
-     "url": "https://www.lanacion.com.ar/economia/campo/aterosclerosis-y-trombosis-alimentaron-animales-con-remolacha-forrajera-y-el-resultado-fue-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T191532Z"
-    },
-    {
-     "title": "La Corte llamó a conjueces para decidir si reabre una causa por corrupción contra Rodríguez Larreta por la obra del Paseo del Bajo",
-     "url": "https://www.lanacion.com.ar/politica/la-corte-llamo-a-conjueces-para-decidir-si-reabre-una-causa-por-corrupcion-contra-rodriguez-larreta-nid12102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T191340Z"
-    },
-    {
-     "title": "Una oportunidad para exportar conocimiento agropecuario",
-     "url": "https://www.lanacion.com.ar/economia/campo/una-oportunidad-para-exportar-conocimiento-agropecuario-nid12102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T191240Z"
-    },
-    {
-     "title": "Gran Rosario: viaje al principal nodo agroexportador del mundo, donde en 1813 se libró la Batalla de San Lorenzo",
-     "url": "https://www.lanacion.com.ar/economia/gran-rosario-viaje-al-principal-nodo-agroexportador-del-mundo-donde-en-1813-se-libro-la-batalla-de-nid12102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T190955Z"
     }
    ]
   },
@@ -1542,6 +1554,18 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "Programa eleitoral de Flávio Bolsonaro será reexibido após ir ao ar sem áudio",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/12/programa-eleitoral-de-flavio-bolsonaro-sera-reexibido-apos-ir-ao-ar-sem-audio.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261012T215150Z"
+    },
+    {
+     "title": "Em dia de Nossa Senhora, Lula e Flávio vão a celebrações em Brasília, e politização divide romeiros em Aparecida",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/12/em-dia-de-nossa-senhora-lula-e-flavio-vao-a-celebracoes-em-brasilia-e-politizacao-divide-romeiros-em-aparecida.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261012T214238Z"
+    },
     {
      "title": "Tereza Cristina cita desejo de ser presidente do Senado e vê ambiente favorável a impeachment de ministros do STF",
      "url": "https://oglobo.globo.com/politica/noticia/2026/10/12/tereza-cristina-cita-desejo-de-ser-presidente-do-senado-e-ve-ambiente-favoravel-a-impeachment-de-ministros-do-stf.ghtml",
@@ -1673,12 +1697,6 @@
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/12/exercito-do-lula-o-que-havia-no-canal-de-janones-que-nunes-marques-tentou-derrubar.ghtml",
      "domain": "O Globo",
      "seendate": "20261012T113511Z"
-    },
-    {
-     "title": "Dia das Crianças e de Nossa Senhora Aparecida: qual a relação entre data comemorativa e feriado da padroeira do Brasil?",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/12/dia-das-criancas-e-de-nossa-senhora-aparecida-qual-a-relacao-entre-data-comemorativa-e-feriado-da-padroeira-do-brasil.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261012T105526Z"
     }
    ]
   }
