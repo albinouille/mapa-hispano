@@ -1,13 +1,19 @@
 {
- "updated": "2026-10-12T09:57:36+00:00",
+ "updated": "2026-10-12T10:22:34+00:00",
  "countries": {
   "ESP": {
    "articles": [
     {
+     "title": "El desfile del 12 de octubre por el Día de la Hispanidad 2026, en imágenes",
+     "url": "https://elpais.com/espana/2026-10-12/el-desfile-del-12-de-octubre-por-el-dia-de-la-hispanidad-en-imagenes.html",
+     "domain": "El País",
+     "seendate": "20261012T101658Z"
+    },
+    {
      "title": "Desfile del Día de la Hispanidad y reacciones políticas en directo | Sánchez recibido entre abucheos e insultos a su llegada al desfile militar",
      "url": "https://elpais.com/espana/2026-10-12/ultima-hora-del-dia-de-la-hispanidad-y-reacciones-politicas-en-directo.html",
      "domain": "El País",
-     "seendate": "20261012T094155Z"
+     "seendate": "20261012T101632Z"
     },
     {
      "title": "Canarias recibe a más de 1.000 migrantes en cayucos desde el viernes",
@@ -154,12 +160,6 @@
      "seendate": "20261010T033001Z"
     },
     {
-     "title": "La caída del esquivo Andrey Victorovich, el artesano de las ‘armas Frankenstein’",
-     "url": "https://elpais.com/espana/2026-10-10/la-caida-del-esquivo-andrey-victorovich-el-artesano-de-las-armas-frankenstein.html",
-     "domain": "El País",
-     "seendate": "20261010T033001Z"
-    },
-    {
      "title": "Andalucía, a la cola de España en comunidades energéticas pese a ser la región con mayor potencial solar",
      "url": "https://elpais.com/espana/andalucia/2026-09-28/andalucia-a-la-cola-de-espana-en-comunidades-energeticas-pese-a-ser-la-region-con-mayor-potencial-solar.html",
      "domain": "El País",
@@ -169,6 +169,12 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Falso, que secretaria de Energía abogue por empresa",
+     "url": "https://www.eluniversal.com.mx/nacion/falso-que-secretaria-de-energia-abogue-por-empresa/",
+     "domain": "El Universal",
+     "seendate": "20261012T100000Z"
+    },
     {
      "title": "Cada día, 86 menores llegan a hospitales víctimas de violencia; niñas y adolescentes, en su mayoría",
      "url": "https://www.eluniversal.com.mx/nacion/cada-dia-86-menores-llegan-a-hospitales-victimas-de-violencia-ninas-y-adolescentes-en-su-mayoria/",
@@ -306,12 +312,6 @@
      "url": "https://www.eluniversal.com.mx/nacion/morena-llama-a-garantizar-el-derecho-al-agua-en-jalisco-critica-actos-de-represion-ante-el-descontento-social/",
      "domain": "El Universal",
      "seendate": "20261012T001449Z"
-    },
-    {
-     "title": "Clara Brugada inaugura la novena Utopía en Milpa Alta; invierten 190 millones de pesos en espacio gratuito",
-     "url": "https://www.eluniversal.com.mx/metropoli/clara-brugada-inaugura-la-novena-utopia-en-milpa-alta-invierten-180-millones-de-pesos-en-espacio-gratuito/",
-     "domain": "El Universal",
-     "seendate": "20261011T203156Z"
     },
     {
      "title": "Birmex aclara que cada dosis de vacuna Covid cuesta 14 dólares; compra permitirá ahorros por mil 326 mdp, dice",
@@ -1114,20 +1114,32 @@
   "ARG": {
    "articles": [
     {
+     "title": "El Nobel de Economía 2026 fue para Robert Hall y Michael Woodford por sus aportes a la estabilización macroeconómica",
+     "url": "https://www.lanacion.com.ar/economia/el-nobel-de-economia-2026-fue-para-robert-hall-y-michael-woodford-por-sus-aportes-a-la-nid12102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T100355Z"
+    },
+    {
      "title": "Javier Milei y sus medidas, EN VIVO: “Nos unimos en oración por su salud”, dijo el Presidente por la operación del Papa",
      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-nos-unimos-en-oracion-por-su-salud-dijo-el-presidente-por-la-nid12102026/",
      "domain": "La Nación",
-     "seendate": "20261012T092400Z"
+     "seendate": "20261012T100058Z"
     },
     {
-     "title": "Quebró uno de los aserraderos productores de pallets más grandes del país",
-     "url": "https://www.lanacion.com.ar/economia/campo/quebro-uno-de-los-aserraderos-productores-de-pallets-mas-grandes-del-pais-nid12102026/",
+     "title": "El sustancial cambio de vida de 30 felinos del abandonado exzoológico de Luján: qué pasará con los que quedan",
+     "url": "https://www.lanacion.com.ar/sociedad/el-sustancial-cambio-de-vida-de-30-felinos-del-abandonado-exzoologico-de-lujan-que-pasara-con-los-nid12102026/",
      "domain": "La Nación",
-     "seendate": "20261012T090000Z"
+     "seendate": "20261012T100000Z"
     },
     {
      "title": "Consumidores adaptados y resignados",
      "url": "https://www.lanacion.com.ar/economia/consumidores-adaptados-y-resignados-nid12102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T090000Z"
+    },
+    {
+     "title": "Quebró uno de los aserraderos productores de pallets más grandes del país",
+     "url": "https://www.lanacion.com.ar/economia/campo/quebro-uno-de-los-aserraderos-productores-de-pallets-mas-grandes-del-pais-nid12102026/",
      "domain": "La Nación",
      "seendate": "20261012T090000Z"
     },
@@ -1256,42 +1268,6 @@
      "url": "https://www.lanacion.com.ar/economia/mineria-y-energia-estados-unidos-abrio-la-puerta-a-financiar-proyectos-argentinos-con-fondos-del-nid11102026/",
      "domain": "La Nación",
      "seendate": "20261011T221338Z"
-    },
-    {
-     "title": "Fibromialgia: un especialista explicó en qué consiste esta patología y por qué afecta más a las mujeres",
-     "url": "https://www.lanacion.com.ar/sociedad/fibromialgia-un-especialista-explico-en-que-consiste-esta-patologia-y-por-que-afecta-mas-a-las-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T220000Z"
-    },
-    {
-     "title": "El argentino Nicolás Mendioroz Juncosa será extraditado de Australia acusado de estafas con criptomonedas",
-     "url": "https://www.lanacion.com.ar/seguridad/el-argentino-nicolas-mendioroz-juncosa-sera-extraditado-de-australia-acusado-de-estafas-con-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T215349Z"
-    },
-    {
-     "title": "Murió un argentino en Punta Cana tras chocar contra un camión mientras circulaba en moto",
-     "url": "https://www.lanacion.com.ar/sociedad/murio-un-argentino-en-punta-cana-tras-chocar-contra-un-camion-mientras-circulaba-en-moto-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T215257Z"
-    },
-    {
-     "title": "Legisladores peronistas pidieron suspender la privatización de AySA: reclaman conocer la tasación",
-     "url": "https://www.lanacion.com.ar/politica/legisladores-peronistas-pidieron-suspender-la-privatizacion-de-aysa-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T215236Z"
-    },
-    {
-     "title": "El mensaje de Milei al Papa tras el anuncio de su problema de salud: “Toda la Argentina lo acompaña”",
-     "url": "https://www.lanacion.com.ar/politica/el-mensaje-de-milei-al-papa-tras-el-anuncio-de-su-problema-de-salud-toda-la-argentina-lo-acompana-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T212716Z"
-    },
-    {
-     "title": "La Corte frenó a los jueces que recortan los honorarios de los abogados y debaten posibles sanciones en el Consejo",
-     "url": "https://www.lanacion.com.ar/politica/la-corte-freno-a-los-jueces-que-recortan-los-honorarios-de-los-abogados-y-debaten-posibles-sanciones-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T212630Z"
     }
    ]
   },
