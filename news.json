@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T07:56:48+00:00",
+ "updated": "2026-10-12T08:23:56+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -7,7 +7,7 @@
      "title": "Día de la Hispanidad y reacciones políticas en directo | IU insiste en tender la mano a Podemos: “En este proceso somos necesarias todas las organizaciones”",
      "url": "https://elpais.com/espana/2026-10-12/ultima-hora-del-dia-de-la-hispanidad-y-reacciones-politicas-en-directo.html",
      "domain": "El País",
-     "seendate": "20261012T074825Z"
+     "seendate": "20261012T080001Z"
     },
     {
      "title": "Martin Schulz: “Echar a una mujer de 87 años de la casa en la que ha vivido décadas es de una frialdad insuperable”",
@@ -82,6 +82,12 @@
      "seendate": "20261012T033001Z"
     },
     {
+     "title": "La jubilación del jefe de seguridad de la Asamblea sorprende a la Cámara sin un especialista que coordine a guardias civiles y agentes privados",
+     "url": "https://elpais.com/espana/madrid/2026-10-12/la-jubilacion-del-jefe-de-seguridad-de-la-asamblea-sorprende-a-la-camara-sin-un-especialista-que-coordine-a-guardias-civiles-y-agentes-privados.html",
+     "domain": "El País",
+     "seendate": "20261012T033001Z"
+    },
+    {
      "title": "De Bilbao a A Coruña, una vuelta por el norte de España para disfrutar del mejor arte",
      "url": "https://elpais.com/elviajero/escapadas/espana/2026-10-12/de-bilbao-a-a-coruna-una-vuelta-por-el-norte-de-espana-para-disfrutar-del-mejor-arte.html",
      "domain": "El País",
@@ -152,12 +158,6 @@
      "url": "https://elpais.com/espana/andalucia/2026-09-28/andalucia-a-la-cola-de-espana-en-comunidades-energeticas-pese-a-ser-la-region-con-mayor-potencial-solar.html",
      "domain": "El País",
      "seendate": "20261010T033001Z"
-    },
-    {
-     "title": "Los Dragones, el equipo de fútbol de Lavapiés, cortan una calle del centro de Madrid como protesta: “Queremos nuestro campo”",
-     "url": "https://elpais.com/espana/madrid/2026-10-09/los-dragones-el-equipo-de-futbol-de-lavapies-corta-una-calle-del-centro-de-madrid-como-protesta-queremos-nuestro-campo.html",
-     "domain": "El País",
-     "seendate": "20261009T162831Z"
     }
    ]
   },
@@ -1099,7 +1099,7 @@
      "title": "Javier Milei y sus medidas, EN VIVO: “Nos unimos en oración por su salud”, dijo el Presidente por la operación del Papa",
      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-nos-unimos-en-oracion-por-su-salud-dijo-el-presidente-por-la-nid12102026/",
      "domain": "La Nación",
-     "seendate": "20261012T064050Z"
+     "seendate": "20261012T080100Z"
     },
     {
      "title": "Mike McCloskey, dueño de un tambo de 20.000 vacas Holando: el emprendedor serial que convirtió un problema en un ingreso de miles de dólares",
@@ -1312,12 +1312,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/11/lex-in-rosa-renovacion-gremial-reunio-a-abogadas-en-jornada-de-confraternidad-y-concienciacion/",
      "domain": "ABC Color",
      "seendate": "20261011T224329Z"
-    },
-    {
-     "title": "Octubre Rosa: Directora del Incan llama a realizarse la mamografía y no postergar la consulta médica",
-     "url": "https://www.abc.com.py/nacionales/2026/10/11/octubre-rosa-directora-del-incan-llama-a-realizarse-la-mamografia-y-no-postergar-la-consulta-medica/",
-     "domain": "ABC Color",
-     "seendate": "20261011T223450Z"
     }
    ]
   },
@@ -1326,6 +1320,66 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "Círio de Nazaré: conheça a história da procissão que reúne milhões de fiéis há mais de 230 anos em Belém",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/12/cirio-de-nazare-conheca-a-historia-da-procissao-que-reune-milhoes-de-fieis-ha-mais-de-230-anos-em-belem.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261012T070000Z"
+    },
+    {
+     "title": "Judicialização dispara no TSE: processos contra Lula e Flávio já superam quase três vezes do que 2022",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/12/judicializacao-dispara-no-tse-processos-contra-lula-e-flavio-ja-superam-quase-tres-vezes-do-que-2022.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261012T063001Z"
+    },
+    {
+     "title": "Juristas criticam decisão de Nunes Marques de derrubar canal 'Exército de Lula' e defendem que caso precisa ir ao plenário",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/12/juristas-criticam-decisao-de-nunes-marques-de-derrubar-canal-exercito-de-lula-e-defendem-que-caso-precisa-ir-ao-plenario.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261012T063000Z"
+    },
+    {
+     "title": "Votação de Eduarda Campopiano em São Paulo foi alta mesmo em Pinheiros, seu pior desempenho",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/12/votacao-de-eduarda-campopiano-em-sao-paulo-foi-alta-mesmo-em-pinheiros-seu-pior-desempenho.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261012T063000Z"
+    },
+    {
+     "title": "Clubes de assinatura de livros infantis oferecem curadoria, mas hábito ainda depende da família",
+     "url": "https://oglobo.globo.com/brasil/educacao/noticia/2026/10/12/clubes-de-assinatura-de-livros-infantis-oferecem-curadoria-mas-habito-ainda-depende-da-familia.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261012T063000Z"
+    },
+    {
+     "title": "Entrevista: 'Esquerda precisa ter política muito mais dura contra facções', diz governador petista reeleito no Ceará",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/12/entrevista-esquerda-precisa-ter-politica-muito-mais-dura-contra-faccoes-diz-governador-petista-reeleito-no-ceara.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261012T063000Z"
+    },
+    {
+     "title": "Atropelo, 'Exército de Lula' fora do ar e retomada: decisões sobre canal de Janones ampliam guerra jurídica no TSE",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/12/atropelo-exercito-de-lula-fora-do-ar-e-retomada-decisoes-sobre-canal-de-janones-ampliam-guerra-juridica-no-tse.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261012T063000Z"
+    },
+    {
+     "title": "Nunes Marques definirá quando plenário do TSE vai analisar caso de canal pró-Lula no WhatsApp",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/12/nunes-marques-definira-quando-plenario-do-tse-vai-analisar-caso-de-canal-pro-lula-no-whatsapp.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261012T063000Z"
+    },
+    {
+     "title": "Corrida por cargos em eventual governo incomoda Flávio, que se manifesta contra 'picaretas'",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/12/corrida-por-cargos-em-eventual-governo-incomoda-flavio-que-se-manifesta-contra-picaretas.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261012T063000Z"
+    },
+    {
+     "title": "Crises e pauta moral impulsionam bolsonarismo e fazem PT perder espaço no Rio após vitórias em eleições presidenciais",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/12/crises-e-pauta-moral-impulsionam-bolsonarismo-e-fazem-pt-perder-espaco-no-rio-apos-vitorias-em-eleicoes-presidenciais.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261012T063000Z"
+    },
     {
      "title": "Incêndio de grandes proporções atinge Igreja Matriz de Treze de Maio, em Santa Catarina",
      "url": "https://oglobo.globo.com/brasil/noticia/2026/10/11/incendio-de-grandes-proporcoes-atinge-igreja-matriz-de-treze-de-maio-em-santa-catarina.ghtml",
@@ -1391,36 +1445,6 @@
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/11/lula-alckmin-e-aliados-participam-de-ato-na-avenida-paulista-neste-domingo.ghtml",
      "domain": "O Globo",
      "seendate": "20261011T165032Z"
-    },
-    {
-     "title": "Lula critica TSE por derrubar canal de WhatsApp: 'Decisões tendenciosas contra a nossa candidatura'",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/11/lula-critica-tse-por-derrubar-canal-de-whatsapp-decisoes-tendenciosas-contra-a-nossa-candidatura.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261011T162016Z"
-    },
-    {
-     "title": "Nunes Marques passa por cima de corregedor do TSE, atende pedido de Flávio Bolsonaro e manda derrubar canal 'Exército de Lula'",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/11/kassio-nunes-passa-por-cima-de-corregedor-atende-pedido-de-flavio-e-manda-derrubar-canal-exercito-de-lula.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261011T150424Z"
-    },
-    {
-     "title": "CNBB cita dia de Nossa Senhora e envia oração ao Papa Leão XIV: 'confiamos sua saúde à intercessão da Padroeira do Brasil'",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/11/cnbb-cita-dia-de-nossa-senhora-e-envia-oracao-ao-papa-leao-xiv-confiamos-sua-saude-a-intercessao-da-padroeira-do-brasil.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261011T130945Z"
-    },
-    {
-     "title": "PM atira 45 vezes e mata jovem durante abordagem na Zona Sul de SP",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/11/pm-atira-45-vezes-e-mata-jovem-durante-abordagem-em-sp.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261011T123957Z"
-    },
-    {
-     "title": "Influenciador brasileiro preso pelo ICE nos EUA é deportado após quase um mês; veja o que se sabe",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/11/influenciador-brasileiro-preso-pelo-ice-nos-eua-e-deportado-apos-quase-um-mes-veja-o-que-se-sabe.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261011T122355Z"
     }
    ]
   }
