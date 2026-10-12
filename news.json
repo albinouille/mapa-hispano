@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T23:48:36+00:00",
+ "updated": "2026-10-12T00:28:05+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -86,6 +86,12 @@
   "MEX": {
    "articles": [
     {
+     "title": "Morena llama a garantizar el derecho al agua en Jalisco; critica actos de represión ante el descontento social",
+     "url": "https://www.eluniversal.com.mx/nacion/morena-llama-a-garantizar-el-derecho-al-agua-en-jalisco-critica-actos-de-represion-ante-el-descontento-social/",
+     "domain": "El Universal",
+     "seendate": "20261012T001449Z"
+    },
+    {
      "title": "Morena CDMX reitera que no habrá \"predialazo\"; critican campaña del PAN que busca causar miedo",
      "url": "https://www.eluniversal.com.mx/metropoli/morena-cdmx-reitera-que-no-habra-predialazo-critican-campana-del-pan-que-busca-causar-miedo/",
      "domain": "El Universal",
@@ -140,7 +146,7 @@
      "seendate": "20261011T203447Z"
     },
     {
-     "title": "Clara Brugada inaugura la novena Utopía en Milpa Alta; invierten 180 millones de pesos en espacio gratuito",
+     "title": "Clara Brugada inaugura la novena Utopía en Milpa Alta; invierten 190 millones de pesos en espacio gratuito",
      "url": "https://www.eluniversal.com.mx/metropoli/clara-brugada-inaugura-la-novena-utopia-en-milpa-alta-invierten-180-millones-de-pesos-en-espacio-gratuito/",
      "domain": "El Universal",
      "seendate": "20261011T203156Z"
@@ -284,18 +290,6 @@
      "seendate": "20261011T150041Z"
     },
     {
-     "title": "Aseguran mil 201 kilogramos de narcóticos en San Luis Río Colorado; detienen a dos personas y decomisan una camioneta",
-     "url": "https://www.eluniversal.com.mx/estados/aseguran-mil-201-kilogramos-de-narcoticos-en-san-luis-rio-colorado-detienen-a-dos-personas-y-decomisan-una-camioneta/",
-     "domain": "El Universal",
-     "seendate": "20261011T140527Z"
-    },
-    {
-     "title": "El Centro Histórico de la CDMX resplandece en colores; se lleva a cabo el Paseo de Alebrijes Iluminados",
-     "url": "https://www.eluniversal.com.mx/metropoli/el-centro-historico-de-la-cdmx-resplandece-en-colores-se-lleva-a-cabo-el-paseo-de-alebrijes-iluminados/",
-     "domain": "El Universal",
-     "seendate": "20261011T133724Z"
-    },
-    {
      "title": "Birmex adquiere 2.5 millones de vacunas covid por 31 mil mdp; entrega de inmunización será hasta 2030",
      "url": "https://www.eluniversal.com.mx/nacion/birmex-adquiere-25-millones-de-vacunas-covid-por-31-mil-mdp-entrega-de-inmunizacion-sera-hasta-2030/",
      "domain": "El Universal",
@@ -386,6 +380,12 @@
   "CRI": {
    "articles": [
     {
+     "title": "Ovsicori registra más de 300 réplicas tras terremoto en Panamá",
+     "url": "https://www.nacion.com/el-pais/ovsicori-registra-mas-de-300-replicas-tras/ZQMWOZJKIZBRDG3TZLQPMXW64A/story/",
+     "domain": "La Nación",
+     "seendate": "20261012T000910Z"
+    },
+    {
      "title": "Sala Constitucional admite para revisión recurso de vecinos de Mora contra proyecto de relleno sanitario",
      "url": "https://www.nacion.com/el-pais/sala-constitucional-admite-para-revision-recurso/VTLJJQDURFENPGJX3GL6ZE5AXE/story/",
      "domain": "La Nación",
@@ -462,12 +462,6 @@
      "url": "https://www.nacion.com/politica/pln-inicia-eleccion-de-su-nueva-cupula-estos-son/KHWMWHBS5FBDXP3VHMLZNKUKDQ/story/",
      "domain": "La Nación",
      "seendate": "20261010T201547Z"
-    },
-    {
-     "title": "Candidatos a dirigir el PLN rechazan imposiciones en elección de nueva cúpula: ‘No necesito muletas ni padrinos’, afirma aspirante",
-     "url": "https://www.nacion.com/politica/candidatos-a-dirigir-el-pln-rechazan-imposiciones/6FKUYCIPIBALVNEVXN455J6SZI/story/",
-     "domain": "La Nación",
-     "seendate": "20261010T184707Z"
     }
    ]
   },
@@ -797,6 +791,18 @@
   "COL": {
    "articles": [
     {
+     "title": "Con la bendición del maestro Eddie Santiago, Ryan Castro grabó nueva versión de uno de los grandes clásicos del género en el Museo de la Salsa de Cali",
+     "url": "https://www.eltiempo.com/colombia/cali/con-la-bendicion-del-maestro-eddie-santiago-ryan-castro-grabo-nueva-version-de-uno-de-los-grandes-clasicos-del-genero-en-el-museo-de-la-salsa-de-cali-3592936",
+     "domain": "El Tiempo",
+     "seendate": "20261011T235845Z"
+    },
+    {
+     "title": "‘Quien se mete con los funcionarios del Gobierno, se mete con el Tigre’: De la Espriella tras atentado contra dos guardianes del Inpec en Barranquilla",
+     "url": "https://www.eltiempo.com/colombia/barranquilla/quien-se-mete-con-los-funcionarios-del-gobierno-se-mete-con-el-tigre-de-la-espriella-tras-atentado-contra-dos-guardianes-del-inpec-en-barranquilla-3592939",
+     "domain": "El Tiempo",
+     "seendate": "20261011T235743Z"
+    },
+    {
      "title": "Ciudadano australiano recibió 25 puñaladas en Medellín: investigan posible hurto tras salir de un evento",
      "url": "https://www.eltiempo.com/colombia/medellin/australiano-recibio-25-punaladas-en-medellin-tras-salir-del-festival-edc-investigan-posible-hurto-3592919",
      "domain": "El Tiempo",
@@ -843,18 +849,6 @@
      "url": "https://www.eltiempo.com/colombia/barranquilla/camaras-de-seguridad-siguieron-la-ruta-de-un-camion-robado-en-sabanalarga-y-permitieron-recuperarlo-en-soledad-cuatro-capturados-3592868",
      "domain": "El Tiempo",
      "seendate": "20261011T150100Z"
-    },
-    {
-     "title": "Consejo de Estado niega indemnización a familias de víctimas de la explosión del carrotanque en Tasajera, que dejó 45 muertos en el Magdalena en 2020",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/consejo-de-estado-niega-indemnizacion-a-familias-de-victimas-de-la-explosion-del-carrotanque-en-tasajera-que-dejo-45-muertos-en-el-magdalena-en-3592876",
-     "domain": "El Tiempo",
-     "seendate": "20261011T142147Z"
-    },
-    {
-     "title": "Atentado contra dos guardianes del Inpec en Barranquilla desata alerta del Gobierno: amenazas alcanzarían al presidente y al ministro de Justicia",
-     "url": "https://www.eltiempo.com/colombia/barranquilla/atentado-contra-dos-guardianes-del-inpec-en-barranquilla-desata-alerta-del-gobierno-amenazas-alcanzarian-al-presidente-y-al-ministro-de-justicia-3592861",
-     "domain": "El Tiempo",
-     "seendate": "20261011T125307Z"
     }
    ]
   },
@@ -882,6 +876,12 @@
   },
   "ECU": {
    "articles": [
+    {
+     "title": "Militares inhabilitan cuatro excavadoras y tres campamentos de minería ilegal en Taisha, con una afectación de $ 412.000 a las economías criminales",
+     "url": "https://eluniverso.com/politica/seguridad/militares-inhabilitan-cuatro-excavadoras-y-tres-campamentos-de-mineria-ilegal-en-taisha-con-una-afectacion-de-412000-a-las-economias-criminales-nota/",
+     "domain": "El Universo",
+     "seendate": "20261012T001938Z"
+    },
     {
      "title": "Militares capturan a presunta integrante de Los Águilas con armas, droga y prendas similares a uniformes policiales",
      "url": "https://eluniverso.com/politica/seguridad/militares-capturan-a-presunta-integrante-de-los-aguilas-con-armas-droga-y-prendas-similares-a-uniformes-policiales-nota/",
@@ -1090,6 +1090,36 @@
   "ARG": {
    "articles": [
     {
+     "title": "Un niño de 4 años murió tras ser atacado por un pitbull cuando estaba al cuidado de su madrina en Moreno",
+     "url": "https://www.lanacion.com.ar/sociedad/un-nino-de-4-anos-murio-tras-ser-atacado-por-un-pitbull-cuando-estaba-al-cuidado-de-su-madrina-en-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T002217Z"
+    },
+    {
+     "title": "Un diputado massista cruzó a Carlos Bianco en medio de la interna entre Kicillof y Cristina Kirchner",
+     "url": "https://www.lanacion.com.ar/politica/un-diputado-massista-cruzo-a-carlos-bianco-en-medio-de-la-interna-entre-kicillof-y-cristina-kirchner-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T000846Z"
+    },
+    {
+     "title": "Primavera política, invierno económico",
+     "url": "https://www.lanacion.com.ar/politica/primavera-politica-invierno-economico-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T000100Z"
+    },
+    {
+     "title": "Robin Sharma, especialista en crecimiento personal: “Un mal día para el ego es un buen día para el alma; aprendemos en la dificultad”",
+     "url": "https://www.lanacion.com.ar/sociedad/robin-sharma-especialista-en-crecimiento-personal-un-mal-dia-para-el-ego-es-un-buen-dia-para-el-alma-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261012T000000Z"
+    },
+    {
+     "title": "Investigación de la UCA: el principal factor detrás del fuerte aumento del riesgo alimentario en la Argentina",
+     "url": "https://www.lanacion.com.ar/sociedad/investigacion-de-la-uca-el-principal-factor-detras-del-fuerte-aumento-del-riesgo-alimentario-en-la-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261011T235441Z"
+    },
+    {
      "title": "El Gobierno comenzó el traslado de presos de la cárcel de Devoto a Marcos Paz",
      "url": "https://www.lanacion.com.ar/seguridad/el-gobierno-comenzo-el-traslado-de-presos-de-la-carcel-de-devoto-a-marcos-paz-nid11102026/",
      "domain": "La Nación",
@@ -1238,24 +1268,6 @@
      "url": "https://www.lanacion.com.ar/politica/uruguay-y-chile-intensifican-las-relaciones-comerciales-con-las-malvinas-nid11102026/",
      "domain": "La Nación",
      "seendate": "20261011T183549Z"
-    },
-    {
-     "title": "Aterosclerosis y trombosis: alimentaron animales con remolacha forrajera y el resultado fue sorprendente",
-     "url": "https://www.lanacion.com.ar/economia/campo/aterosclerosis-y-trombosis-alimentaron-animales-con-remolacha-forrajera-y-el-resultado-fue-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T180458Z"
-    },
-    {
-     "title": "Qué son las cadenas miofasciales: los ejercicios disruptivos que revolucionaron la forma de practicar el método pilates",
-     "url": "https://www.lanacion.com.ar/sociedad/que-son-las-cadenas-miofasciales-los-ejercicios-disruptivos-que-revolucionaron-la-forma-de-practicar-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T180000Z"
-    },
-    {
-     "title": "Mario Alonso Puig, médico y referente en desarrollo personal: “El miedo casi nunca aparece donde no hay nada que valga la pena”",
-     "url": "https://www.lanacion.com.ar/sociedad/mario-alonso-puig-medico-y-referente-en-desarrollo-personal-el-miedo-casi-nunca-aparece-donde-no-hay-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261011T170000Z"
     }
    ]
   },
@@ -1312,12 +1324,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/11/cardenal-martinez-lamento-el-feminicidio-de-deisy-paola-esto-fue-lo-que-dijo/",
      "domain": "ABC Color",
      "seendate": "20261011T173513Z"
-    },
-    {
-     "title": "Pilar: distinguen a ciudadanos y a instituciones por su aporte a la comunidad",
-     "url": "https://www.abc.com.py/nacionales/2026/10/11/pilar-distinguen-a-ciudadanos-y-a-instituciones-por-su-aporte-a-la-comunidad/",
-     "domain": "ABC Color",
-     "seendate": "20261011T171650Z"
     },
     {
      "title": "Aumenta la cantidad de damnificados en Ciudad del Este",
