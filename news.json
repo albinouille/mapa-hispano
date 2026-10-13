@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T23:30:37+00:00",
+ "updated": "2026-10-13T23:58:49+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -187,6 +187,24 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Trabajadores del IMSS marchan en la CDMX; exigen aumento salarial, abasto de medicamentos e insumos médicos",
+     "url": "https://www.eluniversal.com.mx/nacion/trabajadores-del-imss-marchan-en-la-cdmx-exigen-aumento-salarial-abasto-de-medicamentos-e-insumos-medicos/",
+     "domain": "El Universal",
+     "seendate": "20261013T232957Z"
+    },
+    {
+     "title": "Puerto de Manzanillo encabeza recaudación aduanera en julio y agosto: Marina; ingresos superan los 36 mil mdp",
+     "url": "https://www.eluniversal.com.mx/nacion/puerto-de-manzanillo-encabeza-recaudacion-aduanera-en-julio-y-agosto-marina-ingresos-superan-los-36-mil-mdp/",
+     "domain": "El Universal",
+     "seendate": "20261013T232432Z"
+    },
+    {
+     "title": "Tras críticas por represión y detenciones en protesta, gobernador de Jalisco admite exceso policial; actuación de agentes, bajo cuestionamiento",
+     "url": "https://www.eluniversal.com.mx/estados/pablo-lemus-reconoce-uso-excesivo-de-la-fuerza-en-marcha-por-agua-contaminada-en-guadalajara-personas-detenidas-recuperaron-su-libertad-dice/",
+     "domain": "El Universal",
+     "seendate": "20261013T232029Z"
+    },
     {
      "title": "Diputados locales de Morena piden ajustar redacción del Programa de Ordenación de ZMVM; buscan evitar malinterpretación sobre predial",
      "url": "https://www.eluniversal.com.mx/metropoli/diputados-locales-de-morena-piden-ajustar-redaccion-del-programa-de-ordenacion-de-zmvm-buscan-evitar-malinterpretacion-sobre-predial/",
@@ -386,18 +404,6 @@
      "seendate": "20261013T183939Z"
     },
     {
-     "title": "Montiel no descarta eventual candidatura de Citlalli Hernández a la Cuauhtémoc; \"está enfocada en su responsabilidad\", dice",
-     "url": "https://www.eluniversal.com.mx/nacion/montiel-no-descarta-eventual-candidatura-de-citlalli-hernandez-a-la-cuauhtemoc-esta-enfocada-en-su-responsabilidad-dice/",
-     "domain": "El Universal",
-     "seendate": "20261013T182012Z"
-    },
-    {
-     "title": "Morena exige renuncia del secretario de Seguridad de Jalisco por represión en marcha del agua; \"nos indigna mucho\", dice Montiel",
-     "url": "https://www.eluniversal.com.mx/nacion/morena-exige-renuncia-del-secretario-de-seguridad-de-jalisco-por-represion-en-marcha-del-agua-nos-indigna-mucho-dice-montiel/",
-     "domain": "El Universal",
-     "seendate": "20261013T175843Z"
-    },
-    {
      "title": "Marcha nacional del personal médico; minuto a minuto de la movilización de este 13 de octubre",
      "url": "https://www.eluniversal.com.mx/nacion/marcha-nacional-del-personal-medico-minuto-a-minuto-de-la-movilizacion-de-este-13-de-octubre/",
      "domain": "El Universal",
@@ -499,6 +505,18 @@
   },
   "CRI": {
    "articles": [
+    {
+     "title": "Alcalde de San José impide que subdirector jurídico asuma jefatura alegando un ‘conflicto’ entre ambos y designa a su asesor",
+     "url": "https://www.nacion.com/el-pais/alcalde-de-san-jose-impide-que-subdirector/NLMN2NSWFREO5CGMIG2PA7WEHI/story/",
+     "domain": "La Nación",
+     "seendate": "20261013T234629Z"
+    },
+    {
+     "title": "Aparente balacera en el corazón de San Pedro moviliza a la Cruz Roja. Habría dos heridos",
+     "url": "https://www.nacion.com/sucesos/dos-posibles-heridos-por-arma-de-fuego-cerca-del/64UMTUA7ANEOZN4PEFTUDZOZPY/story/",
+     "domain": "La Nación",
+     "seendate": "20261013T234131Z"
+    },
     {
      "title": "Obesidad, la puerta de entrada a otras enfermedades crónicas, sigue aumentando en Costa Rica",
      "url": "https://www.nacion.com/el-pais/obesidad-la-puerta-de-entrada-a-otras-enfermedades/ECLICE6TANFYPBPID36NHSGJNU/story/",
@@ -672,25 +690,19 @@
      "url": "https://www.nacion.com/sucesos/don-stockwell-asegura-que-alias-sobrino-no-quiso/YJWFZ6XTPRFATOI7Y6WYLB6HYU/story/",
      "domain": "La Nación",
      "seendate": "20261012T233813Z"
-    },
-    {
-     "title": "Fuerte temblor de magnitud 6,5 sacudió Costa Rica y Panamá este lunes",
-     "url": "https://www.nacion.com/sucesos/temblor-de-magnitud-58-sacudio-zona-fronteriza/Z6ADTBHI4BFYPGIAUQGJFD2LEQ/story/",
-     "domain": "La Nación",
-     "seendate": "20261012T233203Z"
-    },
-    {
-     "title": "Sala Constitucional declara con lugar recurso contra Hacienda por omitir información sobre protección de datos de personas",
-     "url": "https://www.nacion.com/el-pais/sala-constitucional-declara-con-lugar-recurso/3WEVGH5DQFDAHGXQCM2HQDTNY4/story/",
-     "domain": "La Nación",
-     "seendate": "20261012T232855Z"
     }
    ]
   },
   "PAN": {
    "articles": [
     {
-     "title": "En vivo: Gobierno actualiza informe sobre el terremoto en Panamá",
+     "title": "Universidad de Panamá mantendrá clases virtuales hasta el 18 de octubre tras terremoto",
+     "url": "https://www.prensa.com/sociedad/universidad-de-panama-mantendra-clases-virtuales-hasta-el-18-de-octubre-tras-terremoto/",
+     "domain": "La Prensa",
+     "seendate": "20261013T232000Z"
+    },
+    {
+     "title": "En directo: Gobierno actualiza informe sobre el terremoto en Panamá",
      "url": "https://www.prensa.com/politica/en-vivo-gobierno-actualiza-informe-sobre-el-terremoto-en-panama/",
      "domain": "La Prensa",
      "seendate": "20261013T230320Z"
@@ -820,12 +832,6 @@
      "url": "https://www.prensa.com/sociedad/lo-que-el-gobierno-presenta-como-un-cierre-es-una-explotacion-minera-que-dura-decadas-carlos-bichet/",
      "domain": "La Prensa",
      "seendate": "20261011T050300Z"
-    },
-    {
-     "title": "Terremoto en Panamá: el secreto de las edificaciones, las normas sísmicas y la falla de San Andrés",
-     "url": "https://www.prensa.com/politica/terremoto-en-panama-el-secreto-de-las-edificaciones-las-normas-sismicas-y-la-falla-de-san-andres/",
-     "domain": "La Prensa",
-     "seendate": "20261011T050100Z"
     },
     {
      "title": "¿Por qué no se pueden comparar los terremotos de Venezuela y Panamá?",
@@ -971,10 +977,22 @@
   "COL": {
    "articles": [
     {
+     "title": "El drama invisible de los habitantes de calle en Cali: desplazamiento y rechazo tras los operativos en el centro",
+     "url": "https://www.eltiempo.com/colombia/cali/el-drama-invisible-de-los-habitantes-de-calle-en-cali-desplazamiento-y-rechazo-tras-los-operativos-en-el-centro-3593332",
+     "domain": "El Tiempo",
+     "seendate": "20261013T234729Z"
+    },
+    {
+     "title": "Ataque con drones de las disidencias deja cinco civiles heridos en El Queremal, Valle: se suma al atentado con explosivos en zona rural de Jamundí",
+     "url": "https://www.eltiempo.com/colombia/cali/ataque-con-drones-de-las-disidencias-de-las-farc-deja-cinco-civiles-heridos-en-el-queremal-valle-se-suma-al-ataque-con-explosivos-en-zona-de-jamundi-3593329",
+     "domain": "El Tiempo",
+     "seendate": "20261013T234704Z"
+    },
+    {
      "title": "Conmoción por el asesinato de Isabella Prado en Florida, Valle: estas son las hipótesis del caso en el suroriente del departamento",
      "url": "https://www.eltiempo.com/colombia/cali/conmocion-por-el-asesinato-de-isabella-prado-en-florida-valle-hipotesis-y-senalamientos-de-un-politico-que-califico-el-hecho-como-feminicidio-3593308",
      "domain": "El Tiempo",
-     "seendate": "20261013T225909Z"
+     "seendate": "20261013T234220Z"
     },
     {
      "title": "Fuerte temblor en Colombia este 13 de octubre: reportan sismo de magnitud 5,0 e internautas aseguran haberlo sentido en Bucaramanga y otras ciudades",
@@ -1017,18 +1035,6 @@
      "url": "https://www.eltiempo.com/colombia/cali/disidentes-lanzaron-explosivo-contra-la-policia-en-el-corregimiento-de-potrerito-en-jamundi-valle-lo-que-se-sabe-de-la-nueva-accion-terrorista-3593267",
      "domain": "El Tiempo",
      "seendate": "20261013T203519Z"
-    },
-    {
-     "title": "Esta es la alianza con la ONU para frenar el tráfico de fauna silvestre en el Valle: ¿cómo la región logró sembrar más de 13 millones de árboles?",
-     "url": "https://www.eltiempo.com/colombia/cali/mas-de-13-millones-de-arboles-sembrados-en-el-valle-del-cauca-y-la-alianza-estrategica-con-la-onu-para-frenar-el-trafico-de-fauna-silvestre-3593255",
-     "domain": "El Tiempo",
-     "seendate": "20261013T194830Z"
-    },
-    {
-     "title": "El reconocido defensor de los derechos de los presos en Santander está grave de salud y hoy lucha por una atención de su EPS en Bucaramanga",
-     "url": "https://www.eltiempo.com/colombia/santander/el-reconocido-defensor-de-los-derechos-de-los-presos-en-santander-esta-grave-de-salud-y-hoy-lucha-por-una-atencion-de-su-eps-en-bucaramanga-3593258",
-     "domain": "El Tiempo",
-     "seendate": "20261013T194301Z"
     }
    ]
   },
@@ -1227,12 +1233,6 @@
      "url": "https://elcomercio.pe/economia/peru/ministro-de-energia-senala-que-adenda-de-calidda-para-llevar-gas-a-siete-regiones-sigue-en-evaluacion-y-admite-diferencias-con-osinergmin-l-ultimas-noticia/",
      "domain": "El Comercio",
      "seendate": "20261012T152308Z"
-    },
-    {
-     "title": "Julio Velarde: “En el BCR hay mucha gente que puede sustituirme, pero no cualquiera tampoco”",
-     "url": "https://elcomercio.pe/economia/peru/julio-velarde-en-el-bcr-hay-mucha-gente-que-puede-sustituirme-pero-no-cualquiera-tampoco-l-ultimas-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261009T213700Z"
     }
    ]
   },
@@ -1252,10 +1252,34 @@
   "ARG": {
    "articles": [
     {
+     "title": "Arthur Brooks, experto de Harvard, de 62 años: “Lo que hacen las personas felices y exitosas en la segunda mitad de sus vidas es pasar de sumar a restar”",
+     "url": "https://www.lanacion.com.ar/sociedad/arthur-brooks-experto-de-harvard-de-62-anos-lo-que-hacen-las-personas-felices-y-exitosas-en-la-nid08102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T234100Z"
+    },
+    {
+     "title": "Javier Milei y sus medidas, EN VIVO: el Gobierno le envió un mensaje al papa León XIV, que salió con éxito de la operación",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-dijo-que-el-gobierno-estaria-dispuesto-a-ajustar-la-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T234000Z"
+    },
+    {
+     "title": "La reflexión de Descartes sobre la duda: “Si no pienso, luego me doy cuenta que tengo que estar existiendo, porque si yo no existo, no pienso”",
+     "url": "https://www.lanacion.com.ar/sociedad/la-reflexion-de-descartes-sobre-la-duda-si-no-pienso-luego-me-doy-cuenta-que-tengo-que-estar-nid07102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T234000Z"
+    },
+    {
+     "title": "Uno de cada tres argentinos va a tener algún problema de salud mental en el transcurso de su vida, según estudios recientes",
+     "url": "https://www.lanacion.com.ar/sociedad/uno-de-cada-tres-argentinos-va-a-tener-algun-problema-de-salud-mental-en-el-transcurso-de-su-vida-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T233700Z"
+    },
+    {
      "title": "Revelan la identidad del presunto espía en OpenAI: es un ingeniero saudita y ya compareció ante la Justicia",
      "url": "https://www.lanacion.com.ar/economia/IA/revelan-la-identidad-del-presunto-espia-en-openai-es-un-ingeniero-saudita-y-ya-comparecio-ante-la-nid13102026/",
      "domain": "La Nación",
-     "seendate": "20261013T232711Z"
+     "seendate": "20261013T232754Z"
     },
     {
      "title": "En julio hubo 12.716 asalariados registrados menos y suman casi 266.000 en la gestión Milei",
@@ -1268,12 +1292,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/la-salud-del-papa-que-es-un-adenocarcinoma-pulmonar-como-se-trata-y-que-pronostico-tiene-nid13102026/",
      "domain": "La Nación",
      "seendate": "20261013T231217Z"
-    },
-    {
-     "title": "Javier Milei y sus medidas, EN VIVO: el Gobierno le envió un mensaje al papa León XIV, que salió con éxito de la operación",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-dijo-que-el-gobierno-estaria-dispuesto-a-ajustar-la-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T231000Z"
     },
     {
      "title": "Día del Psicólogo: por qué se celebra hoy y las mejores frases para enviar por WhatsApp",
@@ -1412,18 +1430,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/robin-sharma-especialista-en-crecimiento-personal-un-mal-dia-para-el-ego-es-un-buen-dia-para-el-alma-nid11102026/",
      "domain": "La Nación",
      "seendate": "20261013T214200Z"
-    },
-    {
-     "title": "En el juicio por la muerte de Maradona no solo pidieron condenas: también reclamaron que se investigue al exdirector de la Clínica Olivos",
-     "url": "https://www.lanacion.com.ar/seguridad/en-el-juicio-por-la-muerte-de-maradona-no-solo-pidieron-condenas-tambien-reclamaron-que-se-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T213310Z"
-    },
-    {
-     "title": "El primero en su tipo: la Ciudad suma en el sistema de salud público un equipo clave para diagnósticos en oncología",
-     "url": "https://www.lanacion.com.ar/sociedad/tomar-mejores-decisiones-la-ciudad-suma-en-el-sistema-de-salud-publico-un-equipo-clave-para-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T212727Z"
     }
    ]
   },
@@ -1439,6 +1445,12 @@
   },
   "PRY": {
    "articles": [
+    {
+     "title": "Familias aisladas por falta de puente urgen asistencia estatal en Amambay",
+     "url": "https://www.abc.com.py/nacionales/2026/10/13/familias-aisladas-por-falta-de-puente-urgen-asistencia-estatal-en-amambay/",
+     "domain": "ABC Color",
+     "seendate": "20261013T233512Z"
+    },
     {
      "title": "Cruz Roja actualiza aranceles de servicios médicos y estos son los costos",
      "url": "https://www.abc.com.py/nacionales/2026/10/13/cruz-roja-actualiza-aranceles-de-servicios-medicos-y-estos-son-los-costos/",
@@ -1458,6 +1470,12 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "PGR diz que não há provas contra cúpula da PF, contesta Mendonça e pede que plenário do STF encerre disputa",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/13/pgr-diz-que-nao-ha-provas-contra-cupula-da-pf-contesta-mendonca-e-pede-que-plenario-do-stf-encerre-disputa.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261013T235253Z"
+    },
     {
      "title": "Vorcaro diz querer falar de ‘forma objetiva e transparente' sobre suas relações",
      "url": "https://oglobo.globo.com/politica/noticia/2026/10/13/vorcaro-diz-querer-falar-de-forma-objetiva-e-transparente-sobre-suas-relacoes-apos-mensagens-em-que-pede-por-refugiada.ghtml",
