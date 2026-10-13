@@ -1,13 +1,19 @@
 {
- "updated": "2026-10-13T10:54:05+00:00",
+ "updated": "2026-10-13T11:21:06+00:00",
  "countries": {
   "ESP": {
    "articles": [
     {
-     "title": "Última hora de la actualidad política, en directo | Ceuta recibe entusiasmada a los Reyes en su histórica visita a la ciudad dos meses después de la crisis",
-     "url": "https://elpais.com/espana/2026-10-13/ultima-hora-de-la-actualidad-politica-y-de-la-visita-de-los-reyes-a-ceuta-en-directo.html",
+     "title": "Última hora de la visita de los Reyes a Ceuta, en directo | Ceuta recibe entusiasmada a los Reyes en su histórica visita a la ciudad dos meses después de la crisis",
+     "url": "https://elpais.com/espana/2026-10-13/ultima-hora-de-la-visita-de-los-reyes-a-ceuta-en-directo.html",
      "domain": "El País",
-     "seendate": "20261013T104103Z"
+     "seendate": "20261013T111331Z"
+    },
+    {
+     "title": "Gallardo niega amaños para favorecer a David Sánchez y pide anular su condena: “Ni siquiera sabía de su existencia”",
+     "url": "https://elpais.com/espana/2026-10-13/gallardo-niega-amanos-para-favorecer-a-david-sanchez-y-pide-anular-su-condena-ni-siquiera-sabia-de-su-existencia.html",
+     "domain": "El País",
+     "seendate": "20261013T110640Z"
     },
     {
      "title": "El PP y UPN alcanzan un principio de acuerdo para ir en coalición el 29-N",
@@ -16,7 +22,7 @@
      "seendate": "20261013T102617Z"
     },
     {
-     "title": "Irene Montero confirma “conversaciones” con el Frente Amplio: “Lo importante es llegar a buen puerto”",
+     "title": "Podemos da la vuelta a la oferta del Frente Amplio y lo invita a “sumarse” a su alianza con ERC",
      "url": "https://elpais.com/espana/elecciones-generales/2026-10-13/montero-confirma-conversaciones-con-el-frente-amplio-lo-importante-es-llegar-a-buen-puerto.html",
      "domain": "El País",
      "seendate": "20261013T101639Z"
@@ -372,24 +378,6 @@
      "url": "https://www.eluniversal.com.mx/nacion/cndh-llama-a-jalisco-a-garantizar-el-derecho-a-la-protesta-tras-marcha-por-el-agua-ofrece-colaboracion-institucional/",
      "domain": "El Universal",
      "seendate": "20261013T011639Z"
-    },
-    {
-     "title": "Activan doble alerta en 9 alcaldías de la CDMX este lunes 12 de octubre; prevén posible caída de granizo",
-     "url": "https://www.eluniversal.com.mx/metropoli/activan-alerta-amarilla-en-9-alcaldias-de-la-cdmx-este-lunes-12-de-octubre-preven-posible-caida-de-granizo/",
-     "domain": "El Universal",
-     "seendate": "20261013T002241Z"
-    },
-    {
-     "title": "Escuinapa enfrenta alerta del huracán Simon sin coordinador de protección civil tras su asesinato; alistan albergues",
-     "url": "https://www.eluniversal.com.mx/estados/escuinapa-enfrenta-alerta-del-huracan-simon-sin-coordinador-de-proteccion-civil-tras-su-asesinato-alistan-albergues/",
-     "domain": "El Universal",
-     "seendate": "20261012T213758Z"
-    },
-    {
-     "title": "Controlan fuga de combustible por toma clandestina en la Refinería Bicentenario; Hidalgo suma mil 467 conexiones ilegales en 2026",
-     "url": "https://www.eluniversal.com.mx/estados/controlan-fuga-de-combustible-por-toma-clandestina-en-la-refineria-bicentenario-hidalgo-suma-mil-467-conexiones-ilegales-en-2026/",
-     "domain": "El Universal",
-     "seendate": "20261012T195712Z"
     },
     {
      "title": "Huracán Simon baja a categoría 1 frente a costas mexicanas; sigue EN VIVO su trayectoria y afectaciones",
@@ -862,6 +850,12 @@
   "CUB": {
    "articles": [
     {
+     "title": "Cafecito informativo del martes 13 de octubre de 2026",
+     "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-martes-13-octubre_7_1131894.html",
+     "domain": "14ymedio",
+     "seendate": "20261013T110131Z"
+    },
+    {
      "title": "Una candidata demócrata en Florida estima que 13.000 cubanos fueron deportados en los dos mandatos de Trump",
      "url": "https://www.14ymedio.com/cuba/candidata-democrata-florida-estima-13_1_1131891.html",
      "domain": "14ymedio",
@@ -1063,6 +1057,12 @@
   "ECU": {
    "articles": [
     {
+     "title": "Contraloría General identifica presuntas inconsistencias en contratos para la construcción de tres hospitales de Cuenca durante la administración de Cristian Zamora",
+     "url": "https://eluniverso.com/politica/gobiernos-locales/contraloria-identifica-presuntas-inconsistencias-contratos-construccion-tres-hospitales-cuenca-durante-administracion-cristian-zamora-nota/",
+     "domain": "El Universo",
+     "seendate": "20261013T111500Z"
+    },
+    {
      "title": "Pronóstico del clima para este martes 13 de octubre: tormentas en horas de la tarde y alerta por lluvias en Ecuador",
      "url": "https://eluniverso.com/comunidad/ecuador/pronostico-del-clima-para-este-martes-13-de-octubre-tormentas-en-horas-de-la-tarde-y-alerta-por-lluvias-en-ecuador-nota/",
      "domain": "El Universo",
@@ -1163,22 +1163,34 @@
      "url": "https://eluniverso.com/politica/asamblea-nacional/el-ecuador-de-ahora-es-lo-que-es-por-lo-que-se-hizo-en-guayaquil-hace-206-anos-dice-esteban-torres-nota/",
      "domain": "El Universo",
      "seendate": "20261008T170926Z"
-    },
-    {
-     "title": "Exámenes, visado y hasta ocho postulaciones: así se puede aplicar a Opportunity Funds, fondo de ayuda a ecuatorianos para estudiar en EE. UU.",
-     "url": "https://eluniverso.com/noticias/politica/examenes-visado-y-hasta-ocho-postulaciones-asi-se-puede-aplicar-al-fondo-de-ayuda-a-ecuatorianos-para-estudiar-en-ee-uu-nota/",
-     "domain": "El Universo",
-     "seendate": "20261008T165129Z"
     }
    ]
   },
   "PER": {
    "articles": [
     {
+     "title": "Biministro de Economía y Minería de Chile: “Al 2035 casi toda la nueva oferta de cobre del planeta saldrá del Cono Sur de América Latina”",
+     "url": "https://elcomercio.pe/economia/peru/biministro-de-economia-y-mineria-de-chile-hacia-2035-practicamente-toda-la-nueva-oferta-significativa-de-cobre-del-planeta-saldra-del-cono-sur-de-america-latina-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261013T110001Z"
+    },
+    {
      "title": "IGP Temblor en el Perú hoy, 13 de octubre: último sismo, lugar y magnitud",
      "url": "https://elcomercio.pe/peru/temblor-hoy-en-peru-en-vivo-reportes-del-igp-lugar-magnitud-y-ultimo-minuto-tdpe-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261013T050515Z"
+     "seendate": "20261013T110001Z"
+    },
+    {
+     "title": "Daniel Velandia, economista jefe de Credicorp Capital: “Si las condiciones se dan después de El Niño, al 2028 podremos crecer más de 4%”",
+     "url": "https://elcomercio.pe/economia/peru/daniel-velandia-economista-jefe-de-credicorp-capital-si-las-condiciones-se-dan-despues-de-el-nino-al-2028-podremos-ver-un-crecimiento-superior-al-4-apuesplan-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261013T110001Z"
+    },
+    {
+     "title": "El Niño adelanta el cierre del año escolar: las nueve regiones afectadas y cómo recuperarán las clases",
+     "url": "https://elcomercio.pe/peru/el-nino-adelanta-el-cierre-del-ano-escolar-las-nueve-regiones-afectadas-y-como-recuperaran-las-clases-apuesplan-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261013T110000Z"
     }
    ]
   },
@@ -1198,16 +1210,58 @@
   "ARG": {
    "articles": [
     {
-     "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este martes 13 de octubre, minuto a minuto",
-     "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid13102026/",
+     "title": "Se aproxima un “bloqueo en la circulación atmosférica” que prolongará el mal tiempo y las tormentas: las zonas afectadas",
+     "url": "https://www.lanacion.com.ar/sociedad/se-aproxima-un-bloqueo-en-la-circulacion-atmosferica-que-prolongara-el-mal-tiempo-y-las-tormentas-nid12102026/",
      "domain": "La Nación",
-     "seendate": "20261013T104225Z"
+     "seendate": "20261013T110901Z"
+    },
+    {
+     "title": "Súper Niño 2026: qué se sabe del fenómeno que cambiará el pronóstico de la Argentina y llegará pronto a su pico máximo",
+     "url": "https://www.lanacion.com.ar/sociedad/super-nino-2026-que-se-sabe-del-fenomeno-que-cambiara-por-completo-el-clima-en-la-argentina-y-nid05102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T110738Z"
+    },
+    {
+     "title": "Hay alerta naranja y amarilla por tormentas, lluvias y vientos para este martes 13 de octubre: las provincias afectadas",
+     "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-naranja-y-amarilla-por-tormentas-lluvias-y-vientos-para-este-martes-13-de-octubre-las-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T110516Z"
+    },
+    {
+     "title": "Los psicólogos coinciden: no es fácil saber qué se desea porque entre el deseo y uno mismo se interponen deseos ajenos y mandatos",
+     "url": "https://www.lanacion.com.ar/sociedad/los-psicologos-coinciden-no-es-facil-saber-que-se-desea-porque-entre-el-deseo-y-uno-mismo-se-nid10102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T110220Z"
+    },
+    {
+     "title": "Arthur Brooks, experto en felicidad de Harvard: “Hay una inteligencia que nace a partir de los 40 años”",
+     "url": "https://www.lanacion.com.ar/sociedad/arthur-brooks-experto-en-felicidad-de-harvard-hay-una-inteligencia-que-nace-a-partir-de-los-40-anos-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T110213Z"
+    },
+    {
+     "title": "Gabriel Rolón, psicoanalista, sobre los recuerdos: “Nuestros padres que ya no están se transforman en personas por ahí más nobles de lo que fueron”",
+     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-sobre-los-recuerdos-nuestros-padres-que-ya-no-estan-se-transforman-en-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T110152Z"
+    },
+    {
+     "title": "Robin Sharma, especialista en crecimiento personal: “Un mal día para el ego es un buen día para el alma; aprendemos en la dificultad”",
+     "url": "https://www.lanacion.com.ar/sociedad/robin-sharma-especialista-en-crecimiento-personal-un-mal-dia-para-el-ego-es-un-buen-dia-para-el-alma-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T110146Z"
     },
     {
      "title": "Javier Milei y sus medidas, EN VIVO: el Presidente dijo que el Gobierno estaría dispuesto a ajustar la fecha de la visita del Papa",
      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-dijo-que-el-gobierno-estaria-dispuesto-a-ajustar-la-nid13102026/",
      "domain": "La Nación",
-     "seendate": "20261013T103258Z"
+     "seendate": "20261013T110006Z"
+    },
+    {
+     "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este martes 13 de octubre, minuto a minuto",
+     "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T104225Z"
     },
     {
      "title": "Fecha de cobro de Anses: el cronograma de pagos para este martes 13 de octubre",
@@ -1238,12 +1292,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/de-un-vaso-descartable-a-una-bota-los-inesperados-residuos-humanos-hallados-a-miles-de-metros-bajo-nid13102026/",
      "domain": "La Nación",
      "seendate": "20261013T090001Z"
-    },
-    {
-     "title": "Hay alerta naranja y amarilla por tormentas, lluvias y vientos para este martes 13 de octubre: las provincias afectadas",
-     "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-naranja-y-amarilla-por-tormentas-lluvias-y-vientos-para-este-martes-13-de-octubre-las-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T070730Z"
     },
     {
      "title": "Estanislao Bachrach, biólogo y experto en neurociencia: “Cambiar la forma de respirar calma el dolor, pero sobre todo desaparece el sufrimiento”",
@@ -1300,12 +1348,6 @@
      "seendate": "20261013T053056Z"
     },
     {
-     "title": "Gabriel Rolón, psicoanalista, sobre los recuerdos: “Nuestros padres que ya no están se transforman en personas por ahí más nobles de lo que fueron”",
-     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-sobre-los-recuerdos-nuestros-padres-que-ya-no-estan-se-transforman-en-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T050000Z"
-    },
-    {
      "title": "El Gobierno promulgó la ley que modifica el régimen de zonas frías",
      "url": "https://www.lanacion.com.ar/politica/el-gobierno-promulgo-la-ley-que-modifica-el-regimen-de-zonas-frias-nid13102026/",
      "domain": "La Nación",
@@ -1358,48 +1400,6 @@
      "url": "https://www.lanacion.com.ar/economia/campo/aterosclerosis-y-trombosis-alimentaron-animales-con-remolacha-forrajera-y-el-resultado-fue-nid11102026/",
      "domain": "La Nación",
      "seendate": "20261013T021956Z"
-    },
-    {
-     "title": "Una pelea en el transporte automotor generó una disputa judicial sin precedentes",
-     "url": "https://www.lanacion.com.ar/economia/una-pelea-en-el-transporte-automotor-genero-una-disputa-judicial-sin-precedentes-nid12102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T021949Z"
-    },
-    {
-     "title": "Detuvieron en Perú a “Papá“, uno de los prófugos del triple crimen de Florencio Varela",
-     "url": "https://www.lanacion.com.ar/seguridad/detuvieron-en-peru-a-papa-uno-de-los-profugos-del-triple-crimen-de-florencio-varela-nid12102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T020422Z"
-    },
-    {
-     "title": "El FMI hizo un fuerte recorte de la previsión de crecimiento de la Argentina para este año",
-     "url": "https://www.lanacion.com.ar/economia/el-fmi-hizo-un-fuerte-recorte-de-la-prevision-de-crecimiento-de-la-argentina-para-este-ano-nid12102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T020000Z"
-    },
-    {
-     "title": "“Se nos viene la noche”: la crecida del río Uruguay por El Niño enciende las alarmas en los campos de Corrientes y Entre Ríos",
-     "url": "https://www.lanacion.com.ar/economia/campo/se-nos-viene-la-noche-la-crecida-del-rio-uruguay-por-el-nino-enciende-las-alarmas-en-los-campos-de-nid12102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T015544Z"
-    },
-    {
-     "title": "Quebró uno de los aserraderos productores de pallets más grandes del país",
-     "url": "https://www.lanacion.com.ar/economia/campo/quebro-uno-de-los-aserraderos-productores-de-pallets-mas-grandes-del-pais-nid12102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T015415Z"
-    },
-    {
-     "title": "Los psicólogos coinciden: no es fácil saber qué se desea porque entre el deseo y uno mismo se interponen deseos ajenos y mandatos",
-     "url": "https://www.lanacion.com.ar/sociedad/los-psicologos-coinciden-no-es-facil-saber-que-se-desea-porque-entre-el-deseo-y-uno-mismo-se-nid10102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T012900Z"
-    },
-    {
-     "title": "Una alerta del FBI por amenazas en ChatGPT permitió descubrir un plan para realizar tiroteos en escuelas de Chaco",
-     "url": "https://www.lanacion.com.ar/seguridad/una-alerta-del-fbi-por-amenazas-en-chatgpt-permitio-descubrir-un-plan-para-realizar-tiroteos-en-nid12102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T010928Z"
     }
    ]
   },
@@ -1415,6 +1415,12 @@
   },
   "PRY": {
    "articles": [
+    {
+     "title": "Cierre de avenida en la Costanera Norte genera congestión en Asunción",
+     "url": "https://www.abc.com.py/nacionales/2026/10/13/cierre-de-avenida-en-la-costanera-norte-genera-congestion-en-asuncion/",
+     "domain": "ABC Color",
+     "seendate": "20261013T105552Z"
+    },
     {
      "title": "Cierran tramo de la Costanera por campeonato de skate",
      "url": "https://www.abc.com.py/nacionales/2026/10/13/cierran-tramo-de-la-costanera-por-campeonato-de-skate/",
@@ -1497,12 +1503,6 @@
     {
      "title": "Nunes Marques recebe campanhas de Lula e Flávio após batalha jurídica por canal de WhatsApp",
      "url": "https://oglobo.globo.com/politica/noticia/2026/10/13/nunes-marques-recebe-campanhas-de-lula-e-flavio-apos-batalha-juridica-por-canal-de-whatsapp.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261013T030000Z"
-    },
-    {
-     "title": "Lula lança pacote de medidas para diminuir dívidas de microempreendedores na reta final do segundo turno",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/13/lula-lanca-pacote-de-medidas-para-diminuir-dividas-de-microempreendedores-na-reta-final-do-segundo-turno.ghtml",
      "domain": "O Globo",
      "seendate": "20261013T030000Z"
     }
