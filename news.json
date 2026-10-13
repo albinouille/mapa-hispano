@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T12:26:09+00:00",
+ "updated": "2026-10-13T13:01:37+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -7,13 +7,19 @@
      "title": "Última hora de la visita de los Reyes a Ceuta, en directo | Vivas avisa ante los Reyes de que Ceuta “es una olla a presión que en cualquier momento puede estallar”",
      "url": "https://elpais.com/espana/2026-10-13/ultima-hora-de-la-visita-de-los-reyes-a-ceuta-en-directo.html",
      "domain": "El País",
-     "seendate": "20261013T121709Z"
+     "seendate": "20261013T124205Z"
     },
     {
      "title": "Última hora de la actualidad política, en directo | El Gobierno, tras la orden del Supremo sobre la ‘ley de nietos’: “Es una situación de extraordinaria gravedad”",
      "url": "https://elpais.com/espana/2026-10-13/ultima-hora-de-la-actualidad-politica-y-de-la-visita-de-los-reyes-a-ceuta-en-directo.html",
      "domain": "El País",
-     "seendate": "20261013T120205Z"
+     "seendate": "20261013T124158Z"
+    },
+    {
+     "title": "Almeida acusa también a los acampados en Sol por los disturbios: “Que no se quejen, porque también están provocando”",
+     "url": "https://elpais.com/espana/madrid/2026-10-13/almeida-acusa-tambien-a-los-acampados-en-sol-por-los-disturbios-que-no-se-quejen-porque-tambien-estan-provocando.html",
+     "domain": "El País",
+     "seendate": "20261013T124124Z"
     },
     {
      "title": "Miles de personas reciben con entusiasmo a los Reyes en Ceuta: “Hoy toda España es caballa”",
@@ -169,6 +175,12 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Ataque armado en vivienda de Culiacán deja tres personas muertas; una más resulta herida",
+     "url": "https://www.eluniversal.com.mx/estados/ataque-armado-en-vivienda-de-culiacan-deja-tres-personas-muertas-una-mas-resulta-herida/",
+     "domain": "El Universal",
+     "seendate": "20261013T124926Z"
+    },
     {
      "title": "PAN, dispuesto a hacer alianzas para derrocar a Morena",
      "url": "https://www.eluniversal.com.mx/nacion/pan-dispuesto-a-hacer-alianzas-para-derrocar-a-morena/",
@@ -356,12 +368,6 @@
      "seendate": "20261013T023619Z"
     },
     {
-     "title": "Pío López Obrador inicia recorridos en Tuxtla tras anunciar candidatura a diputación federal; destaca recepción ciudadana",
-     "url": "https://www.eluniversal.com.mx/nacion/pio-inicia-recorridos-en-tuxtla-tras-anunciar-candidatura-a-diputacion-federal-destaca-recepcion-ciudadana/",
-     "domain": "El Universal",
-     "seendate": "20261013T015819Z"
-    },
-    {
      "title": "Huracán Simon baja a categoría 1 frente a costas mexicanas; sigue EN VIVO su trayectoria y afectaciones",
      "url": "https://www.eluniversal.com.mx/estados/huracan-simon-provoca-lluvias-muy-fuertes-en-cuatro-estados-sigue-en-vivo-su-trayectoria-y-afectaciones/",
      "domain": "El Universal",
@@ -452,6 +458,12 @@
   "CRI": {
    "articles": [
     {
+     "title": "IMN pronostica aguaceros y tormentas para este martes: conozca las zonas donde podría llover y las temperaturas previstas",
+     "url": "https://www.nacion.com/sucesos/imn-pronostica-aguaceros-y-tormentas-para-este/6YJ4TPCQ7VB5NG7BPDU2OGUPME/story/",
+     "domain": "La Nación",
+     "seendate": "20261013T123600Z"
+    },
+    {
      "title": "ICE de Estados Unidos aprehendió de noche a dos niños costarricenses y los envió a polémico centro de confinamiento en Texas",
      "url": "https://www.nacion.com/el-pais/ice-de-estados-unidos-aprehendio-de-noche-a-dos/VSMJS2FW5RG6JC6C2BNHEPTPKQ/story/",
      "domain": "La Nación",
@@ -510,12 +522,6 @@
      "url": "https://www.nacion.com/sucesos/temblor-de-magnitud-65-en-panama-es-una-replica/JV7WBCCCARH2XGLPYP5F5BRH2U/story/",
      "domain": "La Nación",
      "seendate": "20261013T011557Z"
-    },
-    {
-     "title": "IMN pronostica aguaceros y tormentas para este martes: conozca las zonas donde podría llover y las temperaturas previstas",
-     "url": "https://www.nacion.com/sucesos/imn-pronostica-aguaceros-y-tormentas-para-este/6YJ4TPCQ7VB5NG7BPDU2OGUPME/story/",
-     "domain": "La Nación",
-     "seendate": "20261013T002515Z"
     },
     {
      "title": "Don Stockwell asegura que alias Sobrino no quiso conocerlo ni encender cámara durante videollamada",
@@ -666,7 +672,7 @@
      "seendate": "20261013T011030Z"
     },
     {
-     "title": "Terremoto en Panamá: 35 escuelas quedaron dañadas por completo; Salud destinará $61 millones para 67 hospitales afectados",
+     "title": "35 escuelas quedaron dañadas por completo; Salud destinará $61 millones para 67 hospitales afectados",
      "url": "https://www.prensa.com/politica/terremoto-en-panama-gobierno-actualiza-balance-de-danos/",
      "domain": "La Prensa",
      "seendate": "20261012T231840Z"
@@ -708,7 +714,7 @@
      "seendate": "20261012T153637Z"
     },
     {
-     "title": "Terremoto en Panamá: más de 350 réplicas y un llamado a estudiar las estructuras",
+     "title": "Más de 350 réplicas y un llamado a estudiar las estructuras",
      "url": "https://www.prensa.com/sociedad/terremoto-en-panama-mas-de-350-replicas-y-un-llamado-a-estudiar-las-estructuras/",
      "domain": "La Prensa",
      "seendate": "20261012T131000Z"
@@ -790,12 +796,6 @@
      "url": "https://www.prensa.com/politica/terremoto-en-panama-el-secreto-de-las-edificaciones-las-normas-sismicas-y-la-falla-de-san-andres/",
      "domain": "La Prensa",
      "seendate": "20261011T050100Z"
-    },
-    {
-     "title": "Decretan estado de emergencia tras el terremoto de 7.5",
-     "url": "https://www.prensa.com/politica/consejo-de-gabinete-tras-el-terremoto-de-75-en-panama/",
-     "domain": "La Prensa",
-     "seendate": "20261011T025000Z"
     },
     {
      "title": "Un día después del terremoto, Mariato, Tonosí y Pedasí buscan agua, refugio y vías de acceso",
@@ -941,6 +941,12 @@
   "COL": {
    "articles": [
     {
+     "title": "Capturan a alias ‘Lucía’, señalada de coordinar un atentado contra dos funcionarios del Inpec en Barranquilla",
+     "url": "https://www.eltiempo.com/colombia/barranquilla/capturan-a-alias-lucia-senalada-de-coordinar-un-atentado-contra-dos-funcionarios-del-inpec-en-barranquilla-3593126",
+     "domain": "El Tiempo",
+     "seendate": "20261013T122625Z"
+    },
+    {
      "title": "¡Ojo, conductor! Pico y placa en Medellín para el martes 13 de octubre de 2026: estas placas tendrán restricción",
      "url": "https://www.eltiempo.com/colombia/medellin/ojo-conductor-pico-y-placa-en-medellin-para-el-martes-13-de-octubre-de-2026-estas-placas-tendran-restriccion-3592566",
      "domain": "El Tiempo",
@@ -975,12 +981,6 @@
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/panico-en-las-corralejas-de-ayapel-cordoba-asistentes-bajaron-de-los-palcos-con-ninos-en-brazos-ante-el-temor-de-un-derrumbe-3593055",
      "domain": "El Tiempo",
      "seendate": "20261012T231721Z"
-    },
-    {
-     "title": "Concejal de Cúcuta Carlos Dueñas empujó e insultó a trabajador de supermercado y después publicó video para pedir disculpas: 'No tiene justificación'",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/concejal-de-cucuta-carlos-duenas-empujo-e-insulto-a-trabajador-de-supermercado-y-despues-publico-video-para-pedir-disculpas-no-tiene-justificacion-3593035",
-     "domain": "El Tiempo",
-     "seendate": "20261012T214123Z"
     },
     {
      "title": "Salwa e Isabella llevan el Carnaval de Barranquilla a París y Nueva York",
@@ -1027,7 +1027,13 @@
   "ECU": {
    "articles": [
     {
-     "title": "Seis cuerpos hídricos están desbordados en Ecuador: Los Ríos y Esmeraldas concentran los reportes",
+     "title": "Ecuador registra cinco incendios forestales activos y tres controlados",
+     "url": "https://eluniverso.com/comunidad/ecuador/ecuador-registra-cinco-incendios-forestales-activos-y-tres-controlados-nota/",
+     "domain": "El Universo",
+     "seendate": "20261013T122615Z"
+    },
+    {
+     "title": "Seis ríos se desbordan en Ecuador: Los Ríos y Esmeraldas concentran los reportes",
      "url": "https://eluniverso.com/comunidad/ecuador/seis-cuerpos-hidricos-estan-desbordados-en-ecuador-los-rios-y-esmeraldas-concentran-los-reportes-nota/",
      "domain": "El Universo",
      "seendate": "20261013T121458Z"
@@ -1123,18 +1129,6 @@
      "seendate": "20261012T212015Z"
     },
     {
-     "title": "Ecuador y siete países firman acuerdo regional contra el crimen organizado; la declaración fue impulsada por la asambleísta Valentina Centeno",
-     "url": "https://eluniverso.com/politica/ejecutivo/ecuador-y-siete-paises-firman-acuerdo-regional-contra-el-crimen-organizado-la-declaracion-fue-impulsada-por-la-asambleista-valentina-centeno-nota/",
-     "domain": "El Universo",
-     "seendate": "20261012T201000Z"
-    },
-    {
-     "title": "¿Cuáles son los días de feriado de noviembre?",
-     "url": "https://eluniverso.com/comunidad/ecuador/cuales-son-los-dias-de-feriado-de-noviembre-nota/",
-     "domain": "El Universo",
-     "seendate": "20261012T141434Z"
-    },
-    {
      "title": "Presentaciones artísticas y condecoración marcan festejo del Gobierno por los 206 años de Independencia de Guayaquil",
      "url": "https://eluniverso.com/politica/ejecutivo/presentaciones-artisticas-y-condecoracion-marcan-festejo-del-gobierno-por-los-206-anos-de-independencia-de-guayaquil-nota/",
      "domain": "El Universo",
@@ -1151,14 +1145,14 @@
   "PER": {
    "articles": [
     {
-     "title": "Daniel Velandia, economista jefe de Credicorp Capital: “Si las condiciones se dan después de El Niño, al 2028 podremos crecer más de 4%”",
-     "url": "https://elcomercio.pe/economia/peru/daniel-velandia-economista-jefe-de-credicorp-capital-si-las-condiciones-se-dan-despues-de-el-nino-al-2028-podremos-ver-un-crecimiento-superior-al-4-apuesplan-noticia/",
+     "title": "Biministro de Economía y Minería de Chile: “Al 2035 casi toda la nueva oferta de cobre del planeta saldrá del Cono Sur de América Latina”",
+     "url": "https://elcomercio.pe/economia/peru/biministro-de-economia-y-mineria-de-chile-hacia-2035-practicamente-toda-la-nueva-oferta-significativa-de-cobre-del-planeta-saldra-del-cono-sur-de-america-latina-noticia/",
      "domain": "El Comercio",
      "seendate": "20261013T110001Z"
     },
     {
-     "title": "Biministro de Economía y Minería de Chile: “Al 2035 casi toda la nueva oferta de cobre del planeta saldrá del Cono Sur de América Latina”",
-     "url": "https://elcomercio.pe/economia/peru/biministro-de-economia-y-mineria-de-chile-hacia-2035-practicamente-toda-la-nueva-oferta-significativa-de-cobre-del-planeta-saldra-del-cono-sur-de-america-latina-noticia/",
+     "title": "Daniel Velandia, economista jefe de Credicorp Capital: “Si las condiciones se dan después de El Niño, al 2028 podremos crecer más de 4%”",
+     "url": "https://elcomercio.pe/economia/peru/daniel-velandia-economista-jefe-de-credicorp-capital-si-las-condiciones-se-dan-despues-de-el-nino-al-2028-podremos-ver-un-crecimiento-superior-al-4-apuesplan-noticia/",
      "domain": "El Comercio",
      "seendate": "20261013T110001Z"
     },
@@ -1192,10 +1186,58 @@
   "ARG": {
    "articles": [
     {
+     "title": "El Centro Islámico denunció al “Gordo Dan” por discriminación tras su posteo contra la religión",
+     "url": "https://www.lanacion.com.ar/politica/el-centro-islamico-denuncio-al-gordo-dan-por-discriminacion-tras-su-posteo-contra-la-religion-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T125241Z"
+    },
+    {
      "title": "El Gobierno presentó un reclamo para frenar la explotación de hidrocarburos en Malvinas ante el Tribunal del Mar",
      "url": "https://www.lanacion.com.ar/politica/el-gobierno-presento-un-reclamo-por-malvinas-ante-el-tribunal-internacional-del-derecho-del-mar-nid13102026/",
      "domain": "La Nación",
-     "seendate": "20261013T122435Z"
+     "seendate": "20261013T125136Z"
+    },
+    {
+     "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este martes 13 de octubre, minuto a minuto",
+     "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T124904Z"
+    },
+    {
+     "title": "Piden investigar giros de dinero de la FIFA y el Sindicato de Camioneros a Chiqui Tapia",
+     "url": "https://www.lanacion.com.ar/politica/piden-investigar-giros-de-dinero-de-la-fifa-y-el-sindicato-de-camioneros-a-chiqui-tapia-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T124521Z"
+    },
+    {
+     "title": "Rechazaron un habeas corpus y siguió el traslado de presos a Marcos Paz, mientras los pabellones de Villa Devoto se vacían",
+     "url": "https://www.lanacion.com.ar/seguridad/rechazaron-un-habeas-corpus-y-siguio-el-traslado-de-presos-a-marcos-paz-mientras-los-pabellones-de-nid12102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T124455Z"
+    },
+    {
+     "title": "Qué es el “bloqueo atmosférico” que prolonga el mal tiempo en AMBA por una semana y no deja ver el sol",
+     "url": "https://www.lanacion.com.ar/sociedad/que-es-el-bloqueo-atmosferico-que-prolonga-el-mal-tiempo-en-amba-por-una-semana-y-no-deja-ver-el-sol-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T124307Z"
+    },
+    {
+     "title": "Paritaria para vigiladores: cuánto ganan los trabajadores de seguridad privada en octubre 2026 con el aumento confirmado",
+     "url": "https://www.lanacion.com.ar/economia/paritaria-para-vigiladores-cuanto-ganan-los-trabajadores-de-seguridad-privada-en-octubre-2026-con-el-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T124047Z"
+    },
+    {
+     "title": "Javier Milei y sus medidas, EN VIVO: el Presidente dijo que el Gobierno estaría dispuesto a ajustar la fecha de la visita del Papa",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-dijo-que-el-gobierno-estaria-dispuesto-a-ajustar-la-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T123906Z"
+    },
+    {
+     "title": "Tras una crecida histórica, reabren las Cataratas del Iguazú: desde cuándo se puede volver a visitar el parque",
+     "url": "https://www.lanacion.com.ar/sociedad/tras-una-crecida-historica-reabren-las-cataratas-del-iguazu-desde-cuando-se-puede-volver-a-visitar-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T122748Z"
     },
     {
      "title": "Una neuróloga reveló cuál es el impacto concreto de tomar una copa de vino antes de dormirnos",
@@ -1246,12 +1288,6 @@
      "seendate": "20261013T121710Z"
     },
     {
-     "title": "Javier Milei y sus medidas, EN VIVO: el Presidente dijo que el Gobierno estaría dispuesto a ajustar la fecha de la visita del Papa",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-dijo-que-el-gobierno-estaria-dispuesto-a-ajustar-la-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T121410Z"
-    },
-    {
      "title": "Se aproxima un “bloqueo en la circulación atmosférica” que prolongará el mal tiempo y las tormentas: las zonas afectadas",
      "url": "https://www.lanacion.com.ar/sociedad/se-aproxima-un-bloqueo-en-la-circulacion-atmosferica-que-prolongara-el-mal-tiempo-y-las-tormentas-nid12102026/",
      "domain": "La Nación",
@@ -1292,12 +1328,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/robin-sharma-especialista-en-crecimiento-personal-un-mal-dia-para-el-ego-es-un-buen-dia-para-el-alma-nid11102026/",
      "domain": "La Nación",
      "seendate": "20261013T120908Z"
-    },
-    {
-     "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este martes 13 de octubre, minuto a minuto",
-     "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T120641Z"
     },
     {
      "title": "Hay alerta naranja y amarilla por tormentas, lluvias y vientos para este martes 13 de octubre: las provincias afectadas",
@@ -1514,30 +1544,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/dia-de-la-madre-2026-que-domingo-de-octubre-cae-en-la-argentina-nid01102026/",
      "domain": "La Nación",
      "seendate": "20261013T113453Z"
-    },
-    {
-     "title": "Cuándo es el Día de la Madre 2026 en la Argentina",
-     "url": "https://www.lanacion.com.ar/sociedad/cuando-es-el-dia-de-la-madre-2026-en-la-argentina-nid22092026/",
-     "domain": "La Nación",
-     "seendate": "20261013T113451Z"
-    },
-    {
-     "title": "Habló por primera vez Chantal Leclercq, una de las imputadas por el escándalo del propofol",
-     "url": "https://www.lanacion.com.ar/seguridad/hablo-por-primera-vez-chantal-leclercq-una-de-las-imputadas-por-el-escandalo-del-propofol-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T112152Z"
-    },
-    {
-     "title": "Día del Psicólogo: por qué se celebra hoy y las mejores frases para enviar por WhatsApp",
-     "url": "https://www.lanacion.com.ar/sociedad/dia-del-psicologo-por-que-se-celebra-hoy-y-las-mejores-frases-para-enviar-por-whatsapp-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T112124Z"
-    },
-    {
-     "title": "El FMI recortó previsión de crecimiento del país para este año; el Papa será internado hoy para su cirugía",
-     "url": "https://www.lanacion.com.ar/sociedad/el-fmi-recorto-prevision-de-crecimiento-del-pais-para-este-ano-el-papa-sera-internado-hoy-para-su-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T111708Z"
     }
    ]
   },
@@ -1553,6 +1559,12 @@
   },
   "PRY": {
    "articles": [
+    {
+     "title": "Video: continúan las excavaciones en busca de los restos del Dr. Agustín Goiburú",
+     "url": "https://www.abc.com.py/nacionales/2026/10/13/video-continuan-las-excavaciones-en-busca-de-los-restos-del-dr-agustin-goiburu/",
+     "domain": "ABC Color",
+     "seendate": "20261013T123942Z"
+    },
     {
      "title": "Asunción: denuncian un basural clandestino en el barrio Republicano",
      "url": "https://www.abc.com.py/nacionales/2026/10/13/asuncion-denuncian-un-basural-clandestino-en-el-barrio-republicano/",
@@ -1570,12 +1582,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/13/cierran-tramo-de-la-costanera-por-campeonato-de-skate/",
      "domain": "ABC Color",
      "seendate": "20261013T102056Z"
-    },
-    {
-     "title": "¿Frenar nuevas universidades? La tibia respuesta del MEC ante el descontrol en educación superior",
-     "url": "https://www.abc.com.py/nacionales/2026/10/13/frenar-nuevas-universidades-la-tibia-respuesta-del-mec-ante-el-descontrol-en-educacion-superior/",
-     "domain": "ABC Color",
-     "seendate": "20261013T093000Z"
     }
    ]
   },
@@ -1627,7 +1633,7 @@
      "seendate": "20261013T063000Z"
     },
     {
-     "title": "Flávio faz giro por estados nesta semana, e Lula prepara ato com caminhoneiros em SP e percorre Minas Gerais",
+     "title": "Flávio faz giro por estados, e Lula prepara ato com caminhoneiros em SP e percorre Minas Gerais",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/13/flavio-faz-giro-por-estados-nesta-semana-e-lula-prepara-ato-com-caminhoneiros-em-sp-e-percorre-minas-gerais.ghtml",
      "domain": "O Globo",
      "seendate": "20261013T063000Z"
