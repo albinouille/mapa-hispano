@@ -1,13 +1,19 @@
 {
- "updated": "2026-10-13T14:26:41+00:00",
+ "updated": "2026-10-13T14:56:22+00:00",
  "countries": {
   "ESP": {
    "articles": [
     {
-     "title": "Última hora de la visita de los Reyes a Ceuta, en directo | Vivas avisa ante los Reyes de que Ceuta “es una olla a presión que en cualquier momento puede estallar”",
+     "title": "Última hora de la visita de los Reyes a Ceuta, en directo | Vivas avisa de que Ceuta “es una olla a presión que en cualquier momento puede estallar”",
      "url": "https://elpais.com/espana/2026-10-13/ultima-hora-de-la-visita-de-los-reyes-a-ceuta-en-directo.html",
      "domain": "El País",
-     "seendate": "20261013T141629Z"
+     "seendate": "20261013T144236Z"
+    },
+    {
+     "title": "La jueza de la dana denunció ante el Poder Judicial presiones y haber sido grabada ilegalmente",
+     "url": "https://elpais.com/espana/comunidad-valenciana/2026-10-13/la-jueza-de-la-dana-denuncio-ante-el-poder-judicial-presiones-y-haber-sido-grabada-ilegalmente.html",
+     "domain": "El País",
+     "seendate": "20261013T144139Z"
     },
     {
      "title": "Dimiten los 12 concejales del PP de Algeciras mientras Landaluce se enroca en la Alcaldía",
@@ -154,12 +160,6 @@
      "seendate": "20261012T151128Z"
     },
     {
-     "title": "La UE cierra ahora filas con España sobre Ceuta dos meses después de la crisis migratoria",
-     "url": "https://elpais.com/espana/2026-10-12/la-ue-cierra-ahora-filas-con-espana-sobre-ceuta-dos-meses-despues-de-la-crisis-migratoria.html",
-     "domain": "El País",
-     "seendate": "20261012T134952Z"
-    },
-    {
      "title": "De Bilbao a A Coruña, una vuelta por el norte de España para disfrutar del mejor arte",
      "url": "https://elpais.com/elviajero/escapadas/espana/2026-10-12/de-bilbao-a-a-coruna-una-vuelta-por-el-norte-de-espana-para-disfrutar-del-mejor-arte.html",
      "domain": "El País",
@@ -175,6 +175,18 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Harfuch anuncia construcción de seis penales tras riña en Mazatlán; prevé capacidad de 18 mil 480 espacios",
+     "url": "https://www.eluniversal.com.mx/nacion/harfuch-anuncia-construccion-de-seis-penales-tras-rina-en-mazatlan-preve-capacidad-de-18-mil-480-espacios/",
+     "domain": "El Universal",
+     "seendate": "20261013T144504Z"
+    },
+    {
+     "title": "Pese a despliegue de 9 elementos federales, la violencia no cesa en Mazatlán; reportan dos muertos y 4 heridos en diversos hechos",
+     "url": "https://www.eluniversal.com.mx/estados/pese-a-despliegue-de-9-elementos-federales-la-violencia-no-cesa-en-mazatlan-reportan-dos-muertos-y-4-heridos-en-diversos-hechos/",
+     "domain": "El Universal",
+     "seendate": "20261013T143634Z"
+    },
     {
      "title": "Homicidio doloso disminuye 52% a nivel nacional durante gobierno de Sheinbaum; SESNSP registra 42.2 asesinatos diarios",
      "url": "https://www.eluniversal.com.mx/nacion/homicidio-doloso-disminuye-52-a-nivel-nacional-durante-gobierno-de-sheinbaum-sesnsp-registra-422-asesinatos-diarios/",
@@ -324,36 +336,6 @@
      "url": "https://www.eluniversal.com.mx/estados/puerto-vallarta-retoma-actividades-tras-el-paso-de-simon-navegacion-continua-suspendida-en-jalisco/",
      "domain": "El Universal",
      "seendate": "20261013T034946Z"
-    },
-    {
-     "title": "Huracán Simon golpea restaurantes en Bucerías, Nayarit; oleaje arrastra arena hasta las cocinas",
-     "url": "https://www.eluniversal.com.mx/estados/huracan-simon-golpea-restaurantes-en-bucerias-nayarit-oleaje-arrastra-arena-hasta-las-cocinas/",
-     "domain": "El Universal",
-     "seendate": "20261013T034729Z"
-    },
-    {
-     "title": "Policía capitalina continuará decomisos de máquinas tragamonedas; investigan posibles vínculos con delitos",
-     "url": "https://www.eluniversal.com.mx/metropoli/policia-capitalina-continuara-decomisos-de-maquinas-tragamonedas-investigan-posibles-vinculos-con-delitos/",
-     "domain": "El Universal",
-     "seendate": "20261013T033331Z"
-    },
-    {
-     "title": "Condominio en San Pancho, Nayarit, queda en riesgo de colapso por oleaje de 3 huracanes; dos torres presentan inclinaciones",
-     "url": "https://www.eluniversal.com.mx/estados/condominio-en-san-pancho-nayarit-queda-en-riesgo-de-colapso-por-oleaje-de-3-huracanes-dos-torres-presentan-inclinaciones/",
-     "domain": "El Universal",
-     "seendate": "20261013T033323Z"
-    },
-    {
-     "title": "Trabajadores del IMSS bloquean vialidades en CDMX previo a marcha nacional; presionan por mejoras laborales",
-     "url": "https://www.eluniversal.com.mx/nacion/trabajadores-del-imss-bloquean-vialidades-en-cdmx-previo-a-marcha-nacional-presionan-por-mejoras-laborales/",
-     "domain": "El Universal",
-     "seendate": "20261013T033101Z"
-    },
-    {
-     "title": "Liberan a 18 de 39 detenidos tras protesta por agua contaminada en Casa Jalisco; Fiscalía mantiene investigaciones",
-     "url": "https://www.eluniversal.com.mx/estados/liberan-a-18-de-39-detenidos-tras-protesta-por-agua-contaminada-en-casa-jalisco-fiscalia-mantiene-investigaciones/",
-     "domain": "El Universal",
-     "seendate": "20261013T024453Z"
     },
     {
      "title": "Huracán Simon baja a categoría 1 frente a costas mexicanas; sigue EN VIVO su trayectoria y afectaciones",
@@ -1075,7 +1057,7 @@
      "seendate": "20261013T111500Z"
     },
     {
-     "title": "Pronóstico del clima para este martes 13 de octubre: tormentas en horas de la tarde y alerta por lluvias en Ecuador",
+     "title": "Pronóstico del clima para este martes, 13 de octubre: tormentas en horas de la tarde y alerta por lluvias en Ecuador",
      "url": "https://eluniverso.com/comunidad/ecuador/pronostico-del-clima-para-este-martes-13-de-octubre-tormentas-en-horas-de-la-tarde-y-alerta-por-lluvias-en-ecuador-nota/",
      "domain": "El Universo",
      "seendate": "20261013T034804Z"
@@ -1129,44 +1111,26 @@
      "seendate": "20261012T222007Z"
     },
     {
-     "title": "Fuertes oleajes destruyen una vivienda y afectan calles y cabañas en tres comunidades de Manabí",
-     "url": "https://eluniverso.com/comunidad/ecuador/oleajes-afectan-casas-y-calles-en-san-clemente-san-jacinto-y-san-alejo-nota/",
-     "domain": "El Universo",
-     "seendate": "20261012T215803Z"
-    },
-    {
      "title": "Presentaciones artísticas y condecoración marcan festejo del Gobierno por los 206 años de Independencia de Guayaquil",
      "url": "https://eluniverso.com/politica/ejecutivo/presentaciones-artisticas-y-condecoracion-marcan-festejo-del-gobierno-por-los-206-anos-de-independencia-de-guayaquil-nota/",
      "domain": "El Universo",
      "seendate": "20261008T230342Z"
-    },
-    {
-     "title": "“El Ecuador de ahora es lo que es por lo que se hizo en Guayaquil hace 206 años”, dice Esteban Torres",
-     "url": "https://eluniverso.com/politica/asamblea-nacional/el-ecuador-de-ahora-es-lo-que-es-por-lo-que-se-hizo-en-guayaquil-hace-206-anos-dice-esteban-torres-nota/",
-     "domain": "El Universo",
-     "seendate": "20261008T170926Z"
     }
    ]
   },
   "PER": {
    "articles": [
     {
-     "title": "IGP Temblor en el Perú hoy, 13 de octubre: último sismo, lugar y magnitud",
-     "url": "https://elcomercio.pe/peru/temblor-hoy-en-peru-en-vivo-reportes-del-igp-lugar-magnitud-y-ultimo-minuto-tdpe-noticia/",
+     "title": "El Niño adelanta el cierre del año escolar: las nueve regiones afectadas y cómo recuperarán las clases",
+     "url": "https://elcomercio.pe/peru/el-nino-adelanta-el-cierre-del-ano-escolar-las-nueve-regiones-afectadas-y-como-recuperaran-las-clases-apuesplan-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261013T110001Z"
+     "seendate": "20261013T143657Z"
     },
     {
-     "title": "Daniel Velandia, economista jefe de Credicorp Capital: “Si las condiciones se dan después de El Niño, al 2028 podremos crecer más de 4%”",
-     "url": "https://elcomercio.pe/economia/peru/daniel-velandia-economista-jefe-de-credicorp-capital-si-las-condiciones-se-dan-despues-de-el-nino-al-2028-podremos-ver-un-crecimiento-superior-al-4-apuesplan-noticia/",
+     "title": "Inccosac trae las primeras ‘tapas antirrobo’ para agua y desagüe del Perú, ¿cómo funcionan?",
+     "url": "https://elcomercio.pe/economia/peru/agua-inccosac-trae-las-primeras-tapas-antirrobo-para-agua-y-desague-del-peru-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261013T110001Z"
-    },
-    {
-     "title": "Biministro de Economía y Minería de Chile: “Al 2035 casi toda la nueva oferta de cobre del planeta saldrá del Cono Sur de América Latina”",
-     "url": "https://elcomercio.pe/economia/peru/biministro-de-economia-y-mineria-de-chile-hacia-2035-practicamente-toda-la-nueva-oferta-significativa-de-cobre-del-planeta-saldra-del-cono-sur-de-america-latina-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261013T110001Z"
+     "seendate": "20261013T142918Z"
     }
    ]
   },
@@ -1186,6 +1150,66 @@
   "ARG": {
    "articles": [
     {
+     "title": "Franquicia perpetua: la estrategia de la industria del entretenimiento para mantener “vivos” a sus grandes éxitos",
+     "url": "https://www.lanacion.com.ar/economia/IA/franquicia-perpetua-la-estrategia-de-la-industria-del-entretenimiento-para-mantener-vivos-a-sus-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T144631Z"
+    },
+    {
+     "title": "Habló por primera vez Chantal Leclercq, una de las imputadas por el escándalo del propofol",
+     "url": "https://www.lanacion.com.ar/seguridad/hablo-por-primera-vez-chantal-leclercq-una-de-las-imputadas-por-el-escandalo-del-propofol-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T144610Z"
+    },
+    {
+     "title": "Gabriel Rolón, psicoanalista, sobre los recuerdos: “Nuestros padres que ya no están se transforman en personas por ahí más nobles de lo que fueron”",
+     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-sobre-los-recuerdos-nuestros-padres-que-ya-no-estan-se-transforman-en-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T144152Z"
+    },
+    {
+     "title": "Piden investigar giros de dinero de la FIFA y el Sindicato de Camioneros a Chiqui Tapia",
+     "url": "https://www.lanacion.com.ar/politica/piden-investigar-giros-de-dinero-de-la-fifa-y-el-sindicato-de-camioneros-a-chiqui-tapia-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T143622Z"
+    },
+    {
+     "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este martes 13 de octubre, minuto a minuto",
+     "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T143407Z"
+    },
+    {
+     "title": "Cuándo son los feriados por la visita del papa León XIV a la Argentina: el Gobierno está dispuesto a cambiar los días",
+     "url": "https://www.lanacion.com.ar/sociedad/cuando-son-los-feriados-por-la-visita-del-papa-leon-xiv-a-la-argentina-el-gobierno-esta-dispuesto-a-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T143124Z"
+    },
+    {
+     "title": "Tres personas murieron tras el choque frontal entre un camión y una camioneta en Entre Ríos",
+     "url": "https://www.lanacion.com.ar/sociedad/tres-personas-murieron-tras-el-choque-frontal-entre-un-camion-y-una-camioneta-en-entre-rios-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T143055Z"
+    },
+    {
+     "title": "Javier Milei y sus medidas, EN VIVO: el Presidente dijo que el Gobierno estaría dispuesto a ajustar la fecha de la visita del Papa",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-dijo-que-el-gobierno-estaria-dispuesto-a-ajustar-la-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T142816Z"
+    },
+    {
+     "title": "Javier Milei viaja otra vez a Washington: disertaciones, premios y un nuevo gesto de respaldo a Trump",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-viaja-otra-vez-a-washington-disertaciones-premios-y-un-nuevo-gesto-de-respaldo-a-trump-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T142443Z"
+    },
+    {
+     "title": "Plazo fijo: cuál es la tasa de interés banco por banco este martes 13 de octubre",
+     "url": "https://www.lanacion.com.ar/economia/plazo-fijo-cual-es-la-tasa-de-interes-banco-por-banco-este-martes-13-de-octubre-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T142301Z"
+    },
+    {
      "title": "Quién es el tío de Pequeño J detenido en Perú y qué rol cumplió en el triple crimen de Florencio Varela",
      "url": "https://www.lanacion.com.ar/seguridad/quien-es-el-tio-de-pequeno-j-detenido-en-peru-y-que-rol-cumplio-en-el-triple-crimen-de-florencio-nid13102026/",
      "domain": "La Nación",
@@ -1198,7 +1222,7 @@
      "seendate": "20261013T141841Z"
     },
     {
-     "title": "Borrón y cuenta nueva: el Gobierno les perdona deudas millonarias a Edenor y Edesur por el congelamiento de tarifas",
+     "title": "El Gobierno les perdona deudas millonarias a Edenor y Edesur por el congelamiento de tarifas",
      "url": "https://www.lanacion.com.ar/economia/borron-y-cuenta-nueva-el-gobierno-les-perdona-deudas-millonarias-a-edenor-y-edesur-por-el-nid13102026/",
      "domain": "La Nación",
      "seendate": "20261013T141205Z"
@@ -1216,28 +1240,10 @@
      "seendate": "20261013T141118Z"
     },
     {
-     "title": "Gabriel Rolón, psicoanalista, sobre los recuerdos: “Nuestros padres que ya no están se transforman en personas por ahí más nobles de lo que fueron”",
-     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-sobre-los-recuerdos-nuestros-padres-que-ya-no-estan-se-transforman-en-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T141115Z"
-    },
-    {
-     "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este martes 13 de octubre, minuto a minuto",
-     "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T140730Z"
-    },
-    {
      "title": "Ya produce en 18.650 metros cuadrados: una provincia vive una transformación histórica con cultivos sin tierra",
      "url": "https://www.lanacion.com.ar/economia/campo/ya-produce-en-18650-metros-cuadrados-una-provincia-vive-una-transformacion-historica-con-cultivos-nid13102026/",
      "domain": "La Nación",
      "seendate": "20261013T140547Z"
-    },
-    {
-     "title": "Habló por primera vez Chantal Leclercq, una de las imputadas por el escándalo del propofol",
-     "url": "https://www.lanacion.com.ar/seguridad/hablo-por-primera-vez-chantal-leclercq-una-de-las-imputadas-por-el-escandalo-del-propofol-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T140054Z"
     },
     {
      "title": "El juicio de los Cuadernos de las Coimas: avanza otra audiencia sin transmisión ni acceso al público",
@@ -1250,18 +1256,6 @@
      "url": "https://www.lanacion.com.ar/economia/se-conoce-el-ipc-de-septiembre-y-el-mercado-espera-una-leve-aceleracion-nid12102026/",
      "domain": "La Nación",
      "seendate": "20261013T135714Z"
-    },
-    {
-     "title": "Javier Milei y sus medidas, EN VIVO: el Presidente dijo que el Gobierno estaría dispuesto a ajustar la fecha de la visita del Papa",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-dijo-que-el-gobierno-estaria-dispuesto-a-ajustar-la-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T135654Z"
-    },
-    {
-     "title": "Piden investigar giros de dinero de la FIFA y el Sindicato de Camioneros a Chiqui Tapia",
-     "url": "https://www.lanacion.com.ar/politica/piden-investigar-giros-de-dinero-de-la-fifa-y-el-sindicato-de-camioneros-a-chiqui-tapia-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T135613Z"
     },
     {
      "title": "Abrieron las compuertas de la represa de Itaipú y Yacyretá y aumenta la preocupación por el río Paraná",
@@ -1388,30 +1382,6 @@
      "url": "https://www.lanacion.com.ar/seguridad/rechazaron-un-habeas-corpus-y-siguio-el-traslado-de-presos-a-marcos-paz-mientras-los-pabellones-de-nid12102026/",
      "domain": "La Nación",
      "seendate": "20261013T124455Z"
-    },
-    {
-     "title": "Paritaria para vigiladores: cuánto ganan los trabajadores de seguridad privada en octubre 2026 con el aumento confirmado",
-     "url": "https://www.lanacion.com.ar/economia/paritaria-para-vigiladores-cuanto-ganan-los-trabajadores-de-seguridad-privada-en-octubre-2026-con-el-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T124047Z"
-    },
-    {
-     "title": "Tras una crecida histórica, reabren las Cataratas del Iguazú: desde cuándo se puede volver a visitar el parque",
-     "url": "https://www.lanacion.com.ar/sociedad/tras-una-crecida-historica-reabren-las-cataratas-del-iguazu-desde-cuando-se-puede-volver-a-visitar-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T122748Z"
-    },
-    {
-     "title": "Ricardo Dessy: “Un tipo de cambio más alto podría ser un alivio para algunos sectores”",
-     "url": "https://www.lanacion.com.ar/economia/ricardo-dessy-un-tipo-de-cambio-mas-alto-podria-ser-un-alivio-para-algunos-sectores-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T121729Z"
-    },
-    {
-     "title": "Tres personas murieron tras el choque frontal entre un camión y una camioneta en Entre Ríos",
-     "url": "https://www.lanacion.com.ar/sociedad/tres-personas-murieron-tras-el-choque-frontal-entre-un-camion-y-una-camioneta-en-entre-rios-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T120917Z"
     }
    ]
   },
@@ -1428,6 +1398,12 @@
   "PRY": {
    "articles": [
     {
+     "title": "Feminicidio de Deisy Paola: Corte convoca a jueza encargada de causa por violencia",
+     "url": "https://www.abc.com.py/nacionales/2026/10/13/feminicidio-de-deisy-paola-corte-convoca-a-jueza-encargada-de-causa-por-violencia/",
+     "domain": "ABC Color",
+     "seendate": "20261013T143504Z"
+    },
+    {
      "title": "Tribunal declara en rebeldía a jefe de Petropar y dicta orden de captura",
      "url": "https://www.abc.com.py/nacionales/2026/10/13/tribunal-declara-en-rebeldia-a-jefe-de-petropar-y-dicta-orden-de-captura/",
      "domain": "ABC Color",
@@ -1438,18 +1414,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/13/video-trabajadores-de-la-ande-entierran-un-auto-estacionado-en-el-microcentro-de-asuncion/",
      "domain": "ABC Color",
      "seendate": "20261013T130355Z"
-    },
-    {
-     "title": "Video: continúan las excavaciones en busca de los restos del Dr. Agustín Goiburú",
-     "url": "https://www.abc.com.py/nacionales/2026/10/13/video-continuan-las-excavaciones-en-busca-de-los-restos-del-dr-agustin-goiburu/",
-     "domain": "ABC Color",
-     "seendate": "20261013T123942Z"
-    },
-    {
-     "title": "Asunción: denuncian un basural clandestino en el barrio Republicano",
-     "url": "https://www.abc.com.py/nacionales/2026/10/13/asuncion-denuncian-un-basural-clandestino-en-el-barrio-republicano/",
-     "domain": "ABC Color",
-     "seendate": "20261013T120837Z"
     }
    ]
   },
