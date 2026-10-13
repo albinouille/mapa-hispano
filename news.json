@@ -1,19 +1,25 @@
 {
- "updated": "2026-10-13T16:21:30+00:00",
+ "updated": "2026-10-13T16:53:53+00:00",
  "countries": {
   "ESP": {
    "articles": [
     {
-     "title": "Última hora de la visita de los Reyes a Ceuta, en directo | Vivas avisa de que Ceuta “es una olla a presión que en cualquier momento puede estallar”",
+     "title": "Última hora de la visita de los Reyes a Ceuta, en directo | Los Reyes riden homenaje a las víctimas de la entrada masiva en el cementerio musulmán de Sidi Embarek",
      "url": "https://elpais.com/espana/2026-10-13/ultima-hora-de-la-visita-de-los-reyes-a-ceuta-en-directo.html",
      "domain": "El País",
-     "seendate": "20261013T160159Z"
+     "seendate": "20261013T164811Z"
     },
     {
      "title": "Pedraz imputa al colaborador de la trama de Leire Díez señalado por las maniobras contra la jueza Biedma",
      "url": "https://elpais.com/espana/2026-10-13/la-jueza-biedma-pide-nuevos-interrogatorios-para-impulsar-la-investigacion-sobre-las-maniobras-del-caso-leire-diez.html",
      "domain": "El País",
-     "seendate": "20261013T154627Z"
+     "seendate": "20261013T162027Z"
+    },
+    {
+     "title": "El exconsejero catalán Toni Comín anuncia que su regreso a Cataluña tras nueve años en Bélgica será andando",
+     "url": "https://elpais.com/espana/catalunya/2026-10-13/el-exconsejero-catalan-toni-comin-anuncia-que-su-regreso-a-cataluna-desde-waterloo-sera-andando.html",
+     "domain": "El País",
+     "seendate": "20261013T155227Z"
     },
     {
      "title": "La jueza de la dana denunció ante el Poder Judicial presiones y haber sido grabada ilegalmente",
@@ -22,7 +28,7 @@
      "seendate": "20261013T144139Z"
     },
     {
-     "title": "Dimiten los 12 concejales del PP de Algeciras mientras Landaluce se enroca en la Alcaldía",
+     "title": "Dimiten 12 concejales del PP de Algeciras mientras Landaluce se enroca en la Alcaldía",
      "url": "https://elpais.com/espana/2026-10-13/dimiten-los-12-concejales-del-pp-de-algeciras-mientras-landaluce-se-enroca-en-la-alcaldia.html",
      "domain": "El País",
      "seendate": "20261013T132943Z"
@@ -106,6 +112,12 @@
      "seendate": "20261013T095443Z"
     },
     {
+     "title": "El PSOE convierte el comité federal para ratificar las listas del 29-N en un mitin de Sánchez",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-10-13/el-psoe-convierte-el-comite-federal-para-ratificar-las-listas-del-29-n-en-un-mitin-de-sanchez.html",
+     "domain": "El País",
+     "seendate": "20261013T083520Z"
+    },
+    {
      "title": "Ascienden a cinco los detenidos de grupos ultras tras la jornada más tensa en la acampada de la Puerta del Sol",
      "url": "https://elpais.com/espana/madrid/2026-10-13/ascienden-a-cinco-los-detenidos-de-grupos-ultras-tras-la-jornada-mas-tensa-en-la-acampada-de-la-puerta-del-sol.html",
      "domain": "El País",
@@ -154,12 +166,6 @@
      "seendate": "20261013T033000Z"
     },
     {
-     "title": "Comuns acusa a Rufián de azuzar la división en las izquierdas por su acuerdo con Podemos",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-10-12/podemos-y-erc-oficializan-el-acuerdo-por-el-que-rufian-y-montero-haran-campana-juntos.html",
-     "domain": "El País",
-     "seendate": "20261012T151128Z"
-    },
-    {
      "title": "De Bilbao a A Coruña, una vuelta por el norte de España para disfrutar del mejor arte",
      "url": "https://elpais.com/elviajero/escapadas/espana/2026-10-12/de-bilbao-a-a-coruna-una-vuelta-por-el-norte-de-espana-para-disfrutar-del-mejor-arte.html",
      "domain": "El País",
@@ -175,6 +181,36 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Con esquela y comunicado, Congreso de Tamaulipas lamenta fallecimiento de la perrita “Perrucha”; fue atropellada",
+     "url": "https://www.eluniversal.com.mx/estados/con-esquela-y-comunicado-congreso-de-tamaulipas-lamenta-fallecimiento-de-la-perrita-perrucha-fue-atropellada/",
+     "domain": "El Universal",
+     "seendate": "20261013T163108Z"
+    },
+    {
+     "title": "PRI pierde otra curul en San Lázaro; diputado Mario Calzada abandona bancada tricolor y se suma a MC",
+     "url": "https://www.eluniversal.com.mx/nacion/pri-pierde-otra-curul-en-san-lazaro-diputado-mario-calzada-abandona-bancada-tricolor-y-se-suma-a-mc/",
+     "domain": "El Universal",
+     "seendate": "20261013T162655Z"
+    },
+    {
+     "title": "Por daño moral, Eliseo Fernández debería pagar 1 millón de pesos a Layda Sansores; MC acusa persecución política",
+     "url": "https://www.eluniversal.com.mx/estados/por-dano-moral-eliseo-fernandez-deberia-pagar-1-millon-de-pesos-a-layda-sansores-mc-acusa-persecucion-politica/",
+     "domain": "El Universal",
+     "seendate": "20261013T162605Z"
+    },
+    {
+     "title": "Policías bancarios detienen a dos mujeres en tiendas departamentales; robaron mercancía por más de 50 mil pesos",
+     "url": "https://www.eluniversal.com.mx/metropoli/policias-bancarios-detienen-a-dos-mujeres-en-tiendas-departamentales-robaron-mercancia-por-mas-de-50-mil-pesos/",
+     "domain": "El Universal",
+     "seendate": "20261013T162135Z"
+    },
+    {
+     "title": "\"No hemos estado de brazos cruzados\"; Sheinbaum rechaza crisis de salud en México ante marcha de trabajadores del IMSS",
+     "url": "https://www.eluniversal.com.mx/nacion/no-hemos-estado-de-brazos-cruzados-sheinbaum-rechaza-crisis-de-salud-en-mexico-ante-marcha-de-trabajadores-del-imss/",
+     "domain": "El Universal",
+     "seendate": "20261013T161648Z"
+    },
     {
      "title": "Se reporta una explosión en una gasera en Coacalco; evacúan a vecinos de Lomas de Coacalco",
      "url": "https://www.eluniversal.com.mx/metropoli/explota-gasera-en-coacalco-evacuan-a-vecinos-de-lomas-de-coacalco/",
@@ -236,7 +272,7 @@
      "seendate": "20261013T144504Z"
     },
     {
-     "title": "Pese a despliegue de 9 elementos federales, la violencia no cesa en Mazatlán; reportan dos muertos y 4 heridos en diversos hechos",
+     "title": "Pese a despliegue de 9 mil elementos federales, la violencia no cesa en Mazatlán; reportan dos muertos y 4 heridos en diversos hechos",
      "url": "https://www.eluniversal.com.mx/estados/pese-a-despliegue-de-9-elementos-federales-la-violencia-no-cesa-en-mazatlan-reportan-dos-muertos-y-4-heridos-en-diversos-hechos/",
      "domain": "El Universal",
      "seendate": "20261013T143634Z"
@@ -260,7 +296,7 @@
      "seendate": "20261013T132252Z"
     },
     {
-     "title": "Huracán Simon se mantiene en categoría 1; sigue en vivo su trayectoria y efectos",
+     "title": "Se formó la depresión tropical Veintiuno-E en el Pacífico sur; huracán Simon se mantiene en categoría 1, sigue en vivo su trayectoria y efectos",
      "url": "https://www.eluniversal.com.mx/estados/huracan-simon-se-mantiene-en-categoria-1-sigue-en-vivo-su-trayectoria-y-efectos/",
      "domain": "El Universal",
      "seendate": "20261013T131620Z"
@@ -784,6 +820,12 @@
   "CUB": {
    "articles": [
     {
+     "title": "Muchos hospitales ya tienen paneles solares, aunque sin funcionar fuera de las horas de sol",
+     "url": "https://www.14ymedio.com/cuba/hospitales-paneles-solares-funcionar-fuera_1_1131900.html",
+     "domain": "14ymedio",
+     "seendate": "20261013T164254Z"
+    },
+    {
      "title": "Maykel Castillo 'Osorbo' vuelve a ser víctima de tratos vejatorios en la prisión de Guanajay",
      "url": "https://www.14ymedio.com/cuba/maykel-castillo-osorbo-vuelve-victima_1_1131897.html",
      "domain": "14ymedio",
@@ -884,12 +926,6 @@
      "url": "https://www.14ymedio.com/cuba/cubanas-estrenaran-campeonato-mundial-juvenil_1_1131774.html",
      "domain": "14ymedio",
      "seendate": "20261010T123418Z"
-    },
-    {
-     "title": "El grupo estatal Gaviota mantiene cerradas casi el 90% de sus más de 30.000 habitaciones",
-     "url": "https://www.14ymedio.com/cuba/grupo-estatal-gaviota-mantiene-cerradas_1_1131770.html",
-     "domain": "14ymedio",
-     "seendate": "20261010T111821Z"
     }
    ]
   },
@@ -898,6 +934,30 @@
   },
   "COL": {
    "articles": [
+    {
+     "title": "Indignante: explotaba sexualmente a niñas de una comunidad indígena del Meta a cambio de agua, alimentos y provisiones básicas",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/indignante-explotaba-sexualmente-a-ninas-de-una-comunidad-indigena-del-meta-a-cambio-de-agua-alimentos-y-provisiones-basicas-3593198",
+     "domain": "El Tiempo",
+     "seendate": "20261013T162743Z"
+    },
+    {
+     "title": "Primera ficha hacia 2027: Ana María Aljure deja el gabinete de Alejandro Char y buscaría la Alcaldía de Barranquilla",
+     "url": "https://www.eltiempo.com/colombia/barranquilla/primera-ficha-hacia-2027-ana-maria-aljure-deja-el-gabinete-de-alejandro-char-y-buscaria-la-alcaldia-de-barranquilla-3593204",
+     "domain": "El Tiempo",
+     "seendate": "20261013T162428Z"
+    },
+    {
+     "title": "Videos sexuales en balcones y turistas desnudos sobre esculturas, entre la lista de ataques y ofensas a los monumentos y fortificaciones de Cartagena",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/videos-sexuales-en-balcones-y-turistas-desnudos-sobre-esculturas-entre-la-lista-de-ataques-y-ofensas-a-los-monumentos-y-fortificaciones-de-cartagena-3593166",
+     "domain": "El Tiempo",
+     "seendate": "20261013T161655Z"
+    },
+    {
+     "title": "Avanza la atención a víctimas de la emergencia por avenida torrencial en La Iguaná: van más de 2.900 ayudas entregadas en seis zonas priorizadas",
+     "url": "https://www.eltiempo.com/colombia/medellin/avanza-la-atencion-a-victimas-de-la-emergencia-por-avenida-torrencial-en-la-iguana-van-mas-de-2-900-ayudas-entregadas-en-seis-zonas-priorizadas-3593184",
+     "domain": "El Tiempo",
+     "seendate": "20261013T161312Z"
+    },
     {
      "title": "Cámara de seguridad registró presunto caso de acoso sexual que terminó con un hombre en grave estado de salud en Neiva",
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/camara-de-seguridad-registro-presunto-caso-de-acoso-sexual-que-termino-con-un-hombre-en-grave-estado-de-salud-en-neiva-3593183",
@@ -909,12 +969,6 @@
      "url": "https://www.eltiempo.com/colombia/cali/uso-desmedido-de-la-fuerza-o-legitima-defensa-el-misterio-que-rodea-la-muerte-de-un-hombre-tras-discutir-con-un-militar-en-palmira-3593185",
      "domain": "El Tiempo",
      "seendate": "20261013T154600Z"
-    },
-    {
-     "title": "Videos sexuales en balcones y turistas desnudos sobre esculturas, entre la lista de ataques y ofensas a los monumentos y fortificaciones de Cartagena",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/videos-sexuales-en-balcones-y-turistas-desnudos-sobre-esculturas-entre-la-lista-de-ataques-y-ofensas-a-los-monumentos-y-fortificaciones-de-cartagena-3593166",
-     "domain": "El Tiempo",
-     "seendate": "20261013T153126Z"
     },
     {
      "title": "Esto es lo que hace falta para culminar la obra del tercer carril en Floridablanca y que tanto se ha pedido en el área metropolitana de Bucaramanga",
@@ -935,28 +989,10 @@
      "seendate": "20261013T140100Z"
     },
     {
-     "title": "Un importante oncólogo inglés murió por sobredosis durante la segunda noche del festival de música electrónica EDC en Medellín",
-     "url": "https://www.eltiempo.com/colombia/medellin/un-importante-oncologo-ingles-murio-por-sobredosis-durante-la-segunda-noche-del-festival-de-musica-electronica-edc-en-medellin-3593138",
-     "domain": "El Tiempo",
-     "seendate": "20261013T135729Z"
-    },
-    {
-     "title": "'Buscan generar temor': el alcalde de Cali, Alejandro Eder, da parte de tranquilidad tras descartar explosivos cerca del estadio",
-     "url": "https://www.eltiempo.com/colombia/cali/buscan-generar-temor-el-alcalde-de-cali-alejandro-eder-da-parte-de-tranquilidad-tras-descartar-explosivos-cerca-del-estadio-3593136",
-     "domain": "El Tiempo",
-     "seendate": "20261013T135434Z"
-    },
-    {
      "title": "Controversia por trino borrado del alcalde de Barrancabermeja sobre alias Rambo y el homicidio de cuidadora del ICBF; madre habla de falso positivo",
      "url": "https://www.eltiempo.com/colombia/santander/controversia-por-trino-borrado-del-alcalde-de-barrancabermeja-sobre-alias-rambo-y-el-homicidio-de-cuidadora-del-icbf-madre-habla-de-falso-positivo-3593145",
      "domain": "El Tiempo",
      "seendate": "20261013T135203Z"
-    },
-    {
-     "title": "Quemaban fachadas para exigir extorsiones: capturan a tres señalados de intimidar a comerciantes en Soledad, Atlántico",
-     "url": "https://www.eltiempo.com/colombia/barranquilla/quemaban-fachadas-para-exigir-extorsiones-capturan-a-tres-senalados-de-intimidar-a-comerciantes-en-soledad-atlantico-3593139",
-     "domain": "El Tiempo",
-     "seendate": "20261013T133000Z"
     }
    ]
   },
@@ -1106,7 +1142,49 @@
      "title": "El Niño adelanta el cierre del año escolar: las nueve regiones afectadas y cómo recuperarán las clases",
      "url": "https://elcomercio.pe/peru/el-nino-adelanta-el-cierre-del-ano-escolar-las-nueve-regiones-afectadas-y-como-recuperaran-las-clases-apuesplan-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261013T143657Z"
+     "seendate": "20261013T163800Z"
+    },
+    {
+     "title": "El dólar abre en S/3,44 ante retroceso de la divisa estadounidense a nivel global",
+     "url": "https://elcomercio.pe/economia/peru/el-dolar-abre-en-s344-ante-retroceso-de-la-divisa-estadounidense-a-nivel-global-l-cotizacion-del-dolar-l-dolar-l-ultimas-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261013T162856Z"
+    },
+    {
+     "title": "IATA sobre la TUUA de conexión internacional: “El MTC prepara un borrador de propuesta para la industria en las siguientes dos semanas”",
+     "url": "https://elcomercio.pe/economia/peru/iata-endurece-posicion-por-caida-de-conexiones-en-lima-lap-intenta-desviar-la-realidad-sobre-el-impacto-de-la-tuua-de-transferencia-aeropuerto-jorge-chavez-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261013T161716Z"
+    },
+    {
+     "title": "Fenómeno de El Niño: Gobierno anuncia “outlets” en distintas regiones del país para liquidar prendas que no se vendieron por el calor",
+     "url": "https://elcomercio.pe/economia/peru/fenomeno-de-el-nino-gobierno-anuncia-outlets-en-distintas-regiones-del-pais-para-liquidar-prendas-que-no-se-vendieron-por-el-calor-l-ultimas-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261009T164055Z"
+    },
+    {
+     "title": "Venta directa supera los S/2.723 millones en el primer semestre del 2026",
+     "url": "https://elcomercio.pe/economia/peru/venta-directa-supera-los-s2723-millones-en-el-primer-semestre-del-2026-l-ultimas-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261008T220622Z"
+    },
+    {
+     "title": "Premio Avonni-CCL y Agrícola Cerro Prieto se unen para impulsar la innovación en el sector agrícola",
+     "url": "https://elcomercio.pe/economia/peru/premio-avonni-ccl-y-agricola-cerro-prieto-se-unen-para-impulsar-la-innovacion-en-el-sector-agricola-l-ultimas-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261008T212219Z"
+    },
+    {
+     "title": "Adex: agroexportaciones peruanas experimentan desaceleración",
+     "url": "https://elcomercio.pe/economia/peru/adex-agroexportaciones-peruanas-experimentan-desaceleracion-l-ultimas-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261008T210649Z"
+    },
+    {
+     "title": "South Summit Brazil 2027 abre las inscripciones para la nueva edición de su Startup Competition",
+     "url": "https://elcomercio.pe/economia/peru/south-summit-brazil-2027-abre-las-inscripciones-para-la-nueva-edicion-de-su-startup-competition-l-ultimas-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261008T192106Z"
     },
     {
      "title": "Semana de la Educación Financiera: cinco hábitos para fortalecer tus finanzas",
@@ -1144,19 +1222,49 @@
   "ARG": {
    "articles": [
     {
+     "title": "Gabriel Rolón, psicoanalista, sobre la búsqueda de bienestar: “A veces uno desea más haber sido feliz que ser feliz”",
+     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-sobre-la-busqueda-de-bienestar-a-veces-uno-desea-mas-haber-sido-feliz-nid08102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T164755Z"
+    },
+    {
+     "title": "Javier Milei y sus medidas, EN VIVO: el Presidente dijo que el Gobierno estaría dispuesto a ajustar la fecha de la visita del Papa",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-dijo-que-el-gobierno-estaria-dispuesto-a-ajustar-la-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T164000Z"
+    },
+    {
+     "title": "El crimen de Andrés Blaquier: 15 años de prisión para los dos adolescentes que mataron al empresario para robarle la moto",
+     "url": "https://www.lanacion.com.ar/seguridad/el-crimen-de-andres-blaquier-15-anos-de-prision-para-los-dos-adolescentes-que-mataron-al-empresario-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T162927Z"
+    },
+    {
+     "title": "Llegó a valer más de US$1000 millones: una empresa del agro convocó a sus accionistas a votar su liquidación",
+     "url": "https://www.lanacion.com.ar/economia/campo/llego-a-valer-mas-de-us1000-millones-una-empresa-del-agro-convoco-a-sus-accionistas-a-votar-su-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T162523Z"
+    },
+    {
+     "title": "Por el robo a un abogado en San Isidro: detuvieron a otro de los ladrones y sus propios vecinos quisieron lincharlo",
+     "url": "https://www.lanacion.com.ar/seguridad/por-el-robo-a-un-abogado-en-san-isidro-detuvieron-a-otro-de-los-ladrones-y-sus-propios-vecinos-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T162246Z"
+    },
+    {
+     "title": "El último misterio de Perón: el encuentro secreto con el Papa en una iglesia de Roma y la carta por el cuerpo de Eva",
+     "url": "https://www.lanacion.com.ar/politica/el-ultimo-misterio-de-peron-el-encuentro-secreto-con-el-papa-en-una-iglesia-de-roma-y-la-carta-por-nid14102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T161941Z"
+    },
+    {
      "title": "Alerta por el efectivo: 148 localidades se quedaron sin lugares para retirar dinero, según un estudio",
      "url": "https://www.lanacion.com.ar/economia/alerta-por-el-efectivo-148-localidades-se-quedaron-sin-lugares-para-retirar-dinero-segun-un-estudio-nid13102026/",
      "domain": "La Nación",
      "seendate": "20261013T161351Z"
     },
     {
-     "title": "Javier Milei y sus medidas, EN VIVO: el Presidente dijo que el Gobierno estaría dispuesto a ajustar la fecha de la visita del Papa",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-dijo-que-el-gobierno-estaria-dispuesto-a-ajustar-la-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T161341Z"
-    },
-    {
-     "title": "Crece la tensión por Malvinas: el gobierno británico anuncia que “protegerá” a las empresas que explotan recursos en las islas",
+     "title": "Crece la tensión por Malvinas: el gobierno británico anunció que “protegerá” a las empresas que explotan recursos en las islas",
      "url": "https://www.lanacion.com.ar/politica/crece-la-tension-por-malvinas-el-gobierno-britanico-anuncia-que-protegera-a-las-empresas-que-nid13102026/",
      "domain": "La Nación",
      "seendate": "20261013T161140Z"
@@ -1306,12 +1414,6 @@
      "seendate": "20261013T151712Z"
     },
     {
-     "title": "Gabriel Rolón, psicoanalista, sobre la búsqueda de bienestar: “A veces uno desea más haber sido feliz que ser feliz”",
-     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-sobre-la-busqueda-de-bienestar-a-veces-uno-desea-mas-haber-sido-feliz-nid08102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T151702Z"
-    },
-    {
      "title": "Polémica literaria: cuánto de inteligencia artificial hay en los libros más vendidos",
      "url": "https://www.lanacion.com.ar/economia/IA/polemica-literaria-cuanto-de-inteligencia-artificial-hay-en-los-libros-mas-vendidos-nid13102026/",
      "domain": "La Nación",
@@ -1376,24 +1478,6 @@
      "url": "https://www.lanacion.com.ar/economia/plazo-fijo-cual-es-la-tasa-de-interes-banco-por-banco-este-martes-13-de-octubre-nid13102026/",
      "domain": "La Nación",
      "seendate": "20261013T142301Z"
-    },
-    {
-     "title": "Quién es el tío de Pequeño J detenido en Perú y qué rol cumplió en el triple crimen de Florencio Varela",
-     "url": "https://www.lanacion.com.ar/seguridad/quien-es-el-tio-de-pequeno-j-detenido-en-peru-y-que-rol-cumplio-en-el-triple-crimen-de-florencio-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T142010Z"
-    },
-    {
-     "title": "Nueve mujeres denunciaron a un ginecólogo chaqueño por abuso sexual y mala praxis",
-     "url": "https://www.lanacion.com.ar/seguridad/siete-mujeres-denunciaron-a-un-ginecologo-chaqueno-por-abuso-sexual-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T141841Z"
-    },
-    {
-     "title": "El Gobierno compensa deudas millonarias de Edenor y Edesur por el congelamiento de tarifas",
-     "url": "https://www.lanacion.com.ar/economia/borron-y-cuenta-nueva-el-gobierno-les-perdona-deudas-millonarias-a-edenor-y-edesur-por-el-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T141205Z"
     }
    ]
   },
@@ -1409,6 +1493,12 @@
   },
   "PRY": {
    "articles": [
+    {
+     "title": "Caos por el cierre de la Costanera: ¿qué solución dará la PMT?",
+     "url": "https://www.abc.com.py/nacionales/2026/10/13/caos-por-el-cierre-de-la-costanera-que-solucion-dara-la-pmt/",
+     "domain": "ABC Color",
+     "seendate": "20261013T163508Z"
+    },
     {
      "title": "Condenas de hasta 25 años por crimen en Roberto L. Pettit",
      "url": "https://www.abc.com.py/nacionales/2026/10/13/condenas-de-hasta-25-anos-por-crimen-en-roberto-l-pettit/",
@@ -1453,7 +1543,7 @@
      "seendate": "20261013T152424Z"
     },
     {
-     "title": "Nunes Marques diz que Cueva extrapolou atribuição e critica ordem de relator no TSE sobre canal 'Exército do Lula'",
+     "title": "Nunes Marques diz que corregedor extrapolou atribuição e critica ordem de relator no TSE sobre canal 'Exército do Lula'",
      "url": "https://oglobo.globo.com/politica/noticia/2026/10/13/nunes-marques-diz-que-cueva-extrapolou-competencias-e-critica-ordem-de-relator-do-tse-sobre-exercito-do-lula.ghtml",
      "domain": "O Globo",
      "seendate": "20261013T152229Z"
@@ -1471,7 +1561,7 @@
      "seendate": "20261013T134352Z"
     },
     {
-     "title": "Nunes Marques volta a suspender ‘Exército do Lula’ no WhatsApp, impõe regras para retomada e manda TSE monitorar canal",
+     "title": "Campanha do PT registra 'Exército do Lula' no TSE após Nunes Marques suspender canal no WhatsApp e impor regras para funcionamento",
      "url": "https://oglobo.globo.com/politica/noticia/2026/10/13/nunes-marques-estabelece-regras-para-funcionamento-de-exercito-do-lula-no-whatsapp-e-manda-tse-monitorar-canal.ghtml",
      "domain": "O Globo",
      "seendate": "20261013T132136Z"
@@ -1499,12 +1589,6 @@
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/13/duda-salabert-aciona-mp-por-participacao-de-criancas-em-video-de-nikolas-contra-lula.ghtml",
      "domain": "O Globo",
      "seendate": "20261013T115148Z"
-    },
-    {
-     "title": "Polícia prende três suspeitos de operar plataforma clandestina de apostas com 10 milhões de vítimas",
-     "url": "https://oglobo.globo.com/brasil/sao-paulo/noticia/2026/10/13/policia-prende-tres-suspeitos-em-operacao-que-mira-apostas-ilegais-em-sp.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261013T111338Z"
     }
    ]
   }
