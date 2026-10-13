@@ -1,13 +1,19 @@
 {
- "updated": "2026-10-13T16:53:53+00:00",
+ "updated": "2026-10-13T17:20:27+00:00",
  "countries": {
   "ESP": {
    "articles": [
     {
-     "title": "Última hora de la visita de los Reyes a Ceuta, en directo | Los Reyes riden homenaje a las víctimas de la entrada masiva en el cementerio musulmán de Sidi Embarek",
+     "title": "Última hora de la visita de los Reyes a Ceuta, en directo | Los Reyes rinden homenaje a las víctimas de la entrada masiva en el cementerio musulmán de Sidi Embarek",
      "url": "https://elpais.com/espana/2026-10-13/ultima-hora-de-la-visita-de-los-reyes-a-ceuta-en-directo.html",
      "domain": "El País",
-     "seendate": "20261013T164811Z"
+     "seendate": "20261013T170223Z"
+    },
+    {
+     "title": "El incendio de Bejís, que quemó 18.538 hectáreas en 2022, contaminó más que la ciudad de Valencia en un año",
+     "url": "https://elpais.com/espana/comunidad-valenciana/2026-10-13/el-incendio-de-bejis-de-2022-contamino-mas-que-la-ciudad-de-valencia-durante-un-ano.html",
+     "domain": "El País",
+     "seendate": "20261013T164701Z"
     },
     {
      "title": "Pedraz imputa al colaborador de la trama de Leire Díez señalado por las maniobras contra la jueza Biedma",
@@ -181,6 +187,42 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Autoridades supervisan remediación por derrame en río Pilón en Nuevo León; incidente se encuentra contenido",
+     "url": "https://www.eluniversal.com.mx/estados/autoridades-supervisan-remediacion-por-derrame-en-rio-pilon-en-nuevo-leon-incidente-se-encuentra-contenido/",
+     "domain": "El Universal",
+     "seendate": "20261013T170640Z"
+    },
+    {
+     "title": "Marcha nacional del personal médico; minuto a minuto de la movilización de este 13 de octubre",
+     "url": "https://www.eluniversal.com.mx/nacion/marcha-nacional-del-personal-medico-minuto-a-minuto-de-la-movilizacion-de-este-13-de-octubre/",
+     "domain": "El Universal",
+     "seendate": "20261013T170506Z"
+    },
+    {
+     "title": "Negociación del T-MEC se ha estancado por déficit comercial con EU, reconoce Sheinbaum; \"hay muchos avances\", garantiza",
+     "url": "https://www.eluniversal.com.mx/nacion/negociacion-del-t-mec-se-ha-estancado-por-deficit-comercial-con-eu-reconoce-sheinbaum-hay-muchos-avances-garantiza/",
+     "domain": "El Universal",
+     "seendate": "20261013T170257Z"
+    },
+    {
+     "title": "\"Hoy la población se percibe menos insegura\", asegura Rosa Icela Rodríguez; reporta canje de 14 mil armas por dinero",
+     "url": "https://www.eluniversal.com.mx/nacion/hoy-la-poblacion-se-percibe-menos-insegura-asegura-rosa-icela-rodriguez-reporta-canje-de-14-mil-armas-por-dinero/",
+     "domain": "El Universal",
+     "seendate": "20261013T170228Z"
+    },
+    {
+     "title": "Acude Harfuch al Senado; comparecerá en privado ante la Jucopo",
+     "url": "https://www.eluniversal.com.mx/nacion/acude-harfuch-al-senado-comparecera-en-privado-ante-la-jucopo/",
+     "domain": "El Universal",
+     "seendate": "20261013T170131Z"
+    },
+    {
+     "title": "Vinculan a proceso a tres mujeres; son presuntas integrantes del grupo delictivo \"Los Olmos Fragoso\"",
+     "url": "https://www.eluniversal.com.mx/metropoli/vinculan-a-proceso-a-tres-mujeres-son-presuntas-integrantes-del-grupo-delictivo-los-olmos-fragoso/",
+     "domain": "El Universal",
+     "seendate": "20261013T170111Z"
+    },
     {
      "title": "Con esquela y comunicado, Congreso de Tamaulipas lamenta fallecimiento de la perrita “Perrucha”; fue atropellada",
      "url": "https://www.eluniversal.com.mx/estados/con-esquela-y-comunicado-congreso-de-tamaulipas-lamenta-fallecimiento-de-la-perrita-perrucha-fue-atropellada/",
@@ -786,12 +828,6 @@
      "seendate": "20261011T185000Z"
     },
     {
-     "title": "Cerca del epicentro del terremoto en Panamá: sin agua ni luz mientras todo sigue temblando",
-     "url": "https://www.prensa.com/sociedad/cerca-del-epicentro-del-terremoto-en-panama-sin-agua-ni-luz-mientras-todo-sigue-temblando/",
-     "domain": "La Prensa",
-     "seendate": "20261011T124228Z"
-    },
-    {
      "title": "‘Lo que el gobierno presenta como un cierre es una explotación minera que dura décadas’: Carlos Bichet",
      "url": "https://www.prensa.com/sociedad/lo-que-el-gobierno-presenta-como-un-cierre-es-una-explotacion-minera-que-dura-decadas-carlos-bichet/",
      "domain": "La Prensa",
@@ -1021,6 +1057,18 @@
   "ECU": {
    "articles": [
     {
+     "title": "Más de 150 eventos adversos afectan a 18 provincias este martes, 13 de octubre",
+     "url": "https://eluniverso.com/comunidad/ecuador/mas-de-150-eventos-adversos-afectan-a-18-provincias-este-martes-13-de-octubre-nota/",
+     "domain": "El Universo",
+     "seendate": "20261013T171449Z"
+    },
+    {
+     "title": "Campaña electoral: candidatos a consejeros de Participación Ciudadana solo usarán prendas de color blanco y tendrán 30 segundos para decir quiénes son y sus ofertas",
+     "url": "https://eluniverso.com/politica/elecciones/elecciones-seccionales-2027-consejo-nacional-electoral-cpccs-campanas-electorales-nota/",
+     "domain": "El Universo",
+     "seendate": "20261013T170000Z"
+    },
+    {
      "title": "Caso Goleada: tribunal ratifica a Sebastián Cornejo como juez de la causa; audiencia de apelación a la prisión preventiva de ocho procesados será el 19 de octubre",
      "url": "https://eluniverso.com/politica/expedientes/caso-goleada-tribunal-ratifica-a-sebastian-cornejo-como-juez-de-la-causa-audiencia-de-apelacion-a-la-prision-preventiva-de-siete-procesados-sera-el-19-de-octubre-nota/",
      "domain": "El Universo",
@@ -1127,17 +1175,23 @@
      "url": "https://eluniverso.com/comunidad/ecuador/fuga-de-petroleo-en-esmeraldas-petroecuador-confirma-que-fue-controlada-y-mantiene-trabajos-en-el-rio-cupa-nota/",
      "domain": "El Universo",
      "seendate": "20261013T000943Z"
-    },
-    {
-     "title": "Ecuador expone avances en protección e integración de personas refugiadas ante organismo de la ONU",
-     "url": "https://eluniverso.com/politica/ejecutivo/ecuador-expone-avances-en-proteccion-e-integracion-de-personas-refugiadas-ante-organismo-de-la-onu-nota/",
-     "domain": "El Universo",
-     "seendate": "20261012T231916Z"
     }
    ]
   },
   "PER": {
    "articles": [
+    {
+     "title": "SPH: producción de petróleo en Perú supera los 39 MBDP en septiembre de 2026",
+     "url": "https://elcomercio.pe/economia/peru/sph-produccion-de-petroleo-en-peru-supera-los-39-mbdp-en-septiembre-de-2026-l-ultimas-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261013T171324Z"
+    },
+    {
+     "title": "Mario Gonzales, CEO de Luz del Sur: “Nuestra intención es llevar la medición inteligente a todos los clientes”",
+     "url": "https://elcomercio.pe/economia/peru/energia-mario-gonzales-ceo-de-luz-del-sur-nuestra-intencion-es-llevar-la-medicion-inteligente-a-todos-los-clientes-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261013T165135Z"
+    },
     {
      "title": "El Niño adelanta el cierre del año escolar: las nueve regiones afectadas y cómo recuperarán las clases",
      "url": "https://elcomercio.pe/peru/el-nino-adelanta-el-cierre-del-ano-escolar-las-nueve-regiones-afectadas-y-como-recuperaran-las-clases-apuesplan-noticia/",
@@ -1157,10 +1211,46 @@
      "seendate": "20261013T161716Z"
     },
     {
+     "title": "Empresarios de Perú y Chile impulsan agenda conjunta para fortalecer la integración económica, inversiones y cooperación bilateral",
+     "url": "https://elcomercio.pe/economia/peru/empresarios-de-peru-y-chile-impulsan-agenda-conjunta-para-fortalecer-la-integracion-economica-inversiones-y-cooperacion-bilateral-l-ultimas-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261009T212444Z"
+    },
+    {
+     "title": "Grupo Falabella y su filial Mallplaza anuncian proyecto greenfield compuesto por un centro comercial y otros usos mixtos en San Isidro",
+     "url": "https://elcomercio.pe/economia/peru/grupo-falabella-y-su-filial-mallplaza-anuncian-proyecto-greenfield-compuesto-por-un-centro-comercial-y-otros-usos-mixtos-en-san-isidro-l-ultimas-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261009T195606Z"
+    },
+    {
+     "title": "SNI: 44% de empresarios industriales prevé invertir durante los próximos tres meses y el 33% plantea contratar personal adicional",
+     "url": "https://elcomercio.pe/economia/peru/sni-44-de-empresarios-industriales-preve-invertir-durante-los-proximos-tres-meses-y-el-33-plantea-contratar-personal-adicional-l-ultimas-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261009T195318Z"
+    },
+    {
+     "title": "Gamarra: pérdidas se elevan a S/1.000 millones por el fenómeno de El Niño",
+     "url": "https://elcomercio.pe/economia/peru/gamarra-perdidas-se-elevan-a-s1000-millones-por-el-fenomeno-de-el-nino-l-ultimas-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261009T174200Z"
+    },
+    {
      "title": "Fenómeno de El Niño: Gobierno anuncia “outlets” en distintas regiones del país para liquidar prendas que no se vendieron por el calor",
      "url": "https://elcomercio.pe/economia/peru/fenomeno-de-el-nino-gobierno-anuncia-outlets-en-distintas-regiones-del-pais-para-liquidar-prendas-que-no-se-vendieron-por-el-calor-l-ultimas-noticia/",
      "domain": "El Comercio",
      "seendate": "20261009T164055Z"
+    },
+    {
+     "title": "Producción nacional del huevo de gallina alcanza 511 mil toneladas en el 2025",
+     "url": "https://elcomercio.pe/economia/peru/produccion-nacional-del-huevo-de-gallina-alcanza-511-mil-toneladas-en-el-2025-l-ultimas-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261009T163702Z"
+    },
+    {
+     "title": "Turismo mundial crecerá 2,5% en el 2026: ¿cómo los destinos peruanos deberían crecer sin afectar sus principales atractivos?",
+     "url": "https://elcomercio.pe/economia/peru/turismo-mundial-crecera-25-en-el-2026-como-los-destinos-peruanos-deberian-crecer-sin-afectar-sus-principales-atractivos-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261009T143127Z"
     },
     {
      "title": "Venta directa supera los S/2.723 millones en el primer semestre del 2026",
@@ -1222,16 +1312,112 @@
   "ARG": {
    "articles": [
     {
+     "title": "Javier Milei y sus medidas, EN VIVO: el Presidente dijo que el Gobierno estaría dispuesto a ajustar la fecha de la visita del Papa",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-dijo-que-el-gobierno-estaria-dispuesto-a-ajustar-la-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T171000Z"
+    },
+    {
+     "title": "Uno de cada tres argentinos va a tener algún problema de salud mental en el transcurso de su vida, según estudios recientes",
+     "url": "https://www.lanacion.com.ar/sociedad/uno-de-cada-tres-argentinos-va-a-tener-algun-problema-de-salud-mental-en-el-transcurso-de-su-vida-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T170000Z"
+    },
+    {
+     "title": "Inflación de septiembre: cuál fue el IPC acumulado y qué proyectan las consultoras para este año",
+     "url": "https://www.lanacion.com.ar/economia/inflacion-de-septiembre-cual-fue-el-ipc-acumulado-y-que-proyectan-las-consultoras-para-este-ano-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T165939Z"
+    },
+    {
+     "title": "Qué es el “bloqueo atmosférico” que prolonga el mal tiempo en AMBA por una semana y no deja ver el sol",
+     "url": "https://www.lanacion.com.ar/sociedad/que-es-el-bloqueo-atmosferico-que-prolonga-el-mal-tiempo-en-amba-por-una-semana-y-no-deja-ver-el-sol-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T165036Z"
+    },
+    {
+     "title": "Se aproxima un “bloqueo en la circulación atmosférica” que prolongará el mal tiempo y las tormentas: las zonas afectadas",
+     "url": "https://www.lanacion.com.ar/sociedad/se-aproxima-un-bloqueo-en-la-circulacion-atmosferica-que-prolongara-el-mal-tiempo-y-las-tormentas-nid12102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T165023Z"
+    },
+    {
+     "title": "Gabriel Rolón, psicoanalista, sobre los recuerdos: “Nuestros padres que ya no están se transforman en personas por ahí más nobles de lo que fueron”",
+     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-sobre-los-recuerdos-nuestros-padres-que-ya-no-estan-se-transforman-en-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T165020Z"
+    },
+    {
+     "title": "Súper Niño 2026: qué se sabe del fenómeno que cambiará el pronóstico de la Argentina y llegará pronto a su pico máximo",
+     "url": "https://www.lanacion.com.ar/sociedad/super-nino-2026-que-se-sabe-del-fenomeno-que-cambiara-por-completo-el-clima-en-la-argentina-y-nid05102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T165017Z"
+    },
+    {
+     "title": "Los psicólogos coinciden: no es fácil saber qué se desea porque entre el deseo y uno mismo se interponen deseos ajenos y mandatos",
+     "url": "https://www.lanacion.com.ar/sociedad/los-psicologos-coinciden-no-es-facil-saber-que-se-desea-porque-entre-el-deseo-y-uno-mismo-se-nid10102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T165013Z"
+    },
+    {
+     "title": "Arthur Brooks, experto en felicidad de Harvard: “Hay una inteligencia que nace a partir de los 40 años”",
+     "url": "https://www.lanacion.com.ar/sociedad/arthur-brooks-experto-en-felicidad-de-harvard-hay-una-inteligencia-que-nace-a-partir-de-los-40-anos-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T165001Z"
+    },
+    {
+     "title": "Robin Sharma, especialista en crecimiento personal: “Un mal día para el ego es un buen día para el alma; aprendemos en la dificultad”",
+     "url": "https://www.lanacion.com.ar/sociedad/robin-sharma-especialista-en-crecimiento-personal-un-mal-dia-para-el-ego-es-un-buen-dia-para-el-alma-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T164927Z"
+    },
+    {
+     "title": "Una neuróloga reveló cuál es el impacto concreto de tomar una copa de vino antes de dormirnos",
+     "url": "https://www.lanacion.com.ar/sociedad/una-neurologa-revelo-cual-es-el-impacto-concreto-de-tomar-una-copa-de-vino-antes-de-dormirnos-nid12102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T164901Z"
+    },
+    {
+     "title": "Arthur Brooks, experto de Harvard, de 62 años: “Lo que hacen las personas felices y exitosas en la segunda mitad de sus vidas es pasar de sumar a restar”",
+     "url": "https://www.lanacion.com.ar/sociedad/arthur-brooks-experto-de-harvard-de-62-anos-lo-que-hacen-las-personas-felices-y-exitosas-en-la-nid08102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T164855Z"
+    },
+    {
+     "title": "Estanislao Bachrach, biólogo y experto en neurociencia: “Cambiar la forma de respirar calma el dolor, pero sobre todo desaparece el sufrimiento”",
+     "url": "https://www.lanacion.com.ar/sociedad/estanislao-bachrach-biologo-y-experto-en-neurociencia-cambiar-la-forma-de-respirar-calma-el-dolor-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T164839Z"
+    },
+    {
+     "title": "Conrado Estol, neurólogo: “Mantener el optimismo y una visión positiva es crucial y no debe considerarse un cliché”",
+     "url": "https://www.lanacion.com.ar/sociedad/conrado-estol-neurologo-mantener-el-optimismo-y-una-vision-positiva-es-crucial-y-no-debe-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T164825Z"
+    },
+    {
+     "title": "La reflexión de Descartes sobre la duda: “Si no pienso, luego me doy cuenta que tengo que estar existiendo, porque si yo no existo, no pienso”",
+     "url": "https://www.lanacion.com.ar/sociedad/la-reflexion-de-descartes-sobre-la-duda-si-no-pienso-luego-me-doy-cuenta-que-tengo-que-estar-nid07102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T164812Z"
+    },
+    {
+     "title": "Gabriel Rolón, psicoanalista: “No es lo mismo haber sido un hijo deseado que ser el producto de un método anticonceptivo que falló”",
+     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-no-es-lo-mismo-haber-sido-un-hijo-deseado-que-ser-el-producto-de-un-nid12102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T164805Z"
+    },
+    {
+     "title": "“La bronca es muy grande”: fuerte cuestionamiento al uso de los fondos de la tasa vial en un municipio bonaerense",
+     "url": "https://www.lanacion.com.ar/economia/campo/la-bronca-es-muy-grande-fuerte-cuestionamiento-al-uso-de-la-tasa-vial-en-un-municipio-bonaerense-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T164803Z"
+    },
+    {
      "title": "Gabriel Rolón, psicoanalista, sobre la búsqueda de bienestar: “A veces uno desea más haber sido feliz que ser feliz”",
      "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-sobre-la-busqueda-de-bienestar-a-veces-uno-desea-mas-haber-sido-feliz-nid08102026/",
      "domain": "La Nación",
      "seendate": "20261013T164755Z"
-    },
-    {
-     "title": "Javier Milei y sus medidas, EN VIVO: el Presidente dijo que el Gobierno estaría dispuesto a ajustar la fecha de la visita del Papa",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-dijo-que-el-gobierno-estaria-dispuesto-a-ajustar-la-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T164000Z"
     },
     {
      "title": "El crimen de Andrés Blaquier: 15 años de prisión para los dos adolescentes que mataron al empresario para robarle la moto",
@@ -1336,84 +1522,6 @@
      "seendate": "20261013T153624Z"
     },
     {
-     "title": "Qué es el “bloqueo atmosférico” que prolonga el mal tiempo en AMBA por una semana y no deja ver el sol",
-     "url": "https://www.lanacion.com.ar/sociedad/que-es-el-bloqueo-atmosferico-que-prolonga-el-mal-tiempo-en-amba-por-una-semana-y-no-deja-ver-el-sol-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T152037Z"
-    },
-    {
-     "title": "Se aproxima un “bloqueo en la circulación atmosférica” que prolongará el mal tiempo y las tormentas: las zonas afectadas",
-     "url": "https://www.lanacion.com.ar/sociedad/se-aproxima-un-bloqueo-en-la-circulacion-atmosferica-que-prolongara-el-mal-tiempo-y-las-tormentas-nid12102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T152027Z"
-    },
-    {
-     "title": "Gabriel Rolón, psicoanalista, sobre los recuerdos: “Nuestros padres que ya no están se transforman en personas por ahí más nobles de lo que fueron”",
-     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-sobre-los-recuerdos-nuestros-padres-que-ya-no-estan-se-transforman-en-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T152023Z"
-    },
-    {
-     "title": "Súper Niño 2026: qué se sabe del fenómeno que cambiará el pronóstico de la Argentina y llegará pronto a su pico máximo",
-     "url": "https://www.lanacion.com.ar/sociedad/super-nino-2026-que-se-sabe-del-fenomeno-que-cambiara-por-completo-el-clima-en-la-argentina-y-nid05102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T152019Z"
-    },
-    {
-     "title": "Los psicólogos coinciden: no es fácil saber qué se desea porque entre el deseo y uno mismo se interponen deseos ajenos y mandatos",
-     "url": "https://www.lanacion.com.ar/sociedad/los-psicologos-coinciden-no-es-facil-saber-que-se-desea-porque-entre-el-deseo-y-uno-mismo-se-nid10102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T152004Z"
-    },
-    {
-     "title": "Arthur Brooks, experto en felicidad de Harvard: “Hay una inteligencia que nace a partir de los 40 años”",
-     "url": "https://www.lanacion.com.ar/sociedad/arthur-brooks-experto-en-felicidad-de-harvard-hay-una-inteligencia-que-nace-a-partir-de-los-40-anos-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T151953Z"
-    },
-    {
-     "title": "Robin Sharma, especialista en crecimiento personal: “Un mal día para el ego es un buen día para el alma; aprendemos en la dificultad”",
-     "url": "https://www.lanacion.com.ar/sociedad/robin-sharma-especialista-en-crecimiento-personal-un-mal-dia-para-el-ego-es-un-buen-dia-para-el-alma-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T151923Z"
-    },
-    {
-     "title": "Una neuróloga reveló cuál es el impacto concreto de tomar una copa de vino antes de dormirnos",
-     "url": "https://www.lanacion.com.ar/sociedad/una-neurologa-revelo-cual-es-el-impacto-concreto-de-tomar-una-copa-de-vino-antes-de-dormirnos-nid12102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T151847Z"
-    },
-    {
-     "title": "Arthur Brooks, experto de Harvard, de 62 años: “Lo que hacen las personas felices y exitosas en la segunda mitad de sus vidas es pasar de sumar a restar”",
-     "url": "https://www.lanacion.com.ar/sociedad/arthur-brooks-experto-de-harvard-de-62-anos-lo-que-hacen-las-personas-felices-y-exitosas-en-la-nid08102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T151822Z"
-    },
-    {
-     "title": "Estanislao Bachrach, biólogo y experto en neurociencia: “Cambiar la forma de respirar calma el dolor, pero sobre todo desaparece el sufrimiento”",
-     "url": "https://www.lanacion.com.ar/sociedad/estanislao-bachrach-biologo-y-experto-en-neurociencia-cambiar-la-forma-de-respirar-calma-el-dolor-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T151741Z"
-    },
-    {
-     "title": "Conrado Estol, neurólogo: “Mantener el optimismo y una visión positiva es crucial y no debe considerarse un cliché”",
-     "url": "https://www.lanacion.com.ar/sociedad/conrado-estol-neurologo-mantener-el-optimismo-y-una-vision-positiva-es-crucial-y-no-debe-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T151738Z"
-    },
-    {
-     "title": "La reflexión de Descartes sobre la duda: “Si no pienso, luego me doy cuenta que tengo que estar existiendo, porque si yo no existo, no pienso”",
-     "url": "https://www.lanacion.com.ar/sociedad/la-reflexion-de-descartes-sobre-la-duda-si-no-pienso-luego-me-doy-cuenta-que-tengo-que-estar-nid07102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T151726Z"
-    },
-    {
-     "title": "Gabriel Rolón, psicoanalista: “No es lo mismo haber sido un hijo deseado que ser el producto de un método anticonceptivo que falló”",
-     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-no-es-lo-mismo-haber-sido-un-hijo-deseado-que-ser-el-producto-de-un-nid12102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T151712Z"
-    },
-    {
      "title": "Polémica literaria: cuánto de inteligencia artificial hay en los libros más vendidos",
      "url": "https://www.lanacion.com.ar/economia/IA/polemica-literaria-cuanto-de-inteligencia-artificial-hay-en-los-libros-mas-vendidos-nid13102026/",
      "domain": "La Nación",
@@ -1444,7 +1552,7 @@
      "seendate": "20261013T145751Z"
     },
     {
-     "title": "La paradoja de Milei: ganó con apoyo de los jóvenes y ahora son el grupo más golpeado en el mercado laboral durante su gobierno",
+     "title": "La paradoja de Milei: ganó con apoyo de los jóvenes y ahora son el grupo más golpeado en el mercado laboral",
      "url": "https://www.lanacion.com.ar/economia/los-jovenes-son-el-grupo-mas-golpeado-en-el-mercado-laboral-durante-el-gobierno-de-milei-nid13102026/",
      "domain": "La Nación",
      "seendate": "20261013T145218Z"
@@ -1460,24 +1568,6 @@
      "url": "https://www.lanacion.com.ar/politica/piden-investigar-giros-de-dinero-de-la-fifa-y-el-sindicato-de-camioneros-a-chiqui-tapia-nid13102026/",
      "domain": "La Nación",
      "seendate": "20261013T143622Z"
-    },
-    {
-     "title": "Tres personas murieron tras el choque frontal entre un camión y una camioneta en Entre Ríos",
-     "url": "https://www.lanacion.com.ar/sociedad/tres-personas-murieron-tras-el-choque-frontal-entre-un-camion-y-una-camioneta-en-entre-rios-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T143055Z"
-    },
-    {
-     "title": "Javier Milei viaja otra vez a Washington: disertaciones, premios y un nuevo gesto de respaldo a Trump",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-viaja-otra-vez-a-washington-disertaciones-premios-y-un-nuevo-gesto-de-respaldo-a-trump-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T142443Z"
-    },
-    {
-     "title": "Plazo fijo: cuál es la tasa de interés banco por banco este martes 13 de octubre",
-     "url": "https://www.lanacion.com.ar/economia/plazo-fijo-cual-es-la-tasa-de-interes-banco-por-banco-este-martes-13-de-octubre-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T142301Z"
     }
    ]
   },
@@ -1493,6 +1583,12 @@
   },
   "PRY": {
    "articles": [
+    {
+     "title": "Crecida del Paraná golpea a Cerrito y declaran emergencia distrital",
+     "url": "https://www.abc.com.py/nacionales/2026/10/13/crecida-del-parana-golpea-a-cerrito-y-declaran-emergencia-distrital/",
+     "domain": "ABC Color",
+     "seendate": "20261013T165913Z"
+    },
     {
      "title": "Caos por el cierre de la Costanera: ¿qué solución dará la PMT?",
      "url": "https://www.abc.com.py/nacionales/2026/10/13/caos-por-el-cierre-de-la-costanera-que-solucion-dara-la-pmt/",
@@ -1524,6 +1620,12 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "Imagens mostram momento da morte de jovem pela PM com 27 tiros; veja vídeo",
+     "url": "https://oglobo.globo.com/brasil/sao-paulo/noticia/2026/10/13/imagens-mostram-momento-da-morte-de-jovem-pela-pm-com-27-tiros.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261013T164856Z"
+    },
     {
      "title": "Ministros do TSE criticam Nunes Marques por barrar votação em plenário sobre ‘Exército do Lula’ e veem decisão ampliando crise na Corte",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/13/ministros-do-tse-criticam-nunes-marques-por-barrar-votacao-em-plenario-sobre-exercito-do-lula-e-veem-decisao-ampliando-crise-na-corte.ghtml",
@@ -1561,7 +1663,7 @@
      "seendate": "20261013T134352Z"
     },
     {
-     "title": "Campanha do PT registra 'Exército do Lula' no TSE após Nunes Marques suspender canal no WhatsApp e impor regras para funcionamento",
+     "title": "Campanha do PT registra 'Exército do Lula' no TSE após Nunes Marques censurar canal no WhatsApp e impor regras para funcionamento",
      "url": "https://oglobo.globo.com/politica/noticia/2026/10/13/nunes-marques-estabelece-regras-para-funcionamento-de-exercito-do-lula-no-whatsapp-e-manda-tse-monitorar-canal.ghtml",
      "domain": "O Globo",
      "seendate": "20261013T132136Z"
@@ -1583,12 +1685,6 @@
      "url": "https://oglobo.globo.com/politica/noticia/2026/10/13/flavio-visita.ghtml",
      "domain": "O Globo",
      "seendate": "20261013T124537Z"
-    },
-    {
-     "title": "Duda Salabert aciona MP por participação de crianças em vídeo de Nikolas contra Lula; deputado rebate",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/13/duda-salabert-aciona-mp-por-participacao-de-criancas-em-video-de-nikolas-contra-lula.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261013T115148Z"
     }
    ]
   }
