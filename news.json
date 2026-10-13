@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T05:21:41+00:00",
+ "updated": "2026-10-13T05:52:56+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -151,6 +151,12 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Fiscalía de Morelos libera a líder criminal detenido; lo intercambia por tres agentes secuestrados",
+     "url": "https://www.eluniversal.com.mx/estados/fiscalia-de-morelos-libera-a-lider-criminal-detenido-lo-intercambia-por-tres-agentes-secuestrados/",
+     "domain": "El Universal",
+     "seendate": "20261013T053559Z"
+    },
     {
      "title": "Clara Brugada pide protestas pacíficas en la Ciudad de México; llama a reducir afectaciones al tránsito",
      "url": "https://www.eluniversal.com.mx/metropoli/clara-brugada-pide-protestas-pacificas-en-la-ciudad-de-mexico-llama-a-reducir-afectaciones-al-transito/",
@@ -1264,6 +1270,30 @@
   "ARG": {
    "articles": [
     {
+     "title": "La Anmat prohibió el uso, venta y distribución de una marca de lavandina",
+     "url": "https://www.lanacion.com.ar/sociedad/la-anmat-prohibio-el-uso-venta-y-distribucion-de-una-marca-de-lavandina-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T054707Z"
+    },
+    {
+     "title": "La Corte y las fragilidades de Milei",
+     "url": "https://www.lanacion.com.ar/politica/la-corte-y-las-fragilidades-de-milei-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T054133Z"
+    },
+    {
+     "title": "La Argentina rechazó una declaración de la ONU sobre la prevención de pandemias, junto con EE.UU. e Israel",
+     "url": "https://www.lanacion.com.ar/politica/la-argentina-rechazo-una-declaracion-de-la-onu-sobre-la-prevencion-de-pandemias-junto-con-eeuu-e-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T053056Z"
+    },
+    {
+     "title": "Javier Milei y sus medidas, EN VIVO: el Presidente dijo que el Gobierno estaría dispuesto a ajustar la fecha de la visita del Papa",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-dijo-que-el-gobierno-estaria-dispuesto-a-ajustar-la-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T051614Z"
+    },
+    {
      "title": "Gabriel Rolón, psicoanalista, sobre los recuerdos: “Nuestros padres que ya no están se transforman en personas por ahí más nobles de lo que fueron”",
      "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-sobre-los-recuerdos-nuestros-padres-que-ya-no-estan-se-transforman-en-nid13102026/",
      "domain": "La Nación",
@@ -1613,12 +1643,6 @@
      "url": "https://oglobo.globo.com/politica/thomas-traumann/coluna/2026/10/se-vencer-flavio-chegara-ao-planalto-mais-forte-do-que-o-pai.ghtml",
      "domain": "O Globo",
      "seendate": "20261012T140000Z"
-    },
-    {
-     "title": "Fumaça no Amazonas: com 36 cidades em emergência, aeronaves da FAB atuam no combate a incêndios",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/12/fumaca-no-amazonas-com-36-cidades-em-emergencia-aeronaves-da-fab-atuam-no-combate-a-incendios.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261012T133756Z"
     }
    ]
   }
