@@ -1,17 +1,11 @@
 {
- "updated": "2026-10-13T04:21:43+00:00",
+ "updated": "2026-10-13T04:55:27+00:00",
  "countries": {
   "ESP": {
    "articles": [
     {
      "title": "El tortuoso camino para aplicar la orden del Supremo sobre la ‘ley de nietos’: de los recursos exprés a las revisiones del censo fuera de plazo",
      "url": "https://elpais.com/espana/elecciones-generales/2026-10-13/el-tortuoso-camino-para-aplicar-la-orden-del-supremo-sobre-la-ley-de-nietos-de-los-recursos-expres-a-las-revisiones-del-censo-fuera-de-plazo.html",
-     "domain": "El País",
-     "seendate": "20261013T033001Z"
-    },
-    {
-     "title": "¿Se puede impedir votar a un español?",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-10-13/se-puede-impedir-votar-a-un-espanol.html",
      "domain": "El País",
      "seendate": "20261013T033001Z"
     },
@@ -52,8 +46,8 @@
      "seendate": "20261013T033001Z"
     },
     {
-     "title": "Las noticias nos encuentran",
-     "url": "https://elpais.com/espana/catalunya/2026-10-13/las-noticias-nos-encuentran.html",
+     "title": "¿Se puede impedir votar a un español?",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-10-13/se-puede-impedir-votar-a-un-espanol.html",
      "domain": "El País",
      "seendate": "20261013T033001Z"
     },
@@ -157,6 +151,18 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Clara Brugada pide protestas pacíficas en la Ciudad de México; llama a reducir afectaciones al tránsito",
+     "url": "https://www.eluniversal.com.mx/metropoli/clara-brugada-pide-protestas-pacificas-en-la-ciudad-de-mexico-llama-a-reducir-afectaciones-al-transito/",
+     "domain": "El Universal",
+     "seendate": "20261013T044227Z"
+    },
+    {
+     "title": "Latinus liga a Amílcar Olán con mano derecha de Rocío Nahle; revela audios en los que presume contratos en Dos Bocas",
+     "url": "https://www.eluniversal.com.mx/nacion/latinus-liga-a-amilcar-olan-con-mano-derecha-de-rocio-nahle-revela-audios-en-los-que-presume-contratos-en-dos-bocas/",
+     "domain": "El Universal",
+     "seendate": "20261013T043240Z"
+    },
     {
      "title": "Nación indígena denuncia retiro de miles de cactus sagrados en Arizona; señala daños por construcción del muro fronterizo",
      "url": "https://www.eluniversal.com.mx/estados/nacion-indigena-denuncia-retiro-de-miles-de-cactus-sagrados-en-arizona-senala-danos-por-construccion-del-muro-fronterizo/",
@@ -432,18 +438,6 @@
      "url": "https://www.eluniversal.com.mx/nacion/pt-descarta-ruptura-inmediata-con-morena-reginaldo-sandoval-pide-respetar-la-identidad-de-izquierda-de-la-alianza/",
      "domain": "El Universal",
      "seendate": "20261012T211214Z"
-    },
-    {
-     "title": "Tamaulipas inicia Campaña Estatal de Vacunación 2026; reporta cero casos de sarampión",
-     "url": "https://www.eluniversal.com.mx/estados/tamaulipas-inicia-campana-estatal-de-vacunacion-2026-reporta-cero-casos-de-sarampion/",
-     "domain": "El Universal",
-     "seendate": "20261012T202555Z"
-    },
-    {
-     "title": "Copppal celebra su 47 aniversario; llega fuerte, unida, con agenda y presencia en la región: Alejandro Moreno",
-     "url": "https://www.eluniversal.com.mx/nacion/copppal-celebra-su-47-aniversario-llega-fuerte-unida-con-agenda-y-presencia-en-la-region-alejandro-moreno/",
-     "domain": "El Universal",
-     "seendate": "20261012T200944Z"
     },
     {
      "title": "Controlan fuga de combustible por toma clandestina en la Refinería Bicentenario; Hidalgo suma mil 467 conexiones ilegales en 2026",
@@ -1270,20 +1264,26 @@
   "ARG": {
    "articles": [
     {
+     "title": "El Gobierno promulgó la ley que modifica el régimen de zonas frías",
+     "url": "https://www.lanacion.com.ar/politica/el-gobierno-promulgo-la-ley-que-modifica-el-regimen-de-zonas-frias-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T043204Z"
+    },
+    {
      "title": "Por qué El Niño puede ser el más severo de la historia y cómo evitar escenarios catastróficos",
      "url": "https://www.lanacion.com.ar/sociedad/por-que-el-nino-puede-ser-el-mas-severo-de-la-historia-y-como-evitar-escenarios-catastroficos-nid13102026/",
      "domain": "La Nación",
      "seendate": "20261013T030200Z"
     },
     {
-     "title": "Milei mantiene tres ventajas para 2027, a pesar de todo",
-     "url": "https://www.lanacion.com.ar/politica/milei-mantiene-tres-ventajas-para-2027-a-pesar-de-todo-nid13102026/",
+     "title": "Cinco frases de dinero que todo inversor repite (y que muy pocos aplican)",
+     "url": "https://www.lanacion.com.ar/economia/cinco-frases-de-dinero-que-todo-inversor-repite-y-que-muy-pocos-aplican-nid13102026/",
      "domain": "La Nación",
      "seendate": "20261013T030100Z"
     },
     {
-     "title": "Cinco frases de dinero que todo inversor repite (y que muy pocos aplican)",
-     "url": "https://www.lanacion.com.ar/economia/cinco-frases-de-dinero-que-todo-inversor-repite-y-que-muy-pocos-aplican-nid13102026/",
+     "title": "Milei mantiene tres ventajas para 2027, a pesar de todo",
+     "url": "https://www.lanacion.com.ar/politica/milei-mantiene-tres-ventajas-para-2027-a-pesar-de-todo-nid13102026/",
      "domain": "La Nación",
      "seendate": "20261013T030100Z"
     },
@@ -1468,12 +1468,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/12/paso-yobai-temporal-inunda-caminos-y-viviendas-en-varias-companias-rurales/",
      "domain": "ABC Color",
      "seendate": "20261013T003701Z"
-    },
-    {
-     "title": "Cerrarán desde mañana tramo de la Avenida Costanera por campeonato de skate",
-     "url": "https://www.abc.com.py/nacionales/2026/10/12/cerraran-desde-manana-tramo-de-la-avenida-costanera-por-campeonato-de-skate/",
-     "domain": "ABC Color",
-     "seendate": "20261012T235824Z"
     }
    ]
   },
