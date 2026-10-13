@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T07:03:26+00:00",
+ "updated": "2026-10-13T07:30:36+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -494,6 +494,18 @@
   "CRI": {
    "articles": [
     {
+     "title": "Educación pública vs. privada en Costa Rica: dos familias cuentan por qué decidieron hacer el cambio",
+     "url": "https://www.nacion.com/el-pais/educacion-publica-vs-privada-en-costa-rica-dos/QX6N63QCEZBIPMT624UUFZKL6Q/story/",
+     "domain": "La Nación",
+     "seendate": "20261013T071414Z"
+    },
+    {
+     "title": "Matrícula pública cae en 180.000 estudiantes por baja natalidad; la privada crece",
+     "url": "https://www.nacion.com/el-pais/matricula-publica-cae-en-180000-estudiantes-por/YGDQ6KFDJBHGTFGZYNNHGC244I/story/",
+     "domain": "La Nación",
+     "seendate": "20261013T070000Z"
+    },
+    {
      "title": "Muere Rodrigo Delgado Soto, exembajador de Costa Rica en China",
      "url": "https://www.nacion.com/politica/muere-rodrigo-delgado-soto-exembajador-de-costa/2CDCBY5VGZCBDL573XSOPUAILE/story/",
      "domain": "La Nación",
@@ -916,12 +928,6 @@
      "seendate": "20261011T150321Z"
     },
     {
-     "title": "Puros de lujo para el mundo, tabaco “del malo” para los fumadores cubanos",
-     "url": "https://www.14ymedio.com/cuba/puros-lujo-mundo-tabaco-malo_1_1131819.html",
-     "domain": "14ymedio",
-     "seendate": "20261011T131857Z"
-    },
-    {
      "title": "Díaz-Canel reafirma su amistad con Corea del Norte tras reducir su presencia diplomática en Seúl",
      "url": "https://www.14ymedio.com/cuba/diaz-canel-reafirma-amistad-corea_1_1131811.html",
      "domain": "14ymedio",
@@ -1216,6 +1222,12 @@
   "ARG": {
    "articles": [
     {
+     "title": "Hay alerta naranja y amarilla por tormentas, lluvias y vientos para este martes 13 de octubre: las provincias afectadas",
+     "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-naranja-y-amarilla-por-tormentas-lluvias-y-vientos-para-este-martes-13-de-octubre-las-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T070730Z"
+    },
+    {
      "title": "Estanislao Bachrach, biólogo y experto en neurociencia: “Cambiar la forma de respirar calma el dolor, pero sobre todo desaparece el sufrimiento”",
      "url": "https://www.lanacion.com.ar/sociedad/estanislao-bachrach-biologo-y-experto-en-neurociencia-cambiar-la-forma-de-respirar-calma-el-dolor-nid13102026/",
      "domain": "La Nación",
@@ -1436,12 +1448,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/jorge-tartaglione-medico-cardiologo-los-obesos-no-son-haraganes-tienen-una-genetica-clave-nid12102026/",
      "domain": "La Nación",
      "seendate": "20261012T230000Z"
-    },
-    {
-     "title": "Clima extremo: El Niño obliga a reescribir los protocolos de seguridad en las Cataratas y continúa el alerta en la región",
-     "url": "https://www.lanacion.com.ar/sociedad/clima-extremo-el-nino-obliga-a-reescribir-los-protocolos-de-seguridad-en-las-cataratas-y-continua-el-nid12102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T224447Z"
     }
    ]
   },
@@ -1470,6 +1476,54 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "Crise da fumaça no Amazonas gera embate entre governos e mobiliza aviões da Força Aérea",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/13/crise-da-fumaca-no-amazonas-gera-embate-entre-governos-e-mobiliza-avioes-da-forca-aerea.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261013T063000Z"
+    },
+    {
+     "title": "Impulsionadas pelas redes, deputadas garantem votação recorde com pauta antifeminista",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/13/impulsionada-pelas-redes-deputadas-garantem-votacao-recorde-com-pauta-antifeminista.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261013T063000Z"
+    },
+    {
+     "title": "Escondida em frascos de xampu, maior apreensão de cocaína líquida em Bali acaba em prisão de brasileira",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/13/escondida-em-frascos-de-xampu-maior-apreensao-de-cocaina-liquida-em-bali-acaba-em-prisao-de-brasileira.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261013T063000Z"
+    },
+    {
+     "title": "‘Seria um erro se o MDB tivesse apoiado Lula’, diz Ricardo Nunes, prefeito de São Paulo",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/13/seria-um-erro-se-o-mdb-tivesse-apoiado-lula-diz-ricardo-nunes-prefeito-de-sao-paulo.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261013T063000Z"
+    },
+    {
+     "title": "Flávio faz giro por estados nesta semana, e Lula prepara ato com caminhoneiros em SP e percorre Minas Gerais",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/13/flavio-faz-giro-por-estados-nesta-semana-e-lula-prepara-ato-com-caminhoneiros-em-sp-e-percorre-minas-gerais.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261013T063000Z"
+    },
+    {
+     "title": "Flávio Bolsonaro recebe apoio de parte do MDB, após articulação de Tarcísio e Nunes, em evento em São Paulo",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/13/flavio-bolsonaro-recebe-apoio-de-parte-do-mdb-apos-articulacao-de-tarcisio-e-nunes-em-evento-em-sao-paulo.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261013T063000Z"
+    },
+    {
+     "title": "Nunes Marques reúne campanhas de Lula e Flávio em meio a guerra judicial por derrubada de canal pró-petista",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/13/nunes-marques-reune-campanhas-de-lula-e-flavio-em-meio-a-guerra-judicial-por-derrubada-de-canal-pro-petista.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261013T063000Z"
+    },
+    {
+     "title": "MEC vai homologar com mudanças parecer que cria regras para uso de inteligência artificial na educação; saiba quais",
+     "url": "https://oglobo.globo.com/brasil/educacao/noticia/2026/10/13/mec-vai-homologar-com-mudancas-parecer-que-cria-regras-para-uso-de-inteligencia-artificial-na-educacao-saiba-quais.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261013T063000Z"
+    },
     {
      "title": "Flávio Bolsonaro visita o pai após três meses sem vê-lo por decisão de Moraes",
      "url": "https://oglobo.globo.com/politica/noticia/2026/10/13/flavio-bolsonaro-visita-o-pai-apos-tres-meses-sem-ve-lo-por-decisao-de-moraes.ghtml",
@@ -1541,54 +1595,6 @@
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/12/apoiadores-ocupam-quarteiroes-da-praia-de-copacabana-rj-em-ato-sem-lula-no-rio.ghtml",
      "domain": "O Globo",
      "seendate": "20261012T171307Z"
-    },
-    {
-     "title": "Criança de 10 anos morre após afogamento em parque aquático no Ceará",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/12/crianca-de-10-anos-morre-apos-afogamento-em-parque-aquatico-no-ceara.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261012T162233Z"
-    },
-    {
-     "title": "Flávio Bolsonaro diz que visitará o pai na terça-feira após Moraes autorizar retomada dos encontros",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/12/flavio-bolsonaro-nesta-terca-feira-apos-moraes-autorizar-retomada-dos-encontros.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261012T155759Z"
-    },
-    {
-     "title": "Em aceno a católicos, Alckmin anuncia 'Caminho da Fé' para os romeiros de Aparecida, com 134 quilômetros de pista e ciclovia ao lado da Dutra",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/12/em-aceno-a-catolicos-alckmin-anuncia-caminho-da-fe-para-os-romeiros-de-aparecida-com-134-quilometros-de-pista-e-ciclovia-ao-lado-da-dutra.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261012T153315Z"
-    },
-    {
-     "title": "Área técnica do TSE diz não ter identificado postagens com fake news citadas por Flávio em canal de apoiadores de Lula",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/12/area-tecnica-do-tse-diz-nao-ter-identificado-postagens-com-fake-news-citadas-por-flavio-em-canal-de-apoiadores-de-lula.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261012T152718Z"
-    },
-    {
-     "title": "Em Aparecida, Alckmin critica 'plataformas que estariam derrubando manifestações' e pede 'Justiça guardiã da liberdade de expressão'",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/12/em-aparecida-alckmin-critica-plataformas-que-estariam-derrubando-manifestacoes-e-pede-justica-guardia-da-liberdade-de-expressao.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261012T151513Z"
-    },
-    {
-     "title": "Incêndios no Amazonas: focos em áreas preservadas da floresta indicam ação humana intencional, diz ministro",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/12/incendios-no-amazonas-focos-em-areas-preservadas-da-floresta-indicam-acao-humana-intencional-diz-ministro.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261012T151108Z"
-    },
-    {
-     "title": "Apoiadores de Lula cantam e festejam Alckmin na saída da Basílica de Aparecida; veja vídeo",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/12/apoiadores-de-lula-cantam-e-festejam-alckmin-na-saida-da-basilica-de-aparecida-veja-video.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261012T144917Z"
-    },
-    {
-     "title": "'Presidente do TSE não pode ter lado na política', diz Lula após decisão de Nunes Marques de derrubar canal de apoiadores",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/12/presidente-do-tse-nao-pode-ter-lado-na-politica-diz-lula-apos-decisao-de-nunes-marques-de-derrubar-canal-de-apoiadores.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261012T142034Z"
     }
    ]
   }
