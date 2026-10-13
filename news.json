@@ -1,8 +1,14 @@
 {
- "updated": "2026-10-13T07:55:04+00:00",
+ "updated": "2026-10-13T08:22:52+00:00",
  "countries": {
   "ESP": {
    "articles": [
+    {
+     "title": "Última hora de la actualidad política, en directo | Montero confirma “conversaciones” con el Frente Amplio: “Lo importante es que cuidemos las cosas y tratemos de que lleguen a buen puerto”",
+     "url": "https://elpais.com/espana/2026-10-13/ultima-hora-de-la-actualidad-politica-y-de-la-visita-de-los-reyes-a-ceuta-en-directo.html",
+     "domain": "El País",
+     "seendate": "20261013T081423Z"
+    },
     {
      "title": "El Gobierno aprueba este martes una segunda macroampliación de la plantilla de jueces y fiscales",
      "url": "https://elpais.com/espana/2026-10-13/el-gobierno-aprueba-este-martes-una-segunda-macroampliacion-de-la-plantilla-de-jueces-y-fiscales.html",
@@ -348,36 +354,6 @@
      "url": "https://www.eluniversal.com.mx/metropoli/activan-alerta-amarilla-en-9-alcaldias-de-la-cdmx-este-lunes-12-de-octubre-preven-posible-caida-de-granizo/",
      "domain": "El Universal",
      "seendate": "20261013T002241Z"
-    },
-    {
-     "title": "Senado aprueba prohibir celulares en escuelas de educación básica; uso en bachillerato se decidirá mediante asambleas",
-     "url": "https://www.eluniversal.com.mx/nacion/senado-aprueba-prohibir-celulares-en-escuelas-de-educacion-basica-uso-en-bachillerato-se-decidira-mediante-asambleas/",
-     "domain": "El Universal",
-     "seendate": "20261013T002005Z"
-    },
-    {
-     "title": "Sindicato del Seguro Social convoca a participar en consulta salarial; votación se realizará en 670 unidades electorales",
-     "url": "https://www.eluniversal.com.mx/nacion/sindicato-del-seguro-social-convoca-a-participar-en-consulta-salarial-votacion-se-realizara-en-670-unidades-electorales/",
-     "domain": "El Universal",
-     "seendate": "20261013T001907Z"
-    },
-    {
-     "title": "Aseguran tres embarcaciones en Arrecife Alacranes, Yucatán; incumplieron normas ambientales",
-     "url": "https://www.eluniversal.com.mx/estados/aseguran-tres-embarcaciones-en-arrecife-alacranes-yucatan-incumplieron-normas-ambientales/",
-     "domain": "El Universal",
-     "seendate": "20261013T001611Z"
-    },
-    {
-     "title": "Hallan sin vida a mujer de 77 años en Bokobá, Yucatán; su nieta es señalada como probable responsable",
-     "url": "https://www.eluniversal.com.mx/estados/hallan-sin-vida-a-mujer-de-77-anos-en-bokoba-yucatan-su-nieta-es-senalada-como-probable-responsable/",
-     "domain": "El Universal",
-     "seendate": "20261013T001540Z"
-    },
-    {
-     "title": "Grupos feministas clausuran oficinas del PAN en Chiapas; protestan contra impugnación a reforma de paridad",
-     "url": "https://www.eluniversal.com.mx/estados/grupos-feministas-clausuran-oficinas-del-pan-en-chiapas-protestan-contra-impugnacion-a-reforma-de-paridad/",
-     "domain": "El Universal",
-     "seendate": "20261013T001339Z"
     },
     {
      "title": "Clara Brugada promete mantenimiento al Monumento a la Raza; estructura presenta pintas y coladeras sin tapa",
@@ -1228,6 +1204,12 @@
   "ARG": {
    "articles": [
     {
+     "title": "Javier Milei y sus medidas, EN VIVO: el Presidente dijo que el Gobierno estaría dispuesto a ajustar la fecha de la visita del Papa",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-dijo-que-el-gobierno-estaria-dispuesto-a-ajustar-la-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T080000Z"
+    },
+    {
      "title": "Hay alerta naranja y amarilla por tormentas, lluvias y vientos para este martes 13 de octubre: las provincias afectadas",
      "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-naranja-y-amarilla-por-tormentas-lluvias-y-vientos-para-este-martes-13-de-octubre-las-nid13102026/",
      "domain": "La Nación",
@@ -1238,12 +1220,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/estanislao-bachrach-biologo-y-experto-en-neurociencia-cambiar-la-forma-de-respirar-calma-el-dolor-nid13102026/",
      "domain": "La Nación",
      "seendate": "20261013T070000Z"
-    },
-    {
-     "title": "Javier Milei y sus medidas, EN VIVO: el Presidente dijo que el Gobierno estaría dispuesto a ajustar la fecha de la visita del Papa",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-dijo-que-el-gobierno-estaria-dispuesto-a-ajustar-la-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T064625Z"
     },
     {
      "title": "El Gobierno rechazó el ingreso al país de un periodista brasileño que había criticado a Milei",
@@ -1448,12 +1424,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/robin-sharma-especialista-en-crecimiento-personal-un-mal-dia-para-el-ego-es-un-buen-dia-para-el-alma-nid11102026/",
      "domain": "La Nación",
      "seendate": "20261012T232800Z"
-    },
-    {
-     "title": "Jorge Tartaglione, médico cardiólogo: “Los obesos no son haraganes, tienen una genética clave”",
-     "url": "https://www.lanacion.com.ar/sociedad/jorge-tartaglione-medico-cardiologo-los-obesos-no-son-haraganes-tienen-una-genetica-clave-nid12102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T230000Z"
     }
    ]
   },
@@ -1589,12 +1559,6 @@
      "url": "https://oglobo.globo.com/politica/noticia/2026/10/12/o-que-a-area-tecnica-do-tse-disse-sobre-o-canal-exercito-do-lula-questionado-pela-campanha-de-flavio.ghtml",
      "domain": "O Globo",
      "seendate": "20261012T180928Z"
-    },
-    {
-     "title": "Paes anuncia volta após 'fim de semana no sítio' e posta apoio a Lula: 'Hora de falar de vida real'",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/12/paes-anuncia-volta-apos-fim-de-semana-no-sitio-e-posta-apoio-a-lula-hora-de-falar-de-vida-real.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261012T171357Z"
     }
    ]
   }
