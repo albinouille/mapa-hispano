@@ -1,8 +1,14 @@
 {
- "updated": "2026-10-13T05:52:56+00:00",
+ "updated": "2026-10-13T06:26:26+00:00",
  "countries": {
   "ESP": {
    "articles": [
+    {
+     "title": "El Gobierno aprueba este martes una segunda macroampliación de la plantilla de jueces y fiscales",
+     "url": "https://elpais.com/espana/2026-10-13/el-gobierno-aprueba-este-martes-una-segunda-macroampliacion-de-la-plantilla-de-jueces-y-fiscales.html",
+     "domain": "El País",
+     "seendate": "20261013T060038Z"
+    },
     {
      "title": "El tortuoso camino para aplicar la orden del Supremo sobre la ‘ley de nietos’: de los recursos exprés a las revisiones del censo fuera de plazo",
      "url": "https://elpais.com/espana/elecciones-generales/2026-10-13/el-tortuoso-camino-para-aplicar-la-orden-del-supremo-sobre-la-ley-de-nietos-de-los-recursos-expres-a-las-revisiones-del-censo-fuera-de-plazo.html",
@@ -46,8 +52,8 @@
      "seendate": "20261013T033001Z"
     },
     {
-     "title": "¿Se puede impedir votar a un español?",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-10-13/se-puede-impedir-votar-a-un-espanol.html",
+     "title": "Las noticias nos encuentran",
+     "url": "https://elpais.com/espana/catalunya/2026-10-13/las-noticias-nos-encuentran.html",
      "domain": "El País",
      "seendate": "20261013T033001Z"
     },
@@ -151,6 +157,12 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "\"¿Y si mañana soy yo?\"; universitarios en Guanajuato exigen justicia por Joan Francisco, estudiante hallado sin vida",
+     "url": "https://www.eluniversal.com.mx/estados/y-si-manana-soy-yo-universitarios-en-guanajuato-exigen-justicia-por-joan-francisco-estudiante-hallado-sin-vida/",
+     "domain": "El Universal",
+     "seendate": "20261013T062227Z"
+    },
     {
      "title": "Fiscalía de Morelos libera a líder criminal detenido; lo intercambia por tres agentes secuestrados",
      "url": "https://www.eluniversal.com.mx/estados/fiscalia-de-morelos-libera-a-lider-criminal-detenido-lo-intercambia-por-tres-agentes-secuestrados/",
@@ -450,12 +462,6 @@
      "url": "https://www.eluniversal.com.mx/estados/controlan-fuga-de-combustible-por-toma-clandestina-en-la-refineria-bicentenario-hidalgo-suma-mil-467-conexiones-ilegales-en-2026/",
      "domain": "El Universal",
      "seendate": "20261012T195712Z"
-    },
-    {
-     "title": "Olivia Garza, presidenta del Congreso de la CDMX, se reúne con la jefa de gobierno, Clara Brugada; propuso mecanismo para dar seguimiento a la publicación de decretos",
-     "url": "https://www.eluniversal.com.mx/metropoli/presidenta-del-congreso-de-la-cdmx-se-reune-con-clara-brugada-pide-evitar-rezago-en-publicacion-de-decretos/",
-     "domain": "El Universal",
-     "seendate": "20261012T194623Z"
     },
     {
      "title": "Huracán Simon baja a categoría 2 frente a costas mexicanas; sigue EN VIVO su trayectoria y afectaciones",
@@ -1270,6 +1276,18 @@
   "ARG": {
    "articles": [
     {
+     "title": "Conrado Estol, neurólogo: “Mantener el optimismo y una visión positiva es crucial y no debe considerarse un cliché”",
+     "url": "https://www.lanacion.com.ar/sociedad/conrado-estol-neurologo-mantener-el-optimismo-y-una-vision-positiva-es-crucial-y-no-debe-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T060000Z"
+    },
+    {
+     "title": "Javier Milei y sus medidas, EN VIVO: el Presidente dijo que el Gobierno estaría dispuesto a ajustar la fecha de la visita del Papa",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-dijo-que-el-gobierno-estaria-dispuesto-a-ajustar-la-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T055224Z"
+    },
+    {
      "title": "La Anmat prohibió el uso, venta y distribución de una marca de lavandina",
      "url": "https://www.lanacion.com.ar/sociedad/la-anmat-prohibio-el-uso-venta-y-distribucion-de-una-marca-de-lavandina-nid13102026/",
      "domain": "La Nación",
@@ -1286,12 +1304,6 @@
      "url": "https://www.lanacion.com.ar/politica/la-argentina-rechazo-una-declaracion-de-la-onu-sobre-la-prevencion-de-pandemias-junto-con-eeuu-e-nid13102026/",
      "domain": "La Nación",
      "seendate": "20261013T053056Z"
-    },
-    {
-     "title": "Javier Milei y sus medidas, EN VIVO: el Presidente dijo que el Gobierno estaría dispuesto a ajustar la fecha de la visita del Papa",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-dijo-que-el-gobierno-estaria-dispuesto-a-ajustar-la-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T051614Z"
     },
     {
      "title": "Gabriel Rolón, psicoanalista, sobre los recuerdos: “Nuestros padres que ya no están se transforman en personas por ahí más nobles de lo que fueron”",
@@ -1498,12 +1510,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/13/obispo-de-neembucu-cuestiona-la-corrupcion-y-la-incoherencia-en-la-vida-publica/",
      "domain": "ABC Color",
      "seendate": "20261013T040637Z"
-    },
-    {
-     "title": "Paso Yobái: temporal inunda caminos y viviendas en varias compañías rurales",
-     "url": "https://www.abc.com.py/nacionales/2026/10/12/paso-yobai-temporal-inunda-caminos-y-viviendas-en-varias-companias-rurales/",
-     "domain": "ABC Color",
-     "seendate": "20261013T003701Z"
     }
    ]
   },
@@ -1631,18 +1637,6 @@
      "url": "https://oglobo.globo.com/politica/noticia/2026/10/12/presidente-do-tse-nao-pode-ter-lado-na-politica-diz-lula-apos-decisao-de-nunes-marques-de-derrubar-canal-de-apoiadores.ghtml",
      "domain": "O Globo",
      "seendate": "20261012T142034Z"
-    },
-    {
-     "title": "Dia de Nossa Senhora: Lula participa de missa restrita na capela do Alvorada; evangélico, Flávio vai à Catedral de Brasília",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/12/dia-de-nossa-senhora-aparecida-lula-participa-de-missa-restrita-na-capela-no-alvorada-evangelico-flavio-vai-a-catedral-de-brasilia-1.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261012T140625Z"
-    },
-    {
-     "title": "Se vencer, Flávio chegará ao Planalto mais forte do que o pai",
-     "url": "https://oglobo.globo.com/politica/thomas-traumann/coluna/2026/10/se-vencer-flavio-chegara-ao-planalto-mais-forte-do-que-o-pai.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261012T140000Z"
     }
    ]
   }
