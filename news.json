@@ -1,25 +1,31 @@
 {
- "updated": "2026-10-13T11:21:06+00:00",
+ "updated": "2026-10-13T11:53:01+00:00",
  "countries": {
   "ESP": {
    "articles": [
     {
+     "title": "Última hora de la actualidad política, en directo | El Gobierno, tras la orden del Supremo sobre la ‘ley de nietos’: “Es una situación de extraordinaria gravedad”",
+     "url": "https://elpais.com/espana/2026-10-13/ultima-hora-de-la-actualidad-politica-y-de-la-visita-de-los-reyes-a-ceuta-en-directo.html",
+     "domain": "El País",
+     "seendate": "20261013T114407Z"
+    },
+    {
+     "title": "El PP cambia de estrategia en redes y se lanza contra Sarah Santaolalla y Afra Blanco: “A esto se viene llorado”",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-10-13/el-pp-cambia-de-estrategia-en-redes-y-se-lanza-contra-sarah-santaolalla-y-afra-blanco-a-esto-se-viene-llorado.html",
+     "domain": "El País",
+     "seendate": "20261013T112956Z"
+    },
+    {
      "title": "Última hora de la visita de los Reyes a Ceuta, en directo | Ceuta recibe entusiasmada a los Reyes en su histórica visita a la ciudad dos meses después de la crisis",
      "url": "https://elpais.com/espana/2026-10-13/ultima-hora-de-la-visita-de-los-reyes-a-ceuta-en-directo.html",
      "domain": "El País",
-     "seendate": "20261013T111331Z"
+     "seendate": "20261013T112225Z"
     },
     {
      "title": "Gallardo niega amaños para favorecer a David Sánchez y pide anular su condena: “Ni siquiera sabía de su existencia”",
      "url": "https://elpais.com/espana/2026-10-13/gallardo-niega-amanos-para-favorecer-a-david-sanchez-y-pide-anular-su-condena-ni-siquiera-sabia-de-su-existencia.html",
      "domain": "El País",
      "seendate": "20261013T110640Z"
-    },
-    {
-     "title": "El PP y UPN alcanzan un principio de acuerdo para ir en coalición el 29-N",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-10-13/el-pp-y-upn-alcanzan-un-principio-de-acuerdo-para-ir-en-coalicion-el-29-n.html",
-     "domain": "El País",
-     "seendate": "20261013T102617Z"
     },
     {
      "title": "Podemos da la vuelta a la oferta del Frente Amplio y lo invita a “sumarse” a su alianza con ERC",
@@ -52,20 +58,14 @@
      "seendate": "20261013T033001Z"
     },
     {
-     "title": "Todas las partidas son la penúltima para don Manuel, el ajedrecista de 105 años",
-     "url": "https://elpais.com/espana/madrid/2026-10-13/todas-las-partidas-son-la-penultima-para-don-manuel-el-ajedrecista-de-105-anos.html",
-     "domain": "El País",
-     "seendate": "20261013T033001Z"
-    },
-    {
      "title": "El jefe de policía de Ripoll desafía a Orriols con una denuncia en los tribunales",
      "url": "https://elpais.com/espana/catalunya/2026-10-13/el-jefe-de-policia-de-ripoll-desafia-a-orriols-con-una-denuncia-en-los-tribunales.html",
      "domain": "El País",
      "seendate": "20261013T033001Z"
     },
     {
-     "title": "Las noticias nos encuentran",
-     "url": "https://elpais.com/espana/catalunya/2026-10-13/las-noticias-nos-encuentran.html",
+     "title": "Todas las partidas son la penúltima para don Manuel, el ajedrecista de 105 años",
+     "url": "https://elpais.com/espana/madrid/2026-10-13/todas-las-partidas-son-la-penultima-para-don-manuel-el-ajedrecista-de-105-anos.html",
      "domain": "El País",
      "seendate": "20261013T033001Z"
     },
@@ -82,14 +82,14 @@
      "seendate": "20261013T033001Z"
     },
     {
-     "title": "La Generalitat eleva las exigencias a las secciones de crédito agrarias para reforzar su solvencia",
-     "url": "https://elpais.com/espana/catalunya/2026-10-13/la-generalitat-eleva-las-exigencias-a-las-secciones-de-credito-agrarias-para-reforzar-su-solvencia.html",
+     "title": "Las noticias nos encuentran",
+     "url": "https://elpais.com/espana/catalunya/2026-10-13/las-noticias-nos-encuentran.html",
      "domain": "El País",
      "seendate": "20261013T033001Z"
     },
     {
-     "title": "Seis días, cien pensadores: qué no perderse en la Bienal del Pensamiento 2026",
-     "url": "https://elpais.com/espana/catalunya/2026-10-13/seis-dias-cien-pensadores-que-no-perderse-en-la-bienal-del-pensamiento-2026.html",
+     "title": "La Generalitat eleva las exigencias a las secciones de crédito agrarias para reforzar su solvencia",
+     "url": "https://elpais.com/espana/catalunya/2026-10-13/la-generalitat-eleva-las-exigencias-a-las-secciones-de-credito-agrarias-para-reforzar-su-solvencia.html",
      "domain": "El País",
      "seendate": "20261013T033001Z"
     },
@@ -163,6 +163,18 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "PAN, dispuesto a hacer alianzas para derrocar a Morena",
+     "url": "https://www.eluniversal.com.mx/nacion/pan-dispuesto-a-hacer-alianzas-para-derrocar-a-morena/",
+     "domain": "El Universal",
+     "seendate": "20261013T112326Z"
+    },
+    {
+     "title": "Desabasto alcanza a la Sedena; sólo surte 56% de las recetas",
+     "url": "https://www.eluniversal.com.mx/nacion/desabasto-alcanza-a-la-sedena-solo-surte-56-de-las-recetas/",
+     "domain": "El Universal",
+     "seendate": "20261013T112241Z"
+    },
     {
      "title": "Sin sustento, acusación a grupo Kosmos",
      "url": "https://www.eluniversal.com.mx/nacion/sin-sustento-acusacion-a-grupo-kosmos/",
@@ -338,46 +350,10 @@
      "seendate": "20261013T023619Z"
     },
     {
-     "title": "Relatora de la ONU alerta por uso excesivo de la fuerza en marcha por el agua en Guadalajara; pide investigar denuncias",
-     "url": "https://www.eluniversal.com.mx/nacion/relatora-de-la-onu-alerta-por-uso-excesivo-de-la-fuerza-en-marcha-por-el-agua-en-guadalajara-pide-investigar-denuncias/",
-     "domain": "El Universal",
-     "seendate": "20261013T015826Z"
-    },
-    {
-     "title": "Decomisan 135 kilos de metanfetamina en Santa Catarina, Nuevo León; hay tres detenidos",
-     "url": "https://www.eluniversal.com.mx/estados/decomisan-135-kilos-de-metanfetamina-en-santa-catarina-nuevo-leon-hay-tres-detenidos/",
-     "domain": "El Universal",
-     "seendate": "20261013T015824Z"
-    },
-    {
-     "title": "Enfrentamiento con Fuerza Civil deja dos civiles armados muertos en Doctor Coss, Nuevo León; aseguran dos armas largas",
-     "url": "https://www.eluniversal.com.mx/estados/enfrentamiento-con-fuerza-civil-deja-dos-civiles-armados-muertos-en-doctor-coss-nuevo-leon-aseguran-dos-armas-largas/",
-     "domain": "El Universal",
-     "seendate": "20261013T015820Z"
-    },
-    {
      "title": "Pío López Obrador inicia recorridos en Tuxtla tras anunciar candidatura a diputación federal; destaca recepción ciudadana",
      "url": "https://www.eluniversal.com.mx/nacion/pio-inicia-recorridos-en-tuxtla-tras-anunciar-candidatura-a-diputacion-federal-destaca-recepcion-ciudadana/",
      "domain": "El Universal",
      "seendate": "20261013T015819Z"
-    },
-    {
-     "title": "Inician peregrinaciones a la Basílica de Guadalupe en Monterrey; habilitan cinco puntos de salida",
-     "url": "https://www.eluniversal.com.mx/estados/inician-peregrinaciones-a-la-basilica-de-guadalupe-en-monterrey-habilitan-cinco-puntos-de-salida/",
-     "domain": "El Universal",
-     "seendate": "20261013T014907Z"
-    },
-    {
-     "title": "Denise Dresser acusa a Sheinbaum de tergiversar su denuncia por desabasto de medicinas; afirma haber sido objeto de burlas en la mañanera",
-     "url": "https://www.eluniversal.com.mx/nacion/denise-dresser-acusa-a-sheinbaum-de-tergiversar-su-denuncia-por-desabasto-de-medicinas-afirma-haber-sido-objeto-de-burlas-en-la-mananera/",
-     "domain": "El Universal",
-     "seendate": "20261013T014806Z"
-    },
-    {
-     "title": "CNDH llama a Jalisco a garantizar el derecho a la protesta tras marcha por el agua; ofrece colaboración institucional",
-     "url": "https://www.eluniversal.com.mx/nacion/cndh-llama-a-jalisco-a-garantizar-el-derecho-a-la-protesta-tras-marcha-por-el-agua-ofrece-colaboracion-institucional/",
-     "domain": "El Universal",
-     "seendate": "20261013T011639Z"
     },
     {
      "title": "Huracán Simon baja a categoría 1 frente a costas mexicanas; sigue EN VIVO su trayectoria y afectaciones",
@@ -660,6 +636,12 @@
   "PAN": {
    "articles": [
     {
+     "title": "La energía acumulada en un siglo que se liberó en el terremoto en Panamá",
+     "url": "https://www.prensa.com/sociedad/la-energia-acumulada-en-un-siglo-que-se-libero-en-el-terremoto-en-panama/",
+     "domain": "La Prensa",
+     "seendate": "20261013T113838Z"
+    },
+    {
      "title": "Entre galeras, cartones y carpas: la tragedia se prolonga en Isla Cañas, Búcaro y Tonosí",
      "url": "https://www.prensa.com/politica/entre-galeras-cartones-y-carpas-la-tragedia-se-prolonga-en-isla-canas-bucaro-y-tonosi/",
      "domain": "La Prensa",
@@ -814,18 +796,6 @@
      "url": "https://www.prensa.com/politica/consejo-de-gabinete-tras-el-terremoto-de-75-en-panama/",
      "domain": "La Prensa",
      "seendate": "20261011T025000Z"
-    },
-    {
-     "title": "Terremoto: Meduca suspende las clases del lunes a nivel nacional",
-     "url": "https://www.prensa.com/sociedad/terremoto-meduca-suspende-las-clases-del-lunes-a-nivel-nacional/",
-     "domain": "La Prensa",
-     "seendate": "20261010T235639Z"
-    },
-    {
-     "title": "Las clases en la Universidad de Panamá serán virtuales el lunes 12 y martes 13 de octubre",
-     "url": "https://www.prensa.com/sociedad/las-clases-en-la-universidad-de-panama-seran-virtuales-el-lunes-12-y-martes-13-de-octubre/",
-     "domain": "La Prensa",
-     "seendate": "20261010T221315Z"
     },
     {
      "title": "Un día después del terremoto, Mariato, Tonosí y Pedasí buscan agua, refugio y vías de acceso",
@@ -1057,6 +1027,12 @@
   "ECU": {
    "articles": [
     {
+     "title": "Sismo de magnitud 4,4 se registró frente a las costas de Manabí",
+     "url": "https://eluniverso.com/comunidad/ecuador/sismo-de-magnitud-44-cerca-de-jama-manabi-nota/",
+     "domain": "El Universo",
+     "seendate": "20261013T114543Z"
+    },
+    {
      "title": "Contraloría General identifica presuntas inconsistencias en contratos para la construcción de tres hospitales de Cuenca durante la administración de Cristian Zamora",
      "url": "https://eluniverso.com/politica/gobiernos-locales/contraloria-identifica-presuntas-inconsistencias-contratos-construccion-tres-hospitales-cuenca-durante-administracion-cristian-zamora-nota/",
      "domain": "El Universo",
@@ -1169,6 +1145,12 @@
   "PER": {
    "articles": [
     {
+     "title": "Daniel Velandia, economista jefe de Credicorp Capital: “Si las condiciones se dan después de El Niño, al 2028 podremos crecer más de 4%”",
+     "url": "https://elcomercio.pe/economia/peru/daniel-velandia-economista-jefe-de-credicorp-capital-si-las-condiciones-se-dan-despues-de-el-nino-al-2028-podremos-ver-un-crecimiento-superior-al-4-apuesplan-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261013T110001Z"
+    },
+    {
      "title": "Biministro de Economía y Minería de Chile: “Al 2035 casi toda la nueva oferta de cobre del planeta saldrá del Cono Sur de América Latina”",
      "url": "https://elcomercio.pe/economia/peru/biministro-de-economia-y-mineria-de-chile-hacia-2035-practicamente-toda-la-nueva-oferta-significativa-de-cobre-del-planeta-saldra-del-cono-sur-de-america-latina-noticia/",
      "domain": "El Comercio",
@@ -1177,12 +1159,6 @@
     {
      "title": "IGP Temblor en el Perú hoy, 13 de octubre: último sismo, lugar y magnitud",
      "url": "https://elcomercio.pe/peru/temblor-hoy-en-peru-en-vivo-reportes-del-igp-lugar-magnitud-y-ultimo-minuto-tdpe-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261013T110001Z"
-    },
-    {
-     "title": "Daniel Velandia, economista jefe de Credicorp Capital: “Si las condiciones se dan después de El Niño, al 2028 podremos crecer más de 4%”",
-     "url": "https://elcomercio.pe/economia/peru/daniel-velandia-economista-jefe-de-credicorp-capital-si-las-condiciones-se-dan-despues-de-el-nino-al-2028-podremos-ver-un-crecimiento-superior-al-4-apuesplan-noticia/",
      "domain": "El Comercio",
      "seendate": "20261013T110001Z"
     },
@@ -1213,19 +1189,265 @@
      "title": "Se aproxima un “bloqueo en la circulación atmosférica” que prolongará el mal tiempo y las tormentas: las zonas afectadas",
      "url": "https://www.lanacion.com.ar/sociedad/se-aproxima-un-bloqueo-en-la-circulacion-atmosferica-que-prolongara-el-mal-tiempo-y-las-tormentas-nid12102026/",
      "domain": "La Nación",
-     "seendate": "20261013T110901Z"
+     "seendate": "20261013T114117Z"
+    },
+    {
+     "title": "Hay alerta naranja y amarilla por tormentas, lluvias y vientos para este martes 13 de octubre: las provincias afectadas",
+     "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-naranja-y-amarilla-por-tormentas-lluvias-y-vientos-para-este-martes-13-de-octubre-las-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T114040Z"
+    },
+    {
+     "title": "Con drenaje sostenible, suelo absorbente y farolas peatonales: la Ciudad recuperó un predio usurpado y lo transforma en un nuevo parque que promete beneficiar a más de 50.000 vecinos porteños",
+     "url": "https://www.lanacion.com.ar/sociedad/con-drenaje-sostenible-suelo-absorbente-y-farolas-peatonales-la-ciudad-recupero-un-predio-usurpado-y-nid08102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T113755Z"
+    },
+    {
+     "title": "$1300 millones de inversión en el norte de la Ciudad: transformaron un antiguo galpón ferroviario en un centro de salud para atención primaria, pediatría y otras especialidades",
+     "url": "https://www.lanacion.com.ar/sociedad/1300-millones-de-inversion-en-el-norte-de-la-ciudad-transformaron-un-antiguo-galpon-ferroviario-en-nid07102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T113753Z"
+    },
+    {
+     "title": "Chau anegamientos: terminó la megaobra en el norte de la Ciudad que promete enfrentar los efectos climáticos del Súper Niño",
+     "url": "https://www.lanacion.com.ar/sociedad/chau-anegamientos-termino-la-megaobra-en-el-norte-de-la-ciudad-que-promete-enfrentar-los-efectos-nid30092026/",
+     "domain": "La Nación",
+     "seendate": "20261013T113751Z"
+    },
+    {
+     "title": "¿Cuándo son las elecciones 2027 en la Argentina? Todas las fechas clave",
+     "url": "https://www.lanacion.com.ar/politica/cuando-son-las-elecciones-2027-en-la-argentina-todas-las-fechas-clave-nid08102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T113748Z"
+    },
+    {
+     "title": "Elecciones en la Argentina 2027: fechas, cargos que se renuevan y todo lo que hay que saber",
+     "url": "https://www.lanacion.com.ar/politica/elecciones-en-la-argentina-2027-fechas-cargos-que-se-renuevan-y-todo-lo-que-hay-que-saber-nid23092026/",
+     "domain": "La Nación",
+     "seendate": "20261013T113746Z"
+    },
+    {
+     "title": "Elecciones 2027: ¿cuándo son las próximas elecciones presidenciales en la Argentina?",
+     "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-en-la-argentina-y-que-se-elige-nid25082026/",
+     "domain": "La Nación",
+     "seendate": "20261013T113744Z"
+    },
+    {
+     "title": "¿Cuándo se vota presidente en la Argentina? Todo sobre las elecciones 2027",
+     "url": "https://www.lanacion.com.ar/politica/cuando-se-vota-presidente-en-la-argentina-todo-sobre-las-elecciones-2027-nid01092026/",
+     "domain": "La Nación",
+     "seendate": "20261013T113739Z"
+    },
+    {
+     "title": "Elecciones 2027: cuándo se vota para presidente en la Argentina",
+     "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-para-presidente-en-la-argentina-nid03082026/",
+     "domain": "La Nación",
+     "seendate": "20261013T113735Z"
+    },
+    {
+     "title": "Calendario de pagos de Anses: cuándo se cobra la PUAM de octubre de 2026",
+     "url": "https://www.lanacion.com.ar/economia/calendario-de-pagos-de-anses-cuando-se-cobra-la-puam-de-octubre-de-2026-nid09102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T113732Z"
+    },
+    {
+     "title": "Calendario PNC de la Anses: cuándo se cobran las Pensiones no Contributivas de octubre 2026",
+     "url": "https://www.lanacion.com.ar/economia/calendario-pnc-de-la-anses-cuando-se-cobran-las-pensiones-no-contributivas-de-octubre-2026-nid08102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T113730Z"
+    },
+    {
+     "title": "Calendario Anses: cuándo se cobra la AUH en octubre 2026",
+     "url": "https://www.lanacion.com.ar/economia/calendario-anses-cuando-se-cobra-la-auh-en-octubre-2026-nid02102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T113728Z"
+    },
+    {
+     "title": "Calendario de jubilaciones de la Anses: cuándo se cobran en octubre 2026 con el bono oficial y el aumento confirmado",
+     "url": "https://www.lanacion.com.ar/economia/calendario-de-jubilaciones-de-la-anses-cuando-se-cobran-en-octubre-2026-con-el-bono-oficial-y-el-nid01102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T113725Z"
+    },
+    {
+     "title": "Cuánto cobran los jubilados en octubre de 2026 con el nuevo bono confirmado",
+     "url": "https://www.lanacion.com.ar/economia/cuanto-cobran-los-jubilados-en-octubre-de-2026-con-el-nuevo-bono-confirmado-nid29092026/",
+     "domain": "La Nación",
+     "seendate": "20261013T113724Z"
+    },
+    {
+     "title": "Con bono oficial y aumento confirmado: este es el monto que cobran los jubilados de la Anses en octubre 2026",
+     "url": "https://www.lanacion.com.ar/economia/con-bono-oficial-y-aumento-confirmado-este-es-el-monto-que-cobran-los-jubilados-de-la-anses-en-nid28092026/",
+     "domain": "La Nación",
+     "seendate": "20261013T113722Z"
+    },
+    {
+     "title": "Cuánto cobran de mínima los jubilados de la Anses en octubre 2026 con el aumento oficial",
+     "url": "https://www.lanacion.com.ar/economia/cuanto-cobran-de-minima-los-jubilados-de-la-anses-en-octubre-2026-con-el-aumento-oficial-nid23092026/",
+     "domain": "La Nación",
+     "seendate": "20261013T113719Z"
+    },
+    {
+     "title": "Cambios en la Libreta AUH: las acreditaciones de la Asignación Universal serán automáticas y ya no habrá que presentar certificados",
+     "url": "https://www.lanacion.com.ar/economia/cambios-en-la-libreta-auh-las-acreditaciones-de-la-asignacion-universal-seran-automaticas-y-ya-no-nid17092026/",
+     "domain": "La Nación",
+     "seendate": "20261013T113717Z"
+    },
+    {
+     "title": "Pagos Anses: a cuánto llega la PUAM en octubre de 2026 con el aumento confirmado",
+     "url": "https://www.lanacion.com.ar/economia/pagos-anses-a-cuanto-llega-la-puam-en-octubre-de-2026-con-el-aumento-confirmado-nid17092026/",
+     "domain": "La Nación",
+     "seendate": "20261013T113715Z"
+    },
+    {
+     "title": "Calendario PNC de la Anses: cuál es el monto de las Pensiones no Contributivas en octubre de 2026",
+     "url": "https://www.lanacion.com.ar/economia/calendario-pnc-de-la-anses-cual-es-el-monto-de-las-pensiones-no-contributivas-en-octubre-de-2026-nid16092026/",
+     "domain": "La Nación",
+     "seendate": "20261013T113709Z"
+    },
+    {
+     "title": "Asignación Universal por Hijo de Anses: de cuánto es la AUH en octubre, con el aumento confirmado",
+     "url": "https://www.lanacion.com.ar/economia/asignacion-universal-por-hijo-de-anses-de-cuanto-es-la-auh-en-octubre-con-el-aumento-confirmado-nid15092026/",
+     "domain": "La Nación",
+     "seendate": "20261013T113707Z"
+    },
+    {
+     "title": "Jubilaciones de Anses: cuánto se cobra en octubre 2026, con el bono y el aumento confirmado",
+     "url": "https://www.lanacion.com.ar/economia/jubilaciones-de-anses-cuanto-se-cobra-en-octubre-2026-con-el-bono-y-el-aumento-confirmado-nid14092026/",
+     "domain": "La Nación",
+     "seendate": "20261013T113703Z"
+    },
+    {
+     "title": "Cuándo cobro Anses: el calendario completo de octubre 2026",
+     "url": "https://www.lanacion.com.ar/economia/cuando-cobro-anses-el-calendario-completo-de-octubre-2026-nid30092026/",
+     "domain": "La Nación",
+     "seendate": "20261013T113700Z"
+    },
+    {
+     "title": "Miden 13 cm y pesan casi un kilo: Gendarmería recuperó seis huevos de ñandú que iban escondidos de forma ilegal debajo del asiento de un auto en la Patagonia",
+     "url": "https://www.lanacion.com.ar/sociedad/miden-13-cm-y-pesan-casi-un-kilo-gendarmeria-recupero-seis-huevos-de-nandu-que-iban-escondidos-de-nid08102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T113658Z"
+    },
+    {
+     "title": "Cardenales, jilgueros y reinamoras: recuperaron 88 aves del tráfico clandestino, los rehabilitaron e hicieron una liberación masiva en Zárate",
+     "url": "https://www.lanacion.com.ar/sociedad/cardenales-jilgueros-y-reinamoras-recuperaron-88-aves-del-trafico-clandestino-los-rehabilitaron-e-nid07102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T113655Z"
+    },
+    {
+     "title": "Sueldo oficial: cuánto ganan los miembros de las Fuerzas Armadas en octubre de 2026 con el aumento confirmado",
+     "url": "https://www.lanacion.com.ar/economia/sueldo-oficial-cuanto-ganan-los-miembros-de-las-fuerzas-armadas-en-octubre-de-2026-con-el-aumento-nid08102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T113652Z"
+    },
+    {
+     "title": "Paritaria oficial: cuánto ganan los camioneros en octubre 2026 tras el aumento confirmado",
+     "url": "https://www.lanacion.com.ar/economia/paritaria-oficial-cuanto-ganan-los-camioneros-en-octubre-2026-tras-el-aumento-confirmado-nid07102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T113650Z"
+    },
+    {
+     "title": "Paritaria con aumento: cuánto gana el personal de la Policía Federal Argentina en octubre 2026",
+     "url": "https://www.lanacion.com.ar/economia/paritaria-con-aumento-cuanto-gana-el-personal-de-la-policia-federal-argentina-en-octubre-2026-nid07102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T113642Z"
+    },
+    {
+     "title": "Paritaria confirmada: cuánto cobran las empleadas domésticas en octubre de 2026 con el aumento oficial",
+     "url": "https://www.lanacion.com.ar/economia/paritaria-confirmada-cuanto-cobran-las-empleadas-domesticas-en-octubre-de-2026-con-el-aumento-nid06102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T113637Z"
+    },
+    {
+     "title": "Nueva paritaria de la construcción: cuánto cobra un albañil en octubre 2026 con el aumento confirmado por la Uocra",
+     "url": "https://www.lanacion.com.ar/economia/nueva-paritaria-de-la-construccion-cuanto-cobra-un-albanil-en-octubre-2026-con-el-aumento-confirmado-nid01102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T113634Z"
+    },
+    {
+     "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este martes 13 de octubre, minuto a minuto",
+     "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T113611Z"
+    },
+    {
+     "title": "Calendario escolar: cuándo terminan las clases en Córdoba",
+     "url": "https://www.lanacion.com.ar/sociedad/calendario-escolar-cuando-terminan-las-clases-en-cordoba-nid07102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T113546Z"
+    },
+    {
+     "title": "Calendario escolar: cuándo terminan las clases en CABA",
+     "url": "https://www.lanacion.com.ar/sociedad/calendario-escolar-cuando-terminan-las-clases-en-caba-nid30092026/",
+     "domain": "La Nación",
+     "seendate": "20261013T113536Z"
+    },
+    {
+     "title": "Calendario escolar: cuándo terminan las clases en la provincia de Buenos Aires",
+     "url": "https://www.lanacion.com.ar/sociedad/calendario-escolar-cuando-terminan-las-clases-en-la-provincia-de-buenos-aires-nid29092026/",
+     "domain": "La Nación",
+     "seendate": "20261013T113532Z"
+    },
+    {
+     "title": "Cuándo terminan las clases en la Argentina 2026, provincia por provincia",
+     "url": "https://www.lanacion.com.ar/sociedad/cuando-terminan-las-clases-en-la-argentina-2026-provincia-por-provincia-nid22092026/",
+     "domain": "La Nación",
+     "seendate": "20261013T113506Z"
+    },
+    {
+     "title": "Cuándo se festeja Halloween 2026 en la Argentina",
+     "url": "https://www.lanacion.com.ar/sociedad/cuando-se-festeja-halloween-2026-en-la-argentina-nid07102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T113500Z"
+    },
+    {
+     "title": "Cuándo es Halloween en la Argentina 2026",
+     "url": "https://www.lanacion.com.ar/sociedad/cuando-es-halloween-en-la-argentina-2026-nid24092026/",
+     "domain": "La Nación",
+     "seendate": "20261013T113456Z"
+    },
+    {
+     "title": "Día de la Madre 2026: qué domingo de octubre cae en la Argentina",
+     "url": "https://www.lanacion.com.ar/sociedad/dia-de-la-madre-2026-que-domingo-de-octubre-cae-en-la-argentina-nid01102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T113453Z"
+    },
+    {
+     "title": "Cuándo es el Día de la Madre 2026 en la Argentina",
+     "url": "https://www.lanacion.com.ar/sociedad/cuando-es-el-dia-de-la-madre-2026-en-la-argentina-nid22092026/",
+     "domain": "La Nación",
+     "seendate": "20261013T113451Z"
+    },
+    {
+     "title": "Javier Milei y sus medidas, EN VIVO: el Presidente dijo que el Gobierno estaría dispuesto a ajustar la fecha de la visita del Papa",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-dijo-que-el-gobierno-estaria-dispuesto-a-ajustar-la-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T113009Z"
+    },
+    {
+     "title": "Habló por primera vez Chantal Leclercq, una de las imputadas por el escándalo del propofol",
+     "url": "https://www.lanacion.com.ar/seguridad/hablo-por-primera-vez-chantal-leclercq-una-de-las-imputadas-por-el-escandalo-del-propofol-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T112152Z"
+    },
+    {
+     "title": "Día del Psicólogo: por qué se celebra hoy y las mejores frases para enviar por WhatsApp",
+     "url": "https://www.lanacion.com.ar/sociedad/dia-del-psicologo-por-que-se-celebra-hoy-y-las-mejores-frases-para-enviar-por-whatsapp-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T112124Z"
+    },
+    {
+     "title": "El FMI recortó previsión de crecimiento del país para este año; el Papa será internado hoy para su cirugía",
+     "url": "https://www.lanacion.com.ar/sociedad/el-fmi-recorto-prevision-de-crecimiento-del-pais-para-este-ano-el-papa-sera-internado-hoy-para-su-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T111708Z"
     },
     {
      "title": "Súper Niño 2026: qué se sabe del fenómeno que cambiará el pronóstico de la Argentina y llegará pronto a su pico máximo",
      "url": "https://www.lanacion.com.ar/sociedad/super-nino-2026-que-se-sabe-del-fenomeno-que-cambiara-por-completo-el-clima-en-la-argentina-y-nid05102026/",
      "domain": "La Nación",
      "seendate": "20261013T110738Z"
-    },
-    {
-     "title": "Hay alerta naranja y amarilla por tormentas, lluvias y vientos para este martes 13 de octubre: las provincias afectadas",
-     "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-naranja-y-amarilla-por-tormentas-lluvias-y-vientos-para-este-martes-13-de-octubre-las-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T110516Z"
     },
     {
      "title": "Los psicólogos coinciden: no es fácil saber qué se desea porque entre el deseo y uno mismo se interponen deseos ajenos y mandatos",
@@ -1250,18 +1472,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/robin-sharma-especialista-en-crecimiento-personal-un-mal-dia-para-el-ego-es-un-buen-dia-para-el-alma-nid11102026/",
      "domain": "La Nación",
      "seendate": "20261013T110146Z"
-    },
-    {
-     "title": "Javier Milei y sus medidas, EN VIVO: el Presidente dijo que el Gobierno estaría dispuesto a ajustar la fecha de la visita del Papa",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-dijo-que-el-gobierno-estaria-dispuesto-a-ajustar-la-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T110006Z"
-    },
-    {
-     "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este martes 13 de octubre, minuto a minuto",
-     "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T104225Z"
     },
     {
      "title": "Fecha de cobro de Anses: el cronograma de pagos para este martes 13 de octubre",
@@ -1292,114 +1502,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/de-un-vaso-descartable-a-una-bota-los-inesperados-residuos-humanos-hallados-a-miles-de-metros-bajo-nid13102026/",
      "domain": "La Nación",
      "seendate": "20261013T090001Z"
-    },
-    {
-     "title": "Estanislao Bachrach, biólogo y experto en neurociencia: “Cambiar la forma de respirar calma el dolor, pero sobre todo desaparece el sufrimiento”",
-     "url": "https://www.lanacion.com.ar/sociedad/estanislao-bachrach-biologo-y-experto-en-neurociencia-cambiar-la-forma-de-respirar-calma-el-dolor-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T070000Z"
-    },
-    {
-     "title": "El Gobierno rechazó el ingreso al país de un periodista brasileño que había criticado a Milei",
-     "url": "https://www.lanacion.com.ar/politica/el-gobierno-rechazo-el-ingreso-al-pais-de-un-periodista-brasileno-que-habia-criticado-a-milei-nid12102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T063700Z"
-    },
-    {
-     "title": "Rechazaron un habeas corpus y siguió el traslado de presos a Marcos Paz, mientras los pabellones de Villa Devoto se vacían",
-     "url": "https://www.lanacion.com.ar/seguridad/rechazaron-un-habeas-corpus-y-siguio-el-traslado-de-presos-a-marcos-paz-mientras-los-pabellones-de-nid12102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T063306Z"
-    },
-    {
-     "title": "Se conoce el IPC de septiembre y el mercado espera una leve aceleración",
-     "url": "https://www.lanacion.com.ar/economia/se-conoce-el-ipc-de-septiembre-y-el-mercado-espera-una-leve-aceleracion-nid12102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T063119Z"
-    },
-    {
-     "title": "Milei mantiene tres ventajas para 2027, a pesar de todo",
-     "url": "https://www.lanacion.com.ar/politica/milei-mantiene-tres-ventajas-para-2027-a-pesar-de-todo-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T062938Z"
-    },
-    {
-     "title": "La Corte y las fragilidades de Milei",
-     "url": "https://www.lanacion.com.ar/politica/la-corte-y-las-fragilidades-de-milei-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T062907Z"
-    },
-    {
-     "title": "Conrado Estol, neurólogo: “Mantener el optimismo y una visión positiva es crucial y no debe considerarse un cliché”",
-     "url": "https://www.lanacion.com.ar/sociedad/conrado-estol-neurologo-mantener-el-optimismo-y-una-vision-positiva-es-crucial-y-no-debe-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T060000Z"
-    },
-    {
-     "title": "La Anmat prohibió el uso, venta y distribución de una marca de lavandina",
-     "url": "https://www.lanacion.com.ar/sociedad/la-anmat-prohibio-el-uso-venta-y-distribucion-de-una-marca-de-lavandina-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T054707Z"
-    },
-    {
-     "title": "La Argentina rechazó una declaración de la ONU sobre la prevención de pandemias, junto con EE.UU. e Israel",
-     "url": "https://www.lanacion.com.ar/politica/la-argentina-rechazo-una-declaracion-de-la-onu-sobre-la-prevencion-de-pandemias-junto-con-eeuu-e-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T053056Z"
-    },
-    {
-     "title": "El Gobierno promulgó la ley que modifica el régimen de zonas frías",
-     "url": "https://www.lanacion.com.ar/politica/el-gobierno-promulgo-la-ley-que-modifica-el-regimen-de-zonas-frias-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T043204Z"
-    },
-    {
-     "title": "Por qué El Niño puede ser el más severo de la historia y cómo evitar escenarios catastróficos",
-     "url": "https://www.lanacion.com.ar/sociedad/por-que-el-nino-puede-ser-el-mas-severo-de-la-historia-y-como-evitar-escenarios-catastroficos-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T030200Z"
-    },
-    {
-     "title": "El pedido de los diputados de Unión por la Patria por la ley de financiamiento",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-nos-unimos-en-oracion-por-su-salud-dijo-el-presidente-por-la-nid12102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T023029Z"
-    },
-    {
-     "title": "El agro en el Congreso, entre lo que se habla, se trata y, por ahora, no está en agenda",
-     "url": "https://www.lanacion.com.ar/economia/campo/el-agro-en-el-congreso-entre-lo-que-se-habla-se-trata-y-por-ahora-no-esta-en-agenda-nid10102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T022813Z"
-    },
-    {
-     "title": "Nelson Ginter, de 62 años, el productor de huevos de color azul más austral del mundo: “Si los dejás más de un día se congelan”",
-     "url": "https://www.lanacion.com.ar/economia/campo/nelson-ginter-de-62-anos-el-productor-de-huevos-mas-austral-del-mundo-si-los-dejas-mas-de-un-dia-se-nid09102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T022630Z"
-    },
-    {
-     "title": "Alfredo Di Costanzo, de la Universidad de Minnesota, y un éxito de EE.UU. ahora bajo presión: productores de 80 años con 500 vacas sin herederos",
-     "url": "https://www.lanacion.com.ar/economia/campo/alfredo-di-costanzo-de-la-universidad-de-minnesota-y-un-exito-de-eeuu-ahora-bajo-presion-productores-nid10102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T022457Z"
-    },
-    {
-     "title": "Aníbal Pordomingo, investigador del INTA: “El país tiene un margen de crecimiento del 30 al 40% en su peso medio de faena”",
-     "url": "https://www.lanacion.com.ar/economia/campo/anibal-pordomingo-investigador-del-inta-el-pais-tiene-un-margen-de-crecimiento-del-30-al-40-en-su-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T022428Z"
-    },
-    {
-     "title": "Mike McCloskey, dueño de un tambo de 20.000 vacas Holando: el emprendedor serial que convirtió un problema en un ingreso de miles de dólares",
-     "url": "https://www.lanacion.com.ar/economia/campo/mike-mccloskey-dueno-de-un-tambo-de-20000-vacas-holando-el-emprendedor-serial-que-convirtio-un-nid12102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T022226Z"
-    },
-    {
-     "title": "Aterosclerosis y trombosis: alimentaron animales con remolacha forrajera y el resultado fue sorprendente",
-     "url": "https://www.lanacion.com.ar/economia/campo/aterosclerosis-y-trombosis-alimentaron-animales-con-remolacha-forrajera-y-el-resultado-fue-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T021956Z"
     }
    ]
   },
@@ -1440,6 +1542,12 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "Polícia prende três suspeitos em operação que mira apostas ilegais em SP",
+     "url": "https://oglobo.globo.com/brasil/sao-paulo/noticia/2026/10/13/policia-prende-tres-suspeitos-em-operacao-que-mira-apostas-ilegais-em-sp.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261013T111338Z"
+    },
     {
      "title": "Meta nega interferência política e cita falha técnica global em exibição do total de visualizações de Lula",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/13/meta-nega-interferencia-politica-e-cita-falha-tecnica-global-em-exibicao-do-total-de-visualizacoes-de-lula.ghtml",
@@ -1493,18 +1601,6 @@
      "url": "https://oglobo.globo.com/brasil/educacao/noticia/2026/10/13/mec-vai-homologar-com-mudancas-parecer-que-cria-regras-para-uso-de-inteligencia-artificial-na-educacao-saiba-quais.ghtml",
      "domain": "O Globo",
      "seendate": "20261013T063000Z"
-    },
-    {
-     "title": "Flávio Bolsonaro visita o pai após três meses sem vê-lo por decisão de Moraes",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/13/flavio-bolsonaro-visita-o-pai-apos-tres-meses-sem-ve-lo-por-decisao-de-moraes.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261013T030000Z"
-    },
-    {
-     "title": "Nunes Marques recebe campanhas de Lula e Flávio após batalha jurídica por canal de WhatsApp",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/13/nunes-marques-recebe-campanhas-de-lula-e-flavio-apos-batalha-juridica-por-canal-de-whatsapp.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261013T030000Z"
     }
    ]
   }
