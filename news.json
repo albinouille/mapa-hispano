@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T01:03:28+00:00",
+ "updated": "2026-10-13T01:27:33+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -175,6 +175,18 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "CNDH llama a Jalisco a garantizar el derecho a la protesta tras marcha por el agua; ofrece colaboración institucional",
+     "url": "https://www.eluniversal.com.mx/nacion/cndh-llama-a-jalisco-a-garantizar-el-derecho-a-la-protesta-tras-marcha-por-el-agua-ofrece-colaboracion-institucional/",
+     "domain": "El Universal",
+     "seendate": "20261013T011639Z"
+    },
+    {
+     "title": "Inicia Campaña Nacional de Vacunación para la Temporada Invernal 2026-2027; piden acudir a centros de salud",
+     "url": "https://www.eluniversal.com.mx/nacion/inicia-campana-nacional-de-vacunacion-para-la-temporada-invernal-2026-2027-piden-acudir-a-centros-de-salud/",
+     "domain": "El Universal",
+     "seendate": "20261013T010620Z"
+    },
     {
      "title": "Ronald Johnson destaca decomiso de 1.2 toneladas de cocaína en el Pacífico; recalca golpe a grupos criminales",
      "url": "https://www.eluniversal.com.mx/nacion/ronald-johnson-destaca-decomiso-de-12-toneladas-de-cocaina-en-el-pacifico-recalca-golpe-a-grupos-criminales/",
@@ -434,12 +446,6 @@
      "seendate": "20261012T182808Z"
     },
     {
-     "title": "Obispo de Aguascalientes rechaza señalamientos de ser político; pide orar por México tras amenazas",
-     "url": "https://www.eluniversal.com.mx/estados/obispo-de-aguascalientes-rechaza-senalamientos-de-ser-politico-pide-orar-por-mexico-tras-amenazas/",
-     "domain": "El Universal",
-     "seendate": "20261012T181926Z"
-    },
-    {
      "title": "Trabajadores del IMSS protestan en Monterrey; denuncian falta de insumos, especialistas y mejoras salariales",
      "url": "https://www.eluniversal.com.mx/estados/trabajadores-del-imss-convocan-a-protestas-en-cinco-hospitales-de-nuevo-leon-exigen-aumento-salarial-del-10/",
      "domain": "El Universal",
@@ -542,6 +548,12 @@
   "CRI": {
    "articles": [
     {
+     "title": "Temblor de magnitud 6,5 en Panamá es una réplica del terremoto del 9 de octubre, explica Ovsicori",
+     "url": "https://www.nacion.com/sucesos/temblor-de-magnitud-65-en-panama-es-una-replica/JV7WBCCCARH2XGLPYP5F5BRH2U/story/",
+     "domain": "La Nación",
+     "seendate": "20261013T011557Z"
+    },
+    {
      "title": "IMN pronostica aguaceros y tormentas para este martes: conozca las zonas donde podría llover y las temperaturas previstas",
      "url": "https://www.nacion.com/sucesos/imn-pronostica-aguaceros-y-tormentas-para-este/6YJ4TPCQ7VB5NG7BPDU2OGUPME/story/",
      "domain": "La Nación",
@@ -620,7 +632,7 @@
      "seendate": "20261012T184227Z"
     },
     {
-     "title": "Disputa por la presidencia del Poder Judicial se concentra en la Sala III: tres magistrados de ese tribunal y la vicepresidenta de la Corte aspiran al cargo",
+     "title": "Disputa por la Presidencia del Poder Judicial se concentra en la Sala III: tres magistrados de ese tribunal y la vicepresidenta de la Corte aspiran al cargo",
      "url": "https://www.nacion.com/politica/disputa-por-la-presidencia-del-poder-judicial-se/YXTPBCYYFFCEVFCJWIGHT63Y2I/story/",
      "domain": "La Nación",
      "seendate": "20261012T182838Z"
@@ -695,6 +707,12 @@
   },
   "PAN": {
    "articles": [
+    {
+     "title": "Panamá confirma 6,174 personas y 1,744 viviendas afectadas por el terremoto",
+     "url": "https://www.prensa.com/politica/panama-confirma-6174-personas-y-1744-viviendas-afectadas-por-el-terremoto/",
+     "domain": "La Prensa",
+     "seendate": "20261013T011030Z"
+    },
     {
      "title": "Terremoto en Panamá: 35 escuelas quedaron dañadas por completo; Salud destinará $61 millones para 67 hospitales afectados",
      "url": "https://www.prensa.com/politica/terremoto-en-panama-gobierno-actualiza-balance-de-danos/",
@@ -820,12 +838,6 @@
      "url": "https://www.prensa.com/politica/terremoto-en-panama-el-secreto-de-las-edificaciones-las-normas-sismicas-y-la-falla-de-san-andres/",
      "domain": "La Prensa",
      "seendate": "20261011T050100Z"
-    },
-    {
-     "title": "Al menos 600 viviendas y 400 escuelas resultaron afectadas en el país por el terremoto",
-     "url": "https://www.prensa.com/sociedad/al-menos-600-viviendas-y-400-escuelas-resultaron-afectadas-en-el-pais-por-el-terremoto/",
-     "domain": "La Prensa",
-     "seendate": "20261011T033820Z"
     },
     {
      "title": "Decretan estado de emergencia tras el terremoto de 7.5",
@@ -1123,6 +1135,12 @@
   "ECU": {
    "articles": [
     {
+     "title": "Policía difunde alerta por fuga de seis reos de la cárcel de Santo Domingo y solicita información a la ciudadanía para ubicarlos",
+     "url": "https://eluniverso.com/politica/seguridad/policia-difunde-alerta-por-fuga-de-seis-reos-de-la-carcel-de-santo-domingo-y-solicita-informacion-a-la-ciudadania-para-ubicarlos-nota/",
+     "domain": "El Universo",
+     "seendate": "20261013T010406Z"
+    },
+    {
      "title": "Fuga de petróleo en Esmeraldas: Petroecuador confirma que fue controlada y mantiene trabajos en el río Cupa",
      "url": "https://eluniverso.com/comunidad/ecuador/fuga-de-petroleo-en-esmeraldas-petroecuador-confirma-que-fue-controlada-y-mantiene-trabajos-en-el-rio-cupa-nota/",
      "domain": "El Universo",
@@ -1300,6 +1318,12 @@
   "ARG": {
    "articles": [
     {
+     "title": "Una alerta del FBI por amenazas en ChatGPT permitió descubrir un plan para realizar tiroteos en escuelas de Chaco",
+     "url": "https://www.lanacion.com.ar/seguridad/una-alerta-del-fbi-por-amenazas-en-chatgpt-permitio-descubrir-un-plan-para-realizar-tiroteos-en-nid12102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T010928Z"
+    },
+    {
      "title": "Javier Milei y sus medidas, EN VIVO: el Presidente negó la salida de Caputo y se mostró confiado en que será reelecto",
      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-nos-unimos-en-oracion-por-su-salud-dijo-el-presidente-por-la-nid12102026/",
      "domain": "La Nación",
@@ -1460,12 +1484,6 @@
      "url": "https://www.lanacion.com.ar/seguridad/detuvieron-a-tres-sospechosos-cuando-intentaban-abrir-un-auto-estacionado-en-mataderos-nid12102026/",
      "domain": "La Nación",
      "seendate": "20261012T201805Z"
-    },
-    {
-     "title": "Se conoce el IPC de septiembre y el mercado espera una leve aceleración",
-     "url": "https://www.lanacion.com.ar/economia/se-conoce-el-ipc-de-septiembre-y-el-mercado-espera-una-leve-aceleracion-nid12102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T200849Z"
     }
    ]
   },
