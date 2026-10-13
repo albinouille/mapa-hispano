@@ -1,19 +1,19 @@
 {
- "updated": "2026-10-13T15:53:54+00:00",
+ "updated": "2026-10-13T16:21:30+00:00",
  "countries": {
   "ESP": {
    "articles": [
+    {
+     "title": "Última hora de la visita de los Reyes a Ceuta, en directo | Vivas avisa de que Ceuta “es una olla a presión que en cualquier momento puede estallar”",
+     "url": "https://elpais.com/espana/2026-10-13/ultima-hora-de-la-visita-de-los-reyes-a-ceuta-en-directo.html",
+     "domain": "El País",
+     "seendate": "20261013T160159Z"
+    },
     {
      "title": "Pedraz imputa al colaborador de la trama de Leire Díez señalado por las maniobras contra la jueza Biedma",
      "url": "https://elpais.com/espana/2026-10-13/la-jueza-biedma-pide-nuevos-interrogatorios-para-impulsar-la-investigacion-sobre-las-maniobras-del-caso-leire-diez.html",
      "domain": "El País",
      "seendate": "20261013T154627Z"
-    },
-    {
-     "title": "Última hora de la visita de los Reyes a Ceuta, en directo | Vivas avisa de que Ceuta “es una olla a presión que en cualquier momento puede estallar”",
-     "url": "https://elpais.com/espana/2026-10-13/ultima-hora-de-la-visita-de-los-reyes-a-ceuta-en-directo.html",
-     "domain": "El País",
-     "seendate": "20261013T154548Z"
     },
     {
      "title": "La jueza de la dana denunció ante el Poder Judicial presiones y haber sido grabada ilegalmente",
@@ -175,6 +175,24 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Se reporta una explosión en una gasera en Coacalco; evacúan a vecinos de Lomas de Coacalco",
+     "url": "https://www.eluniversal.com.mx/metropoli/explota-gasera-en-coacalco-evacuan-a-vecinos-de-lomas-de-coacalco/",
+     "domain": "El Universal",
+     "seendate": "20261013T161242Z"
+    },
+    {
+     "title": "Infancia sin Barreras va por reforma para priorizar a menores en procesos judiciales familiares; pide foro abierto en San Lázaro",
+     "url": "https://www.eluniversal.com.mx/nacion/infancia-sin-barreras-va-por-reforma-para-priorizar-a-menores-en-procesos-judiciales-familiares-pide-foro-abierto-en-san-lazaro/",
+     "domain": "El Universal",
+     "seendate": "20261013T160736Z"
+    },
+    {
+     "title": "Metrobús modifica servicio en las líneas 1 y 7 por protestas del IMSS; suspenden estaciones en Reforma",
+     "url": "https://www.eluniversal.com.mx/metropoli/metrobus-modifica-servicio-en-las-lineas-1-y-7-por-protestas-del-imss-suspenden-estaciones-en-reforma/",
+     "domain": "El Universal",
+     "seendate": "20261013T155929Z"
+    },
     {
      "title": "Integración de la GN a Sedena ha impactado en el abasto de medicamentos: Trevilla; reporta atención a más de 280 mil elementos",
      "url": "https://www.eluniversal.com.mx/nacion/integracion-de-la-gn-a-sedena-ha-impactado-en-el-abasto-de-medicamentos-trevilla-reporta-atencion-a-mas-de-280-mil-elementos/",
@@ -416,7 +434,25 @@
   "CRI": {
    "articles": [
     {
-     "title": "Sospechosos de asesinar a conocido comunicador de Liberia OIJ solicitaron un servicio de transporte a la víctima, según OIJ",
+     "title": "Cortes de luz de la CNFL afectarán San José y Cartago: conozca los lugares con suspensiones",
+     "url": "https://www.nacion.com/el-pais/cortes-de-luz-de-la-cnfl-afectaran-san-jose-y/NYDN3S2FMRAYXHCJKQTI5MSKLI/story/",
+     "domain": "La Nación",
+     "seendate": "20261013T161155Z"
+    },
+    {
+     "title": "Wegovy, medicamento para tratar la obesidad, ya está disponible en Costa Rica: conozca los detalles",
+     "url": "https://www.nacion.com/el-pais/wegovy-medicamento-para-tratar-la-obesidad-ya-esta/WPEUSXKMM5GSLCTGZDY7RSXFXI/story/",
+     "domain": "La Nación",
+     "seendate": "20261013T160925Z"
+    },
+    {
+     "title": "Cortes de luz del ICE afectarán distritos en Alajuela, Limón y Cartago este jueves 15 de octubre",
+     "url": "https://www.nacion.com/el-pais/cortes-de-luz-del-ice-afectaran-distritos-en/YUD3XSD3PNEKLMJ7DNG7HYCESI/story/",
+     "domain": "La Nación",
+     "seendate": "20261013T160017Z"
+    },
+    {
+     "title": "Sospechosos de asesinar a conocido comunicador de Liberia solicitaron un servicio de transporte a la víctima, según OIJ",
      "url": "https://www.nacion.com/sucesos/oij-busca-a-sospechosos-de-asesinar-a-conocido/LK5UYUTC6VF2BHFYJKKW5R3T7Q/story/",
      "domain": "La Nación",
      "seendate": "20261013T153832Z"
@@ -576,24 +612,6 @@
      "url": "https://www.nacion.com/sucesos/mujer-habria-asesinado-a-estadounidense-de-74-anos/J7Q3I25F3BDGTDQ2H73WBEBONA/story/",
      "domain": "La Nación",
      "seendate": "20261012T184227Z"
-    },
-    {
-     "title": "Disputa por la presidencia del Poder Judicial se concentra en la Sala III: tres magistrados de ese tribunal y la vicepresidenta de la Corte aspiran al cargo",
-     "url": "https://www.nacion.com/politica/disputa-por-la-presidencia-del-poder-judicial-se/YXTPBCYYFFCEVFCJWIGHT63Y2I/story/",
-     "domain": "La Nación",
-     "seendate": "20261012T182838Z"
-    },
-    {
-     "title": "Corte Plena solicita a Asociación Solidarista de Servidores Judiciales informe sobre inversiones en concierto de Snoop Dogg y otras actividades",
-     "url": "https://www.nacion.com/sucesos/corte-plena-solicita-a-asociacion-solidarista-de/HZ764XLIU5BABMPCUWCRTSRWWM/story/",
-     "domain": "La Nación",
-     "seendate": "20261012T180337Z"
-    },
-    {
-     "title": "CNFL programó cortes de luz en Pavas este miércoles 14 de octubre",
-     "url": "https://www.nacion.com/el-pais/cnfl-programo-cortes-de-luz-en-pavas-este/AH3GWSDX5NCD7IZVBAHXHNG5VI/story/",
-     "domain": "La Nación",
-     "seendate": "20261012T174957Z"
     }
    ]
   },
@@ -884,7 +902,13 @@
      "title": "Cámara de seguridad registró presunto caso de acoso sexual que terminó con un hombre en grave estado de salud en Neiva",
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/camara-de-seguridad-registro-presunto-caso-de-acoso-sexual-que-termino-con-un-hombre-en-grave-estado-de-salud-en-neiva-3593183",
      "domain": "El Tiempo",
-     "seendate": "20261013T154118Z"
+     "seendate": "20261013T154740Z"
+    },
+    {
+     "title": "¿Uso desmedido de la fuerza o legítima defensa? El misterio que rodea la muerte de un hombre tras discutir con un militar en Palmira",
+     "url": "https://www.eltiempo.com/colombia/cali/uso-desmedido-de-la-fuerza-o-legitima-defensa-el-misterio-que-rodea-la-muerte-de-un-hombre-tras-discutir-con-un-militar-en-palmira-3593185",
+     "domain": "El Tiempo",
+     "seendate": "20261013T154600Z"
     },
     {
      "title": "Videos sexuales en balcones y turistas desnudos sobre esculturas, entre la lista de ataques y ofensas a los monumentos y fortificaciones de Cartagena",
@@ -929,12 +953,6 @@
      "seendate": "20261013T135203Z"
     },
     {
-     "title": "Hallan cilindro y pancarta de las disidencias de las Farc cerca del estadio Pascual Guerrero, en Cali: descartan material peligroso",
-     "url": "https://www.eltiempo.com/colombia/cali/hallan-cilindro-y-pancarta-de-las-disidencias-de-las-farc-cerca-del-estadio-pascual-guerrero-en-cali-descartan-material-peligroso-3593135",
-     "domain": "El Tiempo",
-     "seendate": "20261013T133428Z"
-    },
-    {
      "title": "Quemaban fachadas para exigir extorsiones: capturan a tres señalados de intimidar a comerciantes en Soledad, Atlántico",
      "url": "https://www.eltiempo.com/colombia/barranquilla/quemaban-fachadas-para-exigir-extorsiones-capturan-a-tres-senalados-de-intimidar-a-comerciantes-en-soledad-atlantico-3593139",
      "domain": "El Tiempo",
@@ -967,16 +985,16 @@
   "ECU": {
    "articles": [
     {
-     "title": "La vía Alóag-Santo Domingo permanece cerrada este martes 13 de octubre",
+     "title": "Caso Goleada: tribunal ratifica a Sebastián Cornejo como juez de la causa; audiencia de apelación a la prisión preventiva de ocho procesados será el 19 de octubre",
+     "url": "https://eluniverso.com/politica/expedientes/caso-goleada-tribunal-ratifica-a-sebastian-cornejo-como-juez-de-la-causa-audiencia-de-apelacion-a-la-prision-preventiva-de-siete-procesados-sera-el-19-de-octubre-nota/",
+     "domain": "El Universo",
+     "seendate": "20261013T155821Z"
+    },
+    {
+     "title": "La vía Alóag-Santo Domingo permanece cerrada este martes, 13 de octubre",
      "url": "https://eluniverso.com/comunidad/ecuador/la-via-aloag-santo-domingo-permanece-cerrada-este-martes-13-de-octubre-nota/",
      "domain": "El Universo",
      "seendate": "20261013T154232Z"
-    },
-    {
-     "title": "Caso Goleada: tribunal ratifica a Sebastián Cornejo como juez de la causa; audiencia de apelación a la prisión preventiva de siete procesados será el 19 de octubre",
-     "url": "https://eluniverso.com/politica/expedientes/caso-goleada-tribunal-ratifica-a-sebastian-cornejo-como-juez-de-la-causa-audiencia-de-apelacion-a-la-prision-preventiva-de-siete-procesados-sera-el-19-de-octubre-nota/",
-     "domain": "El Universo",
-     "seendate": "20261013T141500Z"
     },
     {
      "title": "Sentencian a diez años de cárcel a dos personas que obligaban a dos menores de su familia a vender y pedir dinero para reunir $ 50 diarios",
@@ -1091,10 +1109,22 @@
      "seendate": "20261013T143657Z"
     },
     {
-     "title": "Inccosac trae las primeras ‘tapas antirrobo’ para agua y desagüe del Perú, ¿cómo funcionan?",
-     "url": "https://elcomercio.pe/economia/peru/agua-inccosac-trae-las-primeras-tapas-antirrobo-para-agua-y-desague-del-peru-noticia/",
+     "title": "Semana de la Educación Financiera: cinco hábitos para fortalecer tus finanzas",
+     "url": "https://elcomercio.pe/economia/peru/semana-de-la-educacion-financiera-cinco-habitos-para-fortalecer-tus-finanzas-l-ultimas-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261013T142918Z"
+     "seendate": "20261008T180833Z"
+    },
+    {
+     "title": "Demanda duplicó la oferta: Cofide coloca S/120 millones con su tercer bono azul para financiar agua y saneamiento",
+     "url": "https://elcomercio.pe/economia/peru/demanda-duplico-la-oferta-cofide-coloca-s120-millones-con-su-tercer-bono-azul-para-financiar-agua-y-saneamiento-l-ultimas-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261008T164136Z"
+    },
+    {
+     "title": "SNI pide incluir producción y comercialización de bebidas alcohólicas ilegales como parte del crimen organizado",
+     "url": "https://elcomercio.pe/economia/peru/sni-pide-incluir-produccion-y-comercializacion-de-bebidas-alcoholicas-ilegales-como-parte-del-crimen-organizado-l-ultimas-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261008T154906Z"
     }
    ]
   },
@@ -1114,22 +1144,82 @@
   "ARG": {
    "articles": [
     {
-     "title": "Discapacidad: Rodrigo Sbarra quedó a cargo de forma interina del área por el accidente que sufrió el nuevo secretario",
-     "url": "https://www.lanacion.com.ar/politica/discapacidad-rodrigo-sbarra-quedo-a-cargo-de-forma-interina-del-area-por-el-accidente-que-sufrio-el-nid13102026/",
+     "title": "Alerta por el efectivo: 148 localidades se quedaron sin lugares para retirar dinero, según un estudio",
+     "url": "https://www.lanacion.com.ar/economia/alerta-por-el-efectivo-148-localidades-se-quedaron-sin-lugares-para-retirar-dinero-segun-un-estudio-nid13102026/",
      "domain": "La Nación",
-     "seendate": "20261013T154739Z"
-    },
-    {
-     "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este martes 13 de octubre, minuto a minuto",
-     "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T154103Z"
+     "seendate": "20261013T161351Z"
     },
     {
      "title": "Javier Milei y sus medidas, EN VIVO: el Presidente dijo que el Gobierno estaría dispuesto a ajustar la fecha de la visita del Papa",
      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-dijo-que-el-gobierno-estaria-dispuesto-a-ajustar-la-nid13102026/",
      "domain": "La Nación",
-     "seendate": "20261013T154036Z"
+     "seendate": "20261013T161341Z"
+    },
+    {
+     "title": "Crece la tensión por Malvinas: el gobierno británico anuncia que “protegerá” a las empresas que explotan recursos en las islas",
+     "url": "https://www.lanacion.com.ar/politica/crece-la-tension-por-malvinas-el-gobierno-britanico-anuncia-que-protegera-a-las-empresas-que-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T161140Z"
+    },
+    {
+     "title": "Luis Caputo se reunió con Kristalina Georgieva mientras sigue pendiente el giro de US$869 millones del FMI",
+     "url": "https://www.lanacion.com.ar/economia/luis-caputo-se-reunio-con-kristalina-georgieva-mientras-sigue-pendiente-el-giro-de-us869-millones-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T160808Z"
+    },
+    {
+     "title": "Fuga “enjabonada”: se escaparon por el pasaplatos de la puerta del calabozo donde estaban detenidos por narcotráfico",
+     "url": "https://www.lanacion.com.ar/seguridad/fuga-enjabonada-se-escaparon-por-el-pasaplatos-de-la-puerta-del-calabozo-donde-estaban-detenidos-por-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T160610Z"
+    },
+    {
+     "title": "Ya produce en 18.650 metros cuadrados: una provincia vive una transformación histórica con cultivos sin tierra",
+     "url": "https://www.lanacion.com.ar/economia/campo/ya-produce-en-18650-metros-cuadrados-una-provincia-vive-una-transformacion-historica-con-cultivos-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T155744Z"
+    },
+    {
+     "title": "Inversión global de 35 millones de euros: una empresa argentina inauguró una terminal de cargas refrigeradas en España",
+     "url": "https://www.lanacion.com.ar/economia/campo/inversion-global-de-35-millones-de-euros-una-empresa-argentina-inauguro-una-terminal-de-cargas-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T155711Z"
+    },
+    {
+     "title": "Se robaron una fortuna de una casa y cuando descubrieron al ladrón se llevaron una sorpresa",
+     "url": "https://www.lanacion.com.ar/seguridad/se-robaron-una-fortuna-de-una-casa-y-cuando-descubrieron-al-ladron-se-llevaron-una-sorpresa-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T155651Z"
+    },
+    {
+     "title": "Escala el conflicto universitario: habrá tomas, cortes y clases públicas antes de la marcha del jueves",
+     "url": "https://www.lanacion.com.ar/sociedad/escala-el-conflicto-universitario-habra-tomas-cortes-y-clases-publicas-antes-de-la-marcha-del-jueves-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T155530Z"
+    },
+    {
+     "title": "ATE convocó a un paro nacional de 24 horas para este jueves contra el DNU 70/23 del Gobierno",
+     "url": "https://www.lanacion.com.ar/politica/ate-convoco-a-un-paro-nacional-de-24-horas-para-este-jueves-contra-el-dnu-7023-del-gobierno-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T155215Z"
+    },
+    {
+     "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este martes 13 de octubre, minuto a minuto",
+     "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T155158Z"
+    },
+    {
+     "title": "Chiqui Tapia se reconcilió hace poco con el clan Moyano con una inédita foto de unidad",
+     "url": "https://www.lanacion.com.ar/politica/chiqui-tapia-se-reconcilio-hace-poco-con-el-clan-moyano-con-una-foto-de-unidad-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T155111Z"
+    },
+    {
+     "title": "Discapacidad: Rodrigo Sbarra quedó a cargo de forma interina del área por el accidente que sufrió el nuevo secretario",
+     "url": "https://www.lanacion.com.ar/politica/discapacidad-rodrigo-sbarra-quedo-a-cargo-de-forma-interina-del-area-por-el-accidente-que-sufrio-el-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T154739Z"
     },
     {
      "title": "Muebles de autor, recuerdos del 83 y vanguardia: comenzaron las obras de rescate patrimonial en “el gigante de la calle Sarmiento”",
@@ -1246,12 +1336,6 @@
      "seendate": "20261013T150442Z"
     },
     {
-     "title": "Chiqui Tapia se reconcilió hace poco con el clan Moyano con una foto de unidad",
-     "url": "https://www.lanacion.com.ar/politica/chiqui-tapia-se-reconcilio-hace-poco-con-el-clan-moyano-con-una-foto-de-unidad-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T150341Z"
-    },
-    {
      "title": "Habló por primera vez Chantal Leclercq, una de las anestesiólogas involucradas en el escándalo del propofol",
      "url": "https://www.lanacion.com.ar/seguridad/hablo-por-primera-vez-chantal-leclercq-una-de-las-imputadas-por-el-escandalo-del-propofol-nid13102026/",
      "domain": "La Nación",
@@ -1310,48 +1394,6 @@
      "url": "https://www.lanacion.com.ar/economia/borron-y-cuenta-nueva-el-gobierno-les-perdona-deudas-millonarias-a-edenor-y-edesur-por-el-nid13102026/",
      "domain": "La Nación",
      "seendate": "20261013T141205Z"
-    },
-    {
-     "title": "Ya produce en 18.650 metros cuadrados: una provincia vive una transformación histórica con cultivos sin tierra",
-     "url": "https://www.lanacion.com.ar/economia/campo/ya-produce-en-18650-metros-cuadrados-una-provincia-vive-una-transformacion-historica-con-cultivos-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T140547Z"
-    },
-    {
-     "title": "El juicio de los Cuadernos de las Coimas: avanza otra audiencia sin transmisión ni acceso al público",
-     "url": "https://www.lanacion.com.ar/politica/el-juicio-de-los-cuadernos-de-las-coimas-avanza-otra-audiencia-sin-transmision-ni-acceso-al-publico-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T135855Z"
-    },
-    {
-     "title": "El Indec informa hoy la inflación de septiembre 2026",
-     "url": "https://www.lanacion.com.ar/economia/se-conoce-el-ipc-de-septiembre-y-el-mercado-espera-una-leve-aceleracion-nid12102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T135714Z"
-    },
-    {
-     "title": "El Gobierno presentó un reclamo para frenar la explotación de hidrocarburos en Malvinas ante el Tribunal del Mar",
-     "url": "https://www.lanacion.com.ar/politica/el-gobierno-presento-un-reclamo-por-malvinas-ante-el-tribunal-internacional-del-derecho-del-mar-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T134609Z"
-    },
-    {
-     "title": "Las claves de la inesperada ola de aperturas gastronómicas",
-     "url": "https://www.lanacion.com.ar/economia/negocios/las-claves-de-la-inesperada-ola-de-aperturas-gastronomicas-nid10102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T134151Z"
-    },
-    {
-     "title": "Investigan una presunta trama de US$500 millones para vender dólar oficial al blue durante el gobierno de Alberto Fernández",
-     "url": "https://www.lanacion.com.ar/economia/investigan-una-presunta-trama-de-us500-millones-para-vender-dolar-oficial-al-blue-durante-el-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T133732Z"
-    },
-    {
-     "title": "El 40 por ciento de los pabellones de la cárcel de Villa Devoto quedó vacío",
-     "url": "https://www.lanacion.com.ar/seguridad/el-40-por-ciento-de-los-pabellones-de-la-carcel-de-villa-devoto-quedo-vacio-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T133609Z"
     }
    ]
   },
@@ -1368,6 +1410,12 @@
   "PRY": {
    "articles": [
     {
+     "title": "Condenas de hasta 25 años por crimen en Roberto L. Pettit",
+     "url": "https://www.abc.com.py/nacionales/2026/10/13/condenas-de-hasta-25-anos-por-crimen-en-roberto-l-pettit/",
+     "domain": "ABC Color",
+     "seendate": "20261013T160718Z"
+    },
+    {
      "title": "Feminicidio de Deisy Paola: Corte convoca a jueza encargada de causa por violencia",
      "url": "https://www.abc.com.py/nacionales/2026/10/13/feminicidio-de-deisy-paola-corte-convoca-a-jueza-encargada-de-causa-por-violencia/",
      "domain": "ABC Color",
@@ -1378,12 +1426,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/13/tribunal-declara-en-rebeldia-a-exjefe-de-petropar-y-dicta-orden-de-captura/",
      "domain": "ABC Color",
      "seendate": "20261013T140634Z"
-    },
-    {
-     "title": "Vídeo: trabajadores de la ANDE “entierran” un auto estacionado en el microcentro de Asunción",
-     "url": "https://www.abc.com.py/nacionales/2026/10/13/video-trabajadores-de-la-ande-entierran-un-auto-estacionado-en-el-microcentro-de-asuncion/",
-     "domain": "ABC Color",
-     "seendate": "20261013T130355Z"
     }
    ]
   },
@@ -1392,6 +1434,12 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "Ministros do TSE criticam Nunes Marques por barrar votação em plenário sobre ‘Exército do Lula’ e veem decisão ampliando crise na Corte",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/13/ministros-do-tse-criticam-nunes-marques-por-barrar-votacao-em-plenario-sobre-exercito-do-lula-e-veem-decisao-ampliando-crise-na-corte.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261013T160718Z"
+    },
     {
      "title": "Menina de três anos morre após ser atingida por trave de futebol em festa de Dia das Crianças no Paraná",
      "url": "https://oglobo.globo.com/brasil/noticia/2026/10/13/menina-de-tres-anos-morre-apos-ser-atingida-por-trave-de-futebol-em-festa-de-dia-das-criancas-no-parana.ghtml",
@@ -1457,12 +1505,6 @@
      "url": "https://oglobo.globo.com/brasil/sao-paulo/noticia/2026/10/13/policia-prende-tres-suspeitos-em-operacao-que-mira-apostas-ilegais-em-sp.ghtml",
      "domain": "O Globo",
      "seendate": "20261013T111338Z"
-    },
-    {
-     "title": "Meta nega interferência política e cita falha técnica global em exibição do total de visualizações de Lula",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/13/meta-nega-interferencia-politica-e-cita-falha-tecnica-global-em-exibicao-do-total-de-visualizacoes-de-lula.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261013T103739Z"
     }
    ]
   }
