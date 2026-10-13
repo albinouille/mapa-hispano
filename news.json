@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T02:20:47+00:00",
+ "updated": "2026-10-13T02:53:46+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -175,6 +175,18 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Liberan a 18 de 39 detenidos tras protesta por agua contaminada en Casa Jalisco; Fiscalía mantiene investigaciones",
+     "url": "https://www.eluniversal.com.mx/estados/liberan-a-18-de-39-detenidos-tras-protesta-por-agua-contaminada-en-casa-jalisco-fiscalia-mantiene-investigaciones/",
+     "domain": "El Universal",
+     "seendate": "20261013T024453Z"
+    },
+    {
+     "title": "INE confirma 33 mil identidades mediante datos biométricos; consultas ayudan a localizar a 138 mil personas",
+     "url": "https://www.eluniversal.com.mx/nacion/ine-confirma-33-mil-identidades-mediante-datos-biometricos-consultas-ayudan-a-localizar-a-138-mil-personas/",
+     "domain": "El Universal",
+     "seendate": "20261013T023619Z"
+    },
     {
      "title": "Relatora de la ONU alerta por uso excesivo de la fuerza en marcha por el agua en Guadalajara; pide investigar denuncias",
      "url": "https://www.eluniversal.com.mx/nacion/relatora-de-la-onu-alerta-por-uso-excesivo-de-la-fuerza-en-marcha-por-el-agua-en-guadalajara-pide-investigar-denuncias/",
@@ -560,6 +572,12 @@
   "CRI": {
    "articles": [
     {
+     "title": "80 aniversario de ‘La Nación’: ¿Cómo viviremos dentro de 20 años? Así imaginan los expertos la Costa Rica del 2046",
+     "url": "https://www.nacion.com/el-pais/80-aniversario-de-la-nacion-como-viviremos-dentro/PM6NJ7RKIBETTIEMPOA227I46Q/story/",
+     "domain": "La Nación",
+     "seendate": "20261013T024316Z"
+    },
+    {
      "title": "Corte de agua en partes de Heredia afectará a más de 13.000 personas este miércoles: estas son las comunidades",
      "url": "https://www.nacion.com/el-pais/corte-de-agua-en-partes-de-heredia-afectara-a-mas/H2AWHA374JG2HMUJYYPDHUSCLI/story/",
      "domain": "La Nación",
@@ -904,24 +922,6 @@
      "url": "https://www.prensa.com/sociedad/terremoto-188-escuelas-afectadas-y-danos-en-viviendas-y-hospitales/",
      "domain": "La Prensa",
      "seendate": "20261010T053500Z"
-    },
-    {
-     "title": "Parque Omar estará abierto para quienes busquen resguardo tras el sismo",
-     "url": "https://www.prensa.com/sociedad/parque-omar-estara-abierto-para-quienes-busquen-resguardo-tras-el-sismo/",
-     "domain": "La Prensa",
-     "seendate": "20261010T030500Z"
-    },
-    {
-     "title": "Hospitales, escuelas y estaciones de bomberos reportan daños tras el terremoto",
-     "url": "https://www.prensa.com/sociedad/hospitales-escuelas-y-estaciones-de-bomberos-reportan-danos-tras-el-sismo/",
-     "domain": "La Prensa",
-     "seendate": "20261010T003000Z"
-    },
-    {
-     "title": "Marco Rubio anuncia asistencia de Estados Unidos a Panamá tras el terremoto",
-     "url": "https://www.prensa.com/politica/marco-rubio-anuncia-asistencia-de-estados-unidos-a-panama-tras-el-terremoto/",
-     "domain": "La Prensa",
-     "seendate": "20261009T225511Z"
     }
    ]
   },
@@ -1055,6 +1055,12 @@
   "COL": {
    "articles": [
     {
+     "title": "Así avanza la recuperación de 'Golondrina' y 'Llamarada', los equinos que sufrieron quemaduras durante los incendios forestales del Tolima",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/asi-avanza-la-recuperacion-de-golondrina-y-llamarada-los-equinos-que-sufrieron-quemaduras-durante-los-incendios-forestales-del-tolima-3593089",
+     "domain": "El Tiempo",
+     "seendate": "20261013T022941Z"
+    },
+    {
      "title": "Desde el Cauca le piden al presidente Abelardo de la Espriella que visite el departamento en medio de la crisis de seguridad y la escalada violenta",
      "url": "https://www.eltiempo.com/colombia/cali/desde-el-cauca-le-piden-al-presidente-abelardo-de-la-espriella-que-visite-el-departamento-en-medio-de-la-crisis-de-seguridad-y-la-escalada-violenta-3593081",
      "domain": "El Tiempo",
@@ -1089,12 +1095,6 @@
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/concejal-de-cucuta-carlos-duenas-empujo-e-insulto-a-trabajador-de-supermercado-y-despues-publico-video-para-pedir-disculpas-no-tiene-justificacion-3593035",
      "domain": "El Tiempo",
      "seendate": "20261012T214123Z"
-    },
-    {
-     "title": "Más de 30 viviendas de dos municipios de Urabá, Antioquia, resultaron afectadas por el terremoto de magnitud 7,7 con epicentro en Panamá",
-     "url": "https://www.eltiempo.com/colombia/medellin/mas-de-30-viviendas-de-dos-municipios-de-uraba-antioquia-resultaron-afectadas-por-el-terremoto-de-magnitud-7-7-con-epicentro-en-panama-3593027",
-     "domain": "El Tiempo",
-     "seendate": "20261012T213941Z"
     },
     {
      "title": "Salwa e Isabella llevan el Carnaval de Barranquilla a París y Nueva York",
@@ -1231,18 +1231,6 @@
      "seendate": "20261012T173448Z"
     },
     {
-     "title": "Las intensas lluvias dejan inundaciones y clases suspendidas en Machala y Santa Rosa",
-     "url": "https://eluniverso.com/comunidad/ecuador/las-intensas-lluvias-dejan-inundaciones-y-clases-suspendidas-en-machala-y-santa-rosa-nota/",
-     "domain": "El Universo",
-     "seendate": "20261012T162131Z"
-    },
-    {
-     "title": "Nuevos jueces conocerán la etapa de juicio en el caso Encuentro; Leonardo Cortázar, Hernán Luque y otras dos acusadas siguen sin ser juzgados",
-     "url": "https://eluniverso.com/politica/expedientes/nuevos-jueces-conoceran-etapa-juicio-caso-encuentro-leonardo-cortazar-hernan-luque-siguen-juzgados-nota/",
-     "domain": "El Universo",
-     "seendate": "20261012T162105Z"
-    },
-    {
      "title": "Drones impresos en 3D, aeronaves de larga autonomía y aviones híbridos forman parte de la cooperación militar de Estados Unidos en Ecuador",
      "url": "https://eluniverso.com/politica/seguridad/drones-impresos-en-3d-aeronaves-de-larga-autonomia-y-aviones-hibridos-forman-parte-de-la-cooperacion-militar-de-estados-unidos-en-ecuador-nota/",
      "domain": "El Universo",
@@ -1253,18 +1241,6 @@
      "url": "https://eluniverso.com/comunidad/ecuador/cuales-son-los-dias-de-feriado-de-noviembre-nota/",
      "domain": "El Universo",
      "seendate": "20261012T141434Z"
-    },
-    {
-     "title": "Penas de hasta 26 años de cárcel, control de las redes sociales y rol de los GAD en la lucha contra el reclutamiento de niños, ejes de la ley que destacan los analistas",
-     "url": "https://eluniverso.com/politica/asamblea-nacional/penas-de-hasta-26-anos-de-carcel-control-de-las-redes-sociales-y-rol-de-los-gad-en-la-lucha-contra-el-reclutamiento-de-ninos-ejes-de-la-ley-que-destacan-los-analistas-nota/",
-     "domain": "El Universo",
-     "seendate": "20261011T144500Z"
-    },
-    {
-     "title": "Gabinetes binacionales: Ecuador buscaría convertir la cooperación con Colombia y Perú en resultados concretos",
-     "url": "https://eluniverso.com/politica/ejecutivo/gabinetes-binacionales-ecuador-buscaria-convertir-la-cooperacion-con-colombia-y-peru-en-resultados-concretos-nota/",
-     "domain": "El Universo",
-     "seendate": "20261010T111500Z"
     },
     {
      "title": "Presentaciones artísticas y condecoración marcan festejo del Gobierno por los 206 años de Independencia de Guayaquil",
@@ -1336,6 +1312,54 @@
   "ARG": {
    "articles": [
     {
+     "title": "El pedido de los diputados de Unión por la Patria por la ley de financiamiento",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-nos-unimos-en-oracion-por-su-salud-dijo-el-presidente-por-la-nid12102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T023029Z"
+    },
+    {
+     "title": "El agro en el Congreso, entre lo que se habla, se trata y, por ahora, no está en agenda",
+     "url": "https://www.lanacion.com.ar/economia/campo/el-agro-en-el-congreso-entre-lo-que-se-habla-se-trata-y-por-ahora-no-esta-en-agenda-nid10102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T022813Z"
+    },
+    {
+     "title": "Nelson Ginter, de 62 años, el productor de huevos de color azul más austral del mundo: “Si los dejás más de un día se congelan”",
+     "url": "https://www.lanacion.com.ar/economia/campo/nelson-ginter-de-62-anos-el-productor-de-huevos-mas-austral-del-mundo-si-los-dejas-mas-de-un-dia-se-nid09102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T022630Z"
+    },
+    {
+     "title": "Alfredo Di Costanzo, de la Universidad de Minnesota, y un éxito de EE.UU. ahora bajo presión: productores de 80 años con 500 vacas sin herederos",
+     "url": "https://www.lanacion.com.ar/economia/campo/alfredo-di-costanzo-de-la-universidad-de-minnesota-y-un-exito-de-eeuu-ahora-bajo-presion-productores-nid10102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T022457Z"
+    },
+    {
+     "title": "Aníbal Pordomingo, investigador del INTA: “El país tiene un margen de crecimiento del 30 al 40% en su peso medio de faena”",
+     "url": "https://www.lanacion.com.ar/economia/campo/anibal-pordomingo-investigador-del-inta-el-pais-tiene-un-margen-de-crecimiento-del-30-al-40-en-su-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T022428Z"
+    },
+    {
+     "title": "Mike McCloskey, dueño de un tambo de 20.000 vacas Holando: el emprendedor serial que convirtió un problema en un ingreso de miles de dólares",
+     "url": "https://www.lanacion.com.ar/economia/campo/mike-mccloskey-dueno-de-un-tambo-de-20000-vacas-holando-el-emprendedor-serial-que-convirtio-un-nid12102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T022226Z"
+    },
+    {
+     "title": "Aterosclerosis y trombosis: alimentaron animales con remolacha forrajera y el resultado fue sorprendente",
+     "url": "https://www.lanacion.com.ar/economia/campo/aterosclerosis-y-trombosis-alimentaron-animales-con-remolacha-forrajera-y-el-resultado-fue-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T021956Z"
+    },
+    {
+     "title": "Una pelea en el transporte automotor generó una disputa judicial sin precedentes",
+     "url": "https://www.lanacion.com.ar/economia/una-pelea-en-el-transporte-automotor-genero-una-disputa-judicial-sin-precedentes-nid12102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T021949Z"
+    },
+    {
      "title": "Detuvieron en Perú a “Papá“, uno de los prófugos del triple crimen de Florencio Varela",
      "url": "https://www.lanacion.com.ar/seguridad/detuvieron-en-peru-a-papa-uno-de-los-profugos-del-triple-crimen-de-florencio-varela-nid12102026/",
      "domain": "La Nación",
@@ -1364,12 +1388,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/los-psicologos-coinciden-no-es-facil-saber-que-se-desea-porque-entre-el-deseo-y-uno-mismo-se-nid10102026/",
      "domain": "La Nación",
      "seendate": "20261013T012900Z"
-    },
-    {
-     "title": "Javier Milei y sus medidas, EN VIVO: el Presidente negó la salida de Caputo y se mostró confiado en que será reelecto",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-nos-unimos-en-oracion-por-su-salud-dijo-el-presidente-por-la-nid12102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T012843Z"
     },
     {
      "title": "Una alerta del FBI por amenazas en ChatGPT permitió descubrir un plan para realizar tiroteos en escuelas de Chaco",
@@ -1490,24 +1508,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/fibromialgia-un-especialista-explico-en-que-consiste-esta-patologia-y-por-que-afecta-mas-a-las-nid11102026/",
      "domain": "La Nación",
      "seendate": "20261012T205900Z"
-    },
-    {
-     "title": "Tiene 84 años y su novia virtual lo estafó: en cuatro meses le robó 160.000 dólares y él aún no puede creer que ella no existe",
-     "url": "https://www.lanacion.com.ar/seguridad/tiene-84-anos-y-su-novia-virtual-lo-estafo-en-cuatro-meses-le-robo-160000-dolares-y-el-aun-no-puede-nid12102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T205353Z"
-    },
-    {
-     "title": "Se aproxima un “bloqueo en la circulación atmosférica” que prolongará el mal tiempo y las tormentas: las zonas afectadas",
-     "url": "https://www.lanacion.com.ar/sociedad/se-aproxima-un-bloqueo-en-la-circulacion-atmosferica-que-prolongara-el-mal-tiempo-y-las-tormentas-nid12102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T203200Z"
-    },
-    {
-     "title": "Arthur Brooks, experto en felicidad de Harvard: “Hay una inteligencia que nace a partir de los 40 años”",
-     "url": "https://www.lanacion.com.ar/sociedad/arthur-brooks-experto-en-felicidad-de-harvard-hay-una-inteligencia-que-nace-a-partir-de-los-40-anos-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T203000Z"
     }
    ]
   },
@@ -1558,12 +1558,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/12/ips-santani-apartan-a-medico-que-supuestamente-acudio-ebrio-a-su-consultorio/",
      "domain": "ABC Color",
      "seendate": "20261012T211512Z"
-    },
-    {
-     "title": "Persecución y balacera en Sajonia: revelan las identidades de los tres detenidos",
-     "url": "https://www.abc.com.py/nacionales/2026/10/12/persecucion-y-balacera-en-sajonia-revelan-las-identidades-de-los-tres-detenidos/",
-     "domain": "ABC Color",
-     "seendate": "20261012T210608Z"
     },
     {
      "title": "Conferencia internacional abre programa de 4° aniversario del Club Veteranos de Prensa",
