@@ -1,19 +1,25 @@
 {
- "updated": "2026-10-13T09:53:31+00:00",
+ "updated": "2026-10-13T10:21:35+00:00",
  "countries": {
   "ESP": {
    "articles": [
     {
+     "title": "Última hora de la actualidad política, en directo | Cientos de personas esperan a los Reyes en Ceuta",
+     "url": "https://elpais.com/espana/2026-10-13/ultima-hora-de-la-actualidad-politica-y-de-la-visita-de-los-reyes-a-ceuta-en-directo.html",
+     "domain": "El País",
+     "seendate": "20261013T101328Z"
+    },
+    {
+     "title": "Montero confirma “conversaciones” con el Frente Amplio: “Lo importante es llegar a buen puerto”",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-10-13/montero-confirma-conversaciones-con-el-frente-amplio-lo-importante-es-llegar-a-buen-puerto.html",
+     "domain": "El País",
+     "seendate": "20261013T100030Z"
+    },
+    {
      "title": "El expresidente madrileño Ignacio González se declara inocente en el arranque de su primer juicio de Lezo",
      "url": "https://elpais.com/espana/2026-10-13/arranca-el-primer-juicio-de-lezo-al-expresidente-madrileno-ignacio-gonzalez-reconoce-los-delitos.html",
      "domain": "El País",
-     "seendate": "20261013T094522Z"
-    },
-    {
-     "title": "Última hora de la actualidad política, en directo | Irene Montero confirma “conversaciones” con el Frente Amplio",
-     "url": "https://elpais.com/espana/2026-10-13/ultima-hora-de-la-actualidad-politica-y-de-la-visita-de-los-reyes-a-ceuta-en-directo.html",
-     "domain": "El País",
-     "seendate": "20261013T094516Z"
+     "seendate": "20261013T095443Z"
     },
     {
      "title": "Ascienden a cinco los detenidos de grupos ultras tras la jornada más tensa en la acampada de la Puerta del Sol",
@@ -22,20 +28,14 @@
      "seendate": "20261013T072344Z"
     },
     {
-     "title": "El tortuoso camino para aplicar la orden del Supremo sobre la ‘ley de nietos’: de los recursos exprés a las revisiones del censo fuera de plazo",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-10-13/el-tortuoso-camino-para-aplicar-la-orden-del-supremo-sobre-la-ley-de-nietos-de-los-recursos-expres-a-las-revisiones-del-censo-fuera-de-plazo.html",
-     "domain": "El País",
-     "seendate": "20261013T033001Z"
-    },
-    {
-     "title": "La Ceuta que recibe a los Reyes: “Empezamos a ver la luz al final del túnel”",
-     "url": "https://elpais.com/espana/2026-10-13/la-ceuta-que-recibe-a-los-reyes-empezamos-a-ver-la-luz-al-final-del-tunel.html",
-     "domain": "El País",
-     "seendate": "20261013T033001Z"
-    },
-    {
      "title": "Prudencia en Marruecos ante la primera visita de un rey de España a Ceuta y Melilla en dos décadas",
      "url": "https://elpais.com/espana/2026-10-13/prudencia-en-marruecos-ante-la-primera-visita-de-un-rey-de-espana-a-ceuta-y-melilla-en-dos-decadas.html",
+     "domain": "El País",
+     "seendate": "20261013T033001Z"
+    },
+    {
+     "title": "El tortuoso camino para aplicar la orden del Supremo sobre la ‘ley de nietos’: de los recursos exprés a las revisiones del censo fuera de plazo",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-10-13/el-tortuoso-camino-para-aplicar-la-orden-del-supremo-sobre-la-ley-de-nietos-de-los-recursos-expres-a-las-revisiones-del-censo-fuera-de-plazo.html",
      "domain": "El País",
      "seendate": "20261013T033001Z"
     },
@@ -157,6 +157,36 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Buscan impulsar polo de desarrollo para zona norte de Toluca",
+     "url": "https://www.eluniversal.com.mx/metropoli/buscan-impulsar-polo-de-desarrollo-para-zona-norte-de-toluca/",
+     "domain": "El Universal",
+     "seendate": "20261013T100149Z"
+    },
+    {
+     "title": "Se inconforman por nuevas tarifas del Tren al AIFA",
+     "url": "https://www.eluniversal.com.mx/metropoli/se-inconforman-por-nuevas-tarifas-del-tren-al-aifa/",
+     "domain": "El Universal",
+     "seendate": "20261013T100126Z"
+    },
+    {
+     "title": "“Plan afectará construcción de vivienda”",
+     "url": "https://www.eluniversal.com.mx/metropoli/plan-afectara-construccion-de-vivienda/",
+     "domain": "El Universal",
+     "seendate": "20261013T100107Z"
+    },
+    {
+     "title": "Brugada presentará iniciativa de ley de rentas en informe",
+     "url": "https://www.eluniversal.com.mx/metropoli/brugada-presentara-iniciativa-de-ley-de-rentas-en-informe/",
+     "domain": "El Universal",
+     "seendate": "20261013T100040Z"
+    },
+    {
+     "title": "Plan de ordenamiento es un “catálogo de alternativas” para gobiernos, dice Sedatu",
+     "url": "https://www.eluniversal.com.mx/metropoli/plan-de-ordenamiento-es-un-catalogo-de-alternativas-para-gobiernos-dice-sedatu/",
+     "domain": "El Universal",
+     "seendate": "20261013T095912Z"
+    },
     {
      "title": "Encuesta: Felifer Macías, el panista mejor posicionado hacia la gubernatura",
      "url": "https://www.eluniversal.com.mx/estados/encuesta-felifer-macias-el-panista-mejor-posicionado-hacia-la-gubernatura/",
@@ -350,18 +380,6 @@
      "seendate": "20261013T002241Z"
     },
     {
-     "title": "Clara Brugada promete mantenimiento al Monumento a la Raza; estructura presenta pintas y coladeras sin tapa",
-     "url": "https://www.eluniversal.com.mx/metropoli/clara-brugada-promete-mantenimiento-al-monumento-a-la-raza-estructura-presenta-pintas-y-coladeras-sin-tapa/",
-     "domain": "El Universal",
-     "seendate": "20261013T001043Z"
-    },
-    {
-     "title": "PAN capitalino pide a Brugada exigir retiro del plan metropolitano; promoverá amparos contra el \"predialazo\" si se aprueba",
-     "url": "https://www.eluniversal.com.mx/metropoli/pan-capitalino-pide-a-brugada-exigir-retiro-del-plan-metropolitano-promovera-amparos-contra-el-predialazo-si-se-aprueba/",
-     "domain": "El Universal",
-     "seendate": "20261012T222447Z"
-    },
-    {
      "title": "Brugada enviará propuesta de ajustes al plan metropolitano a Secretaría de Desarrollo Agrario y Territorial; “planteamientos no deben generar dudas”, dice",
      "url": "https://www.eluniversal.com.mx/estados/clara-brugada-plantea-cambios-al-programa-metropolitano-no-debe-contener-planteamientos-que-puedan-generar-duda-dice/",
      "domain": "El Universal",
@@ -469,6 +487,12 @@
   },
   "CRI": {
    "articles": [
+    {
+     "title": "ICE de Estados Unidos aprehendió de noche a dos niños costarricenses y los envió a polémico centro de confinamiento en Texas",
+     "url": "https://www.nacion.com/el-pais/ice-de-estados-unidos-aprehendio-de-noche-a-dos/VSMJS2FW5RG6JC6C2BNHEPTPKQ/story/",
+     "domain": "La Nación",
+     "seendate": "20261013T094500Z"
+    },
     {
      "title": "¿Por qué algunos costarricenses pasan meses detenidos por ICE? Esto explica el director de Migración",
      "url": "https://www.nacion.com/el-pais/por-que-algunos-costarricenses-pasan-meses/US7KRQ5PBBA7BCTMUHR7ZMKGZU/story/",
@@ -642,12 +666,6 @@
      "url": "https://www.nacion.com/sucesos/vecino-encuentra-cuerpo-flotando-en-rio-de-valle/5TPEZK2MQBFWPC4SXX5ESQ3XBE/story/",
      "domain": "La Nación",
      "seendate": "20261012T144839Z"
-    },
-    {
-     "title": "Hombre de 41 años muere tras sufrir múltiples disparos en Moín de Limón",
-     "url": "https://www.nacion.com/sucesos/hombre-de-41-anos-muere-tras-sufrir-multiples/L42NV725GJE7FNHCQ7BR3T3PSI/story/",
-     "domain": "La Nación",
-     "seendate": "20261012T144757Z"
     }
    ]
   },
@@ -843,6 +861,12 @@
   },
   "CUB": {
    "articles": [
+    {
+     "title": "Una candidata demócrata en Florida estima que 13.000 cubanos fueron deportados en los dos mandatos de Trump",
+     "url": "https://www.14ymedio.com/cuba/candidata-democrata-florida-estima-13_1_1131891.html",
+     "domain": "14ymedio",
+     "seendate": "20261013T100658Z"
+    },
     {
      "title": "Septiembre cierra con cuatro muertos y 79 violaciones de derechos en las cárceles cubanas",
      "url": "https://www.14ymedio.com/cuba/septiembre-cierra-cuatro-muertos-79_1_1131887.html",
@@ -1192,10 +1216,16 @@
   "ARG": {
    "articles": [
     {
+     "title": "Chocaron un auto y una moto en la ruta 2: murieron dos hombres",
+     "url": "https://www.lanacion.com.ar/seguridad/chocaron-un-auto-y-una-moto-en-la-ruta-2-murieron-dos-hombres-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T101248Z"
+    },
+    {
      "title": "Javier Milei y sus medidas, EN VIVO: el Presidente dijo que el Gobierno estaría dispuesto a ajustar la fecha de la visita del Papa",
      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-dijo-que-el-gobierno-estaria-dispuesto-a-ajustar-la-nid13102026/",
      "domain": "La Nación",
-     "seendate": "20261013T094239Z"
+     "seendate": "20261013T101011Z"
     },
     {
      "title": "Inversión global de 35 millones de euros: una empresa argentina inauguró una terminal de cargas refrigeradas en España",
@@ -1412,12 +1442,6 @@
      "url": "https://www.lanacion.com.ar/politica/hablo-rogerio-tomaz-jr-el-periodista-critico-de-milei-que-fue-deportado-en-aeroparque-es-un-orgullo-nid12102026/",
      "domain": "La Nación",
      "seendate": "20261012T234315Z"
-    },
-    {
-     "title": "Se hizo pasar por juez federal para acceder a información policial secreta",
-     "url": "https://www.lanacion.com.ar/seguridad/se-hizo-pasar-por-juez-federal-para-acceder-a-informacion-policial-secreta-y-ahora-investigan-un-nid12102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T233807Z"
     }
    ]
   },
@@ -1535,24 +1559,6 @@
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/12/programa-eleitoral-de-flavio-bolsonaro-sera-reexibido-apos-ir-ao-ar-sem-audio.ghtml",
      "domain": "O Globo",
      "seendate": "20261012T215150Z"
-    },
-    {
-     "title": "Em dia de Nossa Senhora, Lula e Flávio vão a celebrações em Brasília, e politização divide romeiros em Aparecida",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/12/em-dia-de-nossa-senhora-lula-e-flavio-vao-a-celebracoes-em-brasilia-e-politizacao-divide-romeiros-em-aparecida.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261012T214238Z"
-    },
-    {
-     "title": "Tereza Cristina cita desejo de ser presidente do Senado e vê ambiente favorável a impeachment de ministros do STF",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/12/tereza-cristina-cita-desejo-de-ser-presidente-do-senado-e-ve-ambiente-favoravel-a-impeachment-de-ministros-do-stf.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261012T191534Z"
-    },
-    {
-     "title": "Vídeo mostra PM batendo cano de escopeta contra celular que filmava ação em Paraisópolis, em SP",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/12/video-mostra-pm-batendo-cano-de-escopeta-contra-celular-que-filmava-acao-em-paraisopolis-em-sp.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261012T182046Z"
     }
    ]
   }
