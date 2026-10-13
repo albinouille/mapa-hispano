@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T01:27:33+00:00",
+ "updated": "2026-10-13T01:54:22+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -548,6 +548,12 @@
   "CRI": {
    "articles": [
     {
+     "title": "Corte de agua en partes de Heredia afectará a más de 13.000 personas este miércoles: estas son las comunidades",
+     "url": "https://www.nacion.com/el-pais/corte-de-agua-en-partes-de-heredia-afectara-a-mas/H2AWHA374JG2HMUJYYPDHUSCLI/story/",
+     "domain": "La Nación",
+     "seendate": "20261013T013605Z"
+    },
+    {
      "title": "Temblor de magnitud 6,5 en Panamá es una réplica del terremoto del 9 de octubre, explica Ovsicori",
      "url": "https://www.nacion.com/sucesos/temblor-de-magnitud-65-en-panama-es-una-replica/JV7WBCCCARH2XGLPYP5F5BRH2U/story/",
      "domain": "La Nación",
@@ -632,7 +638,7 @@
      "seendate": "20261012T184227Z"
     },
     {
-     "title": "Disputa por la Presidencia del Poder Judicial se concentra en la Sala III: tres magistrados de ese tribunal y la vicepresidenta de la Corte aspiran al cargo",
+     "title": "Disputa por la presidencia del Poder Judicial se concentra en la Sala III: tres magistrados de ese tribunal y la vicepresidenta de la Corte aspiran al cargo",
      "url": "https://www.nacion.com/politica/disputa-por-la-presidencia-del-poder-judicial-se/YXTPBCYYFFCEVFCJWIGHT63Y2I/story/",
      "domain": "La Nación",
      "seendate": "20261012T182838Z"
@@ -696,12 +702,6 @@
      "url": "https://www.nacion.com/politica/en-que-casos-puede-un-diputado-perder-su-curul/M4C3J4IZANANBDTJRJ4XS4FTXY/story/",
      "domain": "La Nación",
      "seendate": "20261012T143000Z"
-    },
-    {
-     "title": "Joven de 19 años fue asesinado de un disparo en el abdomen en Pavas",
-     "url": "https://www.nacion.com/sucesos/joven-de-19-anos-fue-asesinado-de-un-disparo-en-el/6UGNGHD5KZB3RPYKZFI45SDPMY/story/",
-     "domain": "La Nación",
-     "seendate": "20261012T141104Z"
     }
    ]
   },
@@ -1318,16 +1318,22 @@
   "ARG": {
    "articles": [
     {
-     "title": "Una alerta del FBI por amenazas en ChatGPT permitió descubrir un plan para realizar tiroteos en escuelas de Chaco",
-     "url": "https://www.lanacion.com.ar/seguridad/una-alerta-del-fbi-por-amenazas-en-chatgpt-permitio-descubrir-un-plan-para-realizar-tiroteos-en-nid12102026/",
+     "title": "Los psicólogos coinciden: no es fácil saber qué se desea porque entre el deseo y uno mismo se interponen deseos ajenos y mandatos",
+     "url": "https://www.lanacion.com.ar/sociedad/los-psicologos-coinciden-no-es-facil-saber-que-se-desea-porque-entre-el-deseo-y-uno-mismo-se-nid10102026/",
      "domain": "La Nación",
-     "seendate": "20261013T010928Z"
+     "seendate": "20261013T012900Z"
     },
     {
      "title": "Javier Milei y sus medidas, EN VIVO: el Presidente negó la salida de Caputo y se mostró confiado en que será reelecto",
      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-nos-unimos-en-oracion-por-su-salud-dijo-el-presidente-por-la-nid12102026/",
      "domain": "La Nación",
-     "seendate": "20261013T005350Z"
+     "seendate": "20261013T012843Z"
+    },
+    {
+     "title": "Una alerta del FBI por amenazas en ChatGPT permitió descubrir un plan para realizar tiroteos en escuelas de Chaco",
+     "url": "https://www.lanacion.com.ar/seguridad/una-alerta-del-fbi-por-amenazas-en-chatgpt-permitio-descubrir-un-plan-para-realizar-tiroteos-en-nid12102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T010928Z"
     },
     {
      "title": "La reflexión de Descartes sobre la duda: “Si no pienso, luego me doy cuenta que tengo que estar existiendo, porque si yo no existo, no pienso”",
@@ -1472,18 +1478,6 @@
      "url": "https://www.lanacion.com.ar/politica/el-gobierno-rechazo-el-ingreso-al-pais-de-un-periodista-brasileno-que-habia-criticado-a-milei-nid12102026/",
      "domain": "La Nación",
      "seendate": "20261012T201936Z"
-    },
-    {
-     "title": "Horror en Rosario: un cuerpo envuelto en una frazada, una valija y un expolicía preso por femicidio",
-     "url": "https://www.lanacion.com.ar/seguridad/horror-en-rosario-un-cuerpo-envuelto-en-una-frazada-una-valija-y-un-expolicia-preso-por-femicidio-nid12102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T201927Z"
-    },
-    {
-     "title": "Detuvieron a tres sospechosos cuando intentaban abrir un auto estacionado en Mataderos",
-     "url": "https://www.lanacion.com.ar/seguridad/detuvieron-a-tres-sospechosos-cuando-intentaban-abrir-un-auto-estacionado-en-mataderos-nid12102026/",
-     "domain": "La Nación",
-     "seendate": "20261012T201805Z"
     }
    ]
   },
