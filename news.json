@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T04:55:27+00:00",
+ "updated": "2026-10-13T05:21:41+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -708,6 +708,18 @@
   "PAN": {
    "articles": [
     {
+     "title": "Entre galeras, cartones y carpas: la tragedia se prolonga en Isla Cañas, Búcaro y Tonosí",
+     "url": "https://www.prensa.com/politica/entre-galeras-cartones-y-carpas-la-tragedia-se-prolonga-en-isla-canas-bucaro-y-tonosi/",
+     "domain": "La Prensa",
+     "seendate": "20261013T050400Z"
+    },
+    {
+     "title": "Reforma electoral: Comisión de Gobierno descarta aumentar multas a tesoreros de campaña",
+     "url": "https://www.prensa.com/politica/reforma-electoral-comision-de-gobierno-descarta-aumentar-multas-a-tesoreros-de-campana/",
+     "domain": "La Prensa",
+     "seendate": "20261013T050200Z"
+    },
+    {
      "title": "Escuelas particulares pueden volver a clases este martes; las oficiales el miércoles",
      "url": "https://www.prensa.com/sociedad/escuelas-particulares-pueden-volver-a-clases-este-martes-las-oficiales-el-miercoles/",
      "domain": "La Prensa",
@@ -850,12 +862,6 @@
      "url": "https://www.prensa.com/politica/consejo-de-gabinete-tras-el-terremoto-de-75-en-panama/",
      "domain": "La Prensa",
      "seendate": "20261011T025000Z"
-    },
-    {
-     "title": "El Metro de Panamá realiza pruebas para el reinicio de operaciones",
-     "url": "https://www.prensa.com/sociedad/el-metro-de-panama-realiza-pruebas-para-el-reinicio-de-operaciones/",
-     "domain": "La Prensa",
-     "seendate": "20261011T005832Z"
     },
     {
      "title": "Terremoto: Meduca suspende las clases del lunes a nivel nacional",
@@ -1183,12 +1189,6 @@
      "seendate": "20261012T191732Z"
     },
     {
-     "title": "Daniel Noboa recibió cartas credenciales de nuevos embajadores de Chile, Israel, Canadá y Egipto",
-     "url": "https://eluniverso.com/politica/ejecutivo/daniel-noboa-recibio-cartas-credenciales-de-nuevos-embajadores-de-chile-israel-canada-y-egipto-nota/",
-     "domain": "El Universo",
-     "seendate": "20261012T181611Z"
-    },
-    {
      "title": "Policía libera a cuatro víctimas y aprehende a 33 personas en operativos contra secuestro y extorsión",
      "url": "https://eluniverso.com/politica/seguridad/policia-libera-a-cuatro-victimas-y-aprehende-a-33-personas-en-operativos-contra-secuestro-y-extorsion-nota/",
      "domain": "El Universo",
@@ -1223,10 +1223,10 @@
   "PER": {
    "articles": [
     {
-     "title": "IGP Temblor hoy, lunes 12 de octubre: lugar exacto, magnitud y reportes de sismos en Perú",
+     "title": "IGP Temblor en el Perú hoy, 13 de octubre: último sismo, lugar y magnitud",
      "url": "https://elcomercio.pe/peru/temblor-hoy-en-peru-en-vivo-reportes-del-igp-lugar-magnitud-y-ultimo-minuto-tdpe-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261013T031500Z"
+     "seendate": "20261013T050515Z"
     }
    ]
   },
@@ -1263,6 +1263,12 @@
   },
   "ARG": {
    "articles": [
+    {
+     "title": "Gabriel Rolón, psicoanalista, sobre los recuerdos: “Nuestros padres que ya no están se transforman en personas por ahí más nobles de lo que fueron”",
+     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-sobre-los-recuerdos-nuestros-padres-que-ya-no-estan-se-transforman-en-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T050000Z"
+    },
     {
      "title": "El Gobierno promulgó la ley que modifica el régimen de zonas frías",
      "url": "https://www.lanacion.com.ar/politica/el-gobierno-promulgo-la-ley-que-modifica-el-regimen-de-zonas-frias-nid13102026/",
