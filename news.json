@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T12:44:57+00:00",
+ "updated": "2026-10-14T13:37:28+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -194,6 +194,24 @@
   "MEX": {
    "articles": [
     {
+     "title": "La mañanera de Sheinbaum, 14 de octubre, minuto a minuto",
+     "url": "https://www.eluniversal.com.mx/nacion/la-mananera-de-sheinbaum-14-de-octubre-minuto-a-minuto-2/",
+     "domain": "El Universal",
+     "seendate": "20261014T132909Z"
+    },
+    {
+     "title": "Cae en Jalisco Iván “N”, líder de “Los Cromos”, célula afín al CJNG; cuenta con dos órdenes de aprehensión por homicidio",
+     "url": "https://www.eluniversal.com.mx/nacion/cae-en-jalisco-ivan-n-lider-de-los-cromos-celula-afin-al-cjng-cuenta-con-dos-ordenes-de-aprehension-por-homicidio/",
+     "domain": "El Universal",
+     "seendate": "20261014T131922Z"
+    },
+    {
+     "title": "Huracán Simon y tormenta tropical Trudy; sigue en vivo su trayectoria",
+     "url": "https://www.eluniversal.com.mx/estados/huracan-simon-y-tormenta-tropical-trudy-sigue-en-vivo-su-trayectoria/",
+     "domain": "El Universal",
+     "seendate": "20261014T125022Z"
+    },
+    {
      "title": "Sube a 98 el número de pozos de agua en operación en Ecatepec",
      "url": "https://www.eluniversal.com.mx/metropoli/sube-a-98-el-numero-de-pozos-de-agua-en-operacion-en-ecatepec/",
      "domain": "El Universal",
@@ -356,24 +374,6 @@
      "seendate": "20261014T031558Z"
     },
     {
-     "title": "Capturan a cuatro sujetos relacionados con abandono de cadáver en Iztacalco; tres de ellos tienen ingresos al Sistema Penitenciario por robo",
-     "url": "https://www.eluniversal.com.mx/metropoli/capturan-a-cuatro-sujetos-relacionados-con-abandono-de-cadaver-en-iztacalco-tres-de-ellos-tienen-ingresos-al-sistema-penitenciario-por-robo/",
-     "domain": "El Universal",
-     "seendate": "20261014T025124Z"
-    },
-    {
-     "title": "CNDH atrae investigación por violencia contra manifestantes en Guadalajara; asegura indagación expedita e imparcial",
-     "url": "https://www.eluniversal.com.mx/nacion/cndh-atrae-investigacion-por-violencia-contra-manifestantes-en-guadalajara-asegura-indagacion-expedita-e-imparcial/",
-     "domain": "El Universal",
-     "seendate": "20261014T024943Z"
-    },
-    {
-     "title": "Air France aumentará vuelos entre París y Cancún, anuncia Mara Lezama; ruta llegará a siete frecuencias semanales a partir de diciembre",
-     "url": "https://www.eluniversal.com.mx/estados/air-france-aumentara-vuelos-entre-paris-y-cancun-anuncia-mara-lezama-ruta-llegara-a-siete-frecuencias-semanales-a-partir-de-diciembre/",
-     "domain": "El Universal",
-     "seendate": "20261014T024057Z"
-    },
-    {
      "title": "“Héroes del Covid vuelven a salir”; no hay ni paracetamol, denuncian trabajadores del IMSS",
      "url": "https://www.eluniversal.com.mx/nacion/los-heroes-del-covid-ya-volvimos-a-salir-al-ritmo-de-la-carencia-trabajadores-del-imss-marchan-en-la-cdmx/",
      "domain": "El Universal",
@@ -481,6 +481,12 @@
   },
   "CRI": {
    "articles": [
+    {
+     "title": "Hace 50 años: Trabajadores hospitalarios recibirían aumento de sueldo",
+     "url": "https://www.nacion.com/el-pais/hace-50-anos-trabajadores-hospitalarios-recibirian/Y2UMU7WFIFB2LBZP5TNGZMHO4I/story/",
+     "domain": "La Nación",
+     "seendate": "20261014T133000Z"
+    },
     {
      "title": "IMN anuncia miércoles de tiempo inestable: estas serán las zonas con lluvias y tormentas eléctricas",
      "url": "https://www.nacion.com/sucesos/imn-anuncia-miercoles-de-tiempo-inestable-estas/AQNRHHNQAJEJLEIZYAYCHL7UKY/story/",
@@ -660,23 +666,17 @@
      "url": "https://www.nacion.com/el-pais/cortes-de-luz-del-ice-afectaran-distritos-en/YUD3XSD3PNEKLMJ7DNG7HYCESI/story/",
      "domain": "La Nación",
      "seendate": "20261013T160017Z"
-    },
-    {
-     "title": "Sospechosos de asesinar a conocido comunicador de Liberia solicitaron un servicio de transporte a la víctima, según OIJ",
-     "url": "https://www.nacion.com/sucesos/oij-busca-a-sospechosos-de-asesinar-a-conocido/LK5UYUTC6VF2BHFYJKKW5R3T7Q/story/",
-     "domain": "La Nación",
-     "seendate": "20261013T153832Z"
-    },
-    {
-     "title": "Familia de comunicador asesinado en Liberia: ‘Tienen que pagar por lo que le hicieron a mi hermano’",
-     "url": "https://www.nacion.com/sucesos/familia-de-comunicador-asesinado-en-liberia-tienen/V52U32D6PFCQPIYJ6K4RGAOCSA/story/",
-     "domain": "La Nación",
-     "seendate": "20261013T145848Z"
     }
    ]
   },
   "PAN": {
    "articles": [
+    {
+     "title": "Farmacia de la Policlínica de calle 17 funcionará temporalmente en el Mercado San Felipe Neri",
+     "url": "https://www.prensa.com/sociedad/farmacia-de-la-policlinica-de-calle-17-funcionara-temporalmente-en-el-mercado-san-felipe-neri/",
+     "domain": "La Prensa",
+     "seendate": "20261014T132536Z"
+    },
     {
      "title": "CSS declara el estado de emergencia tras afectaciones por el sismo",
      "url": "https://www.prensa.com/sociedad/css-declara-el-estado-de-emergencia-tras-afectaciones-por-el-sismo/",
@@ -772,12 +772,6 @@
      "url": "https://www.prensa.com/politica/contraloria-flexibiliza-controles-para-atender-la-emergencia-por-el-terremoto/",
      "domain": "La Prensa",
      "seendate": "20261012T184523Z"
-    },
-    {
-     "title": "La Asamblea Nacional suspende sus actividades tras el terremoto del viernes",
-     "url": "https://www.prensa.com/politica/la-asamblea-nacional-suspende-sus-actividades-tras-el-terremoto-del-viernes/",
-     "domain": "La Prensa",
-     "seendate": "20261012T162206Z"
     },
     {
      "title": "Más de 350 réplicas y un llamado a estudiar las estructuras",
@@ -911,22 +905,28 @@
   "COL": {
    "articles": [
     {
+     "title": "'Decidí lanzarme al arroyo': el relato del policía que salvó a un niño de 13 años, arrastrado por la peligrosa corriente de El Salao, en Soledad",
+     "url": "https://www.eltiempo.com/colombia/barranquilla/decidi-lanzarme-al-arroyo-el-relato-del-policia-que-salvo-a-un-nino-de-13-anos-arrastrado-por-la-peligrosa-corriente-de-el-salao-en-soledad-3593396",
+     "domain": "El Tiempo",
+     "seendate": "20261014T131930Z"
+    },
+    {
+     "title": "Balacera en Medellín deja un muerto y tres heridos, entre ellos un policía: uniformado habría respondido con su arma de dotación",
+     "url": "https://www.eltiempo.com/colombia/medellin/balacera-en-medellin-deja-un-muerto-y-tres-heridos-entre-ellos-un-policia-uniformado-habria-respondido-con-su-arma-de-dotacion-3593414",
+     "domain": "El Tiempo",
+     "seendate": "20261014T131648Z"
+    },
+    {
      "title": "Así se logró la suspensión del polémico cobro al transporte de carga para importar y exportar desde Buenaventura en el Valle",
      "url": "https://www.eltiempo.com/colombia/cali/asi-se-logro-la-suspension-del-polemico-cobro-al-transporte-de-carga-para-importar-y-exportar-desde-buenaventura-en-el-valle-3593399",
      "domain": "El Tiempo",
-     "seendate": "20261014T123734Z"
+     "seendate": "20261014T123958Z"
     },
     {
      "title": "Fuertes lluvias provocaron inundaciones en varios sectores de Madrid, Cundinamarca: 'Cada vez que llueve se nos inunda la casa'",
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/fuertes-lluvias-provocaron-inundaciones-en-varios-sectores-de-madrid-cundinamarca-cada-vez-que-llueve-se-nos-inunda-la-casa-3593223",
      "domain": "El Tiempo",
      "seendate": "20261014T110341Z"
-    },
-    {
-     "title": "Procurador Gregorio Eljach se pronunció sobre las marchas convocadas para este miércoles 14 de octubre en Colombia: 'La protesta tiene límites'",
-     "url": "https://www.eltiempo.com/justicia/paz-y-derechos-humanos/procurador-gregorio-eljach-advierte-que-la-protesta-social-tiene-limites-y-pide-tranquilidad-para-las-marchas-de-este-miercoles-14-de-octubre-3593359",
-     "domain": "El Tiempo",
-     "seendate": "20261014T083123Z"
     },
     {
      "title": "Pico y placa en Pereira para el miércoles 14 de octubre de 2026: estos son los vehículos con restricción",
@@ -963,12 +963,6 @@
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/reportan-cierre-en-la-via-sibate-fusagasuga-por-deslizamiento-tras-fuertes-lluvias-este-martes-13-de-octubre-no-se-reportan-vehiculos-atrapados-3593367",
      "domain": "El Tiempo",
      "seendate": "20261014T042926Z"
-    },
-    {
-     "title": "Vendedor ambulante que necesita operación urgente asegura que no puede acceder a la EPS porque figura como fallecido en registros: esta es la razón",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/vendedor-ambulante-que-necesita-operacion-urgente-asegura-que-no-puede-acceder-a-la-eps-porque-figura-como-fallecido-en-registros-esta-es-la-razon-3593270",
-     "domain": "El Tiempo",
-     "seendate": "20261014T024355Z"
     }
    ]
   },
@@ -996,6 +990,36 @@
   },
   "ECU": {
    "articles": [
+    {
+     "title": "Daniel Noboa anuncia inversión y mantenimiento para redes de transmisión eléctrica ante los meses más fuertes de El Niño",
+     "url": "https://eluniverso.com/politica/ejecutivo/daniel-noboa-anuncia-inversion-y-mantenimiento-para-redes-de-transmision-electrica-ante-los-meses-mas-fuertes-de-el-nino-nota/",
+     "domain": "El Universo",
+     "seendate": "20261014T132344Z"
+    },
+    {
+     "title": "Daniel Noboa anuncia nuevo toque de queda del 1 al 10 de noviembre en provincias de la Costa",
+     "url": "https://eluniverso.com/politica/seguridad/daniel-noboa-anuncia-nuevo-toque-de-queda-del-1-al-10-de-noviembre-en-provincias-de-la-costa-nota/",
+     "domain": "El Universo",
+     "seendate": "20261014T132127Z"
+    },
+    {
+     "title": "A finales de noviembre se dará el juzgamiento de cinco procesados en el caso Liga2; la etapa se suspende para Augusto Verduga y Esther Cuesta",
+     "url": "https://eluniverso.com/politica/expedientes/finales-noviembre-dara-juicio-cinco-procesados-caso-liga2-etapa-suspende-augusto-verduga-esther-cuesta-nota/",
+     "domain": "El Universo",
+     "seendate": "20261014T131500Z"
+    },
+    {
+     "title": "Mónica Luzárraga, aspirante a la Alcaldía por la alianza 2-18: ‘¿Cuáles fueron los parámetros para definir que la candidata (de la RC) sea la esposa de Aquiles Alvarez?’",
+     "url": "https://eluniverso.com/politica/elecciones/monica-luzarraga-aspirante-a-la-alcaldia-por-la-alianza-2-18-la-rc-debe-explicar-cuales-fueron-los-parametros-para-definir-que-la-candidata-sea-la-esposa-de-aquiles-alvarez-y-no-una-persona-que-aglutine-los-ideales-que-tambien-defienden-ellos-nota/",
+     "domain": "El Universo",
+     "seendate": "20261014T130000Z"
+    },
+    {
+     "title": "Daniel Noboa entrega el embalse Chiquicahua para abastecer a 12.500 familias de Tungurahua",
+     "url": "https://eluniverso.com/politica/ejecutivo/daniel-noboa-entrega-el-embalse-chiquicahua-para-abastecer-a-12500-familias-de-tungurahua-nota/",
+     "domain": "El Universo",
+     "seendate": "20261014T125007Z"
+    },
     {
      "title": "Zofrati, el parque empresarial que capta el interés de industrias y proyecta una inversión de hasta $ 100 millones en Manabí",
      "url": "https://eluniverso.com/comunidad/ecuador/zofrati-29-empresas-interesadas-y-hasta-100-millones-nota/",
@@ -1141,30 +1165,6 @@
      "seendate": "20261013T211331Z"
     },
     {
-     "title": "Restricción vehicular en el puente sobre el río Tena se extiende hasta el 17 de octubre",
-     "url": "https://eluniverso.com/comunidad/ecuador/restriccion-vehicular-en-el-puente-sobre-el-rio-tena-se-extiende-hasta-el-17-de-octubre-nota/",
-     "domain": "El Universo",
-     "seendate": "20261013T210000Z"
-    },
-    {
-     "title": "Derrame de crudo en Cupa fue ocasionado por perforación clandestina en la tubería del SOTE",
-     "url": "https://eluniverso.com/comunidad/ecuador/derrame-de-crudo-en-cupa-estaria-vinculado-al-robo-de-combustible-de-la-tuberia-del-sote-nota/",
-     "domain": "El Universo",
-     "seendate": "20261013T205011Z"
-    },
-    {
-     "title": "Bus de transporte público se incendió en Muisne, Esmeraldas",
-     "url": "https://eluniverso.com/comunidad/ecuador/bus-de-transporte-publico-se-incendio-en-muisne-esmeraldas-nota/",
-     "domain": "El Universo",
-     "seendate": "20261013T203000Z"
-    },
-    {
-     "title": "Policía Nacional detiene a dos implicados en robo tras una persecución en Guayaquil",
-     "url": "https://eluniverso.com/politica/seguridad/policia-nacional-detiene-a-dos-implicados-en-robo-tras-una-persecucion-nota/",
-     "domain": "El Universo",
-     "seendate": "20261013T201404Z"
-    },
-    {
      "title": "Allanamientos en el Ministerio de Educación por investigación a supuesta red de venta de puestos en colegios",
      "url": "https://eluniverso.com/politica/seguridad/allanamientos-en-el-ministerio-de-educacion-por-investigacion-a-supuesta-red-de-venta-de-puestos-en-colegios-nota/",
      "domain": "El Universo",
@@ -1197,72 +1197,6 @@
      "url": "https://elcomercio.pe/peru/temblor-en-peru-hoy-donde-fue-el-epicentro-y-magnitud-segun-reportes-del-igp-tdpe-noticia/",
      "domain": "El Comercio",
      "seendate": "20261014T110000Z"
-    },
-    {
-     "title": "Turismo mundial crecerá 2,5% en el 2026: ¿cómo los destinos peruanos deberían crecer sin afectar sus principales atractivos?",
-     "url": "https://elcomercio.pe/economia/peru/turismo-mundial-crecera-25-en-el-2026-como-los-destinos-peruanos-deberian-crecer-sin-afectar-sus-principales-atractivos-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261014T101851Z"
-    },
-    {
-     "title": "IATA sobre la TUUA de conexión internacional: “El MTC prepara un borrador de propuesta para la industria en las siguientes dos semanas”",
-     "url": "https://elcomercio.pe/economia/peru/iata-endurece-posicion-por-caida-de-conexiones-en-lima-lap-intenta-desviar-la-realidad-sobre-el-impacto-de-la-tuua-de-transferencia-aeropuerto-jorge-chavez-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261014T095837Z"
-    },
-    {
-     "title": "Inccosac trae las primeras ‘tapas antirrobo’ para agua y desagüe del Perú, ¿cómo funcionan?",
-     "url": "https://elcomercio.pe/economia/peru/agua-inccosac-trae-las-primeras-tapas-antirrobo-para-agua-y-desague-del-peru-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261014T095139Z"
-    },
-    {
-     "title": "Biministro de Economía y Minería de Chile: “Al 2035 casi toda la nueva oferta de cobre del planeta saldrá del Cono Sur de América Latina”",
-     "url": "https://elcomercio.pe/economia/peru/biministro-de-economia-y-mineria-de-chile-hacia-2035-practicamente-toda-la-nueva-oferta-significativa-de-cobre-del-planeta-saldra-del-cono-sur-de-america-latina-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261014T094809Z"
-    },
-    {
-     "title": "Daniel Velandia, economista jefe de Credicorp Capital: “Si las condiciones se dan después de El Niño, al 2028 podremos crecer más de 4%”",
-     "url": "https://elcomercio.pe/economia/peru/daniel-velandia-economista-jefe-de-credicorp-capital-si-las-condiciones-se-dan-despues-de-el-nino-al-2028-podremos-ver-un-crecimiento-superior-al-4-apuesplan-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261014T094716Z"
-    },
-    {
-     "title": "Proinversión: “Puerto Corío será la infraestructura más importante que tendrá el país en los próximos años”",
-     "url": "https://elcomercio.pe/economia/peru/proinversion-puerto-corio-sera-la-infraestructura-mas-importante-que-tendra-el-pais-en-los-proximos-anos-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261014T094450Z"
-    },
-    {
-     "title": "Apenas el 17% de los puntos críticos por el Fenómeno El Niño tiene intervenciones en ejecución",
-     "url": "https://elcomercio.pe/economia/peru/el-nino-solo-17-de-los-puntos-criticos-por-el-fenomeno-el-nino-tiene-intervenciones-en-ejecucion-apuesplan-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261012T192859Z"
-    },
-    {
-     "title": "Navidad 2026: alimentación concentra el principal uso del aguinaldo para el 54% de trabajadores",
-     "url": "https://elcomercio.pe/economia/peru/navidad-2026-alimentacion-concentra-el-principal-uso-del-aguinaldo-para-el-54-de-trabajadores-l-ultimas-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261012T191228Z"
-    },
-    {
-     "title": "BTS en Lima: conciertos generaron más de S/5,8 millones por ventas de alimentos, bebidas y merchandising",
-     "url": "https://elcomercio.pe/economia/peru/bts-en-lima-conciertos-generaron-mas-de-s58-millones-por-ventas-de-alimentos-bebidas-y-merchandising-l-bts-l-ultimas-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261012T184738Z"
-    },
-    {
-     "title": "Promperú impulsa reinversión de empresas extranjeras en el país a través del Perú Investment Round Table 2026",
-     "url": "https://elcomercio.pe/economia/peru/promperu-impulsa-reinversion-de-empresas-extranjeras-en-el-pais-a-traves-del-peru-investment-round-table-2026-l-ultimas-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261012T174217Z"
-    },
-    {
-     "title": "Ministro de Energía señala que adenda de Calidda para llevar gas a siete regiones sigue en evaluación y admite diferencias con Osinergmin",
-     "url": "https://elcomercio.pe/economia/peru/ministro-de-energia-senala-que-adenda-de-calidda-para-llevar-gas-a-siete-regiones-sigue-en-evaluacion-y-admite-diferencias-con-osinergmin-l-ultimas-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261012T152308Z"
     }
    ]
   },
@@ -1282,34 +1216,64 @@
   "ARG": {
    "articles": [
     {
+     "title": "Javier Milei y sus medidas, EN VIVO: el Gobierno celebró el número de la inflación y dijo: “Es el camino”",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-gobierno-celebro-el-numero-de-la-inflacion-y-dijo-es-el-camino-nid14102026/",
+     "domain": "La Nación",
+     "seendate": "20261014T133139Z"
+    },
+    {
+     "title": "Un empresario que acercó sponsors acusa a los dirigentes de la AFA: “Actúan como una mafia”",
+     "url": "https://www.lanacion.com.ar/politica/un-empresario-que-acerco-sponsors-acusa-a-los-dirigentes-de-la-afa-actuan-como-una-mafia-nid14102026/",
+     "domain": "La Nación",
+     "seendate": "20261014T132248Z"
+    },
+    {
      "title": "Detuvieron a dos ladrones que quisieron escaparse con una moto robada desde Flores hasta el Barrio Zavaleta",
      "url": "https://www.lanacion.com.ar/seguridad/detuvieron-a-dos-ladrones-que-quisieron-escaparse-con-una-moto-robada-desde-flores-hasta-el-barrio-nid14102026/",
      "domain": "La Nación",
-     "seendate": "20261014T124037Z"
-    },
-    {
-     "title": "Súper Niño 2026 en la Argentina: así sería el impacto en el país, región por región, de octubre a diciembre",
-     "url": "https://www.lanacion.com.ar/sociedad/super-nino-2026-en-la-argentina-asi-seria-el-impacto-en-el-pais-region-por-region-de-octubre-a-nid14102026/",
-     "domain": "La Nación",
-     "seendate": "20261014T123855Z"
+     "seendate": "20261014T131201Z"
     },
     {
      "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este miércoles 14 de octubre, minuto a minuto",
      "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid14102026/",
      "domain": "La Nación",
-     "seendate": "20261014T123744Z"
+     "seendate": "20261014T130555Z"
+    },
+    {
+     "title": "La carrera por volver a la Luna enfrenta un desafío inesperado: definir qué hora es allí y cómo se mide el tiempo",
+     "url": "https://www.lanacion.com.ar/sociedad/la-carrera-por-volver-a-la-luna-enfrenta-un-desafio-inesperado-definir-que-hora-es-alli-y-como-se-nid14102026/",
+     "domain": "La Nación",
+     "seendate": "20261014T130500Z"
+    },
+    {
+     "title": "Simulan el clima de 2040 para saber qué pasará con los pastizales",
+     "url": "https://www.lanacion.com.ar/economia/campo/simulan-el-clima-de-2040-para-saber-que-pasara-con-los-pastizales-nid14102026/",
+     "domain": "La Nación",
+     "seendate": "20261014T130000Z"
+    },
+    {
+     "title": "Súper Niño 2026 en la Argentina: así sería el impacto en el país, región por región, de octubre a diciembre",
+     "url": "https://www.lanacion.com.ar/sociedad/super-nino-2026-en-la-argentina-asi-seria-el-impacto-en-el-pais-region-por-region-de-octubre-a-nid14102026/",
+     "domain": "La Nación",
+     "seendate": "20261014T125348Z"
+    },
+    {
+     "title": "Jubilaciones de Anses: cuánto cobro en noviembre 2026, con el bono oficial y el aumento confirmado",
+     "url": "https://www.lanacion.com.ar/economia/jubilaciones-de-anses-cuanto-cobro-en-noviembre-2026-con-el-bono-oficial-y-el-aumento-confirmado-nid14102026/",
+     "domain": "La Nación",
+     "seendate": "20261014T125327Z"
+    },
+    {
+     "title": "Milei llegó a Washington: disertación ante empresarios, premios y un nuevo gesto de respaldo a Trump",
+     "url": "https://www.lanacion.com.ar/politica/milei-llego-a-washington-disertacion-ante-empresarios-premios-y-un-nuevo-gesto-de-respaldo-a-trump-nid14102026/",
+     "domain": "La Nación",
+     "seendate": "20261014T124314Z"
     },
     {
      "title": "Vuelven a cerrar este miércoles circuitos de las Cataratas por la crecida del río Iguazú",
      "url": "https://www.lanacion.com.ar/sociedad/manana-volveran-a-cerrar-circuitos-de-las-cataratas-del-iguazu-por-la-crecida-del-rio-nid13102026/",
      "domain": "La Nación",
      "seendate": "20261014T123039Z"
-    },
-    {
-     "title": "Javier Milei y sus medidas, EN VIVO: el Gobierno celebró el número de la inflación y dijo: “Es el camino”",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-gobierno-celebro-el-numero-de-la-inflacion-y-dijo-es-el-camino-nid14102026/",
-     "domain": "La Nación",
-     "seendate": "20261014T122822Z"
     },
     {
      "title": "Gabriel Rolón, psicoanalista, sobre los recuerdos: “Nuestros padres que ya no están se transforman en personas por ahí más nobles de lo que fueron”",
@@ -1556,84 +1520,6 @@
      "url": "https://www.lanacion.com.ar/economia/paritaria-confirmada-cuanto-cobran-las-empleadas-domesticas-en-octubre-de-2026-con-el-aumento-nid06102026/",
      "domain": "La Nación",
      "seendate": "20261014T113439Z"
-    },
-    {
-     "title": "Nueva paritaria de la construcción: cuánto cobra un albañil en octubre 2026 con el aumento confirmado por la Uocra",
-     "url": "https://www.lanacion.com.ar/economia/nueva-paritaria-de-la-construccion-cuanto-cobra-un-albanil-en-octubre-2026-con-el-aumento-confirmado-nid01102026/",
-     "domain": "La Nación",
-     "seendate": "20261014T113428Z"
-    },
-    {
-     "title": "Calendario escolar: cuándo terminan las clases en Córdoba",
-     "url": "https://www.lanacion.com.ar/sociedad/calendario-escolar-cuando-terminan-las-clases-en-cordoba-nid07102026/",
-     "domain": "La Nación",
-     "seendate": "20261014T113420Z"
-    },
-    {
-     "title": "Calendario escolar: cuándo terminan las clases en CABA",
-     "url": "https://www.lanacion.com.ar/sociedad/calendario-escolar-cuando-terminan-las-clases-en-caba-nid30092026/",
-     "domain": "La Nación",
-     "seendate": "20261014T113418Z"
-    },
-    {
-     "title": "Calendario escolar: cuándo terminan las clases en la provincia de Buenos Aires",
-     "url": "https://www.lanacion.com.ar/sociedad/calendario-escolar-cuando-terminan-las-clases-en-la-provincia-de-buenos-aires-nid29092026/",
-     "domain": "La Nación",
-     "seendate": "20261014T113414Z"
-    },
-    {
-     "title": "Cuándo terminan las clases en la Argentina 2026, provincia por provincia",
-     "url": "https://www.lanacion.com.ar/sociedad/cuando-terminan-las-clases-en-la-argentina-2026-provincia-por-provincia-nid22092026/",
-     "domain": "La Nación",
-     "seendate": "20261014T113412Z"
-    },
-    {
-     "title": "Cuándo se festeja Halloween 2026 en la Argentina",
-     "url": "https://www.lanacion.com.ar/sociedad/cuando-se-festeja-halloween-2026-en-la-argentina-nid07102026/",
-     "domain": "La Nación",
-     "seendate": "20261014T113406Z"
-    },
-    {
-     "title": "Cuándo es Halloween en la Argentina 2026",
-     "url": "https://www.lanacion.com.ar/sociedad/cuando-es-halloween-en-la-argentina-2026-nid24092026/",
-     "domain": "La Nación",
-     "seendate": "20261014T113403Z"
-    },
-    {
-     "title": "Día de la Madre 2026: qué domingo de octubre cae en la Argentina",
-     "url": "https://www.lanacion.com.ar/sociedad/dia-de-la-madre-2026-que-domingo-de-octubre-cae-en-la-argentina-nid01102026/",
-     "domain": "La Nación",
-     "seendate": "20261014T113401Z"
-    },
-    {
-     "title": "Cuándo es el Día de la Madre 2026 en la Argentina",
-     "url": "https://www.lanacion.com.ar/sociedad/cuando-es-el-dia-de-la-madre-2026-en-la-argentina-nid22092026/",
-     "domain": "La Nación",
-     "seendate": "20261014T113355Z"
-    },
-    {
-     "title": "Fecha de cobro de Anses: el cronograma de pagos para este miércoles 14 de octubre",
-     "url": "https://www.lanacion.com.ar/economia/fecha-de-cobro-de-anses-el-cronograma-de-pagos-para-este-miercoles-14-de-octubre-nid14102026/",
-     "domain": "La Nación",
-     "seendate": "20261014T112904Z"
-    },
-    {
-     "title": "Súper Niño: una simulación anticipó cuánto pueden aumentar los rindes de los cultivos y dónde hay riesgos",
-     "url": "https://www.lanacion.com.ar/economia/campo/el-nino-una-simulacion-anticipo-cuanto-pueden-aumentar-los-rindes-de-los-cultivos-y-donde-hay-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261014T111854Z"
-    },
-    {
-     "title": "El Gobierno prohibió la venta de un juguete “squishy” por posibles riesgos para la salud",
-     "url": "https://www.lanacion.com.ar/sociedad/el-gobierno-prohibio-la-venta-de-una-marca-del-juguete-blando-squishy-por-posibles-riesgos-para-la-nid14102026/",
-     "domain": "La Nación",
-     "seendate": "20261014T111756Z"
-    },
-    {
-     "title": "El Papa ya se recupera de su operación de cáncer de pulmón; murió Jorge “Locomotora” Castro",
-     "url": "https://www.lanacion.com.ar/sociedad/el-papa-ya-se-recupera-de-su-operacion-de-cancer-de-pulmon-murio-jorge-locomotora-castro-nid14102026/",
-     "domain": "La Nación",
-     "seendate": "20261014T111755Z"
     }
    ]
   },
@@ -1650,6 +1536,24 @@
   "PRY": {
    "articles": [
     {
+     "title": "Aseguran que obras en la Avda. Avelino Martínez seguirán pese a lluvias",
+     "url": "https://www.abc.com.py/nacionales/2026/10/14/aseguran-que-obras-en-la-avda-avelino-martinez-seguiran-pese-a-lluvias/",
+     "domain": "ABC Color",
+     "seendate": "20261014T132640Z"
+    },
+    {
+     "title": "Caos por cierre de la Costanera pudo haber sido mayor: “Iban a cerrarnos 24 horas durante 5 días”",
+     "url": "https://www.abc.com.py/nacionales/2026/10/14/caos-por-cierre-de-la-costanera-pudo-haber-sido-mayor-iban-a-cerrarnos-24-horas-durante-5-dias/",
+     "domain": "ABC Color",
+     "seendate": "20261014T131632Z"
+    },
+    {
+     "title": "Detergente de oro: reposo médico de Nenecho vuelve a trabar preliminar",
+     "url": "https://www.abc.com.py/nacionales/2026/10/14/detergente-de-oro-reposo-medico-de-nenecho-vuelve-a-trabar-preliminar/",
+     "domain": "ABC Color",
+     "seendate": "20261014T125637Z"
+    },
+    {
      "title": "Costanera de Asunción: así está el tránsito tras el cambio de horario de cierre",
      "url": "https://www.abc.com.py/nacionales/2026/10/14/costanera-de-asuncion-asi-esta-el-transito-tras-el-cambio-de-horario-de-cierre/",
      "domain": "ABC Color",
@@ -1662,6 +1566,36 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "Canal 'Exército do Lula' segue fora do ar em dia de votação do fim da escala 6x1, aposta de 'fôlego' do PT",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/14/canal-exercito-do-lula-segue-fora-do-ar-em-dia-de-votacao-do-fim-da-escala-6x1-aposta-de-folego-do-pt.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261014T132313Z"
+    },
+    {
+     "title": "Vazão das Cataratas do Iguaçu ultrapassa dez vezes o volume normal e passarela tem grades retiradas",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/14/vazao-das-cataratas-do-iguacu-ultrapassa-dez-vezes-o-volume-normal-e-passarela-tem-grades-retiradas.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261014T131346Z"
+    },
+    {
+     "title": "18 horas, espumante e buracos nas paredes: entenda como foi o furto de R$ 5 milhões em joalheria na Oscar Freire",
+     "url": "https://oglobo.globo.com/brasil/sao-paulo/noticia/2026/10/14/18-horas-espumante-e-buracos-nas-paredes-entenda-como-foi-o-furto-de-r-5-milhoes-em-joalheria-na-oscar-freire.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261014T130736Z"
+    },
+    {
+     "title": "Caso Gisele: Justiça mantém prisão de tenente-coronel acusado de matar esposa com tiro na cabeça",
+     "url": "https://oglobo.globo.com/brasil/sao-paulo/noticia/2026/10/14/caso-gisele-justica-mantem-prisao-de-tenente-coronel-acusado-de-matar-esposa-com-tiro-na-cabeca.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261014T130512Z"
+    },
+    {
+     "title": "Família Reis se descola de Paes e rechaça apoio a Lula: 'Lá em casa até o papagaio vota no Flávio'",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/14/familia-reis-se-descola-de-paes-e-rechaca-apoio-a-lula-la-em-casa-ate-o-papagaio-vota-no-flavio.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261014T125514Z"
+    },
     {
      "title": "Comissão do Senado aprova PEC da Segurança",
      "url": "https://oglobo.globo.com/brasil/noticia/2026/10/14/comissao-do-senado-aprova-pec-da-seguranca.ghtml",
