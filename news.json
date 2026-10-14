@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T21:04:58+00:00",
+ "updated": "2026-10-14T21:37:16+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -44,6 +44,12 @@
      "url": "https://elpais.com/espana/elecciones-generales/2026-10-14/margarita-robles-sera-la-numero-dos-de-pedro-sanchez-en-las-listas-del-psoe.html",
      "domain": "El País",
      "seendate": "20261014T151203Z"
+    },
+    {
+     "title": "El Gobierno de Ayuso señala que la huelga de Educación es “incomprensible” y defiende la actuación policial en la Complutense",
+     "url": "https://elpais.com/espana/madrid/2026-10-14/el-gobierno-de-ayuso-senala-que-la-huelga-de-educacion-es-incomprensible-y-defiende-la-actuacion-policial-en-la-complutense.html",
+     "domain": "El País",
+     "seendate": "20261014T141920Z"
     },
     {
      "title": "¿Va por delante la izquierda en los sondeos? Solo para el CIS",
@@ -106,12 +112,6 @@
      "seendate": "20261014T084249Z"
     },
     {
-     "title": "El Carné Joven de la Comunidad de Madrid ya puede solicitarse gratis desde los 12 años",
-     "url": "https://elpais.com/espana/madrid/2026-10-14/el-carne-joven-de-la-comunidad-de-madrid-ya-puede-solicitarse-gratis-desde-los-12-anos.html",
-     "domain": "El País",
-     "seendate": "20261014T074551Z"
-    },
-    {
      "title": "El mercado de la artrosis: un tercio de los pacientes de Quirón que huyen de la saturación en Madrid son de traumatología",
      "url": "https://elpais.com/espana/madrid/2026-10-14/el-mercado-de-la-artrosis-un-tercio-de-los-pacientes-de-quiron-que-huyen-de-la-saturacion-en-madrid-son-de-traumatologia.html",
      "domain": "El País",
@@ -158,6 +158,48 @@
   "MEX": {
    "articles": [
     {
+     "title": "\"Nuestro gobierno no intervendrá en las elecciones\": Brugada; llama a actores políticos a competir con proyectos y no con insultos",
+     "url": "https://www.eluniversal.com.mx/metropoli/nuestro-gobierno-no-intervendra-en-las-elecciones-brugada-llama-a-actores-politicos-a-competir-con-proyectos-y-no-con-insultos/",
+     "domain": "El Universal",
+     "seendate": "20261014T212338Z"
+    },
+    {
+     "title": "Diputados aprueban en lo general Ley Federal de Ingresos; estiman recaudación de más de 10 billones de pesos",
+     "url": "https://www.eluniversal.com.mx/nacion/diputados-aprueban-ley-federal-de-ingresos-en-lo-general-estiman-recaudacion-de-mas-de-10-billones-de-pesos/",
+     "domain": "El Universal",
+     "seendate": "20261014T212026Z"
+    },
+    {
+     "title": "Clara Brugada anuncia construcción de nuevo plantel de la UNAM en Ciudad de México; tendrá cupo para 20 mil estudiantes",
+     "url": "https://www.eluniversal.com.mx/metropoli/clara-brugada-anuncia-construccion-de-nuevo-plantel-de-la-unam-en-ciudad-de-mexico-tendra-cupo-para-20-mil-estudiantes/",
+     "domain": "El Universal",
+     "seendate": "20261014T211845Z"
+    },
+    {
+     "title": "Presidente de Comisión de Hacienda del Congreso de Sinaloa aclara crédito de casi 700 mdp; \"no es más deuda pública\", enfatiza",
+     "url": "https://www.eluniversal.com.mx/estados/presidente-de-comision-de-hacienda-del-congreso-de-sinaloa-aclara-credito-de-casi-700-mdp-no-es-mas-deuda-publica-enfatiza/",
+     "domain": "El Universal",
+     "seendate": "20261014T211012Z"
+    },
+    {
+     "title": "Segob reporta 16 mil localizados con estrategia nacional de búsqueda; integran a expertos en análisis",
+     "url": "https://www.eluniversal.com.mx/nacion/segob-reporta-16-mil-localizados-con-estrategia-nacional-de-busqueda-integran-a-expertos-en-analisis/",
+     "domain": "El Universal",
+     "seendate": "20261014T210752Z"
+    },
+    {
+     "title": "Anuncian construcción de hospital en Nuevo Laredo; estiman inversión de mil 800 mdp",
+     "url": "https://www.eluniversal.com.mx/estados/anuncian-construccion-de-hospital-en-nuevo-laredo-estiman-inversion-de-mil-800-mdp/",
+     "domain": "El Universal",
+     "seendate": "20261014T210653Z"
+    },
+    {
+     "title": "Asesinan a balazos a exlíder ganadero en Escuinapa, Sinaloa; agresores logran escapar",
+     "url": "https://www.eluniversal.com.mx/estados/asesinan-a-balazos-a-exlider-ganadero-en-escuinapa-sinaloa-atacantes-logran-escapar/",
+     "domain": "El Universal",
+     "seendate": "20261014T210256Z"
+    },
+    {
      "title": "Altos Hornos de México y Minera del Norte enfrenta otra subasta desierta; postores no depositan garantía de más de 56 mdp",
      "url": "https://www.eluniversal.com.mx/estados/altos-hornos-de-mexico-y-minera-del-norte-enfrenta-otra-subasta-desierta-postores-no-depositaron-garantia-de-mas-de-56-mdp/",
      "domain": "El Universal",
@@ -200,7 +242,7 @@
      "seendate": "20261014T194214Z"
     },
     {
-     "title": "Sindicalizados del IMSS exigen que se cuenten los votos de consulta salarial frente a ellos; piden transparencia en el proceso",
+     "title": "Sindicalizados del IMSS exigen conteo de votos de consulta salarial frente a ellos; piden transparencia en el proceso",
      "url": "https://www.eluniversal.com.mx/nacion/sindicalizados-del-imss-exigen-que-se-cuenten-los-votos-de-consulta-salarial-frente-a-ellos-piden-transparencia-en-el-proceso/",
      "domain": "El Universal",
      "seendate": "20261014T194008Z"
@@ -314,19 +356,7 @@
      "seendate": "20261014T163546Z"
     },
     {
-     "title": "Sheinbaum pide a EU pruebas contra empresas sancionadas por la OFAC; una cosa es tener irregularidad y otra estar vinculado, dice",
-     "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-pide-a-eu-pruebas-contra-empresas-sancionadas-por-la-ofac-una-cosa-es-tener-irregularidad-y-otra-estar-vinculado-dice/",
-     "domain": "El Universal",
-     "seendate": "20261014T160102Z"
-    },
-    {
-     "title": "Cateo deriva en tiroteo en Orizaba, Veracruz; reportan un muerto y dos ministeriales heridos",
-     "url": "https://www.eluniversal.com.mx/estados/cateo-deriva-en-tiroteo-en-orizaba-veracruz-reportan-un-muerto-y-dos-ministeriales-heridos/",
-     "domain": "El Universal",
-     "seendate": "20261014T160008Z"
-    },
-    {
-     "title": "En VIVO: Clara Brugada presenta su segundo informe de labores; comparece ante el Congreso de la CDMX",
+     "title": "Clara Brugada presenta su segundo informe de labores; comparece ante el Congreso de la CDMX",
      "url": "https://www.eluniversal.com.mx/metropoli/en-vivo-clara-brugada-presenta-su-segundo-informe-de-labores-comparece-ante-el-congreso-de-la-cdmx/",
      "domain": "El Universal",
      "seendate": "20261014T151124Z"
@@ -348,12 +378,6 @@
      "url": "https://www.eluniversal.com.mx/estados/huracan-simon-y-tormenta-tropical-trudy-sigue-en-vivo-su-trayectoria/",
      "domain": "El Universal",
      "seendate": "20261014T125022Z"
-    },
-    {
-     "title": "Corte falla a favor de la SEP; avala prohibición de comida chatarra en escuelas",
-     "url": "https://www.eluniversal.com.mx/nacion/corte-falla-a-favor-de-la-sep-avala-prohibicion-de-comida-chatarra-en-escuelas/",
-     "domain": "El Universal",
-     "seendate": "20261013T200300Z"
     }
    ]
   },
@@ -612,18 +636,6 @@
      "url": "https://www.nacion.com/politica/diputados-crean-por-ley-poliza-para-la-defensa/WWND3DBGQRH67EWOMMUR3W5P7E/story/",
      "domain": "La Nación",
      "seendate": "20261014T000954Z"
-    },
-    {
-     "title": "Alcalde de San José impide que subdirector jurídico asuma jefatura alegando un ‘conflicto’ entre ambos y designa a su asesor",
-     "url": "https://www.nacion.com/el-pais/alcalde-de-san-jose-impide-que-subdirector/NLMN2NSWFREO5CGMIG2PA7WEHI/story/",
-     "domain": "La Nación",
-     "seendate": "20261013T234629Z"
-    },
-    {
-     "title": "Balacera en el corazón de San Pedro deja dos hombres fallecidos dentro de un vehículo",
-     "url": "https://www.nacion.com/sucesos/dos-posibles-heridos-por-arma-de-fuego-cerca-del/64UMTUA7ANEOZN4PEFTUDZOZPY/story/",
-     "domain": "La Nación",
-     "seendate": "20261013T234131Z"
     }
    ]
   },
@@ -654,7 +666,7 @@
      "seendate": "20261014T185617Z"
     },
     {
-     "title": "Farmacia de la Policlínica de calle 17 funcionará temporalmente en el Mercado San Felipe Neri",
+     "title": "Farmacia de la Policlínica de calle 17 habilitará un espacio en el Mercado San Felipe Neri solo para la entrega de medicamentos procesados",
      "url": "https://www.prensa.com/sociedad/farmacia-de-la-policlinica-de-calle-17-funcionara-temporalmente-en-el-mercado-san-felipe-neri/",
      "domain": "La Prensa",
      "seendate": "20261014T132536Z"
@@ -742,12 +754,6 @@
      "url": "https://www.prensa.com/politica/contraloria-flexibiliza-controles-para-atender-la-emergencia-por-el-terremoto/",
      "domain": "La Prensa",
      "seendate": "20261012T184523Z"
-    },
-    {
-     "title": "Más de 350 réplicas y un llamado a estudiar las estructuras",
-     "url": "https://www.prensa.com/sociedad/terremoto-en-panama-mas-de-350-replicas-y-un-llamado-a-estudiar-las-estructuras/",
-     "domain": "La Prensa",
-     "seendate": "20261012T131000Z"
     }
    ]
   },
@@ -875,10 +881,16 @@
   "COL": {
    "articles": [
     {
+     "title": "'En Cali monitoreamos la marcha, así como las entradas y salidas de la ciudad con el helicóptero Halcón de la Policía': habilitan paso en la calle 5",
+     "url": "https://www.eltiempo.com/colombia/cali/en-cali-monitoreamos-la-marcha-asi-como-las-entradas-y-salidas-de-la-ciudad-con-el-helicoptero-halcon-de-la-policia-habilitan-paso-en-la-calle-3593577",
+     "domain": "El Tiempo",
+     "seendate": "20261014T210813Z"
+    },
+    {
      "title": "Denuncian que un funcionario de la ANT habría cocinado un armadillo, especie silvestre protegida; piden intervención del Gobierno",
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/denuncian-que-un-funcionario-de-la-ant-habria-cocinado-un-armadillo-especie-silvestre-protegida-piden-intervencion-del-gobierno-3593573",
      "domain": "El Tiempo",
-     "seendate": "20261014T204026Z"
+     "seendate": "20261014T204730Z"
     },
     {
      "title": "Juan de Acosta, Tubará, Ponedera y otros seis municipios del Atlántico están en brote de dengue: así es la campaña para frenar al mosquito",
@@ -927,12 +939,6 @@
      "url": "https://www.eltiempo.com/colombia/barranquilla/del-parque-esthercita-forero-a-la-plaza-de-la-paz-el-recorrido-de-la-marcha-de-este-miercoles-en-barranquilla-y-el-operativo-de-seguridad-3593494",
      "domain": "El Tiempo",
      "seendate": "20261014T162320Z"
-    },
-    {
-     "title": "El presidente de la República, Abelardo de la Espriella, inaugurará la primera fase del Gran Malecón del Mar en Cartagena de Indias",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-presidente-de-la-republica-abelardo-de-la-espriella-inaugurara-la-primera-fase-del-gran-malecon-del-mar-en-cartagena-de-indias-3593485",
-     "domain": "El Tiempo",
-     "seendate": "20261014T160409Z"
     }
    ]
   },
@@ -960,6 +966,24 @@
   },
   "ECU": {
    "articles": [
+    {
+     "title": "Del bloqueador de maracuyá al chocolate en 30 segundos: las ideas innovadoras que destacaron en la Expo Manabí Industrial 2026",
+     "url": "https://eluniverso.com/comunidad/ecuador/expo-manabi-industrial-2026-tres-emprendimientos-innovadores-nota/",
+     "domain": "El Universo",
+     "seendate": "20261014T213100Z"
+    },
+    {
+     "title": "Sismo de magnitud 4,3 se registró cerca de Jama, en Manabí",
+     "url": "https://eluniverso.com/comunidad/ecuador/sismo-de-magnitud-43-cerca-de-jama-manabi-nota/",
+     "domain": "El Universo",
+     "seendate": "20261014T211102Z"
+    },
+    {
+     "title": "Daniel Noboa destaca la relación entre el Gobierno y las autoridades locales para ejecutar obras en Tungurahua",
+     "url": "https://eluniverso.com/politica/ejecutivo/daniel-noboa-destaca-la-relacion-entre-el-gobierno-y-las-autoridades-locales-para-ejecutar-obras-en-tungurahua-nota/",
+     "domain": "El Universo",
+     "seendate": "20261014T210246Z"
+    },
     {
      "title": "Cocodrilo de la Costa vs. caimán de anteojos: cuál vive en Guayaquil y dónde se ha visto",
      "url": "https://eluniverso.com/comunidad/ecuador/cocodrilo-de-la-costa-vs-caiman-de-anteojos-cual-vive-en-guayaquil-y-donde-se-ha-visto-nota/",
@@ -1111,12 +1135,6 @@
      "seendate": "20261014T113446Z"
     },
     {
-     "title": "Servicios ‘fantasma’, eventos sin permiso, contratos con fallas... son los hallazgos de la Contraloría en la gestión municipal de Cristian Zamora",
-     "url": "https://eluniverso.com/politica/expedientes/contraloria-halla-irregularidades-contratos-festivales-artisticos-cuenca-nota/",
-     "domain": "El Universo",
-     "seendate": "20261014T111500Z"
-    },
-    {
      "title": "Pronóstico del clima para este miércoles, 14 de octubre: lluvias durante la tarde y noche en ciudades de Ecuador",
      "url": "https://eluniverso.com/comunidad/ecuador/pronostico-del-clima-para-este-miercoles-14-de-octubre-lluvias-durante-la-tarde-y-noche-en-ciudades-de-ecuador-nota/",
      "domain": "El Universo",
@@ -1167,12 +1185,6 @@
      "url": "https://elcomercio.pe/peru/piura/piura-minedu-presentara-denuncia-penal-por-presunto-caso-de-violencia-sexual-contra-escolar-en-talara-ultimas-noticia/",
      "domain": "El Comercio",
      "seendate": "20261014T195622Z"
-    },
-    {
-     "title": "Gobierno designa presidenta del directorio y directora ejecutiva del Fonafe",
-     "url": "https://elcomercio.pe/economia/peru/gobierno-designa-presidenta-del-directorio-y-directora-ejecutiva-del-fonafe-l-ultimas-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261014T185615Z"
     }
    ]
   },
@@ -1192,22 +1204,34 @@
   "ARG": {
    "articles": [
     {
-     "title": "Un médico explicó en qué consiste la enfermedad que se manifiesta como “un dolor generalizado y fatiga extrema”",
-     "url": "https://www.lanacion.com.ar/sociedad/un-medico-explico-en-que-consiste-la-enfermedad-que-se-manifiesta-como-un-dolor-generalizado-y-nid14102026/",
+     "title": "Altura de los ríos en la Argentina, según Prefectura: esta es la situación en el Paraná hoy, miércoles 14 de octubre",
+     "url": "https://www.lanacion.com.ar/sociedad/altura-de-los-rios-en-la-argentina-segun-prefectura-esta-es-la-situacion-en-el-parana-hoy-miercoles-nid14102026/",
      "domain": "La Nación",
-     "seendate": "20261014T210000Z"
+     "seendate": "20261014T212300Z"
     },
     {
      "title": "Javier Milei y sus medidas, EN VIVO: Santiago Caputo llamó a recuperar Malvinas y advirtió que el Reino Unido está “siendo colonizado por el Islam”",
      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-gobierno-celebro-el-numero-de-la-inflacion-y-dijo-es-el-camino-nid14102026/",
      "domain": "La Nación",
-     "seendate": "20261014T205923Z"
+     "seendate": "20261014T210929Z"
     },
     {
-     "title": "Altura de los ríos en la Argentina, según Prefectura: esta es la situación en el Paraná hoy, miércoles 14 de octubre",
-     "url": "https://www.lanacion.com.ar/sociedad/altura-de-los-rios-en-la-argentina-segun-prefectura-esta-es-la-situacion-en-el-parana-hoy-miercoles-nid14102026/",
+     "title": "Javier Milei vs. Alberto Fernández: según una encuestadora, ambas gestiones provocan el mismo nivel de rechazo",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-vs-alberto-fernandez-segun-una-encuestadora-ambas-gestiones-provocan-el-mismo-nivel-de-nid14102026/",
      "domain": "La Nación",
-     "seendate": "20261014T204935Z"
+     "seendate": "20261014T210424Z"
+    },
+    {
+     "title": "Por la crecida del río, cortaron dos puentes sobre la ruta nacional 12: Iguazú y el Alto Paraná, virtualmente aislados",
+     "url": "https://www.lanacion.com.ar/sociedad/por-la-crecida-del-rio-cortaron-dos-puentes-sobre-la-ruta-nacional-12-iguazu-y-el-alto-parana-nid14102026/",
+     "domain": "La Nación",
+     "seendate": "20261014T210150Z"
+    },
+    {
+     "title": "Un médico explicó en qué consiste la enfermedad que se manifiesta como “un dolor generalizado y fatiga extrema”",
+     "url": "https://www.lanacion.com.ar/sociedad/un-medico-explico-en-que-consiste-la-enfermedad-que-se-manifiesta-como-un-dolor-generalizado-y-nid14102026/",
+     "domain": "La Nación",
+     "seendate": "20261014T210000Z"
     },
     {
      "title": "La Argentina alcanzó una marca inédita en una actividad clave para los medicamentos y tratamientos del futuro",
@@ -1226,12 +1250,6 @@
      "url": "https://www.lanacion.com.ar/economia/campo/thiago-principe-tiene-14-anos-construyo-un-tractor-con-piezas-recuperadas-y-ahora-quiere-nid14102026/",
      "domain": "La Nación",
      "seendate": "20261014T204112Z"
-    },
-    {
-     "title": "Por la crecida del río, cortaron dos puentes sobre la ruta nacional 12: Iguazú y el Alto Paraná, virtualmente aislados",
-     "url": "https://www.lanacion.com.ar/sociedad/por-la-crecida-del-rio-cortaron-dos-puentes-sobre-la-ruta-nacional-12-iguazu-y-el-alto-parana-nid14102026/",
-     "domain": "La Nación",
-     "seendate": "20261014T203914Z"
     },
     {
      "title": "Ya produce en 18.650 metros cuadrados: una provincia vive una transformación histórica con cultivos sin tierra",
@@ -1342,7 +1360,7 @@
      "seendate": "20261014T202108Z"
     },
     {
-     "title": "El riesgo país supera la barrera de los 600 puntos a partir del dato negativo de inflación en Estados Unidos",
+     "title": "El riesgo país superó los 600 puntos y las acciones argentinas cayeron hasta 4% en Wall Street",
      "url": "https://www.lanacion.com.ar/economia/el-riesgo-pais-supera-la-barrera-de-los-600-puntos-a-partir-del-dato-negativo-de-inflacion-en-nid14102026/",
      "domain": "La Nación",
      "seendate": "20261014T201952Z"
@@ -1376,30 +1394,6 @@
      "url": "https://www.lanacion.com.ar/economia/la-ciudad-lanza-un-plan-de-pago-de-deudas-con-quita-del-100-de-los-intereses-nid14102026/",
      "domain": "La Nación",
      "seendate": "20261014T195910Z"
-    },
-    {
-     "title": "La Justicia archivó la denuncia por usura contra Marcos Galperin por los créditos de Mercado Pago",
-     "url": "https://www.lanacion.com.ar/economia/negocios/la-justicia-archivo-la-denuncia-por-usura-contra-marcos-galperin-por-los-creditos-de-mercado-pago-nid14102026/",
-     "domain": "La Nación",
-     "seendate": "20261014T194616Z"
-    },
-    {
-     "title": "Una temporada atípica: la mortandad de ballenas francas en Chubut podría ser la peor de la historia",
-     "url": "https://www.lanacion.com.ar/sociedad/una-temporada-atipica-la-mortandad-de-ballenas-francas-en-chubut-podria-ser-la-peor-de-la-historia-nid14102026/",
-     "domain": "La Nación",
-     "seendate": "20261014T194518Z"
-    },
-    {
-     "title": "¿Cuánto aporta el Nobel a la Argentina 2026? Nada",
-     "url": "https://www.lanacion.com.ar/economia/cuanto-aporta-el-nobel-a-la-argentina-2026-nada-nid14102026/",
-     "domain": "La Nación",
-     "seendate": "20261014T194331Z"
-    },
-    {
-     "title": "Las cinco acciones argentinas que más se revalorizaron en lo que va del año",
-     "url": "https://www.lanacion.com.ar/economia/las-cinco-acciones-argentinas-que-mas-se-revalorizaron-en-lo-que-va-del-ano-nid14102026/",
-     "domain": "La Nación",
-     "seendate": "20261014T194309Z"
     }
    ]
   },
@@ -1415,6 +1409,24 @@
   },
   "PRY": {
    "articles": [
+    {
+     "title": "Paraguarí: preparan feria y charla por el “Día de la Alimentación”",
+     "url": "https://www.abc.com.py/nacionales/2026/10/14/paraguari-preparan-feria-y-charla-por-el-dia-de-la-alimentacion/",
+     "domain": "ABC Color",
+     "seendate": "20261014T212854Z"
+    },
+    {
+     "title": "Dos escuelas de Caacupé suspenden las clases presenciales por meningitis",
+     "url": "https://www.abc.com.py/nacionales/2026/10/14/dos-escuelas-de-caacupe-suspenden-las-clases-presenciales-por-meningitis/",
+     "domain": "ABC Color",
+     "seendate": "20261014T212230Z"
+    },
+    {
+     "title": "Sobrevivientes de cáncer de mama instan a no tener miedo y consultar a tiempo",
+     "url": "https://www.abc.com.py/nacionales/2026/10/14/sobrevivientes-de-cancer-de-mama-instan-a-no-tener-miedo-y-consultar-a-tiempo/",
+     "domain": "ABC Color",
+     "seendate": "20261014T211305Z"
+    },
     {
      "title": "Pausa a nuevas universidades: La furibunda respuesta del titular de Aneaes al ministro de Educación",
      "url": "https://www.abc.com.py/nacionales/2026/10/14/pausa-a-nuevas-universidades-la-furibunda-respuesta-del-titular-de-aneaes-al-ministro-de-educacion/",
@@ -1438,12 +1450,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/14/apriete-fiscal-juez-fija-fecha-para-preliminar-a-ex-fiscal-de-emboscada-y-su-asistente/",
      "domain": "ABC Color",
      "seendate": "20261014T183234Z"
-    },
-    {
-     "title": "Feminicidios: MEC defiende su plan de educación sexual y desconoce reclamos por suprimir enfoque de género",
-     "url": "https://www.abc.com.py/nacionales/2026/10/14/feminicidios-mec-defiende-su-plan-de-educacion-sexual-y-desconoce-reclamos-por-suprimir-enfoque-de-genero/",
-     "domain": "ABC Color",
-     "seendate": "20261014T162821Z"
     }
    ]
   },
