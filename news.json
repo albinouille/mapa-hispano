@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T23:58:49+00:00",
+ "updated": "2026-10-14T00:36:39+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -188,6 +188,24 @@
   "MEX": {
    "articles": [
     {
+     "title": "Tamaulipas descarta contratos con empresas señaladas por el Departamento del Tesoro de EU",
+     "url": "https://www.eluniversal.com.mx/estados/tamaulipas-descarta-contratos-con-empresas-senaladas-por-el-departamento-del-tesoro-de-eu/",
+     "domain": "El Universal",
+     "seendate": "20261014T002745Z"
+    },
+    {
+     "title": "Inversión pública y mixta asciende a 8 billones 400 mil mdp: Sheinbaum; embajador Johnson es un buen aliado de México, destaca",
+     "url": "https://www.eluniversal.com.mx/nacion/inversion-publica-y-mixta-asciende-a-8-billones-400-mil-mdp-sheinbaum-embajador-johnson-es-un-buen-aliado-de-mexico-destaca/",
+     "domain": "El Universal",
+     "seendate": "20261014T002704Z"
+    },
+    {
+     "title": "Cae en Sonora adulto mayor requerido por Sinaloa; es investigado por abuso sexual agravado",
+     "url": "https://www.eluniversal.com.mx/estados/cae-en-sonora-adulto-mayor-requerido-por-sinaloa-es-investigado-por-abuso-sexual-agravado/",
+     "domain": "El Universal",
+     "seendate": "20261014T000937Z"
+    },
+    {
      "title": "Trabajadores del IMSS marchan en la CDMX; exigen aumento salarial, abasto de medicamentos e insumos médicos",
      "url": "https://www.eluniversal.com.mx/nacion/trabajadores-del-imss-marchan-en-la-cdmx-exigen-aumento-salarial-abasto-de-medicamentos-e-insumos-medicos/",
      "domain": "El Universal",
@@ -374,34 +392,10 @@
      "seendate": "20261013T192740Z"
     },
     {
-     "title": "Horacio Duarte comparecerá ante el Congreso del Edomex; rendirá cuentas sobre el gobierno de Delfina Gómez",
-     "url": "https://www.eluniversal.com.mx/metropoli/horacio-duarte-comparecera-ante-el-congreso-del-edomex-por-informe-de-gobierno-de-delfina-gomez/",
-     "domain": "El Universal",
-     "seendate": "20261013T190159Z"
-    },
-    {
      "title": "Ratifica Senado y rinde protesta Lydia de la Garza como embajadora en Perú; va por normalización de relación entre ambas naciones",
      "url": "https://www.eluniversal.com.mx/nacion/ratifica-senado-y-rinde-protesta-lydia-de-la-garza-como-embajadora-en-peru-va-por-normalizacion-de-relacion-entre-ambas-naciones/",
      "domain": "El Universal",
      "seendate": "20261013T190151Z"
-    },
-    {
-     "title": "Detienen a presunto integrante de banda de ladrones de relojes en Miguel Hidalgo; era el encargado de resguardar los objetos",
-     "url": "https://www.eluniversal.com.mx/metropoli/detienen-a-presunto-integrante-de-banda-de-ladrones-de-relojes-en-miguel-hidalgo-era-el-encargado-de-resguardar-los-objetos/",
-     "domain": "El Universal",
-     "seendate": "20261013T185623Z"
-    },
-    {
-     "title": "Salario de policías estatales y municipales pasó de 3 mil 500 pesos en 2021 a 18 mil en 2026; \"es un trabajo muy difícil\", dice",
-     "url": "https://www.eluniversal.com.mx/nacion/salario-de-policias-estatales-y-municipales-paso-de-3-mil-500-pesos-en-2021-a-18-mil-en-2026-es-un-trabajo-muy-dificil-dice/",
-     "domain": "El Universal",
-     "seendate": "20261013T184908Z"
-    },
-    {
-     "title": "CDMX pierde 53 mil empleos formales en septiembre; Coparmex pide atender la política de cero clausuras",
-     "url": "https://www.eluniversal.com.mx/metropoli/cdmx-pierde-53-mil-empleos-formales-en-septiembre-coparmex-pide-atender-la-politica-de-cero-clausuras/",
-     "domain": "El Universal",
-     "seendate": "20261013T183939Z"
     },
     {
      "title": "Marcha nacional del personal médico; minuto a minuto de la movilización de este 13 de octubre",
@@ -506,13 +500,19 @@
   "CRI": {
    "articles": [
     {
+     "title": "Diputados crean por ley póliza para la defensa legal de policías demandados",
+     "url": "https://www.nacion.com/politica/diputados-crean-por-ley-poliza-para-la-defensa/WWND3DBGQRH67EWOMMUR3W5P7E/story/",
+     "domain": "La Nación",
+     "seendate": "20261014T000954Z"
+    },
+    {
      "title": "Alcalde de San José impide que subdirector jurídico asuma jefatura alegando un ‘conflicto’ entre ambos y designa a su asesor",
      "url": "https://www.nacion.com/el-pais/alcalde-de-san-jose-impide-que-subdirector/NLMN2NSWFREO5CGMIG2PA7WEHI/story/",
      "domain": "La Nación",
      "seendate": "20261013T234629Z"
     },
     {
-     "title": "Aparente balacera en el corazón de San Pedro moviliza a la Cruz Roja. Habría dos heridos",
+     "title": "Balacera en el corazón de San Pedro deja dos hombres fallecidos dentro de un vehículo",
      "url": "https://www.nacion.com/sucesos/dos-posibles-heridos-por-arma-de-fuego-cerca-del/64UMTUA7ANEOZN4PEFTUDZOZPY/story/",
      "domain": "La Nación",
      "seendate": "20261013T234131Z"
@@ -684,12 +684,6 @@
      "url": "https://www.nacion.com/sucesos/temblor-de-magnitud-65-en-panama-es-una-replica/JV7WBCCCARH2XGLPYP5F5BRH2U/story/",
      "domain": "La Nación",
      "seendate": "20261013T011557Z"
-    },
-    {
-     "title": "Don Stockwell asegura que alias Sobrino no quiso conocerlo ni encender cámara durante videollamada",
-     "url": "https://www.nacion.com/sucesos/don-stockwell-asegura-que-alias-sobrino-no-quiso/YJWFZ6XTPRFATOI7Y6WYLB6HYU/story/",
-     "domain": "La Nación",
-     "seendate": "20261012T233813Z"
     }
    ]
   },
@@ -946,6 +940,12 @@
      "seendate": "20261012T155942Z"
     },
     {
+     "title": "Las cancelaciones de Air China dejan varados a decenas de cubanos en Madrid",
+     "url": "https://www.14ymedio.com/cuba/cancelaciones-air-china-dejan-varados_1_1131860.html",
+     "domain": "14ymedio",
+     "seendate": "20261012T155748Z"
+    },
+    {
      "title": "La minería ilegal de oro en Las Tunas \"se ha convertido en un problema de salud pública\"",
      "url": "https://www.14ymedio.com/cuba/mineria-ilegal-oro-tunas-convertido_1_1131848.html",
      "domain": "14ymedio",
@@ -976,6 +976,12 @@
   },
   "COL": {
    "articles": [
+    {
+     "title": "Vendedor ambulante que necesita operación urgente no puede acceder a la EPS porque figura como fallecido en los registros oficiales: esta es la razón",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/vendedor-ambulante-que-necesita-operacion-urgente-no-puede-acceder-a-la-eps-porque-figura-como-fallecido-en-los-registros-oficiales-esta-es-la-razon-3593270",
+     "domain": "El Tiempo",
+     "seendate": "20261014T002232Z"
+    },
     {
      "title": "El drama invisible de los habitantes de calle en Cali: desplazamiento y rechazo tras los operativos en el centro",
      "url": "https://www.eltiempo.com/colombia/cali/el-drama-invisible-de-los-habitantes-de-calle-en-cali-desplazamiento-y-rechazo-tras-los-operativos-en-el-centro-3593332",
@@ -1029,12 +1035,6 @@
      "url": "https://www.eltiempo.com/colombia/barranquilla/angustia-en-el-atlantico-hombre-completa-mas-de-72-horas-desaparecido-tras-accidente-en-moto-acuatica-en-playas-de-tubara-3593278",
      "domain": "El Tiempo",
      "seendate": "20261013T205316Z"
-    },
-    {
-     "title": "Disidentes lanzaron explosivo contra la Policía en el corregimiento de Potrerito, en Jamundí, Valle: lo que se sabe de la nueva acción terrorista",
-     "url": "https://www.eltiempo.com/colombia/cali/disidentes-lanzaron-explosivo-contra-la-policia-en-el-corregimiento-de-potrerito-en-jamundi-valle-lo-que-se-sabe-de-la-nueva-accion-terrorista-3593267",
-     "domain": "El Tiempo",
-     "seendate": "20261013T203519Z"
     }
    ]
   },
@@ -1171,12 +1171,6 @@
      "seendate": "20261013T154232Z"
     },
     {
-     "title": "Nueva Prosperina reduce un 54,4 % las muertes violentas: la Policía atribuye la caída a operativos, captura de cabecillas y control carcelario",
-     "url": "https://eluniverso.com/politica/seguridad/nueva-prosperina-reduce-un-544-las-muertes-violentas-la-policia-atribuye-la-caida-a-operativos-captura-de-cabecillas-y-control-carcelario-nota/",
-     "domain": "El Universo",
-     "seendate": "20261013T131500Z"
-    },
-    {
      "title": "Francisco Macio, candidato a la Alcaldía de Guayaquil por la lista 1: “Somos una propuesta de diálogo donde no prime el egoísmo, sino el bien común”",
      "url": "https://eluniverso.com/politica/elecciones/francisco-macio-candidato-a-la-alcaldia-de-guayaquil-por-la-lista-1-somos-una-propuesta-de-dialogo-donde-no-prime-el-egoismo-sino-el-bien-comun-nota/",
      "domain": "El Universo",
@@ -1205,34 +1199,76 @@
   "PER": {
    "articles": [
     {
+     "title": "Turismo mundial crecerá 2,5% en el 2026: ¿cómo los destinos peruanos deberían crecer sin afectar sus principales atractivos?",
+     "url": "https://elcomercio.pe/economia/peru/turismo-mundial-crecera-25-en-el-2026-como-los-destinos-peruanos-deberian-crecer-sin-afectar-sus-principales-atractivos-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261014T002843Z"
+    },
+    {
+     "title": "IATA sobre la TUUA de conexión internacional: “El MTC prepara un borrador de propuesta para la industria en las siguientes dos semanas”",
+     "url": "https://elcomercio.pe/economia/peru/iata-endurece-posicion-por-caida-de-conexiones-en-lima-lap-intenta-desviar-la-realidad-sobre-el-impacto-de-la-tuua-de-transferencia-aeropuerto-jorge-chavez-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261014T001823Z"
+    },
+    {
+     "title": "Inccosac trae las primeras ‘tapas antirrobo’ para agua y desagüe del Perú, ¿cómo funcionan?",
+     "url": "https://elcomercio.pe/economia/peru/agua-inccosac-trae-las-primeras-tapas-antirrobo-para-agua-y-desague-del-peru-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261014T001650Z"
+    },
+    {
+     "title": "Último temblor en Perú HOY: IGP reportó sismo en Cañete, magnitud, hora y más",
+     "url": "https://elcomercio.pe/peru/temblor-en-peru-hoy-donde-fue-el-epicentro-y-magnitud-segun-reportes-del-igp-tdpe-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261014T001131Z"
+    },
+    {
+     "title": "Biministro de Economía y Minería de Chile: “Al 2035 casi toda la nueva oferta de cobre del planeta saldrá del Cono Sur de América Latina”",
+     "url": "https://elcomercio.pe/economia/peru/biministro-de-economia-y-mineria-de-chile-hacia-2035-practicamente-toda-la-nueva-oferta-significativa-de-cobre-del-planeta-saldra-del-cono-sur-de-america-latina-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261014T000953Z"
+    },
+    {
+     "title": "Daniel Velandia, economista jefe de Credicorp Capital: “Si las condiciones se dan después de El Niño, al 2028 podremos crecer más de 4%”",
+     "url": "https://elcomercio.pe/economia/peru/daniel-velandia-economista-jefe-de-credicorp-capital-si-las-condiciones-se-dan-despues-de-el-nino-al-2028-podremos-ver-un-crecimiento-superior-al-4-apuesplan-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261014T000931Z"
+    },
+    {
      "title": "La Libertad: realizan pintas con aerosol en muro del complejo arqueológico Chan Chan",
      "url": "https://elcomercio.pe/peru/la-libertad/la-libertad-realizan-pintas-con-aerosol-en-muro-del-complejo-arqueologico-chan-chan-ultimas-noticia/",
      "domain": "El Comercio",
      "seendate": "20261013T224947Z"
     },
     {
-     "title": "Puno: ciudadano sufre graves quemaduras al intentar apagar incendio forestal en el distrito de Llalli",
-     "url": "https://elcomercio.pe/peru/puno/puno-ciudadano-sufre-graves-quemaduras-al-intentar-apagar-incendio-forestal-en-el-distrito-de-llalli-ultimas-noticia/",
+     "title": "Proinversión: “Puerto Corío será la infraestructura más importante que tendrá el país en los próximos años”",
+     "url": "https://elcomercio.pe/economia/peru/proinversion-puerto-corio-sera-la-infraestructura-mas-importante-que-tendra-el-pais-en-los-proximos-anos-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261013T220612Z"
+     "seendate": "20261013T180821Z"
     },
     {
-     "title": "Wall Street cierra en rojo pese a el aumento de beneficios de la gran banca de EE.UU.",
-     "url": "https://elcomercio.pe/economia/peru/wall-street-cierra-en-rojo-pese-a-el-aumento-de-beneficios-de-la-gran-banca-de-eeuu-l-mercados-l-wall-street-l-ultimas-noticia/",
+     "title": "Apenas el 17% de los puntos críticos por el Fenómeno El Niño tiene intervenciones en ejecución",
+     "url": "https://elcomercio.pe/economia/peru/el-nino-solo-17-de-los-puntos-criticos-por-el-fenomeno-el-nino-tiene-intervenciones-en-ejecucion-apuesplan-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261013T215343Z"
+     "seendate": "20261012T192859Z"
     },
     {
-     "title": "Cusco: Keiko Fujimori dice que dos incendios forestales ya fueron controlados",
-     "url": "https://elcomercio.pe/peru/cusco/cusco-keiko-fujimori-dice-que-dos-incendios-forestales-ya-fueron-controlados-ultimas-noticia/",
+     "title": "Navidad 2026: alimentación concentra el principal uso del aguinaldo para el 54% de trabajadores",
+     "url": "https://elcomercio.pe/economia/peru/navidad-2026-alimentacion-concentra-el-principal-uso-del-aguinaldo-para-el-54-de-trabajadores-l-ultimas-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261013T212713Z"
+     "seendate": "20261012T191228Z"
     },
     {
-     "title": "Ministro de Energía señala que adenda de Calidda para llevar gas a siete regiones sigue en evaluación y admite diferencias con Osinergmin",
-     "url": "https://elcomercio.pe/economia/peru/ministro-de-energia-senala-que-adenda-de-calidda-para-llevar-gas-a-siete-regiones-sigue-en-evaluacion-y-admite-diferencias-con-osinergmin-l-ultimas-noticia/",
+     "title": "BTS en Lima: conciertos generaron más de S/5,8 millones por ventas de alimentos, bebidas y merchandising",
+     "url": "https://elcomercio.pe/economia/peru/bts-en-lima-conciertos-generaron-mas-de-s58-millones-por-ventas-de-alimentos-bebidas-y-merchandising-l-bts-l-ultimas-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261012T152308Z"
+     "seendate": "20261012T184738Z"
+    },
+    {
+     "title": "Promperú impulsa reinversión de empresas extranjeras en el país a través del Perú Investment Round Table 2026",
+     "url": "https://elcomercio.pe/economia/peru/promperu-impulsa-reinversion-de-empresas-extranjeras-en-el-pais-a-traves-del-peru-investment-round-table-2026-l-ultimas-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261012T174217Z"
     }
    ]
   },
@@ -1252,16 +1288,40 @@
   "ARG": {
    "articles": [
     {
-     "title": "Arthur Brooks, experto de Harvard, de 62 años: “Lo que hacen las personas felices y exitosas en la segunda mitad de sus vidas es pasar de sumar a restar”",
-     "url": "https://www.lanacion.com.ar/sociedad/arthur-brooks-experto-de-harvard-de-62-anos-lo-que-hacen-las-personas-felices-y-exitosas-en-la-nid08102026/",
+     "title": "Mañana volverán a cerrar circuitos de las Cataratas del Iguazú por la crecida del río",
+     "url": "https://www.lanacion.com.ar/sociedad/manana-volveran-a-cerrar-circuitos-de-las-cataratas-del-iguazu-por-la-crecida-del-rio-nid13102026/",
      "domain": "La Nación",
-     "seendate": "20261013T234100Z"
+     "seendate": "20261014T001057Z"
+    },
+    {
+     "title": "Uñac se lanzó como precandidato a presidente del peronismo con un spot: “Hay mucho desánimo en la sociedad”",
+     "url": "https://www.lanacion.com.ar/politica/unac-se-lanzo-como-precandidato-a-presidente-con-un-spot-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261014T001010Z"
     },
     {
      "title": "Javier Milei y sus medidas, EN VIVO: el Gobierno le envió un mensaje al papa León XIV, que salió con éxito de la operación",
      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-dijo-que-el-gobierno-estaria-dispuesto-a-ajustar-la-nid13102026/",
      "domain": "La Nación",
-     "seendate": "20261013T234000Z"
+     "seendate": "20261014T001000Z"
+    },
+    {
+     "title": "Conrado Estol, neurólogo: “No hay que tenerle miedo a la medicación”",
+     "url": "https://www.lanacion.com.ar/sociedad/conrado-estol-neurologo-no-hay-que-tenerle-miedo-a-la-medicacion-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261014T000000Z"
+    },
+    {
+     "title": "Gabriel Rolón, psicoanalista: “Se desea lo que no se tiene”",
+     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-se-desea-lo-que-no-se-tiene-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261014T000000Z"
+    },
+    {
+     "title": "Arthur Brooks, experto de Harvard, de 62 años: “Lo que hacen las personas felices y exitosas en la segunda mitad de sus vidas es pasar de sumar a restar”",
+     "url": "https://www.lanacion.com.ar/sociedad/arthur-brooks-experto-de-harvard-de-62-anos-lo-que-hacen-las-personas-felices-y-exitosas-en-la-nid08102026/",
+     "domain": "La Nación",
+     "seendate": "20261013T234100Z"
     },
     {
      "title": "La reflexión de Descartes sobre la duda: “Si no pienso, luego me doy cuenta que tengo que estar existiendo, porque si yo no existo, no pienso”",
@@ -1394,42 +1454,6 @@
      "url": "https://www.lanacion.com.ar/economia/campo/la-bronca-es-muy-grande-fuerte-cuestionamiento-al-uso-de-la-tasa-vial-en-un-municipio-bonaerense-nid13102026/",
      "domain": "La Nación",
      "seendate": "20261013T220050Z"
-    },
-    {
-     "title": "¿Qué significa dormir correctamente y cuántas horas son necesarias? Esto es lo que recomienda un especialista en sueño",
-     "url": "https://www.lanacion.com.ar/sociedad/que-significa-dormir-correctamente-y-cuantas-horas-son-necesarias-esto-es-lo-que-recomienda-un-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T220000Z"
-    },
-    {
-     "title": "“Atropellos institucionales”: con una dura carta, una rural de Entre Ríos pidió desvincularse del Consejo Federal de la Sociedad Rural Argentina",
-     "url": "https://www.lanacion.com.ar/economia/campo/atropellos-institucionales-con-una-dura-carta-una-rural-de-entre-rios-pidio-desvincularse-del-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T215708Z"
-    },
-    {
-     "title": "La frase que un inversor le dijo a Quirno sobre la Argentina durante un desayuno en Singapur",
-     "url": "https://www.lanacion.com.ar/politica/la-frase-que-un-inversor-le-dijo-a-quirno-sobre-la-argentina-durante-un-desayuno-en-singapur-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T215608Z"
-    },
-    {
-     "title": "Gabriel Rolón, psicoanalista, sobre los recuerdos: “Nuestros padres que ya no están se transforman en personas por ahí más nobles de lo que fueron”",
-     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-sobre-los-recuerdos-nuestros-padres-que-ya-no-estan-se-transforman-en-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T215300Z"
-    },
-    {
-     "title": "El Gobierno envió a Guberman a Diputados para defender el Presupuesto, pero chocó con los reclamos por mayor financiamiento a la discapacidad y a las universidades",
-     "url": "https://www.lanacion.com.ar/politica/el-gobierno-envio-a-guberman-a-diputados-para-defender-el-presupuesto-pero-choco-con-los-reclamos-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T214644Z"
-    },
-    {
-     "title": "Robin Sharma, especialista en crecimiento personal: “Un mal día para el ego es un buen día para el alma; aprendemos en la dificultad”",
-     "url": "https://www.lanacion.com.ar/sociedad/robin-sharma-especialista-en-crecimiento-personal-un-mal-dia-para-el-ego-es-un-buen-dia-para-el-alma-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T214200Z"
     }
    ]
   },
