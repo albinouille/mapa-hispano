@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T03:02:18+00:00",
+ "updated": "2026-10-14T03:34:35+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -187,6 +187,24 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Diputados aprueban Ley de Derechos y contribuciones irán a la Defensa, Migración y Tesorería; envían al Senado",
+     "url": "https://www.eluniversal.com.mx/nacion/diputados-aprueban-ley-de-derechos-y-contribuciones-iran-a-la-defensa-migracion-y-tesoreria-envian-al-senado/",
+     "domain": "El Universal",
+     "seendate": "20261014T032425Z"
+    },
+    {
+     "title": "Participan 7 mil trabajadores del IMSS en marcha de CDMX, reportan autoridades; hay saldo blanco",
+     "url": "https://www.eluniversal.com.mx/metropoli/participan-7-mil-trabajadores-del-imss-en-marcha-de-cdmx-reportan-autoridades-hay-saldo-blanco/",
+     "domain": "El Universal",
+     "seendate": "20261014T032319Z"
+    },
+    {
+     "title": "Madre de repartidor denuncia detención injusta en marcha por agua contaminada en Jalisco; intentaron que firmara desistimiento contra autoridades, dice",
+     "url": "https://www.eluniversal.com.mx/estados/madre-de-repartidor-denuncia-detencion-injusta-en-marcha-por-agua-contaminada-en-jalisco-intentaron-que-firmara-desistimiento-contra-autoridades-dice/",
+     "domain": "El Universal",
+     "seendate": "20261014T031558Z"
+    },
     {
      "title": "Capturan a cuatro sujetos relacionados con abandono de cadáver en Iztacalco; tres de ellos tienen ingresos al Sistema Penitenciario por robo",
      "url": "https://www.eluniversal.com.mx/metropoli/capturan-a-cuatro-sujetos-relacionados-con-abandono-de-cadaver-en-iztacalco-tres-de-ellos-tienen-ingresos-al-sistema-penitenciario-por-robo/",
@@ -434,7 +452,7 @@
      "seendate": "20261013T170506Z"
     },
     {
-     "title": "Se forma la Tomenta Tropical \"Trudy\" en aguas del Pacífico; huracán Simon se mantiene en categoría 1, sigue en vivo su trayectoria y efectos",
+     "title": "\"Simon\" vuelve a ser huracán categoría 2 mientras que Tomenta Tropical \"Trudy\" continúa su avance en el Pacífico; sigue en vivo su trayectoria y efectos",
      "url": "https://www.eluniversal.com.mx/estados/huracan-simon-se-mantiene-en-categoria-1-sigue-en-vivo-su-trayectoria-y-efectos/",
      "domain": "El Universal",
      "seendate": "20261013T131620Z"
@@ -804,12 +822,6 @@
      "seendate": "20261012T024742Z"
     },
     {
-     "title": "Mulino acusa al alcalde de Mariato de repartir entre sus copartidarios la ayuda del terremoto",
-     "url": "https://www.prensa.com/politica/mulino-acusa-al-alcalde-de-mariato-de-repartir-entre-sus-copartidarios-la-ayuda-del-terremoto/",
-     "domain": "La Prensa",
-     "seendate": "20261012T011803Z"
-    },
-    {
      "title": "Afectados por el terremoto pueden recibir atención psicológica en hospitales y centros de salud",
      "url": "https://www.prensa.com/sociedad/afectados-por-el-sismo-pueden-recibir-atencion-psicologica-en-hospitales-y-centros-de-salud/",
      "domain": "La Prensa",
@@ -983,10 +995,16 @@
   "COL": {
    "articles": [
     {
+     "title": "Reportan cierre en la vía Sibaté-Fusagasugá por deslizamiento tras fuertes lluvias este martes 13 de octubre: no hay vehículos atrapados ni heridos",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/reportan-cierre-en-la-via-sibate-fusagasuga-por-deslizamiento-tras-fuertes-lluvias-este-martes-13-de-octubre-no-se-reportan-vehiculos-atrapados-3593367",
+     "domain": "El Tiempo",
+     "seendate": "20261014T031608Z"
+    },
+    {
      "title": "Procurador Gregorio Eljach hace un llamado a la tranquilidad antes de las marchas del miércoles 14 de octubre en Colombia: 'La protesta tiene límites'",
      "url": "https://www.eltiempo.com/colombia/procurador-gregorio-eljach-advierte-que-la-protesta-social-tiene-limites-y-pide-tranquilidad-para-las-marchas-de-este-miercoles-14-de-octubre-3593359",
      "domain": "El Tiempo",
-     "seendate": "20261014T025022Z"
+     "seendate": "20261014T030412Z"
     },
     {
      "title": "Vendedor ambulante que necesita operación urgente asegura que no puede acceder a la EPS porque figura como fallecido en registros: esta es la razón",
@@ -1023,12 +1041,6 @@
      "url": "https://www.eltiempo.com/colombia/santander/temblor-en-colombia-este-13-de-octubre-sgc-reporto-un-sismo-de-magnitud-5-0-e-internautas-aseguran-haberlo-sentido-en-varias-ciudades-3593294",
      "domain": "El Tiempo",
      "seendate": "20261013T223256Z"
-    },
-    {
-     "title": "Más de 100 personas sufrieron intoxicación por consumo de sustancias durante los dos días del festival EDC: Secretaría de Salud de Medellín",
-     "url": "https://www.eltiempo.com/colombia/medellin/mas-de-100-personas-sufrieron-intoxicacion-por-consumo-de-sustancias-durante-los-dos-dias-del-festival-edc-secretaria-de-salud-de-medellin-3593282",
-     "domain": "El Tiempo",
-     "seendate": "20261013T215824Z"
     },
     {
      "title": "Cartagena Cómo Vamos en movilidad: bajan los lesionados en las vías, pero se disparan las muertes jóvenes en lo que va del 2026",
@@ -1068,6 +1080,12 @@
   },
   "ECU": {
    "articles": [
+    {
+     "title": "Tortuga Bay vuelve a cerrar por fuerte oleaje en Galápagos: estos son los nuevos horarios",
+     "url": "https://eluniverso.com/comunidad/ecuador/tortuga-bay-vuelve-a-cerrar-por-fuerte-oleaje-en-galapagos-estos-son-los-nuevos-horarios-nota/",
+     "domain": "El Universo",
+     "seendate": "20261014T030806Z"
+    },
     {
      "title": "Cirugías gratuitas de la vista y atención dental llegaron a comunidades de difícil acceso en Esmeraldas",
      "url": "https://eluniverso.com/comunidad/ecuador/cirugias-gratuitas-de-la-vista-y-atencion-dental-llegaron-a-comunidades-de-dificil-acceso-en-esmeraldas-nota/",
@@ -1217,6 +1235,12 @@
   "PER": {
    "articles": [
     {
+     "title": "Último temblor en Perú HOY: IGP reportó sismo en Cañete, magnitud, hora y más",
+     "url": "https://elcomercio.pe/peru/temblor-en-peru-hoy-donde-fue-el-epicentro-y-magnitud-segun-reportes-del-igp-tdpe-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261014T031100Z"
+    },
+    {
      "title": "Mario Gonzales, CEO de Luz del Sur: “Nuestra intención es llevar la medición inteligente a todos los clientes”",
      "url": "https://elcomercio.pe/economia/peru/energia-mario-gonzales-ceo-de-luz-del-sur-nuestra-intencion-es-llevar-la-medicion-inteligente-a-todos-los-clientes-noticia/",
      "domain": "El Comercio",
@@ -1312,6 +1336,18 @@
   "ARG": {
    "articles": [
     {
+     "title": "Hay alerta amarilla por tormentas, lluvias y vientos para este miércoles 14 de octubre: las provincias afectadas",
+     "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-tormentas-lluvias-y-vientos-para-este-miercoles-14-de-octubre-las-provincias-nid14102026/",
+     "domain": "La Nación",
+     "seendate": "20261014T030100Z"
+    },
+    {
+     "title": "Vuelven a cerrar este miércoles circuitos de las Cataratas por la crecida del río Iguazú",
+     "url": "https://www.lanacion.com.ar/sociedad/manana-volveran-a-cerrar-circuitos-de-las-cataratas-del-iguazu-por-la-crecida-del-rio-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261014T030100Z"
+    },
+    {
      "title": "Gabriel Rolón, psicoanalista, sobre la búsqueda de bienestar: “A veces uno desea más haber sido feliz que ser feliz”",
      "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-sobre-la-busqueda-de-bienestar-a-veces-uno-desea-mas-haber-sido-feliz-nid08102026/",
      "domain": "La Nación",
@@ -1366,12 +1402,6 @@
      "seendate": "20261014T004000Z"
     },
     {
-     "title": "Mañana volverán a cerrar circuitos de las Cataratas del Iguazú por la crecida del río",
-     "url": "https://www.lanacion.com.ar/sociedad/manana-volveran-a-cerrar-circuitos-de-las-cataratas-del-iguazu-por-la-crecida-del-rio-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261014T001057Z"
-    },
-    {
      "title": "Uñac se lanzó como precandidato a presidente del peronismo con un spot: “Hay mucho desánimo en la sociedad”",
      "url": "https://www.lanacion.com.ar/politica/unac-se-lanzo-como-precandidato-a-presidente-con-un-spot-nid13102026/",
      "domain": "La Nación",
@@ -1418,24 +1448,6 @@
      "url": "https://www.lanacion.com.ar/economia/en-julio-hubo-12716-asalariados-registrados-menos-y-suman-casi-266000-en-la-gestion-milei-nid13102026/",
      "domain": "La Nación",
      "seendate": "20261013T231537Z"
-    },
-    {
-     "title": "Día del Psicólogo: por qué se celebra hoy y las mejores frases para enviar por WhatsApp",
-     "url": "https://www.lanacion.com.ar/sociedad/dia-del-psicologo-por-que-se-celebra-hoy-y-las-mejores-frases-para-enviar-por-whatsapp-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T230747Z"
-    },
-    {
-     "title": "Fecha de cobro de Anses: el cronograma de pagos para este martes 13 de octubre",
-     "url": "https://www.lanacion.com.ar/economia/fecha-de-cobro-de-anses-el-cronograma-de-pagos-para-este-martes-13-de-octubre-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T230736Z"
-    },
-    {
-     "title": "Hay alerta naranja y amarilla por tormentas, lluvias y vientos para este martes 13 de octubre: las provincias afectadas",
-     "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-naranja-y-amarilla-por-tormentas-lluvias-y-vientos-para-este-martes-13-de-octubre-las-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261013T230356Z"
     }
    ]
   },
@@ -1470,6 +1482,36 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "Canal 'Exército do Lula' sai do ar no WhatsApp após Nunes Marques estabelecer prazo de 48 horas para retomada",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/14/canal-exercito-do-lula-sai-do-ar-no-whatsapp-apos-nunes-marques-estabelecer-prazo-de-48-horas-para-retomada.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261014T030959Z"
+    },
+    {
+     "title": "Flávio deve votar fim da escala 6x1 à distância enquanto faz campanha com aliados em Porto Alegre",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/14/flavio-deve-votar-fim-da-escala-6x1-a-distancia-enquanto-faz-campanha-com-aliados-em-porto-alegre.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261014T030000Z"
+    },
+    {
+     "title": "Agropecuária cresce mais de 500% no entorno de áreas protegidas na Amazônia em quatro décadas, mostra MapBiomas",
+     "url": "https://oglobo.globo.com/brasil/meio-ambiente/noticia/2026/10/14/agropecuaria-cresce-mais-de-500percent-no-entorno-de-areas-protegidas-na-amazonia-em-quatro-decadas-mostra-mapbiomas.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261014T030000Z"
+    },
+    {
+     "title": "PEC da Segurança deve ser votada por comissão do Senado, mas análise no plenário é incerta",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/14/pec-da-seguranca-deve-ser-votada-por-comissao-do-senado-mas-analise-no-plenario-e-incerta.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261014T030000Z"
+    },
+    {
+     "title": "STF retoma julgamento sobre regras de tratamento médico e possibilidade de recusa por testemunhas de jeová",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/14/stf-retoma-julgamento-sobre-regras-de-tratamento-medico-e-possibilidade-de-recusa-por-testemunhas-de-jeova.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261014T030000Z"
+    },
     {
      "title": "TSE estabelece limites para campanhas de Lula e Flávio associarem adversários ao crime organizado",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/13/tse-estabelece-limites-para-campanhas-de-lula-e-flavio-associarem-adversarios-ao-crime-organizado.ghtml",
@@ -1565,24 +1607,6 @@
      "url": "https://oglobo.globo.com/politica/noticia/2026/10/13/nunes-marques-libera-canal-de-whatsapp-exercito-do-lula-apos-campanha-cumprir-exigencia-de-registro-no-tse.ghtml",
      "domain": "O Globo",
      "seendate": "20261013T192551Z"
-    },
-    {
-     "title": "Porto Velho é encoberta pela mesma fumaça de queimadas do Amazonas que vem afetando Manaus há semanas",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/13/porto-velho-e-encoberta-pela-mesma-fumaca-de-queimadas-do-amazonas-que-vem-afetando-manaus-ha-semanas.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261013T182928Z"
-    },
-    {
-     "title": "Alcolumbre busca apoio de senadores eleitos para se manter no comando da Casa em meio à pressão por impeachment no STF",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/13/alcolumbre-busca-apoio-de-senadores-eleitos-para-se-manter-no-comando-da-casa-em-meio-a-pressao-por-impeachment-no-stf.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261013T182017Z"
-    },
-    {
-     "title": "Filha de 14 anos de prefeito de cidade do RN é encontrada em Portugal; caso é tratado como rapto",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/13/filha-de-prefeito-de-cidade-do-rn-de-14-anos-e-encontrada-em-portugal-caso-e-tratado-como-rapto.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261013T173847Z"
     }
    ]
   }
