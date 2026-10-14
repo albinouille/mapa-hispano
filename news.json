@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T04:31:47+00:00",
+ "updated": "2026-10-14T05:07:10+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -133,6 +133,18 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "FGR abre proceso penal contra el juez Sergio Sigales; lo investigan por presuntos delitos contra la administración de justicia",
+     "url": "https://www.eluniversal.com.mx/nacion/fgr-abre-proceso-penal-contra-el-juez-sergio-sigales-lo-investigan-por-presuntos-delitos-contra-la-administracion-de-justicia/",
+     "domain": "El Universal",
+     "seendate": "20261014T045834Z"
+    },
+    {
+     "title": "Diputados aprueban en lo general Ley del ISR 2027; fijan nuevas retenciones para Uber, DiDi y Rappi",
+     "url": "https://www.eluniversal.com.mx/nacion/diputados-aprueban-en-lo-general-ley-del-isr-2027-fijan-nuevas-retenciones-para-uber-didi-y-rappi/",
+     "domain": "El Universal",
+     "seendate": "20261014T045520Z"
+    },
     {
      "title": "Magistrado presidente del Tribunal confía en que el Congreso apruebe presupuesto para 2027; \"es para insumos de elecciones\"",
      "url": "https://www.eluniversal.com.mx/nacion/magistrado-presidente-del-tribunal-confia-en-que-el-congreso-apruebe-presupuesto-para-2027-es-para-insumos-de-elecciones/",
@@ -380,12 +392,6 @@
      "seendate": "20261013T210452Z"
     },
     {
-     "title": "Diputados avalan en los general aumento a tarifas para extranjeros que ingresen a México; sigue discusión en lo particular",
-     "url": "https://www.eluniversal.com.mx/nacion/diputados-avalan-en-los-general-aumento-de-tarifas-de-servicios-migratorios-sigue-discusion-en-lo-particular/",
-     "domain": "El Universal",
-     "seendate": "20261013T205906Z"
-    },
-    {
      "title": "Marcha Nacional: Personal de salud cierra vialidades y marchan en distintos estados; exigen que se cumplan sus demandas",
      "url": "https://www.eluniversal.com.mx/estados/marcha-nacional-personal-de-salud-cierra-vialidades-y-marchan-en-distintos-estados-exigen-que-se-cumplan-sus-demandas/",
      "domain": "El Universal",
@@ -487,6 +493,12 @@
   },
   "CRI": {
    "articles": [
+    {
+     "title": "IMN anuncia miércoles de tiempo inestable: estas serán las zonas con lluvias y tormentas eléctricas",
+     "url": "https://www.nacion.com/sucesos/imn-anuncia-miercoles-de-tiempo-inestable-estas/AQNRHHNQAJEJLEIZYAYCHL7UKY/story/",
+     "domain": "La Nación",
+     "seendate": "20261014T043027Z"
+    },
     {
      "title": "Concejo Municipal de San José aprueba moción para investigar visita de chino-tico extraditable",
      "url": "https://www.nacion.com/el-pais/concejo-municipal-de-san-jose-aprueba-mocion-para/UNHED4VQY5AGVOKF6EWGBYWYE4/story/",
@@ -678,16 +690,22 @@
   "PAN": {
    "articles": [
     {
+     "title": "El miedo después del terremoto: La tierra se abrió entre La Pitaloza y Malena",
+     "url": "https://www.prensa.com/politica/el-miedo-despues-del-terremoto-la-tierra-se-abrio-entre-la-pitaloza-y-malena/",
+     "domain": "La Prensa",
+     "seendate": "20261014T050353Z"
+    },
+    {
      "title": "Un Estado en modo emergencia: así se ha reorganizado el poder público tras el terremoto",
      "url": "https://www.prensa.com/politica/un-estado-en-modo-emergencia-asi-se-ha-reorganizado-el-poder-publico-tras-el-terremoto/",
      "domain": "La Prensa",
-     "seendate": "20261014T042854Z"
+     "seendate": "20261014T050353Z"
     },
     {
      "title": "Tres heridos trasladados desde Azuero y 66 pacientes evacuados: el impacto del sismo en el Santo Tomás",
      "url": "https://www.prensa.com/sociedad/tres-heridos-trasladados-desde-azuero-y-66-pacientes-evacuados-el-impacto-del-sismo-en-el-santo-tomas/",
      "domain": "La Prensa",
-     "seendate": "20261014T042854Z"
+     "seendate": "20261014T050200Z"
     },
     {
      "title": "Universidad de Panamá mantendrá clases virtuales hasta el 18 de octubre tras terremoto",
@@ -786,22 +804,10 @@
      "seendate": "20261012T131000Z"
     },
     {
-     "title": "En la costa de Veraguas, sobrevivir al terremoto es buscar agua y alimentos",
-     "url": "https://www.prensa.com/politica/en-la-costa-de-veraguas-sobrevivir-al-terremoto-es-buscar-agua-y-alimentos/",
-     "domain": "La Prensa",
-     "seendate": "20261011T231531Z"
-    },
-    {
      "title": "El terremoto sacude el patrimonio y cambia la vida en La Villa",
      "url": "https://www.prensa.com/sociedad/el-terremoto-sacude-el-patrimonio-y-cambia-la-vida-en-la-villa/",
      "domain": "La Prensa",
      "seendate": "20261011T220646Z"
-    },
-    {
-     "title": "¿Por qué no se pueden comparar los terremotos de Venezuela y Panamá?",
-     "url": "https://www.prensa.com/sociedad/por-que-no-se-pueden-comparar-los-terremotos-de-venezuela-y-panama/",
-     "domain": "La Prensa",
-     "seendate": "20261010T170844Z"
     }
    ]
   },
@@ -916,12 +922,6 @@
      "seendate": "20261012T101743Z"
     },
     {
-     "title": "Díaz-Canel reafirma su amistad con Corea del Norte tras reducir su presencia diplomática en Seúl",
-     "url": "https://www.14ymedio.com/cuba/diaz-canel-reafirma-amistad-corea_1_1131811.html",
-     "domain": "14ymedio",
-     "seendate": "20261011T114009Z"
-    },
-    {
      "title": "“¡Trump, intervención militar ya!”, un nuevo cartel en el cementerio de Mayabe, en Holguín",
      "url": "https://www.14ymedio.com/cuba/trump-intervencion-militar-nuevo-cartel_1_1131799.html",
      "domain": "14ymedio",
@@ -941,16 +941,16 @@
   "COL": {
    "articles": [
     {
-     "title": "El procurador Gregorio Eljach se pronunció sobre las marchas del miércoles 14 de octubre en Colombia: 'La protesta tiene límites'",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/procurador-gregorio-eljach-advierte-que-la-protesta-social-tiene-limites-y-pide-tranquilidad-para-las-marchas-de-este-miercoles-14-de-octubre-3593359",
-     "domain": "El Tiempo",
-     "seendate": "20261014T035456Z"
-    },
-    {
      "title": "Reportan cierre en la vía Sibaté-Fusagasugá por deslizamiento tras fuertes lluvias este martes 13 de octubre: no hay vehículos atrapados ni heridos",
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/reportan-cierre-en-la-via-sibate-fusagasuga-por-deslizamiento-tras-fuertes-lluvias-este-martes-13-de-octubre-no-se-reportan-vehiculos-atrapados-3593367",
      "domain": "El Tiempo",
-     "seendate": "20261014T034407Z"
+     "seendate": "20261014T042926Z"
+    },
+    {
+     "title": "El procurador Gregorio Eljach se pronunció sobre las marchas del miércoles 14 de octubre en Colombia: 'La protesta tiene límites'",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/procurador-gregorio-eljach-advierte-que-la-protesta-social-tiene-limites-y-pide-tranquilidad-para-las-marchas-de-este-miercoles-14-de-octubre-3593359",
+     "domain": "El Tiempo",
+     "seendate": "20261014T042858Z"
     },
     {
      "title": "Vendedor ambulante que necesita operación urgente asegura que no puede acceder a la EPS porque figura como fallecido en registros: esta es la razón",
@@ -1175,6 +1175,12 @@
   "PER": {
    "articles": [
     {
+     "title": "Indeci reporta 7 nuevos incendios forestales en Ayacucho, Huancavelica, Cusco, Pasco y San Martín",
+     "url": "https://elcomercio.pe/peru/indeci-reporta-7-nuevos-incendios-forestales-en-ayacucho-huancavelica-cusco-pasco-y-san-martin-ultimas-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261014T045256Z"
+    },
+    {
      "title": "Último temblor en Perú HOY: IGP reportó sismo en Cañete, magnitud, hora y más",
      "url": "https://elcomercio.pe/peru/temblor-en-peru-hoy-donde-fue-el-epicentro-y-magnitud-segun-reportes-del-igp-tdpe-noticia/",
      "domain": "El Comercio",
@@ -1185,12 +1191,6 @@
      "url": "https://elcomercio.pe/economia/peru/energia-mario-gonzales-ceo-de-luz-del-sur-nuestra-intencion-es-llevar-la-medicion-inteligente-a-todos-los-clientes-noticia/",
      "domain": "El Comercio",
      "seendate": "20261014T023831Z"
-    },
-    {
-     "title": "Turismo mundial crecerá 2,5% en el 2026: ¿cómo los destinos peruanos deberían crecer sin afectar sus principales atractivos?",
-     "url": "https://elcomercio.pe/economia/peru/turismo-mundial-crecera-25-en-el-2026-como-los-destinos-peruanos-deberian-crecer-sin-afectar-sus-principales-atractivos-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261014T022249Z"
     },
     {
      "title": "Fenómeno de El Niño: Gobierno anuncia “outlets” en distintas regiones del país para liquidar prendas que no se vendieron por el calor",
@@ -1264,6 +1264,12 @@
   "ARG": {
    "articles": [
     {
+     "title": "Gabriel Rolón: “La esperanza puede dejarnos incapacitados a la espera de que ocurran cosas”",
+     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-la-esperanza-puede-dejarnos-incapacitados-a-la-espera-de-que-ocurran-cosas-nid14102026/",
+     "domain": "La Nación",
+     "seendate": "20261014T050000Z"
+    },
+    {
      "title": "El Banco Central concretó la mayor compra en dos meses y medio y ya suma más de US$15.000 millones en el año",
      "url": "https://www.lanacion.com.ar/economia/el-bcra-concreto-la-mayor-compra-en-dos-meses-y-medio-y-ya-suma-mas-de-us15000-millones-en-el-ano-nid13102026/",
      "domain": "La Nación",
@@ -1294,7 +1300,7 @@
      "seendate": "20261014T023045Z"
     },
     {
-     "title": "Javier Milei y sus medidas, EN VIVO: el Gobierno le envió un mensaje al papa León XIV, que salió con éxito de la operación",
+     "title": "El Gobierno le envió un mensaje al papa León XIV, que salió con éxito de la operación",
      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-dijo-que-el-gobierno-estaria-dispuesto-a-ajustar-la-nid13102026/",
      "domain": "La Nación",
      "seendate": "20261014T015302Z"
