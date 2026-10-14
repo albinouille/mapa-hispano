@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T22:59:39+00:00",
+ "updated": "2026-10-14T23:29:05+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -164,7 +164,19 @@
   "MEX": {
    "articles": [
     {
-     "title": "Jufed acusa persecución contra juez de Colima; rechaza que Tribunal de disciplina traslade caso al ámbito penal",
+     "title": "Huracán Simon mantiene en alerta a Baja California Sur; prevén lluvias fuertes para el sábado 17 octubre",
+     "url": "https://www.eluniversal.com.mx/estados/huracan-simon-mantiene-en-alerta-a-baja-california-sur-preven-lluvias-fuertes-para-el-sabado-17/",
+     "domain": "El Universal",
+     "seendate": "20261014T231013Z"
+    },
+    {
+     "title": "María Teresa Ealy va por alcaldía Miguel Hidalgo; \"todavía hay mucho por hacer\"",
+     "url": "https://www.eluniversal.com.mx/metropoli/maria-teresa-ealy-va-por-alcaldia-miguel-hidalgo-todavia-hay-mucho-por-hacer/",
+     "domain": "El Universal",
+     "seendate": "20261014T225819Z"
+    },
+    {
+     "title": "Gremio acusa persecución contra juez de Colima; rechaza que Tribunal de disciplina traslade caso al ámbito penal",
      "url": "https://www.eluniversal.com.mx/nacion/jufed-acusa-persecucion-contra-juez-de-colima-rechaza-que-tribunal-de-disciplina-traslade-caso-al-ambito-penal/",
      "domain": "El Universal",
      "seendate": "20261014T225258Z"
@@ -350,34 +362,10 @@
      "seendate": "20261014T185153Z"
     },
     {
-     "title": "Investigan a dos policías y un bombero por presunto uso excesivo de la fuerza en manifestación en Jalisco; Gobernador reconoce abusos",
-     "url": "https://www.eluniversal.com.mx/estados/investigan-a-dos-policias-y-un-bombero-por-presunto-uso-excesivo-de-la-fuerza-en-manifestacion-en-jalisco-gobernador-reconoce-abusos/",
-     "domain": "El Universal",
-     "seendate": "20261014T184211Z"
-    },
-    {
-     "title": "Diputados aprueban Ley del ISR para combatir la evasión fiscal; es turnada al Senado",
-     "url": "https://www.eluniversal.com.mx/nacion/diputados-aprueban-ley-del-isr-para-combatir-la-evasion-fiscal-es-turnada-al-senado/",
-     "domain": "El Universal",
-     "seendate": "20261014T184137Z"
-    },
-    {
-     "title": "Grecia Quiroz impugnará resolución que favorece a Fernández Noroña; acusa al Tribunal Electoral de Michoacán de proteger al senador",
-     "url": "https://www.eluniversal.com.mx/estados/grecia-quiroz-impugnara-resolucion-que-favorece-a-fernandez-norona-acusa-al-tribunal-electoral-de-proteger-al-senador/",
-     "domain": "El Universal",
-     "seendate": "20261014T183451Z"
-    },
-    {
      "title": "La soberanía no se negocia ni subordina, dice canciller Velasco en el Senado; \"el derecho internacional es nuestra principal arma\", asegura",
      "url": "https://www.eluniversal.com.mx/nacion/la-soberania-no-se-negocia-ni-subordina-dice-canciller-velasco-en-el-senado-el-derecho-internacional-es-nuestra-principal-arma-asegura/",
      "domain": "El Universal",
      "seendate": "20261014T183241Z"
-    },
-    {
-     "title": "Sin el PT, Morena no hubiera ganado en 12 estados, responde Geovanna Bañuelos a dichos de Durazo; pide unidad en la 4T",
-     "url": "https://www.eluniversal.com.mx/nacion/sin-el-pt-morena-no-hubiera-ganado-en-12-estados-responde-geovanna-banuelos-a-dichos-de-durazo-pide-unidad-en-la-4t/",
-     "domain": "El Universal",
-     "seendate": "20261014T181813Z"
     },
     {
      "title": "Clara Brugada presenta su segundo informe de labores; comparece ante el Congreso de la CDMX",
@@ -475,6 +463,12 @@
   },
   "CRI": {
    "articles": [
+    {
+     "title": "Víctima que denunció a futbolista de Cartaginés por extorsión acumuló deuda de ¢16 millones",
+     "url": "https://www.nacion.com/sucesos/victima-que-denuncio-a-futbolista-de-cartagines/MY7JEX6LSBDQVC5E5OSQDAG354/story/",
+     "domain": "La Nación",
+     "seendate": "20261014T231851Z"
+    },
     {
      "title": "Cuidacarros de Cartago denunció agresión en la que figura futbolista de Cartaginés investigado por amenazas",
      "url": "https://www.nacion.com/sucesos/cuidacarros-de-cartago-denuncio-agresion-en-la-que/YQ4OHB4TJVGMPAMWFE6NPKAXRQ/story/",
@@ -881,6 +875,18 @@
   "COL": {
    "articles": [
     {
+     "title": "Terror en Palmira: así funcionaba 'los Sayayines', la banda que atracaba de noche a civiles, policías y funcionarios de la UNP",
+     "url": "https://www.eltiempo.com/colombia/cali/terror-en-palmira-asi-funcionaba-los-sayayines-la-banda-que-atracaba-de-noche-a-civiles-policias-y-funcionarios-de-la-unp-3593624",
+     "domain": "El Tiempo",
+     "seendate": "20261014T232150Z"
+    },
+    {
+     "title": "Remodelaron la parroquia Nuestra Señora La Virgen de la Peña, ubicada en un corregimiento de Yopal",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/remodelaron-la-parroquia-nuestra-senora-la-virgen-de-la-pena-ubicada-en-un-corregimiento-de-yopal-3593612",
+     "domain": "El Tiempo",
+     "seendate": "20261014T230241Z"
+    },
+    {
      "title": "Desmanes y detonaciones de papas bomba alteran la tranquilidad en el centro de Popayán tras jornada de movilización",
      "url": "https://www.eltiempo.com/colombia/cali/desmanes-y-detonaciones-de-papas-bomba-alteran-la-tranquilidad-en-el-centro-de-popayan-tras-jornada-de-movilizacion-3593602",
      "domain": "El Tiempo",
@@ -927,18 +933,6 @@
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/talento-y-liderazgo-femenino-cartagena-ya-tiene-gerente-para-la-empresa-publica-que-administrara-el-gran-malecon-del-mar-3593558",
      "domain": "El Tiempo",
      "seendate": "20261014T200629Z"
-    },
-    {
-     "title": "Indígenas, docentes y sindicatos marchan en el Cauca para exigir diálogo directo con el Gobierno Nacional",
-     "url": "https://www.eltiempo.com/colombia/cali/indigenas-docentes-y-sindicatos-marchan-en-el-cauca-para-exigir-dialogo-directo-con-el-gobierno-nacional-3593553",
-     "domain": "El Tiempo",
-     "seendate": "20261014T193651Z"
-    },
-    {
-     "title": "Mientras grababa el atardecer, captó el momento de un accidente múltiple en Cartagena",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/mientras-grababa-el-atardecer-capto-el-momento-de-un-accidente-multiple-en-cartagena-3593518",
-     "domain": "El Tiempo",
-     "seendate": "20261014T175512Z"
     }
    ]
   },
@@ -1087,12 +1081,6 @@
      "seendate": "20261014T132127Z"
     },
     {
-     "title": "Gobierno entrega el embalse Chiquicahua para abastecer a 12.500 familias de Tungurahua",
-     "url": "https://eluniverso.com/politica/ejecutivo/daniel-noboa-entrega-el-embalse-chiquicahua-para-abastecer-a-12500-familias-de-tungurahua-nota/",
-     "domain": "El Universo",
-     "seendate": "20261014T125007Z"
-    },
-    {
      "title": "Zofrati, el parque empresarial que capta el interés de industrias y proyecta una inversión de hasta $ 100 millones en Manabí",
      "url": "https://eluniverso.com/comunidad/ecuador/zofrati-29-empresas-interesadas-y-hasta-100-millones-nota/",
      "domain": "El Universo",
@@ -1127,12 +1115,6 @@
      "url": "https://eluniverso.com/politica/seguridad/ejercito-decomisa-marihuana-y-otros-indicios-durante-operativo-en-quito-nota/",
      "domain": "El Universo",
      "seendate": "20261014T114027Z"
-    },
-    {
-     "title": "PID anuncia a Luis Alonso Moreno como su candidato a la Prefectura de Pichincha",
-     "url": "https://eluniverso.com/politica/elecciones/pid-anuncia-a-luis-alonso-moreno-como-su-candidato-a-la-prefectura-de-pichincha-nota/",
-     "domain": "El Universo",
-     "seendate": "20261014T113446Z"
     },
     {
      "title": "Pronóstico del clima para este miércoles, 14 de octubre: lluvias durante la tarde y noche en ciudades de Ecuador",
@@ -1198,6 +1180,54 @@
   "ARG": {
    "articles": [
     {
+     "title": "El Gobierno repone los límites a la venta de tierras para contener a sus aliados y desactivar la sesión opositora",
+     "url": "https://www.lanacion.com.ar/politica/el-gobierno-incluyo-un-capitulo-de-ley-de-tierras-en-el-proyecto-de-propiedad-privada-para-blindar-nid14102026/",
+     "domain": "La Nación",
+     "seendate": "20261014T232145Z"
+    },
+    {
+     "title": "Juicio por la muerte de Diego Maradona: “mataron a un héroe mitológico”, dijo Burlando al pedir la condena de Luque",
+     "url": "https://www.lanacion.com.ar/seguridad/juicio-por-la-muerte-de-diego-maradona-mataron-a-un-heroe-mitologico-dijo-burlando-al-pedir-la-nid14102026/",
+     "domain": "La Nación",
+     "seendate": "20261014T232143Z"
+    },
+    {
+     "title": "Javier Milei y sus medidas, EN VIVO: Santiago Caputo llamó a recuperar Malvinas y advirtió que el Reino Unido está “siendo colonizado por el Islam”",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-gobierno-celebro-el-numero-de-la-inflacion-y-dijo-es-el-camino-nid14102026/",
+     "domain": "La Nación",
+     "seendate": "20261014T231814Z"
+    },
+    {
+     "title": "Thiago Príncipe tiene 14 años, construyó un tractor con piezas recuperadas y ahora quiere automatizarlo: “Sentí la innovación”",
+     "url": "https://www.lanacion.com.ar/economia/campo/thiago-principe-tiene-14-anos-construyo-un-tractor-con-piezas-recuperadas-y-ahora-quiere-nid14102026/",
+     "domain": "La Nación",
+     "seendate": "20261014T230609Z"
+    },
+    {
+     "title": "Santiago Caputo dijo que la Argentina debe recuperar las Malvinas porque el Reino Unido está “siendo colonizado por el Islam”",
+     "url": "https://www.lanacion.com.ar/politica/santiago-caputo-dijo-que-la-argentina-debe-recuperar-las-malvinas-porque-el-reino-unido-esta-siendo-nid14102026/",
+     "domain": "La Nación",
+     "seendate": "20261014T230425Z"
+    },
+    {
+     "title": "Joseph Pilates, creador del método de entrenamiento: “La respiración es la primera acción que realizamos en la vida, y la última; una respiración vaga e incompleta te acerca a la enfermedad”",
+     "url": "https://www.lanacion.com.ar/sociedad/joseph-pilates-creador-del-metodo-de-entrenamiento-la-respiracion-es-la-primera-accion-que-nid14102026/",
+     "domain": "La Nación",
+     "seendate": "20261014T230000Z"
+    },
+    {
+     "title": "Alejandro López, el juez que absolvió a los gremialistas, llegó al puesto gracias a un acuerdo de la Legislatura y es calificado de “garantista”",
+     "url": "https://www.lanacion.com.ar/politica/alejandro-lopez-el-juez-que-absolvio-a-los-gremialistas-llego-al-puesto-gracias-a-un-acuerdo-de-la-nid14102026/",
+     "domain": "La Nación",
+     "seendate": "20261014T225718Z"
+    },
+    {
+     "title": "Súper Niño 2026: subió a un 75% la probabilidad de que el fenómeno tenga una magnitud histórica, advierte un informe",
+     "url": "https://www.lanacion.com.ar/economia/campo/super-nino-2026-subio-a-un-75-la-probabilidad-de-que-el-fenomeno-tenga-una-magnitud-historica-nid14102026/",
+     "domain": "La Nación",
+     "seendate": "20261014T225608Z"
+    },
+    {
      "title": "El oficialismo impulsa un ambiciosa megasesión en Diputados para bloquear una ofensiva opositora",
      "url": "https://www.lanacion.com.ar/politica/el-oficialismo-impulsa-un-ambiciosa-megasesion-en-diputados-para-bloquear-una-ofensiva-opositora-nid10102026/",
      "domain": "La Nación",
@@ -1210,22 +1240,10 @@
      "seendate": "20261014T225012Z"
     },
     {
-     "title": "Marcha atrás: el Gobierno restituye la ley de tierras para blindar el DNU 70/23 y desactivar la ofensiva opositora en Diputados",
-     "url": "https://www.lanacion.com.ar/politica/el-gobierno-incluyo-un-capitulo-de-ley-de-tierras-en-el-proyecto-de-propiedad-privada-para-blindar-nid14102026/",
-     "domain": "La Nación",
-     "seendate": "20261014T224935Z"
-    },
-    {
      "title": "Robin Sharma, especialista en crecimiento personal: “Un mal día para el ego es un buen día para el alma; aprendemos en la dificultad”",
      "url": "https://www.lanacion.com.ar/sociedad/robin-sharma-especialista-en-crecimiento-personal-un-mal-dia-para-el-ego-es-un-buen-dia-para-el-alma-nid11102026/",
      "domain": "La Nación",
      "seendate": "20261014T224600Z"
-    },
-    {
-     "title": "Javier Milei y sus medidas, EN VIVO: Santiago Caputo llamó a recuperar Malvinas y advirtió que el Reino Unido está “siendo colonizado por el Islam”",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-gobierno-celebro-el-numero-de-la-inflacion-y-dijo-es-el-camino-nid14102026/",
-     "domain": "La Nación",
-     "seendate": "20261014T224316Z"
     },
     {
      "title": "Tres desarrolladores crearon un videojuego en Formosa donde el gobernador Gildo Insfrán pelea contra un león con una motosierra",
@@ -1330,12 +1348,6 @@
      "seendate": "20261014T204112Z"
     },
     {
-     "title": "Thiago Príncipe tiene 14 años, construyó un tractor con piezas recuperadas y ahora quiere automatizarlo: “Sentí la innovación”",
-     "url": "https://www.lanacion.com.ar/economia/campo/thiago-principe-tiene-14-anos-construyo-un-tractor-con-piezas-recuperadas-y-ahora-quiere-nid14102026/",
-     "domain": "La Nación",
-     "seendate": "20261014T204112Z"
-    },
-    {
      "title": "Ya produce en 18.650 metros cuadrados: una provincia vive una transformación histórica con cultivos sin tierra",
      "url": "https://www.lanacion.com.ar/economia/campo/ya-produce-en-18650-metros-cuadrados-una-provincia-vive-una-transformacion-historica-con-cultivos-nid13102026/",
      "domain": "La Nación",
@@ -1364,18 +1376,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/pilar-sordo-psicologa-la-incomodidad-es-la-unica-invitacion-al-cambio-de-prioridades-nid14102026/",
      "domain": "La Nación",
      "seendate": "20261014T203400Z"
-    },
-    {
-     "title": "Gabriel Rolón: “La esperanza puede dejarnos incapacitados a la espera de que ocurran cosas”",
-     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-la-esperanza-puede-dejarnos-incapacitados-a-la-espera-de-que-ocurran-cosas-nid14102026/",
-     "domain": "La Nación",
-     "seendate": "20261014T203352Z"
-    },
-    {
-     "title": "Arthur Brooks, experto de Harvard, de 62 años: “Lo que hacen las personas felices y exitosas en la segunda mitad de sus vidas es pasar de sumar a restar”",
-     "url": "https://www.lanacion.com.ar/sociedad/arthur-brooks-experto-de-harvard-de-62-anos-lo-que-hacen-las-personas-felices-y-exitosas-en-la-nid08102026/",
-     "domain": "La Nación",
-     "seendate": "20261014T203329Z"
     }
    ]
   },
@@ -1559,24 +1559,6 @@
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/14/pdt-admite-discussao-sobre-federacao-partidaria-apos-nao-atingir-clausula-de-barreira.ghtml",
      "domain": "O Globo",
      "seendate": "20261014T175602Z"
-    },
-    {
-     "title": "Quem eram os jovens que morreram em cachoeira de MG; casal deixa menina de 11 meses",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/14/quem-eram-os-jovens-que-morreram-em-cachoeira-de-mg-casal-deixa-menina-de-11-meses.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261014T175522Z"
-    },
-    {
-     "title": "Brasileira presa por tráfico de drogas que recebeu 'perdão real' na Tailândia retorna ao Brasil",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/14/brasileira-presa-por-trafico-de-drogas-que-recebeu-perdao-real-na-tailandia-retorna-ao-brasil.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261014T174820Z"
-    },
-    {
-     "title": "Fux dá aula de jiu-jitsu para crianças no STF e destaca importância de 'independência olímpica' de juízes",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/14/fux-da-aula-de-jiu-jitsu-para-criancas-no-stf-e-destaca-importancia-de-independencia-olimpica-de-juizes.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261014T174235Z"
     }
    ]
   }
