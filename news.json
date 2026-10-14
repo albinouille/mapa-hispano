@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T23:29:05+00:00",
+ "updated": "2026-10-14T23:56:36+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -163,6 +163,24 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Artesanos y comerciantes exigen reabrir parador de Chichén Itzá, Yucatán; reportan caída de ventas del 80%",
+     "url": "https://www.eluniversal.com.mx/estados/artesanos-y-comerciantes-exigen-reabrir-parador-de-chichen-itza-yucatan-reportan-caida-de-ventas-del-80/",
+     "domain": "El Universal",
+     "seendate": "20261014T233609Z"
+    },
+    {
+     "title": "Activan alerta amarilla por lluvias fuertes en 12 alcaldías de CDMX; se espera caída de granizo",
+     "url": "https://www.eluniversal.com.mx/metropoli/activan-alerta-amarilla-por-lluvias-fuertes-en-12-alcaldias-de-cdmx-se-espera-caida-de-granizo/",
+     "domain": "El Universal",
+     "seendate": "20261014T233000Z"
+    },
+    {
+     "title": "Debido a violencia en Cuautla, reportan baja afluencia en escuelas y suspensión del transporte público; fuerzas federales refuerzan vigilancia",
+     "url": "https://www.eluniversal.com.mx/estados/debido-a-violencia-en-cuautla-reportan-baja-afluencia-en-escuelas-y-suspension-del-transporte-publico-fuerzas-federales-refuerzan-vigilancia/",
+     "domain": "El Universal",
+     "seendate": "20261014T232614Z"
+    },
     {
      "title": "Huracán Simon mantiene en alerta a Baja California Sur; prevén lluvias fuertes para el sábado 17 octubre",
      "url": "https://www.eluniversal.com.mx/estados/huracan-simon-mantiene-en-alerta-a-baja-california-sur-preven-lluvias-fuertes-para-el-sabado-17/",
@@ -348,12 +366,6 @@
      "url": "https://www.eluniversal.com.mx/metropoli/pilares-impartira-talleres-de-papel-picado-conoce-las-sedes-y-horarios/",
      "domain": "El Universal",
      "seendate": "20261014T191846Z"
-    },
-    {
-     "title": "Delfín \"Moana\" murió por traumatismo en Delfinario Sonora, revela Profepa; investigan lesión por desprendimiento de infraestructura",
-     "url": "https://www.eluniversal.com.mx/nacion/delfin-moana-murio-por-traumatismo-en-delfinario-sonora-revela-profepa-investigan-lesion-por-desprendimiento-de-infraestructura/",
-     "domain": "El Universal",
-     "seendate": "20261014T190203Z"
     },
     {
      "title": "Metrobús de la Línea 5 arrolla a una persona en Xochimilco; lamentó lo ocurrido y expresó su solidaridad",
@@ -624,17 +636,23 @@
      "url": "https://www.nacion.com/politica/diputada-joselyn-saenz-acude-a-sala-constitucional/UGUQF3LJ6JDK7HPVPRJ3BRSWAY/story/",
      "domain": "La Nación",
      "seendate": "20261014T014901Z"
-    },
-    {
-     "title": "Chances de la JPS: estos son los números ganadores del sorteo de este martes 13 de octubre",
-     "url": "https://www.nacion.com/el-pais/chances-de-la-jps-estos-son-los-numeros-ganadores/6UTL6LRIJRC7BCTLS7DTBEHN2E/story/",
-     "domain": "La Nación",
-     "seendate": "20261014T014432Z"
     }
    ]
   },
   "PAN": {
    "articles": [
+    {
+     "title": "En vivo: Gobierno actualiza información sobre las zonas afectadas por el terremoto",
+     "url": "https://www.prensa.com/politica/en-vivo-gobierno-actualiza-informacion-sobre-las-zonas-afectadas-por-el-terremoto/",
+     "domain": "La Prensa",
+     "seendate": "20261014T234235Z"
+    },
+    {
+     "title": "Sin evaluaciones estructurales, Penonomé comienza a tantear la normalidad",
+     "url": "https://www.prensa.com/sociedad/sin-evaluaciones-estructurales-penonome-comienza-a-tantear-la-normalidad/",
+     "domain": "La Prensa",
+     "seendate": "20261014T233234Z"
+    },
     {
      "title": "Fallece la primera víctima del terremoto de magnitud 7.5 en Panamá",
      "url": "https://www.prensa.com/sociedad/informan-de-muerte-cerebral-de-una-mujer-herida-durante-el-terremoto/",
@@ -1129,12 +1147,6 @@
      "seendate": "20261014T030806Z"
     },
     {
-     "title": "Cirugías gratuitas de la vista y atención dental llegaron a comunidades de difícil acceso en Esmeraldas",
-     "url": "https://eluniverso.com/comunidad/ecuador/cirugias-gratuitas-de-la-vista-y-atencion-dental-llegaron-a-comunidades-de-dificil-acceso-en-esmeraldas-nota/",
-     "domain": "El Universo",
-     "seendate": "20261014T023940Z"
-    },
-    {
      "title": "Cuatro emprendimientos podrán vender sus productos en centro comercial de Quito: la convocatoria abre pronto",
      "url": "https://eluniverso.com/comunidad/ecuador/cuatro-emprendimientos-podran-vender-sus-productos-en-centro-comercial-de-quito-la-convocatoria-abre-pronto-nota/",
      "domain": "El Universo",
@@ -1180,22 +1192,64 @@
   "ARG": {
    "articles": [
     {
+     "title": "Javier Milei y sus medidas, EN VIVO: el Presidente pidió que Trump salga “fortalecido” en las elecciones de Estados Unidos",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-gobierno-celebro-el-numero-de-la-inflacion-y-dijo-es-el-camino-nid14102026/",
+     "domain": "La Nación",
+     "seendate": "20261014T235001Z"
+    },
+    {
+     "title": "Gabriel Rolón, psicoanalista, sobre los recuerdos: “Nuestros padres que ya no están se transforman en personas por ahí más nobles de lo que fueron”",
+     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-sobre-los-recuerdos-nuestros-padres-que-ya-no-estan-se-transforman-en-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261014T234800Z"
+    },
+    {
+     "title": "Cuándo es Halloween en la Argentina 2026",
+     "url": "https://www.lanacion.com.ar/sociedad/cuando-es-halloween-en-la-argentina-2026-nid24092026/",
+     "domain": "La Nación",
+     "seendate": "20261014T234751Z"
+    },
+    {
+     "title": "Cyber Monday 2026 en la Argentina: fechas y marcas que participan en esta edición",
+     "url": "https://www.lanacion.com.ar/economia/cyber-monday-2026-en-la-argentina-fechas-y-marcas-que-participan-en-esta-edicion-nid14102026/",
+     "domain": "La Nación",
+     "seendate": "20261014T234740Z"
+    },
+    {
+     "title": "Cuándo es el Cyber Monday 2026 en la Argentina",
+     "url": "https://www.lanacion.com.ar/economia/cuando-es-el-cyber-monday-2026-en-la-argentina-nid14102026/",
+     "domain": "La Nación",
+     "seendate": "20261014T234737Z"
+    },
+    {
+     "title": "Cuándo se festeja Halloween 2026 en la Argentina",
+     "url": "https://www.lanacion.com.ar/sociedad/cuando-se-festeja-halloween-2026-en-la-argentina-nid07102026/",
+     "domain": "La Nación",
+     "seendate": "20261014T234717Z"
+    },
+    {
+     "title": "“Con pasado y amigos en La Cámpora”: el Gobierno cruzó al juez que lo multó por incumplir el financiamiento universitario",
+     "url": "https://www.lanacion.com.ar/sociedad/con-pasado-y-amigos-en-la-campora-el-gobierno-cruzo-al-juez-que-lo-multo-por-incumplir-el-nid14102026/",
+     "domain": "La Nación",
+     "seendate": "20261014T234549Z"
+    },
+    {
      "title": "El Gobierno repone los límites a la venta de tierras para contener a sus aliados y desactivar la sesión opositora",
      "url": "https://www.lanacion.com.ar/politica/el-gobierno-incluyo-un-capitulo-de-ley-de-tierras-en-el-proyecto-de-propiedad-privada-para-blindar-nid14102026/",
      "domain": "La Nación",
-     "seendate": "20261014T232145Z"
+     "seendate": "20261014T234430Z"
+    },
+    {
+     "title": "Tres desarrolladores crearon un videojuego en Formosa donde el gobernador Gildo Insfrán pelea contra un león con una motosierra",
+     "url": "https://www.lanacion.com.ar/politica/tres-desarrolladores-crearon-un-videojuego-en-formosa-donde-el-gobernador-gildo-insfran-pelea-contra-nid14102026/",
+     "domain": "La Nación",
+     "seendate": "20261014T232543Z"
     },
     {
      "title": "Juicio por la muerte de Diego Maradona: “mataron a un héroe mitológico”, dijo Burlando al pedir la condena de Luque",
      "url": "https://www.lanacion.com.ar/seguridad/juicio-por-la-muerte-de-diego-maradona-mataron-a-un-heroe-mitologico-dijo-burlando-al-pedir-la-nid14102026/",
      "domain": "La Nación",
      "seendate": "20261014T232143Z"
-    },
-    {
-     "title": "Javier Milei y sus medidas, EN VIVO: Santiago Caputo llamó a recuperar Malvinas y advirtió que el Reino Unido está “siendo colonizado por el Islam”",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-gobierno-celebro-el-numero-de-la-inflacion-y-dijo-es-el-camino-nid14102026/",
-     "domain": "La Nación",
-     "seendate": "20261014T231814Z"
     },
     {
      "title": "Thiago Príncipe tiene 14 años, construyó un tractor con piezas recuperadas y ahora quiere automatizarlo: “Sentí la innovación”",
@@ -1244,12 +1298,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/robin-sharma-especialista-en-crecimiento-personal-un-mal-dia-para-el-ego-es-un-buen-dia-para-el-alma-nid11102026/",
      "domain": "La Nación",
      "seendate": "20261014T224600Z"
-    },
-    {
-     "title": "Tres desarrolladores crearon un videojuego en Formosa donde el gobernador Gildo Insfrán pelea contra un león con una motosierra",
-     "url": "https://www.lanacion.com.ar/politica/tres-desarrolladores-crearon-un-videojuego-en-formosa-donde-el-gobernador-gildo-insfran-pelea-contra-nid14102026/",
-     "domain": "La Nación",
-     "seendate": "20261014T224053Z"
     },
     {
      "title": "Marian Rojas Estapé, psiquiatra, sobre la clave de la vida: “Es aprender a renunciar sin culpa, sabiendo elegir lo mejor en cada momento”",
@@ -1322,60 +1370,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/altura-de-los-rios-en-la-argentina-segun-prefectura-esta-es-la-situacion-en-el-parana-hoy-miercoles-nid14102026/",
      "domain": "La Nación",
      "seendate": "20261014T212300Z"
-    },
-    {
-     "title": "Javier Milei vs. Alberto Fernández: según una encuestadora, ambas gestiones provocan el mismo nivel de rechazo",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-vs-alberto-fernandez-segun-una-encuestadora-ambas-gestiones-provocan-el-mismo-nivel-de-nid14102026/",
-     "domain": "La Nación",
-     "seendate": "20261014T210424Z"
-    },
-    {
-     "title": "Un médico explicó en qué consiste la enfermedad que se manifiesta como “un dolor generalizado y fatiga extrema”",
-     "url": "https://www.lanacion.com.ar/sociedad/un-medico-explico-en-que-consiste-la-enfermedad-que-se-manifiesta-como-un-dolor-generalizado-y-nid14102026/",
-     "domain": "La Nación",
-     "seendate": "20261014T210000Z"
-    },
-    {
-     "title": "La Argentina alcanzó una marca inédita en una actividad clave para los medicamentos y tratamientos del futuro",
-     "url": "https://www.lanacion.com.ar/sociedad/la-argentina-alcanzo-una-marca-inedita-en-una-actividad-clave-para-los-medicamentos-y-tratamientos-nid14102026/",
-     "domain": "La Nación",
-     "seendate": "20261014T204510Z"
-    },
-    {
-     "title": "Acusan a un policía de haber recibido un pago para liberar el camino para la fuga de cuatro presos y darles una sierra para cortar las rejas",
-     "url": "https://www.lanacion.com.ar/seguridad/acusan-a-un-policia-de-haber-recibido-un-pago-para-liberar-el-camino-para-la-fuga-de-cuatro-presos-y-nid14102026/",
-     "domain": "La Nación",
-     "seendate": "20261014T204112Z"
-    },
-    {
-     "title": "Ya produce en 18.650 metros cuadrados: una provincia vive una transformación histórica con cultivos sin tierra",
-     "url": "https://www.lanacion.com.ar/economia/campo/ya-produce-en-18650-metros-cuadrados-una-provincia-vive-una-transformacion-historica-con-cultivos-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261014T203812Z"
-    },
-    {
-     "title": "Gabriel Rolón, psicoanalista, sobre los recuerdos: “Nuestros padres que ya no están se transforman en personas por ahí más nobles de lo que fueron”",
-     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-sobre-los-recuerdos-nuestros-padres-que-ya-no-estan-se-transforman-en-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261014T203453Z"
-    },
-    {
-     "title": "Arthur Brooks, experto en felicidad de Harvard: “Hay una inteligencia que nace a partir de los 40 años”",
-     "url": "https://www.lanacion.com.ar/sociedad/arthur-brooks-experto-en-felicidad-de-harvard-hay-una-inteligencia-que-nace-a-partir-de-los-40-anos-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261014T203445Z"
-    },
-    {
-     "title": "Gabriel Rolón, psicoanalista, sobre la búsqueda de bienestar: “A veces uno desea más haber sido feliz que ser feliz”",
-     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-sobre-la-busqueda-de-bienestar-a-veces-uno-desea-mas-haber-sido-feliz-nid08102026/",
-     "domain": "La Nación",
-     "seendate": "20261014T203430Z"
-    },
-    {
-     "title": "Pilar Sordo, psicóloga: “La incomodidad es la única invitación al cambio de prioridades”",
-     "url": "https://www.lanacion.com.ar/sociedad/pilar-sordo-psicologa-la-incomodidad-es-la-unica-invitacion-al-cambio-de-prioridades-nid14102026/",
-     "domain": "La Nación",
-     "seendate": "20261014T203400Z"
     }
    ]
   },
@@ -1414,12 +1408,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/14/pausa-a-nuevas-universidades-la-furibunda-respuesta-del-titular-de-aneaes-al-ministro-de-educacion/",
      "domain": "ABC Color",
      "seendate": "20261014T205203Z"
-    },
-    {
-     "title": "Dr. Bottrell queda prácticamente aislado por la inundación de caminos",
-     "url": "https://www.abc.com.py/nacionales/2026/10/14/dr-bottrell-queda-practicamente-aislado-por-la-inundacion-de-caminos-tras-las-lluvias/",
-     "domain": "ABC Color",
-     "seendate": "20261014T201938Z"
     }
    ]
   },
