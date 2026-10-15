@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T03:03:25+00:00",
+ "updated": "2026-10-15T03:36:26+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -164,6 +164,12 @@
   "MEX": {
    "articles": [
     {
+     "title": "Granizada afecta varias colonias de alcaldía Tlalpan; se registran lluvias intensas con rachas de vientos de hasta 45 km/h",
+     "url": "https://www.eluniversal.com.mx/metropoli/granizada-afecta-varias-colonias-de-alcaldia-tlalpan-se-registran-lluvias-intensas-con-rachas-de-vientos-de-hasta-45-kmh/",
+     "domain": "El Universal",
+     "seendate": "20261015T030622Z"
+    },
+    {
      "title": "¿Qué dice la Ley de Rentas Justas, Razonables y Asequibles que la Jefa de Gobierno envió al Congreso local?; aquí te explicamos",
      "url": "https://www.eluniversal.com.mx/metropoli/que-dice-la-ley-de-rentas-justas-razonables-y-asequibles-que-la-jefa-de-gobierno-envio-al-congreso-local-aqui-te-explicamos/",
      "domain": "El Universal",
@@ -182,7 +188,7 @@
      "seendate": "20261015T023508Z"
     },
     {
-     "title": "Mexicanos Contra la Corrupción exhibe presuntos daños en el Archivo Agrario; trozo de plafón se desprende",
+     "title": "Mexicanos Contra la Corrupción exhibe daños en Archivo Agrario; trozo de plafón se desprende",
      "url": "https://www.eluniversal.com.mx/nacion/mexicanos-contra-la-corrupcion-exhibe-presuntos-danos-en-el-archivo-agrario-trozo-de-techo-se-desprendio/",
      "domain": "El Universal",
      "seendate": "20261015T023105Z"
@@ -402,12 +408,6 @@
      "url": "https://www.eluniversal.com.mx/metropoli/no-estamos-para-aplaudir-por-obligacion-presidenta-del-congreso-a-brugada-tras-segundo-informe-de-gobierno-usted-ha-venido-a-rendir-cuentas-dice/",
      "domain": "El Universal",
      "seendate": "20261014T214218Z"
-    },
-    {
-     "title": "Ante el Senado, canciller Velasco reconoce que México vive tiempos de presión; pide combatirla con serenidad, principios y resultados",
-     "url": "https://www.eluniversal.com.mx/nacion/ante-el-senado-canciller-velasco-reconoce-que-mexico-vive-tiempos-de-presion-pide-combatirla-con-serenidad-principios-y-resultados/",
-     "domain": "El Universal",
-     "seendate": "20261014T214147Z"
     },
     {
      "title": "Asesinan a balazos a exlíder ganadero en Escuinapa, Sinaloa; agresores logran escapar",
@@ -654,19 +654,13 @@
      "url": "https://www.nacion.com/sucesos/imn-anuncia-miercoles-de-tiempo-inestable-estas/AQNRHHNQAJEJLEIZYAYCHL7UKY/story/",
      "domain": "La Nación",
      "seendate": "20261014T123000Z"
-    },
-    {
-     "title": "Jugador del Cartaginés y la Selección Nacional detenido por presuntos vínculos con préstamos gota a gota",
-     "url": "https://www.nacion.com/sucesos/jugador-del-cartagines-y-la-seleccion-nacional/URLCFJW7NVFDPGWP7W7YKOOGOI/story/",
-     "domain": "La Nación",
-     "seendate": "20261014T112448Z"
     }
    ]
   },
   "PAN": {
    "articles": [
     {
-     "title": "Embajada de Estados Unidos niega envío de 600 soldados a Panamá",
+     "title": "La Embajada de Estados Unidos niega que 600 soldados vengan a Panamá",
      "url": "https://www.prensa.com/politica/estados-unidos-inicia-despliegue-de-600-soldados-en-panama-por-campana-antidrogas-segun-new-york-times/",
      "domain": "La Prensa",
      "seendate": "20261015T023500Z"
@@ -778,12 +772,6 @@
      "url": "https://www.prensa.com/politica/reforma-electoral-comision-de-gobierno-descarta-aumentar-multas-a-tesoreros-de-campana/",
      "domain": "La Prensa",
      "seendate": "20261013T050200Z"
-    },
-    {
-     "title": "Panamá confirma 6,174 personas y 1,744 viviendas afectadas por el terremoto",
-     "url": "https://www.prensa.com/politica/panama-confirma-6174-personas-y-1744-viviendas-afectadas-por-el-terremoto/",
-     "domain": "La Prensa",
-     "seendate": "20261013T011030Z"
     },
     {
      "title": "35 escuelas quedaron dañadas por completo; Salud destinará $61 millones para hospitales",
@@ -929,6 +917,18 @@
   "COL": {
    "articles": [
     {
+     "title": "Video | Indignación en Cali por motociclista que atacó con una piedra a un bus del MIO tras intimidar al conductor",
+     "url": "https://www.eltiempo.com/colombia/cali/video-indignacion-en-cali-por-motociclista-que-ataco-con-una-piedra-a-un-bus-del-mio-tras-intimidar-al-conductor-3593659",
+     "domain": "El Tiempo",
+     "seendate": "20261015T032335Z"
+    },
+    {
+     "title": "Atención: un menor de 13 años fue asesinado en El Carmen de Viboral, Antioquia; Gobernación ofreció recompensa de $200 millones por los responsables",
+     "url": "https://www.eltiempo.com/colombia/medellin/atencion-un-menor-de-13-anos-fue-asesinado-en-el-carmen-de-viboral-antioquia-gobernacion-ofrecio-recompensa-de-200-millones-por-los-responsables-3593661",
+     "domain": "El Tiempo",
+     "seendate": "20261015T025518Z"
+    },
+    {
      "title": "El Valle del Cauca pedalea hacia su reactivación: así se prepara el departamento para recibir al Giro de Rigo",
      "url": "https://www.eltiempo.com/colombia/cali/el-valle-del-cauca-pedalea-hacia-su-reactivacion-asi-se-prepara-el-departamento-para-recibir-al-giro-de-rigo-3593646",
      "domain": "El Tiempo",
@@ -975,18 +975,6 @@
      "url": "https://www.eltiempo.com/colombia/barranquilla/ojo-con-los-billetes-falsos-incautan-290-millones-y-un-kilo-de-droga-en-villa-campestre-buscan-a-los-ocupantes-del-apartamento-3593584",
      "domain": "El Tiempo",
      "seendate": "20261014T213000Z"
-    },
-    {
-     "title": "Juan de Acosta, Tubará, Ponedera y otros seis municipios del Atlántico están en brote de dengue: así es la campaña para frenar al mosquito",
-     "url": "https://www.eltiempo.com/colombia/barranquilla/juan-de-acosta-tubara-ponedera-y-otros-seis-municipios-del-atlantico-estan-en-brote-de-dengue-asi-es-la-campana-para-frenar-al-mosquito-3593571",
-     "domain": "El Tiempo",
-     "seendate": "20261014T203322Z"
-    },
-    {
-     "title": "Talento y liderazgo femenino: Cartagena ya tiene gerente para la empresa pública que administrará el Gran Malecón del Mar",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/talento-y-liderazgo-femenino-cartagena-ya-tiene-gerente-para-la-empresa-publica-que-administrara-el-gran-malecon-del-mar-3593558",
-     "domain": "El Tiempo",
-     "seendate": "20261014T200629Z"
     }
    ]
   },
@@ -1129,12 +1117,6 @@
      "seendate": "20261014T173317Z"
     },
     {
-     "title": "IESS invierte más de dos millones de dólares en insumos y medicinas para el hospital de Cuenca",
-     "url": "https://eluniverso.com/comunidad/ecuador/iess-invierte-mas-de-dos-millones-de-dolares-en-insumos-y-medicinas-para-el-hospital-de-cuenca-nota/",
-     "domain": "El Universo",
-     "seendate": "20261014T171506Z"
-    },
-    {
      "title": "Mónica Luzárraga, aspirante a la Alcaldía por la alianza 2-18: ‘¿Cuáles fueron los parámetros para definir que la candidata (de la RC) sea la esposa de Aquiles Alvarez?’",
      "url": "https://eluniverso.com/politica/elecciones/monica-luzarraga-aspirante-a-la-alcaldia-por-la-alianza-2-18-la-rc-debe-explicar-cuales-fueron-los-parametros-para-definir-que-la-candidata-sea-la-esposa-de-aquiles-alvarez-y-no-una-persona-que-aglutine-los-ideales-que-tambien-defienden-ellos-nota/",
      "domain": "El Universo",
@@ -1186,6 +1168,18 @@
   "ARG": {
    "articles": [
     {
+     "title": "Emilio Monzó, sobre Sergio Massa: “Es un dirigente que tiene diálogo y poder para transformar acuerdos en hechos”",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-gobierno-celebro-el-numero-de-la-inflacion-y-dijo-es-el-camino-nid14102026/",
+     "domain": "La Nación",
+     "seendate": "20261015T031351Z"
+    },
+    {
+     "title": "Hay alerta amarilla por tormentas para este jueves 15 de octubre: las provincias afectadas",
+     "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-tormentas-para-este-jueves-15-de-octubre-las-provincias-afectadas-nid15102026/",
+     "domain": "La Nación",
+     "seendate": "20261015T030328Z"
+    },
+    {
      "title": "Arthur Brooks, experto en felicidad de Harvard: “Hay una inteligencia que nace a partir de los 40 años”",
      "url": "https://www.lanacion.com.ar/sociedad/arthur-brooks-experto-en-felicidad-de-harvard-hay-una-inteligencia-que-nace-a-partir-de-los-40-anos-nid11102026/",
      "domain": "La Nación",
@@ -1196,12 +1190,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-sobre-la-busqueda-de-bienestar-a-veces-uno-desea-mas-haber-sido-feliz-nid08102026/",
      "domain": "La Nación",
      "seendate": "20261015T024700Z"
-    },
-    {
-     "title": "Javier Milei y sus medidas, EN VIVO: el Presidente pidió que Trump salga “fortalecido” en las elecciones de Estados Unidos",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-gobierno-celebro-el-numero-de-la-inflacion-y-dijo-es-el-camino-nid14102026/",
-     "domain": "La Nación",
-     "seendate": "20261015T015635Z"
     },
     {
      "title": "Pilar Sordo, psicóloga: “La incomodidad es la única invitación al cambio de prioridades”",
@@ -1274,48 +1262,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/con-pasado-y-amigos-en-la-campora-el-gobierno-cruzo-al-juez-que-lo-multo-por-incumplir-el-nid14102026/",
      "domain": "La Nación",
      "seendate": "20261014T234549Z"
-    },
-    {
-     "title": "Tres desarrolladores crearon un videojuego en Formosa donde el gobernador Gildo Insfrán pelea contra un león con una motosierra",
-     "url": "https://www.lanacion.com.ar/politica/tres-desarrolladores-crearon-un-videojuego-en-formosa-donde-el-gobernador-gildo-insfran-pelea-contra-nid14102026/",
-     "domain": "La Nación",
-     "seendate": "20261014T232543Z"
-    },
-    {
-     "title": "Juicio por la muerte de Diego Maradona: “mataron a un héroe mitológico”, dijo Burlando al pedir la condena de Luque",
-     "url": "https://www.lanacion.com.ar/seguridad/juicio-por-la-muerte-de-diego-maradona-mataron-a-un-heroe-mitologico-dijo-burlando-al-pedir-la-nid14102026/",
-     "domain": "La Nación",
-     "seendate": "20261014T232143Z"
-    },
-    {
-     "title": "Thiago Príncipe tiene 14 años, construyó un tractor con piezas recuperadas y ahora quiere automatizarlo: “Sentí la innovación”",
-     "url": "https://www.lanacion.com.ar/economia/campo/thiago-principe-tiene-14-anos-construyo-un-tractor-con-piezas-recuperadas-y-ahora-quiere-nid14102026/",
-     "domain": "La Nación",
-     "seendate": "20261014T230609Z"
-    },
-    {
-     "title": "Santiago Caputo dijo que la Argentina debe recuperar las Malvinas porque el Reino Unido está “siendo colonizado por el Islam”",
-     "url": "https://www.lanacion.com.ar/politica/santiago-caputo-dijo-que-la-argentina-debe-recuperar-las-malvinas-porque-el-reino-unido-esta-siendo-nid14102026/",
-     "domain": "La Nación",
-     "seendate": "20261014T230425Z"
-    },
-    {
-     "title": "Joseph Pilates, creador del método de entrenamiento: “La respiración es la primera acción que realizamos en la vida, y la última; una respiración vaga e incompleta te acerca a la enfermedad”",
-     "url": "https://www.lanacion.com.ar/sociedad/joseph-pilates-creador-del-metodo-de-entrenamiento-la-respiracion-es-la-primera-accion-que-nid14102026/",
-     "domain": "La Nación",
-     "seendate": "20261014T230000Z"
-    },
-    {
-     "title": "Alejandro López, el juez que absolvió a los gremialistas, llegó al puesto gracias a un acuerdo de la Legislatura y es calificado de “garantista”",
-     "url": "https://www.lanacion.com.ar/politica/alejandro-lopez-el-juez-que-absolvio-a-los-gremialistas-llego-al-puesto-gracias-a-un-acuerdo-de-la-nid14102026/",
-     "domain": "La Nación",
-     "seendate": "20261014T225718Z"
-    },
-    {
-     "title": "Súper Niño 2026: subió a un 75% la probabilidad de que el fenómeno tenga una magnitud histórica, advierte un informe",
-     "url": "https://www.lanacion.com.ar/economia/campo/super-nino-2026-subio-a-un-75-la-probabilidad-de-que-el-fenomeno-tenga-una-magnitud-historica-nid14102026/",
-     "domain": "La Nación",
-     "seendate": "20261014T225608Z"
     }
    ]
   },
@@ -1331,6 +1277,12 @@
   },
   "PRY": {
    "articles": [
+    {
+     "title": "Video: reclaman que EBY frustra viaje deportivo de estudiantes de comunidades carenciadas de San Cosme y Damián",
+     "url": "https://www.abc.com.py/nacionales/2026/10/15/video-reclaman-que-eby-frustra-viaje-deportivo-de-estudiantes-de-comunidades-carenciadas-de-san-cosme-y-damian/",
+     "domain": "ABC Color",
+     "seendate": "20261015T031744Z"
+    },
     {
      "title": "Multitudinaria participación en jornada religiosa por la visita de la Espada de San Miguel en Villarrica",
      "url": "https://www.abc.com.py/nacionales/2026/10/14/multitudinaria-participacion-en-jornada-religiosa-por-la-visita-de-la-espada-de-san-miguel-en-villarrica/",
@@ -1356,6 +1308,12 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "Mendonça paralisa julgamento no TSE após formação de maioria para derrubar sua decisão sobre vídeo de Lula",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/15/mendonca-paralisa-julgamento-no-tse-apos-formacao-de-maioria-para-derrubar-sua-decisao-sobre-video-de-lula.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261015T030000Z"
+    },
     {
      "title": "Alcolumbre anuncia votação da PEC da Segurança no plenário do Senado nesta quinta-feira",
      "url": "https://oglobo.globo.com/politica/noticia/2026/10/14/alcolumbre-anuncia-votacao-da-pec-da-seguranca-no-plenario-do-senado-nesta-quinta-feira.ghtml",
@@ -1481,18 +1439,6 @@
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/14/motta-tenta-conter-pressao-do-pl-e-recebe-sinalizacao-do-centrao-para-reeleicao-no-comando-da-camara.ghtml",
      "domain": "O Globo",
      "seendate": "20261014T202232Z"
-    },
-    {
-     "title": "Governo Lula começa ‘limpa’ em cargos do Centrão no terceiro escalão após adesão a Flávio e erra nome de aliado de Lira",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2024/noticia/2026/10/14/governo-lula-comeca-limpa-em-cargos-do-centrao-no-terceiro-escalao-apos-adesao-a-flavio-mas-erra-nome-de-aliado-de-lira.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261014T193318Z"
-    },
-    {
-     "title": "Alcolumbre afirma que pode terminar de votar fim da escala 6x1 e PEC da Segurança nesta quarta-feira",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/14/alcolumbre-afirma-podera-votar-fim-da-escala-6x1-e-pec-da-seguranca.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261014T191337Z"
     }
    ]
   }
