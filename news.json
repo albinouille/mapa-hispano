@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T05:05:00+00:00",
+ "updated": "2026-10-15T06:02:31+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -16,7 +16,7 @@
      "seendate": "20261015T033001Z"
     },
     {
-     "title": "Las tumbas sin nombre de los migrantes siguen llenando el cementerio musulmán de Ceuta",
+     "title": "Las tumbas sin nombre de los migrantes continúan llenando el cementerio musulmán de Ceuta",
      "url": "https://elpais.com/espana/2026-10-15/las-tumbas-sin-nombre-de-migrantes-siguen-llenando-el-cementerio-musulman-de-ceuta.html",
      "domain": "El País",
      "seendate": "20261015T033001Z"
@@ -278,12 +278,6 @@
      "seendate": "20261015T003137Z"
     },
     {
-     "title": "💸¿En qué consiste la Ley de Economía Digital?; aquí te contamos",
-     "url": "https://www.eluniversal.com.mx/nacion/en-que-consiste-la-ley-de-economia-digital-aqui-te-contamos/",
-     "domain": "El Universal",
-     "seendate": "20261015T002912Z"
-    },
-    {
      "title": "Ataques armados dejan 8 muertos en tres municipios de Guanajuato; reportan un hombre privado de la libertad",
      "url": "https://www.eluniversal.com.mx/estados/ataques-armados-dejan-8-muertos-en-tres-municipios-de-guanajuato-reportan-un-hombre-privado-de-la-libertad/",
      "domain": "El Universal",
@@ -488,6 +482,12 @@
   "CRI": {
    "articles": [
     {
+     "title": "IMN pronostica aguaceros y tormentas eléctricas para este jueves 15 de octubre: estas serán las zonas más afectadas",
+     "url": "https://www.nacion.com/sucesos/imn-pronostica-aguaceros-y-tormentas-electricas/3EXOWZFA5VDYLPRPYXL5CZHGUI/story/",
+     "domain": "La Nación",
+     "seendate": "20261015T050114Z"
+    },
+    {
      "title": "Remate del redondel de Zapote estará bajo vigilancia tras dos intentos fallidos y visita de extraditable",
      "url": "https://www.nacion.com/el-pais/remate-del-redondel-de-zapote-estara-bajo/BRFD6NLAWVC43DXXITVVGWU3KQ/story/",
      "domain": "La Nación",
@@ -642,22 +642,28 @@
   "PAN": {
    "articles": [
     {
-     "title": "Terremoto en Panamá: quién controlará los fondos públicos y las donaciones privadas",
-     "url": "https://www.prensa.com/politica/terremoto-en-panama-quien-controlara-los-fondos-publicos-y-las-donaciones-privadas/",
-     "domain": "La Prensa",
-     "seendate": "20261015T050152Z"
-    },
-    {
      "title": "Cuando el paraíso tembló: Torio y Quebro afrontan el reto de reconstruir sus vidas y el turismo",
      "url": "https://www.prensa.com/politica/cuando-el-paraiso-temblo-torio-y-quebro-afrontan-el-reto-de-reconstruir-sus-vidas-y-el-turismo/",
      "domain": "La Prensa",
-     "seendate": "20261015T050152Z"
+     "seendate": "20261015T050800Z"
+    },
+    {
+     "title": "Terremoto en Panamá: quién controlará los fondos públicos y las donaciones privadas",
+     "url": "https://www.prensa.com/politica/terremoto-en-panama-quien-controlara-los-fondos-publicos-y-las-donaciones-privadas/",
+     "domain": "La Prensa",
+     "seendate": "20261015T050300Z"
     },
     {
      "title": "¿Hasta cuándo seguirán las réplicas en Panamá?",
      "url": "https://www.prensa.com/sociedad/por-que-sigue-temblando-en-panama-experto-explica-cuanto-pueden-durar-las-replicas-del-terremoto/",
      "domain": "La Prensa",
      "seendate": "20261015T050100Z"
+    },
+    {
+     "title": "Minsa detecta 34 casos de malaria en trabajadores informales en los alrededores de Merca Panamá",
+     "url": "https://www.prensa.com/sociedad/minsa-detecta-34-casos-de-malaria-en-trabajadores-informales-en-los-alrededores-de-merca-panama/",
+     "domain": "La Prensa",
+     "seendate": "20261015T042500Z"
     },
     {
      "title": "Sinaproc reporta más de 13 mil personas afectadas por el terremoto",
@@ -670,12 +676,6 @@
      "url": "https://www.prensa.com/sociedad/clases-siguen-suspendidas-en-escuelas-oficiales-hasta-que-meduca-autorice-el-regreso/",
      "domain": "La Prensa",
      "seendate": "20261015T034500Z"
-    },
-    {
-     "title": "Minsa detecta 34 casos de malaria en trabajadores informales en los alrededores de Merca Panamá",
-     "url": "https://www.prensa.com/sociedad/minsa-detecta-34-casos-de-malaria-en-trabajadores-informales-en-los-alrededores-de-merca-panama/",
-     "domain": "La Prensa",
-     "seendate": "20261015T032733Z"
     },
     {
      "title": "La Embajada de Estados Unidos niega que 600 soldados vengan a Panamá",
@@ -917,6 +917,12 @@
   "COL": {
    "articles": [
     {
+     "title": "Asesinan con arma de fuego a Diego Acevedo Garzón, funcionario del Inpec en Girón, Santander: investigan posibles amenazas previas al ataque",
+     "url": "https://www.eltiempo.com/colombia/santander/asesinan-con-arma-de-fuego-a-diego-acevedo-garzon-funcionario-del-inpec-en-giron-santander-investigan-posibles-amenazas-previas-al-ataque-3593666",
+     "domain": "El Tiempo",
+     "seendate": "20261015T054053Z"
+    },
+    {
      "title": "'Borondo por Cali': la estrategia popular que renace como política pública de reactivación tras el terremoto",
      "url": "https://www.eltiempo.com/colombia/cali/borondo-por-cali-la-estrategia-popular-que-renace-como-politica-publica-de-reactivacion-tras-el-terremoto-3593667",
      "domain": "El Tiempo",
@@ -969,12 +975,6 @@
      "url": "https://www.eltiempo.com/colombia/cali/dos-menores-de-edad-se-entregaron-al-ejercito-en-narino-tras-escapar-de-las-disidencias-de-las-farc-3593597",
      "domain": "El Tiempo",
      "seendate": "20261014T213956Z"
-    },
-    {
-     "title": "¡Ojo con los billetes falsos! Incautan $290 millones y un kilo de droga en Villa Campestre; buscan a los ocupantes del apartamento",
-     "url": "https://www.eltiempo.com/colombia/barranquilla/ojo-con-los-billetes-falsos-incautan-290-millones-y-un-kilo-de-droga-en-villa-campestre-buscan-a-los-ocupantes-del-apartamento-3593584",
-     "domain": "El Tiempo",
-     "seendate": "20261014T213000Z"
     }
    ]
   },
@@ -1129,12 +1129,6 @@
      "seendate": "20261014T130000Z"
     },
     {
-     "title": "Cuatro emprendimientos podrán vender sus productos en centro comercial de Quito: la convocatoria abre pronto",
-     "url": "https://eluniverso.com/comunidad/ecuador/cuatro-emprendimientos-podran-vender-sus-productos-en-centro-comercial-de-quito-la-convocatoria-abre-pronto-nota/",
-     "domain": "El Universo",
-     "seendate": "20261013T211331Z"
-    },
-    {
      "title": "Francisco Macio, candidato a la Alcaldía de Guayaquil por la lista 1: “Somos una propuesta de diálogo donde no prime el egoísmo, sino el bien común”",
      "url": "https://eluniverso.com/politica/elecciones/francisco-macio-candidato-a-la-alcaldia-de-guayaquil-por-la-lista-1-somos-una-propuesta-de-dialogo-donde-no-prime-el-egoismo-sino-el-bien-comun-nota/",
      "domain": "El Universo",
@@ -1145,16 +1139,16 @@
   "PER": {
    "articles": [
     {
+     "title": "¿Dónde fue? Temblor en Perú hoy, 15 de octubre: Reportes del IGP, lugar exacto y magnitud",
+     "url": "https://elcomercio.pe/peru/temblor-en-peru-hoy-donde-fue-el-epicentro-y-magnitud-segun-reportes-del-igp-tdpe-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261015T052727Z"
+    },
+    {
      "title": "Elmer Cuba: “Tenemos un Ministerio de Economía que va a responder para que la economía no se enfríe”",
      "url": "https://elcomercio.pe/economia/peru/elmer-cuba-tenemos-un-ministerio-de-economia-que-va-a-responder-para-que-la-economia-no-se-enfrie-noticia/",
      "domain": "El Comercio",
      "seendate": "20261015T025920Z"
-    },
-    {
-     "title": "¿Dónde fue? Temblor en Chosica hoy, 14 de octubre: Reportes del IGP, lugar exacto y magnitud",
-     "url": "https://elcomercio.pe/peru/temblor-en-peru-hoy-donde-fue-el-epicentro-y-magnitud-segun-reportes-del-igp-tdpe-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261015T023045Z"
     }
    ]
   },
@@ -1173,6 +1167,30 @@
   },
   "ARG": {
    "articles": [
+    {
+     "title": "Javier Milei y sus medidas, EN VIVO: el Presidente pidió que Trump salga “fortalecido” en las elecciones de Estados Unidos",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-pidio-que-trump-salga-fortalecido-en-las-elecciones-nid15102026/",
+     "domain": "La Nación",
+     "seendate": "20261015T055004Z"
+    },
+    {
+     "title": "Solo 19 de cada 100 adolescentes argentinos de 15 años cursan la escuela en el año adecuado y con los aprendizajes esperados",
+     "url": "https://www.lanacion.com.ar/sociedad/solo-19-de-cada-100-adolescentes-argentinos-de-15-anos-cursan-la-escuela-en-el-ano-adecuado-y-con-nid15102026/",
+     "domain": "La Nación",
+     "seendate": "20261015T051721Z"
+    },
+    {
+     "title": "Cita del día, Winston Churchill, político: “El éxito no es definitivo, el fracaso no es fatal: lo que cuenta es el coraje para continuar”",
+     "url": "https://www.lanacion.com.ar/sociedad/cita-del-dia-winston-churchill-politico-el-exito-no-es-definitivo-el-fracaso-no-es-fatal-lo-que-nid15102026/",
+     "domain": "La Nación",
+     "seendate": "20261015T050000Z"
+    },
+    {
+     "title": "Gabriel Rolón: “Siempre habrá una ausencia que se siente a tu lado y te emocione”",
+     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-siempre-habra-una-ausencia-que-se-siente-a-tu-lado-y-te-emocione-nid15102026/",
+     "domain": "La Nación",
+     "seendate": "20261015T050000Z"
+    },
     {
      "title": "Reabren las Cataratas del Iguazú y este jueves se habilitará el circuito inferior",
      "url": "https://www.lanacion.com.ar/sociedad/reabren-las-cataratas-del-iguazu-y-este-jueves-se-habilitara-el-circuito-inferior-nid15102026/",
