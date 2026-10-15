@@ -1,13 +1,31 @@
 {
- "updated": "2026-10-15T06:43:12+00:00",
+ "updated": "2026-10-15T07:41:47+00:00",
  "countries": {
   "ESP": {
    "articles": [
+    {
+     "title": "Muere una mujer de 82 años tras desplomarse un ascensor en una residencia de mayores de Vélez-Málaga",
+     "url": "https://elpais.com/espana/2026-10-15/muere-una-mujer-de-82-anos-tras-desplomarse-un-ascensor-en-una-residencia-de-mayores-de-velez-malaga.html",
+     "domain": "El País",
+     "seendate": "20261015T065646Z"
+    },
+    {
+     "title": "Podemos y los partidos del Frente Amplio ultiman los acuerdos territoriales para el 29-N fuera de Madrid y Barcelona",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-10-15/podemos-y-los-partidos-del-frente-amplio-avanzan-en-los-acuerdos-territoriales-para-el-29-n.html",
+     "domain": "El País",
+     "seendate": "20261015T065313Z"
+    },
     {
      "title": "El BOE publica la decisión del Supremo de suspender el derecho a voto de los nacionalizados por la ‘ley de nietos’",
      "url": "https://elpais.com/espana/elecciones-generales/2026-10-15/el-boe-publica-la-decision-del-supremo-de-suspender-el-derecho-a-voto-de-los-nacionalizados-por-la-ley-de-nietos.html",
      "domain": "El País",
      "seendate": "20261015T061902Z"
+    },
+    {
+     "title": "Tensión en Compromís por la cabeza de lista por Valencia para las elecciones del 29-N",
+     "url": "https://elpais.com/espana/comunidad-valenciana/2026-10-15/tension-en-compromis-por-la-cabeza-de-lista-por-valencia-para-las-elecciones-del-29-n.html",
+     "domain": "El País",
+     "seendate": "20261015T043054Z"
     },
     {
      "title": "Por qué tantos sociólogos no se creen la encuesta del CIS: el sesgo en la muestra contamina las encuestas",
@@ -106,12 +124,6 @@
      "seendate": "20261014T114853Z"
     },
     {
-     "title": "El Ejército de Tierra investiga a los legionarios que vitorearon a Vito Quiles cuando gritó: “¡A por los rojos!”",
-     "url": "https://elpais.com/espana/2026-10-14/el-ejercito-de-tierra-investiga-a-los-legionarios-que-vitorearon-a-vito-quiles-cuando-grito-a-los-rojos.html",
-     "domain": "El País",
-     "seendate": "20261014T100311Z"
-    },
-    {
      "title": "Un recorrido por el Nápoles de Sorrentino y los rincones de la antigua y magnética Parthenope que llevó al cine",
      "url": "https://elpais.com/elviajero/escapadas/espana/2026-10-13/un-recorrido-por-el-napoles-de-sorrentino-y-los-rincones-de-la-antigua-y-magnetica-parthenope-que-llevo-al-cine.html",
      "domain": "El País",
@@ -127,6 +139,12 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Diputados aprueban en lo particular Ley Federal de Ingresos; incluye reserva para que grandes empresas deudoras, paguen",
+     "url": "https://www.eluniversal.com.mx/nacion/diputados-aprueban-en-lo-particular-ley-federal-de-ingresos-incluye-reserva-para-que-grandes-empresas-deudoras-paguen/",
+     "domain": "El Universal",
+     "seendate": "20261015T071933Z"
+    },
     {
      "title": "ONU exige investigación del uso de la fuerza en manifestación de Jalisco; comparte los estándares internacionales",
      "url": "https://www.eluniversal.com.mx/nacion/onu-exige-investigacion-del-uso-de-la-fuerza-en-manifestacion-de-jalisco-comparte-los-estandares-internacionales/",
@@ -308,12 +326,6 @@
      "seendate": "20261014T235214Z"
     },
     {
-     "title": "Artesanos y comerciantes exigen reabrir parador de Chichén Itzá, Yucatán; reportan caída de ventas del 80%",
-     "url": "https://www.eluniversal.com.mx/estados/artesanos-y-comerciantes-exigen-reabrir-parador-de-chichen-itza-yucatan-reportan-caida-de-ventas-del-80/",
-     "domain": "El Universal",
-     "seendate": "20261014T233609Z"
-    },
-    {
      "title": "Trabajadores del IMSS realizan nueva jornada de protestas en distintos estados; votan consulta salarial",
      "url": "https://www.eluniversal.com.mx/estados/trabajadores-del-imss-realizan-nueva-jornada-de-protestas-en-distintos-estados-votan-consulta-salarial/",
      "domain": "El Universal",
@@ -427,6 +439,12 @@
   },
   "CRI": {
    "articles": [
+    {
+     "title": "Detenido por Caso Éxodo metió $18 millones en oro y plata a EE. UU. dentro de equipajes en vuelos comerciales desde Costa Rica",
+     "url": "https://www.nacion.com/sucesos/detenido-por-caso-exodo-metio-18-millones-en-oro-y/67TCF7JPTNF2JFQ4X777NLYUJY/story/",
+     "domain": "La Nación",
+     "seendate": "20261015T070000Z"
+    },
     {
      "title": "IMN pronostica aguaceros y tormentas eléctricas para este jueves 15 de octubre: estas serán las zonas más afectadas",
      "url": "https://www.nacion.com/sucesos/imn-pronostica-aguaceros-y-tormentas-electricas/3EXOWZFA5VDYLPRPYXL5CZHGUI/story/",
@@ -863,6 +881,30 @@
   "COL": {
    "articles": [
     {
+     "title": "Pico y placa en Bucaramanga para el jueves 15 de octubre de 2026: estas son las placas que no podrán circular",
+     "url": "https://www.eltiempo.com/colombia/santander/pico-y-placa-en-bucaramanga-para-el-jueves-15-de-octubre-de-2026-estas-son-las-placas-que-no-podran-circular-3593540",
+     "domain": "El Tiempo",
+     "seendate": "20261015T073000Z"
+    },
+    {
+     "title": "Pico y placa en Pereira para el jueves 15 de octubre de 2026: estos son los carros y motos que tendrán restricción",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/pico-y-placa-en-pereira-para-el-jueves-15-de-octubre-de-2026-estos-son-los-carros-y-motos-que-tendran-restriccion-3593533",
+     "domain": "El Tiempo",
+     "seendate": "20261015T073000Z"
+    },
+    {
+     "title": "¡Evite multas! Pico y placa en Cali para el jueves 15 de octubre de 2026: estas placas tendrán restricción",
+     "url": "https://www.eltiempo.com/colombia/cali/evite-multas-pico-y-placa-en-cali-para-el-jueves-15-de-octubre-de-2026-estas-placas-tendran-restriccion-3593531",
+     "domain": "El Tiempo",
+     "seendate": "20261015T073000Z"
+    },
+    {
+     "title": "Pico y placa en Medellín para el jueves 15 de octubre de 2026: estos son los carros, motos y taxis que no podrán circular",
+     "url": "https://www.eltiempo.com/colombia/medellin/pico-y-placa-en-medellin-para-el-jueves-15-de-octubre-de-2026-estos-son-los-carros-motos-y-taxis-que-no-podran-circular-3593502",
+     "domain": "El Tiempo",
+     "seendate": "20261015T073000Z"
+    },
+    {
      "title": "Asesinan con arma de fuego a Diego Acevedo Garzón, funcionario del Inpec en Girón, Santander: investigan posibles amenazas previas al ataque",
      "url": "https://www.eltiempo.com/colombia/santander/asesinan-con-arma-de-fuego-a-diego-acevedo-garzon-funcionario-del-inpec-en-giron-santander-investigan-posibles-amenazas-previas-al-ataque-3593666",
      "domain": "El Tiempo",
@@ -897,30 +939,6 @@
      "url": "https://www.eltiempo.com/colombia/cali/el-valle-del-cauca-pedalea-hacia-su-reactivacion-asi-se-prepara-el-departamento-para-recibir-al-giro-de-rigo-3593646",
      "domain": "El Tiempo",
      "seendate": "20261015T012302Z"
-    },
-    {
-     "title": "Terror en Palmira: así funcionaba 'los Sayayines', la banda que atracaba de noche a civiles, policías y funcionarios de la UNP",
-     "url": "https://www.eltiempo.com/colombia/cali/terror-en-palmira-asi-funcionaba-los-sayayines-la-banda-que-atracaba-de-noche-a-civiles-policias-y-funcionarios-de-la-unp-3593624",
-     "domain": "El Tiempo",
-     "seendate": "20261014T232150Z"
-    },
-    {
-     "title": "Remodelaron la parroquia Nuestra Señora La Virgen de la Peña, ubicada en un corregimiento de Yopal",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/remodelaron-la-parroquia-nuestra-senora-la-virgen-de-la-pena-ubicada-en-un-corregimiento-de-yopal-3593612",
-     "domain": "El Tiempo",
-     "seendate": "20261014T230241Z"
-    },
-    {
-     "title": "Desmanes y detonaciones de papas bomba alteran la tranquilidad en el centro de Popayán tras jornada de movilización",
-     "url": "https://www.eltiempo.com/colombia/cali/desmanes-y-detonaciones-de-papas-bomba-alteran-la-tranquilidad-en-el-centro-de-popayan-tras-jornada-de-movilizacion-3593602",
-     "domain": "El Tiempo",
-     "seendate": "20261014T221554Z"
-    },
-    {
-     "title": "Dos menores de edad se entregaron al Ejército en Nariño tras escapar de las disidencias de las Farc",
-     "url": "https://www.eltiempo.com/colombia/cali/dos-menores-de-edad-se-entregaron-al-ejercito-en-narino-tras-escapar-de-las-disidencias-de-las-farc-3593597",
-     "domain": "El Tiempo",
-     "seendate": "20261014T213956Z"
     }
    ]
   },
@@ -1063,12 +1081,6 @@
      "seendate": "20261014T182503Z"
     },
     {
-     "title": "Dos helicópteros Black Hawk de EE. UU. mantienen operaciones en Ecuador en acciones contra el narcotráfico",
-     "url": "https://eluniverso.com/politica/seguridad/dos-helicopteros-black-hawk-de-ee-uu-mantienen-operaciones-en-ecuador-en-acciones-contra-el-narcotrafico-nota/",
-     "domain": "El Universo",
-     "seendate": "20261014T182036Z"
-    },
-    {
      "title": "Mónica Luzárraga, aspirante a la Alcaldía por la alianza 2-18: ‘¿Cuáles fueron los parámetros para definir que la candidata (de la RC) sea la esposa de Aquiles Alvarez?’",
      "url": "https://eluniverso.com/politica/elecciones/monica-luzarraga-aspirante-a-la-alcaldia-por-la-alianza-2-18-la-rc-debe-explicar-cuales-fueron-los-parametros-para-definir-que-la-candidata-sea-la-esposa-de-aquiles-alvarez-y-no-una-persona-que-aglutine-los-ideales-que-tambien-defienden-ellos-nota/",
      "domain": "El Universo",
@@ -1114,10 +1126,16 @@
   "ARG": {
    "articles": [
     {
+     "title": "El sastre del Papa: quién es Tomás Valentín Gómez, el argentino que confeccionó la vestimenta de León XIV",
+     "url": "https://www.lanacion.com.ar/sociedad/el-sastre-del-papa-quien-es-tomas-valentin-gomez-el-argentino-que-confecciono-la-vestimenta-de-leon-nid15102026/",
+     "domain": "La Nación",
+     "seendate": "20261015T070000Z"
+    },
+    {
      "title": "Javier Milei y sus medidas, EN VIVO: el Presidente pidió que Trump salga “fortalecido” en las elecciones de Estados Unidos",
      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-pidio-que-trump-salga-fortalecido-en-las-elecciones-nid15102026/",
      "domain": "La Nación",
-     "seendate": "20261015T061915Z"
+     "seendate": "20261015T065138Z"
     },
     {
      "title": "Jorge Macri reconoció que mantiene “diferencias de gestión” con su primo Mauricio sobre la ciudad de Buenos Aires",
@@ -1208,30 +1226,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/arthur-brooks-experto-de-harvard-de-62-anos-lo-que-hacen-las-personas-felices-y-exitosas-en-la-nid08102026/",
      "domain": "La Nación",
      "seendate": "20261015T004100Z"
-    },
-    {
-     "title": "Toma del Lengüitas: alumnos en Francia o en fiestas religiosas, algunas de las razones para rechazar el reclamo de la Ciudad",
-     "url": "https://www.lanacion.com.ar/sociedad/toma-del-lenguitas-alumnos-en-francia-o-en-fiestas-religiosas-algunas-de-las-razones-para-rechazar-nid14102026/",
-     "domain": "La Nación",
-     "seendate": "20261015T000602Z"
-    },
-    {
-     "title": "El Gobierno repone los límites a la venta de tierras para contener a sus aliados y desactivar la sesión opositora",
-     "url": "https://www.lanacion.com.ar/politica/el-gobierno-incluyo-un-capitulo-de-ley-de-tierras-en-el-proyecto-de-propiedad-privada-para-blindar-nid14102026/",
-     "domain": "La Nación",
-     "seendate": "20261014T235941Z"
-    },
-    {
-     "title": "Milei le dio un fuerte respaldo a Trump de cara a las elecciones de medio término",
-     "url": "https://www.lanacion.com.ar/politica/milei-le-dio-un-fuerte-respaldo-a-trump-de-cara-a-las-elecciones-de-medio-termino-nid14102026/",
-     "domain": "La Nación",
-     "seendate": "20261014T235730Z"
-    },
-    {
-     "title": "Gabriel Rolón, psicoanalista, sobre los recuerdos: “Nuestros padres que ya no están se transforman en personas por ahí más nobles de lo que fueron”",
-     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-sobre-los-recuerdos-nuestros-padres-que-ya-no-estan-se-transforman-en-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261014T234800Z"
     }
    ]
   },
