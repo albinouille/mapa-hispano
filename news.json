@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T01:32:56+00:00",
+ "updated": "2026-10-15T02:06:49+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -164,7 +164,19 @@
   "MEX": {
    "articles": [
     {
-     "title": "Habemus nuevo campus de la UNAM en oriente de CDMX; Medicina, Ciencia de Datos y Nanotecnología, las nuevas carreras",
+     "title": "México integra grupo técnico internacional contra gusano barrenador; busca fortalecer vigilancia y capacitación",
+     "url": "https://www.eluniversal.com.mx/nacion/mexico-integra-grupo-tecnico-contra-gusano-barrenador-busca-fortalecer-vigilancia-y-capacitacion/",
+     "domain": "El Universal",
+     "seendate": "20261015T014518Z"
+    },
+    {
+     "title": "Cateo en departamento de colonia Juárez deja tres detenidos; agentes se retiran con al menos cuatro bolsas de objetos asegurados",
+     "url": "https://www.eluniversal.com.mx/metropoli/cateo-en-departamento-de-colonia-juarez-deja-tres-detenidos-agentes-se-retiran-con-al-menos-cuatro-bolsas-de-objetos-asegurados/",
+     "domain": "El Universal",
+     "seendate": "20261015T012746Z"
+    },
+    {
+     "title": "Habemus nuevo campus de la UNAM en oriente de CDMX; Medicina, Ciencia de Datos y Nanotecnología, las carreras a impartir",
      "url": "https://www.eluniversal.com.mx/nacion/habemus-nuevo-campus-de-la-unam-en-oriente-de-cdmx-medicina-ciencia-de-datos-y-nanotecnologia-las-nuevas-carreras/",
      "domain": "El Universal",
      "seendate": "20261015T011537Z"
@@ -378,18 +390,6 @@
      "url": "https://www.eluniversal.com.mx/estados/asesinan-a-balazos-a-exlider-ganadero-en-escuinapa-sinaloa-atacantes-logran-escapar/",
      "domain": "El Universal",
      "seendate": "20261014T210256Z"
-    },
-    {
-     "title": "Altos Hornos de México y Minera del Norte enfrenta otra subasta desierta; postores no depositan garantía de más de 56 mdp",
-     "url": "https://www.eluniversal.com.mx/estados/altos-hornos-de-mexico-y-minera-del-norte-enfrenta-otra-subasta-desierta-postores-no-depositaron-garantia-de-mas-de-56-mdp/",
-     "domain": "El Universal",
-     "seendate": "20261014T204919Z"
-    },
-    {
-     "title": "Ken Salazar reacciona a dichos de AMLO sobre embajadores de EU; \"es importante entender la historia de ambos países\"",
-     "url": "https://www.eluniversal.com.mx/nacion/ken-salazar-reacciona-a-dichos-de-amlo-sobre-embajadores-de-eu-es-importante-entender-la-historia-de-ambos-paises/",
-     "domain": "El Universal",
-     "seendate": "20261014T204013Z"
     },
     {
      "title": "Sindicalizados del IMSS exigen conteo de votos de consulta salarial frente a ellos; piden transparencia en el proceso",
@@ -648,18 +648,6 @@
      "url": "https://www.nacion.com/sucesos/cacco-asi-es-la-nueva-carcel-de-costa-rica/YAC67NFUG5DLLBM5MCF5ZINTQA/story/",
      "domain": "La Nación",
      "seendate": "20261014T103000Z"
-    },
-    {
-     "title": "Opositor nicaragüense recibió cuatro disparos en San José: ‘No me van a silenciar’",
-     "url": "https://www.nacion.com/sucesos/opositor-nicaraguense-recibio-cuatro-disparos-en/LSGKGW5KIVHDJJQ4JXHW3DIIYI/story/",
-     "domain": "La Nación",
-     "seendate": "20261014T094500Z"
-    },
-    {
-     "title": "Periodistas denuncian amenazas, persecución y vigilancias en Costa Rica",
-     "url": "https://www.nacion.com/sucesos/periodistas-denuncian-amenazas-persecucion-y/5SKX3KJG55GBFIACMANOCCKNMA/story/",
-     "domain": "La Nación",
-     "seendate": "20261014T090000Z"
     }
    ]
   },
@@ -1015,7 +1003,7 @@
   "ECU": {
    "articles": [
     {
-     "title": "John Reimberg anuncia que Daniel Salcedo y Ronald Herrera serán extraditados a EE.UU el 29 de octubre",
+     "title": "John Reimberg anuncia que Daniel Salcedo y Ronald Herrera serán extraditados a EE. UU. el 29 de octubre",
      "url": "https://eluniverso.com/politica/seguridad/john-reimberg-anuncia-que-daniel-salcedo-y-ronald-herrera-seran-extraditados-a-eeuu-el-29-de-octubre-nota/",
      "domain": "El Universo",
      "seendate": "20261015T005152Z"
@@ -1165,12 +1153,6 @@
      "seendate": "20261014T122650Z"
     },
     {
-     "title": "Sismo de magnitud 3,5 se registró cerca de Playas la madrugada de este 14 de octubre",
-     "url": "https://eluniverso.com/comunidad/ecuador/sismo-de-magnitud-35-se-registro-cerca-de-playas-la-madrugada-de-este-14-de-octubre-nota/",
-     "domain": "El Universo",
-     "seendate": "20261014T120213Z"
-    },
-    {
      "title": "Cuatro emprendimientos podrán vender sus productos en centro comercial de Quito: la convocatoria abre pronto",
      "url": "https://eluniverso.com/comunidad/ecuador/cuatro-emprendimientos-podran-vender-sus-productos-en-centro-comercial-de-quito-la-convocatoria-abre-pronto-nota/",
      "domain": "El Universo",
@@ -1207,7 +1189,13 @@
      "title": "Javier Milei y sus medidas, EN VIVO: el Presidente pidió que Trump salga “fortalecido” en las elecciones de Estados Unidos",
      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-gobierno-celebro-el-numero-de-la-inflacion-y-dijo-es-el-camino-nid14102026/",
      "domain": "La Nación",
-     "seendate": "20261015T010932Z"
+     "seendate": "20261015T015635Z"
+    },
+    {
+     "title": "Pilar Sordo, psicóloga: “La incomodidad es la única invitación al cambio de prioridades”",
+     "url": "https://www.lanacion.com.ar/sociedad/pilar-sordo-psicologa-la-incomodidad-es-la-unica-invitacion-al-cambio-de-prioridades-nid14102026/",
+     "domain": "La Nación",
+     "seendate": "20261015T014600Z"
     },
     {
      "title": "Gabriel Rolón: “La esperanza puede dejarnos incapacitados a la espera de que ocurran cosas”",
@@ -1352,24 +1340,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/por-la-crecida-del-rio-cortaron-dos-puentes-sobre-la-ruta-nacional-12-iguazu-y-el-alto-parana-nid14102026/",
      "domain": "La Nación",
      "seendate": "20261014T220031Z"
-    },
-    {
-     "title": "Desarrollan tecnología en la Argentina, tienen a Estados Unidos como principal mercado y buscan liderar un negocio en todo el mundo",
-     "url": "https://www.lanacion.com.ar/economia/campo/desarrollan-tecnologia-en-la-argentina-tienen-a-estados-unidos-como-principal-mercado-y-buscan-nid14102026/",
-     "domain": "La Nación",
-     "seendate": "20261014T215449Z"
-    },
-    {
-     "title": "El femicidio de Agostina Vega: Claudio Barrelier será indagado por los videos y fotos pornográficos que guardaba en su celular",
-     "url": "https://www.lanacion.com.ar/seguridad/el-femicidio-de-agostina-vega-claudio-barrelier-sera-indagado-por-los-videos-y-fotos-pornograficos-nid14102026/",
-     "domain": "La Nación",
-     "seendate": "20261014T215225Z"
-    },
-    {
-     "title": "Avanza el “bloqueo atmosférico” que extenderá el mal tiempo y provocará chaparrones y tormentas intensas: las zonas afectadas",
-     "url": "https://www.lanacion.com.ar/sociedad/avanza-el-bloqueo-atmosferico-que-extendera-el-mal-tiempo-y-provocara-chaparrones-y-tormentas-nid14102026/",
-     "domain": "La Nación",
-     "seendate": "20261014T214800Z"
     }
    ]
   },
@@ -1386,16 +1356,16 @@
   "PRY": {
    "articles": [
     {
-     "title": "Paraguarí: preparan feria y charla por el “Día de la Alimentación”",
-     "url": "https://www.abc.com.py/nacionales/2026/10/14/paraguari-preparan-feria-y-charla-por-el-dia-de-la-alimentacion/",
+     "title": "Multitudinaria participación en jornada religiosa por la visita de la Espada de San Miguel en Villarrica",
+     "url": "https://www.abc.com.py/nacionales/2026/10/14/multitudinaria-participacion-en-jornada-religiosa-por-la-visita-de-la-espada-de-san-miguel-en-villarrica/",
      "domain": "ABC Color",
-     "seendate": "20261014T212854Z"
+     "seendate": "20261015T015959Z"
     },
     {
-     "title": "Dos escuelas de Caacupé suspenden las clases presenciales por meningitis",
-     "url": "https://www.abc.com.py/nacionales/2026/10/14/dos-escuelas-de-caacupe-suspenden-las-clases-presenciales-por-meningitis/",
+     "title": "Bella Vista Norte: evacuan a familias afectadas por crecida del río Apa",
+     "url": "https://www.abc.com.py/nacionales/2026/10/14/bella-vista-norte-evacuan-a-familias-afectadas-por-crecida-del-rio-apa/",
      "domain": "ABC Color",
-     "seendate": "20261014T212230Z"
+     "seendate": "20261015T013536Z"
     },
     {
      "title": "Pausa a nuevas universidades: La furibunda respuesta del titular de Aneaes al ministro de Educación",
@@ -1410,6 +1380,54 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "Alcolumbre anuncia votação da PEC da Segurança no plenário do Senado nesta quinta-feira",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/14/alcolumbre-anuncia-votacao-da-pec-da-seguranca-no-plenario-do-senado-nesta-quinta-feira.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261015T011729Z"
+    },
+    {
+     "title": "Ex-vice de Bolsonaro, Mourão dá o único voto contra o fim da escala 6x1 no Senado",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/14/ex-vice-de-bolsonaro-mourao-da-o-unico-voto-contra-o-fim-da-escala-6x1-no-senado.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261015T010812Z"
+    },
+    {
+     "title": "Lula celebra fim da escala 6 por 1, bandeira de campanha: 'Dia de comemorar uma conquista histórica'",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/14/lula-comemora-fim-da-escala-6-por-1-bandeira-de-campanha-dia-de-comemorar-uma-conquista-historica.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261015T010453Z"
+    },
+    {
+     "title": "Quaest: colunistas do GLOBO analisam primeira pesquisa do instituto no segundo turno entre Flávio e Lula",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/ao-vivo/quaest-colunistas-do-globo-analisam-primeira-pesquisa-do-instituto-no-segundo-turno-entre-flavio-e-lula.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261015T005436Z"
+    },
+    {
+     "title": "Flávio vota a favor do fim da escala 6x1 após meses de críticas, pressão e recuo na reta final da eleição",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/14/flavio-vota-a-favor-do-fim-da-escala-6x1-apos-meses-de-criticas-pressao-e-recuo-na-reta-final-da-eleicao.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261015T005204Z"
+    },
+    {
+     "title": "Escala 6x1: saiba quem votou a favor e contra no Senado",
+     "url": "https://oglobo.globo.com/politica/especial/escala-6x1-saiba-quem-votou-a-favor-e-contra-no-senado.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261015T005020Z"
+    },
+    {
+     "title": "Nunes Marques recua e derruba prazo de 48 horas para retorno de canal pró-Lula no WhatsApp",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/14/nunes-marques-recua-e-derruba-prazo-de-48-horas-para-retorno-de-canal-pro-lula-no-whatsapp.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261015T003427Z"
+    },
+    {
+     "title": "Campanhas de Lula e Flávio citam disputa acirrada para explicar Quaest e projetam debates como decisivos",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/14/campanhas-de-lula-e-flavio-citam-disputa-acirrada-para-explicar-quaest-e-projetam-debates-como-decisivos.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261015T002655Z"
+    },
     {
      "title": "Flávio Bolsonaro pede ao TSE remoção de posts de políticos e coletivo de artistas pró-Lula",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/14/flavio-bolsonaro-pede-ao-tse-remocao-de-posts-de-politicos-e-coletivo-de-artistas-pro-lula.ghtml",
@@ -1451,12 +1469,6 @@
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/14/partido-de-paes-faz-novo-pedido-ao-stf-para-anular-eleicao-de-douglas-ruas-e-realizar-segundo-turno-ao-governo-do-rio.ghtml",
      "domain": "O Globo",
      "seendate": "20261014T211235Z"
-    },
-    {
-     "title": "Quaest: colunistas do GLOBO analisam primeira pesquisa do instituto no segundo turno entre Flávio e Lula",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/ao-vivo/quaest-colunistas-do-globo-analisam-primeira-pesquisa-do-instituto-no-segundo-turno-entre-flavio-e-lula.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261014T205626Z"
     },
     {
      "title": "Campanha de Lula diz que levará queixa à OEA sobre suposta interferência externa nas eleições",
@@ -1505,30 +1517,6 @@
      "url": "https://oglobo.globo.com/politica/noticia/2026/10/14/alcolumbre-afirma-podera-votar-fim-da-escala-6x1-e-pec-da-seguranca.ghtml",
      "domain": "O Globo",
      "seendate": "20261014T191337Z"
-    },
-    {
-     "title": "Flávio acumula série de recuos e tenta sair do 'jogo parado' após mobilização de apoiadores de Lula",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/14/flavio-acumula-serie-de-recuos-e-tenta-sair-do-jogo-parado-apos-mobilizacao-de-apoiadores-de-lula.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261014T185742Z"
-    },
-    {
-     "title": "Senado deve votar PEC da Segurança logo depois da análise do fim da escala 6 por 1",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/14/senado-deve-votar-pec-da-seguranca-logo-depois-da-analise-do-fim-da-escala-6-por-1.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261014T184918Z"
-    },
-    {
-     "title": "Menina de 9 anos usa sinal de socorro ensinado pela avó e escapa de tentativa de estupro em Curitiba",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/14/menina-de-9-anos-usa-sinal-de-socorro-ensinado-pela-avo-e-escapa-de-tentativa-de-estupro-em-curitiba.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261014T184319Z"
-    },
-    {
-     "title": "Zanin cobra explicações da Anatel sobre falhas no acesso a aplicativos eleitorais e dá prazo de 48 horas",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/14/zanin-cobra-explicacoes-da-anatel-sobre-falhas-no-acesso-a-aplicativos-eleitorais-e-da-prazo-de-48-horas.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261014T183932Z"
     }
    ]
   }
