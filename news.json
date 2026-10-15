@@ -1,13 +1,31 @@
 {
- "updated": "2026-10-15T10:06:32+00:00",
+ "updated": "2026-10-15T11:05:20+00:00",
  "countries": {
   "ESP": {
    "articles": [
     {
-     "title": "Almeida rebajará el IBI al mínimo permitido",
+     "title": "Almeida rebajará el IBI al mínimo legal y la oposición lo tacha de medida electoral",
      "url": "https://elpais.com/espana/madrid/2026-10-15/almeida-rebajara-el-ibi-al-minimo-permitido.html",
      "domain": "El País",
-     "seendate": "20261015T094808Z"
+     "seendate": "20261015T105825Z"
+    },
+    {
+     "title": "Un juzgado investiga las filtraciones sobre las agendas y conversaciones personales de Zapatero en el ‘caso Plus Ultra’",
+     "url": "https://elpais.com/espana/2026-10-15/un-juzgado-investiga-las-filtraciones-sobre-las-agendas-y-conversaciones-personales-de-zapatero-en-el-caso-plus-ultra.html",
+     "domain": "El País",
+     "seendate": "20261015T103141Z"
+    },
+    {
+     "title": "Los vecinos de un edificio de Barcelona comprado por un fondo comienzan una huelga de alquiler: “Que se marchen ellos”",
+     "url": "https://elpais.com/espana/catalunya/2026-10-15/los-vecinos-de-un-edificio-de-barcelona-comprado-por-un-fondo-comienzan-una-huelga-de-alquiler-que-se-marchen-ellos.html",
+     "domain": "El País",
+     "seendate": "20261015T102623Z"
+    },
+    {
+     "title": "Cuerpo apunta a una subida de las pensiones después de las elecciones",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-10-15/cuerpo-asegura-que-el-gobierno-quiere-subir-las-pensiones-despues-de-las-elecciones.html",
+     "domain": "El País",
+     "seendate": "20261015T101057Z"
     },
     {
      "title": "Ábalos mueve ficha después de que el Supremo confirmara su condena: “Próximo paso, Tribunal Constitucional”",
@@ -28,12 +46,6 @@
      "seendate": "20261015T080810Z"
     },
     {
-     "title": "Cuerpo apunta a una subida de las pensiones después de las elecciones",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-10-15/cuerpo-asegura-que-el-gobierno-quiere-subir-las-pensiones-despues-de-las-elecciones.html",
-     "domain": "El País",
-     "seendate": "20261015T075848Z"
-    },
-    {
      "title": "Una mujer de 82 años y un hombre de 91 años mueren tras desplomarse un ascensor en una residencia de mayores de Vélez-Málaga",
      "url": "https://elpais.com/espana/2026-10-15/muere-una-mujer-de-82-anos-tras-desplomarse-un-ascensor-en-una-residencia-de-mayores-de-velez-malaga.html",
      "domain": "El País",
@@ -52,12 +64,6 @@
      "seendate": "20261015T065313Z"
     },
     {
-     "title": "El BOE publica la decisión del Supremo de suspender el derecho a voto de los nacionalizados por la ‘ley de nietos’",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-10-15/el-boe-publica-la-decision-del-supremo-de-suspender-el-derecho-a-voto-de-los-nacionalizados-por-la-ley-de-nietos.html",
-     "domain": "El País",
-     "seendate": "20261015T061902Z"
-    },
-    {
      "title": "Tensión en Compromís por la cabeza de lista por Valencia para las elecciones del 29-N",
      "url": "https://elpais.com/espana/comunidad-valenciana/2026-10-15/tension-en-compromis-por-la-cabeza-de-lista-por-valencia-para-las-elecciones-del-29-n.html",
      "domain": "El País",
@@ -66,12 +72,6 @@
     {
      "title": "Por qué tantos sociólogos no se creen la encuesta del CIS: el sesgo en la muestra contamina las encuestas",
      "url": "https://elpais.com/espana/2026-10-15/por-que-tantos-sociologos-no-se-creen-la-encuesta-del-cis-el-sesgo-en-la-muestra-contamina-las-encuestas.html",
-     "domain": "El País",
-     "seendate": "20261015T033001Z"
-    },
-    {
-     "title": "Las tumbas sin nombre de los migrantes continúan llenando el cementerio musulmán de Ceuta",
-     "url": "https://elpais.com/espana/2026-10-15/las-tumbas-sin-nombre-de-migrantes-siguen-llenando-el-cementerio-musulman-de-ceuta.html",
      "domain": "El País",
      "seendate": "20261015T033001Z"
     },
@@ -90,6 +90,12 @@
     {
      "title": "Seis millones de placas solares para alimentar los centros de datos en el Corredor del Henares",
      "url": "https://elpais.com/espana/madrid/2026-10-15/seis-millones-de-placas-solares-para-alimentar-los-centros-de-datos-en-el-corredor-del-henares.html",
+     "domain": "El País",
+     "seendate": "20261015T033001Z"
+    },
+    {
+     "title": "Las tumbas sin nombre de los migrantes continúan llenando el cementerio musulmán de Ceuta",
+     "url": "https://elpais.com/espana/2026-10-15/las-tumbas-sin-nombre-de-migrantes-siguen-llenando-el-cementerio-musulman-de-ceuta.html",
      "domain": "El País",
      "seendate": "20261015T033001Z"
     },
@@ -145,6 +151,24 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Canciller resalta serenidad ante momentos de presión",
+     "url": "https://www.eluniversal.com.mx/nacion/canciller-resalta-serenidad-ante-momentos-de-presion/",
+     "domain": "El Universal",
+     "seendate": "20261015T105657Z"
+    },
+    {
+     "title": "Las Panas, una panadería y red de apoyo, es víctima de la gentrificación",
+     "url": "https://www.eluniversal.com.mx/nacion/las-panas-una-panaderia-y-red-de-apoyo-es-victima-de-la-gentrificacion/",
+     "domain": "El Universal",
+     "seendate": "20261015T105624Z"
+    },
+    {
+     "title": "IMSS entrega 400 mdp cada año a dirigencia del sindicato; recursos se usan en turismo, juguetes y capacitación",
+     "url": "https://www.eluniversal.com.mx/nacion/imss-entrega-400-mdp-cada-ano-a-dirigencia-del-sindicato-recursos-se-usan-en-turismo-juguetes-y-capacitacion/",
+     "domain": "El Universal",
+     "seendate": "20261015T104338Z"
+    },
     {
      "title": "Egresado de la escuela de Morena, acusado de narco por EU; Juan de Dios Gámez fue imputado por presuntos vínculos con “Los Chapitos”",
      "url": "https://www.eluniversal.com.mx/nacion/egresado-de-la-escuela-de-morena-acusado-de-narco-por-eu-juan-de-dios-gamez-fue-imputado-por-presuntos-vinculos-con-los-chapitos/",
@@ -320,34 +344,10 @@
      "seendate": "20261015T011317Z"
     },
     {
-     "title": "PT y Verde perfilan respaldo a Morena con Lorenia Valles en Sonora; \"todos los sonorenses la quieren\"",
-     "url": "https://www.eluniversal.com.mx/nacion/pt-y-pvem-perfilan-respaldo-a-morena-con-lorenia-valles-en-sonora-todos-los-sonorenses-la-quieren/",
-     "domain": "El Universal",
-     "seendate": "20261015T005800Z"
-    },
-    {
-     "title": "Trabajadores del IMSS Sonora denuncian irregularidades en consulta salarial; señalan diferencia entre padrón y cantidad de papeletas",
-     "url": "https://www.eluniversal.com.mx/estados/trabajadores-del-imss-sonora-denuncian-irregularidades-en-consulta-salarial-senalan-diferencia-entre-padron-y-cantidad-de-papeletas/",
-     "domain": "El Universal",
-     "seendate": "20261015T005738Z"
-    },
-    {
-     "title": "📍¿Qué establece la Ley de Armonización Catastral y Registral?; esto es lo que sabemos",
-     "url": "https://www.eluniversal.com.mx/nacion/que-establece-la-ley-de-armonizacion-catastral-y-registral-esto-es-lo-que-sabemos/",
-     "domain": "El Universal",
-     "seendate": "20261015T004834Z"
-    },
-    {
      "title": "Trabajadores del IMSS realizan nueva jornada de protestas en distintos estados; votan consulta salarial",
      "url": "https://www.eluniversal.com.mx/estados/trabajadores-del-imss-realizan-nueva-jornada-de-protestas-en-distintos-estados-votan-consulta-salarial/",
      "domain": "El Universal",
      "seendate": "20261014T222929Z"
-    },
-    {
-     "title": "\"No tengo interés en una candidatura\": Citlalli Hernández; prioriza su encargo en Comisión de Elecciones de Morena",
-     "url": "https://www.eluniversal.com.mx/metropoli/no-tengo-interes-en-una-candidatura-citlalli-hernandez-prioriza-concluir-su-encargo-en-comision-nacional-de-elecciones-de-morena/",
-     "domain": "El Universal",
-     "seendate": "20261014T221205Z"
     },
     {
      "title": "Asesinan a balazos a exlíder ganadero en Escuinapa, Sinaloa; agresores logran escapar",
@@ -445,6 +445,12 @@
   },
   "CRI": {
    "articles": [
+    {
+     "title": "CCSS atribuye a personal del Tony Facio responsabilidad por contratación de vuelo ambulancia fallido",
+     "url": "https://www.nacion.com/el-pais/ccss-atribuye-a-personal-del-tony-facio/DSUQJXHAY5CEHGXDQ7RA4MJUGM/story/",
+     "domain": "La Nación",
+     "seendate": "20261015T103000Z"
+    },
     {
      "title": "Patricia Solano, aspirante a presidir la Corte: ‘Fue un pecado’ guardar silencio ante ataques del Ejecutivo",
      "url": "https://www.nacion.com/politica/patricia-solano-aspirante-a-presidir-la-corte-fue/YYPXI5QBCNBYPNS67O6M2A4BGE/story/",
@@ -766,6 +772,24 @@
   "CUB": {
    "articles": [
     {
+     "title": "Cafecito informativo del jueves 15 de octubre de 2026",
+     "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-jueves-15-octubre_7_1131971.html",
+     "domain": "14ymedio",
+     "seendate": "20261015T105850Z"
+    },
+    {
+     "title": "Matanzas recibe otro cargamento de la ayuda humanitaria de EE UU a través de Cáritas Cuba",
+     "url": "https://www.14ymedio.com/cuba/matanzas-recibe-cargamento-ayuda-humanitaria_1_1131967.html",
+     "domain": "14ymedio",
+     "seendate": "20261015T103556Z"
+    },
+    {
+     "title": "La Cancillería cubana, muy preocupada por la campaña de EE UU contra la resolución sobre el embargo en la ONU",
+     "url": "https://www.14ymedio.com/cuba/cancilleria-cubana-preocupada-campana-ee_1_1131965.html",
+     "domain": "14ymedio",
+     "seendate": "20261015T101355Z"
+    },
+    {
      "title": "En el Pediátrico de Matanzas, falta hasta quien ponga una inyección",
      "url": "https://www.14ymedio.com/cuba/pediatrico-matanzas-falta-ponga-inyeccion_1_1131957.html",
      "domain": "14ymedio",
@@ -854,24 +878,6 @@
      "url": "https://www.14ymedio.com/cuba/septiembre-cierra-cuatro-muertos-79_1_1131887.html",
      "domain": "14ymedio",
      "seendate": "20261013T092730Z"
-    },
-    {
-     "title": "La Habana intenta atraer inversiones privadas en el sector petrolero con una nueva ley",
-     "url": "https://www.14ymedio.com/cuba/habana-atraer-inversiones-privadas-sector_1_1131886.html",
-     "domain": "14ymedio",
-     "seendate": "20261012T214919Z"
-    },
-    {
-     "title": "De la O Levy niega vínculos de la estatal Enetec con los 90 envíos de combustible confiscados en EE UU",
-     "url": "https://www.14ymedio.com/cuba/levy-niega-vinculos-estatal-enetec_1_1131879.html",
-     "domain": "14ymedio",
-     "seendate": "20261012T185022Z"
-    },
-    {
-     "title": "Arroz, pañales y whisky figuran en el mercado mayorista de Sancti Spíritus, primero de este tipo en Cuba",
-     "url": "https://www.14ymedio.com/cuba/arroz-panales-whisky-figuran-mercado_1_1131864.html",
-     "domain": "14ymedio",
-     "seendate": "20261012T155942Z"
     },
     {
      "title": "Muere en México Manuel Pereira, el escritor cubano que se llevó La Habana al exilio",
@@ -978,6 +984,12 @@
   },
   "ECU": {
    "articles": [
+    {
+     "title": "Operación Muralla: Detienen a cuatro presuntos miembros de Comandos de Frontera presuntamente vinculados con asesinatos de militares y policías",
+     "url": "https://eluniverso.com/politica/seguridad/operacion-muralla-detienen-a-cuatro-presuntos-miembros-de-comandos-de-frontera-presuntamente-vinculados-con-asesinatos-de-militares-y-policias-nota/",
+     "domain": "El Universo",
+     "seendate": "20261015T101945Z"
+    },
     {
      "title": "Servicio eléctrico fue restablecido en sectores de Quito por falla en la red de distribución",
      "url": "https://eluniverso.com/comunidad/ecuador/servicio-electrico-fue-restablecido-en-sectores-de-quito-por-falla-en-la-red-de-distribucion-nota/",
@@ -1141,97 +1153,361 @@
      "title": "Javier Milei y sus medidas, EN VIVO: el Presidente pidió que Trump salga “fortalecido” en las elecciones de Estados Unidos",
      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-pidio-que-trump-salga-fortalecido-en-las-elecciones-nid15102026/",
      "domain": "La Nación",
-     "seendate": "20261015T094213Z"
-    },
-    {
-     "title": "Convocatoria récord: la innovadora iniciativa que enseña a cuidar la salud cardiovascular desde jardín de infantes",
-     "url": "https://www.lanacion.com.ar/sociedad/convocatoria-record-la-innovadora-iniciativa-que-ensena-a-cuidar-la-salud-cardiovascular-desde-nid15102026/",
-     "domain": "La Nación",
-     "seendate": "20261015T090000Z"
+     "seendate": "20261015T110055Z"
     },
     {
      "title": "El sastre del Papa: quién es Tomás Valentín Gómez, el argentino que confeccionó la vestimenta de León XIV",
      "url": "https://www.lanacion.com.ar/sociedad/el-sastre-del-papa-quien-es-tomas-valentin-gomez-el-argentino-que-confecciono-la-vestimenta-de-leon-nid15102026/",
      "domain": "La Nación",
-     "seendate": "20261015T070000Z"
+     "seendate": "20261015T105322Z"
     },
     {
-     "title": "Jorge Macri reconoció que mantiene “diferencias de gestión” con su primo Mauricio sobre la ciudad de Buenos Aires",
-     "url": "https://www.lanacion.com.ar/politica/jorge-macri-reconocio-que-mantiene-diferencias-de-gestion-con-su-primo-mauricio-sobre-la-ciudad-de-nid15102026/",
+     "title": "Gabriel Rolón, psicoanalista, sobre los recuerdos: “Nuestros padres que ya no están se transforman en personas por ahí más nobles de lo que fueron”",
+     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-sobre-los-recuerdos-nuestros-padres-que-ya-no-estan-se-transforman-en-nid13102026/",
      "domain": "La Nación",
-     "seendate": "20261015T061534Z"
+     "seendate": "20261015T105046Z"
     },
     {
-     "title": "Daniel López Rosetti, médico: “La dosis indicada de caminata rápida es de 150 minutos semanales”",
-     "url": "https://www.lanacion.com.ar/sociedad/daniel-lopez-rosetti-medico-la-dosis-indicada-de-caminata-rapida-es-de-150-minutos-semanales-nid15102026/",
+     "title": "Robin Sharma, especialista en crecimiento personal: “Un mal día para el ego es un buen día para el alma; aprendemos en la dificultad”",
+     "url": "https://www.lanacion.com.ar/sociedad/robin-sharma-especialista-en-crecimiento-personal-un-mal-dia-para-el-ego-es-un-buen-dia-para-el-alma-nid11102026/",
      "domain": "La Nación",
-     "seendate": "20261015T060000Z"
+     "seendate": "20261015T105038Z"
     },
     {
-     "title": "Día de la Mujer Rural. Cinco profesionales y un mensaje contundente: “No tengan miedo”",
-     "url": "https://www.lanacion.com.ar/economia/campo/dia-de-la-mujer-rural-cinco-profesionales-y-un-mensaje-contundente-no-tengan-miedo-nid15102026/",
+     "title": "Súper Niño 2026: qué se sabe del fenómeno que cambiará el pronóstico de la Argentina y llegará pronto a su pico máximo",
+     "url": "https://www.lanacion.com.ar/sociedad/super-nino-2026-que-se-sabe-del-fenomeno-que-cambiara-por-completo-el-clima-en-la-argentina-y-nid05102026/",
      "domain": "La Nación",
-     "seendate": "20261015T060000Z"
-    },
-    {
-     "title": "Solo 19 de cada 100 adolescentes argentinos de 15 años cursan la escuela en el año adecuado y con los aprendizajes esperados",
-     "url": "https://www.lanacion.com.ar/sociedad/solo-19-de-cada-100-adolescentes-argentinos-de-15-anos-cursan-la-escuela-en-el-ano-adecuado-y-con-nid15102026/",
-     "domain": "La Nación",
-     "seendate": "20261015T051721Z"
-    },
-    {
-     "title": "Cita del día, Winston Churchill, político: “El éxito no es definitivo, el fracaso no es fatal: lo que cuenta es el coraje para continuar”",
-     "url": "https://www.lanacion.com.ar/sociedad/cita-del-dia-winston-churchill-politico-el-exito-no-es-definitivo-el-fracaso-no-es-fatal-lo-que-nid15102026/",
-     "domain": "La Nación",
-     "seendate": "20261015T050000Z"
-    },
-    {
-     "title": "Gabriel Rolón: “Siempre habrá una ausencia que se siente a tu lado y te emocione”",
-     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-siempre-habra-una-ausencia-que-se-siente-a-tu-lado-y-te-emocione-nid15102026/",
-     "domain": "La Nación",
-     "seendate": "20261015T050000Z"
-    },
-    {
-     "title": "Reabren las Cataratas del Iguazú y este jueves se habilitará el circuito inferior",
-     "url": "https://www.lanacion.com.ar/sociedad/reabren-las-cataratas-del-iguazu-y-este-jueves-se-habilitara-el-circuito-inferior-nid15102026/",
-     "domain": "La Nación",
-     "seendate": "20261015T034825Z"
-    },
-    {
-     "title": "Murió Norberto Di Próspero, el histórico líder del gremio de los trabajadores del Congreso",
-     "url": "https://www.lanacion.com.ar/politica/murio-norberto-di-prospero-el-historico-lider-del-gremio-de-los-trabajadores-del-congreso-nid15102026/",
-     "domain": "La Nación",
-     "seendate": "20261015T034132Z"
-    },
-    {
-     "title": "Emilio Monzó, sobre Sergio Massa: “Es un dirigente que tiene diálogo y poder para transformar acuerdos en hechos”",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-gobierno-celebro-el-numero-de-la-inflacion-y-dijo-es-el-camino-nid14102026/",
-     "domain": "La Nación",
-     "seendate": "20261015T031351Z"
-    },
-    {
-     "title": "Hay alerta amarilla por tormentas para este jueves 15 de octubre: las provincias afectadas",
-     "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-tormentas-para-este-jueves-15-de-octubre-las-provincias-afectadas-nid15102026/",
-     "domain": "La Nación",
-     "seendate": "20261015T030328Z"
+     "seendate": "20261015T105034Z"
     },
     {
      "title": "Arthur Brooks, experto en felicidad de Harvard: “Hay una inteligencia que nace a partir de los 40 años”",
      "url": "https://www.lanacion.com.ar/sociedad/arthur-brooks-experto-en-felicidad-de-harvard-hay-una-inteligencia-que-nace-a-partir-de-los-40-anos-nid11102026/",
      "domain": "La Nación",
-     "seendate": "20261015T024800Z"
+     "seendate": "20261015T104955Z"
+    },
+    {
+     "title": "Daniel López Rosetti, médico: “La dosis indicada de caminata rápida es de 150 minutos semanales”",
+     "url": "https://www.lanacion.com.ar/sociedad/daniel-lopez-rosetti-medico-la-dosis-indicada-de-caminata-rapida-es-de-150-minutos-semanales-nid15102026/",
+     "domain": "La Nación",
+     "seendate": "20261015T104945Z"
+    },
+    {
+     "title": "Cita del día, Winston Churchill, político: “El éxito no es definitivo, el fracaso no es fatal: lo que cuenta es el coraje para continuar”",
+     "url": "https://www.lanacion.com.ar/sociedad/cita-del-dia-winston-churchill-politico-el-exito-no-es-definitivo-el-fracaso-no-es-fatal-lo-que-nid15102026/",
+     "domain": "La Nación",
+     "seendate": "20261015T104939Z"
+    },
+    {
+     "title": "Gabriel Rolón: “Siempre habrá una ausencia que se siente a tu lado y te emocione”",
+     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-siempre-habra-una-ausencia-que-se-siente-a-tu-lado-y-te-emocione-nid15102026/",
+     "domain": "La Nación",
+     "seendate": "20261015T104930Z"
     },
     {
      "title": "Gabriel Rolón, psicoanalista, sobre la búsqueda de bienestar: “A veces uno desea más haber sido feliz que ser feliz”",
      "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-sobre-la-busqueda-de-bienestar-a-veces-uno-desea-mas-haber-sido-feliz-nid08102026/",
      "domain": "La Nación",
-     "seendate": "20261015T024700Z"
+     "seendate": "20261015T104924Z"
     },
     {
-     "title": "Pilar Sordo, psicóloga: “La incomodidad es la única invitación al cambio de prioridades”",
-     "url": "https://www.lanacion.com.ar/sociedad/pilar-sordo-psicologa-la-incomodidad-es-la-unica-invitacion-al-cambio-de-prioridades-nid14102026/",
+     "title": "Arthur Brooks, experto de Harvard, de 62 años: “Lo que hacen las personas felices y exitosas en la segunda mitad de sus vidas es pasar de sumar a restar”",
+     "url": "https://www.lanacion.com.ar/sociedad/arthur-brooks-experto-de-harvard-de-62-anos-lo-que-hacen-las-personas-felices-y-exitosas-en-la-nid08102026/",
      "domain": "La Nación",
-     "seendate": "20261015T014600Z"
+     "seendate": "20261015T104902Z"
+    },
+    {
+     "title": "Joseph Pilates, creador del método de entrenamiento: “La respiración es la primera acción que realizamos en la vida, y la última; una respiración vaga e incompleta te acerca a la enfermedad”",
+     "url": "https://www.lanacion.com.ar/sociedad/joseph-pilates-creador-del-metodo-de-entrenamiento-la-respiracion-es-la-primera-accion-que-nid14102026/",
+     "domain": "La Nación",
+     "seendate": "20261015T104850Z"
+    },
+    {
+     "title": "“La gente está desesperada”: por la crecida del Paraná, aceleran la evacuación de más de 30.000 vacas en las islas de Victoria",
+     "url": "https://www.lanacion.com.ar/economia/campo/la-gente-esta-desesperada-por-la-crecida-del-parana-aceleran-la-evacuacion-de-mas-de-30000-vacas-en-nid14102026/",
+     "domain": "La Nación",
+     "seendate": "20261015T104514Z"
+    },
+    {
+     "title": "Desarrollan tecnología en la Argentina, tienen a Estados Unidos como principal mercado y buscan liderar un negocio en todo el mundo",
+     "url": "https://www.lanacion.com.ar/economia/campo/desarrollan-tecnologia-en-la-argentina-tienen-a-estados-unidos-como-principal-mercado-y-buscan-nid14102026/",
+     "domain": "La Nación",
+     "seendate": "20261015T104417Z"
+    },
+    {
+     "title": "Thiago Príncipe tiene 14 años, construyó un tractor con piezas recuperadas y ahora quiere automatizarlo: “Sentí la innovación”",
+     "url": "https://www.lanacion.com.ar/economia/campo/thiago-principe-tiene-14-anos-construyo-un-tractor-con-piezas-recuperadas-y-ahora-quiere-nid14102026/",
+     "domain": "La Nación",
+     "seendate": "20261015T104226Z"
+    },
+    {
+     "title": "Súper Niño 2026: subió a un 75% la probabilidad de que el fenómeno tenga una magnitud histórica, advierte un informe",
+     "url": "https://www.lanacion.com.ar/economia/campo/super-nino-2026-subio-a-un-75-la-probabilidad-de-que-el-fenomeno-tenga-una-magnitud-historica-nid14102026/",
+     "domain": "La Nación",
+     "seendate": "20261015T104128Z"
+    },
+    {
+     "title": "Hay alerta amarilla por tormentas para este jueves 15 de octubre: las provincias afectadas",
+     "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-tormentas-para-este-jueves-15-de-octubre-las-provincias-afectadas-nid15102026/",
+     "domain": "La Nación",
+     "seendate": "20261015T104028Z"
+    },
+    {
+     "title": "Muebles de autor, recuerdos del 83 y vanguardia: comenzaron las obras de rescate patrimonial en “el gigante de la calle Sarmiento”",
+     "url": "https://www.lanacion.com.ar/sociedad/muebles-de-autor-recuerdos-del-83-y-vanguardia-comenzaron-las-obras-de-rescate-patrimonial-en-el-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261015T102854Z"
+    },
+    {
+     "title": "Con drenaje sostenible, suelo absorbente y farolas peatonales: la Ciudad recuperó un predio usurpado y lo transforma en un nuevo parque que promete beneficiar a más de 50.000 vecinos porteños",
+     "url": "https://www.lanacion.com.ar/sociedad/con-drenaje-sostenible-suelo-absorbente-y-farolas-peatonales-la-ciudad-recupero-un-predio-usurpado-y-nid08102026/",
+     "domain": "La Nación",
+     "seendate": "20261015T102853Z"
+    },
+    {
+     "title": "$1300 millones de inversión en el norte de la Ciudad: transformaron un antiguo galpón ferroviario en un centro de salud para atención primaria, pediatría y otras especialidades",
+     "url": "https://www.lanacion.com.ar/sociedad/1300-millones-de-inversion-en-el-norte-de-la-ciudad-transformaron-un-antiguo-galpon-ferroviario-en-nid07102026/",
+     "domain": "La Nación",
+     "seendate": "20261015T102848Z"
+    },
+    {
+     "title": "Chau anegamientos: terminó la megaobra en el norte de la Ciudad que promete enfrentar los efectos climáticos del Súper Niño",
+     "url": "https://www.lanacion.com.ar/sociedad/chau-anegamientos-termino-la-megaobra-en-el-norte-de-la-ciudad-que-promete-enfrentar-los-efectos-nid30092026/",
+     "domain": "La Nación",
+     "seendate": "20261015T102845Z"
+    },
+    {
+     "title": "¿Cuándo son las elecciones 2027 en la Argentina? Todas las fechas clave",
+     "url": "https://www.lanacion.com.ar/politica/cuando-son-las-elecciones-2027-en-la-argentina-todas-las-fechas-clave-nid08102026/",
+     "domain": "La Nación",
+     "seendate": "20261015T102842Z"
+    },
+    {
+     "title": "Elecciones en la Argentina 2027: fechas, cargos que se renuevan y todo lo que hay que saber",
+     "url": "https://www.lanacion.com.ar/politica/elecciones-en-la-argentina-2027-fechas-cargos-que-se-renuevan-y-todo-lo-que-hay-que-saber-nid23092026/",
+     "domain": "La Nación",
+     "seendate": "20261015T102839Z"
+    },
+    {
+     "title": "Elecciones 2027: ¿cuándo son las próximas elecciones presidenciales en la Argentina?",
+     "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-en-la-argentina-y-que-se-elige-nid25082026/",
+     "domain": "La Nación",
+     "seendate": "20261015T102836Z"
+    },
+    {
+     "title": "¿Cuándo se vota presidente en la Argentina? Todo sobre las elecciones 2027",
+     "url": "https://www.lanacion.com.ar/politica/cuando-se-vota-presidente-en-la-argentina-todo-sobre-las-elecciones-2027-nid01092026/",
+     "domain": "La Nación",
+     "seendate": "20261015T102801Z"
+    },
+    {
+     "title": "Elecciones 2027: cuándo se vota para presidente en la Argentina",
+     "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-para-presidente-en-la-argentina-nid03082026/",
+     "domain": "La Nación",
+     "seendate": "20261015T102759Z"
+    },
+    {
+     "title": "Jubilaciones de Anses: cuánto cobro en noviembre 2026, con el bono oficial y el aumento confirmado",
+     "url": "https://www.lanacion.com.ar/economia/jubilaciones-de-anses-cuanto-cobro-en-noviembre-2026-con-el-bono-oficial-y-el-aumento-confirmado-nid14102026/",
+     "domain": "La Nación",
+     "seendate": "20261015T102756Z"
+    },
+    {
+     "title": "Calendario de pagos de Anses: cuándo se cobra la PUAM de octubre de 2026",
+     "url": "https://www.lanacion.com.ar/economia/calendario-de-pagos-de-anses-cuando-se-cobra-la-puam-de-octubre-de-2026-nid09102026/",
+     "domain": "La Nación",
+     "seendate": "20261015T102753Z"
+    },
+    {
+     "title": "Calendario PNC de la Anses: cuándo se cobran las Pensiones no Contributivas de octubre 2026",
+     "url": "https://www.lanacion.com.ar/economia/calendario-pnc-de-la-anses-cuando-se-cobran-las-pensiones-no-contributivas-de-octubre-2026-nid08102026/",
+     "domain": "La Nación",
+     "seendate": "20261015T102751Z"
+    },
+    {
+     "title": "Calendario Anses: cuándo se cobra la AUH en octubre 2026",
+     "url": "https://www.lanacion.com.ar/economia/calendario-anses-cuando-se-cobra-la-auh-en-octubre-2026-nid02102026/",
+     "domain": "La Nación",
+     "seendate": "20261015T102749Z"
+    },
+    {
+     "title": "Calendario de jubilaciones de la Anses: cuándo se cobran en octubre 2026 con el bono oficial y el aumento confirmado",
+     "url": "https://www.lanacion.com.ar/economia/calendario-de-jubilaciones-de-la-anses-cuando-se-cobran-en-octubre-2026-con-el-bono-oficial-y-el-nid01102026/",
+     "domain": "La Nación",
+     "seendate": "20261015T102746Z"
+    },
+    {
+     "title": "Cuánto cobran los jubilados en octubre de 2026 con el nuevo bono confirmado",
+     "url": "https://www.lanacion.com.ar/economia/cuanto-cobran-los-jubilados-en-octubre-de-2026-con-el-nuevo-bono-confirmado-nid29092026/",
+     "domain": "La Nación",
+     "seendate": "20261015T102744Z"
+    },
+    {
+     "title": "Con bono oficial y aumento confirmado: este es el monto que cobran los jubilados de la Anses en octubre 2026",
+     "url": "https://www.lanacion.com.ar/economia/con-bono-oficial-y-aumento-confirmado-este-es-el-monto-que-cobran-los-jubilados-de-la-anses-en-nid28092026/",
+     "domain": "La Nación",
+     "seendate": "20261015T102741Z"
+    },
+    {
+     "title": "Cuánto cobran de mínima los jubilados de la Anses en octubre 2026 con el aumento oficial",
+     "url": "https://www.lanacion.com.ar/economia/cuanto-cobran-de-minima-los-jubilados-de-la-anses-en-octubre-2026-con-el-aumento-oficial-nid23092026/",
+     "domain": "La Nación",
+     "seendate": "20261015T102738Z"
+    },
+    {
+     "title": "Cambios en la Libreta AUH: las acreditaciones de la Asignación Universal serán automáticas y ya no habrá que presentar certificados",
+     "url": "https://www.lanacion.com.ar/economia/cambios-en-la-libreta-auh-las-acreditaciones-de-la-asignacion-universal-seran-automaticas-y-ya-no-nid17092026/",
+     "domain": "La Nación",
+     "seendate": "20261015T102736Z"
+    },
+    {
+     "title": "Pagos Anses: a cuánto llega la PUAM en octubre de 2026 con el aumento confirmado",
+     "url": "https://www.lanacion.com.ar/economia/pagos-anses-a-cuanto-llega-la-puam-en-octubre-de-2026-con-el-aumento-confirmado-nid17092026/",
+     "domain": "La Nación",
+     "seendate": "20261015T102733Z"
+    },
+    {
+     "title": "Calendario PNC de la Anses: cuál es el monto de las Pensiones no Contributivas en octubre de 2026",
+     "url": "https://www.lanacion.com.ar/economia/calendario-pnc-de-la-anses-cual-es-el-monto-de-las-pensiones-no-contributivas-en-octubre-de-2026-nid16092026/",
+     "domain": "La Nación",
+     "seendate": "20261015T102731Z"
+    },
+    {
+     "title": "Asignación Universal por Hijo de Anses: de cuánto es la AUH en octubre, con el aumento confirmado",
+     "url": "https://www.lanacion.com.ar/economia/asignacion-universal-por-hijo-de-anses-de-cuanto-es-la-auh-en-octubre-con-el-aumento-confirmado-nid15092026/",
+     "domain": "La Nación",
+     "seendate": "20261015T102729Z"
+    },
+    {
+     "title": "Jubilaciones de Anses: cuánto se cobra en octubre 2026, con el bono y el aumento confirmado",
+     "url": "https://www.lanacion.com.ar/economia/jubilaciones-de-anses-cuanto-se-cobra-en-octubre-2026-con-el-bono-y-el-aumento-confirmado-nid14092026/",
+     "domain": "La Nación",
+     "seendate": "20261015T102727Z"
+    },
+    {
+     "title": "Cuándo cobro Anses: el calendario completo de octubre 2026",
+     "url": "https://www.lanacion.com.ar/economia/cuando-cobro-anses-el-calendario-completo-de-octubre-2026-nid30092026/",
+     "domain": "La Nación",
+     "seendate": "20261015T102719Z"
+    },
+    {
+     "title": "Miden 13 cm y pesan casi un kilo: Gendarmería recuperó seis huevos de ñandú que iban escondidos de forma ilegal debajo del asiento de un auto en la Patagonia",
+     "url": "https://www.lanacion.com.ar/sociedad/miden-13-cm-y-pesan-casi-un-kilo-gendarmeria-recupero-seis-huevos-de-nandu-que-iban-escondidos-de-nid08102026/",
+     "domain": "La Nación",
+     "seendate": "20261015T102706Z"
+    },
+    {
+     "title": "Cardenales, jilgueros y reinamoras: recuperaron 88 aves del tráfico clandestino, los rehabilitaron e hicieron una liberación masiva en Zárate",
+     "url": "https://www.lanacion.com.ar/sociedad/cardenales-jilgueros-y-reinamoras-recuperaron-88-aves-del-trafico-clandestino-los-rehabilitaron-e-nid07102026/",
+     "domain": "La Nación",
+     "seendate": "20261015T102659Z"
+    },
+    {
+     "title": "Paritaria con aumento: cuánto cobran las niñeras y cuidadores de adultos en octubre de 2026",
+     "url": "https://www.lanacion.com.ar/economia/paritaria-con-aumento-cuanto-cobran-las-nineras-y-cuidadores-de-adultos-en-octubre-de-2026-nid14102026/",
+     "domain": "La Nación",
+     "seendate": "20261015T102656Z"
+    },
+    {
+     "title": "Paritaria para vigiladores: cuánto ganan los trabajadores de seguridad privada en octubre 2026 con el aumento confirmado",
+     "url": "https://www.lanacion.com.ar/economia/paritaria-para-vigiladores-cuanto-ganan-los-trabajadores-de-seguridad-privada-en-octubre-2026-con-el-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261015T102653Z"
+    },
+    {
+     "title": "Sueldo oficial: cuánto ganan los miembros de las Fuerzas Armadas en octubre de 2026 con el aumento confirmado",
+     "url": "https://www.lanacion.com.ar/economia/sueldo-oficial-cuanto-ganan-los-miembros-de-las-fuerzas-armadas-en-octubre-de-2026-con-el-aumento-nid08102026/",
+     "domain": "La Nación",
+     "seendate": "20261015T102651Z"
+    },
+    {
+     "title": "Paritaria oficial: cuánto ganan los camioneros en octubre 2026 tras el aumento confirmado",
+     "url": "https://www.lanacion.com.ar/economia/paritaria-oficial-cuanto-ganan-los-camioneros-en-octubre-2026-tras-el-aumento-confirmado-nid07102026/",
+     "domain": "La Nación",
+     "seendate": "20261015T102648Z"
+    },
+    {
+     "title": "Paritaria con aumento: cuánto gana el personal de la Policía Federal Argentina en octubre 2026",
+     "url": "https://www.lanacion.com.ar/economia/paritaria-con-aumento-cuanto-gana-el-personal-de-la-policia-federal-argentina-en-octubre-2026-nid07102026/",
+     "domain": "La Nación",
+     "seendate": "20261015T102646Z"
+    },
+    {
+     "title": "Paritaria confirmada: cuánto cobran las empleadas domésticas en octubre de 2026 con el aumento oficial",
+     "url": "https://www.lanacion.com.ar/economia/paritaria-confirmada-cuanto-cobran-las-empleadas-domesticas-en-octubre-de-2026-con-el-aumento-nid06102026/",
+     "domain": "La Nación",
+     "seendate": "20261015T102643Z"
+    },
+    {
+     "title": "Nueva paritaria de la construcción: cuánto cobra un albañil en octubre 2026 con el aumento confirmado por la Uocra",
+     "url": "https://www.lanacion.com.ar/economia/nueva-paritaria-de-la-construccion-cuanto-cobra-un-albanil-en-octubre-2026-con-el-aumento-confirmado-nid01102026/",
+     "domain": "La Nación",
+     "seendate": "20261015T102641Z"
+    },
+    {
+     "title": "Calendario escolar: cuándo terminan las clases en Santa Fe 2026",
+     "url": "https://www.lanacion.com.ar/sociedad/calendario-escolar-cuando-terminan-las-clases-en-santa-fe-2026-nid15102026/",
+     "domain": "La Nación",
+     "seendate": "20261015T102638Z"
+    },
+    {
+     "title": "Calendario escolar: cuándo terminan las clases en Córdoba",
+     "url": "https://www.lanacion.com.ar/sociedad/calendario-escolar-cuando-terminan-las-clases-en-cordoba-nid07102026/",
+     "domain": "La Nación",
+     "seendate": "20261015T102635Z"
+    },
+    {
+     "title": "Calendario escolar: cuándo terminan las clases en CABA",
+     "url": "https://www.lanacion.com.ar/sociedad/calendario-escolar-cuando-terminan-las-clases-en-caba-nid30092026/",
+     "domain": "La Nación",
+     "seendate": "20261015T102633Z"
+    },
+    {
+     "title": "Calendario escolar: cuándo terminan las clases en la provincia de Buenos Aires",
+     "url": "https://www.lanacion.com.ar/sociedad/calendario-escolar-cuando-terminan-las-clases-en-la-provincia-de-buenos-aires-nid29092026/",
+     "domain": "La Nación",
+     "seendate": "20261015T102630Z"
+    },
+    {
+     "title": "Cuándo terminan las clases en la Argentina 2026, provincia por provincia",
+     "url": "https://www.lanacion.com.ar/sociedad/cuando-terminan-las-clases-en-la-argentina-2026-provincia-por-provincia-nid22092026/",
+     "domain": "La Nación",
+     "seendate": "20261015T102628Z"
+    },
+    {
+     "title": "Cyber Monday 2026 en la Argentina: fechas y marcas que participan en esta edición",
+     "url": "https://www.lanacion.com.ar/economia/cyber-monday-2026-en-la-argentina-fechas-y-marcas-que-participan-en-esta-edicion-nid14102026/",
+     "domain": "La Nación",
+     "seendate": "20261015T102626Z"
+    },
+    {
+     "title": "Cuándo es el Cyber Monday 2026 en la Argentina",
+     "url": "https://www.lanacion.com.ar/economia/cuando-es-el-cyber-monday-2026-en-la-argentina-nid14102026/",
+     "domain": "La Nación",
+     "seendate": "20261015T102622Z"
+    },
+    {
+     "title": "Cuándo se festeja Halloween 2026 en la Argentina",
+     "url": "https://www.lanacion.com.ar/sociedad/cuando-se-festeja-halloween-2026-en-la-argentina-nid07102026/",
+     "domain": "La Nación",
+     "seendate": "20261015T102617Z"
+    },
+    {
+     "title": "Cuándo es Halloween en la Argentina 2026",
+     "url": "https://www.lanacion.com.ar/sociedad/cuando-es-halloween-en-la-argentina-2026-nid24092026/",
+     "domain": "La Nación",
+     "seendate": "20261015T102614Z"
+    },
+    {
+     "title": "Día de la Madre 2026: qué domingo de octubre cae en la Argentina",
+     "url": "https://www.lanacion.com.ar/sociedad/dia-de-la-madre-2026-que-domingo-de-octubre-cae-en-la-argentina-nid01102026/",
+     "domain": "La Nación",
+     "seendate": "20261015T102612Z"
+    },
+    {
+     "title": "Cuándo es el Día de la Madre 2026 en la Argentina",
+     "url": "https://www.lanacion.com.ar/sociedad/cuando-es-el-dia-de-la-madre-2026-en-la-argentina-nid22092026/",
+     "domain": "La Nación",
+     "seendate": "20261015T102609Z"
     }
    ]
   },
@@ -1248,10 +1524,10 @@
   "PRY": {
    "articles": [
     {
-     "title": "Video: Paraguayo habría muerto en la guerra de Rusia; su familia pide repatriar sus restos",
-     "url": "https://www.abc.com.py/nacionales/2026/10/15/video-paraguayo-habria-muerto-en-la-guerra-de-rusia-su-familia-pide-repatriar-sus-restos/",
+     "title": "Trinidad: denuncian un basural clandestino que persiste desde hace meses",
+     "url": "https://www.abc.com.py/nacionales/2026/10/15/trinidad-un-basural-que-persiste-desde-hace-seis-meses/",
      "domain": "ABC Color",
-     "seendate": "20261015T045404Z"
+     "seendate": "20261015T103433Z"
     }
    ]
   },
@@ -1260,6 +1536,12 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "Operação da PF em SP prende suspeitos de enviar drogas escondidas em eletrodomésticos",
+     "url": "https://oglobo.globo.com/brasil/sao-paulo/noticia/2026/10/15/operacao-da-pf-em-sp-prende-suspeitos-de-enviar-drogas-escondidas-em-eletrodomesticos.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261015T102045Z"
+    },
     {
      "title": "Dia dos Professores: conheça profissionais que fazem a diferença na educação de jovens e adultos da EJA",
      "url": "https://oglobo.globo.com/brasil/noticia/2026/10/15/dia-dos-professores-conheca-profissionais-que-fazem-a-diferenca-na-educacao-de-jovens-e-adultos-da-eja.ghtml",
@@ -1341,24 +1623,6 @@
     {
      "title": "De mapa para 'virar voto' a ranking de engajamento: sites criados por apoiadores turbinam força digital de Lula e Flávio",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/15/de-mapa-para-virar-voto-a-ranking-de-engajamento-sites-criados-por-apoiadores-turbinam-forca-digital-de-lula-e-flavio.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261015T063000Z"
-    },
-    {
-     "title": "Leia se você acha que a educação é prioridade",
-     "url": "https://oglobo.globo.com/brasil/priscila-cruz/post/2026/10/leia-se-voce-acha-que-a-educacao-e-prioridade.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261015T063000Z"
-    },
-    {
-     "title": "NetLab identifica 1,6 mil anúncios eleitorais pagos do exterior e vê falhas da Meta na fiscalização da prática ilegal",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/15/netlab-identifica-16-mil-anuncios-eleitorais-pagos-do-exterior-e-ve-falhas-da-meta-na-fiscalizacao-da-pratica-ilegal.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261015T063000Z"
-    },
-    {
-     "title": "Estragos em cidades gaúchas e Cataratas do Iguaçu com força dez vezes além do normal: El Niño intensifica chuvas no Sul",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/15/estragos-em-cidades-gauchas-e-cataratas-do-iguacu-com-forca-dez-vezes-alem-do-normal-el-nino-intensifica-chuvas-no-sul.ghtml",
      "domain": "O Globo",
      "seendate": "20261015T063000Z"
     }
