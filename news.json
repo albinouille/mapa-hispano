@@ -1,13 +1,19 @@
 {
- "updated": "2026-10-16T18:01:59+00:00",
+ "updated": "2026-10-16T18:37:26+00:00",
  "countries": {
   "ESP": {
    "articles": [
     {
+     "title": "Una nueva marea verde de docentes con Ayuso en el foco recorre el centro de Madrid: “Orgullo de profesión, mierda de Administración”",
+     "url": "https://elpais.com/espana/madrid/2026-10-16/una-nueva-marea-verde-de-docentes-con-ayuso-en-el-foco-recorre-el-centro-de-madrid-orgullo-de-profesion-mierda-de-administracion.html",
+     "domain": "El País",
+     "seendate": "20261016T182048Z"
+    },
+    {
      "title": "Última hora de la actualidad política, en directo | Horas decisivas para un acuerdo de unidad en el espacio a la izquierda del PSOE",
      "url": "https://elpais.com/espana/2026-10-16/ultima-hora-de-la-actualidad-politica-en-directo.html",
      "domain": "El País",
-     "seendate": "20261016T175614Z"
+     "seendate": "20261016T175821Z"
     },
     {
      "title": "Detenidos dos jóvenes que se cambiaron la voz con IA para hacer falsas amenazas de bomba a dos aeropuertos",
@@ -44,12 +50,6 @@
      "url": "https://elpais.com/espana/catalunya/2026-10-16/la-juez-envia-a-juicio-a-santiago-laiglesia-por-el-crimen-de-helena-jubany-25-anos-despues-de-su-asesinato.html",
      "domain": "El País",
      "seendate": "20261016T162307Z"
-    },
-    {
-     "title": "Montero gana las primarias de Podemos con una caída en la participación del 54,3% con respecto a 2023",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-10-16/montero-gana-las-primarias-de-podemos-con-una-caida-en-la-participacion-del-543-con-respecto-a-2023.html",
-     "domain": "El País",
-     "seendate": "20261016T161800Z"
     },
     {
      "title": "El alcalde de Algeciras, citado como imputado por agresión sexual el 23 de octubre",
@@ -94,10 +94,10 @@
      "seendate": "20261016T120731Z"
     },
     {
-     "title": "España e Italia acuerdan poner fin a los controles Schengen por Ceuta",
-     "url": "https://elpais.com/espana/2026-10-16/espana-e-italia-coordinaran-el-fin-de-los-controles-schengen-por-ceuta.html",
+     "title": "Espinosa de los Monteros renuncia a presentarse y despeja el espacio electoral de la derecha",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-10-16/espinosa-de-los-monteros-renuncia-a-presentarse-y-despeja-el-espacio-electoral-de-la-derecha.html",
      "domain": "El País",
-     "seendate": "20261016T104646Z"
+     "seendate": "20261016T112536Z"
     },
     {
      "title": "La iluminación de Madrid en Navidad crece y crece sin fin: un millón de luces más y 1,2 millones de euros más",
@@ -157,6 +157,18 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Comerciantes de la colonia Morelos bloquean Eje 1 Norte; piden recuperar su mercancía de inmueble asegurado",
+     "url": "https://www.eluniversal.com.mx/metropoli/comerciantes-de-la-colonia-morelos-bloquean-eje-1-norte-piden-recuperar-su-mercancia-de-inmueble-asegurado/",
+     "domain": "El Universal",
+     "seendate": "20261016T181409Z"
+    },
+    {
+     "title": "Condonan adeudo de agua y gestionan pensión del ISSSTE a Doña Josefina; seguirá en protesta en Yucatán",
+     "url": "https://www.eluniversal.com.mx/estados/condonan-adeudo-de-agua-y-gestionan-pension-del-issste-a-dona-josefina-seguira-en-protesta-en-yucatan/",
+     "domain": "El Universal",
+     "seendate": "20261016T180947Z"
+    },
     {
      "title": "“Hay que erradicar la mentira como estrategia política”: Brugada rumbo a proceso electoral de 2027; reitera llamado a una discusión \"de altura\"",
      "url": "https://www.eluniversal.com.mx/metropoli/hay-que-erradicar-la-mentira-como-estrategia-politica-brugada-rumbo-a-proceso-electoral-de-2027-reitera-llamado-a-una-discusion-de-altura/",
@@ -556,6 +568,24 @@
   "CRI": {
    "articles": [
     {
+     "title": "Diputada del PLN cuestionará en Sala Constitucional normas presupuestarias que congelan ¢30.000 millones para el Poder Judicial en 2027",
+     "url": "https://www.nacion.com/politica/diputada-del-pln-cuestionara-en-sala/T6ZCRQVXPFFYZBAPXJAOZ75SBM/story/",
+     "domain": "La Nación",
+     "seendate": "20261016T181443Z"
+    },
+    {
+     "title": "Juzgado define medidas contra policía encargado de vigilar a Diablo y Tan, detenido por ingresar con celular y cargadores a Máxima Seguridad",
+     "url": "https://www.nacion.com/sucesos/juzgado-define-medidas-contra-policia-encargado-de/ILSMBLDWH5DVNOLMCW2Y23MXOI/story/",
+     "domain": "La Nación",
+     "seendate": "20261016T180936Z"
+    },
+    {
+     "title": "Gobierno destituye a embajador de Costa Rica en México; funcionario afirma que se enteró por la prensa",
+     "url": "https://www.nacion.com/politica/gobierno-destituye-a-embajador-de-costa-rica-en/KC2B27VGJZCYRFSOS5JBPOYCT4/story/",
+     "domain": "La Nación",
+     "seendate": "20261016T180702Z"
+    },
+    {
      "title": "Paso regulado en puente sobre río Tempisque arrancará este 16 de octubre",
      "url": "https://www.nacion.com/el-pais/paso-regulado-en-puente-sobre-rio-tempisque/ACXEK6F5HNDZBIE7MONUOW7OJM/story/",
      "domain": "La Nación",
@@ -692,18 +722,6 @@
      "url": "https://www.nacion.com/sucesos/detienen-a-policia-del-msp-encargado-de-vigilar-a/YZDPIX4DZNFI5IPJLHERZB23NY/story/",
      "domain": "La Nación",
      "seendate": "20261015T215210Z"
-    },
-    {
-     "title": "Inician labores de perfilado y recarpeteo en Heredia: conozca el horario y las zonas afectadas",
-     "url": "https://www.nacion.com/el-pais/inician-labores-de-perfilado-y-recarpeteo-en/3UTJDRTWUJBKTOF5557K6FRKWU/story/",
-     "domain": "La Nación",
-     "seendate": "20261015T213306Z"
-    },
-    {
-     "title": "PLN negocia con PPSO propuesta de consenso sobre armonización eléctrica",
-     "url": "https://www.nacion.com/politica/pln-negocia-con-ppso-propuesta-de-consenso-sobre/GT6G7F7MPBFR3LY7BOTSVU56ZM/story/",
-     "domain": "La Nación",
-     "seendate": "20261015T212256Z"
     }
    ]
   },
@@ -888,6 +906,12 @@
   "CUB": {
    "articles": [
     {
+     "title": "El Ocdh exige investigar irregularidades en el proceso contra Henry Constantín",
+     "url": "https://www.14ymedio.com/cuba/ocdh-exige-investigar-irregularidades-proceso_1_1132051.html",
+     "domain": "14ymedio",
+     "seendate": "20261016T181645Z"
+    },
+    {
      "title": "Hasta 12 años de prisión por robar balitas de gas en más de 20 viviendas de Sancti Spíritus",
      "url": "https://www.14ymedio.com/cuba/12-anos-prision-robar-balitas_1_1132049.html",
      "domain": "14ymedio",
@@ -1003,6 +1027,12 @@
   "COL": {
    "articles": [
     {
+     "title": "La angustiosa búsqueda de Dilan Campaz, desaparecido en Buenaventura: el caso revive clamor por hallar al hijo de comerciante asesinado en La Bocana",
+     "url": "https://www.eltiempo.com/colombia/cali/la-angustiosa-busqueda-de-dilan-campaz-desaparecido-en-buenaventura-el-caso-revive-clamor-por-hallar-al-hijo-de-comerciante-asesinado-en-la-bocana-3594088",
+     "domain": "El Tiempo",
+     "seendate": "20261016T180343Z"
+    },
+    {
      "title": "Alerta por la violencia de género en Nariño: convocan un comité extraordinario ante la alarmante cifra de feminicidios en la región",
      "url": "https://www.eltiempo.com/colombia/cali/alerta-por-la-violencia-de-genero-en-narino-convocan-un-comite-extraordinario-ante-la-alarmante-cifra-de-feminicidios-en-la-region-3594071",
      "domain": "El Tiempo",
@@ -1055,17 +1085,197 @@
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/indignacion-por-joven-que-fue-discriminado-tra-llegar-a-un-partido-del-junior-en-chanclas-ahorre-de-a-2-000-en-2-000-para-poder-ir-3594006",
      "domain": "El Tiempo",
      "seendate": "20261016T142232Z"
-    },
-    {
-     "title": "Rescatan en Santa Marta a ingeniero secuestrado: nueve personas fueron detenidas cuando exigían $50 millones por su liberación",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/rescatan-en-santa-marta-a-ingeniero-secuestrado-nueve-personas-fueron-detenidas-cuando-exigian-50-millones-por-su-liberacion-3594000",
-     "domain": "El Tiempo",
-     "seendate": "20261016T134824Z"
     }
    ]
   },
   "VEN": {
    "articles": [
+    {
+     "title": "Estadounidense KEO Energy administrará PetroUrdaneta en Zulia",
+     "url": "https://noticierodigital.com/2026/10/estadounidense-keo-energy-administrara-petrourdaneta-en-zulia/",
+     "domain": "noticierodigital.com",
+     "seendate": "20261016T180000Z"
+    },
+    {
+     "title": "La brecha generacional , por Simón Boccanegra",
+     "url": "https://talcualdigital.com/opinion/la-brecha-generacional-por-simon-boccanegra/",
+     "domain": "talcualdigital.com",
+     "seendate": "20261016T173000Z"
+    },
+    {
+     "title": "Figuera destaca rol de ONG : No pueden existir leyes coercitivas que limiten su existencia",
+     "url": "https://talcualdigital.com/noticias/figuera-destaca-rol-de-ong-no-pueden-existir-leyes-coercitivas-que-limiten-su-existencia/",
+     "domain": "talcualdigital.com",
+     "seendate": "20261016T173000Z"
+    },
+    {
+     "title": "La Conversa | Vinculan a Cabello , Granko y Hernández Dala con archivos de guerrillas",
+     "url": "https://talcualdigital.com/noticias/la-conversa-vinculan-a-cabello-granko-y-hernandez-dala-con-archivos-de-guerrillas/",
+     "domain": "talcualdigital.com",
+     "seendate": "20261016T173000Z"
+    },
+    {
+     "title": "American Airlines suma a Barcelona como su tercer destino en Venezuela",
+     "url": "https://finanzasdigital.com/american-airlines-suma-barcelona-tercer-destino-en-venezuela/",
+     "domain": "finanzasdigital.com",
+     "seendate": "20261016T173000Z"
+    },
+    {
+     "title": "Melendi se reencontrará con Caracas en 2027",
+     "url": "https://ultimasnoticias.com.ve/chevere-destacada/melendi-se-reencontrara-con-caracas-en-2027/",
+     "domain": "ultimasnoticias.com.ve",
+     "seendate": "20261016T171500Z"
+    },
+    {
+     "title": "Godoy destaca en la ONU Plan Venezuela Alimenta",
+     "url": "https://ultimasnoticias.com.ve/politica/godoy-destaca-en-la-onu-plan-venezuela-alimenta/",
+     "domain": "ultimasnoticias.com.ve",
+     "seendate": "20261016T171500Z"
+    },
+    {
+     "title": "Finity cumple dos años impulsando la tecnología financiera en Venezuela",
+     "url": "https://ultimasnoticias.com.ve/tecnologia/finity-cumple-dos-anos-impulsando-la-tecnologia-financiera-en-venezuela/",
+     "domain": "ultimasnoticias.com.ve",
+     "seendate": "20261016T171500Z"
+    },
+    {
+     "title": "Rinden homenaje en Caracas a José Gregorio Hernández y Carmen Rendiles",
+     "url": "https://ultimasnoticias.com.ve/mas-vida/rinden-homenaje-en-caracas-a-jose-gregorio-hernandez-y-carmen-rendiles/",
+     "domain": "ultimasnoticias.com.ve",
+     "seendate": "20261016T171500Z"
+    },
+    {
+     "title": "Minhvi afianza estrategias para fortalecer la construcción de viviendas",
+     "url": "https://ultimasnoticias.com.ve/mas-vida/minhvi-afianza-estrategias-para-fortalecer-la-construccion-de-viviendas/",
+     "domain": "ultimasnoticias.com.ve",
+     "seendate": "20261016T171500Z"
+    },
+    {
+     "title": "La juventud asume el 55 % de la producción agrícola nacional",
+     "url": "https://ultimasnoticias.com.ve/economia/la-juventud-asume-el-55-de-la-produccion-agricola-nacional/",
+     "domain": "ultimasnoticias.com.ve",
+     "seendate": "20261016T171500Z"
+    },
+    {
+     "title": "La derecha hace muy bien el mal",
+     "url": "https://www.aporrea.org/internacionales/a357556.html",
+     "domain": "aporrea.org",
+     "seendate": "20261016T164500Z"
+    },
+    {
+     "title": "Advierten que Caracas necesita fortalecer la prevención y la respuesta ante emergencias",
+     "url": "https://confirmado.com.ve/advierten-que-caracas-necesita-fortalecer-la-prevencion-y-la-respuesta-ante-emergencias/",
+     "domain": "confirmado.com.ve",
+     "seendate": "20261016T163000Z"
+    },
+    {
+     "title": "Inicio | Periódico CiudadCCS",
+     "url": "https://www.ciudadccs.info/publicacion/52008-venezuela-alcanza-la-cuarta-posicion-en-avistamiento-de-aves",
+     "domain": "ciudadccs.info",
+     "seendate": "20261016T163000Z"
+    },
+    {
+     "title": "Antonio de la Cruz : Trump conquistó Venezuela , ha olvidado devolverle su democracia",
+     "url": "https://confirmado.com.ve/antonio-de-la-cruz-trump-conquisto-venezuela-ha-olvidado-devolverle-su-democracia/",
+     "domain": "confirmado.com.ve",
+     "seendate": "20261016T163000Z"
+    },
+    {
+     "title": "Despliegan campaña marítima en Paria y Los Testigos para actualizar la cartografía nacional tras sismos",
+     "url": "https://confirmado.com.ve/despliegan-campana-maritima-en-paria-y-los-testigos-para-actualizar-la-cartografia-nacional-tras-sismos/",
+     "domain": "confirmado.com.ve",
+     "seendate": "20261016T163000Z"
+    },
+    {
+     "title": "PSUV Bolívar realizó cierre de campaña en el municipio Piar rumbo a la victoria del 18 de octubre",
+     "url": "http://www.psuv.org.ve/temas/noticias/psuv-bolivar-realizo-cierre-campana-municipio-piar-rumbo-a-victoria-18-octubre/",
+     "domain": "psuv.org.ve",
+     "seendate": "20261016T160000Z"
+    },
+    {
+     "title": "EE . UU . respalda al 100 % el diálogo en Venezuela y ve un progreso real",
+     "url": "https://www.globovision.com/politica/63216/ee-uu-respalda-al-100-al-porceso-de-dialogo-venezolano-y-resalta-progresos-reales-en-las",
+     "domain": "globovision.com",
+     "seendate": "20261016T160000Z"
+    },
+    {
+     "title": "TSJ respalda reforma de la Ley contra el Odio y aprueba avances en su discusión parlamentaria",
+     "url": "https://www.globovision.com/politica/63201/tsj-respalda-reforma-de-la-ley-contra-el-odio-y-aprueba-avances-en-su-discusion-parlamentaria",
+     "domain": "globovision.com",
+     "seendate": "20261016T160000Z"
+    },
+    {
+     "title": "Delegación de la AN2015 sostiene encuentro con ONG , fundaciones y asociaciones defensoras de derechos humanos",
+     "url": "https://www.globovision.com/politica/63213/delegacion-de-la-an-de-2015-sostiene-encuentro-con-ong-fundaciones-y-asociaciones-defensoras-de",
+     "domain": "globovision.com",
+     "seendate": "20261016T160000Z"
+    },
+    {
+     "title": "Voceros de la Federación Venezolana de Tenis solicitan al Tribunal Supremo de Justicia ir elecciones",
+     "url": "https://www.globovision.com/sociedad/63214/voceros-de-la-federacion-venezolana-de-tenis-solicitan-al-tribunal-supremo-de-justicia-ir",
+     "domain": "globovision.com",
+     "seendate": "20261016T160000Z"
+    },
+    {
+     "title": "La FAO advierte que El Niño y las interrupciones en Ormuz podrían agravar los riesgos para la seguridad alimentaria",
+     "url": "https://www.globovision.com/internacional/63203/la-fao-advierte-que-el-nino-y-las-interrupciones-en-ormuz-podrian-agravar-los-riesgos-para-la",
+     "domain": "globovision.com",
+     "seendate": "20261016T160000Z"
+    },
+    {
+     "title": "Gobernación del Táchira anuncia cierre total de la vía Capacho - San Antonio este fin de semana",
+     "url": "https://www.globovision.com/regiones/63209/cierre-total-de-la-via-capacho-viejo-san-antonio-del-tachira-este-fin-de-semana-por-obras-de",
+     "domain": "globovision.com",
+     "seendate": "20261016T160000Z"
+    },
+    {
+     "title": "Diputado Aníbal Sánchez :",
+     "url": "https://www.globovision.com/politica/63206/diputado-anibal-sanchez-el-proceso-de-cambio-avanza-con-dialogos-reformas-y-apertura-a-la-inversion",
+     "domain": "globovision.com",
+     "seendate": "20261016T160000Z"
+    },
+    {
+     "title": "Corpoelec reactiva la Unidad 2 de la Central San Agatón y aporta 150 MW al SEN",
+     "url": "https://www.globovision.com/regiones/63212/corpoelec-reactiva-la-unidad-2-de-la-central-san-agaton-y-aporta-150-mw-al-sen",
+     "domain": "globovision.com",
+     "seendate": "20261016T160000Z"
+    },
+    {
+     "title": "Vinotinto en el exterior : cómo las estrellas venezolanas están marcando el cierre de la temporada 2026 en Sudamérica",
+     "url": "https://www.globovision.com/deportes/63205/vinotinto-en-el-exterior-como-las-estrellas-venezolanas-estan-marcando-el-cierre-de-la-temporada-en",
+     "domain": "globovision.com",
+     "seendate": "20261016T160000Z"
+    },
+    {
+     "title": "48 . 086 Consejos Comunales listos para la Consulta Popular Nacional",
+     "url": "https://rnv.gob.ve/48-086-consejos-comunales-listos-para-la-consulta-popular-nacional/",
+     "domain": "rnv.gob.ve",
+     "seendate": "20261016T154500Z"
+    },
+    {
+     "title": "Instalada la Mesa Técnica de Garantías Políticas entre la AN 2015 y la sociedad civil",
+     "url": "https://noticierodigital.com/2026/10/instalada-la-mesa-tecnica-de-garantias-politicas-entre-la-an-2015-y-la-sociedad-civil/",
+     "domain": "noticierodigital.com",
+     "seendate": "20261016T144500Z"
+    },
+    {
+     "title": "Lasso anuncia su sexto álbum de estudio Objetos frágiles en Ambientes Hostiles",
+     "url": "https://eldiariodeguayana.com.ve/lasso-anuncia-su-sexto-album-de-estudio-objetos-fragiles-en-ambientes-hostiles/",
+     "domain": "eldiariodeguayana.com.ve",
+     "seendate": "20261016T140000Z"
+    },
+    {
+     "title": "Venezuela sumó victoria ante Puerto Rico en la acción del Panamericano de Béisbol 5",
+     "url": "https://avn.info.ve/venezuela-sumo-victoria-ante-puerto-rico-en-la-accion-del-panamericano-de-beisbol-5/",
+     "domain": "avn.info.ve",
+     "seendate": "20261016T133000Z"
+    },
+    {
+     "title": "Victorias contundentes de Caribes , Tigres , Águilas y Bravos en la reciente jornada de la LVBP",
+     "url": "https://avn.info.ve/victorias-contundentes-de-caribes-tigres-aguilas-y-bravos-en-la-reciente-jornada-de-la-lvbp/",
+     "domain": "avn.info.ve",
+     "seendate": "20261016T133000Z"
+    },
     {
      "title": "El instrumento del miedo , por Teodoro Petkoff",
      "url": "https://talcualdigital.com/teodoro/el-instrumento-del-miedo-por-teodoro-petkoff/",
@@ -1125,251 +1335,17 @@
      "url": "https://lapatilla.com/2026/10/15/ovp-a-los-presos-les-exigen-hasta-100-dolares-para-reparar-las-carceles-venezolanas/",
      "domain": "lapatilla.com",
      "seendate": "20261016T090000Z"
-    },
-    {
-     "title": "Inicio | Periódico CiudadCCS",
-     "url": "https://www.ciudadccs.info/publicacion/51989-aguilas-pinta-de-blanco-a-los-pajaros-rojos-larenses-y-los-derrota-2-0",
-     "domain": "ciudadccs.info",
-     "seendate": "20261016T083000Z"
-    },
-    {
-     "title": "¡ No hay derecho !, por Teodoro Petkoff",
-     "url": "https://talcualdigital.com/opinion/no-hay-derecho-por-teodoro-petkoff/",
-     "domain": "talcualdigital.com",
-     "seendate": "20261016T070000Z"
-    },
-    {
-     "title": "Cambio de metáfora , por Aglaya Kinzbruner",
-     "url": "https://talcualdigital.com/opinion/cambio-de-metafora-por-aglaya-kinzbruner/",
-     "domain": "talcualdigital.com",
-     "seendate": "20261016T070000Z"
-    },
-    {
-     "title": "La brecha de gestión de riesgos de Venezuela , por Marino J . González R .",
-     "url": "https://talcualdigital.com/opinion/la-brecha-de-gestion-de-riesgos-de-venezuela-por-marino-j-gonzalez-r/",
-     "domain": "talcualdigital.com",
-     "seendate": "20261016T070000Z"
-    },
-    {
-     "title": "En busca de la soberanía perdida , por Samuel J . Pérez Hermida",
-     "url": "https://talcualdigital.com/opinion/en-busca-de-la-soberania-perdida-por-samuel-j-perez-hermida/",
-     "domain": "talcualdigital.com",
-     "seendate": "20261016T070000Z"
-    },
-    {
-     "title": "Laser Airlines retomará los vuelos entre Caracas y Aruba desde diciembre",
-     "url": "https://nuevodia.com.ve/laser-airlines-retomara-los-vuelos-entre-caracas-y-aruba-desde-diciembre/",
-     "domain": "nuevodia.com.ve",
-     "seendate": "20261016T060000Z"
-    },
-    {
-     "title": ".: El Sol de Margarita :.",
-     "url": "https://elsoldemargarita.com.ve/posts/post/id:259043/Guante-de-Oro",
-     "domain": "elsoldemargarita.com.ve",
-     "seendate": "20261016T060000Z"
-    },
-    {
-     "title": "EE . UU . prevé que tercera ronda de diálogo en Venezuela se extienda hasta finales de la próxima semana",
-     "url": "https://nuevodia.com.ve/ee-uu-preve-que-tercera-ronda-de-dialogo-en-venezuela-se-extienda-hasta-finales-de-la-proxima-semana/",
-     "domain": "nuevodia.com.ve",
-     "seendate": "20261016T060000Z"
-    },
-    {
-     "title": "Pequiven exporta 30 . 000 toneladas métricas de fertilizantes a EE . UU .",
-     "url": "https://nuevodia.com.ve/pequiven-exporta-30-000-toneladas-metricas-de-fertilizantes-a-ee-uu/",
-     "domain": "nuevodia.com.ve",
-     "seendate": "20261016T060000Z"
-    },
-    {
-     "title": "XI Edición Fiesta de los Santos Inocentes está Locos por La Ve",
-     "url": "https://nuevodia.com.ve/xi-edicion-de-la-fiesta-de-los-santos-inocentes-esta-locos-por-la-vela/",
-     "domain": "nuevodia.com.ve",
-     "seendate": "20261016T060000Z"
-    },
-    {
-     "title": "Venezuela envía 40 toneladas de ayuda humanitaria a Panamá",
-     "url": "https://nuevodia.com.ve/venezuela-envia-40-toneladas-de-ayuda-humanitaria-a-panama/",
-     "domain": "nuevodia.com.ve",
-     "seendate": "20261016T060000Z"
-    },
-    {
-     "title": "Venezuela pide ante la ONU cooperación internacional justa para erradicar la pobreza – Correo del Orinoco | La Artillería del Pensamiento",
-     "url": "http://www.correodelorinoco.gob.ve/venezuela-pide-ante-la-onu-cooperacion-internacional-justa-para-erradicar-la-pobreza/",
-     "domain": "correodelorinoco.gob.ve",
-     "seendate": "20261016T054500Z"
-    },
-    {
-     "title": "Magallanes encaja su tercera derrota consecutiva en el inicio de la temporada 2026 - 2027",
-     "url": "https://www.el-carabobeno.com/magallanes-encaja-su-tercera-derrota-consecutiva-en-el-inicio-de-la-temporada-2026-2027/",
-     "domain": "el-carabobeno.com",
-     "seendate": "20261016T050000Z"
-    },
-    {
-     "title": "Machado denuncia que EEUU la ha excluido de las negociaciones sobre Venezuela",
-     "url": "https://www.el-carabobeno.com/machado-denuncia-que-ee-uu-la-ha-excluido-de-las-negociaciones-sobre-venezuela/",
-     "domain": "el-carabobeno.com",
-     "seendate": "20261016T050000Z"
-    },
-    {
-     "title": "Hija de banquero venezolano hace millonaria donación antes de que Trump indultara al padre",
-     "url": "https://www.el-carabobeno.com/hija-de-banquero-venezolano-hace-millonaria-donacion-antes-de-que-trump-indultara-al-padre/",
-     "domain": "el-carabobeno.com",
-     "seendate": "20261016T050000Z"
-    },
-    {
-     "title": "Vente Venezuela convoca movilizaciones para el 22 de octubre",
-     "url": "https://eldiariodeguayana.com.ve/vente-venezuela-convoca-movilizaciones-para-el-22-de-octubre/",
-     "domain": "eldiariodeguayana.com.ve",
-     "seendate": "20261016T043000Z"
-    },
-    {
-     "title": "Estudio revela que el 69 % de los venezolanos prefiere consolidar el bolívar como moneda nacional",
-     "url": "https://www.eluniversal.com/economia/243334/estudio-revela-que-el-69-de-los-venezolanos-prefiere-consolidar-el-bolivar-como-moneda-nacional",
-     "domain": "eluniversal.com",
-     "seendate": "20261016T041500Z"
-    },
-    {
-     "title": "FANB despliega 130 mil funcionarios para Consulta Popular",
-     "url": "https://rnv.gob.ve/fanb-despliega-funcionarios-segunda-consulta-popular/",
-     "domain": "rnv.gob.ve",
-     "seendate": "20261016T041500Z"
-    },
-    {
-     "title": "Hinterlaces : 69 % de los venezolanos prefiere el Bolívar",
-     "url": "https://rnv.gob.ve/hinterlaces-prefieren-fortalecer-el-bolivar/",
-     "domain": "rnv.gob.ve",
-     "seendate": "20261016T041500Z"
-    },
-    {
-     "title": "TSJ avala constitucionalidad de reforma a Ley contra el Odio",
-     "url": "https://rnv.gob.ve/tsj-constitucionalidad-reforma-ley-contra-el-odio/",
-     "domain": "rnv.gob.ve",
-     "seendate": "20261016T041500Z"
-    },
-    {
-     "title": "Capriles exige centrar negociación en fijar fecha de presidenciales",
-     "url": "https://talcualdigital.com/noticias/capriles-exige-centrar-negociacion-en-fijar-fecha-de-presidenciales/",
-     "domain": "talcualdigital.com",
-     "seendate": "20261016T040000Z"
-    },
-    {
-     "title": "Las renuncias , por Teodoro Petkoff",
-     "url": "https://talcualdigital.com/teodoro/las-renuncias-por-teodoro-petkoff/",
-     "domain": "talcualdigital.com",
-     "seendate": "20261016T040000Z"
-    },
-    {
-     "title": "María Corina Machado encabeza la intención de voto frente a un panorama de elecciones presidenciales , según encuesta | NTN24 . COM – Mundinews – Breaking News del Mundo Entero",
-     "url": "https://mundinews.com/2026/10/15/maria-corina-machado-encabeza-la-intencion-de-voto-frente-a-un-panorama-de-elecciones-presidenciales-segun-encuesta-ntn24-com/",
-     "domain": "mundinews.com",
-     "seendate": "20261016T021500Z"
-    },
-    {
-     "title": "Jorge Rodríguez , de mente maestra del chavismo a cooperador clave de EE UU – Correo del Caroní",
-     "url": "https://correodelcaroni.com/pais-politico/jorge-rodriguez-de-mente-maestra-del-chavismo-a-cooperador-clave-de-ee-uu/",
-     "domain": "correodelcaroni.com",
-     "seendate": "20261016T021500Z"
-    },
-    {
-     "title": "TSJ avala constitucionalidad de la reforma a la Ley contra el Odio - Agencia Venezolana de Noticias",
-     "url": "https://avn.info.ve/tsj-avala-constitucionalidad-de-la-reforma-a-la-ley-contra-el-odio/",
-     "domain": "avn.info.ve",
-     "seendate": "20261016T021500Z"
-    },
-    {
-     "title": "Policía de Chacao ratifica vigencia de sus nuevos uniformes - Agencia Venezolana de Noticias",
-     "url": "https://avn.info.ve/policia-de-chacao-ratifica-vigencia-de-sus-nuevos-uniformes/",
-     "domain": "avn.info.ve",
-     "seendate": "20261016T021500Z"
-    },
-    {
-     "title": "Binghatti muestra en Caracas sus proyectos inmobiliarios de Dubai",
-     "url": "https://www.globovision.com/economia/63193/venezuela-primera-parada-de-dubai-en-america-latina",
-     "domain": "globovision.com",
-     "seendate": "20261016T021500Z"
-    },
-    {
-     "title": "Pequiven concreta envío de 30 mil toneladas de fertilizantes a Estados Unidos – Correo del Caroní",
-     "url": "https://correodelcaroni.com/laboral-economia/pequiven-concreta-envio-de-30-mil-toneladas-de-fertilizantes-a-estados-unidos/",
-     "domain": "correodelcaroni.com",
-     "seendate": "20261016T021500Z"
-    },
-    {
-     "title": "Lasso anuncia su sexto álbum de estudio Objetos frágiles en Ambientes Hostiles",
-     "url": "https://www.globovision.com/entretenimiento/63194/lasso-anuncia-su-sexto-album-de-estudio-objetos-fragiles-en-ambientes-hostiles",
-     "domain": "globovision.com",
-     "seendate": "20261016T021500Z"
-    },
-    {
-     "title": "SACS dotó de uniformes e insumos tácticos al personal de aduanas para fortalecer el control sanitario nacional",
-     "url": "https://mpps.gob.ve/sacs-doto-de-uniformes-e-insumos-tacticos-al-personal-de-aduanas-para-fortalecer-el-control-sanitario-nacional/",
-     "domain": "mpps.gob.ve",
-     "seendate": "20261016T021500Z"
-    },
-    {
-     "title": "Caracas conmemora un año de la canonización de San José Gregorio y Santa Carmen Rendiles",
-     "url": "https://avn.info.ve/caracas-conmemora-un-ano-de-la-canonizacion-de-san-jose-gregorio-y-santa-carmen-rendiles/",
-     "domain": "avn.info.ve",
-     "seendate": "20261016T021500Z"
-    },
-    {
-     "title": "Capacitan a personal del sector agua sobre el impacto del SEN en el suministro hídrico",
-     "url": "https://avn.info.ve/capacitan-a-personal-del-sector-agua-sobre-el-impacto-del-sistema-electrico-nacional-en-el-suministro-hidrico/",
-     "domain": "avn.info.ve",
-     "seendate": "20261016T021500Z"
-    },
-    {
-     "title": "Nicolás Maduro y Cilia Flores se declaran no culpables de las nuevas imputaciones de la Fiscalía en EEUU",
-     "url": "https://www.globovision.com/politica/63191/fiscalia-de-eeuu-amplia-acusacion-contra-maduro-y-cilia-flores",
-     "domain": "globovision.com",
-     "seendate": "20261016T020000Z"
-    },
-    {
-     "title": "Turmereños esperan resultados concretos en mesa de diálogo",
-     "url": "https://elsiglo.com.ve/turmerenos-esperan-resultados-concretos-en-mesa-de-dialogo/",
-     "domain": "elsiglo.com.ve",
-     "seendate": "20261016T020000Z"
-    },
-    {
-     "title": "Liga FUTVE y Liga Portugal firman histórico memorando de entendimiento - Agencia Venezolana de Noticias",
-     "url": "https://avn.info.ve/liga-futve-y-liga-portugal-firman-historico-memorando-de-entendimiento/",
-     "domain": "avn.info.ve",
-     "seendate": "20261016T011500Z"
-    },
-    {
-     "title": "Seniat y Cavececo impulsan formalización y profesionalización de la actividad comercial",
-     "url": "https://avn.info.ve/seniat-y-cavececo-impulsan-formalizacion-y-profesionalizacion-de-la-actividad-comercial/",
-     "domain": "avn.info.ve",
-     "seendate": "20261016T011500Z"
-    },
-    {
-     "title": "PNUD impulsa plan de cuidados para adultos mayores en Chacao - Agencia Venezolana de Noticias",
-     "url": "https://avn.info.ve/pnud-impulsa-plan-de-cuidados-para-adultos-mayores-en-chacao/",
-     "domain": "avn.info.ve",
-     "seendate": "20261016T011500Z"
-    },
-    {
-     "title": "El peligro autocrático , por Teodoro Petkoff",
-     "url": "https://talcualdigital.com/teodoro/el-peligro-autocratico-por-teodoro-petkoff/",
-     "domain": "talcualdigital.com",
-     "seendate": "20261016T011500Z"
-    },
-    {
-     "title": "PDVSA en Cepeg 2026 | Zulia producirá gas licuado en 2027",
-     "url": "https://nuevodia.com.ve/pdvsa-en-cepeg-2026-zulia-producira-gas-licuado-en-2027/",
-     "domain": "nuevodia.com.ve",
-     "seendate": "20261016T011500Z"
-    },
-    {
-     "title": "Inspeccionan trabajos de rehabilitación en la Escuela de Medicina José María Vargas de la UCV",
-     "url": "https://avn.info.ve/inspeccionan-trabajos-de-rehabilitacion-en-la-escuela-de-medicina-jose-maria-vargas-de-la-ucv/",
-     "domain": "avn.info.ve",
-     "seendate": "20261016T011500Z"
     }
    ]
   },
   "ECU": {
    "articles": [
+    {
+     "title": "Toque de queda en cinco provincias de Ecuador: limitación de movilidad busca facilitar operativos y contrarrestar accionar de bandas, según decreto",
+     "url": "https://eluniverso.com/politica/seguridad/toque-de-queda-en-cinco-provincias-de-ecuador-limitacion-de-movilidad-busca-facilitar-operativos-y-contrarrestar-accionar-de-bandas-nota/",
+     "domain": "El Universo",
+     "seendate": "20261016T180548Z"
+    },
     {
      "title": "Dijo que su hija se suicidó, pero una prueba la delató: dictan prisión preventiva a una mujer en Manabí",
      "url": "https://eluniverso.com/comunidad/ecuador/la-revancha-prision-preventiva-por-muerte-de-una-joven-nota/",
@@ -2179,6 +2155,96 @@
   "ARG": {
    "articles": [
     {
+     "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este viernes 16 de octubre, minuto a minuto",
+     "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid16102026/",
+     "domain": "La Nación",
+     "seendate": "20261016T182500Z"
+    },
+    {
+     "title": "Javier Milei y sus medidas, EN VIVO: el FMI espera una “aceleración muy positiva de crecimiento económico para 2027″",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-fmi-espera-una-aceleracion-muy-positiva-de-crecimiento-nid16102026/",
+     "domain": "La Nación",
+     "seendate": "20261016T182154Z"
+    },
+    {
+     "title": "Cita del día, Winston Churchill, político: “El éxito no es definitivo, el fracaso no es fatal: lo que cuenta es el coraje para continuar”",
+     "url": "https://www.lanacion.com.ar/sociedad/cita-del-dia-winston-churchill-politico-el-exito-no-es-definitivo-el-fracaso-no-es-fatal-lo-que-nid15102026/",
+     "domain": "La Nación",
+     "seendate": "20261016T181806Z"
+    },
+    {
+     "title": "Gabriel Rolón, psicoanalista, sobre los recuerdos: “Nuestros padres que ya no están se transforman en personas por ahí más nobles de lo que fueron”",
+     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-sobre-los-recuerdos-nuestros-padres-que-ya-no-estan-se-transforman-en-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261016T181803Z"
+    },
+    {
+     "title": "A qué hora llegan las tormentas fuertes y el granizo a Buenos Aires hoy, según el SMN",
+     "url": "https://www.lanacion.com.ar/sociedad/a-que-hora-llegan-las-tormentas-fuertes-a-buenos-aires-hoy-jueves-15-de-octubre-nid15102026/",
+     "domain": "La Nación",
+     "seendate": "20261016T181756Z"
+    },
+    {
+     "title": "Gabriel Rolón, psicoanalista, sobre los condicionantes de las decisiones: “Estamos sólo cumpliendo un mandato inconsciente”",
+     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-sobre-los-condicionantes-de-las-decisiones-estamos-solo-cumpliendo-un-nid16102026/",
+     "domain": "La Nación",
+     "seendate": "20261016T181750Z"
+    },
+    {
+     "title": "Súper Niño 2026: qué se sabe del fenómeno que cambiará el pronóstico de la Argentina y llegará pronto a su pico máximo",
+     "url": "https://www.lanacion.com.ar/sociedad/super-nino-2026-que-se-sabe-del-fenomeno-que-cambiara-por-completo-el-clima-en-la-argentina-y-nid05102026/",
+     "domain": "La Nación",
+     "seendate": "20261016T181746Z"
+    },
+    {
+     "title": "Robin Sharma, especialista en crecimiento personal: “Un mal día para el ego es un buen día para el alma; aprendemos en la dificultad”",
+     "url": "https://www.lanacion.com.ar/sociedad/robin-sharma-especialista-en-crecimiento-personal-un-mal-dia-para-el-ego-es-un-buen-dia-para-el-alma-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261016T181742Z"
+    },
+    {
+     "title": "Arthur Brooks, experto de Harvard, de 62 años: “Lo que hacen las personas felices y exitosas en la segunda mitad de sus vidas es pasar de sumar a restar”",
+     "url": "https://www.lanacion.com.ar/sociedad/arthur-brooks-experto-de-harvard-de-62-anos-lo-que-hacen-las-personas-felices-y-exitosas-en-la-nid08102026/",
+     "domain": "La Nación",
+     "seendate": "20261016T181628Z"
+    },
+    {
+     "title": "Pilar Sordo, psicóloga: “Es necesario ser dócil frente al dolor”",
+     "url": "https://www.lanacion.com.ar/sociedad/pilar-sordo-psicologa-es-necesario-ser-docil-frente-al-dolor-nid16102026/",
+     "domain": "La Nación",
+     "seendate": "20261016T181625Z"
+    },
+    {
+     "title": "Joseph Pilates, creador del método de entrenamiento: “La respiración es la primera acción que realizamos en la vida, y la última; una respiración vaga e incompleta te acerca a la enfermedad”",
+     "url": "https://www.lanacion.com.ar/sociedad/joseph-pilates-creador-del-metodo-de-entrenamiento-la-respiracion-es-la-primera-accion-que-nid14102026/",
+     "domain": "La Nación",
+     "seendate": "20261016T181506Z"
+    },
+    {
+     "title": "Gabriel Rolón, psicólogo, sobre la intimidad de las parejas: “La ilusión de completud no está”",
+     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicologo-sobre-la-intimidad-de-las-parejas-la-ilusion-de-completud-no-esta-nid15102026/",
+     "domain": "La Nación",
+     "seendate": "20261016T181459Z"
+    },
+    {
+     "title": "Arthur Brooks, experto en felicidad de Harvard: “Hay una inteligencia que nace a partir de los 40 años”",
+     "url": "https://www.lanacion.com.ar/sociedad/arthur-brooks-experto-en-felicidad-de-harvard-hay-una-inteligencia-que-nace-a-partir-de-los-40-anos-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261016T181455Z"
+    },
+    {
+     "title": "El juez Lijo ordenó un exhorto a Suiza por transferencias de US$190.000 de la FIFA a Claudio “Chiqui” Tapia",
+     "url": "https://www.lanacion.com.ar/politica/el-juez-lijo-ordeno-un-exhorto-a-suiza-por-transferencias-de-us190000-de-la-fifa-a-claudio-chiqui-nid16102026/",
+     "domain": "La Nación",
+     "seendate": "20261016T180056Z"
+    },
+    {
+     "title": "Murió Fernando Confessore: reacciones y mensajes de despedida al meteorólogo que trabajaba en el canal TN",
+     "url": "https://www.lanacion.com.ar/sociedad/murio-fernando-confessore-reacciones-y-mensajes-de-despedida-al-meteorologo-que-trabajaba-en-el-nid16102026/",
+     "domain": "La Nación",
+     "seendate": "20261016T175941Z"
+    },
+    {
      "title": "Yamila Farrell, 29 años, presidenta de la Asociación Rural de Chivilcoy: “Las cosas que mejoran las celebramos y las que se están haciendo poco levantamos la voz”",
      "url": "https://www.lanacion.com.ar/economia/campo/yamila-farrell-29-anos-presidenta-de-la-asociacion-rural-de-chivilcoy-las-cosas-que-mejoran-las-nid16102026/",
      "domain": "La Nación",
@@ -2189,18 +2255,6 @@
      "url": "https://www.lanacion.com.ar/economia/premio-visa-la-nacion-a-la-innovacion-cuando-la-tecnologia-se-pone-al-servicio-de-la-inclusion-nid16102026/",
      "domain": "La Nación",
      "seendate": "20261016T174715Z"
-    },
-    {
-     "title": "Javier Milei y sus medidas, EN VIVO: el FMI espera una “aceleración muy positiva de crecimiento económico para 2027″",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-fmi-espera-una-aceleracion-muy-positiva-de-crecimiento-nid16102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T174500Z"
-    },
-    {
-     "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este viernes 16 de octubre, minuto a minuto",
-     "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid16102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T174100Z"
     },
     {
      "title": "Eric Agustín y Mónica Reinsch amansan guanacos, los esquilan y exportan una de las fibras más valiosas del mundo: “Tiene que ser revolucionario”",
@@ -2221,82 +2275,10 @@
      "seendate": "20261016T170531Z"
     },
     {
-     "title": "A qué hora llegan las tormentas fuertes y el granizo a Buenos Aires hoy, según el SMN",
-     "url": "https://www.lanacion.com.ar/sociedad/a-que-hora-llegan-las-tormentas-fuertes-a-buenos-aires-hoy-jueves-15-de-octubre-nid15102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T165945Z"
-    },
-    {
      "title": "El Gobierno mostró superávit en septiembre y dijo que “cumplió” con la ley de financiamiento universitario",
      "url": "https://www.lanacion.com.ar/economia/el-gobierno-mostro-superavit-en-septiembre-y-dijo-que-cumplio-con-los-acuerdos-alcanzados-con-las-nid16102026/",
      "domain": "La Nación",
      "seendate": "20261016T165402Z"
-    },
-    {
-     "title": "Cita del día, Winston Churchill, político: “El éxito no es definitivo, el fracaso no es fatal: lo que cuenta es el coraje para continuar”",
-     "url": "https://www.lanacion.com.ar/sociedad/cita-del-dia-winston-churchill-politico-el-exito-no-es-definitivo-el-fracaso-no-es-fatal-lo-que-nid15102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T165136Z"
-    },
-    {
-     "title": "Gabriel Rolón, psicoanalista, sobre los recuerdos: “Nuestros padres que ya no están se transforman en personas por ahí más nobles de lo que fueron”",
-     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-sobre-los-recuerdos-nuestros-padres-que-ya-no-estan-se-transforman-en-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T165132Z"
-    },
-    {
-     "title": "Gabriel Rolón, psicoanalista, sobre los condicionantes de las decisiones: “Estamos sólo cumpliendo un mandato inconsciente”",
-     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-sobre-los-condicionantes-de-las-decisiones-estamos-solo-cumpliendo-un-nid16102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T165117Z"
-    },
-    {
-     "title": "Súper Niño 2026: qué se sabe del fenómeno que cambiará el pronóstico de la Argentina y llegará pronto a su pico máximo",
-     "url": "https://www.lanacion.com.ar/sociedad/super-nino-2026-que-se-sabe-del-fenomeno-que-cambiara-por-completo-el-clima-en-la-argentina-y-nid05102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T165114Z"
-    },
-    {
-     "title": "Murió Fernando Confessore: reacciones y mensajes de despedida al meteorólogo que trabajaba en el canal TN",
-     "url": "https://www.lanacion.com.ar/sociedad/murio-fernando-confessore-reacciones-y-mensajes-de-despedida-al-meteorologo-que-trabajaba-en-el-nid16102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T165110Z"
-    },
-    {
-     "title": "Robin Sharma, especialista en crecimiento personal: “Un mal día para el ego es un buen día para el alma; aprendemos en la dificultad”",
-     "url": "https://www.lanacion.com.ar/sociedad/robin-sharma-especialista-en-crecimiento-personal-un-mal-dia-para-el-ego-es-un-buen-dia-para-el-alma-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T165105Z"
-    },
-    {
-     "title": "Arthur Brooks, experto de Harvard, de 62 años: “Lo que hacen las personas felices y exitosas en la segunda mitad de sus vidas es pasar de sumar a restar”",
-     "url": "https://www.lanacion.com.ar/sociedad/arthur-brooks-experto-de-harvard-de-62-anos-lo-que-hacen-las-personas-felices-y-exitosas-en-la-nid08102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T165044Z"
-    },
-    {
-     "title": "Pilar Sordo, psicóloga: “Es necesario ser dócil frente al dolor”",
-     "url": "https://www.lanacion.com.ar/sociedad/pilar-sordo-psicologa-es-necesario-ser-docil-frente-al-dolor-nid16102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T165040Z"
-    },
-    {
-     "title": "Joseph Pilates, creador del método de entrenamiento: “La respiración es la primera acción que realizamos en la vida, y la última; una respiración vaga e incompleta te acerca a la enfermedad”",
-     "url": "https://www.lanacion.com.ar/sociedad/joseph-pilates-creador-del-metodo-de-entrenamiento-la-respiracion-es-la-primera-accion-que-nid14102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T165011Z"
-    },
-    {
-     "title": "Gabriel Rolón, psicólogo, sobre la intimidad de las parejas: “La ilusión de completud no está”",
-     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicologo-sobre-la-intimidad-de-las-parejas-la-ilusion-de-completud-no-esta-nid15102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T165003Z"
-    },
-    {
-     "title": "Arthur Brooks, experto en felicidad de Harvard: “Hay una inteligencia que nace a partir de los 40 años”",
-     "url": "https://www.lanacion.com.ar/sociedad/arthur-brooks-experto-en-felicidad-de-harvard-hay-una-inteligencia-que-nace-a-partir-de-los-40-anos-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T165000Z"
     },
     {
      "title": "Los gobernadores piden más obras y Santilli lanzó una advertencia: “Deberían estar preocupados si vuelve el kirchnerismo”",
@@ -2333,12 +2315,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/el-agua-sigue-bajando-desde-brasil-y-ya-pone-en-alerta-a-17-puertos-del-litoral-nid16102026/",
      "domain": "La Nación",
      "seendate": "20261016T152048Z"
-    },
-    {
-     "title": "“Algo fuerte está cambiando en Argentina”: Galperin elogió la marcha del Gobierno en medio de los disturbios en el Congreso",
-     "url": "https://www.lanacion.com.ar/economia/algo-fuerte-esta-cambiando-en-argentina-galperin-elogio-la-marcha-del-gobierno-en-medio-de-los-nid16102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T150856Z"
     }
    ]
   },
@@ -2703,6 +2679,18 @@
   "PRY": {
    "articles": [
     {
+     "title": "Peña vuelve a prometer la modernización del Hospital de Caacupé, un año y medio después",
+     "url": "https://www.abc.com.py/nacionales/2026/10/16/pena-vuelve-a-prometer-la-modernizacion-del-hospital-de-caacupe-un-ano-y-medio-despues/",
+     "domain": "ABC Color",
+     "seendate": "20261016T182544Z"
+    },
+    {
+     "title": "Diputado procesado por fatal accidente es sobreseído tras acuerdo económico",
+     "url": "https://www.abc.com.py/nacionales/2026/10/16/diputado-procesado-por-fatal-accidente-es-sobreseido-tras-acuerdo-economico/",
+     "domain": "ABC Color",
+     "seendate": "20261016T181101Z"
+    },
+    {
      "title": "Policía Nacional descarta explosivo en Campus de la UNA tras amenaza",
      "url": "https://www.abc.com.py/nacionales/2026/10/16/policia-nacional-descarta-explosivo-en-la-una-tras-amenaza/",
      "domain": "ABC Color",
@@ -2731,24 +2719,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/16/paro-nacional-trans-convocan-a-marcha-este-sabado-en-la-plaza-de-la-democracia/",
      "domain": "ABC Color",
      "seendate": "20261016T160756Z"
-    },
-    {
-     "title": "UNA: “suspensión preventiva de actividades” por amenaza de ataque armado y explosivos",
-     "url": "https://www.abc.com.py/nacionales/2026/10/16/una-suspension-preventiva-de-actividades-por-amenaza-de-ataque-armado-y-explosivos/",
-     "domain": "ABC Color",
-     "seendate": "20261016T152537Z"
-    },
-    {
-     "title": "Llaman a concurso público para cubrir casi 500 vacancias en el Estado: todo lo que debés saber",
-     "url": "https://www.abc.com.py/nacionales/2026/10/16/llaman-a-concurso-publico-para-cubrir-casi-500-vacancias-en-el-estado-todo-lo-que-debes-saber/",
-     "domain": "ABC Color",
-     "seendate": "20261016T151325Z"
-    },
-    {
-     "title": "Ratifican que el IPS debe implantar válvula aórtica a exministro de la Corte condenado por coima",
-     "url": "https://www.abc.com.py/nacionales/2026/10/16/ratifican-que-el-ips-debe-implantar-valvula-aortica-a-exministro-de-la-corte-condenado-por-coima/",
-     "domain": "ABC Color",
-     "seendate": "20261016T135916Z"
     }
    ]
   },
@@ -2758,19 +2728,25 @@
   "BRA": {
    "articles": [
     {
+     "title": "Amazônia tem a menor taxa de desmatamento desde o início da série histórica, em 1988",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/16/amazonia-tem-a-menor-taxa-de-desmatamento-desde-o-inicio-da-serie-historica-em-1988.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261016T175513Z"
+    },
+    {
      "title": "TSE aprova novas regras para canais no WhatsApp",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/16/tse-aprova-novas-regras-para-canais-no-whatsapp.ghtml",
      "domain": "O Globo",
      "seendate": "20261016T174526Z"
     },
     {
-     "title": "Lula comemora fim da escala 6x1 em comício em Juiz de Fora e diz que país deve evitar ‘retrocesso’",
+     "title": "'Bolsonaristas vão acabar com essa medida e a (escala) 6x1 vai voltar', diz Lula após promulgação de PEC no Congresso",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/16/lula-comemora-fim-da-escala-6x1-em-comicio-em-juiz-de-fora-e-diz-que-pais-deve-evitar-retrocesso.ghtml",
      "domain": "O Globo",
      "seendate": "20261016T173728Z"
     },
     {
-     "title": "Meta fala em 'lacuna' de sistema de IA que favoreceu montagens para Flávio e diz que problema foi corrigido",
+     "title": "Meta admite falhas envolvendo contas de Lula e nega interferência nas eleições",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/16/meta-fala-em-lacuna-de-sistema-de-ia-que-favoreceu-montagens-para-flavio-e-diz-que-problema-foi-corrigido.ghtml",
      "domain": "O Globo",
      "seendate": "20261016T173725Z"
@@ -2822,30 +2798,6 @@
      "url": "https://oglobo.globo.com/brasil/sao-paulo/post/2026/10/aeronave-que-caiu-no-tiete-tinha-pecas-de-carro-e-remendos-com-fita-isolante-aponta-fab.ghtml",
      "domain": "O Globo",
      "seendate": "20261016T132106Z"
-    },
-    {
-     "title": "CNBB critica propostas de redução da maioridade penal e alerta para aumento da violência",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/16/cnbb-critica-propostas-de-reducao-da-maioridade-penal-e-alerta-para-aumento-da-violencia.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261016T130944Z"
-    },
-    {
-     "title": "Nova coordenação de campanha incentivou guinada de Lula sobre maioridade penal em busca de eleitores de centro",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/16/nova-coordenacao-de-campanha-incentivou-guinada-de-lula-sobre-maioridade-penal-em-busca-de-eleitores-de-centro.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261016T130808Z"
-    },
-    {
-     "title": "MP pede multa de até R$ 1,8 milhão e explicações da gestão Nunes sobre estragos causados pela chuva em São Paulo",
-     "url": "https://oglobo.globo.com/brasil/sao-paulo/noticia/2026/10/16/mp-pede-multa-de-ate-r-18-milhao-a-prefeitura-de-sp-e-da-48h-para-nunes-explicar-caos-na-chuva.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261016T125240Z"
-    },
-    {
-     "title": "Moraes autoriza que Heleno saia de prisão domiciliar para atendimento médico em Brasília",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/16/moraes-autoriza-que-heleno-saia-de-prisao-domiciliar-para-atendimento-medico-em-brasilia.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261016T124552Z"
     }
    ]
   }
