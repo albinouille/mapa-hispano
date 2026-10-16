@@ -1,13 +1,19 @@
 {
- "updated": "2026-10-16T21:33:15+00:00",
+ "updated": "2026-10-16T22:05:13+00:00",
  "countries": {
   "ESP": {
    "articles": [
     {
-     "title": "Última hora de la actualidad política, en directo | Podemos responde al Frente Amplio con una oferta para acuerdos territoriales sin Madrid y Cataluña",
+     "title": "Última hora de la actualidad política, en directo | Frente Amplio y Podemos fracasan en la búsqueda de una coalición",
      "url": "https://elpais.com/espana/2026-10-16/ultima-hora-de-la-actualidad-politica-en-directo.html",
      "domain": "El País",
-     "seendate": "20261016T211052Z"
+     "seendate": "20261016T215710Z"
+    },
+    {
+     "title": "El PSOE y el Frente Amplio alcanzan un pacto nacional de listas conjuntas al Senado",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-10-16/el-psoe-y-la-izquierda-alcanzan-un-pacto-nacional-de-listas-conjuntas-al-senado.html",
+     "domain": "El País",
+     "seendate": "20261016T215319Z"
     },
     {
      "title": "El Defensor del Pueblo interpone un recurso de amparo ante el Constitucional por la suspensión del voto de los nacionalizados por la ‘ley de nietos’",
@@ -50,12 +56,6 @@
      "url": "https://elpais.com/espana/elecciones-generales/2026-10-16/montse-minguez-deja-la-politica-para-no-perjudicar-la-campana-de-sanchez.html",
      "domain": "El País",
      "seendate": "20261016T165307Z"
-    },
-    {
-     "title": "Estos son los acuerdos territoriales que ya están cerrados en la izquierda alternativa para las elecciones del 29-N",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-10-16/estos-son-los-acuerdos-territoriales-que-ya-estan-cerrados-en-la-izquierda-alternativa-para-las-elecciones-del-29-n.html",
-     "domain": "El País",
-     "seendate": "20261016T164028Z"
     },
     {
      "title": "La juez envía a juicio a Santiago Laiglesia por el crimen de Helena Jubany 25 años después de su asesinato",
@@ -157,6 +157,18 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "La Cruz Azul anuncia alianza con Bionexo Tasy; van por mejor atención a pacientes en su red de hospitales",
+     "url": "https://www.eluniversal.com.mx/nacion/la-cruz-azul-anuncia-alianza-con-bionexo-tasy-van-por-mejor-atencion-a-pacientes-en-su-red-de-hospitales/",
+     "domain": "El Universal",
+     "seendate": "20261016T215139Z"
+    },
+    {
+     "title": "Por incendio en bodega de Los Mochis, desalojan a vecinos y estudiantes de Universidad Autónoma de Sinaloa; fuego afecta a depósito de agroquímicos",
+     "url": "https://www.eluniversal.com.mx/estados/por-incendio-en-bodega-de-los-mochis-desalojan-a-vecinos-y-estudiantes-de-universidad-autonoma-de-sinaloa-fuego-afecta-a-deposito-de-agroquimicos/",
+     "domain": "El Universal",
+     "seendate": "20261016T214423Z"
+    },
     {
      "title": "Jorge Romero entrega nombramientos a coordinadores del PAN en Tamaulipas; apuestan por \"Chucho\" Nader para recuperar Tampico",
      "url": "https://www.eluniversal.com.mx/estados/jorge-romero-entrega-nombramientos-a-coordinadores-del-pan-en-tamaulipas-apuestan-por-chucho-nader-para-recuperar-tampico/",
@@ -380,12 +392,6 @@
      "seendate": "20261016T144417Z"
     },
     {
-     "title": "Fiscalía de Veracruz inicia investigación por muerte de doctora del IMSS-Bienestar en Coatzacoalcos; indaga presunto feminicidio",
-     "url": "https://www.eluniversal.com.mx/estados/fiscalia-de-veracruz-inicia-investigacion-por-muerte-de-doctora-del-imss-bienestar-en-coatzacoalcos-indaga-presunto-feminicidio/",
-     "domain": "El Universal",
-     "seendate": "20261016T142952Z"
-    },
-    {
      "title": "Sheinbaum anuncia nueva Universidad Rosario Castellanos en antigua casa de \"El Negro\" Durazo; se ubicará en Tlalpan",
      "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-anuncia-nueva-universidad-rosario-castellanos-en-antigua-casa-de-el-negro-durazo-se-ubicara-en-tlalpan/",
      "domain": "El Universal",
@@ -465,6 +471,42 @@
   },
   "HND": {
    "articles": [
+    {
+     "title": "Rafa Villeda habla de futuro de Espinel y quiere una final centroamericana ante Motagua",
+     "url": "https://www.elheraldo.hn/deportes/rafa-villeda-futuro-espinel-quiere-final-centroamericana-olimpia-motagua-IG32344873",
+     "domain": "elheraldo.hn",
+     "seendate": "20261016T213000Z"
+    },
+    {
+     "title": "Edwin Rodríguez se refiere a volver al extranjero y situación en Selección de Honduras",
+     "url": "https://www.elheraldo.hn/deportes/edwin-rodriguez-volver-extranjero-situacion-seleccion-honduras-CG32342055",
+     "domain": "elheraldo.hn",
+     "seendate": "20261016T213000Z"
+    },
+    {
+     "title": "CONCURSO PÚBLICO CNT - CP002 / 2026 | CONATEL Honduras",
+     "url": "https://www.conatel.gob.hn/avisos/22",
+     "domain": "conatel.gob.hn",
+     "seendate": "20261016T211500Z"
+    },
+    {
+     "title": "Juan Ignacio Martínez alaba la liga y aclara rumores de Nixon Cruz : Pueden jugar en España",
+     "url": "https://www.laprensa.hn/deportes/juan-ignacio-martinez-real-espana-alaba-liga-nacional-rumores-nixon-cruz-olimpia-CG32345304",
+     "domain": "laprensa.hn",
+     "seendate": "20261016T211500Z"
+    },
+    {
+     "title": "UTH otorga el prestigioso Doctorado Honoris Causa a Juan Bendeck por su invaluable legado a Honduras",
+     "url": "https://www.laprensa.hn/economia/marketingempresas/uth-otorga-prestigioso-doctorado-honoris-causa-juan-bendeck-por-invaluable-legado-honduras-OG32340842",
+     "domain": "laprensa.hn",
+     "seendate": "20261016T211500Z"
+    },
+    {
+     "title": "Precio del dólar este viernes 16 de octubre en Honduras : así se cotiza frente al lempira",
+     "url": "https://www.laprensa.hn/economia/precio-dolar-viernes-16-octubre-2026-honduras-cotizacion-frente-lempira-BG32342892",
+     "domain": "laprensa.hn",
+     "seendate": "20261016T211500Z"
+    },
     {
      "title": "SENASA capacita a más de 49 mil productores para combatir el gusano barrenador en Honduras",
      "url": "https://abriendobrecha.tv/nacionales/senasa-capacita-a-mas-de-49-mil-productores-para-combatir-el-gusano-barrenador-en-honduras/",
@@ -681,6 +723,18 @@
   },
   "CRI": {
    "articles": [
+    {
+     "title": "Fiestas de Zapote: tercer remate del campo ferial también fracasa",
+     "url": "https://www.nacion.com/el-pais/fiestas-de-zapote-tercer-remate-del-campo-ferial/UEYKHBFQSZDA3DTSRZNKKDOMRQ/story/",
+     "domain": "La Nación",
+     "seendate": "20261016T215639Z"
+    },
+    {
+     "title": "Tras cuatro días de búsqueda, Cruz Roja localiza cuerpo de hombre desaparecido en el río Reventado",
+     "url": "https://www.nacion.com/sucesos/tras-cuatro-dias-de-busqueda-cruz-roja-localiza/QFGZD4PDF5CYZJ47XDAZHIAGQI/story/",
+     "domain": "La Nación",
+     "seendate": "20261016T215006Z"
+    },
     {
      "title": "Juzgado separa por un año a 10 jerarcas de la Asociación Solidarista de Servidores Judiciales por presunta administración fraudulenta",
      "url": "https://www.nacion.com/sucesos/juzgado-separa-por-un-ano-a-10-jerarcas-de-la/JXWH3I5XNRGHLPDALOTMT5EZQ4/story/",
@@ -1141,10 +1195,22 @@
   "COL": {
    "articles": [
     {
+     "title": "Presto aclaró qué pasará con sus restaurantes tras entrar en liquidación judicial y reveló hasta cuándo seguirán abiertos",
+     "url": "https://www.eltiempo.com/colombia/presto-aclaro-que-pasara-con-sus-restaurantes-tras-entrar-en-liquidacion-judicial-y-revelo-hasta-cuando-seguiran-abiertos-3594141",
+     "domain": "El Tiempo",
+     "seendate": "20261016T215639Z"
+    },
+    {
      "title": "Capturado alias 'Julito' en Bucaramanga, señalado de cometer homicidios y sicariatos en la ciudad: se escapó de una correccional en Bogotá hace meses",
      "url": "https://www.eltiempo.com/colombia/santander/capturado-alias-julito-en-bucaramanga-senalado-de-cometer-homicidios-y-sicariatos-en-la-ciudad-se-escapo-de-una-correccional-en-bogota-hace-meses-3594124",
      "domain": "El Tiempo",
-     "seendate": "20261016T211508Z"
+     "seendate": "20261016T214907Z"
+    },
+    {
+     "title": "¿Cómo proyecta Cali su futuro energético?",
+     "url": "https://www.eltiempo.com/colombia/cali/como-proyecta-cali-su-futuro-energetico-3594153",
+     "domain": "El Tiempo",
+     "seendate": "20261016T213524Z"
     },
     {
      "title": "'¡Se acabó la guachafita!': el presidente De La Espriella lideró operativo en Barranquilla; 72 capturados y golpes a cabecillas de bandas criminales",
@@ -1157,18 +1223,6 @@
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/afinia-investiga-presunto-fraude-de-energia-en-empresa-hielera-de-cartagena-reportan-perdidas-superiores-a-los-36-millones-al-mes-3594142",
      "domain": "El Tiempo",
      "seendate": "20261016T210705Z"
-    },
-    {
-     "title": "Cronología del asesinato durante caravana fúnebre en Cúcuta y crímenes ligados: mataron a joven que despedía a su amiga, baleada cerca de la cárcel",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/cronologia-del-asesinato-en-caravana-funebre-en-cucuta-y-crimenes-ligados-mataron-a-joven-que-despedia-a-amiga-que-habia-sido-baleada-cerca-a-carcel-3594111",
-     "domain": "El Tiempo",
-     "seendate": "20261016T210500Z"
-    },
-    {
-     "title": "Presto aclaró qué pasará con sus restaurantes tras entrar en liquidación judicial y reveló hasta cuándo seguirán abiertos",
-     "url": "https://www.eltiempo.com/colombia/presto-aclaro-que-pasara-con-sus-restaurantes-tras-entrar-en-liquidacion-judicial-y-revelo-hasta-cuando-seguiran-abiertos-3594141",
-     "domain": "El Tiempo",
-     "seendate": "20261016T205325Z"
     },
     {
      "title": "Tras asesinar a su esposo en medio de una discusión, una joven en Boyacá tendrá que pagar 20 años de prisión",
@@ -1204,6 +1258,36 @@
   },
   "VEN": {
    "articles": [
+    {
+     "title": "Delcy Rodríguez invitó a participar en la consulta popular",
+     "url": "https://elsiglo.com.ve/delcy-rodriguez-invito-participar-consulta-popular/",
+     "domain": "elsiglo.com.ve",
+     "seendate": "20261016T213000Z"
+    },
+    {
+     "title": "Venezuela exige acción climática en la ONU",
+     "url": "https://rnv.gob.ve/venezuela-exige-onu-cumplimiento-accion-climatica/",
+     "domain": "rnv.gob.ve",
+     "seendate": "20261016T211500Z"
+    },
+    {
+     "title": "Presidenta Delcy Rodríguez reafirma cumplimiento de meta Hambre cero antes del 2030",
+     "url": "https://avn.info.ve/presidenta-delcy-rodriguez-ratifica-que-antes-del-2030-se-alcanzara-meta-hambre-cero/",
+     "domain": "avn.info.ve",
+     "seendate": "20261016T211500Z"
+    },
+    {
+     "title": "Día Mundial de la Alimentación : Exitoso avance de Venezuela hacia Hambre Cero en 2030",
+     "url": "https://rnv.gob.ve/dia-mundial-alimentacion-venezuela-avanza-hambre-cero/",
+     "domain": "rnv.gob.ve",
+     "seendate": "20261016T211500Z"
+    },
+    {
+     "title": "Presidenta Delcy Rodríguez inspecciona Base de Misiones en Comuna Villa Zoila de la Cota 905",
+     "url": "https://rnv.gob.ve/presidenta-delcy-rodriguez-inspecciona-base-de-misiones-en-comuna-villa-zoila-de-la-cota-905/",
+     "domain": "rnv.gob.ve",
+     "seendate": "20261016T211500Z"
+    },
     {
      "title": "Burlas para los venezolanos de Doral ( y para los que no lo sean también )",
      "url": "https://www.informe21.com/post/burlas-para-los-venezolanos-de-doral-y-para-los-que-no-lo-sean-tambi%C3%A9n",
@@ -1473,41 +1557,29 @@
      "url": "https://talcualdigital.com/opinion/la-brecha-generacional-por-simon-boccanegra/",
      "domain": "talcualdigital.com",
      "seendate": "20261016T173000Z"
-    },
-    {
-     "title": "Figuera destaca rol de ONG : No pueden existir leyes coercitivas que limiten su existencia",
-     "url": "https://talcualdigital.com/noticias/figuera-destaca-rol-de-ong-no-pueden-existir-leyes-coercitivas-que-limiten-su-existencia/",
-     "domain": "talcualdigital.com",
-     "seendate": "20261016T173000Z"
-    },
-    {
-     "title": "La Conversa | Vinculan a Cabello , Granko y Hernández Dala con archivos de guerrillas",
-     "url": "https://talcualdigital.com/noticias/la-conversa-vinculan-a-cabello-granko-y-hernandez-dala-con-archivos-de-guerrillas/",
-     "domain": "talcualdigital.com",
-     "seendate": "20261016T173000Z"
-    },
-    {
-     "title": "American Airlines suma a Barcelona como su tercer destino en Venezuela",
-     "url": "https://finanzasdigital.com/american-airlines-suma-barcelona-tercer-destino-en-venezuela/",
-     "domain": "finanzasdigital.com",
-     "seendate": "20261016T173000Z"
-    },
-    {
-     "title": "Melendi se reencontrará con Caracas en 2027",
-     "url": "https://ultimasnoticias.com.ve/chevere-destacada/melendi-se-reencontrara-con-caracas-en-2027/",
-     "domain": "ultimasnoticias.com.ve",
-     "seendate": "20261016T171500Z"
-    },
-    {
-     "title": "Godoy destaca en la ONU Plan Venezuela Alimenta",
-     "url": "https://ultimasnoticias.com.ve/politica/godoy-destaca-en-la-onu-plan-venezuela-alimenta/",
-     "domain": "ultimasnoticias.com.ve",
-     "seendate": "20261016T171500Z"
     }
    ]
   },
   "ECU": {
    "articles": [
+    {
+     "title": "Ambato logra controlar voraz incendio forestal tras afectar 120 hectáreas en Pasa",
+     "url": "https://eluniverso.com/comunidad/ecuador/llamas-fuera-de-control-nota/",
+     "domain": "El Universo",
+     "seendate": "20261016T215759Z"
+    },
+    {
+     "title": "Concluye la inscripción para 700.000 cupos del programa Jóvenes en Acción, que se inicia el 4 de noviembre",
+     "url": "https://eluniverso.com/politica/ejecutivo/concluye-la-inscripcion-para-700000-cupos-del-programa-jovenes-en-accion-que-se-inicia-el-4-de-noviembre-nota/",
+     "domain": "El Universo",
+     "seendate": "20261016T215500Z"
+    },
+    {
+     "title": "Shyare Andrade: fanáticos desafían la lluvia para recibirla en una caravana en Portoviejo",
+     "url": "https://eluniverso.com/comunidad/ecuador/shyare-andrade-seguidores-la-esperan-bajo-la-lluvia-en-portoviejo-nota/",
+     "domain": "El Universo",
+     "seendate": "20261016T213223Z"
+    },
     {
      "title": "Santo Domingo de los Tsáchilas fortalece la seguridad escolar y la vigilancia con nuevas cámaras",
      "url": "https://eluniverso.com/comunidad/ecuador/santo-domingo-de-los-tsachilas-fortalece-la-seguridad-escolar-y-la-vigilancia-con-nuevas-camaras-nota/",
@@ -2383,16 +2455,64 @@
   "ARG": {
    "articles": [
     {
-     "title": "Javier Milei y sus medidas, EN VIVO: el FMI espera una “aceleración muy positiva de crecimiento económico para 2027″",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-fmi-espera-una-aceleracion-muy-positiva-de-crecimiento-nid16102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T212000Z"
-    },
-    {
      "title": "Un niño fue internado en grave estado luego de que se le cayera un arco de fútbol en el club Lanús",
      "url": "https://www.lanacion.com.ar/sociedad/un-nino-fue-internado-en-grave-estado-luego-de-que-se-le-cayera-un-arco-de-futbol-en-el-club-lanus-nid16102026/",
      "domain": "La Nación",
-     "seendate": "20261016T211218Z"
+     "seendate": "20261016T220338Z"
+    },
+    {
+     "title": "Con el traslado de más del 93 por ciento de los presos, la cárcel de Villa Devoto quedó cerca del cierre definitivo",
+     "url": "https://www.lanacion.com.ar/seguridad/con-el-traslado-de-mas-del-93-por-ciento-de-los-presos-la-carcel-de-villa-devoto-quedo-cerca-del-nid16102026/",
+     "domain": "La Nación",
+     "seendate": "20261016T215416Z"
+    },
+    {
+     "title": "Javier Milei y sus medidas, EN VIVO: el FMI espera una “aceleración muy positiva de crecimiento económico para 2027″",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-fmi-espera-una-aceleracion-muy-positiva-de-crecimiento-nid16102026/",
+     "domain": "La Nación",
+     "seendate": "20261016T215000Z"
+    },
+    {
+     "title": "Amplio repudio empresario al fallo que absolvió a los jefes sindicales que bloquearon San Nicolás",
+     "url": "https://www.lanacion.com.ar/politica/amplio-repudio-empresario-al-fallo-que-absolvio-a-los-jefes-sindicales-que-bloquearon-san-nicolas-nid16102026/",
+     "domain": "La Nación",
+     "seendate": "20261016T214928Z"
+    },
+    {
+     "title": "Gabriel Rolón, psicoanalista, sobre los condicionantes de las decisiones: “Estamos sólo cumpliendo un mandato inconsciente”",
+     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-sobre-los-condicionantes-de-las-decisiones-estamos-solo-cumpliendo-un-nid16102026/",
+     "domain": "La Nación",
+     "seendate": "20261016T214800Z"
+    },
+    {
+     "title": "A qué hora llegan las tormentas fuertes y el granizo a Buenos Aires hoy, según el SMN",
+     "url": "https://www.lanacion.com.ar/sociedad/a-que-hora-llegan-las-tormentas-fuertes-a-buenos-aires-hoy-jueves-15-de-octubre-nid15102026/",
+     "domain": "La Nación",
+     "seendate": "20261016T214800Z"
+    },
+    {
+     "title": "Pilar Sordo, psicóloga: “Es necesario ser dócil frente al dolor”",
+     "url": "https://www.lanacion.com.ar/sociedad/pilar-sordo-psicologa-es-necesario-ser-docil-frente-al-dolor-nid16102026/",
+     "domain": "La Nación",
+     "seendate": "20261016T214600Z"
+    },
+    {
+     "title": "La consultora de un exministro aconseja a las empresas que no esperen al resultado de las elecciones para invertir",
+     "url": "https://www.lanacion.com.ar/economia/la-consultora-de-un-exministro-aconseja-a-las-empresas-que-no-esperen-al-resultado-de-las-elecciones-nid16102026/",
+     "domain": "La Nación",
+     "seendate": "20261016T214244Z"
+    },
+    {
+     "title": "Movistar anunció cómo será el traspaso de millones de clientes a Tuenti: qué pasará con los planes y las líneas",
+     "url": "https://www.lanacion.com.ar/economia/movistar-anuncio-como-sera-el-traspaso-de-millones-de-clientes-a-tuenti-que-pasara-con-los-planes-y-nid16102026/",
+     "domain": "La Nación",
+     "seendate": "20261016T213913Z"
+    },
+    {
+     "title": "El gobernador de Neuquén salió sorteado en el narcotest provincial y mostró el resultado negativo",
+     "url": "https://www.lanacion.com.ar/politica/el-gobernador-de-neuquen-salio-sorteado-en-el-narcotest-provincial-y-mostro-el-resultado-negativo-nid16102026/",
+     "domain": "La Nación",
+     "seendate": "20261016T213531Z"
     },
     {
      "title": "Eric Agustín y Mónica Reinsch manejan una estancia de 33.000 hectáreas, amansan guanacos y exportan su valiosa fibra a Italia",
@@ -2425,18 +2545,6 @@
      "seendate": "20261016T204321Z"
     },
     {
-     "title": "A qué hora llegan las tormentas fuertes y el granizo a Buenos Aires hoy, según el SMN",
-     "url": "https://www.lanacion.com.ar/sociedad/a-que-hora-llegan-las-tormentas-fuertes-a-buenos-aires-hoy-jueves-15-de-octubre-nid15102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T204313Z"
-    },
-    {
-     "title": "Gabriel Rolón, psicoanalista, sobre los condicionantes de las decisiones: “Estamos sólo cumpliendo un mandato inconsciente”",
-     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-sobre-los-condicionantes-de-las-decisiones-estamos-solo-cumpliendo-un-nid16102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T204305Z"
-    },
-    {
      "title": "Súper Niño 2026: qué se sabe del fenómeno que cambiará el pronóstico de la Argentina y llegará pronto a su pico máximo",
      "url": "https://www.lanacion.com.ar/sociedad/super-nino-2026-que-se-sabe-del-fenomeno-que-cambiara-por-completo-el-clima-en-la-argentina-y-nid05102026/",
      "domain": "La Nación",
@@ -2453,12 +2561,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/arthur-brooks-experto-de-harvard-de-62-anos-lo-que-hacen-las-personas-felices-y-exitosas-en-la-nid08102026/",
      "domain": "La Nación",
      "seendate": "20261016T204251Z"
-    },
-    {
-     "title": "Pilar Sordo, psicóloga: “Es necesario ser dócil frente al dolor”",
-     "url": "https://www.lanacion.com.ar/sociedad/pilar-sordo-psicologa-es-necesario-ser-docil-frente-al-dolor-nid16102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T204248Z"
     },
     {
      "title": "Joseph Pilates, creador del método de entrenamiento: “La respiración es la primera acción que realizamos en la vida, y la última; una respiración vaga e incompleta te acerca a la enfermedad”",
@@ -2543,66 +2645,6 @@
      "url": "https://www.lanacion.com.ar/economia/la-economia-del-conocimiento-cruzo-los-us10000-millones-en-exportaciones-las-razones-y-los-desafios-nid16102026/",
      "domain": "La Nación",
      "seendate": "20261016T193128Z"
-    },
-    {
-     "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este viernes 16 de octubre, minuto a minuto",
-     "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid16102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T192500Z"
-    },
-    {
-     "title": "El riesgo país cerró la semana con otra suba y rozó los 650 puntos",
-     "url": "https://www.lanacion.com.ar/economia/el-riesgo-pais-cierra-la-semana-con-otra-suba-y-supera-los-640-puntos-nid16102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T192305Z"
-    },
-    {
-     "title": "Con el cierre de farmacias y centros médicos se extiende la crisis de la obra social de los militares",
-     "url": "https://www.lanacion.com.ar/politica/con-el-cierre-de-farmacias-y-centros-medicos-se-extiende-la-crisis-de-la-obra-social-de-los-nid16102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T192122Z"
-    },
-    {
-     "title": "La inflación mayorista se aceleró al 3,2% en septiembre impulsada por el petróleo y el gas",
-     "url": "https://www.lanacion.com.ar/economia/la-inflacion-mayorista-se-acelero-al-32-en-septiembre-impulsada-por-el-petroleo-y-el-gas-nid16102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T191845Z"
-    },
-    {
-     "title": "Thiago Príncipe tiene 14 años, construyó un tractor con piezas recuperadas y ahora quiere automatizarlo: “Sentí la innovación”",
-     "url": "https://www.lanacion.com.ar/economia/campo/thiago-principe-tiene-14-anos-construyo-un-tractor-con-piezas-recuperadas-y-ahora-quiere-nid14102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T185956Z"
-    },
-    {
-     "title": "Abrieron tres compuertas de un río y el agua llegará a 80 campos",
-     "url": "https://www.lanacion.com.ar/economia/campo/abrieron-tres-compuertas-de-un-rio-y-el-agua-llegara-a-80-campos-nid14102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T185804Z"
-    },
-    {
-     "title": "El dato que sorprendió a 6000 docentes: solo el 10% de los alumnos usa bien la inteligencia artificial",
-     "url": "https://www.lanacion.com.ar/sociedad/el-dato-que-sorprendio-a-6000-docentes-solo-el-10-de-los-alumnos-usa-bien-la-inteligencia-artificial-nid16102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T185044Z"
-    },
-    {
-     "title": "Elecciones en Brasil: cuáles son los escenarios posibles y cómo prepararse para el balotaje entre Lula y Bolsonaro",
-     "url": "https://www.lanacion.com.ar/economia/elecciones-en-brasil-cuales-son-los-escenarios-posibles-y-como-prepararse-para-el-balotaje-entre-nid16102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T183847Z"
-    },
-    {
-     "title": "Tras el fracaso de la sesión opositora, el PJ apunta contra el gobernador Melella por la ausencia de su diputado Tita",
-     "url": "https://www.lanacion.com.ar/politica/tras-el-fracaso-de-la-sesion-opositora-el-pj-apunta-contra-el-gobernador-melella-por-la-ausencia-de-nid16102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T183313Z"
-    },
-    {
-     "title": "El juez Lijo ordenó un exhorto a Suiza por transferencias de US$190.000 de la FIFA a Claudio “Chiqui” Tapia",
-     "url": "https://www.lanacion.com.ar/politica/el-juez-lijo-ordeno-un-exhorto-a-suiza-por-transferencias-de-us190000-de-la-fifa-a-claudio-chiqui-nid16102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T180056Z"
     }
    ]
   },
@@ -3034,6 +3076,12 @@
   "BRA": {
    "articles": [
     {
+     "title": "Zanin vai relatar pedido do PSD ao STF para anular eleição de Douglas Ruas e realizar segundo turno ao governo do Rio",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/16/zanin-vai-relatar-pedido-do-psd-para-anular-eleicao-de-douglas-ruas-e-realizar-segundo-turno-ao-governo-do-rio.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261016T205814Z"
+    },
+    {
      "title": "MP-SP faz operação para apurar suspeita de regalias na cadeia onde está preso o ex-vereador Milton Leite",
      "url": "https://oglobo.globo.com/brasil/sao-paulo/noticia/2026/10/16/mp-sp-faz-operacao-para-apurar-suspeita-de-regalias-na-cadeia-onde-esta-preso-o-ex-vereador-milton-leite.ghtml",
      "domain": "O Globo",
@@ -3046,7 +3094,7 @@
      "seendate": "20261016T201149Z"
     },
     {
-     "title": "Mulher em surto morta por PM é o terceiro caso do tipo em 15 dias em SP; mortes por ação policial subiram pelo 4º ano seguido na capital paulista",
+     "title": "Mulher em surto morta por PM é o 3º caso do tipo em 15 dias em SP; mortes por ação policial subiram pelo 4º ano seguido na capital paulista",
      "url": "https://oglobo.globo.com/brasil/noticia/2026/10/16/mulher-em-surto-morta-por-pm-e-o-terceiro-caso-do-tipo-em-15-dias-em-sp-mortes-por-acoes-policiais-subiram-pelo-quarto-ano-seguido-na-capital-paulista.ghtml",
      "domain": "O Globo",
      "seendate": "20261016T201017Z"
@@ -3118,7 +3166,7 @@
      "seendate": "20261016T173728Z"
     },
     {
-     "title": "Meta admite falhas envolvendo contas de Lula e nega interferência nas eleições",
+     "title": "Meta admite falhas envolvendo contas de Lula e nega interferência na eleição em benefício a Flávio Bolsonaro",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/16/meta-fala-em-lacuna-de-sistema-de-ia-que-favoreceu-montagens-para-flavio-e-diz-que-problema-foi-corrigido.ghtml",
      "domain": "O Globo",
      "seendate": "20261016T173725Z"
