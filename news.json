@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T22:59:39+00:00",
+ "updated": "2026-10-16T23:26:19+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -736,6 +736,12 @@
   "CRI": {
    "articles": [
     {
+     "title": "Vecina de condominio relata que drones intensificaban mensajes cuando propietarios se asomaban a sus balcones durante la inauguración del Cacco",
+     "url": "https://www.nacion.com/sucesos/vecina-de-condominio-relata-que-drones/OWFMEJSNG5HULMFPVXLANVGOVA/story/",
+     "domain": "La Nación",
+     "seendate": "20261016T225542Z"
+    },
+    {
      "title": "Juez ya resolvió qué pasará con Carlos Barahona tras la denuncia por cobros extorsivos",
      "url": "https://www.nacion.com/sucesos/juez-ya-resolvio-que-pasara-con-carlos-barahona/2DNIBSPWWVBMLDAQNJM756SL5A/story/",
      "domain": "La Nación",
@@ -908,17 +914,17 @@
      "url": "https://www.nacion.com/politica/es-damaris-vargas-la-candidata-mas-comoda-para-el/L452NW2JANBC7DNN6ZRX5BDFBY/story/",
      "domain": "La Nación",
      "seendate": "20261016T081500Z"
-    },
-    {
-     "title": "Fuertes lluvias de este jueves dejan 45 incidentes y cuatro personas evacuadas en la zona norte",
-     "url": "https://www.nacion.com/sucesos/fuertes-lluvias-de-este-jueves-dejan-45-incidentes/VSXHXYNSBFCBNMXEGK763FIOZA/story/",
-     "domain": "La Nación",
-     "seendate": "20261016T033700Z"
     }
    ]
   },
   "PAN": {
    "articles": [
+    {
+     "title": "En vivo: Gobierno presenta balance de la primera semana tras el terremoto",
+     "url": "https://www.prensa.com/politica/en-vivo-gobierno-presenta-balance-de-la-primera-semana-tras-el-terremoto/",
+     "domain": "La Prensa",
+     "seendate": "20261016T230819Z"
+    },
     {
      "title": "Diferencias con el contralor Flores habrían ocasionado la salida de Roxana Méndez de la Autoridad de Descentralización",
      "url": "https://www.prensa.com/politica/diferencias-con-el-contralor-flores-habrian-ocasionado-la-salida-roxana-mendez-de-la-autoridad-de-descentralizacion/",
@@ -1201,28 +1207,28 @@
   "COL": {
    "articles": [
     {
+     "title": "Capturan a alias 'Julito' en Santander, señalado de cometer homicidios y sicariatos; se escapó de una correccional en Bogotá hace meses",
+     "url": "https://www.eltiempo.com/colombia/santander/capturado-alias-julito-en-bucaramanga-senalado-de-cometer-homicidios-y-sicariatos-en-la-ciudad-se-escapo-de-una-correccional-en-bogota-hace-meses-3594124",
+     "domain": "El Tiempo",
+     "seendate": "20261016T224434Z"
+    },
+    {
+     "title": "Presto aclaró qué pasará con sus restaurantes tras entrar en liquidación judicial y reveló hasta cuándo seguirán abiertos",
+     "url": "https://www.eltiempo.com/colombia/presto-aclaro-que-pasara-con-sus-restaurantes-tras-entrar-en-liquidacion-judicial-y-revelo-hasta-cuando-seguiran-abiertos-3594141",
+     "domain": "El Tiempo",
+     "seendate": "20261016T224139Z"
+    },
+    {
      "title": "¿Cómo proyecta Cali su futuro energético?",
      "url": "https://www.eltiempo.com/colombia/cali/como-proyecta-cali-su-futuro-energetico-3594153",
      "domain": "El Tiempo",
      "seendate": "20261016T222749Z"
     },
     {
-     "title": "Capturan a alias 'Julito' en Bucaramanga, señalado de cometer homicidios y sicariatos en la ciudad: se escapó de una correccional en Bogotá hace meses",
-     "url": "https://www.eltiempo.com/colombia/santander/capturado-alias-julito-en-bucaramanga-senalado-de-cometer-homicidios-y-sicariatos-en-la-ciudad-se-escapo-de-una-correccional-en-bogota-hace-meses-3594124",
-     "domain": "El Tiempo",
-     "seendate": "20261016T221619Z"
-    },
-    {
      "title": "La nueva arquitectura de seguridad en el Valle del Cauca: los homicidios cayeron 22 % y las autoridades piden no bajar la guardia",
      "url": "https://www.eltiempo.com/colombia/cali/la-nueva-arquitectura-de-seguridad-en-el-valle-del-cauca-los-homicidios-cayeron-22-y-las-autoridades-piden-no-bajar-la-guardia-3594155",
      "domain": "El Tiempo",
      "seendate": "20261016T215921Z"
-    },
-    {
-     "title": "Presto aclaró qué pasará con sus restaurantes tras entrar en liquidación judicial y reveló hasta cuándo seguirán abiertos",
-     "url": "https://www.eltiempo.com/colombia/presto-aclaro-que-pasara-con-sus-restaurantes-tras-entrar-en-liquidacion-judicial-y-revelo-hasta-cuando-seguiran-abiertos-3594141",
-     "domain": "El Tiempo",
-     "seendate": "20261016T215639Z"
     },
     {
      "title": "'¡Se acabó la guachafita!': el presidente De La Espriella lideró operativo en Barranquilla; 72 capturados y golpes a cabecillas de bandas criminales",
@@ -1569,6 +1575,12 @@
   "ECU": {
    "articles": [
     {
+     "title": "Prisión preventiva para cuatro supuestos miembros de célula de Comandos de Frontera vinculados a crímenes en Ecuador",
+     "url": "https://eluniverso.com/politica/seguridad/prision-preventiva-para-cuatro-supuestos-miembros-de-celula-de-comandos-de-frontera-vinculados-a-crimenes-en-ecuador-nota/",
+     "domain": "El Universo",
+     "seendate": "20261016T225052Z"
+    },
+    {
      "title": "Entre lluvia y aplausos, Portoviejo celebra el regreso de Shyare Andrade",
      "url": "https://eluniverso.com/comunidad/ecuador/entre-lluvia-y-aplausos-portoviejo-celebra-el-regreso-de-shyare-andrade-nota/",
      "domain": "El Universo",
@@ -1792,6 +1804,24 @@
   },
   "BOL": {
    "articles": [
+    {
+     "title": "EL DÍA - Noticias de Bolivia para el mundo",
+     "url": "https://www.eldia.com.bo/2026-10-16/santa-cruz/dictan-180-dias-de-detencion-preventiva-en-palmasola-para-acusados-de-atracar-una-joyeria.html",
+     "domain": "eldia.com.bo",
+     "seendate": "20261016T224500Z"
+    },
+    {
+     "title": "Políticos advierten que las diferencias de fondo con Chile persistir",
+     "url": "http://radiofides.com/politica/politicos-advierten-que-las-diferencias-de-fondo-con-chile-persistiran-pese-al-acercamiento-bilateral",
+     "domain": "radiofides.com",
+     "seendate": "20261016T224500Z"
+    },
+    {
+     "title": "Importadores piden a Chile cumplir el Tratado de 1904 para garantiza",
+     "url": "http://radiofides.com/economia/importadores-piden-a-chile-cumplir-el-tratado-de-1904-para-garantizar-el-libre-transito-comercial-de-bolivia",
+     "domain": "radiofides.com",
+     "seendate": "20261016T224500Z"
+    },
     {
      "title": "Gremiales rechazan DS 5750 y esperarán la siguiente factura de luz para tomar medidas",
      "url": "https://www.opinion.com.bo/pais/gremiales-rechazan-ds-5750-esperaran-siguiente-factura-luz-tomar-medidas/20261016162323997712.html",
@@ -2075,58 +2105,10 @@
      "seendate": "20261016T111500Z"
     },
     {
-     "title": "EL DÍA - Noticias de Bolivia para el mundo",
-     "url": "https://www.eldia.com.bo/2026-10-16/opinion/el-demiurgo-capitalista/la-guerra-de-la-gasolina.html",
-     "domain": "eldia.com.bo",
-     "seendate": "20261016T083000Z"
-    },
-    {
      "title": "Paz en víspera de visita de Kast : nuestros hijos no tienen que morir por cuentas del pasado",
      "url": "https://www.lostiempos.com/actualidad/pais/20261015/paz-vispera-visita-kast-nuestros-hijos-no-tienen-que-morir-cuentas-del",
      "domain": "lostiempos.com",
      "seendate": "20261016T070000Z"
-    },
-    {
-     "title": "Presidente del TSE denuncia amenazas para frenar la reforma electoral y apunta a políticos y legisladores",
-     "url": "https://www.erbol.com.bo/nacional/presidente-del-tse-denuncia-amenazas-para-frenar-la-reforma-electoral-y-apunta-pol%C3%ADticos-y",
-     "domain": "erbol.com.bo",
-     "seendate": "20261016T070000Z"
-    },
-    {
-     "title": "La recesión proyectada por el Banco Mundial y como revertirla",
-     "url": "https://www.lostiempos.com/actualidad/opinion/20261015/columna/recesion-proyectada-banco-mundial-como-revertirla",
-     "domain": "lostiempos.com",
-     "seendate": "20261016T070000Z"
-    },
-    {
-     "title": "COB , liderada por Argollo , se declara en emergencia",
-     "url": "https://www.lostiempos.com/actualidad/pais/20261015/cob-liderada-argollo-se-declara-emergencia",
-     "domain": "lostiempos.com",
-     "seendate": "20261016T070000Z"
-    },
-    {
-     "title": "Gobierno opta por la vía judicial para « cerrar » el caso radares tras irregularidades y el daño económico",
-     "url": "https://eju.tv/2026/10/gobierno-opta-por-la-via-judicial-para-cerrar-el-caso-radares-tras-irregularidades-y-el-dano-economico/",
-     "domain": "eju.tv",
-     "seendate": "20261016T070000Z"
-    },
-    {
-     "title": "La Fiscalía aclara que los dichos de Urioste sobre los medios se vinculan a « hechos específicos »",
-     "url": "https://eju.tv/2026/10/la-fiscalia-aclara-que-los-dichos-de-urioste-sobre-los-medios-se-vinculan-a-hechos-especificos/",
-     "domain": "eju.tv",
-     "seendate": "20261016T063000Z"
-    },
-    {
-     "title": "Ha llegado el momento de cerrar un ciclo , dice Rómer Saucedo",
-     "url": "https://eldeber.com.bo/pais/ha-llegado-momento-cerrar-ciclo-dice-romer-saucedo_1792113210",
-     "domain": "eldeber.com.bo",
-     "seendate": "20261016T043000Z"
-    },
-    {
-     "title": "Caso radares : Se pagaron 191 millones de euros y no hemos recibido lo que corresponde , advierte el ministro Justiniano",
-     "url": "https://eldeber.com.bo/pais/caso-radares-pagaron-191-millones-euros-no-hemos-recibido-corresponde-advierte-ministro-justiniano_1792117606",
-     "domain": "eldeber.com.bo",
-     "seendate": "20261016T043000Z"
     }
    ]
   },
@@ -2497,6 +2479,30 @@
   "ARG": {
    "articles": [
     {
+     "title": "Martín Cabrales ingresó a la Academia de Ciencias de la Empresa y pidió agregar valor a la producción",
+     "url": "https://www.lanacion.com.ar/economia/martin-cabrales-ingreso-a-la-academia-de-ciencias-de-la-empresa-y-pidio-agregar-valor-a-la-nid16102026/",
+     "domain": "La Nación",
+     "seendate": "20261016T231710Z"
+    },
+    {
+     "title": "Javier Milei y sus medidas, EN VIVO: el FMI espera una “aceleración muy positiva de crecimiento económico para 2027″",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-fmi-espera-una-aceleracion-muy-positiva-de-crecimiento-nid16102026/",
+     "domain": "La Nación",
+     "seendate": "20261016T230632Z"
+    },
+    {
+     "title": "Eric Agustín y Mónica Reinsch manejan una estancia de 33.000 hectáreas, amansan guanacos y exportan su valiosa fibra a Italia",
+     "url": "https://www.lanacion.com.ar/economia/campo/eric-agustin-y-monica-reinsch-amansan-guanacos-los-esquilan-y-exportan-una-de-las-fibras-mas-nid16102026/",
+     "domain": "La Nación",
+     "seendate": "20261016T230034Z"
+    },
+    {
+     "title": "Conrado Estol: “No tenés que decir: ´Tengo 75, me pongo a ver televisión todo el día´, no, tenés que mantenerte activo\"",
+     "url": "https://www.lanacion.com.ar/sociedad/conrado-estol-no-tenes-que-decir-tengo-75-me-pongo-a-ver-television-todo-el-dia-no-tenes-que-nid16102026/",
+     "domain": "La Nación",
+     "seendate": "20261016T230000Z"
+    },
+    {
      "title": "Los gobernadores piden más obras y Santilli lanzó una advertencia: “Deberían estar preocupados si vuelve el kirchnerismo”",
      "url": "https://www.lanacion.com.ar/politica/los-gobernadores-piden-mas-obras-y-santilli-lanzo-una-advertencia-deberian-estar-preocupados-si-nid16102026/",
      "domain": "La Nación",
@@ -2507,12 +2513,6 @@
      "url": "https://www.lanacion.com.ar/seguridad/dramatica-busqueda-de-tres-pescadores-que-fueron-arrastrados-por-la-corriente-del-rio-parana-nid16102026/",
      "domain": "La Nación",
      "seendate": "20261016T225438Z"
-    },
-    {
-     "title": "Javier Milei y sus medidas, EN VIVO: el FMI espera una “aceleración muy positiva de crecimiento económico para 2027″",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-fmi-espera-una-aceleracion-muy-positiva-de-crecimiento-nid16102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T225000Z"
     },
     {
      "title": "Cita del día, Winston Churchill, político: “El éxito no es definitivo, el fracaso no es fatal: lo que cuenta es el coraje para continuar”",
@@ -2531,12 +2531,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/que-es-el-trastorno-de-purpura-trombocitopenica-idiopatica-la-enfermedad-de-denisse-gonzalez-nid15102026/",
      "domain": "La Nación",
      "seendate": "20261016T223023Z"
-    },
-    {
-     "title": "Eric Agustín y Mónica Reinsch manejan una estancia de 33.000 hectáreas, amansan guanacos y exportan su valiosa fibra a Italia",
-     "url": "https://www.lanacion.com.ar/economia/campo/eric-agustin-y-monica-reinsch-amansan-guanacos-los-esquilan-y-exportan-una-de-las-fibras-mas-nid16102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T222933Z"
     },
     {
      "title": "“El agua viene fuerte”: la crecida acecha y el éxodo de animales y de pobladores en el Litoral entró en su hora más crítica",
@@ -2627,12 +2621,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/robin-sharma-especialista-en-crecimiento-personal-un-mal-dia-para-el-ego-es-un-buen-dia-para-el-alma-nid11102026/",
      "domain": "La Nación",
      "seendate": "20261016T204258Z"
-    },
-    {
-     "title": "Joseph Pilates, creador del método de entrenamiento: “La respiración es la primera acción que realizamos en la vida, y la última; una respiración vaga e incompleta te acerca a la enfermedad”",
-     "url": "https://www.lanacion.com.ar/sociedad/joseph-pilates-creador-del-metodo-de-entrenamiento-la-respiracion-es-la-primera-accion-que-nid14102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T204223Z"
     }
    ]
   },
@@ -2996,6 +2984,30 @@
   },
   "PRY": {
    "articles": [
+    {
+     "title": "Video: caos para salir de Asunción tras promesa incumplida de habilitar la Costanera",
+     "url": "https://www.abc.com.py/nacionales/2026/10/16/video-caos-en-microcentro-de-asuncion-tras-promesa-incumplida-de-habilitar-la-costanera/",
+     "domain": "ABC Color",
+     "seendate": "20261016T231442Z"
+    },
+    {
+     "title": "Itauguá celebra el Día Nacional del Ñandutí con feria artesanal y espectáculos",
+     "url": "https://www.abc.com.py/nacionales/2026/10/16/itaugua-celebra-el-dia-nacional-del-nanduti-con-feria-artesanal-y-espectaculos/",
+     "domain": "ABC Color",
+     "seendate": "20261016T231136Z"
+    },
+    {
+     "title": "Sonidos de la Tierra en PJC: feria, cuidado ambiental y un megaconcierto",
+     "url": "https://www.abc.com.py/nacionales/2026/10/16/sonidos-de-la-tierra-en-pjc-feria-cuidado-ambiental-y-un-megaconcierto/",
+     "domain": "ABC Color",
+     "seendate": "20261016T231011Z"
+    },
+    {
+     "title": "Crecida de ríos afecta a más de 1.000 familias, según SEN",
+     "url": "https://www.abc.com.py/nacionales/2026/10/16/crecida-de-rios-afecta-a-mas-de-1000-familias-segun-sen/",
+     "domain": "ABC Color",
+     "seendate": "20261016T230422Z"
+    },
     {
      "title": "¿Nuevo cardenal en Paraguay? Esto responde monseñor Ricardo Valenzuela",
      "url": "https://www.abc.com.py/nacionales/2026/10/16/nuevo-cardenal-en-paraguay-esto-responde-monsenor-ricardo-valenzuela/",
