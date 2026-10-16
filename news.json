@@ -1,13 +1,25 @@
 {
- "updated": "2026-10-16T19:28:47+00:00",
+ "updated": "2026-10-16T19:59:53+00:00",
  "countries": {
   "ESP": {
    "articles": [
     {
-     "title": "Última hora de la actualidad política, en directo | Horas decisivas para un acuerdo de unidad en el espacio a la izquierda del PSOE",
+     "title": "Última hora de la actualidad política, en directo | El Frente Amplio envía a Podemos la propuesta por escrito de un “puesto de salida prioritario en Madrid y Cataluña”",
      "url": "https://elpais.com/espana/2026-10-16/ultima-hora-de-la-actualidad-politica-en-directo.html",
      "domain": "El País",
-     "seendate": "20261016T184618Z"
+     "seendate": "20261016T195317Z"
+    },
+    {
+     "title": "El Defensor del Pueblo interpone un recurso de amparo ante el Constitucional por la suspensión del voto de los nacionalizados por la ‘ley de nietos’",
+     "url": "https://elpais.com/espana/2026-10-16/el-defensor-del-pueblo-interpone-un-recurso-de-amparo-ante-el-constitucional-por-la-suspension-del-derecho-al-voto-a-nacionalizados-por-la-ley-de-nietos.html",
+     "domain": "El País",
+     "seendate": "20261016T194937Z"
+    },
+    {
+     "title": "Un estudio desmonta los mitos sobre la reincidencia de los excarcelados: el 90% no vuelve a prisión",
+     "url": "https://elpais.com/espana/2026-10-16/un-estudio-desmonta-los-mitos-sobre-la-reincidencia-de-los-excarcelados-el-90-no-vuelve-a-prision.html",
+     "domain": "El País",
+     "seendate": "20261016T192629Z"
     },
     {
      "title": "Una nueva marea verde de docentes con Ayuso en el foco recorre el centro de Madrid: “Orgullo de profesión, mierda de Administración”",
@@ -70,10 +82,10 @@
      "seendate": "20261016T125416Z"
     },
     {
-     "title": "Aena afirma que la ampliación del aeropuerto de Barcelona cumple con el calendario para estar lista en 2036",
-     "url": "https://elpais.com/espana/catalunya/2026-10-16/aena-afirma-que-la-ampliacion-del-aeropuerto-de-barcelona-cumple-con-el-calendario-para-estar-lista-en-2036.html",
+     "title": "La inexistente “academia de la yihad” para radicalizar a mujeres jóvenes",
+     "url": "https://elpais.com/espana/2026-10-16/la-falsa-academia-de-la-yihad-para-radicalizar-a-mujeres-jovenes.html",
      "domain": "El País",
-     "seendate": "20261016T123231Z"
+     "seendate": "20261016T124514Z"
     },
     {
      "title": "La Audiencia de Madrid ordena investigar si Vito Quiles coaccionó a Begoña Gómez",
@@ -106,12 +118,6 @@
      "seendate": "20261016T085712Z"
     },
     {
-     "title": "Una agencia lleva al banquillo por coacciones a un activista que destapó el racismo inmobiliario",
-     "url": "https://elpais.com/espana/catalunya/2026-10-16/una-agencia-lleva-al-banquillo-por-coacciones-a-un-activista-que-destapo-el-racismo-inmobiliario.html",
-     "domain": "El País",
-     "seendate": "20261016T033001Z"
-    },
-    {
      "title": "El PP de Ayuso apuesta por Cayetana Álvarez de Toledo como número dos por Madrid en las generales",
      "url": "https://elpais.com/espana/2026-10-16/el-pp-de-ayuso-apuesta-por-cayetana-alvarez-de-toledo-como-numero-dos-por-madrid-en-las-generales.html",
      "domain": "El País",
@@ -124,16 +130,16 @@
      "seendate": "20261016T033001Z"
     },
     {
-     "title": "El CNI entrega a la jueza Tardón el informe sobre lo ocurrido en Ceuta",
-     "url": "https://elpais.com/espana/2026-10-16/el-cni-entrega-a-la-jueza-tardon-el-informe-sobre-lo-ocurrido-en-ceuta.html",
+     "title": "Una agencia lleva al banquillo por coacciones a un activista que destapó el racismo inmobiliario",
+     "url": "https://elpais.com/espana/catalunya/2026-10-16/una-agencia-lleva-al-banquillo-por-coacciones-a-un-activista-que-destapo-el-racismo-inmobiliario.html",
      "domain": "El País",
      "seendate": "20261016T033001Z"
     },
     {
-     "title": "El Ayuntamiento que presidió Pérez Llorca dio un contrato a un exdirigente del PP tras ser condenado por Gürtel",
-     "url": "https://elpais.com/espana/comunidad-valenciana/2026-10-15/el-ayuntamiento-que-presidio-perez-llorca-dio-un-contrato-a-un-exdirigente-del-pp-tras-ser-condenado-por-gurtel.html",
+     "title": "El CNI entrega a la jueza Tardón el informe sobre lo ocurrido en Ceuta",
+     "url": "https://elpais.com/espana/2026-10-16/el-cni-entrega-a-la-jueza-tardon-el-informe-sobre-lo-ocurrido-en-ceuta.html",
      "domain": "El País",
-     "seendate": "20261015T210000Z"
+     "seendate": "20261016T033001Z"
     },
     {
      "title": "Sánchez apunta que las pensiones se subirán justo después de las elecciones",
@@ -151,6 +157,18 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Alistan destrucción de túnel para robo de combustible en parque industrial de Atitalaquia, Hidalgo; localizan otro en Atotonilco de Tula",
+     "url": "https://www.eluniversal.com.mx/estados/alistan-destruccion-de-tunel-para-robo-de-combustible-en-parque-industrial-de-atitalaquia-hidalgo-localizan-otro-en-atotonilco-de-tula/",
+     "domain": "El Universal",
+     "seendate": "20261016T194516Z"
+    },
+    {
+     "title": "¿Quieres adoptar un perrito? El Metro tiene 43 que buscan hogar; en el año suman 73 canes rescatados",
+     "url": "https://www.eluniversal.com.mx/metropoli/quieres-adoptar-un-perrito-el-metro-tiene-43-que-buscan-hogar-en-el-ano-suman-73-canes-rescatados/",
+     "domain": "El Universal",
+     "seendate": "20261016T193448Z"
+    },
     {
      "title": "Lanzan licitación para manejo de residuos sólidos urbanos en CDMX; fallo será el 28 de octubre",
      "url": "https://www.eluniversal.com.mx/metropoli/lanzan-licitacion-para-manejo-de-residuos-solidos-urbanos-en-cdmx-fallo-sera-el-28-de-octubre/",
@@ -400,6 +418,18 @@
   "HND": {
    "articles": [
     {
+     "title": "SENASA capacita a más de 49 mil productores para combatir el gusano barrenador en Honduras",
+     "url": "https://abriendobrecha.tv/nacionales/senasa-capacita-a-mas-de-49-mil-productores-para-combatir-el-gusano-barrenador-en-honduras/",
+     "domain": "abriendobrecha.tv",
+     "seendate": "20261016T184500Z"
+    },
+    {
+     "title": "La SAG completará 22 vuelos de estimulación de nubes , dos más de los previstos inicialmente",
+     "url": "https://abriendobrecha.tv/nacionales/la-sag-completara-22-vuelos-de-estimulacion-de-nubes-dos-mas-de-los-previstos-inicialmente/",
+     "domain": "abriendobrecha.tv",
+     "seendate": "20261016T184500Z"
+    },
+    {
      "title": "Evaluación macroeconómica crucial : Cohep definirá agenda técnica ante la misión del FMI este 23 de octubre",
      "url": "https://abriendobrecha.tv/economia/evaluacion-macroeconomica-crucial-cohep-definira-agenda-tecnica-ante-la-mision-del-fmi-este-23-de-octubre/",
      "domain": "abriendobrecha.tv",
@@ -580,6 +610,12 @@
   "CRI": {
    "articles": [
     {
+     "title": "Drones e intimidad de casas: sentencia obligó a municipalidad a dar cuentas por sobrevuelo a pocos metros de la cocina de una vivienda en Acosta",
+     "url": "https://www.nacion.com/politica/drones-e-intimidad-ciudadanos-tienen-derecho-a-que/OSOC57A74BDHTFHCLMGEN4ZNEI/story/",
+     "domain": "La Nación",
+     "seendate": "20261016T193004Z"
+    },
+    {
      "title": "Nogui Acosta abandona diálogo con rectores de U públicas, molesto porque PLN condiciona freno a recortes para seguir negociación sobre armonización eléctrica",
      "url": "https://www.nacion.com/politica/nogui-acosta-abandona-dialogo-con-rectores-de-u/OVB54WJPWJGFHDFQDRFBRLHQ6U/story/",
      "domain": "La Nación",
@@ -632,12 +668,6 @@
      "url": "https://www.nacion.com/el-pais/rectora-del-tec-afirma-que-superavit-no-se-puede/HKQPP75WRBH4XEHZSIPJ6IO4T4/story/",
      "domain": "La Nación",
      "seendate": "20261016T164034Z"
-    },
-    {
-     "title": "Drones e intimidad: ciudadanos tienen derecho a que entidades públicas expliquen sobrevuelos sobre sus propiedades, sentencia Sala Constitucional",
-     "url": "https://www.nacion.com/politica/drones-e-intimidad-ciudadanos-tienen-derecho-a-que/OSOC57A74BDHTFHCLMGEN4ZNEI/story/",
-     "domain": "La Nación",
-     "seendate": "20261016T162356Z"
     },
     {
      "title": "¿Qué falta para que los datos de salud ayuden más a los pacientes en Costa Rica? Esto explica un experto",
@@ -740,12 +770,6 @@
      "url": "https://www.nacion.com/el-pais/anuncian-resultados-del-examen-del-colegio-de/UFHRBKGGLVFMNA6VN7OI5VXRY4/story/",
      "domain": "La Nación",
      "seendate": "20261015T220310Z"
-    },
-    {
-     "title": "Detienen a policía del MSP encargado de vigilar a Diablo y Tan por ingresar con celular y cargadores a Máxima Seguridad",
-     "url": "https://www.nacion.com/sucesos/detienen-a-policia-del-msp-encargado-de-vigilar-a/YZDPIX4DZNFI5IPJLHERZB23NY/story/",
-     "domain": "La Nación",
-     "seendate": "20261015T215210Z"
     }
    ]
   },
@@ -1051,6 +1075,12 @@
   "COL": {
    "articles": [
     {
+     "title": "Cronología del asesinato en caravana fúnebre en Cúcuta y crimenes ligados: mataron a joven que despedía a amiga que había sido baleada cerca a cárcel",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/cronologia-del-asesinato-en-caravana-funebre-en-cucuta-y-crimenes-ligados-mataron-a-joven-que-despedia-a-amiga-que-habia-sido-baleada-cerca-a-carcel-3594111",
+     "domain": "El Tiempo",
+     "seendate": "20261016T194103Z"
+    },
+    {
      "title": "Exalcalde de La Vega, Cauca, denuncia que hallaron explosivos en su propiedad y pide protección para su familia",
      "url": "https://www.eltiempo.com/colombia/cali/exalcalde-de-la-vega-cauca-denuncia-que-hallaron-explosivos-en-su-propiedad-y-pide-proteccion-para-su-familia-3594102",
      "domain": "El Tiempo",
@@ -1103,12 +1133,6 @@
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/juzgado-de-cartagena-admite-tutela-contra-invias-y-el-mintransporte-por-la-operacion-de-seis-peajes-en-la-via-entre-la-ciudad-heroica-y-barranquilla-3594020",
      "domain": "El Tiempo",
      "seendate": "20261016T150151Z"
-    },
-    {
-     "title": "Ella era Janeth Suárez, la reconocida ingeniera ambiental que murió tras sufrir quemaduras en un famoso restaurante de Bucaramanga",
-     "url": "https://www.eltiempo.com/colombia/santander/ella-era-janeth-suarez-la-reconocida-ingeniera-ambiental-que-murio-tras-sufrir-quemaduras-en-un-famoso-restaurante-de-bucaramanga-3594007",
-     "domain": "El Tiempo",
-     "seendate": "20261016T142642Z"
     }
    ]
   },
@@ -1377,6 +1401,18 @@
   "ECU": {
    "articles": [
     {
+     "title": "Dos policías y un presunto integrante de la CTE, procesados por robo de camión con cacao en Guayas",
+     "url": "https://eluniverso.com/politica/seguridad/dos-policias-y-un-presunto-integrante-de-la-cte-procesados-por-robo-de-camion-con-cacao-en-guayas-nota/",
+     "domain": "El Universo",
+     "seendate": "20261016T194945Z"
+    },
+    {
+     "title": "Policía condecora al alto mando de las Fuerzas Armadas por cooperación en la lucha contra el crimen organizado",
+     "url": "https://eluniverso.com/politica/seguridad/policia-nacional-fuerzas-armadas-bloque-de-seguridad-gobierno-nota/",
+     "domain": "El Universo",
+     "seendate": "20261016T192730Z"
+    },
+    {
      "title": "Ministerio de Ambiente verificó remediación ambiental y reparación de tubería tras derrame de crudo en Cupa",
      "url": "https://eluniverso.com/comunidad/ecuador/ministerio-de-ambiente-verifico-remediacion-ambiental-y-reparacion-de-tuberia-tras-derrame-de-crudo-en-cupa-nota/",
      "domain": "El Universo",
@@ -1477,12 +1513,6 @@
      "url": "https://eluniverso.com/comunidad/ecuador/lotto-sorteo-3478-estos-son-los-numeros-ganadores-del-15-de-octubre-nota/",
      "domain": "El Universo",
      "seendate": "20261016T023940Z"
-    },
-    {
-     "title": "Retiran del Centro Forense de Santa Elena el cuerpo de la activista Monika Silva",
-     "url": "https://eluniverso.com/comunidad/ecuador/retiran-del-centro-forense-de-santa-elena-el-cuerpo-de-la-activista-monika-silva-nota/",
-     "domain": "El Universo",
-     "seendate": "20261015T170520Z"
     },
     {
      "title": "Antonio García, aspirante a la Alcaldía de Guayaquil por la lista 3: ‘Hay apertura total para hablar y llegar a acuerdos con el Gobierno’",
@@ -1833,6 +1863,114 @@
   "CHL": {
    "articles": [
     {
+     "title": "Kast y Paz acuerdan avanzar en restablecer relaciones diplomáticas entre Chile y Bolivia | Nacional",
+     "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/10/16/kast-y-paz-acuerdan-avanzar-en-reestablecer-relaciones-diplomaticas-entre-chile-y-bolivia.shtml",
+     "domain": "biobiochile.cl",
+     "seendate": "20261016T193000Z"
+    },
+    {
+     "title": "Gobierno descarta marchas autorizadas para el 18 - O y Orrego avisa que perseguirán a quien destruya",
+     "url": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/10/16/gobierno-descarta-marchas-autorizadas-para-el-18-o-y-orrego-avisa-que-perseguiran-a-quien-destruya.shtml",
+     "domain": "biobiochile.cl",
+     "seendate": "20261016T183000Z"
+    },
+    {
+     "title": "Formalizan a alcalde de Chillán por fraude al fisco por más de $2 mil millones en compra de medialuna | Nacional",
+     "url": "https://www.biobiochile.cl/noticias/nacional/region-de-nuble/2026/10/16/formalizan-a-alcalde-de-chillan-por-fraude-al-fisco-por-mas-de-2-mil-millones-en-compra-de-medialuna.shtml",
+     "domain": "biobiochile.cl",
+     "seendate": "20261016T183000Z"
+    },
+    {
+     "title": "El pan , un imprescindible de la mesa chilena a toda hora",
+     "url": "https://www.elmostrador.cl/revista-jengibre/gastronomia/2026/10/16/el-pan-un-imprescindible-de-la-mesa-chilena-a-toda-hora/",
+     "domain": "elmostrador.cl",
+     "seendate": "20261016T180000Z"
+    },
+    {
+     "title": "Guillermo Rodríguez , el chef pionero que llevó el pastel de choclo a La Moneda : La cocina es política",
+     "url": "https://www.theclinic.cl/2026/10/16/guillermo-rodriguez-el-chef-pionero-que-llevo-el-pastel-de-choclo-a-la-moneda-la-cocina-es-politica/",
+     "domain": "theclinic.cl",
+     "seendate": "20261016T164500Z"
+    },
+    {
+     "title": "Boric y Álvaro Uribe compartirán diálogo inaugural en conferencia regional sobre pobreza en Panamá",
+     "url": "https://www.theclinic.cl/2026/10/16/pasajes-a-panama-expresidente-boric-participara-en-conferencia-sobre-pobreza-junto-al-expresidente-alvaro-uribe/",
+     "domain": "theclinic.cl",
+     "seendate": "20261016T164500Z"
+    },
+    {
+     "title": "Una buena y una mala para el bolsillo : cuentas de luz bajarán , pero combustibles se preparan para fuerte alza",
+     "url": "https://www.publimetro.cl/noticias/2026/10/16/una-buena-y-una-mala-para-el-bolsillo-cuentas-de-luz-bajaran-pero-combustibles-se-preparan-para-fuerte-alza/",
+     "domain": "publimetro.cl",
+     "seendate": "20261016T164500Z"
+    },
+    {
+     "title": "Valencia pide al gobierno más recursos en Presupuesto y advierte sobre autonomía de Fiscalía , el Servel y Contraloría",
+     "url": "https://www.latercera.com/nacional/noticia/valencia-pide-al-gobierno-mas-recursos-en-presupuesto-y-advierte-sobre-autonomia-de-fiscalia-el-servel-y-contraloria/",
+     "domain": "latercera.com",
+     "seendate": "20261016T160000Z"
+    },
+    {
+     "title": "El balance sobre BTS incluye dardos al fútbol : Acá la noticia es musical , no policial ; es un ejemplo para eventos deportivos",
+     "url": "https://www.latercera.com/el-deportivo/noticia/el-balance-sobre-bts-incluye-dardos-al-futbol-aca-la-noticia-es-musical-no-policial-es-un-ejemplo-para-eventos-deportivos/",
+     "domain": "latercera.com",
+     "seendate": "20261016T160000Z"
+    },
+    {
+     "title": "Vivienne Barry recibe Premio de Honor en Alemania por su trayectoria en la animación en Chile",
+     "url": "https://www.elmostrador.cl/cultura/2026/10/16/vivienne-barry-recibe-premio-de-honor-en-alemania-por-su-trayectoria-en-la-animacion-en-chile/",
+     "domain": "elmostrador.cl",
+     "seendate": "20261016T160000Z"
+    },
+    {
+     "title": "Guía del ocio : panoramas escogidos para el fin de semana del 17 y 18 de octubre",
+     "url": "https://www.latercera.com/finde/noticia/guia-del-ocio-panoramas-escogidos-para-el-fin-de-semana-del-17-y-18-de-octubre/",
+     "domain": "latercera.com",
+     "seendate": "20261016T160000Z"
+    },
+    {
+     "title": "Expertos proyectan alza en torno a $40 en las bencinas para la próxima semana",
+     "url": "https://www.latercera.com/pulso/noticia/expertos-proyectan-alza-en-torno-a-40-en-las-bencinas-para-la-proxima-semana/",
+     "domain": "latercera.com",
+     "seendate": "20261016T160000Z"
+    },
+    {
+     "title": "El Ingeniero sienta las bases : qué hay detrás del sorpresivo respaldo de Manuel Pellegrini a Nicolás Córdova en la Roja",
+     "url": "https://www.latercera.com/el-deportivo/noticia/el-ingeniero-sienta-las-bases-que-hay-detras-del-sorpresivo-respaldo-de-manuel-pellegrini-a-nicolas-cordova-en-la-roja/",
+     "domain": "latercera.com",
+     "seendate": "20261016T160000Z"
+    },
+    {
+     "title": "AgroImpacta Los Ríos 2026 reunirá a expertos internacionales y líderes del agro en La Unión",
+     "url": "https://www.diariopaillaco.cl/noticia/agro-y-ganaderia/2026/10/agroimpacta-los-rios-2026-reunira-a-expertos-internacionales-y-lideres-del-agro-en-la-union",
+     "domain": "diariopaillaco.cl",
+     "seendate": "20261016T160000Z"
+    },
+    {
+     "title": "Claudio Borghi celebra el trabajo de Chupete Suazo en San Luis : No esperaba que su equipo estuviese donde está",
+     "url": "https://www.latercera.com/el-deportivo/noticia/claudio-borghi-celebra-el-trabajo-de-chupete-suazo-en-san-luis-no-esperaba-que-su-equipo-estuviese-donde-esta/",
+     "domain": "latercera.com",
+     "seendate": "20261016T160000Z"
+    },
+    {
+     "title": "Tesla presenta el nuevo Roadster : su versión Rocket puede volar con propulsores de SpaceX",
+     "url": "https://www.latercera.com/tecnologia/noticia/tesla-roadster-rocket/",
+     "domain": "latercera.com",
+     "seendate": "20261016T160000Z"
+    },
+    {
+     "title": "Homenaje a Luz Jiménez en el Festival de Cine Miradas Mayores en San Felipe",
+     "url": "https://www.elmostrador.cl/cultura/agenda/2026/10/16/homenaje-a-luz-jimenez-en-el-festival-de-cine-miradas-mayores-en-san-felipe/",
+     "domain": "elmostrador.cl",
+     "seendate": "20261016T160000Z"
+    },
+    {
+     "title": "Coco Legrand se retira de los escenarios tras problemas de salud",
+     "url": "https://www.24horas.cl/tendencias/espectaculos/confirman-retiro-definitivo-coco-legrand-salud",
+     "domain": "24horas.cl",
+     "seendate": "20261016T144500Z"
+    },
+    {
      "title": "FA exige frenar implementación de Megarreforma y corregir Presupuesto",
      "url": "https://www.24horas.cl/actualidad/politica/frente-amplio-presupuesto-gobierno",
      "domain": "24horas.cl",
@@ -1845,8 +1983,8 @@
      "seendate": "20261016T144500Z"
     },
     {
-     "title": "Coco Legrand se retira de los escenarios tras problemas de salud",
-     "url": "https://www.24horas.cl/tendencias/espectaculos/confirman-retiro-definitivo-coco-legrand-salud",
+     "title": "Presupuesto 2027 : Valencia advierte glosas no compatibles con nuestro ordenamiento",
+     "url": "https://www.24horas.cl/actualidad/nacional/fiscalia-cuestiona-presupuesto-2027-impacto-autonomia",
      "domain": "24horas.cl",
      "seendate": "20261016T144500Z"
     },
@@ -2083,119 +2221,95 @@
      "url": "https://www.elmostrador.cl/cultura/2026/10/16/presupuesto-2027-pone-en-riesgo-la-gran-sala-sinfonica-de-la-u-de-chile/",
      "domain": "elmostrador.cl",
      "seendate": "20261016T041500Z"
-    },
-    {
-     "title": "Aumenta el porcentaje de mujeres que renuncian a ser madres en el mundo , incluido Chile",
-     "url": "https://www.elmostrador.cl/braga/2026/10/16/aumenta-el-porcentaje-de-mujeres-que-renuncian-a-ser-madres-en-el-mundo-incluido-chile/",
-     "domain": "elmostrador.cl",
-     "seendate": "20261016T041500Z"
-    },
-    {
-     "title": "Más de una treintena de personas detenidas en protestas universitarias en Buenos Aires",
-     "url": "https://www.latercera.com/mundo/noticia/mas-de-una-treintena-de-personas-detenidas-en-protestas-universitarias-en-buenos-aires/",
-     "domain": "latercera.com",
-     "seendate": "20261016T041500Z"
-    },
-    {
-     "title": "La alimentación como un todo | El Mostrador",
-     "url": "https://www.elmostrador.cl/noticias/opinion/columnas/2026/10/16/la-alimentacion-como-un-todo/",
-     "domain": "elmostrador.cl",
-     "seendate": "20261016T041500Z"
-    },
-    {
-     "title": "Black Inmobiliario 2026 tendrá 50 empresas : revisa cuándo comienza y dónde cotizar",
-     "url": "https://www.eldinamo.cl/economia/2026/10/15/black-inmobiliario-2026-tendra-50-empresas-revisa-cuando-comienza-y-donde-cotizar/",
-     "domain": "eldinamo.cl",
-     "seendate": "20261016T041500Z"
-    },
-    {
-     "title": "¿ Qué significa ser de izquierda ?",
-     "url": "https://www.elmostrador.cl/noticias/opinion/columnas/2026/10/16/que-significa-ser-de-izquierda/",
-     "domain": "elmostrador.cl",
-     "seendate": "20261016T041500Z"
-    },
-    {
-     "title": "Copa Libertadores : Flamengo de Erick Pulgar rescata valioso empate en casa de Estudiantes y encamina el bicampeonato",
-     "url": "https://www.latercera.com/el-deportivo/noticia/copa-libertadores-flamengo-de-erick-pulgar-rescata-valioso-empate-en-casa-de-estudiantes-y-encamina-el-bicampeonato/",
-     "domain": "latercera.com",
-     "seendate": "20261016T041500Z"
-    },
-    {
-     "title": "Chile ante la Cumbre de Madrid : entre la implementación de derechos y el riesgo de retroceso",
-     "url": "https://www.elmostrador.cl/noticias/opinion/columnas/2026/10/16/chile-ante-la-cumbre-de-madrid-entre-la-implementacion-de-derechos-y-el-riesgo-de-retroceso/",
-     "domain": "elmostrador.cl",
-     "seendate": "20261016T041500Z"
-    },
-    {
-     "title": "La filosofía , protagonista en Puerto de Ideas Valparaíso 2026",
-     "url": "https://www.elmostrador.cl/cultura/agenda/2026/10/16/la-filosofia-protagonista-en-puerto-de-ideas-valparaiso-2026/",
-     "domain": "elmostrador.cl",
-     "seendate": "20261016T041500Z"
-    },
-    {
-     "title": "Antes de reemplazar , reconvertir",
-     "url": "https://www.elmostrador.cl/noticias/opinion/cartas/2026/10/16/antes-de-reemplazar-reconvertir/",
-     "domain": "elmostrador.cl",
-     "seendate": "20261016T041500Z"
-    },
-    {
-     "title": "Isabel Allende tras ganar el Premio Planeta con la secuela de La casa de los espíritus : Vuelvo a sentir el temor que me obligó a salir de mi país",
-     "url": "https://www.t13.cl/noticia/nacional/isabel-allende-tras-ganar-premio-planeta-secuela-casa-espiritus-15-10-2026",
-     "domain": "t13.cl",
-     "seendate": "20261016T021500Z"
-    },
-    {
-     "title": "Isabel Allende gana el Premio Planeta de novela 2026 por su obra La hora antes del alba",
-     "url": "https://www.latercera.com/culto/noticia/isabel-allende-gana-el-premio-planeta-de-novela-2026-por-su-obra-la-hora-antes-del-alba/",
-     "domain": "latercera.com",
-     "seendate": "20261016T020000Z"
-    },
-    {
-     "title": "Tenemos que decirle a la gente …: Rosemarie Dietz informa delicada situación de salud de querida figura del espectáculo chileno",
-     "url": "https://www.pudahuel.cl/noticias/2026/10/tenemos-que-decirle-a-la-gente-rosemarie-dietz-informa-delicada-situacion-de-salud-de-querida-figura-del-espectaculo-chileno/",
-     "domain": "pudahuel.cl",
-     "seendate": "20261016T011500Z"
-    },
-    {
-     "title": "Isabel Allende gana el Premio Planeta 2026 con la novela La hora antes del alba",
-     "url": "https://www.t13.cl/noticia/nacional/isabel-allende-gana-premio-planeta-2026-novela-hora-antes-del-alba-15-10-2026",
-     "domain": "t13.cl",
-     "seendate": "20261016T011500Z"
-    },
-    {
-     "title": "Pablo Milad dice que FIFA no quiere gobiernos de transición , sino que yo termine el periodo",
-     "url": "https://www.t13.cl/noticia/deportes13/milad-fifa-anfp-febrero-2027-estabilidad-gobernanza-15-10-2026",
-     "domain": "t13.cl",
-     "seendate": "20261016T011500Z"
-    },
-    {
-     "title": "Me han arruinado mi concierto con mi hijita : Medios peruanos exponen presunto maltrato a mujer que viajó de Arequipa en concierto de BTS",
-     "url": "https://www.t13.cl/noticia/espectaculos/medios-peruanos-exponen-presunto-maltrato-mujer-viajo-arequipa-concierto-bts-15-10-2026",
-     "domain": "t13.cl",
-     "seendate": "20261016T011500Z"
-    },
-    {
-     "title": "« Tucar » busca evitar la quiebra y deja en evidencia el eventual fracaso de Uber Green en Chile",
-     "url": "https://ohmygeek.net/2026/10/15/tucar-busca-evitar-la-quiebra/",
-     "domain": "ohmygeek.net",
-     "seendate": "20261016T011500Z"
-    },
-    {
-     "title": "Tras llenar el Caupolicán : Los Jaivas preparan su próximo concierto con la gira Alturas de Macchu Picchu",
-     "url": "https://www.pudahuel.cl/noticias/2026/10/tras-llenar-el-caupolican-los-jaivas-preparan-su-proximo-concierto-con-la-gira-alturas-de-macchu-picchu/",
-     "domain": "pudahuel.cl",
-     "seendate": "20261016T011500Z"
-    },
-    {
-     "title": "Confech y oposición cierran filas contra recortes y exigen rehacer Presupuesto 2027",
-     "url": "https://www.elmostrador.cl/noticias/pais/2026/10/15/confech-y-oposicion-cierran-filas-contra-recortes-y-exigen-rehacer-presupuesto-2027/",
-     "domain": "elmostrador.cl",
-     "seendate": "20261016T010000Z"
     }
    ]
   },
   "ARG": {
    "articles": [
+    {
+     "title": "Javier Milei y sus medidas, EN VIVO: el FMI espera una “aceleración muy positiva de crecimiento económico para 2027″",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-fmi-espera-una-aceleracion-muy-positiva-de-crecimiento-nid16102026/",
+     "domain": "La Nación",
+     "seendate": "20261016T195000Z"
+    },
+    {
+     "title": "Tres hombres cayeron de una lancha al río Paraná y están desaparecidos",
+     "url": "https://www.lanacion.com.ar/sociedad/tres-hombres-estan-desaparecidos-tras-caer-de-una-lancha-al-rio-parana-nid16102026/",
+     "domain": "La Nación",
+     "seendate": "20261016T194909Z"
+    },
+    {
+     "title": "Cita del día, Winston Churchill, político: “El éxito no es definitivo, el fracaso no es fatal: lo que cuenta es el coraje para continuar”",
+     "url": "https://www.lanacion.com.ar/sociedad/cita-del-dia-winston-churchill-politico-el-exito-no-es-definitivo-el-fracaso-no-es-fatal-lo-que-nid15102026/",
+     "domain": "La Nación",
+     "seendate": "20261016T194853Z"
+    },
+    {
+     "title": "Gabriel Rolón, psicoanalista, sobre los recuerdos: “Nuestros padres que ya no están se transforman en personas por ahí más nobles de lo que fueron”",
+     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-sobre-los-recuerdos-nuestros-padres-que-ya-no-estan-se-transforman-en-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261016T194848Z"
+    },
+    {
+     "title": "A qué hora llegan las tormentas fuertes y el granizo a Buenos Aires hoy, según el SMN",
+     "url": "https://www.lanacion.com.ar/sociedad/a-que-hora-llegan-las-tormentas-fuertes-a-buenos-aires-hoy-jueves-15-de-octubre-nid15102026/",
+     "domain": "La Nación",
+     "seendate": "20261016T194840Z"
+    },
+    {
+     "title": "Gabriel Rolón, psicoanalista, sobre los condicionantes de las decisiones: “Estamos sólo cumpliendo un mandato inconsciente”",
+     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-sobre-los-condicionantes-de-las-decisiones-estamos-solo-cumpliendo-un-nid16102026/",
+     "domain": "La Nación",
+     "seendate": "20261016T194832Z"
+    },
+    {
+     "title": "Súper Niño 2026: qué se sabe del fenómeno que cambiará el pronóstico de la Argentina y llegará pronto a su pico máximo",
+     "url": "https://www.lanacion.com.ar/sociedad/super-nino-2026-que-se-sabe-del-fenomeno-que-cambiara-por-completo-el-clima-en-la-argentina-y-nid05102026/",
+     "domain": "La Nación",
+     "seendate": "20261016T194828Z"
+    },
+    {
+     "title": "Robin Sharma, especialista en crecimiento personal: “Un mal día para el ego es un buen día para el alma; aprendemos en la dificultad”",
+     "url": "https://www.lanacion.com.ar/sociedad/robin-sharma-especialista-en-crecimiento-personal-un-mal-dia-para-el-ego-es-un-buen-dia-para-el-alma-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261016T194825Z"
+    },
+    {
+     "title": "Arthur Brooks, experto de Harvard, de 62 años: “Lo que hacen las personas felices y exitosas en la segunda mitad de sus vidas es pasar de sumar a restar”",
+     "url": "https://www.lanacion.com.ar/sociedad/arthur-brooks-experto-de-harvard-de-62-anos-lo-que-hacen-las-personas-felices-y-exitosas-en-la-nid08102026/",
+     "domain": "La Nación",
+     "seendate": "20261016T194816Z"
+    },
+    {
+     "title": "Pilar Sordo, psicóloga: “Es necesario ser dócil frente al dolor”",
+     "url": "https://www.lanacion.com.ar/sociedad/pilar-sordo-psicologa-es-necesario-ser-docil-frente-al-dolor-nid16102026/",
+     "domain": "La Nación",
+     "seendate": "20261016T194812Z"
+    },
+    {
+     "title": "Joseph Pilates, creador del método de entrenamiento: “La respiración es la primera acción que realizamos en la vida, y la última; una respiración vaga e incompleta te acerca a la enfermedad”",
+     "url": "https://www.lanacion.com.ar/sociedad/joseph-pilates-creador-del-metodo-de-entrenamiento-la-respiracion-es-la-primera-accion-que-nid14102026/",
+     "domain": "La Nación",
+     "seendate": "20261016T194745Z"
+    },
+    {
+     "title": "Gabriel Rolón, psicólogo, sobre la intimidad de las parejas: “La ilusión de completud no está”",
+     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicologo-sobre-la-intimidad-de-las-parejas-la-ilusion-de-completud-no-esta-nid15102026/",
+     "domain": "La Nación",
+     "seendate": "20261016T194737Z"
+    },
+    {
+     "title": "Arthur Brooks, experto en felicidad de Harvard: “Hay una inteligencia que nace a partir de los 40 años”",
+     "url": "https://www.lanacion.com.ar/sociedad/arthur-brooks-experto-en-felicidad-de-harvard-hay-una-inteligencia-que-nace-a-partir-de-los-40-anos-nid11102026/",
+     "domain": "La Nación",
+     "seendate": "20261016T194734Z"
+    },
+    {
+     "title": "La economía del conocimiento cruzó los US$10.000 millones en exportaciones: las razones y los desafíos detrás del boom",
+     "url": "https://www.lanacion.com.ar/economia/la-economia-del-conocimiento-cruzo-los-us10000-millones-en-exportaciones-las-razones-y-los-desafios-nid16102026/",
+     "domain": "La Nación",
+     "seendate": "20261016T193128Z"
+    },
     {
      "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este viernes 16 de octubre, minuto a minuto",
      "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid16102026/",
@@ -2213,12 +2327,6 @@
      "url": "https://www.lanacion.com.ar/politica/con-el-cierre-de-farmacias-y-centros-medicos-se-extiende-la-crisis-de-la-obra-social-de-los-nid16102026/",
      "domain": "La Nación",
      "seendate": "20261016T192122Z"
-    },
-    {
-     "title": "Javier Milei y sus medidas, EN VIVO: el FMI espera una “aceleración muy positiva de crecimiento económico para 2027″",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-fmi-espera-una-aceleracion-muy-positiva-de-crecimiento-nid16102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T192000Z"
     },
     {
      "title": "Murió Fernando Confessore: reacciones y mensajes de despedida al meteorólogo que trabajaba en el canal TN",
@@ -2269,72 +2377,6 @@
      "seendate": "20261016T183313Z"
     },
     {
-     "title": "Cita del día, Winston Churchill, político: “El éxito no es definitivo, el fracaso no es fatal: lo que cuenta es el coraje para continuar”",
-     "url": "https://www.lanacion.com.ar/sociedad/cita-del-dia-winston-churchill-politico-el-exito-no-es-definitivo-el-fracaso-no-es-fatal-lo-que-nid15102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T181806Z"
-    },
-    {
-     "title": "Gabriel Rolón, psicoanalista, sobre los recuerdos: “Nuestros padres que ya no están se transforman en personas por ahí más nobles de lo que fueron”",
-     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-sobre-los-recuerdos-nuestros-padres-que-ya-no-estan-se-transforman-en-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T181803Z"
-    },
-    {
-     "title": "A qué hora llegan las tormentas fuertes y el granizo a Buenos Aires hoy, según el SMN",
-     "url": "https://www.lanacion.com.ar/sociedad/a-que-hora-llegan-las-tormentas-fuertes-a-buenos-aires-hoy-jueves-15-de-octubre-nid15102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T181756Z"
-    },
-    {
-     "title": "Gabriel Rolón, psicoanalista, sobre los condicionantes de las decisiones: “Estamos sólo cumpliendo un mandato inconsciente”",
-     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-sobre-los-condicionantes-de-las-decisiones-estamos-solo-cumpliendo-un-nid16102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T181750Z"
-    },
-    {
-     "title": "Súper Niño 2026: qué se sabe del fenómeno que cambiará el pronóstico de la Argentina y llegará pronto a su pico máximo",
-     "url": "https://www.lanacion.com.ar/sociedad/super-nino-2026-que-se-sabe-del-fenomeno-que-cambiara-por-completo-el-clima-en-la-argentina-y-nid05102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T181746Z"
-    },
-    {
-     "title": "Robin Sharma, especialista en crecimiento personal: “Un mal día para el ego es un buen día para el alma; aprendemos en la dificultad”",
-     "url": "https://www.lanacion.com.ar/sociedad/robin-sharma-especialista-en-crecimiento-personal-un-mal-dia-para-el-ego-es-un-buen-dia-para-el-alma-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T181742Z"
-    },
-    {
-     "title": "Arthur Brooks, experto de Harvard, de 62 años: “Lo que hacen las personas felices y exitosas en la segunda mitad de sus vidas es pasar de sumar a restar”",
-     "url": "https://www.lanacion.com.ar/sociedad/arthur-brooks-experto-de-harvard-de-62-anos-lo-que-hacen-las-personas-felices-y-exitosas-en-la-nid08102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T181628Z"
-    },
-    {
-     "title": "Pilar Sordo, psicóloga: “Es necesario ser dócil frente al dolor”",
-     "url": "https://www.lanacion.com.ar/sociedad/pilar-sordo-psicologa-es-necesario-ser-docil-frente-al-dolor-nid16102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T181625Z"
-    },
-    {
-     "title": "Joseph Pilates, creador del método de entrenamiento: “La respiración es la primera acción que realizamos en la vida, y la última; una respiración vaga e incompleta te acerca a la enfermedad”",
-     "url": "https://www.lanacion.com.ar/sociedad/joseph-pilates-creador-del-metodo-de-entrenamiento-la-respiracion-es-la-primera-accion-que-nid14102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T181506Z"
-    },
-    {
-     "title": "Gabriel Rolón, psicólogo, sobre la intimidad de las parejas: “La ilusión de completud no está”",
-     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicologo-sobre-la-intimidad-de-las-parejas-la-ilusion-de-completud-no-esta-nid15102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T181459Z"
-    },
-    {
-     "title": "Arthur Brooks, experto en felicidad de Harvard: “Hay una inteligencia que nace a partir de los 40 años”",
-     "url": "https://www.lanacion.com.ar/sociedad/arthur-brooks-experto-en-felicidad-de-harvard-hay-una-inteligencia-que-nace-a-partir-de-los-40-anos-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T181455Z"
-    },
-    {
      "title": "El juez Lijo ordenó un exhorto a Suiza por transferencias de US$190.000 de la FIFA a Claudio “Chiqui” Tapia",
      "url": "https://www.lanacion.com.ar/politica/el-juez-lijo-ordeno-un-exhorto-a-suiza-por-transferencias-de-us190000-de-la-fifa-a-claudio-chiqui-nid16102026/",
      "domain": "La Nación",
@@ -2369,36 +2411,6 @@
      "url": "https://www.lanacion.com.ar/economia/el-gobierno-mostro-superavit-en-septiembre-y-dijo-que-cumplio-con-los-acuerdos-alcanzados-con-las-nid16102026/",
      "domain": "La Nación",
      "seendate": "20261016T165402Z"
-    },
-    {
-     "title": "Los gobernadores piden más obras y Santilli lanzó una advertencia: “Deberían estar preocupados si vuelve el kirchnerismo”",
-     "url": "https://www.lanacion.com.ar/politica/los-gobernadores-piden-mas-obras-y-santilli-lanzo-una-advertencia-deberian-estar-preocupados-si-nid16102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T164313Z"
-    },
-    {
-     "title": "El gobierno de Trump envía a la Argentina a dos altos funcionarios para avanzar con un ambicioso proyecto de infraestructura",
-     "url": "https://www.lanacion.com.ar/politica/el-gobierno-de-trump-envia-a-la-argentina-a-dos-altos-funcionarios-para-avanzar-con-un-ambicioso-nid16102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T164118Z"
-    },
-    {
-     "title": "Encontraron muerta a una joven dentro de una heladera en Córdoba: estaba tapada con cal",
-     "url": "https://www.lanacion.com.ar/seguridad/encontraron-muerta-a-una-joven-en-una-heladera-tapada-con-cal-en-cordoba-nid16102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T162913Z"
-    },
-    {
-     "title": "Caso Andis: amplían el procesamiento de Spagnuolo y otros acusados por el esquema de sobreprecios en la compra de insumos",
-     "url": "https://www.lanacion.com.ar/politica/caso-andis-amplian-el-procesamiento-de-spagnuolo-y-otros-acusados-por-el-esquema-de-sobreprecios-en-nid16102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T162223Z"
-    },
-    {
-     "title": "Plazo fijo: cuál es la tasa de interés banco por banco este viernes 16 de octubre",
-     "url": "https://www.lanacion.com.ar/economia/plazo-fijo-cual-es-la-tasa-de-interes-banco-por-banco-este-viernes-16-de-octubre-nid16102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T161107Z"
     }
    ]
   },
@@ -2763,6 +2775,24 @@
   "PRY": {
    "articles": [
     {
+     "title": "Elecciones de abogados para el CM: posiciones dispares sobre locales de votación",
+     "url": "https://www.abc.com.py/nacionales/2026/10/16/elecciones-de-abogados-para-el-cm-posiciones-dispares-sobre-locales-de-votacion/",
+     "domain": "ABC Color",
+     "seendate": "20261016T193405Z"
+    },
+    {
+     "title": "Médicos del IPS protestan por salarios dignos y advierten sobre una posible huelga general",
+     "url": "https://www.abc.com.py/nacionales/2026/10/16/medicos-del-ips-protestan-por-salarios-dignos-y-advierten-sobre-una-posible-huelga-general/",
+     "domain": "ABC Color",
+     "seendate": "20261016T193351Z"
+    },
+    {
+     "title": "Pablo Benegas: restricciones por acoso en paralelo con su prisión preventiva",
+     "url": "https://www.abc.com.py/nacionales/2026/10/16/pablo-benegas-restricciones-por-acoso-en-paralelo-con-su-prision-preventiva/",
+     "domain": "ABC Color",
+     "seendate": "20261016T192947Z"
+    },
+    {
      "title": "Peña vuelve a prometer la modernización del Hospital de Caacupé, un año y medio después",
      "url": "https://www.abc.com.py/nacionales/2026/10/16/pena-vuelve-a-prometer-la-modernizacion-del-hospital-de-caacupe-un-ano-y-medio-despues/",
      "domain": "ABC Color",
@@ -2785,18 +2815,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/16/hernan-rivas-el-alumno-fantasma-pide-que-se-anule-su-condena-a-8-anos-de-carcel/",
      "domain": "ABC Color",
      "seendate": "20261016T171849Z"
-    },
-    {
-     "title": "Corte Suprema denuncia amenazas contra sus sedes, al igual que la UNA",
-     "url": "https://www.abc.com.py/nacionales/2026/10/16/corte-suprema-denuncia-amenazas-contra-sus-sedes-al-igual-que-la-una/",
-     "domain": "ABC Color",
-     "seendate": "20261016T171728Z"
-    },
-    {
-     "title": "El río Paraguay aumenta 12 centímetros más y supera los 2,5 metros",
-     "url": "https://www.abc.com.py/nacionales/2026/10/16/el-rio-paraguay-aumenta-12-centimetros-mas-y-supera-los-25-metros/",
-     "domain": "ABC Color",
-     "seendate": "20261016T164556Z"
     }
    ]
   },
@@ -2805,6 +2823,18 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "Paes entra de cabeça na campanha de Lula e fará evento com lideranças comunitárias atrás de votos para o petista",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/16/paes-entra-de-cabeca-na-campanha-de-lula-e-fara-evento-com-liderancas-comunitarias-atras-de-votos-para-o-petista.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261016T193827Z"
+    },
+    {
+     "title": "Sem citar Flávio, ex-ministros e ambientalistas criticam 'retomada de propostas' para 'enfraquecer órgãos' fiscalizadores",
+     "url": "https://oglobo.globo.com/brasil/meio-ambiente/noticia/2026/10/16/sem-citar-flavio-ex-ministros-e-ambientalistas-criticam-retomada-de-propostas-para-enfraquecer-orgaos-fiscalizadores.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261016T192335Z"
+    },
     {
      "title": "Moraes autoriza Bolsonaro a receber dez convidados para aniversário de 16 anos da filha",
      "url": "https://oglobo.globo.com/politica/noticia/2026/10/16/moraes-autoriza-bolsonaro-a-receber-dez-convidados-para-aniversario-de-16-anos-da-filha.ghtml",
