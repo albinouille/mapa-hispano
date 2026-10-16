@@ -1,13 +1,25 @@
 {
- "updated": "2026-10-16T09:09:07+00:00",
+ "updated": "2026-10-16T10:06:37+00:00",
  "countries": {
   "ESP": {
    "articles": [
     {
-     "title": "Última hora de la actualidad política, en directo | Ayuso anuncia el cierre de la estación de metro de Sol por “condiciones de insalubridad”",
+     "title": "Última hora de la actualidad política, en directo | Rufián: “He hecho todo lo posible para simplificar la oferta electoral”",
      "url": "https://elpais.com/espana/2026-10-16/ultima-hora-de-la-actualidad-politica-en-directo.html",
      "domain": "El País",
-     "seendate": "20261016T084209Z"
+     "seendate": "20261016T095750Z"
+    },
+    {
+     "title": "La iluminación de Madrid en Navidad crece y crece sin fin: un millón de luces más y 1,2 millones de euros más",
+     "url": "https://elpais.com/espana/madrid/2026-10-16/la-iluminacion-de-madrid-en-navidad-crece-sin-fin-un-millon-de-luces-mas-y-12-millones-de-euros-mas.html",
+     "domain": "El País",
+     "seendate": "20261016T093024Z"
+    },
+    {
+     "title": "Ayuso cierra la estación de metro Sol para realizar tareas de limpieza: “Hay condiciones de insalubridad dentro”",
+     "url": "https://elpais.com/espana/madrid/2026-10-16/ayuso-cierra-la-estacion-de-metro-sol-para-realizar-tareas-de-limpieza-hay-condiciones-de-insalubridad-dentro.html",
+     "domain": "El País",
+     "seendate": "20261016T085712Z"
     },
     {
      "title": "España e Italia acuerdan poner fin a los controles Schengen por Ceuta",
@@ -16,7 +28,7 @@
      "seendate": "20261016T080038Z"
     },
     {
-     "title": "La Audiencia Nacional archiva la denuncia contra Netanyahu por la detención de un casco azul español en el Líbano",
+     "title": "La Audiencia Nacional archiva la denuncia contra Netanyahu por la detención de un casco azul español en Líbano",
      "url": "https://elpais.com/espana/2026-10-16/la-audiencia-nacional-archiva-la-denuncia-contra-netanyahu-por-la-detencion-de-un-casco-azul-espanol-en-el-libano.html",
      "domain": "El País",
      "seendate": "20261016T074535Z"
@@ -82,12 +94,6 @@
      "seendate": "20261015T210000Z"
     },
     {
-     "title": "Una asociación de descendientes de españoles se persona en el Supremo contra la suspensión del voto de los nacionalizados por la ‘ley de nietos’",
-     "url": "https://elpais.com/espana/2026-10-15/una-asociacion-de-descendientes-de-espanoles-se-persona-en-el-supremo-contra-la-suspension-del-voto-de-los-nacionalizados-por-la-ley-de-nietos.html",
-     "domain": "El País",
-     "seendate": "20261015T163421Z"
-    },
-    {
      "title": "Los tres albaceas de Isak Andic y 30 testigos más desfilarán ante la jueza por el ‘caso Andic’",
      "url": "https://elpais.com/espana/catalunya/2026-10-15/los-tres-albaceas-de-isak-andic-y-29-testigos-mas-desfilaran-ante-la-jueza-por-el-caso-andic.html",
      "domain": "El País",
@@ -140,17 +146,29 @@
      "url": "https://elpais.com/espana/catalunya/2026-10-15/encuentran-el-cuerpo-del-nino-desaparecido-en-granollers-flotando-en-el-mar-de-sitges.html",
      "domain": "El País",
      "seendate": "20261015T073849Z"
-    },
-    {
-     "title": "“He perdido a mis padres dos veces”: denuncia penal contra los dueños de los trasteros calcinados en Villaverde",
-     "url": "https://elpais.com/espana/madrid/2026-10-15/he-perdido-a-mis-padres-dos-veces-denuncia-penal-contra-los-duenos-de-los-trasteros-calcinados-en-villaverde.html",
-     "domain": "El País",
-     "seendate": "20261015T033001Z"
     }
    ]
   },
   "MEX": {
    "articles": [
+    {
+     "title": "CDMX plantea mediación en faltas cívicas y multas más altas",
+     "url": "https://www.eluniversal.com.mx/metropoli/cdmx-plantea-mediacion-en-faltas-civicas-y-multas-mas-altas/",
+     "domain": "El Universal",
+     "seendate": "20261016T093456Z"
+    },
+    {
+     "title": "Sedena limita uso de redes sociales a su personal; nuevo código regula difusión de información oficial",
+     "url": "https://www.eluniversal.com.mx/nacion/sedena-limita-uso-de-redes-sociales-a-su-personal-nuevo-codigo-regula-difusion-de-informacion-oficial/",
+     "domain": "El Universal",
+     "seendate": "20261016T093300Z"
+    },
+    {
+     "title": "Expertos ven necesaria ley catastral; alertan que actualización aumente costo del predial completa",
+     "url": "https://www.eluniversal.com.mx/nacion/expertos-ven-necesaria-ley-catastral-alertan-que-actualizacion-aumente-costo-del-predial-completa/",
+     "domain": "El Universal",
+     "seendate": "20261016T093100Z"
+    },
     {
      "title": "Diseño de disfraces, arte y pasión",
      "url": "https://www.eluniversal.com.mx/nacion/diseno-de-disfraces-arte-y-pasion/",
@@ -266,30 +284,6 @@
      "seendate": "20261016T010203Z"
     },
     {
-     "title": "Corte da revés a Tomás Yarrington, exgobernador de Tamaulipas preso; rechaza revisar su caso",
-     "url": "https://www.eluniversal.com.mx/nacion/corte-da-reves-a-tomas-yarrington-exgobernador-de-tamaulipas-preso-rechaza-revisar-su-caso/",
-     "domain": "El Universal",
-     "seendate": "20261016T005152Z"
-    },
-    {
-     "title": "Gobernador de Coahuila critica proceso de venta de Altos Hornos de México; garantía exigida era de más de 56 mdp",
-     "url": "https://www.eluniversal.com.mx/estados/gobernador-de-coahuila-critica-proceso-de-venta-de-altos-hornos-de-mexico-garantia-exigida-era-de-mas-de-56-mdp/",
-     "domain": "El Universal",
-     "seendate": "20261016T003053Z"
-    },
-    {
-     "title": "Dictan prisión preventiva a \"El Junior\" de \"Los Rusos\"; es acusado de portación de armas exclusivas del Ejército y drogas",
-     "url": "https://www.eluniversal.com.mx/nacion/dictan-prision-preventiva-a-el-junior-de-los-rusos-es-acusado-de-portacion-de-armas-exclusivas-del-ejercito-y-drogas/",
-     "domain": "El Universal",
-     "seendate": "20261016T002757Z"
-    },
-    {
-     "title": "¡Alista el abrigo! Emiten aviso especial por bajas temperaturas y lluvias fuertes en CDMX; termómetro podría llegar a los 4 grados",
-     "url": "https://www.eluniversal.com.mx/metropoli/alista-el-abrigo-emiten-aviso-especial-por-bajas-temperaturas-y-lluvias-fuertes-en-cdmx-termometro-podria-llegar-a-los-4-grados/",
-     "domain": "El Universal",
-     "seendate": "20261016T002302Z"
-    },
-    {
      "title": "Activan alerta amarilla por lluvias fuertes en 9 alcaldías de CDMX; precipitaciones prevalecerán hasta las 23:00 horas",
      "url": "https://www.eluniversal.com.mx/metropoli/activan-alerta-amarilla-por-lluvias-fuertes-en-9-alcaldias-de-cdmx-precipitaciones-prevalceran-hasta-las-2300-horas/",
      "domain": "El Universal",
@@ -306,12 +300,6 @@
      "url": "https://www.eluniversal.com.mx/metropoli/balacera-en-azcapotzalco-deja-dos-personas-heridas-una-de-las-victimas-es-de-nacionalidad-china/",
      "domain": "El Universal",
      "seendate": "20261015T233005Z"
-    },
-    {
-     "title": "Caso Axe Ceremonia: Vinculan a proceso a responsable del Programa de Protección Civil por muerte de fotógrafo; llevará su proceso en libertad",
-     "url": "https://www.eluniversal.com.mx/metropoli/caso-axe-ceremonia-vinculan-a-proceso-a-responsable-del-programa-de-proteccion-civil-por-muerte-de-fotografos-llevara-su-proceso-en-libertad/",
-     "domain": "El Universal",
-     "seendate": "20261015T222141Z"
     },
     {
      "title": "\"Tres Doritos después ya nos estaban llamando\"; Jorge Romero afirma que morenistas buscaron al PAN tras perder en encuestas",
@@ -538,6 +526,12 @@
   "CRI": {
    "articles": [
     {
+     "title": "La sospechosa de asesinar a un estadounidense con el vaso de una licuadora estuvo dos horas con el extranjero en lujoso condominio de Playas del Coco",
+     "url": "https://www.nacion.com/sucesos/la-sospechosa-de-asesinar-a-un-estadounidense-con/EBRUNAGFURCWVGO6MXX53JE4HU/story/",
+     "domain": "La Nación",
+     "seendate": "20261016T091000Z"
+    },
+    {
      "title": "¿Es Damaris Vargas la candidata más cómoda para el gobierno? Así respondió la aspirante a presidir la Corte Suprema de Justicia",
      "url": "https://www.nacion.com/politica/es-damaris-vargas-la-candidata-mas-comoda-para-el/L452NW2JANBC7DNN6ZRX5BDFBY/story/",
      "domain": "La Nación",
@@ -698,12 +692,6 @@
      "url": "https://www.nacion.com/sucesos/joven-de-20-anos-muere-acribillado-a-balazos/LNGKOW4GXFBBTEZ455F3DCGIIA/story/",
      "domain": "La Nación",
      "seendate": "20261015T142407Z"
-    },
-    {
-     "title": "¿De qué se está enfermando Costa Rica? Así aumentó la diabetes, hipertensión y obesidad en 14 años, según epidemiólogo de la CCSS",
-     "url": "https://www.nacion.com/el-pais/de-que-se-esta-enfermando-costa-rica-asi-aumento/JM4PAES5DJEVFAWNYQRYTEUCUY/story/",
-     "domain": "La Nación",
-     "seendate": "20261015T141200Z"
     }
    ]
   },
@@ -713,7 +701,7 @@
      "title": "Rugido en el mar: el clamor de Hicaco y la lucha de Santa Catalina por mantenerse en pie",
      "url": "https://www.prensa.com/politica/rugido-en-el-mar-el-clamor-de-hicaco-y-la-lucha-de-santa-catalina-por-mantenerse-en-pie/",
      "domain": "La Prensa",
-     "seendate": "20261016T090636Z"
+     "seendate": "20261016T100321Z"
     },
     {
      "title": "Diputados piden $199.1 millones más para el presupuesto de 2027; $23 millones irían a la Asamblea",
@@ -1015,6 +1003,12 @@
   "COL": {
    "articles": [
     {
+     "title": "Terror en el oriente de Cali: cinco policías resultaron heridos tras el lanzamiento de un artefacto explosivo",
+     "url": "https://www.eltiempo.com/colombia/cali/terror-en-el-oriente-de-cali-cinco-policias-resultaron-heridos-tras-el-lanzamiento-de-un-artefacto-explosivo-3593949",
+     "domain": "El Tiempo",
+     "seendate": "20261016T092546Z"
+    },
+    {
      "title": "Pico y placa en Medellín para el lunes 19 de octubre de 2026: estos son los carros, motos y taxis que deben cumplir la medida",
      "url": "https://www.eltiempo.com/colombia/medellin/pico-y-placa-en-medellin-para-el-lunes-19-de-octubre-de-2026-estos-son-los-carros-motos-y-taxis-que-deben-cumplir-la-medida-3593901",
      "domain": "El Tiempo",
@@ -1067,12 +1061,6 @@
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/la-onu-advierte-que-el-nuevo-decreto-sobre-protestas-en-colombia-podria-facilitar-el-uso-de-la-fuerza-policial-durante-las-manifestaciones-3593930",
      "domain": "El Tiempo",
      "seendate": "20261016T013840Z"
-    },
-    {
-     "title": "Identifican a dos de los fallecidos en el volcamiento de un bus en la vía Panamericana; entre las víctimas hay un niño de 11 años",
-     "url": "https://www.eltiempo.com/colombia/cali/identifican-a-dos-de-los-fallecidos-en-el-volcamiento-de-un-bus-en-la-via-panamericana-entre-las-victimas-hay-un-nino-de-11-anos-3593924",
-     "domain": "El Tiempo",
-     "seendate": "20261016T012255Z"
     }
    ]
   },
@@ -1583,18 +1571,6 @@
      "url": "https://elcomercio.pe/economia/peru/bts-en-peru-15-operaciones-aereas-y-cerca-de-1000-toneladas-de-carga-detras-de-sus-conciertos-l-ultimas-noticia/",
      "domain": "El Comercio",
      "seendate": "20261014T200625Z"
-    },
-    {
-     "title": "Gobierno designa presidenta del directorio y directora ejecutiva del Fonafe",
-     "url": "https://elcomercio.pe/economia/peru/gobierno-designa-presidenta-del-directorio-y-directora-ejecutiva-del-fonafe-l-ultimas-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261014T185615Z"
-    },
-    {
-     "title": "El Indecopi eliminó barreras burocráticas por S/ 429 millones en el 2025",
-     "url": "https://elcomercio.pe/economia/peru/el-indecopi-elimino-barreras-burocraticas-por-s-429-millones-en-el-2025-hagase-instituto-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261014T113000Z"
     }
    ]
   },
@@ -2257,6 +2233,24 @@
   "ARG": {
    "articles": [
     {
+     "title": "Murió Fernando Confessore, el meteorólogo que trabajaba en el canal TN",
+     "url": "https://www.lanacion.com.ar/sociedad/murio-fernando-confessore-el-meteorologo-que-trabajaba-en-el-canal-tn-nid16102026/",
+     "domain": "La Nación",
+     "seendate": "20261016T100307Z"
+    },
+    {
+     "title": "Javier Milei y sus medidas, EN VIVO: el FMI espera una “aceleración muy positiva de crecimiento económico para 2027″",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-fmi-espera-una-aceleracion-muy-positiva-de-crecimiento-nid16102026/",
+     "domain": "La Nación",
+     "seendate": "20261016T095122Z"
+    },
+    {
+     "title": "Fecha de cobro de Anses: el cronograma de pagos para este viernes 16 de octubre",
+     "url": "https://www.lanacion.com.ar/economia/fecha-de-cobro-de-anses-el-cronograma-de-pagos-para-este-viernes-16-de-octubre-nid16102026/",
+     "domain": "La Nación",
+     "seendate": "20261016T092000Z"
+    },
+    {
      "title": "Para noviembre y diciembre: ya se venden los pasajes para un viaje de 800 km a través de paisajes únicos",
      "url": "https://www.lanacion.com.ar/sociedad/para-noviembre-y-diciembre-ya-se-venden-los-pasajes-para-un-viaje-de-800-km-a-traves-de-paisajes-nid16102026/",
      "domain": "La Nación",
@@ -2273,12 +2267,6 @@
      "url": "https://www.lanacion.com.ar/economia/el-fmi-ratifico-su-confianza-en-el-crecimiento-economico-de-la-argentina-pero-advirtio-sobre-el-nid16102026/",
      "domain": "La Nación",
      "seendate": "20261016T073344Z"
-    },
-    {
-     "title": "Javier Milei y sus medidas, EN VIVO: el FMI espera una “aceleración muy positiva de crecimiento económico para 2027″",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-fmi-espera-una-aceleracion-muy-positiva-de-crecimiento-nid16102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T070122Z"
     },
     {
      "title": "Los gobernadores que hicieron un aporte clave a Milei para frustrar la sesión opositora en Diputados",
@@ -2317,14 +2305,14 @@
      "seendate": "20261016T060000Z"
     },
     {
-     "title": "Basura: fijate cómo está tu barrio. Las dos cuadras con más reclamos están en Constitución, a apenas 160 metros",
-     "url": "https://www.lanacion.com.ar/sociedad/basura-fijate-como-esta-tu-barrio-las-dos-cuadras-con-mas-reclamos-estan-en-constitucion-a-apenas-nid16102026/",
+     "title": "Hay alerta amarilla por tormentas con granizo para este viernes 16 de octubre: las provincias afectadas",
+     "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-tormentas-con-granizo-para-este-viernes-16-de-octubre-las-provincias-nid16102026/",
      "domain": "La Nación",
      "seendate": "20261016T030100Z"
     },
     {
-     "title": "Hay alerta amarilla por tormentas con granizo para este viernes 16 de octubre: las provincias afectadas",
-     "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-tormentas-con-granizo-para-este-viernes-16-de-octubre-las-provincias-nid16102026/",
+     "title": "Basura: fijate cómo está tu barrio. Las dos cuadras con más reclamos están en Constitución, a apenas 160 metros",
+     "url": "https://www.lanacion.com.ar/sociedad/basura-fijate-como-esta-tu-barrio-las-dos-cuadras-con-mas-reclamos-estan-en-constitucion-a-apenas-nid16102026/",
      "domain": "La Nación",
      "seendate": "20261016T030100Z"
     },
@@ -2641,18 +2629,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/16/festival-suena-pedro-juan-caballero-la-tercera-parada-de-sonidos-de-la-tierra/",
      "domain": "ABC Color",
      "seendate": "20261016T032114Z"
-    },
-    {
-     "title": "Video: atrapados 25 minutos en un ascensor del IPS Central",
-     "url": "https://www.abc.com.py/nacionales/2026/10/15/video-atrapados-25-minutos-en-un-ascensor-del-ips-central/",
-     "domain": "ABC Color",
-     "seendate": "20261016T015633Z"
-    },
-    {
-     "title": "Aneaes: abrir una universidad en Paraguay exige “prácticamente nada”",
-     "url": "https://www.abc.com.py/nacionales/2026/10/15/aneaes-abrir-una-universidad-en-paraguay-exige-practicamente-nada/",
-     "domain": "ABC Color",
-     "seendate": "20261016T011117Z"
     }
    ]
   },
@@ -2662,112 +2638,10 @@
   "BRA": {
    "articles": [
     {
-     "title": "Inédita na eleição presidencial, virada no segundo turno ocorre em três a cada dez disputas nos estados",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/16/inedita-na-eleicao-presidencial-virada-no-segundo-turno-ocorre-em-tres-a-cada-dez-disputas-nos-estados.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261016T073000Z"
-    },
-    {
-     "title": "Veterinário de SP ajuda cobra constipada a fazer cocô e viraliza com blocos duros sobre a mesa: ‘Precisa comer fibras, mona’",
-     "url": "https://oglobo.globo.com/brasil/sao-paulo/post/2026/10/veterinario-de-sp-ajuda-cobra-constipada-a-fazer-coco-e-viraliza-com-blocos-duros-sobre-a-mesa-precisa-comer-fibras-mona.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261016T070000Z"
-    },
-    {
-     "title": "Campanha de Flávio sobe tom contra Lula e volta a mirar caso Lulinha em meio a críticas internas à comunicação",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/16/campanha-de-flavio-sobe-tom-contra-lula-e-volta-a-mirar-caso-lulinha-em-meio-a-criticas-internas-a-comunicacao.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261016T063001Z"
-    },
-    {
-     "title": "‘Com chuva, é difícil desovar corpos nos cemitérios do PCC’, diz especialista sobre cadáveres em sacos encontrados em SP",
-     "url": "https://oglobo.globo.com/brasil/sao-paulo/noticia/2026/10/16/com-chuva-e-dificil-desovar-corpos-nos-cemiterios-do-pcc-diz-especialista-sobre-cadaveres-em-sacos-encontrados-em-sp.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261016T063001Z"
-    },
-    {
-     "title": "Entrevista: 'Brasil precisa de 15 mil escolas e 3,8 mil creches para suprir demanda de tempo integral', diz ministro",
-     "url": "https://oglobo.globo.com/brasil/educacao/noticia/2026/10/16/entrevista-brasil-precisa-de-15-mil-escolas-e-38-mil-creches-para-suprir-demanda-de-tempo-integral-diz-ministro.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261016T063001Z"
-    },
-    {
-     "title": "Divisão governista sobre maioridade penal após ofensiva bolsonarista trava tramitação da PEC no Senado; entenda",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/16/divisao-governista-sobre-maioridade-penal-apos-ofensiva-bolsonarista-trava-tramitacao-da-pec-no-senado-entenda.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261016T063001Z"
-    },
-    {
-     "title": "'Pergunta da semana': O fim da escala 6x1 pode decidir a eleição? Colunistas do GLOBO avaliam",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/16/pergunta-da-semana-o-fim-da-escala-6x1-pode-decidir-a-eleicao-colunistas-do-globo-avaliam.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261016T063000Z"
-    },
-    {
-     "title": "‘Flaviômetro’: aliados compartilham site que monitora lealdade digital de parlamentares bolsonaristas",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/16/flaviometro-aliados-compartilham-site-que-monitora-lealdade-digital-de-parlamentares-bolsonaristas.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261016T063000Z"
-    },
-    {
-     "title": "'Direita está coordenada, mas Venezuela mostrou à esquerda que isso pode ter efeito contagioso', avalia estrategista argentina",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/16/direita-esta-coordenada-mas-venezuela-mostrou-a-esquerda-que-isso-pode-ter-efeito-contagioso-avalia-estrategista-argentina.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261016T063000Z"
-    },
-    {
-     "title": "Dos MEIs à gasolina: promessa de tarifa zero aos fins de semana e feriados amplia lista de benesses eleitorais de Lula",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/16/dos-meis-a-gasolina-promessa-de-tarifa-zero-aos-fins-de-semana-e-feriados-amplia-lista-de-benesses-eleitorais-de-lula.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261016T063000Z"
-    },
-    {
-     "title": "Lula impulsiona críticas ao 'tesouraço' de Flávio, que aposta em posts sobre segurança e manutenção do Bolsa Família",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/16/lula-impulsiona-criticas-ao-tesouraco-de-flavio-que-aposta-em-posts-sobre-seguranca-e-manutencao-do-bolsa-familia.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261016T063000Z"
-    },
-    {
-     "title": "Defesa de Lula sobre redução da maioridade penal é inflexão para evitar ser emparedado por Flávio, dizem aliados",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/16/defesa-de-lula-sobre-reducao-da-maioridade-penal-e-inflexao-para-evitar-ser-emparedado-por-flavio-dizem-aliados.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261016T063000Z"
-    },
-    {
-     "title": "Acusada pela morte de ex-namorado e suspeita de elo com chefe do PCC: quem é a delegada do Pará presa no DF",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/16/acusada-pela-morte-de-ex-namorado-e-suspeita-de-elo-com-chefe-do-pcc-quem-e-a-delegada-do-para-presa-no-df.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261016T063000Z"
-    },
-    {
-     "title": "Acidentes fatais em parques expõem falhas na fiscalização e regras fragmentadas pelo país; saiba que cuidados tomar",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/16/acidentes-fatais-em-parques-expoem-falhas-na-fiscalizacao-e-regras-fragmentadas-pelo-pais-saiba-que-cuidados-tomar.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261016T063000Z"
-    },
-    {
-     "title": "Redução da maioridade, 'não sabia' sobre o Bolsa Família, festas de Vorcaro: a entrevista de Lula à Globo em seis pontos",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/16/reducao-da-maioridade-nao-sabia-sobre-o-bolsa-familia-festas-de-vorcaro-a-entrevista-de-lula-a-globo-em-seis-pontos.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261016T063000Z"
-    },
-    {
-     "title": "Entenda o impasse entre governistas sobre maioridade penal que travou votação da PEC da Segurança no Senado",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/16/entenda-o-impasse-entre-governistas-sobre-maioridade-penal-que-travou-votacao-da-pec-da-seguranca-no-senado.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261016T030000Z"
-    },
-    {
-     "title": "Lula na TV Globo: veja como os colunistas do GLOBO analisaram em tempo real a entrevista com o petista",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/ao-vivo/lula-na-tv-globo-colunistas-comentam-ao-vivo-a-entrevista-com-o-petista.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261016T025908Z"
-    },
-    {
-     "title": "O que é crime hediondo, categoria em que Lula admite reduzir a maioridade penal na Globo",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/15/o-que-e-crime-hediondo-categoria-em-que-lula-admite-reduzir-a-maioridade-penal-na-globo.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261016T014308Z"
+     "title": "Guerra híbrida dos EUA contra o Brasil exige resposta na Justiça Internacional – Durval de Noronha Goyos Filho – Brasil 247",
+     "url": "https://www.brasil247.com/blog/guerra-hibrida-dos-eua-contra-o-brasil-exige-resposta-na-justica-internacional/",
+     "domain": "brasil247.com",
+     "seendate": "20261015T204500Z"
     }
    ]
   }
