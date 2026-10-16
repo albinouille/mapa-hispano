@@ -1,16 +1,16 @@
 {
- "updated": "2026-10-16T06:41:56+00:00",
+ "updated": "2026-10-16T07:38:46+00:00",
  "countries": {
   "ESP": {
    "articles": [
     {
-     "title": "La izquierda alternativa lleva al límite el pulso para las listas del 29-N con el escollo principal de Madrid",
+     "title": "El encaje de Irene Montero tensa el pulso en las listas de la izquierda",
      "url": "https://elpais.com/espana/elecciones-generales/2026-10-16/la-izquierda-alternativa-lleva-al-limite-el-pulso-para-las-listas-del-29-n-con-el-escollo-principal-de-madrid.html",
      "domain": "El País",
      "seendate": "20261016T061828Z"
     },
     {
-     "title": "El PP de Ayuso apuesta por Cayetana Álvarez de Toledo como ‘número dos’ por Madrid en las generales",
+     "title": "El PP de Ayuso apuesta por Cayetana Álvarez de Toledo como número dos por Madrid en las generales",
      "url": "https://elpais.com/espana/2026-10-16/el-pp-de-ayuso-apuesta-por-cayetana-alvarez-de-toledo-como-numero-dos-por-madrid-en-las-generales.html",
      "domain": "El País",
      "seendate": "20261016T033001Z"
@@ -380,12 +380,6 @@
      "seendate": "20261015T211651Z"
     },
     {
-     "title": "Fiscalía de Sinaloa admite no tener identificado móvil de riña en penal de Mazatlán que dejó 10 muertos; indaga uso de armas automáticas",
-     "url": "https://www.eluniversal.com.mx/estados/fiscalia-de-sinaloa-admite-no-tener-identificado-movil-de-rina-en-penal-de-mazatlan-que-dejo-10-muertos-indaga-uso-de-armas-automaticas/",
-     "domain": "El Universal",
-     "seendate": "20261015T211331Z"
-    },
-    {
      "title": "\"Tres Doritos después ya nos estaban llamando\"; Jorge Romero afirma que morenistas buscaron al PAN tras perder en encuestas",
      "url": "https://www.eluniversal.com.mx/nacion/tres-doritos-despues-ya-nos-estaban-llamando-jorge-romero-afirma-que-morenistas-buscaron-al-pan-tras-perder-en-encuestas/",
      "domain": "El Universal",
@@ -404,7 +398,7 @@
      "seendate": "20261015T174737Z"
     },
     {
-     "title": "Trudy se intensifica a huracán categoría 2; sigue en vivo su trayectoria",
+     "title": "Trudy se intensifica a huracán categoría 3; sigue en vivo su trayectoria",
      "url": "https://www.eluniversal.com.mx/estados/trudy-ya-es-huracan-categoria-1-simon-se-degrada-y-permanece-estacionario-sigue-en-vivo-su-trayectoria/",
      "domain": "El Universal",
      "seendate": "20261015T130430Z"
@@ -2335,10 +2329,22 @@
   "ARG": {
    "articles": [
     {
+     "title": "El FMI cree que habrá una “aceleración” en la economía argentina, a pesar de haber reducido su expectativa de crecimiento para 2026",
+     "url": "https://www.lanacion.com.ar/economia/el-fmi-ratifico-su-confianza-en-el-crecimiento-economico-de-la-argentina-pero-advirtio-sobre-el-nid16102026/",
+     "domain": "La Nación",
+     "seendate": "20261016T073344Z"
+    },
+    {
+     "title": "Javier Milei y sus medidas, EN VIVO: el FMI espera una “aceleración muy positiva de crecimiento económico para 2027″",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-fmi-espera-una-aceleracion-muy-positiva-de-crecimiento-nid16102026/",
+     "domain": "La Nación",
+     "seendate": "20261016T070122Z"
+    },
+    {
      "title": "Los gobernadores que hicieron un aporte clave a Milei para frustrar la sesión opositora en Diputados",
      "url": "https://www.lanacion.com.ar/politica/los-gobernadores-que-podrian-auxiliar-a-milei-para-bloquear-la-sesion-impulsada-por-la-oposicion-en-nid15102026/",
      "domain": "La Nación",
-     "seendate": "20261016T063425Z"
+     "seendate": "20261016T063533Z"
     },
     {
      "title": "Por falta de quorum, fracasó la sesión convocada por la oposición para voltear el DNU 70/23 de Milei",
@@ -2371,14 +2377,14 @@
      "seendate": "20261016T060000Z"
     },
     {
-     "title": "Hay alerta amarilla por tormentas con granizo para este viernes 16 de octubre: las provincias afectadas",
-     "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-tormentas-con-granizo-para-este-viernes-16-de-octubre-las-provincias-nid16102026/",
+     "title": "Basura: fijate cómo está tu barrio. Las dos cuadras con más reclamos están en Constitución, a apenas 160 metros",
+     "url": "https://www.lanacion.com.ar/sociedad/basura-fijate-como-esta-tu-barrio-las-dos-cuadras-con-mas-reclamos-estan-en-constitucion-a-apenas-nid16102026/",
      "domain": "La Nación",
      "seendate": "20261016T030100Z"
     },
     {
-     "title": "Basura: fijate cómo está tu barrio. Las dos cuadras con más reclamos están en Constitución, a apenas 160 metros",
-     "url": "https://www.lanacion.com.ar/sociedad/basura-fijate-como-esta-tu-barrio-las-dos-cuadras-con-mas-reclamos-estan-en-constitucion-a-apenas-nid16102026/",
+     "title": "Hay alerta amarilla por tormentas con granizo para este viernes 16 de octubre: las provincias afectadas",
+     "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-tormentas-con-granizo-para-este-viernes-16-de-octubre-las-provincias-nid16102026/",
      "domain": "La Nación",
      "seendate": "20261016T030100Z"
     },
@@ -2399,18 +2405,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/que-es-el-trastorno-de-purpura-trombocitopenica-idiopatica-la-enfermedad-de-denisse-gonzalez-nid15102026/",
      "domain": "La Nación",
      "seendate": "20261016T015047Z"
-    },
-    {
-     "title": "Mel Robbins: “Tenés que aprender a amar a tus padres por quienes son”",
-     "url": "https://www.lanacion.com.ar/sociedad/mel-robbins-tenes-que-aprender-a-amar-a-tus-padres-por-quienes-son-nid15102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T010000Z"
-    },
-    {
-     "title": "Cita del día, Winston Churchill, político: “El éxito no es definitivo, el fracaso no es fatal: lo que cuenta es el coraje para continuar”",
-     "url": "https://www.lanacion.com.ar/sociedad/cita-del-dia-winston-churchill-politico-el-exito-no-es-definitivo-el-fracaso-no-es-fatal-lo-que-nid15102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T004300Z"
     }
    ]
   },
@@ -2731,12 +2725,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/15/dramatico-rescate-de-ganado-por-crecidas-la-arp-asegura-que-la-situacion-no-es-muy-grave/",
      "domain": "ABC Color",
      "seendate": "20261016T001651Z"
-    },
-    {
-     "title": "World Skate Games Asunción 2026: Municipalidad o MOPC, ¿quién se hace cargo del estado de la Costanera?",
-     "url": "https://www.abc.com.py/nacionales/2026/10/15/world-skate-games-asuncion-2026-municipalidad-o-mopc-quien-se-hace-cargo-del-estado-de-la-costanera/",
-     "domain": "ABC Color",
-     "seendate": "20261015T202145Z"
     },
     {
      "title": "Denuncian “apriete” municipal tras la granizada en Asunción: “Se aprovechan de la necesidad de la gente”",
