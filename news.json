@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-16T21:02:43+00:00",
+ "updated": "2026-10-16T21:33:15+00:00",
  "countries": {
   "ESP": {
    "articles": [
     {
-     "title": "Última hora de la actualidad política, en directo | El Frente Amplio ofrece a Podemos un “puesto de salida prioritario en Madrid y Cataluña”",
+     "title": "Última hora de la actualidad política, en directo | Podemos responde al Frente Amplio con una oferta para acuerdos territoriales sin Madrid y Cataluña",
      "url": "https://elpais.com/espana/2026-10-16/ultima-hora-de-la-actualidad-politica-en-directo.html",
      "domain": "El País",
-     "seendate": "20261016T204840Z"
+     "seendate": "20261016T211052Z"
     },
     {
      "title": "El Defensor del Pueblo interpone un recurso de amparo ante el Constitucional por la suspensión del voto de los nacionalizados por la ‘ley de nietos’",
@@ -157,6 +157,36 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Jorge Romero entrega nombramientos a coordinadores del PAN en Tamaulipas; apuestan por \"Chucho\" Nader para recuperar Tampico",
+     "url": "https://www.eluniversal.com.mx/estados/jorge-romero-entrega-nombramientos-a-coordinadores-del-pan-en-tamaulipas-apuestan-por-chucho-nader-para-recuperar-tampico/",
+     "domain": "El Universal",
+     "seendate": "20261016T212433Z"
+    },
+    {
+     "title": "Disparan contra fachada de destacamento de policía en Juquipilas; \"no nos dejaremos amedrentar por ningún grupo delictivo\": SSP Chiapas",
+     "url": "https://www.eluniversal.com.mx/estados/disparan-contra-fachada-de-destacamento-de-policia-en-juquipilas-no-nos-dejaremos-amedrentar-por-ningun-grupo-delictivo-ssp-chiapas/",
+     "domain": "El Universal",
+     "seendate": "20261016T211912Z"
+    },
+    {
+     "title": "Activan alerta amarilla por bajas temperaturas en 5 alcaldías de CDMX; termómetro podría llegar a los 4 grados Celsius",
+     "url": "https://www.eluniversal.com.mx/metropoli/activan-alerta-amarilla-por-bajas-temperaturas-en-5-alcaldias-de-cdmx-termometro-podria-llegar-a-los-4-grados-celsius/",
+     "domain": "El Universal",
+     "seendate": "20261016T211259Z"
+    },
+    {
+     "title": "Identifican a 3 de las 5 víctimas halladas en fosa clandestina de Hidalgo; dos cuerpos ya fueron entregados a sus familiares",
+     "url": "https://www.eluniversal.com.mx/estados/identifican-a-3-de-las-5-victimas-halladas-en-fosa-clandestina-de-hidalgo-dos-cuerpos-ya-fueron-entregados-a-sus-familiares/",
+     "domain": "El Universal",
+     "seendate": "20261016T210147Z"
+    },
+    {
+     "title": "\"Si te vas, le hago daño a tu perro\": Proponen reconocer violencia familiar ejercida a través de animales de compañía",
+     "url": "https://www.eluniversal.com.mx/metropoli/si-te-vas-le-hago-dano-a-tu-perro-proponen-reconocer-violencia-familiar-ejercida-a-traves-de-animales-de-compania/",
+     "domain": "El Universal",
+     "seendate": "20261016T205749Z"
+    },
     {
      "title": "EU revoca restricciones a aerolíneas mexicanas; abrirá nuevos vuelos desde AICM y AIFA",
      "url": "https://www.eluniversal.com.mx/nacion/eu-revoca-restricciones-a-aerolineas-mexicanas-abrira-nuevos-vuelos-desde-aicm-y-aifa/",
@@ -366,18 +396,6 @@
      "url": "https://www.eluniversal.com.mx/estados/trudy-se-mantiene-como-huracan-categoria-3-sigue-en-vivo-su-trayectoria/",
      "domain": "El Universal",
      "seendate": "20261016T141304Z"
-    },
-    {
-     "title": "La mañanera de Sheinbaum, 16 de octubre, transmisión en vivo",
-     "url": "https://www.eluniversal.com.mx/nacion/la-mananera-de-sheinbaum-16-de-octubre-transmision-en-vivo/",
-     "domain": "El Universal",
-     "seendate": "20261016T133054Z"
-    },
-    {
-     "title": "Expertos ven necesaria ley catastral; alertan que actualización aumente costo del predial",
-     "url": "https://www.eluniversal.com.mx/nacion/expertos-ven-necesaria-ley-catastral-alertan-que-actualizacion-aumente-costo-del-predial-completa/",
-     "domain": "El Universal",
-     "seendate": "20261016T093100Z"
     }
    ]
   },
@@ -664,6 +682,18 @@
   "CRI": {
    "articles": [
     {
+     "title": "Juzgado separa por un año a 10 jerarcas de la Asociación Solidarista de Servidores Judiciales por presunta administración fraudulenta",
+     "url": "https://www.nacion.com/sucesos/juzgado-separa-por-un-ano-a-10-jerarcas-de-la/JXWH3I5XNRGHLPDALOTMT5EZQ4/story/",
+     "domain": "La Nación",
+     "seendate": "20261016T212204Z"
+    },
+    {
+     "title": "Abogado del jugador Carlos Barahona cuestiona denuncia asociada a préstamos gota a gota: ´No hay un elemento de extorsión cobratoria´",
+     "url": "https://www.nacion.com/sucesos/abogado-del-jugador-carlos-barahona-cuestiona/5DRI7OUV5ZBRPM4GL23V6FGVKI/story/",
+     "domain": "La Nación",
+     "seendate": "20261016T211850Z"
+    },
+    {
      "title": "Deslizamiento en Heredia deja a hombre de 70 años en condición crítica",
      "url": "https://www.nacion.com/sucesos/deslizamiento-en-heredia-deja-a-hombre-de-70-anos/JUX5YEIMA5BEBDMOZG5SNGRVNQ/story/",
      "domain": "La Nación",
@@ -818,12 +848,6 @@
      "url": "https://www.nacion.com/sucesos/costa-rica-tendra-un-viernes-de-calor-y-fuertes/6FWRRBSKGRF7XKGQQYUA4PPIS4/story/",
      "domain": "La Nación",
      "seendate": "20261016T012753Z"
-    },
-    {
-     "title": "Fiscalía y OIJ descarta fosa común en propiedad vinculada a uno de los cabecillas narco de Guácimo",
-     "url": "https://www.nacion.com/sucesos/fiscalia-y-oij-buscan-supuesta-fosa-comun-en/WB6YJQL5JFFIHO74TTPDOPHO5E/story/",
-     "domain": "La Nación",
-     "seendate": "20261015T233753Z"
     }
    ]
   },
@@ -860,7 +884,7 @@
      "seendate": "20261016T050400Z"
     },
     {
-     "title": "La catedral pierde una torre y el mercado, su ritmo habitual",
+     "title": "La catedral San Juan Bautista pierde una torre y el mercado, su ritmo habitual",
      "url": "https://www.prensa.com/sociedad/la-catedral-pierde-una-torre-y-el-mercado-su-ritmo-habitual/",
      "domain": "La Prensa",
      "seendate": "20261016T050200Z"
@@ -966,12 +990,6 @@
      "url": "https://www.prensa.com/sociedad/sinaproc-reporta-mas-de-13-mil-personas-afectadas-por-el-terremoto/",
      "domain": "La Prensa",
      "seendate": "20261015T041500Z"
-    },
-    {
-     "title": "Clases siguen suspendidas en escuelas oficiales hasta que Meduca autorice el regreso",
-     "url": "https://www.prensa.com/sociedad/clases-siguen-suspendidas-en-escuelas-oficiales-hasta-que-meduca-autorice-el-regreso/",
-     "domain": "La Prensa",
-     "seendate": "20261015T034500Z"
     },
     {
      "title": "La Embajada de Estados Unidos niega que 600 soldados vengan a Panamá",
@@ -1123,16 +1141,34 @@
   "COL": {
    "articles": [
     {
+     "title": "Capturado alias 'Julito' en Bucaramanga, señalado de cometer homicidios y sicariatos en la ciudad: se escapó de una correccional en Bogotá hace meses",
+     "url": "https://www.eltiempo.com/colombia/santander/capturado-alias-julito-en-bucaramanga-senalado-de-cometer-homicidios-y-sicariatos-en-la-ciudad-se-escapo-de-una-correccional-en-bogota-hace-meses-3594124",
+     "domain": "El Tiempo",
+     "seendate": "20261016T211508Z"
+    },
+    {
+     "title": "'¡Se acabó la guachafita!': el presidente De La Espriella lideró operativo en Barranquilla; 72 capturados y golpes a cabecillas de bandas criminales",
+     "url": "https://www.eltiempo.com/colombia/barranquilla/se-acabo-la-guachafita-el-presidente-de-la-espriella-lidero-operativo-en-barranquilla-72-capturados-y-golpes-a-cabecillas-de-bandas-criminales-3594138",
+     "domain": "El Tiempo",
+     "seendate": "20261016T211052Z"
+    },
+    {
+     "title": "Afinia investiga presunto fraude de energía en empresa hielera de Cartagena: reportan pérdidas superiores a los $36 millones al mes",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/afinia-investiga-presunto-fraude-de-energia-en-empresa-hielera-de-cartagena-reportan-perdidas-superiores-a-los-36-millones-al-mes-3594142",
+     "domain": "El Tiempo",
+     "seendate": "20261016T210705Z"
+    },
+    {
+     "title": "Cronología del asesinato durante caravana fúnebre en Cúcuta y crímenes ligados: mataron a joven que despedía a su amiga, baleada cerca de la cárcel",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/cronologia-del-asesinato-en-caravana-funebre-en-cucuta-y-crimenes-ligados-mataron-a-joven-que-despedia-a-amiga-que-habia-sido-baleada-cerca-a-carcel-3594111",
+     "domain": "El Tiempo",
+     "seendate": "20261016T210500Z"
+    },
+    {
      "title": "Presto aclaró qué pasará con sus restaurantes tras entrar en liquidación judicial y reveló hasta cuándo seguirán abiertos",
      "url": "https://www.eltiempo.com/colombia/presto-aclaro-que-pasara-con-sus-restaurantes-tras-entrar-en-liquidacion-judicial-y-revelo-hasta-cuando-seguiran-abiertos-3594141",
      "domain": "El Tiempo",
      "seendate": "20261016T205325Z"
-    },
-    {
-     "title": "Capturado alias 'Julito' en Bucaramanga, señalado de cometer homicidios y sicariatos en la ciudad: se escapó de una correccional en Bogotá hace meses",
-     "url": "https://www.eltiempo.com/colombia/santander/capturado-alias-julito-en-bucaramanga-senalado-de-cometer-homicidios-y-sicariatos-en-la-ciudad-se-escapo-de-una-correccional-en-bogota-hace-meses-3594124",
-     "domain": "El Tiempo",
-     "seendate": "20261016T205023Z"
     },
     {
      "title": "Tras asesinar a su esposo en medio de una discusión, una joven en Boyacá tendrá que pagar 20 años de prisión",
@@ -1163,29 +1199,95 @@
      "url": "https://www.eltiempo.com/colombia/cali/plan-meteoro-alternativa-real-o-pano-de-agua-tibia-frente-al-reto-de-garantizar-la-seguridad-en-la-via-panamericana-3594112",
      "domain": "El Tiempo",
      "seendate": "20261016T200433Z"
-    },
-    {
-     "title": "Cronología del asesinato en caravana fúnebre en Cúcuta y crimenes ligados: mataron a joven que despedía a amiga que había sido baleada cerca a cárcel",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/cronologia-del-asesinato-en-caravana-funebre-en-cucuta-y-crimenes-ligados-mataron-a-joven-que-despedia-a-amiga-que-habia-sido-baleada-cerca-a-carcel-3594111",
-     "domain": "El Tiempo",
-     "seendate": "20261016T194103Z"
-    },
-    {
-     "title": "Exalcalde de La Vega, Cauca, denuncia que hallaron explosivos en su propiedad y pide protección para su familia",
-     "url": "https://www.eltiempo.com/colombia/cali/exalcalde-de-la-vega-cauca-denuncia-que-hallaron-explosivos-en-su-propiedad-y-pide-proteccion-para-su-familia-3594102",
-     "domain": "El Tiempo",
-     "seendate": "20261016T190309Z"
-    },
-    {
-     "title": "Presto, la historia de la cadena de hamburguesas colombiana que entró en liquidación y busca evitar el cierre de sus restaurantes",
-     "url": "https://www.eltiempo.com/colombia/presto-la-historia-de-la-cadena-de-hamburguesas-colombiana-que-entro-en-liquidacion-y-busca-evitar-el-cierre-de-sus-restaurantes-3594093",
-     "domain": "El Tiempo",
-     "seendate": "20261016T184112Z"
     }
    ]
   },
   "VEN": {
    "articles": [
+    {
+     "title": "Burlas para los venezolanos de Doral ( y para los que no lo sean también )",
+     "url": "https://www.informe21.com/post/burlas-para-los-venezolanos-de-doral-y-para-los-que-no-lo-sean-tambi%C3%A9n",
+     "domain": "informe21.com",
+     "seendate": "20261016T210000Z"
+    },
+    {
+     "title": "Delcy Rodríguez propone a Keiko Fujimori el retorno seguro de venezolanos desde Perú",
+     "url": "https://confirmado.com.ve/delcy-rodriguez-propone-a-keiko-fujimori-el-retorno-seguro-de-venezolanos-desde-peru/",
+     "domain": "confirmado.com.ve",
+     "seendate": "20261016T210000Z"
+    },
+    {
+     "title": "Crece la emoción de la fanaticada venezolana a días de la llegada del Futttura Tini World Tour",
+     "url": "https://confirmado.com.ve/951368-2/",
+     "domain": "confirmado.com.ve",
+     "seendate": "20261016T210000Z"
+    },
+    {
+     "title": "Inicio | Periódico CiudadCCS",
+     "url": "https://ciudadccs.info/publicacion/52037-yenifer-mendoza-y-yenniver-veroes-plata-en-suramericano-de-atletismo",
+     "domain": "ciudadccs.info",
+     "seendate": "20261016T210000Z"
+    },
+    {
+     "title": "Lasso anuncia su sexto álbum de estudio Objetos frágiles en Ambientes Hostiles",
+     "url": "https://confirmado.com.ve/lasso-anuncia-su-sexto-album-de-estudio-objetos-fragiles-en-ambientes-hostiles/",
+     "domain": "confirmado.com.ve",
+     "seendate": "20261016T210000Z"
+    },
+    {
+     "title": "Jackson Chourio y William Contreras jugarán la Serie Mundial con los Cerveceros de Milwaukee",
+     "url": "https://confirmado.com.ve/jackson-chourio-y-william-contreras-jugaran-la-serie-mundial-con-los-cerveceros-de-milwaukee/",
+     "domain": "confirmado.com.ve",
+     "seendate": "20261016T210000Z"
+    },
+    {
+     "title": "Exportaciones petroleras de Venezuela a EEUU cayeron 27 % la semana pasada",
+     "url": "https://confirmado.com.ve/exportaciones-petroleras-de-venezuela-a-eeuu-cayeron-27-la-semana-pasada/",
+     "domain": "confirmado.com.ve",
+     "seendate": "20261016T210000Z"
+    },
+    {
+     "title": "Presidenta Rodríguez inspecciona Base de Misiones en comuna Villa Zoila de la Cota 905",
+     "url": "http://www.psuv.org.ve/temas/noticias/presidenta-rodriguez-inspecciona-base-misiones-comuna-villa-zoila-cota-905/",
+     "domain": "psuv.org.ve",
+     "seendate": "20261016T210000Z"
+    },
+    {
+     "title": "La Liga Superior de Baloncesto sigue su acción esta noche",
+     "url": "https://confirmado.com.ve/la-liga-superior-de-baloncesto-sigue-su-accion-esta-noche/",
+     "domain": "confirmado.com.ve",
+     "seendate": "20261016T210000Z"
+    },
+    {
+     "title": "Médicos plantean a opositores en el diálogo atender la crisis de salud pública",
+     "url": "https://www.el-carabobeno.com/medicos-plantean-a-opositores-en-el-dialogo-atender-la-crisis-de-salud-publica/",
+     "domain": "el-carabobeno.com",
+     "seendate": "20261016T210000Z"
+    },
+    {
+     "title": "ONG pide a la oposición en el diálogo que intervenga para derogación de ley contra el odio",
+     "url": "https://www.el-carabobeno.com/ong-pide-a-la-oposicion-en-el-dialogo-que-intervenga-para-derogacion-de-ley-contra-el-odio/",
+     "domain": "el-carabobeno.com",
+     "seendate": "20261016T210000Z"
+    },
+    {
+     "title": "¿ Cómo así ?, por Simón Boccanegra",
+     "url": "https://talcualdigital.com/opinion/como-asi-por-simon-boccanegra/",
+     "domain": "talcualdigital.com",
+     "seendate": "20261016T204500Z"
+    },
+    {
+     "title": "País en rojo , por Teodoro Petkoff",
+     "url": "https://talcualdigital.com/teodoro/pais-en-rojo-por-teodoro-petkoff/",
+     "domain": "talcualdigital.com",
+     "seendate": "20261016T204500Z"
+    },
+    {
+     "title": "¿ Magnicidio ?, por Teodoro Petkoff",
+     "url": "https://talcualdigital.com/teodoro/magnicidio-por-teodoro-petkoff/",
+     "domain": "talcualdigital.com",
+     "seendate": "20261016T204500Z"
+    },
     {
      "title": "Entregan sistema de desechos en Hospital Central de San Cristóbal",
      "url": "https://ultimasnoticias.com.ve/tachira/entregan-sistema-de-desechos-en-hospital-central-de-san-cristobal/",
@@ -1201,12 +1303,6 @@
     {
      "title": "Caracas FC resuelve problema de visado y confirma participación en Libertadores femenina",
      "url": "https://www.globovision.com/deportes/63217/caracas-fc-resuelve-problema-de-visado-y-confirma-participacion-en-libertadores-femenina",
-     "domain": "globovision.com",
-     "seendate": "20261016T203000Z"
-    },
-    {
-     "title": "Jackson Chourio y William Contreras jugarán la Serie Mundial con los Cerveceros de Milwaukee",
-     "url": "https://www.globovision.com/deportes/63219/jackson-chourio-y-william-contreras-jugaran-la-serie-mundial-con-los-cerveceros-de-milwaukee",
      "domain": "globovision.com",
      "seendate": "20261016T203000Z"
     },
@@ -1235,16 +1331,28 @@
      "seendate": "20261016T200000Z"
     },
     {
-     "title": "Inicio | Periódico CiudadCCS",
-     "url": "http://ciudadccs.info/publicacion/52028-obras-en-el-urbanismo-rey-de-reyes-cuenta-con-un-89-de-avance",
-     "domain": "ciudadccs.info",
-     "seendate": "20261016T200000Z"
-    },
-    {
      "title": "Presidenta Delcy Rodríguez llama a participar en la Consulta Popular Nacional del 18 - O – Correo del Orinoco | La Artillería del Pensamiento",
      "url": "http://www.correodelorinoco.gob.ve/presidenta-delcy-rodriguez-llama-a-participar-en-la-consulta-popular-nacional-del-18-o/",
      "domain": "correodelorinoco.gob.ve",
      "seendate": "20261016T200000Z"
+    },
+    {
+     "title": "Ofac amplía licencia que autoriza transacciones para ayuda tras terremotos en Venezuela",
+     "url": "https://nuevodia.com.ve/ofac-amplia-licencia-que-autoriza-transacciones-para-ayuda-tras-terremotos-en-venezuela/",
+     "domain": "nuevodia.com.ve",
+     "seendate": "20261016T194500Z"
+    },
+    {
+     "title": "Gobernadora de Puerto Rico firma resolución para solicitar anexión a EE . UU",
+     "url": "https://www.el-carabobeno.com/gobernadora-de-puerto-rico-firma-resolucion-para-solicitar-anexion-a-ee-uu/",
+     "domain": "el-carabobeno.com",
+     "seendate": "20261016T194500Z"
+    },
+    {
+     "title": "Una fallecida , solidaridad y pueblos arrasados a una semana del terremoto de 7 , 7 en Panamá",
+     "url": "https://www.el-carabobeno.com/una-fallecida-solidaridad-y-pueblos-arrasados-a-una-semana-del-terremoto-de-77-en-panama/",
+     "domain": "el-carabobeno.com",
+     "seendate": "20261016T194500Z"
     },
     {
      "title": "Águilas blanqueó a Cardenales y sumó su segundo triunfo",
@@ -1268,24 +1376,6 @@
      "title": "Esposa de Miguel Uribe Turbay dijo que Petro estuvo detrás de la muerte del congresista colombiano",
      "url": "https://noticierodigital.com/2026/10/esposa-de-miguel-uribe-turbay-dijo-que-petro-estuvo-detras-de-la-muerte-del-congresista-colombiano/",
      "domain": "noticierodigital.com",
-     "seendate": "20261016T194500Z"
-    },
-    {
-     "title": "Ofac amplía licencia que autoriza transacciones para ayuda tras terremotos en Venezuela",
-     "url": "https://nuevodia.com.ve/ofac-amplia-licencia-que-autoriza-transacciones-para-ayuda-tras-terremotos-en-venezuela/",
-     "domain": "nuevodia.com.ve",
-     "seendate": "20261016T194500Z"
-    },
-    {
-     "title": "Gobernadora de Puerto Rico firma resolución para solicitar anexión a EE . UU",
-     "url": "https://www.el-carabobeno.com/gobernadora-de-puerto-rico-firma-resolucion-para-solicitar-anexion-a-ee-uu/",
-     "domain": "el-carabobeno.com",
-     "seendate": "20261016T194500Z"
-    },
-    {
-     "title": "Una fallecida , solidaridad y pueblos arrasados a una semana del terremoto de 7 , 7 en Panamá",
-     "url": "https://www.el-carabobeno.com/una-fallecida-solidaridad-y-pueblos-arrasados-a-una-semana-del-terremoto-de-77-en-panama/",
-     "domain": "el-carabobeno.com",
      "seendate": "20261016T194500Z"
     },
     {
@@ -1413,83 +1503,17 @@
      "url": "https://ultimasnoticias.com.ve/politica/godoy-destaca-en-la-onu-plan-venezuela-alimenta/",
      "domain": "ultimasnoticias.com.ve",
      "seendate": "20261016T171500Z"
-    },
-    {
-     "title": "Finity cumple dos años impulsando la tecnología financiera en Venezuela",
-     "url": "https://ultimasnoticias.com.ve/tecnologia/finity-cumple-dos-anos-impulsando-la-tecnologia-financiera-en-venezuela/",
-     "domain": "ultimasnoticias.com.ve",
-     "seendate": "20261016T171500Z"
-    },
-    {
-     "title": "Rinden homenaje en Caracas a José Gregorio Hernández y Carmen Rendiles",
-     "url": "https://ultimasnoticias.com.ve/mas-vida/rinden-homenaje-en-caracas-a-jose-gregorio-hernandez-y-carmen-rendiles/",
-     "domain": "ultimasnoticias.com.ve",
-     "seendate": "20261016T171500Z"
-    },
-    {
-     "title": "Minhvi afianza estrategias para fortalecer la construcción de viviendas",
-     "url": "https://ultimasnoticias.com.ve/mas-vida/minhvi-afianza-estrategias-para-fortalecer-la-construccion-de-viviendas/",
-     "domain": "ultimasnoticias.com.ve",
-     "seendate": "20261016T171500Z"
-    },
-    {
-     "title": "La juventud asume el 55 % de la producción agrícola nacional",
-     "url": "https://ultimasnoticias.com.ve/economia/la-juventud-asume-el-55-de-la-produccion-agricola-nacional/",
-     "domain": "ultimasnoticias.com.ve",
-     "seendate": "20261016T171500Z"
-    },
-    {
-     "title": "La derecha hace muy bien el mal",
-     "url": "https://www.aporrea.org/internacionales/a357556.html",
-     "domain": "aporrea.org",
-     "seendate": "20261016T164500Z"
-    },
-    {
-     "title": "Advierten que Caracas necesita fortalecer la prevención y la respuesta ante emergencias",
-     "url": "https://confirmado.com.ve/advierten-que-caracas-necesita-fortalecer-la-prevencion-y-la-respuesta-ante-emergencias/",
-     "domain": "confirmado.com.ve",
-     "seendate": "20261016T163000Z"
-    },
-    {
-     "title": "Antonio de la Cruz : Trump conquistó Venezuela , ha olvidado devolverle su democracia",
-     "url": "https://confirmado.com.ve/antonio-de-la-cruz-trump-conquisto-venezuela-ha-olvidado-devolverle-su-democracia/",
-     "domain": "confirmado.com.ve",
-     "seendate": "20261016T163000Z"
-    },
-    {
-     "title": "Despliegan campaña marítima en Paria y Los Testigos para actualizar la cartografía nacional tras sismos",
-     "url": "https://confirmado.com.ve/despliegan-campana-maritima-en-paria-y-los-testigos-para-actualizar-la-cartografia-nacional-tras-sismos/",
-     "domain": "confirmado.com.ve",
-     "seendate": "20261016T163000Z"
-    },
-    {
-     "title": "PSUV Bolívar realizó cierre de campaña en el municipio Piar rumbo a la victoria del 18 de octubre",
-     "url": "http://www.psuv.org.ve/temas/noticias/psuv-bolivar-realizo-cierre-campana-municipio-piar-rumbo-a-victoria-18-octubre/",
-     "domain": "psuv.org.ve",
-     "seendate": "20261016T160000Z"
-    },
-    {
-     "title": "EE . UU . respalda al 100 % el diálogo en Venezuela y ve un progreso real",
-     "url": "https://www.globovision.com/politica/63216/ee-uu-respalda-al-100-al-porceso-de-dialogo-venezolano-y-resalta-progresos-reales-en-las",
-     "domain": "globovision.com",
-     "seendate": "20261016T160000Z"
-    },
-    {
-     "title": "TSJ respalda reforma de la Ley contra el Odio y aprueba avances en su discusión parlamentaria",
-     "url": "https://www.globovision.com/politica/63201/tsj-respalda-reforma-de-la-ley-contra-el-odio-y-aprueba-avances-en-su-discusion-parlamentaria",
-     "domain": "globovision.com",
-     "seendate": "20261016T160000Z"
-    },
-    {
-     "title": "Delegación de la AN2015 sostiene encuentro con ONG , fundaciones y asociaciones defensoras de derechos humanos",
-     "url": "https://www.globovision.com/politica/63213/delegacion-de-la-an-de-2015-sostiene-encuentro-con-ong-fundaciones-y-asociaciones-defensoras-de",
-     "domain": "globovision.com",
-     "seendate": "20261016T160000Z"
     }
    ]
   },
   "ECU": {
    "articles": [
+    {
+     "title": "Santo Domingo de los Tsáchilas fortalece la seguridad escolar y la vigilancia con nuevas cámaras",
+     "url": "https://eluniverso.com/comunidad/ecuador/santo-domingo-de-los-tsachilas-fortalece-la-seguridad-escolar-y-la-vigilancia-con-nuevas-camaras-nota/",
+     "domain": "El Universo",
+     "seendate": "20261016T211552Z"
+    },
     {
      "title": "Cancillería del Ecuador gestiona apoyo a la familia de los siameses fallecidos en Colombia",
      "url": "https://eluniverso.com/comunidad/ecuador/cancilleria-del-ecuador-gestiona-apoyo-a-la-familia-de-los-siameses-fallecidos-en-colombia-nota/",
@@ -1633,40 +1657,76 @@
   "PER": {
    "articles": [
     {
-     "title": "SNP, Produce e Imarpe suscriben convenio de cooperación para una pesca más sostenible",
-     "url": "https://elcomercio.pe/economia/peru/snp-produce-e-imarpe-suscriben-convenio-de-cooperacion-para-una-pesca-mas-sostenible-l-ultimas-noticia/",
+     "title": "Arequipa: Decenas de familias piden culminar muros de contención ante la llegada del Fenómeno El Niño",
+     "url": "https://elcomercio.pe/peru/arequipa/fenomeno-el-nino-decenas-de-familias-piden-culminar-muros-de-contencion-en-arequipa-torrentera-el-chullo-urbanizacion-flora-tristan-ultimas-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261016T163014Z"
+     "seendate": "20261016T041937Z"
     },
     {
-     "title": "Fenómeno El Niño: Keiko Fujimori inspecciona obras de prevención ante inundaciones y huaicos en Piura y La Libertad",
-     "url": "https://elcomercio.pe/peru/piura/fenomeno-el-nino-keiko-fujimori-inspecciona-obras-de-prevencion-ante-inundaciones-y-huaicos-en-piura-y-la-libertad-ultimas-noticia/",
+     "title": "Turismo mundial crecerá 2,5% en el 2026: ¿cómo los destinos peruanos deberían crecer sin afectar sus principales atractivos?",
+     "url": "https://elcomercio.pe/economia/peru/turismo-mundial-crecera-25-en-el-2026-como-los-destinos-peruanos-deberian-crecer-sin-afectar-sus-principales-atractivos-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261016T162316Z"
+     "seendate": "20261016T022711Z"
     },
     {
-     "title": "Temblor hoy, viernes 16 de octubre: dónde ocurrió el último sismo y magnitud",
-     "url": "https://elcomercio.pe/peru/temblor-hoy-en-peru-consulta-donde-ocurrio-el-ultimo-sismo-magnitud-y-reporte-segun-el-igp-tdpe-noticia/",
+     "title": "Elmer Cuba: “Tenemos un Ministerio de Economía que va a responder para que la economía no se enfríe”",
+     "url": "https://elcomercio.pe/economia/peru/elmer-cuba-tenemos-un-ministerio-de-economia-que-va-a-responder-para-que-la-economia-no-se-enfrie-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261016T161954Z"
+     "seendate": "20261016T014415Z"
     },
     {
-     "title": "PBI se desacelera en agosto: ¿qué frenó el crecimiento y cuáles son los riesgos para el cierre del año?",
-     "url": "https://elcomercio.pe/economia/peru/pbi-se-desacelera-en-agosto-que-freno-el-crecimiento-y-cuales-son-los-riesgos-para-el-cierre-del-ano-economia-peruana-noticia/",
+     "title": "Pablo Nano, gerente de Estudios Económicos de Scotiabank: “El 2027 será atípico, el primer semestre crecerá menos de 2% y el segundo superaría el 4%”",
+     "url": "https://elcomercio.pe/economia/peru/pablo-nano-gerente-de-scotiabank-el-2027-sera-atipico-el-primer-semestre-crecera-menos-de-2-y-el-segundo-superaria-el-4-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261016T154000Z"
+     "seendate": "20261016T014333Z"
     },
     {
-     "title": "El dólar abre a la baja en S/3,42 ante debilitamiento de la divisa estadounidense",
-     "url": "https://elcomercio.pe/economia/peru/el-dolar-abre-a-la-baja-en-s342-ante-debilitamiento-de-la-divisa-estadounidense-l-cotizacion-del-dolar-l-ultimas-noticia/",
+     "title": "Adex destaca que el nuevo embajador de Perú en Estados Unidos incluya la eliminación de aranceles a las exportaciones peruanas entre sus prioridades",
+     "url": "https://elcomercio.pe/economia/peru/adex-destaca-que-el-nuevo-embajador-de-peru-en-estados-unidos-incluya-la-eliminacion-de-aranceles-a-las-exportaciones-peruanas-entre-sus-prioridades-l-ultimas-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261016T153831Z"
+     "seendate": "20261015T220133Z"
+    },
+    {
+     "title": "El dólar cierra a la baja en S/3,42 ante retroceso de la divisa estadounidense",
+     "url": "https://elcomercio.pe/economia/peru/el-dolar-cierra-a-la-baja-en-s342-ante-retroceso-de-la-divisa-estadounidense-l-tipo-de-cambio-l-ultimas-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261015T214026Z"
+    },
+    {
+     "title": "Wall Street cierra en verde pese a las dudas sobre el futuro de la IA",
+     "url": "https://elcomercio.pe/economia/peru/wall-street-cierra-en-verde-pese-a-las-dudas-sobre-el-futuro-de-la-ia-l-mercados-l-wall-street-l-ultimas-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261015T212901Z"
+    },
+    {
+     "title": "Gobierno destina más de S/16 millones para financiar subsidio a mototaxistas de tres regiones de la Amazonía",
+     "url": "https://elcomercio.pe/economia/peru/gobierno-destina-mas-de-s16-millones-para-financiar-subsidio-a-mototaxistas-de-tres-regiones-de-la-amazonia-l-ultimas-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261015T184918Z"
+    },
+    {
+     "title": "Indecopi advierte que rechazar injustificadamente pagos con monedas o billetes podría vulnerar derechos de consumidores",
+     "url": "https://elcomercio.pe/economia/peru/indecopi-advierte-que-rechazar-injustificadamente-pagos-con-monedas-o-billetes-podria-vulnerar-derechos-de-consumidores-l-ultimas-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261015T175330Z"
     },
     {
      "title": "INEI: producción nacional presenta un crecimiento de 3,23% en agosto del 2026",
      "url": "https://elcomercio.pe/economia/peru/inei-produccion-nacional-presenta-un-crecimiento-de-323-en-agosto-del-2026-l-ultimas-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261016T145349Z"
+     "seendate": "20261015T155542Z"
+    },
+    {
+     "title": "Mallplaza inaugura su primer Premium Outlets en Perú con una inversión de US$6,1 millones",
+     "url": "https://elcomercio.pe/economia/peru/mallplaza-inaugura-su-primer-premium-outlets-en-peru-con-una-inversion-de-us61-millones-l-ultimas-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261014T220332Z"
+    },
+    {
+     "title": "Gobierno transfiere más de S/19 millones a gobiernos regionales para cumplir con beneficios laborales en el sector Educación",
+     "url": "https://elcomercio.pe/economia/peru/gobierno-transfiere-mas-de-s19-millones-a-gobiernos-regionales-para-cumplir-con-beneficios-laborales-en-el-sector-educacion-l-ultimas-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261014T215956Z"
     }
    ]
   },
@@ -2323,16 +2383,28 @@
   "ARG": {
    "articles": [
     {
+     "title": "Javier Milei y sus medidas, EN VIVO: el FMI espera una “aceleración muy positiva de crecimiento económico para 2027″",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-fmi-espera-una-aceleracion-muy-positiva-de-crecimiento-nid16102026/",
+     "domain": "La Nación",
+     "seendate": "20261016T212000Z"
+    },
+    {
+     "title": "Un niño fue internado en grave estado luego de que se le cayera un arco de fútbol en el club Lanús",
+     "url": "https://www.lanacion.com.ar/sociedad/un-nino-fue-internado-en-grave-estado-luego-de-que-se-le-cayera-un-arco-de-futbol-en-el-club-lanus-nid16102026/",
+     "domain": "La Nación",
+     "seendate": "20261016T211218Z"
+    },
+    {
+     "title": "Eric Agustín y Mónica Reinsch manejan una estancia de 33.000 hectáreas, amansan guanacos y exportan su valiosa fibra a Italia",
+     "url": "https://www.lanacion.com.ar/economia/campo/eric-agustin-y-monica-reinsch-amansan-guanacos-los-esquilan-y-exportan-una-de-las-fibras-mas-nid16102026/",
+     "domain": "La Nación",
+     "seendate": "20261016T210645Z"
+    },
+    {
      "title": "“El agua viene fuerte”: en las islas del Litoral se profundiza el éxodo de miles de animales y de pobladores ante el acecho de la crecida",
      "url": "https://www.lanacion.com.ar/economia/campo/el-agua-viene-fuerte-en-las-islas-del-litoral-se-profundiza-el-exodo-de-miles-de-animales-y-de-nid16102026/",
      "domain": "La Nación",
      "seendate": "20261016T205043Z"
-    },
-    {
-     "title": "Javier Milei y sus medidas, EN VIVO: el FMI espera una “aceleración muy positiva de crecimiento económico para 2027″",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-fmi-espera-una-aceleracion-muy-positiva-de-crecimiento-nid16102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T205000Z"
     },
     {
      "title": "Los gobernadores piden más obras y Santilli lanzó una advertencia: “Deberían estar preocupados si vuelve el kirchnerismo”",
@@ -2455,12 +2527,6 @@
      "seendate": "20261016T200920Z"
     },
     {
-     "title": "Eric Agustín y Mónica Reinsch manejan una estancia de 33.000 hectáreas, amansan guanacos y exportan su valiosa fibra a Italia",
-     "url": "https://www.lanacion.com.ar/economia/campo/eric-agustin-y-monica-reinsch-amansan-guanacos-los-esquilan-y-exportan-una-de-las-fibras-mas-nid16102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T200119Z"
-    },
-    {
      "title": "Cuántas tazas de café se pueden tomar por día sin afectar a la salud",
      "url": "https://www.lanacion.com.ar/sociedad/cuantas-tazas-de-cafe-se-pueden-tomar-por-dia-sin-afectar-a-la-salud-nid16102026/",
      "domain": "La Nación",
@@ -2485,7 +2551,7 @@
      "seendate": "20261016T192500Z"
     },
     {
-     "title": "El riesgo país cierra la semana con otra suba y supera los 640 puntos",
+     "title": "El riesgo país cerró la semana con otra suba y rozó los 650 puntos",
      "url": "https://www.lanacion.com.ar/economia/el-riesgo-pais-cierra-la-semana-con-otra-suba-y-supera-los-640-puntos-nid16102026/",
      "domain": "La Nación",
      "seendate": "20261016T192305Z"
@@ -2537,12 +2603,6 @@
      "url": "https://www.lanacion.com.ar/politica/el-juez-lijo-ordeno-un-exhorto-a-suiza-por-transferencias-de-us190000-de-la-fifa-a-claudio-chiqui-nid16102026/",
      "domain": "La Nación",
      "seendate": "20261016T180056Z"
-    },
-    {
-     "title": "Premio VISA-LA NACION a la innovación: cuando la tecnología se pone al servicio de la inclusión financiera",
-     "url": "https://www.lanacion.com.ar/economia/premio-visa-la-nacion-a-la-innovacion-cuando-la-tecnologia-se-pone-al-servicio-de-la-inclusion-nid16102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T174715Z"
     }
    ]
   },
@@ -2907,6 +2967,18 @@
   "PRY": {
    "articles": [
     {
+     "title": "¿Nuevo cardenal en Paraguay? Esto responde monseñor Ricardo Valenzuela",
+     "url": "https://www.abc.com.py/nacionales/2026/10/16/nuevo-cardenal-en-paraguay-esto-responde-monsenor-ricardo-valenzuela/",
+     "domain": "ABC Color",
+     "seendate": "20261016T211105Z"
+    },
+    {
+     "title": "Personal libera llamadas telefónicas para afectados por inundaciones del Paraná y Acaraymí",
+     "url": "https://www.abc.com.py/nacionales/2026/10/16/personal-libera-llamadas-telefonicas-para-afectados-por-inundaciones-del-parana-y-acaraymi/",
+     "domain": "ABC Color",
+     "seendate": "20261016T210217Z"
+    },
+    {
      "title": "SPP pide proteger a los periodistas, a 12 años del asesinato de Pablo Medina y Antonia Almada",
      "url": "https://www.abc.com.py/nacionales/2026/10/16/spp-pide-proteger-al-periodistas-a-12-anos-del-asesinato-de-pablo-medina-y-antonia-almada/",
      "domain": "ABC Color",
@@ -2947,6 +3019,12 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/16/hernan-rivas-el-alumno-fantasma-pide-que-se-anule-su-condena-a-8-anos-de-carcel/",
      "domain": "ABC Color",
      "seendate": "20261016T171849Z"
+    },
+    {
+     "title": "Titular de Defensa Pública dice que no usó recurso institucional para viaje a Ginebra",
+     "url": "https://www.abc.com.py/nacionales/2026/10/16/ministro-del-mdp-afirma-que-no-utilizo-recursos-del-estado-para-el-viaje-a-ginebra/",
+     "domain": "ABC Color",
+     "seendate": "20261016T160100Z"
     }
    ]
   },
