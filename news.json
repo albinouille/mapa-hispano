@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T03:04:37+00:00",
+ "updated": "2026-10-16T03:35:57+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -151,6 +151,18 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Bloquean Ermita Iztapalapa y Periférico Oriente por desaparición de adolescente; exigen a autoridades agilizar la búsqueda",
+     "url": "https://www.eluniversal.com.mx/metropoli/bloquean-ermita-iztapalapa-y-periferico-oriente-por-desaparicion-de-adolescente-exigen-a-autoridades-agilizar-la-busqueda/",
+     "domain": "El Universal",
+     "seendate": "20261016T032848Z"
+    },
+    {
+     "title": "Hallan muerta a doctora del IMSS-Bienestar en Coatzacoalcos; fue localizada dentro de su departamento",
+     "url": "https://www.eluniversal.com.mx/estados/hallan-muerta-a-doctora-del-imss-bienestar-en-coatzacoalcos-fue-localizada-dentro-de-su-departamento/",
+     "domain": "El Universal",
+     "seendate": "20261016T032253Z"
+    },
     {
      "title": "Titular de Metrópolis se reúne con diputados locales para aclarar dudas sobre Programa de Ordenación; se descartan alzas al predial, enfatiza",
      "url": "https://www.eluniversal.com.mx/metropoli/titular-de-metropolis-se-reune-con-diputados-locales-para-aclarar-dudas-sobre-programa-de-ordenacion-se-descartan-alzas-al-predial-enfatiza/",
@@ -380,6 +392,12 @@
      "seendate": "20261015T204400Z"
     },
     {
+     "title": "\"Tres Doritos después ya nos estaban llamando\"; Jorge Romero afirma que morenistas buscaron al PAN tras perder en encuestas",
+     "url": "https://www.eluniversal.com.mx/nacion/tres-doritos-despues-ya-nos-estaban-llamando-jorge-romero-afirma-que-morenistas-buscaron-al-pan-tras-perder-en-encuestas/",
+     "domain": "El Universal",
+     "seendate": "20261015T200832Z"
+    },
+    {
      "title": "Tras expropiación de edificio de Cuba 11, se retiró el plantón; quedan comercios informales",
      "url": "https://www.eluniversal.com.mx/metropoli/tras-expropiacion-de-edificio-de-cuba-11-se-retiro-el-planton-quedan-comercios-informales/",
      "domain": "El Universal",
@@ -477,6 +495,36 @@
   },
   "HND": {
    "articles": [
+    {
+     "title": "Capturan a alias Casper y Yan , vinculados presuntamente a la Banda del Mudo en el Valle de Sula",
+     "url": "https://abriendobrecha.tv/sucesos/capturan-a-alias-casper-y-yan-vinculados-presuntamente-a-la-banda-del-mudo-en-el-valle-de-sula/",
+     "domain": "abriendobrecha.tv",
+     "seendate": "20261015T230000Z"
+    },
+    {
+     "title": "Leverkusen golea al Lech Poznań de Luis Palma en Europa League",
+     "url": "https://www.elheraldo.hn/deportes/leverkusen-golea-lech-pozna-luis-palma-uefa-europa-league-EB32334527",
+     "domain": "elheraldo.hn",
+     "seendate": "20261015T221500Z"
+    },
+    {
+     "title": "San Juan , una sentencia que no protege de la violencia y la usurpación de las tierras garífunas",
+     "url": "https://www.radioprogresohn.net/aplicacion-movil/san-juan-una-sentencia-que-no-protege-de-la-violencia-y-la-usurpacion-de-las-tierras-garifunas/",
+     "domain": "radioprogresohn.net",
+     "seendate": "20261015T211500Z"
+    },
+    {
+     "title": "Salud llama a médicos a retomar labores en Honduras",
+     "url": "http://www.laprensa.hn/honduras/tegucigalpa-secretaria-salud-llama-medicos-retomar-labores-BB32335545",
+     "domain": "laprensa.hn",
+     "seendate": "20261015T211500Z"
+    },
+    {
+     "title": "EN VIVO Olimpia vs Real España , clásico , Liga de Honduras",
+     "url": "https://www.laprensa.hn/deportes/olimpia-vs-real-espana-en-vivo-clasico-liga-nacional-honduras-transmision-KB32335395",
+     "domain": "laprensa.hn",
+     "seendate": "20261015T211500Z"
+    },
     {
      "title": "Policía decomisa 69 paquetes de cocaína en playa de Islas de la Bahía",
      "url": "http://www.laprensa.hn/honduras/islas-de-la-bahia-policia-decomisa-sustancia-ilicita-playa-caribe-BB32332355",
@@ -2317,6 +2365,18 @@
   "ARG": {
    "articles": [
     {
+     "title": "Basura: fijate cómo está tu barrio. Las dos cuadras con más reclamos están en Constitución, a apenas 160 metros",
+     "url": "https://www.lanacion.com.ar/sociedad/basura-fijate-como-esta-tu-barrio-las-dos-cuadras-con-mas-reclamos-estan-en-constitucion-a-apenas-nid16102026/",
+     "domain": "La Nación",
+     "seendate": "20261016T030100Z"
+    },
+    {
+     "title": "Hay alerta amarilla por tormentas con granizo para este viernes 16 de octubre: las provincias afectadas",
+     "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-tormentas-con-granizo-para-este-viernes-16-de-octubre-las-provincias-nid16102026/",
+     "domain": "La Nación",
+     "seendate": "20261016T030100Z"
+    },
+    {
      "title": "La reliquia centenaria que se esconde en la estación Coghlan",
      "url": "https://www.lanacion.com.ar/sociedad/la-reliquia-centenaria-que-se-esconde-en-la-estacion-coghlan-nid15102026/",
      "domain": "La Nación",
@@ -2399,72 +2459,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/robin-sharma-especialista-en-crecimiento-personal-un-mal-dia-para-el-ego-es-un-buen-dia-para-el-alma-nid11102026/",
      "domain": "La Nación",
      "seendate": "20261015T234300Z"
-    },
-    {
-     "title": "Daniel López Rosetti, médico: “La dosis indicada de caminata rápida es de 150 minutos semanales”",
-     "url": "https://www.lanacion.com.ar/sociedad/daniel-lopez-rosetti-medico-la-dosis-indicada-de-caminata-rapida-es-de-150-minutos-semanales-nid15102026/",
-     "domain": "La Nación",
-     "seendate": "20261015T234200Z"
-    },
-    {
-     "title": "Arthur Brooks, experto en felicidad de Harvard: “Hay una inteligencia que nace a partir de los 40 años”",
-     "url": "https://www.lanacion.com.ar/sociedad/arthur-brooks-experto-en-felicidad-de-harvard-hay-una-inteligencia-que-nace-a-partir-de-los-40-anos-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261015T234200Z"
-    },
-    {
-     "title": "Crecida histórica: el agua avanza y con lanchas y barcazas la misión es salvar a miles de animales",
-     "url": "https://www.lanacion.com.ar/economia/campo/hay-que-salir-con-todo-barcazas-lanchas-y-una-carrera-contra-reloj-para-salvar-a-los-animales-de-la-nid15102026/",
-     "domain": "La Nación",
-     "seendate": "20261015T233720Z"
-    },
-    {
-     "title": "Marcha Federal Universitaria, EN VIVO: cortes, horarios y últimas noticias del reclamo",
-     "url": "https://www.lanacion.com.ar/sociedad/marcha-federal-universitaria-en-vivo-cortes-horarios-y-ultimas-noticias-del-reclamo-nid15102026/",
-     "domain": "La Nación",
-     "seendate": "20261015T233435Z"
-    },
-    {
-     "title": "Más de 30 detenidos en la marcha universitaria: el mensaje del Gobierno en medio de los enfrentamientos",
-     "url": "https://www.lanacion.com.ar/politica/mas-de-30-detenidos-en-la-marcha-universitaria-el-mensaje-del-gobierno-en-medio-de-los-nid15102026/",
-     "domain": "La Nación",
-     "seendate": "20261015T233413Z"
-    },
-    {
-     "title": "Tras la marcha, Yacobitti exigió al Gobierno que “cumpla” con la ley de Financiamiento Universitario",
-     "url": "https://www.lanacion.com.ar/politica/tras-la-marcha-yacobitti-exigio-al-gobierno-que-cumpla-con-la-ley-de-financiamiento-universitario-nid15102026/",
-     "domain": "La Nación",
-     "seendate": "20261015T233217Z"
-    },
-    {
-     "title": "Decomisaron un cargamento de 35 kilos de cocaína en Salta",
-     "url": "https://www.lanacion.com.ar/seguridad/decomisaron-un-cargamento-de-35-kilos-de-cocaina-en-salta-nid15102026/",
-     "domain": "La Nación",
-     "seendate": "20261015T231925Z"
-    },
-    {
-     "title": "Entre ellos, Fernán Quirós: quiénes son los cuatro médicos con “labor meritoria” reconocidos como Maestros en su disciplina",
-     "url": "https://www.lanacion.com.ar/sociedad/entre-ellos-fernan-quiros-quienes-son-los-cuatro-medicos-con-labor-meritoria-reconocidos-como-nid15102026/",
-     "domain": "La Nación",
-     "seendate": "20261015T231833Z"
-    },
-    {
-     "title": "En Washington, Milei reforzó su condena al antisemitismo y cosechó otro elogio del gobierno de Trump",
-     "url": "https://www.lanacion.com.ar/politica/en-washington-milei-reforzo-su-condena-al-antisemitismo-y-cosecho-otro-elogio-del-gobierno-de-trump-nid15102026/",
-     "domain": "La Nación",
-     "seendate": "20261015T231728Z"
-    },
-    {
-     "title": "Empresarios ponen el freno de mano de cara a las elecciones",
-     "url": "https://www.lanacion.com.ar/economia/empresarios-ponen-el-freno-de-mano-de-cara-a-las-elecciones-nid15102026/",
-     "domain": "La Nación",
-     "seendate": "20261015T230152Z"
-    },
-    {
-     "title": "El sastre del Papa: quién es Tomás Valentín Gómez, el argentino que confeccionó la vestimenta de León XIV",
-     "url": "https://www.lanacion.com.ar/sociedad/el-sastre-del-papa-quien-es-tomas-valentin-gomez-el-argentino-que-confecciono-la-vestimenta-de-leon-nid15102026/",
-     "domain": "La Nación",
-     "seendate": "20261015T230000Z"
     }
    ]
   },
@@ -2667,6 +2661,12 @@
   "PRY": {
    "articles": [
     {
+     "title": "Festival “Suena Pedro Juan Caballero”: la tercera parada de Sonidos de la Tierra",
+     "url": "https://www.abc.com.py/nacionales/2026/10/16/festival-suena-pedro-juan-caballero-la-tercera-parada-de-sonidos-de-la-tierra/",
+     "domain": "ABC Color",
+     "seendate": "20261016T032114Z"
+    },
+    {
      "title": "Video: atrapados 25 minutos en un ascensor del IPS Central",
      "url": "https://www.abc.com.py/nacionales/2026/10/15/video-atrapados-25-minutos-en-un-ascensor-del-ips-central/",
      "domain": "ABC Color",
@@ -2697,12 +2697,6 @@
      "seendate": "20261015T220208Z"
     },
     {
-     "title": "Fiesta patronal de la iglesia La Encarnación de Asunción: este es el calendario de actividades",
-     "url": "https://www.abc.com.py/nacionales/2026/10/15/fiesta-patronal-de-la-iglesia-la-encarnacion-de-asuncion-este-es-el-calendario-de-actividades/",
-     "domain": "ABC Color",
-     "seendate": "20261015T213434Z"
-    },
-    {
      "title": "World Skate Games Asunción 2026: Municipalidad o MOPC, ¿quién se hace cargo del estado de la Costanera?",
      "url": "https://www.abc.com.py/nacionales/2026/10/15/world-skate-games-asuncion-2026-municipalidad-o-mopc-quien-se-hace-cargo-del-estado-de-la-costanera/",
      "domain": "ABC Color",
@@ -2721,6 +2715,18 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "Entenda o impasse entre governistas sobre maioridade penal que travou votação da PEC da Segurança no Senado",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/16/entenda-o-impasse-entre-governistas-sobre-maioridade-penal-que-travou-votacao-da-pec-da-seguranca-no-senado.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261016T030000Z"
+    },
+    {
+     "title": "Lula na TV Globo: veja como os colunistas do GLOBO analisaram em tempo real a entrevista com o petista",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/ao-vivo/lula-na-tv-globo-colunistas-comentam-ao-vivo-a-entrevista-com-o-petista.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261016T025908Z"
+    },
     {
      "title": "O que é crime hediondo, categoria em que Lula admite reduzir a maioridade penal na Globo",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/15/o-que-e-crime-hediondo-categoria-em-que-lula-admite-reduzir-a-maioridade-penal-na-globo.ghtml",
@@ -2750,12 +2756,6 @@
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/15/na-globo-lula-defende-reforma-do-judiciario-mas-diz-que-querem-cassar-moraes-porque-ele-prendeu-o-pai-do-flavio.ghtml",
      "domain": "O Globo",
      "seendate": "20261016T005416Z"
-    },
-    {
-     "title": "Lula na TV Globo: colunistas comentam ao vivo a entrevista com o petista",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/ao-vivo/lula-na-tv-globo-colunistas-comentam-ao-vivo-a-entrevista-com-o-petista.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261016T002004Z"
     },
     {
      "title": "Na Globo, Lula diz ser a favor de reduzir maioridade penal 'em todo e qualquer crime hediondo'",
@@ -2870,24 +2870,6 @@
      "url": "https://oglobo.globo.com/brasil/sao-paulo/o-critico-antigourmet/noticia/2026/10/15/nudo-quando-o-chef-sabe-se-deslocar-do-centro-do-processo.ghtml",
      "domain": "O Globo",
      "seendate": "20261015T194953Z"
-    },
-    {
-     "title": "Mansão da família Matsunaga é assaltada em SP e três morrem em confronto com a polícia",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/15/mansao-da-familia-matsunaga-e-assaltada-em-sp-e-tres-morrem-em-confronto-com-a-policia.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261015T194424Z"
-    },
-    {
-     "title": "Cerca de 160 pinguins são encontrados mortos em cidade de Santa Catarina em um dia; entenda as possíveis causas",
-     "url": "https://oglobo.globo.com/brasil/meio-ambiente/noticia/2026/10/15/cerca-de-160-pinguins-sao-encontrados-mortos-em-cidade-de-santa-catarina-em-um-dia-entenda-as-possiveis-causas.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261015T190100Z"
-    },
-    {
-     "title": "Imprensa internacional repercute fim da escala 6x1 no Brasil: 'Vitória de Lula'",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/15/imprensa-internacional-repercute-fim-da-escala-6x1-no-brasil-vitoria-de-lula.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261015T184732Z"
     }
    ]
   }
