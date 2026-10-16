@@ -1,8 +1,14 @@
 {
- "updated": "2026-10-16T08:33:08+00:00",
+ "updated": "2026-10-16T09:09:07+00:00",
  "countries": {
   "ESP": {
    "articles": [
+    {
+     "title": "Última hora de la actualidad política, en directo | Ayuso anuncia el cierre de la estación de metro de Sol por “condiciones de insalubridad”",
+     "url": "https://elpais.com/espana/2026-10-16/ultima-hora-de-la-actualidad-politica-en-directo.html",
+     "domain": "El País",
+     "seendate": "20261016T084209Z"
+    },
     {
      "title": "España e Italia acuerdan poner fin a los controles Schengen por Ceuta",
      "url": "https://elpais.com/espana/2026-10-16/espana-e-italia-coordinaran-el-fin-de-los-controles-schengen-por-ceuta.html",
@@ -36,12 +42,6 @@
     {
      "title": "El CNI entrega a la jueza Tardón el informe sobre lo ocurrido en Ceuta",
      "url": "https://elpais.com/espana/2026-10-16/el-cni-entrega-a-la-jueza-tardon-el-informe-sobre-lo-ocurrido-en-ceuta.html",
-     "domain": "El País",
-     "seendate": "20261016T033001Z"
-    },
-    {
-     "title": "Meloni y Frederiksen, frente común contra la regularización migratoria de Sánchez en la cumbre europea",
-     "url": "https://elpais.com/espana/2026-10-16/meloni-y-frederiksen-frente-comun-contra-la-regularizacion-migratoria-de-sanchez-en-la-cumbre-europea.html",
      "domain": "El País",
      "seendate": "20261016T033001Z"
     },
@@ -151,6 +151,30 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Diseño de disfraces, arte y pasión",
+     "url": "https://www.eluniversal.com.mx/nacion/diseno-de-disfraces-arte-y-pasion/",
+     "domain": "El Universal",
+     "seendate": "20261016T090000Z"
+    },
+    {
+     "title": "Huracán Trudy mantiene en alerta a autoridades de Oaxaca y Guerrero",
+     "url": "https://www.eluniversal.com.mx/estados/huracan-trudy-mantiene-en-alerta-a-autoridades-de-oaxaca-y-guerrero/",
+     "domain": "El Universal",
+     "seendate": "20261016T085324Z"
+    },
+    {
+     "title": "Nuevo León consolida cinco años de empleo y crecimiento",
+     "url": "https://www.eluniversal.com.mx/estados/nuevo-leon-consolida-cinco-anos-de-empleo-y-crecimiento/",
+     "domain": "El Universal",
+     "seendate": "20261016T085259Z"
+    },
+    {
+     "title": "Entregan tres obras por más de 597 millones de pesos en Tamaulipas",
+     "url": "https://www.eluniversal.com.mx/estados/entregan-tres-obras-por-mas-de-597-millones-de-pesos-en-tamaulipas/",
+     "domain": "El Universal",
+     "seendate": "20261016T084640Z"
+    },
     {
      "title": "Arroyo Milpillas, 30 años contaminado por un basurero",
      "url": "https://www.eluniversal.com.mx/estados/arroyo-milpillas-30-anos-contaminado-por-un-basurero/",
@@ -266,18 +290,6 @@
      "seendate": "20261016T002302Z"
     },
     {
-     "title": "Pablo Lemus impulsa nuevo acueducto para Guadalajara; busca garantizar agua de calidad sin subir tarifas",
-     "url": "https://www.eluniversal.com.mx/estados/pablo-lemus-impulsa-nuevo-acueducto-para-guadalajara-busca-garantizar-agua-de-calidad-sin-subir-tarifas/",
-     "domain": "El Universal",
-     "seendate": "20261016T001439Z"
-    },
-    {
-     "title": "Comparece secretario de Finanzas del Edomex; ingresos crecen 28 por ciento sin nuevos impuestos",
-     "url": "https://www.eluniversal.com.mx/metropoli/comparece-secretario-de-finanzas-del-edomex-ingresos-crecen-28-por-ciento-sin-nuevos-impuestos/",
-     "domain": "El Universal",
-     "seendate": "20261016T001139Z"
-    },
-    {
      "title": "Activan alerta amarilla por lluvias fuertes en 9 alcaldías de CDMX; precipitaciones prevalecerán hasta las 23:00 horas",
      "url": "https://www.eluniversal.com.mx/metropoli/activan-alerta-amarilla-por-lluvias-fuertes-en-9-alcaldias-de-cdmx-precipitaciones-prevalceran-hasta-las-2300-horas/",
      "domain": "El Universal",
@@ -306,12 +318,6 @@
      "url": "https://www.eluniversal.com.mx/nacion/tres-doritos-despues-ya-nos-estaban-llamando-jorge-romero-afirma-que-morenistas-buscaron-al-pan-tras-perder-en-encuestas/",
      "domain": "El Universal",
      "seendate": "20261015T200832Z"
-    },
-    {
-     "title": "Investigan a 17 policías por protesta del agua frente a Casa Jalisco; podrían ser separados del cargo",
-     "url": "https://www.eluniversal.com.mx/estados/investigan-a-17-policias-por-marcha-frente-a-casa-jalisco-podrian-ser-separados-del-cargo/",
-     "domain": "El Universal",
-     "seendate": "20261015T174737Z"
     },
     {
      "title": "Trudy se intensifica a huracán categoría 3; sigue en vivo su trayectoria",
@@ -707,7 +713,7 @@
      "title": "Rugido en el mar: el clamor de Hicaco y la lucha de Santa Catalina por mantenerse en pie",
      "url": "https://www.prensa.com/politica/rugido-en-el-mar-el-clamor-de-hicaco-y-la-lucha-de-santa-catalina-por-mantenerse-en-pie/",
      "domain": "La Prensa",
-     "seendate": "20261016T082924Z"
+     "seendate": "20261016T090636Z"
     },
     {
      "title": "Diputados piden $199.1 millones más para el presupuesto de 2027; $23 millones irían a la Asamblea",
@@ -1887,22 +1893,178 @@
   "CHL": {
    "articles": [
     {
+     "title": "Stefan Kramer se lució en el regreso de Vértigo con una hilarante imitación de Diana Bolocco",
+     "url": "https://www.13.cl/programas/vertigo/momentos/stefan-kramer-se-lucio-en-el-regreso-de-vertigo-con-una-hilarante",
+     "domain": "13.cl",
+     "seendate": "20261016T073000Z"
+    },
+    {
+     "title": "Arrollador regreso de Vértigo a las pantallas del 13 : líder absoluto de sintonía y react más visto de la TV",
+     "url": "https://www.13.cl/programas/vertigo/noticias/arrollador-regreso-de-vertigo-a-las-pantallas-del-13-lider-absoluto-de",
+     "domain": "13.cl",
+     "seendate": "20261016T073000Z"
+    },
+    {
+     "title": "ZOFRI Busca Fortalecer Su Proyección Internacional Con Participación En Lanzamiento De Choose Chile",
+     "url": "https://diariolongino.cl/zofri-busca-fortalecer-su-proyeccion-internacional-con-participacion-en-lanzamiento-de-choose-chile/",
+     "domain": "diariolongino.cl",
+     "seendate": "20261016T071500Z"
+    },
+    {
+     "title": "Improcedente intervención de la FIFA respaldando a Milad e interviniendo en elecciones del fútbol chileno",
+     "url": "https://www.todofutbol.cl/anfp/improcedente-intervencion-de-la-fifa-respaldando-a-milad-e-interviniendo-en-elecciones-del-futbol-chileno/",
+     "domain": "todofutbol.cl",
+     "seendate": "20261016T071500Z"
+    },
+    {
+     "title": "Más De 100 Parapentistas De 12 Países Conquistan Los Cielos De Iquique Y Alto Hospicio",
+     "url": "https://diariolongino.cl/mas-de-100-parapentistas-de-12-paises-conquistan-los-cielos-de-iquique-y-alto-hospicio/",
+     "domain": "diariolongino.cl",
+     "seendate": "20261016T071500Z"
+    },
+    {
+     "title": "Kast Llega A Bolivia En Medio De Polémica Por narcomadera Y Busca Abrir Nueva Etapa Comercial",
+     "url": "https://diariolongino.cl/kast-llega-a-bolivia-en-medio-de-polemica-por-narcomadera-y-busca-abrir-nueva-etapa-comercial/",
+     "domain": "diariolongino.cl",
+     "seendate": "20261016T071500Z"
+    },
+    {
+     "title": "Migraciones En Tu Barrio Acercó Servicios Públicos Y Orientación A Familias De Alto Hospicio",
+     "url": "https://diariolongino.cl/migraciones-en-tu-barrio-acerco-servicios-publicos-y-orientacion-a-familias-de-alto-hospicio/",
+     "domain": "diariolongino.cl",
+     "seendate": "20261016T071500Z"
+    },
+    {
+     "title": "Fundación Integra Atacama presenta a su nueva directora regional , María Cecilia Simunovic , quien anuncia importantes desafíos para la educación parvularia – Diario Chañarcillo",
+     "url": "https://www.chanarcillo.cl/fundacion-integra-atacama-presenta-a-su-nueva-directora-regional-maria-cecilia-simunovic-quien-anuncia-importantes-desafios-para-la-educacion-parvularia/",
+     "domain": "chanarcillo.cl",
+     "seendate": "20261016T070000Z"
+    },
+    {
+     "title": "Industria del turismo advierte falta de recursos para promoción internacional en Presupuesto 2026",
+     "url": "https://www.elmostrador.cl/revista-jengibre/viajes/2026/10/16/industria-del-turismo-advierte-falta-de-recursos-para-promocion-internacional-en-presupuesto-2026/",
+     "domain": "elmostrador.cl",
+     "seendate": "20261016T060000Z"
+    },
+    {
+     "title": "Brasil : una elección que pesa más allá de sus fronteras",
+     "url": "https://www.elmostrador.cl/noticias/opinion/columnas/2026/10/16/brasil-una-eleccion-que-pesa-mas-alla-de-sus-fronteras/",
+     "domain": "elmostrador.cl",
+     "seendate": "20261016T060000Z"
+    },
+    {
+     "title": "¿ Es solo ignorancia ? | El Mostrador",
+     "url": "https://www.elmostrador.cl/noticias/opinion/columnas/2026/10/16/es-solo-ignorancia/",
+     "domain": "elmostrador.cl",
+     "seendate": "20261016T060000Z"
+    },
+    {
+     "title": "Talento chileno brilla en la mayor competencia femenina de programación de América Latina",
+     "url": "https://mundoenlinea.cl/2026/10/16/talento-chileno-brilla-en-la-mayor-competencia-femenina-de-programacion-de-america-latina/",
+     "domain": "mundoenlinea.cl",
+     "seendate": "20261016T054500Z"
+    },
+    {
+     "title": "Oposición oficia a la Superintendencia de Pensiones ante caída de fondo E : exigen investigación y eventuales sanciones",
+     "url": "https://www.t13.cl/noticia/politica/oposicion-oficia-superintendencia-pensiones-ante-caida-fondo-e-exigen-investiga-15-10-2026",
+     "domain": "t13.cl",
+     "seendate": "20261016T053000Z"
+    },
+    {
+     "title": "Día Internacional de la Mujer Rural : Reflexiones y Desafíos en Chile · PPD",
+     "url": "https://www.ppd.cl/d-a-internacional-de-la-mujer-rural-reflexiones-y-desaf-os-en-chile-KM99-g/",
+     "domain": "ppd.cl",
+     "seendate": "20261016T051500Z"
+    },
+    {
+     "title": "Tuvo que dar explicación : por qué Rafael Araneda apareció mencionado en escándalo de presunta corrupción judicial",
+     "url": "https://www.lacuarta.com/espectaculos/noticia/tuvo-que-dar-explicacion-por-que-rafael-araneda-aparecio-mencionado-en-escandalo-de-presunta-corrupcion-judicial/",
+     "domain": "lacuarta.com",
+     "seendate": "20261016T050000Z"
+    },
+    {
+     "title": "ApisTech II conectará ciencia , innovación y tecnología para impulsar la apicultura en el Maule",
+     "url": "https://www.diarioelcentro.cl/2026/10/15/apistech-ii-conectara-ciencia-innovacion-y-tecnologia-para-impulsar-la-apicultura-en-el-maule/",
+     "domain": "diarioelcentro.cl",
+     "seendate": "20261016T043000Z"
+    },
+    {
+     "title": "Black Inmobiliario 2026 tendrá 50 empresas : revisa cuándo comienza y dónde cotizar",
+     "url": "https://www.eldinamo.cl/economia/2026/10/15/black-inmobiliario-2026-tendra-50-empresas-revisa-cuando-comienza-y-donde-cotizar/",
+     "domain": "eldinamo.cl",
+     "seendate": "20261016T041500Z"
+    },
+    {
+     "title": "¿ Qué significa ser de izquierda ?",
+     "url": "https://www.elmostrador.cl/noticias/opinion/columnas/2026/10/16/que-significa-ser-de-izquierda/",
+     "domain": "elmostrador.cl",
+     "seendate": "20261016T041500Z"
+    },
+    {
+     "title": "Copa Libertadores : Flamengo de Erick Pulgar rescata valioso empate en casa de Estudiantes y encamina el bicampeonato",
+     "url": "https://www.latercera.com/el-deportivo/noticia/copa-libertadores-flamengo-de-erick-pulgar-rescata-valioso-empate-en-casa-de-estudiantes-y-encamina-el-bicampeonato/",
+     "domain": "latercera.com",
+     "seendate": "20261016T041500Z"
+    },
+    {
+     "title": "Chile ante la Cumbre de Madrid : entre la implementación de derechos y el riesgo de retroceso",
+     "url": "https://www.elmostrador.cl/noticias/opinion/columnas/2026/10/16/chile-ante-la-cumbre-de-madrid-entre-la-implementacion-de-derechos-y-el-riesgo-de-retroceso/",
+     "domain": "elmostrador.cl",
+     "seendate": "20261016T041500Z"
+    },
+    {
+     "title": "La filosofía , protagonista en Puerto de Ideas Valparaíso 2026",
+     "url": "https://www.elmostrador.cl/cultura/agenda/2026/10/16/la-filosofia-protagonista-en-puerto-de-ideas-valparaiso-2026/",
+     "domain": "elmostrador.cl",
+     "seendate": "20261016T041500Z"
+    },
+    {
+     "title": "Antes de reemplazar , reconvertir",
+     "url": "https://www.elmostrador.cl/noticias/opinion/cartas/2026/10/16/antes-de-reemplazar-reconvertir/",
+     "domain": "elmostrador.cl",
+     "seendate": "20261016T041500Z"
+    },
+    {
+     "title": "Estudiantes y Flamengo igualaron sin goles en semifinal de Libertadores",
+     "url": "https://www.biobiochile.cl/noticias/deportes/futbol-internacional/notas-futbol-internacional/2026/10/15/estudiantes-y-flamengo-igualaron-sin-goles-en-semifinal-ida-de-libertadores-pulgar-jugo-los-90.shtml",
+     "domain": "biobiochile.cl",
+     "seendate": "20261016T041500Z"
+    },
+    {
+     "title": "Presupuesto 2027 pone en riesgo la Gran Sala Sinfónica de la U . de Chile",
+     "url": "https://www.elmostrador.cl/cultura/2026/10/16/presupuesto-2027-pone-en-riesgo-la-gran-sala-sinfonica-de-la-u-de-chile/",
+     "domain": "elmostrador.cl",
+     "seendate": "20261016T041500Z"
+    },
+    {
+     "title": "Aumenta el porcentaje de mujeres que renuncian a ser madres en el mundo , incluido Chile",
+     "url": "https://www.elmostrador.cl/braga/2026/10/16/aumenta-el-porcentaje-de-mujeres-que-renuncian-a-ser-madres-en-el-mundo-incluido-chile/",
+     "domain": "elmostrador.cl",
+     "seendate": "20261016T041500Z"
+    },
+    {
+     "title": "Más de una treintena de personas detenidas en protestas universitarias en Buenos Aires",
+     "url": "https://www.latercera.com/mundo/noticia/mas-de-una-treintena-de-personas-detenidas-en-protestas-universitarias-en-buenos-aires/",
+     "domain": "latercera.com",
+     "seendate": "20261016T041500Z"
+    },
+    {
+     "title": "La alimentación como un todo | El Mostrador",
+     "url": "https://www.elmostrador.cl/noticias/opinion/columnas/2026/10/16/la-alimentacion-como-un-todo/",
+     "domain": "elmostrador.cl",
+     "seendate": "20261016T041500Z"
+    },
+    {
+     "title": "Isabel Allende tras ganar el Premio Planeta con la secuela de La casa de los espíritus : Vuelvo a sentir el temor que me obligó a salir de mi país",
+     "url": "https://www.t13.cl/noticia/nacional/isabel-allende-tras-ganar-premio-planeta-secuela-casa-espiritus-15-10-2026",
+     "domain": "t13.cl",
+     "seendate": "20261016T021500Z"
+    },
+    {
      "title": "Isabel Allende gana el Premio Planeta de novela 2026 por su obra La hora antes del alba",
      "url": "https://www.latercera.com/culto/noticia/isabel-allende-gana-el-premio-planeta-de-novela-2026-por-su-obra-la-hora-antes-del-alba/",
      "domain": "latercera.com",
      "seendate": "20261016T020000Z"
-    },
-    {
-     "title": "Me han arruinado mi concierto con mi hijita : Medios peruanos exponen presunto maltrato a mujer que viajó de Arequipa en concierto de BTS",
-     "url": "https://www.t13.cl/noticia/espectaculos/medios-peruanos-exponen-presunto-maltrato-mujer-viajo-arequipa-concierto-bts-15-10-2026",
-     "domain": "t13.cl",
-     "seendate": "20261016T011500Z"
-    },
-    {
-     "title": "« Tucar » busca evitar la quiebra y deja en evidencia el eventual fracaso de Uber Green en Chile",
-     "url": "https://ohmygeek.net/2026/10/15/tucar-busca-evitar-la-quiebra/",
-     "domain": "ohmygeek.net",
-     "seendate": "20261016T011500Z"
     },
     {
      "title": "Tenemos que decirle a la gente …: Rosemarie Dietz informa delicada situación de salud de querida figura del espectáculo chileno",
@@ -1923,6 +2085,18 @@
      "seendate": "20261016T011500Z"
     },
     {
+     "title": "Me han arruinado mi concierto con mi hijita : Medios peruanos exponen presunto maltrato a mujer que viajó de Arequipa en concierto de BTS",
+     "url": "https://www.t13.cl/noticia/espectaculos/medios-peruanos-exponen-presunto-maltrato-mujer-viajo-arequipa-concierto-bts-15-10-2026",
+     "domain": "t13.cl",
+     "seendate": "20261016T011500Z"
+    },
+    {
+     "title": "« Tucar » busca evitar la quiebra y deja en evidencia el eventual fracaso de Uber Green en Chile",
+     "url": "https://ohmygeek.net/2026/10/15/tucar-busca-evitar-la-quiebra/",
+     "domain": "ohmygeek.net",
+     "seendate": "20261016T011500Z"
+    },
+    {
      "title": "Tras llenar el Caupolicán : Los Jaivas preparan su próximo concierto con la gira Alturas de Macchu Picchu",
      "url": "https://www.pudahuel.cl/noticias/2026/10/tras-llenar-el-caupolican-los-jaivas-preparan-su-proximo-concierto-con-la-gira-alturas-de-macchu-picchu/",
      "domain": "pudahuel.cl",
@@ -1935,15 +2109,15 @@
      "seendate": "20261016T010000Z"
     },
     {
-     "title": "Luto en el deporte chileno : fallece Marianne von Gierke , figura del fisicoculturismo",
-     "url": "https://www.tvn.cl/deportes/mas-deportes/luto-en-el-deporte-chileno-fallece-marianne-von-gierke-figura-del",
-     "domain": "tvn.cl",
-     "seendate": "20261016T003000Z"
-    },
-    {
      "title": "Carter se agarró en tenso cruce con periodistas argentinos : los descolocó con fuerte acusación y le enrostraron el Mundial",
      "url": "https://www.lacuarta.com/chile/noticia/carter-se-agarro-en-tenso-cruce-con-periodistas-argentinos-los-descoloco-con-fuerte-acusacion-y-le-enrostraron-el-mundial/",
      "domain": "lacuarta.com",
+     "seendate": "20261016T003000Z"
+    },
+    {
+     "title": "Luto en el deporte chileno : fallece Marianne von Gierke , figura del fisicoculturismo",
+     "url": "https://www.tvn.cl/deportes/mas-deportes/luto-en-el-deporte-chileno-fallece-marianne-von-gierke-figura-del",
+     "domain": "tvn.cl",
      "seendate": "20261016T003000Z"
     },
     {
@@ -1951,18 +2125,6 @@
      "url": "https://www.diarioelcentro.cl/2026/10/15/liga-nacional-de-basquetbol-confirma-descenso-de-espanol-de-talca-para-2027-club-prepara-ofensiva-legal-para-evitarlo/",
      "domain": "diarioelcentro.cl",
      "seendate": "20261016T001500Z"
-    },
-    {
-     "title": "Jazz gratis en Santiago : Festival Chile Jazz anuncia conciertos para octubre , noviembre y diciembre",
-     "url": "https://www.cnnchile.com/cultura/festival-chile-jazz-2026-conciertos-gratis-santiago-rancagua/",
-     "domain": "cnnchile.com",
-     "seendate": "20261015T230000Z"
-    },
-    {
-     "title": "Vino chileno gana presencia en Miami : Chile Wine Fest reunió a cerca de 500 asistentes",
-     "url": "https://www.radioagricultura.cl/noticias/internacional/vino-chileno-gana-presencia-en-miami-chile-wine-fest-reunio-a-cerca-de-500-asistentes_20261015/",
-     "domain": "radioagricultura.cl",
-     "seendate": "20261015T230000Z"
     },
     {
      "title": "ART WEEK 2026 reunirá a más de 380 artistas en Estación Mapocho : Fechas , entradas y actividades",
@@ -1991,6 +2153,18 @@
     {
      "title": "Hernán Caputto responde a Pablo Milad y Nicolás Córdova : Con Coquimbo fuimos extremadamente competitivos",
      "url": "https://www.radioagricultura.cl/deportes/hernan-caputto-responde-a-pablo-milad-y-nicolas-cordova-con-coquimbo-fuimos-extremadamente-competitivos_20261015/",
+     "domain": "radioagricultura.cl",
+     "seendate": "20261015T230000Z"
+    },
+    {
+     "title": "Jazz gratis en Santiago : Festival Chile Jazz anuncia conciertos para octubre , noviembre y diciembre",
+     "url": "https://www.cnnchile.com/cultura/festival-chile-jazz-2026-conciertos-gratis-santiago-rancagua/",
+     "domain": "cnnchile.com",
+     "seendate": "20261015T230000Z"
+    },
+    {
+     "title": "Vino chileno gana presencia en Miami : Chile Wine Fest reunió a cerca de 500 asistentes",
+     "url": "https://www.radioagricultura.cl/noticias/internacional/vino-chileno-gana-presencia-en-miami-chile-wine-fest-reunio-a-cerca-de-500-asistentes_20261015/",
      "domain": "radioagricultura.cl",
      "seendate": "20261015T230000Z"
     },
@@ -2077,179 +2251,17 @@
      "url": "https://redgol.cl/seleccionchilena/caszely-pone-todo-por-ver-a-manuel-pellegrini-como-dt-de-la-seleccion-chilena-serio-responsable-e-inteligente",
      "domain": "redgol.cl",
      "seendate": "20261015T213000Z"
-    },
-    {
-     "title": "Colo Colo : En México avisan que vienen por Fernando Ortiz",
-     "url": "https://redgol.cl/colocolo/colo-colo-en-mexico-avisan-que-vienen-por-fernando-ortiz",
-     "domain": "redgol.cl",
-     "seendate": "20261015T213000Z"
-    },
-    {
-     "title": "La grave lesión que impacta a Colo Colo de cara al final de la temporada",
-     "url": "https://redgol.cl/colocolo/bruno-torres-se-lesiona-de-gravedad-se-pierde-el-resto-de-temporada-en-colo-colo-y-hace-sufrir-a-la-roja-sub-20",
-     "domain": "redgol.cl",
-     "seendate": "20261015T213000Z"
-    },
-    {
-     "title": "Montreal oficializa parte médico de Thomas Gillier",
-     "url": "https://redgol.cl/internacional/cf-montreal-parte-medico-thomas-gillier-lesion-hombro",
-     "domain": "redgol.cl",
-     "seendate": "20261015T213000Z"
-    },
-    {
-     "title": "Matías Rodríguez reconoce haber llorado por Lionel Messi : recién tomé ...",
-     "url": "https://redgol.cl/udechile/matias-rodriguez-se-me-salieron-unas-lagrimas-en-su-despedida-y-recien-tome-el-peso-que-fui-companero-de-messi",
-     "domain": "redgol.cl",
-     "seendate": "20261015T213000Z"
-    },
-    {
-     "title": "Brian Fernández confiesa que probó la cocaína con apenas 13 años",
-     "url": "https://redgol.cl/internacional/brian-fernandez-confiesa-que-probo-la-cocaina-con-apenas-13-anos",
-     "domain": "redgol.cl",
-     "seendate": "20261015T213000Z"
-    },
-    {
-     "title": "Pregunta del pueblo , La hora de la verdad y La zanja de la discordia : Las claves del regreso de Vértigo",
-     "url": "https://www.t13.cl/noticia/espectaculos/pregunta-del-pueblo-hora-verdad-zanja-discordia-las-claves-del-regreso-vertigo-15-10-2026",
-     "domain": "t13.cl",
-     "seendate": "20261015T211500Z"
-    },
-    {
-     "title": "Ministro Mas apunta a Boric por caída del Fondo E y expresidente replica : Que cada uno se haga cargo | Nacional",
-     "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/10/15/afp-ministro-mas-apunta-a-boric-por-caida-del-fondo-e-y-expresidente-replica-que-cada-uno-se-haga-cargo.shtml",
-     "domain": "biobiochile.cl",
-     "seendate": "20261015T204500Z"
-    },
-    {
-     "title": "Ministerio de Defensa despidió a dotaciones antárticas para el período 2027",
-     "url": "https://www.armada.cl/ministerio-de-defensa-despidio-a-dotaciones-antarticas-para-el-periodo-2027",
-     "domain": "armada.cl",
-     "seendate": "20261015T204500Z"
-    },
-    {
-     "title": "Las alertas donde AFP habrían pedido que les obligaran a dejar de acumular apuestas contra las tasas | Economía",
-     "url": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/10/15/las-alertas-donde-afps-habrian-pedido-que-les-obligaran-a-dejar-de-apostar-contra-las-tasas-en-eeuu.shtml",
-     "domain": "biobiochile.cl",
-     "seendate": "20261015T204500Z"
-    },
-    {
-     "title": "MINISTRA DEL MEDIO AMBIENTE FRANCISCA TOLEDO DESTACA EL PAPEL ESTRATÉGICO DE PUNTA ARENAS COMO PUERTA DE ENTRADA A LA ANTÁRTICA",
-     "url": "https://www.radiopolar.com/ministra-ambiente-francisca-toledo-destaca-papel-estrategico-punta-arenas-puerta-entrada-antartica",
-     "domain": "radiopolar.com",
-     "seendate": "20261015T204500Z"
-    },
-    {
-     "title": "Primero lo Urgente",
-     "url": "https://www.elrancaguino.cl/2026/10/15/primero-lo-urgente/",
-     "domain": "elrancaguino.cl",
-     "seendate": "20261015T203000Z"
-    },
-    {
-     "title": "El destino chileno que Time Out eligió entre los más subestimados del mundo y comparó con Yosemite",
-     "url": "https://www.theclinic.cl/2026/10/15/el-destino-chileno-que-time-out-eligio-entre-los-mas-subestimados-del-mundo-y-comparo-con-yosemite/",
-     "domain": "theclinic.cl",
-     "seendate": "20261015T203000Z"
-    },
-    {
-     "title": "Cuatro detenidos en Machalí por robo en vivienda y receptación de especies",
-     "url": "https://www.elrancaguino.cl/2026/10/15/cuatro-detenidos-en-machali-por-robo-en-vivienda-y-receptacion-de-especies/",
-     "domain": "elrancaguino.cl",
-     "seendate": "20261015T203000Z"
-    },
-    {
-     "title": "La ingeniera viñamarina Daniela Sarmiento representará a Chile en el certamen internacional The Miss Globe 2026",
-     "url": "https://www.lacuarta.com/glamorama/noticia/la-ingeniera-vinamarina-daniela-sarmiento-representara-a-chile-en-el-certamen-internacional-the-miss-globe-2026/",
-     "domain": "lacuarta.com",
-     "seendate": "20261015T201500Z"
-    },
-    {
-     "title": "Supuesto nuevo nombre de la U remeció la web : el club lo negó y desmintió polémicas filtraciones de prensa",
-     "url": "https://www.lacuarta.com/deportes/noticia/supuesto-nuevo-nombre-de-la-u-remecio-la-web-el-club-lo-nego-y-desmintio-polemicas-filtraciones-de-prensa/",
-     "domain": "lacuarta.com",
-     "seendate": "20261015T201500Z"
-    },
-    {
-     "title": "Detienen a hombre acusado de robar $10 millones desde fundo en Ovalle - El Ovallino",
-     "url": "https://www.elovallino.cl/detienen-a-hombre-acusado-de-robar-10-millones-desde-fundo-en-ovalle/",
-     "domain": "elovallino.cl",
-     "seendate": "20261015T201500Z"
-    },
-    {
-     "title": "¡ Váyanse un ratito a la cresta !: Neme explota en pantalla por escándalo en pensiones y polémica idea de nuevo retiro",
-     "url": "https://www.lacuarta.com/chile/noticia/vayanse-un-ratito-a-la-cresta-neme-explota-en-pantalla-por-escandalo-en-pensiones-y-polemica-idea-de-nuevo-retiro/",
-     "domain": "lacuarta.com",
-     "seendate": "20261015T201500Z"
-    },
-    {
-     "title": "PDI desbarata banda Los del 30 en Santiago : hay 13 detenidos",
-     "url": "https://www.24horas.cl/actualidad/nacional/pdi-desbarata-a-los-del-30-banda-reclutaba-menores",
-     "domain": "24horas.cl",
-     "seendate": "20261015T194500Z"
-    },
-    {
-     "title": "Gobierno anuncia baja promedio de 4 , 3 % en las cuentas de luz a partir de enero",
-     "url": "https://www.lanacion.cl/gobierno-anuncia-baja-promedio-de-43-en-las-cuentas-de-luz-a-partir-de-enero/",
-     "domain": "lanacion.cl",
-     "seendate": "20261015T194500Z"
-    },
-    {
-     "title": "Boric tras reunión con Bachelet : No hablamos nada de candidaturas",
-     "url": "https://www.lanacion.cl/boric-tras-reunion-con-bachelet-no-hablamos-nada-de-candidaturas/",
-     "domain": "lanacion.cl",
-     "seendate": "20261015T194500Z"
-    },
-    {
-     "title": "La respuesta de Boric al Gobierno por pérdidas del Fondo E",
-     "url": "https://www.24horas.cl/actualidad/economia/fondo-e-criticas-perdidas-boric-mas",
-     "domain": "24horas.cl",
-     "seendate": "20261015T194500Z"
-    },
-    {
-     "title": "Crece inquietud oficialista por relación con Argentina : parlamentarios llaman a endurecer respuesta",
-     "url": "https://www.latercera.com/politica/noticia/crece-inquietud-oficialista-por-relacion-con-argentina-parlamentarios-advierten-que-se-avecina-un-conflicto-mayor-y-llaman-a-endurecer-respuesta/",
-     "domain": "latercera.com",
-     "seendate": "20261015T194500Z"
-    },
-    {
-     "title": "No sólo U2 : los otros grandes artistas que no pasaron por Chile con sus mayores giras",
-     "url": "https://www.latercera.com/culto/noticia/no-solo-u2-los-otros-grandes-artistas-que-no-pasaron-por-chile-con-sus-mayores-giras/",
-     "domain": "latercera.com",
-     "seendate": "20261015T194500Z"
-    },
-    {
-     "title": "Con un activo Darío Osorio sobre el cierre : el Crystal Palace cae en su visita al Olympique de Lyon en Europa League",
-     "url": "https://www.latercera.com/el-deportivo/noticia/con-un-activo-dario-osorio-sobre-el-cierre-el-crystal-palace-cae-en-su-visita-al-olympique-de-lyon-en-europa-league/",
-     "domain": "latercera.com",
-     "seendate": "20261015T194500Z"
-    },
-    {
-     "title": "Astrónomos de la Universidad de Chile revelan estructuras de formación planetaria en discos estelares diminutos",
-     "url": "https://www.lanacion.cl/astronomos-de-la-universidad-de-chile-revelan-estructuras-de-formacion-planetaria-en-discos-estelares-diminutos/",
-     "domain": "lanacion.cl",
-     "seendate": "20261015T194500Z"
-    },
-    {
-     "title": "Batalla por el rating matinal : canal se afirmó en el segundo lugar y amplió distancia con su rival",
-     "url": "https://www.radioagricultura.cl/entretencion/batalla-por-el-rating-matinal-canal-se-afirmo-en-el-segundo-lugar-y-amplio-distancia-con-su-rival_20261015/",
-     "domain": "radioagricultura.cl",
-     "seendate": "20261015T191500Z"
-    },
-    {
-     "title": "Gastronomía chilena : reconociendo a personas que construyeron el camino para abrirla al mundo",
-     "url": "https://www.elmostrador.cl/revista-jengibre/gastronomia/2026/10/15/gastronomia-chilena-reconociendo-a-personas-que-construyeron-el-camino-para-abrirla-al-mundo/",
-     "domain": "elmostrador.cl",
-     "seendate": "20261015T190000Z"
-    },
-    {
-     "title": "Menos plata para todo … excepto Defensa : Gobierno propone aumentar presupuesto militar en 7 , 6 %",
-     "url": "https://www.elmostrador.cl/noticias/pais/2026/10/15/menos-plata-para-todo-excepto-defensa-gobierno-propone-aumentar-presupuesto-militar-en-76/",
-     "domain": "elmostrador.cl",
-     "seendate": "20261015T190000Z"
     }
    ]
   },
   "ARG": {
    "articles": [
+    {
+     "title": "Para noviembre y diciembre: ya se venden los pasajes para un viaje de 800 km a través de paisajes únicos",
+     "url": "https://www.lanacion.com.ar/sociedad/para-noviembre-y-diciembre-ya-se-venden-los-pasajes-para-un-viaje-de-800-km-a-traves-de-paisajes-nid16102026/",
+     "domain": "La Nación",
+     "seendate": "20261016T090000Z"
+    },
     {
      "title": "Pilar Sordo, psicóloga: “Es necesario ser dócil frente al dolor”",
      "url": "https://www.lanacion.com.ar/sociedad/pilar-sordo-psicologa-es-necesario-ser-docil-frente-al-dolor-nid16102026/",
@@ -2327,12 +2339,6 @@
      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-pidio-que-trump-salga-fortalecido-en-las-elecciones-nid15102026/",
      "domain": "La Nación",
      "seendate": "20261016T015633Z"
-    },
-    {
-     "title": "Qué es la Púrpura Trombocitopénica Idiopática, la enfermedad de la ex Gran Hermano Denisse González, explicada por una hematóloga",
-     "url": "https://www.lanacion.com.ar/sociedad/que-es-el-trastorno-de-purpura-trombocitopenica-idiopatica-la-enfermedad-de-denisse-gonzalez-nid15102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T015047Z"
     }
    ]
   },
@@ -2625,6 +2631,12 @@
   "PRY": {
    "articles": [
     {
+     "title": "En Tupãrenda celebrarán este domingo el Día de la Mater con cuatro misas",
+     "url": "https://www.abc.com.py/nacionales/2026/10/16/en-tuparenda-celebraran-este-domingo-el-dia-de-la-mater-con-cuatro-misas/",
+     "domain": "ABC Color",
+     "seendate": "20261016T090000Z"
+    },
+    {
      "title": "Festival “Suena Pedro Juan Caballero”: la tercera parada de Sonidos de la Tierra",
      "url": "https://www.abc.com.py/nacionales/2026/10/16/festival-suena-pedro-juan-caballero-la-tercera-parada-de-sonidos-de-la-tierra/",
      "domain": "ABC Color",
@@ -2649,6 +2661,18 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "Inédita na eleição presidencial, virada no segundo turno ocorre em três a cada dez disputas nos estados",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/16/inedita-na-eleicao-presidencial-virada-no-segundo-turno-ocorre-em-tres-a-cada-dez-disputas-nos-estados.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261016T073000Z"
+    },
+    {
+     "title": "Veterinário de SP ajuda cobra constipada a fazer cocô e viraliza com blocos duros sobre a mesa: ‘Precisa comer fibras, mona’",
+     "url": "https://oglobo.globo.com/brasil/sao-paulo/post/2026/10/veterinario-de-sp-ajuda-cobra-constipada-a-fazer-coco-e-viraliza-com-blocos-duros-sobre-a-mesa-precisa-comer-fibras-mona.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261016T070000Z"
+    },
     {
      "title": "Campanha de Flávio sobe tom contra Lula e volta a mirar caso Lulinha em meio a críticas internas à comunicação",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/16/campanha-de-flavio-sobe-tom-contra-lula-e-volta-a-mirar-caso-lulinha-em-meio-a-criticas-internas-a-comunicacao.ghtml",
@@ -2744,84 +2768,6 @@
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/15/o-que-e-crime-hediondo-categoria-em-que-lula-admite-reduzir-a-maioridade-penal-na-globo.ghtml",
      "domain": "O Globo",
      "seendate": "20261016T014308Z"
-    },
-    {
-     "title": "Lula na TV Globo: como o petista se saiu na entrevista? Veja as notas e avaliações dos colunistas do GLOBO",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/15/lula-na-tv-globo-como-o-petista-se-saiu-na-entrevista-veja-as-notas-e-avaliacoes-dos-colunistas-do-globo.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261016T012656Z"
-    },
-    {
-     "title": "Na Globo, Lula diz que 'não sabia' que seu governo deixou de reajustar o Bolsa Família por quatro anos: 'É inexplicável'",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/15/na-globo-lula-diz-que-nao-sabia-que-seu-governo-deixou-de-reajustar-o-bolsa-familia-por-quatro-anos-e-inexplicavel.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261016T011555Z"
-    },
-    {
-     "title": "Lula diz que 'repreendeu' diretor da PF por presença em evento com Vorcaro: 'Ninguém precisava ter ido naquela festa'",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/15/lula-diz-que-repreendeu-diretor-da-pf-por-presenca-em-evento-com-vorcaro-ninguem-precisava-ter-ido-naquela-festa.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261016T005824Z"
-    },
-    {
-     "title": "Na Globo, Lula defende reforma do Judiciário, mas diz que 'querem cassar' Moraes porque ele prendeu 'o pai do Flávio'",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/15/na-globo-lula-defende-reforma-do-judiciario-mas-diz-que-querem-cassar-moraes-porque-ele-prendeu-o-pai-do-flavio.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261016T005416Z"
-    },
-    {
-     "title": "Na Globo, Lula diz ser a favor de reduzir maioridade penal 'em todo e qualquer crime hediondo'",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/15/lula-e-entrevistado-pela-globo-a-dez-dias-do-segundo-turno.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261016T001844Z"
-    },
-    {
-     "title": "Datafolha: colunistas do GLOBO analisam a segunda pesquisa do instituto para o segundo turno entre Lula e Flávio Bolsonaro",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/ao-vivo/datafolha-colunistas-do-globo-analisam-a-segunda-pesquisa-do-instituto-para-o-segundo-turno-entre-lula-e-flavio-bolsonaro.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261015T232508Z"
-    },
-    {
-     "title": "Líder do PT no Senado diz ter avisado Lula sobre apoio a proposta que reduz maioridade penal para 16 anos",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/15/lider-do-pt-no-senado-diz-ter-avisado-lula-sobre-apoio-a-proposta-que-reduz-maioridade-penal-para-16-anos.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261015T231705Z"
-    },
-    {
-     "title": "Governador eleito, Cleitinho passa mal ao discursar no Senado e não participará do primeiro ato com Flávio em MG",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/15/governador-eleito-cleitinho-passa-mal-ao-discursar-no-senado-e-nao-participara-do-primeiro-ato-com-flavio-em-mg.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261015T230329Z"
-    },
-    {
-     "title": "Que horas é a entrevista de Lula na Globo?",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/15/que-horas-e-a-entrevista-de-lula-na-globo.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261015T224526Z"
-    },
-    {
-     "title": "Congresso aprova 'OAB da Medicina' às vésperas de perder validade",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/15/congresso-aprova-oab-da-medicina-as-vesperas-de-perder-validade.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261015T222917Z"
-    },
-    {
-     "title": "Ministro do TSE proíbe Meta de limitar alcance de conteúdo político e favorecer Lula ou Flávio por ferramenta de IA",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/15/ministro-do-tse-proibe-meta-de-limitar-alcance-de-conteudo-politico-e-favorecer-lula-ou-flavio-por-ferramenta-de-ia.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261015T222831Z"
-    },
-    {
-     "title": "'A gente está lutando contra a Meta', diz Janja durante ato com petistas na Zona Sul do Rio",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/15/a-gente-esta-lutando-contra-a-meta-diz-janja-durante-ato-com-petistas-na-zona-sul-do-rio.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261015T221953Z"
-    },
-    {
-     "title": "Vídeo: PM é preso após atirar à queima-roupa e matar mulher com faca na mão em São Paulo",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/15/video-pm-e-preso-apos-atirar-a-queima-roupa-e-matar-mulher-com-faca-na-mao-em-sao-paulo.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261015T215621Z"
     }
    ]
   }
