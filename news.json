@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T13:06:49+00:00",
+ "updated": "2026-10-17T13:59:17+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -7,7 +7,19 @@
      "title": "Última hora de la actualidad política, en directo | Colau, sobre Podemos: “Si alguien no se quiere sentar a una mesa, no se le puede obligar”",
      "url": "https://elpais.com/espana/2026-10-17/ultima-hora-de-la-actualidad-politica-en-directo.html",
      "domain": "El País",
-     "seendate": "20261017T125213Z"
+     "seendate": "20261017T135236Z"
+    },
+    {
+     "title": "Frente Amplio pasa página del pacto fallido con Podemos: “Se acabó el tiempo de unir a los partidos, hay que unir a la gente”",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-10-17/frente-amplio-pasa-pagina-sobre-el-fallido-pacto-con-podemos-se-acabo-el-tiempo-de-unir-a-los-partidos-hay-que-unir-a-la-gente.html",
+     "domain": "El País",
+     "seendate": "20261017T125632Z"
+    },
+    {
+     "title": "“Queremos un río que no se envenene”: centenares de personas marchan en Sevilla contra la contaminación del Guadalquivir",
+     "url": "https://elpais.com/espana/andalucia/2026-10-17/queremos-un-rio-que-no-se-envenene-centenares-de-personas-marchan-en-sevilla-contra-la-contaminacion-del-guadalquivir.html",
+     "domain": "El País",
+     "seendate": "20261017T125424Z"
     },
     {
      "title": "Detenidos dos menores por la muerte de una mujer inmovilizada y amordazada durante un robo en su casa en Burgos",
@@ -26,18 +38,6 @@
      "url": "https://elpais.com/espana/madrid/2026-10-17/desaparece-misteriosamente-y-en-cuestion-de-horas-el-altar-de-maricarmen-de-su-calle.html",
      "domain": "El País",
      "seendate": "20261017T110305Z"
-    },
-    {
-     "title": "Montse Minguez, ascenso y caída de la portavoz del PSOE",
-     "url": "https://elpais.com/espana/catalunya/2026-10-17/montse-minguez-ascenso-y-caida-de-la-portavoz-del-psoe.html",
-     "domain": "El País",
-     "seendate": "20261017T033001Z"
-    },
-    {
-     "title": "Adiós a la vieja cárcel de San Sebastián, foco de represión franquista e inspiración de Kortatu",
-     "url": "https://elpais.com/espana/pais-vasco/2026-10-17/adios-a-la-vieja-carcel-de-san-sebastian-foco-de-represion-franquista-e-inspiracion-de-kortatu.html",
-     "domain": "El País",
-     "seendate": "20261017T033001Z"
     },
     {
      "title": "Huelga inédita en Huesca: profesores y alumnos se rebelan contra el inspector jefe de Educación",
@@ -270,12 +270,6 @@
      "url": "https://www.eluniversal.com.mx/nacion/trabajadores-del-imss-bloquean-reforma-exigen-destitucion-del-lider-sindical-rafael-olivos/",
      "domain": "El Universal",
      "seendate": "20261017T003416Z"
-    },
-    {
-     "title": "Muere motociclista tras ser impactado por automóvil en la GAM; detienen al presunto responsable",
-     "url": "https://www.eluniversal.com.mx/metropoli/muere-motociclista-tras-ser-impactado-por-automovil-en-la-gam-detienen-al-presunto-responsable/",
-     "domain": "El Universal",
-     "seendate": "20261017T003115Z"
     },
     {
      "title": "Fotógrafo y funcionario del DIF Tabasco muere tras ser atropellado intencionalmente en plaza comercial; responsable no ha sido identificado",
@@ -652,6 +646,18 @@
   "CRI": {
    "articles": [
     {
+     "title": "IMN pronostica fuertes aguaceros y tormentas eléctricas este sábado: ¿cuáles zonas tendrán más lluvia?",
+     "url": "https://www.nacion.com/sucesos/imn-pronostica-fuertes-aguaceros-y-tormentas/YXKAG63GPBFDBI4OZ4IIIWWZOQ/story/",
+     "domain": "La Nación",
+     "seendate": "20261017T133000Z"
+    },
+    {
+     "title": "Hace 50 años: ‘Solo uniéndonos pesaremos en el equilibrio del mundo’, dijo ministro de Venezuela en visita al país",
+     "url": "https://www.nacion.com/el-pais/hace-50-anos-solo-uniendonos-pesaremos-en-el/RJGITZLBXZEV3AJRK6YJBUTDSI/story/",
+     "domain": "La Nación",
+     "seendate": "20261017T133000Z"
+    },
+    {
      "title": "De la captura de Diablo a la detención de uno de sus custodios en La Reforma: así evolucionó el caso en casi tres meses",
      "url": "https://www.nacion.com/sucesos/de-la-captura-de-diablo-a-la-detencion-de-uno-de/IRMAZVDM3RCQ5BU72FLE6WPKGI/story/",
      "domain": "La Nación",
@@ -686,12 +692,6 @@
      "url": "https://www.nacion.com/politica/rebeca-grynspan-tras-sexta-votacion-en-el-consejo/ANVYKRZ6QJA2XFLB22CXQNWMCY/story/",
      "domain": "La Nación",
      "seendate": "20261017T020716Z"
-    },
-    {
-     "title": "IMN pronostica fuertes aguaceros y tormentas eléctricas este sábado: ¿cuáles zonas tendrán más lluvia?",
-     "url": "https://www.nacion.com/sucesos/imn-pronostica-fuertes-aguaceros-y-tormentas/YXKAG63GPBFDBI4OZ4IIIWWZOQ/story/",
-     "domain": "La Nación",
-     "seendate": "20261016T234712Z"
     },
     {
      "title": "Laura Fernández visita Cecot de El Salvador",
@@ -1069,6 +1069,12 @@
   "COL": {
    "articles": [
     {
+     "title": "Cartago vuelve a la incertidumbre: Tribunal ordena la suspensión temporal del alcalde electo Juan David Piedrahíta",
+     "url": "https://www.eltiempo.com/colombia/cali/cartago-vuelve-a-la-incertidumbre-tribunal-ordena-la-suspension-temporal-del-alcalde-electo-juan-david-piedrahita-3594242",
+     "domain": "El Tiempo",
+     "seendate": "20261017T131851Z"
+    },
+    {
      "title": "Bus de la agrupación musical de Alexis Escobar y otros artistas de Antioquia se volcó en la Ruta del Sol: el accidente ocurrió en Cundinamarca",
      "url": "https://www.eltiempo.com/colombia/medellin/bus-de-la-agrupacion-musical-de-alexis-escobar-y-otros-artistas-de-antioquia-se-volco-en-la-ruta-del-sol-el-accidente-ocurrio-en-cundinamarca-3594238",
      "domain": "El Tiempo",
@@ -1121,12 +1127,6 @@
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/directora-de-la-ant-se-pronuncio-tras-la-renuncia-del-funcionario-que-aparecio-en-video-cocinando-un-armadillo-nadie-esta-por-encima-de-la-ley-3594160",
      "domain": "El Tiempo",
      "seendate": "20261017T003734Z"
-    },
-    {
-     "title": "Explosión en la variante de Popayán deja dos personas heridas; una estaría grave y cierran la vía por amenaza de explosivos",
-     "url": "https://www.eltiempo.com/colombia/cali/explosion-en-la-variante-de-popayan-deja-dos-personas-heridas-una-estaria-grave-y-cierran-la-via-por-amenaza-de-explosivos-3594181",
-     "domain": "El Tiempo",
-     "seendate": "20261017T000053Z"
     }
    ]
   },
@@ -1509,12 +1509,6 @@
      "seendate": "20261016T185238Z"
     },
     {
-     "title": "Toque de queda en cinco provincias de Ecuador: limitación de movilidad busca facilitar operativos y contrarrestar accionar de bandas, según decreto",
-     "url": "https://eluniverso.com/politica/seguridad/toque-de-queda-en-cinco-provincias-de-ecuador-limitacion-de-movilidad-busca-facilitar-operativos-y-contrarrestar-accionar-de-bandas-nota/",
-     "domain": "El Universo",
-     "seendate": "20261016T180548Z"
-    },
-    {
      "title": "Xavier Jordán sigue detenido en Estados Unidos a la espera de su deportación, según ministro del Interior",
      "url": "https://eluniverso.com/politica/expedientes/xavier-jordan-sigue-detenido-en-estados-unidos-a-la-espera-de-su-deportacion-segun-ministro-del-interior-nota/",
      "domain": "El Universo",
@@ -1577,6 +1571,102 @@
   "BOL": {
    "articles": [
     {
+     "title": "Bolivia debe aliviar la deuda sin sacrificar las pensiones",
+     "url": "https://eldeber.com.bo/opinion/bolivia-debe-aliviar-deuda-sacrificar-pensiones_1792188231",
+     "domain": "eldeber.com.bo",
+     "seendate": "20261017T133000Z"
+    },
+    {
+     "title": "Bolivia apuesta por un corredor de fibra óptica para mejorar el internet y atraer inversiones",
+     "url": "https://eldeber.com.bo/pais/bolivia-apuesta-corredor-fibra-optica-mejorar-internet-atraer-inversiones_1792241439",
+     "domain": "eldeber.com.bo",
+     "seendate": "20261017T133000Z"
+    },
+    {
+     "title": "Bolivia necesita algo más que un ajuste económico",
+     "url": "https://eldeber.com.bo/opinion/bolivia-necesita-algo-ajuste-economico_1792187497",
+     "domain": "eldeber.com.bo",
+     "seendate": "20261017T133000Z"
+    },
+    {
+     "title": "Arica : diplomacia , seguridad jurídica y reivindicación marítima de Bolivia",
+     "url": "https://eldeber.com.bo/opinion/arica-diplomacia-seguridad-juridica-reivindicacion-maritima-bolivia_1792188456",
+     "domain": "eldeber.com.bo",
+     "seendate": "20261017T133000Z"
+    },
+    {
+     "title": "Paz pone el foco en las regiones fronterizas y Kast destaca un reencuentro histórico",
+     "url": "https://eldeber.com.bo/pais/paz-pone-foco-regiones-fronterizas-kast-destaca-reencuentro-historico_1792240381",
+     "domain": "eldeber.com.bo",
+     "seendate": "20261017T133000Z"
+    },
+    {
+     "title": "Gobernanza Hidroviaria en Bolivia",
+     "url": "https://eldeber.com.bo/opinion/gobernanza-hidroviaria-bolivia_1792187268",
+     "domain": "eldeber.com.bo",
+     "seendate": "20261017T133000Z"
+    },
+    {
+     "title": "La metamorfosis del país : Del crisol republicano al laberinto multipluri",
+     "url": "https://eldeber.com.bo/opinion/metamorfosis-pais-crisol-republicano-laberinto-multipluri_1792188016",
+     "domain": "eldeber.com.bo",
+     "seendate": "20261017T133000Z"
+    },
+    {
+     "title": "Voces Unidas por Venezuela una iniciativa que une la formación y la solidaridad latinoamericana",
+     "url": "https://eldeber.com.bo/cultura-y-entretenimiento/voces-unidas-venezuela-iniciativa-une-formacion-solidaridad-latinoamericana_1792237674",
+     "domain": "eldeber.com.bo",
+     "seendate": "20261017T133000Z"
+    },
+    {
+     "title": "Exembajador afirma que Bolivia no aprovechó el momento histórico con Chile",
+     "url": "https://eju.tv/2026/10/exembajador-afirma-que-bolivia-no-aprovecho-el-momento-historico-con-chile/",
+     "domain": "eju.tv",
+     "seendate": "20261017T130000Z"
+    },
+    {
+     "title": "Kast y Paz ponen a prueba una nueva etapa entre Bolivia y Chile con acuerdos en comercio , energía y seguridad",
+     "url": "https://eju.tv/2026/10/kast-y-paz-ponen-a-prueba-una-nueva-etapa-entre-bolivia-y-chile-con-acuerdos-en-comercio-energia-y-seguridad/",
+     "domain": "eju.tv",
+     "seendate": "20261017T130000Z"
+    },
+    {
+     "title": "Ministro explica ruta tras visita de Kast : minería , energía , internet y tránsito",
+     "url": "https://eju.tv/2026/10/ministro-explica-ruta-tras-visita-de-kast-mineria-energia-internet-y-transito-2/",
+     "domain": "eju.tv",
+     "seendate": "20261017T130000Z"
+    },
+    {
+     "title": "El presidente de Bolivia visitará Chile en 2027 : Respeto mutuo , confianza , diálogo e integración marcan la « nueva etapa » de sus relaciones",
+     "url": "https://eju.tv/2026/10/el-presidente-de-bolivia-visitara-chile-en-2027-respeto-mutuo-confianza-dialogo-e-integracion-marcan-la-nueva-etapa-de-sus-relaciones/",
+     "domain": "eju.tv",
+     "seendate": "20261017T130000Z"
+    },
+    {
+     "title": "Cuestionan que Evo Morales se refiera a la demanda marítima",
+     "url": "https://eju.tv/2026/10/cuestionan-que-evo-morales-se-refiera-a-la-demanda-maritima/",
+     "domain": "eju.tv",
+     "seendate": "20261017T130000Z"
+    },
+    {
+     "title": "Chile y Bolivia acuerdan reactivar el grupo de trabajo para revisar la situación del tránsito de la carga boliviana en medio del caso maderas",
+     "url": "https://eju.tv/2026/10/chile-y-bolivia-acuerdan-reactivar-el-grupo-de-trabajo-para-revisar-la-situacion-del-transito-de-la-carga-boliviana-en-medio-del-caso-maderas/",
+     "domain": "eju.tv",
+     "seendate": "20261017T130000Z"
+    },
+    {
+     "title": "Agenda informativa : la Fiscalía prepara la imputación del exfiscal de La Paz Luis Carlos Tórrez",
+     "url": "https://eju.tv/2026/10/agenda-informativa-la-fiscalia-prepara-la-imputacion-del-exfiscal-de-la-paz-luis-carlos-torrez/",
+     "domain": "eju.tv",
+     "seendate": "20261017T130000Z"
+    },
+    {
+     "title": "Bolivia jugará amistoso contra Perú en Cobija",
+     "url": "https://www.erbol.com.bo/deporte/bolivia-jugar%C3%A1-amistoso-contra-per%C3%BA-en-cobija",
+     "domain": "erbol.com.bo",
+     "seendate": "20261017T120000Z"
+    },
+    {
      "title": "Petacas ya cuenta con señal de Entel y mejora la seguridad en la ruta …",
      "url": "https://fmbolivia.com.bo/sociedad/petacas-ya-cuenta-con-senal-de-entel-y-mejora-la-seguridad-en-la-ruta-a-los-valles-crucenos-21416",
      "domain": "fmbolivia.com.bo",
@@ -1633,12 +1723,6 @@
     {
      "title": "Gobernadora de Pando confirma la llegada de la Verde y se compromete a mejorar el estadio Roberto Jordán",
      "url": "https://eju.tv/2026/10/gobernadora-de-pando-confirma-la-llegada-de-la-verde-y-se-compromete-a-mejorar-el-estadio-roberto-jordan/",
-     "domain": "eju.tv",
-     "seendate": "20261017T041500Z"
-    },
-    {
-     "title": "Ministro explica ruta tras visita de Kast : minería , energía , internet y tránsito",
-     "url": "https://eju.tv/2026/10/ministro-explica-ruta-tras-visita-de-kast-mineria-energia-internet-y-transito/",
      "domain": "eju.tv",
      "seendate": "20261017T041500Z"
     },
@@ -1785,102 +1869,6 @@
      "url": "https://www.erbol.com.bo/nacional/comercio-energ%C3%ADa-miner%C3%ADa-y-conectividad-marcan-los-acuerdos-entre-bolivia-y-chile%C2%A0",
      "domain": "erbol.com.bo",
      "seendate": "20261016T214500Z"
-    },
-    {
-     "title": "El Llajta Rock 2026 llega renovado y con mucha fuerza a Cochabamba",
-     "url": "https://www.lostiempos.com/doble-click/espectaculos/20261016/llajta-rock-2026-llega-renovado-mucha-fuerza-cochabamba",
-     "domain": "lostiempos.com",
-     "seendate": "20261016T203000Z"
-    },
-    {
-     "title": "Plaza Murillo se alista para recibir al presidente chileno José Antonio Kast ; despliegan más de 600 policías",
-     "url": "https://www.lostiempos.com/actualidad/pais/20261016/plaza-murillo-se-alista-recibir-al-presidente-chileno-jose-antonio-kast",
-     "domain": "lostiempos.com",
-     "seendate": "20261016T203000Z"
-    },
-    {
-     "title": "La COB declara emergencia y rechaza decretos ; no apoyará acciones políticas",
-     "url": "https://www.lostiempos.com/actualidad/pais/20261016/cob-declara-emergencia-rechaza-decretos-no-apoyara-acciones-politicas",
-     "domain": "lostiempos.com",
-     "seendate": "20261016T203000Z"
-    },
-    {
-     "title": "Presidentes Paz y Kast hablarán de comercio , hidrocarburos y seguridad",
-     "url": "https://www.lostiempos.com/actualidad/pais/20261016/presidentes-paz-kast-hablaran-comercio-hidrocarburos-seguridad",
-     "domain": "lostiempos.com",
-     "seendate": "20261016T203000Z"
-    },
-    {
-     "title": "Fiscalía anuncia el cierre de procesos contra exportadoras en el caso maderas : Resultados han sido negativos al narco - test – eju . tv",
-     "url": "https://eju.tv/2026/10/fiscalia-anuncia-el-cierre-de-procesos-contra-exportadoras-en-el-caso-maderas-resultados-han-sido-negativos-al-narco-test/",
-     "domain": "eju.tv",
-     "seendate": "20261016T194500Z"
-    },
-    {
-     "title": "Aprehenden a peruano líder de una organización por robo millonario en El Alto",
-     "url": "https://eju.tv/2026/10/aprehenden-a-peruano-lider-de-una-organizacion-por-robo-millonario-en-el-alto/",
-     "domain": "eju.tv",
-     "seendate": "20261016T194500Z"
-    },
-    {
-     "title": "Exfiscal departamental de La Paz será imputado por tráfico y organización criminal ; excoordinador fue detenido preventivamente",
-     "url": "https://eju.tv/2026/10/exfiscal-departamental-de-la-paz-sera-imputado-por-trafico-y-organizacion-criminal-excoordinador-fue-detenido-preventivamente/",
-     "domain": "eju.tv",
-     "seendate": "20261016T194500Z"
-    },
-    {
-     "title": "Bolivia y Chile suscriben 5 documentos para fortalecer el diálogo y avanzar en la integración bilateral",
-     "url": "https://eju.tv/2026/10/bolivia-y-chile-suscriben-5-documentos-para-fortalecer-el-dialogo-y-avanzar-en-la-integracion-bilateral/",
-     "domain": "eju.tv",
-     "seendate": "20261016T194500Z"
-    },
-    {
-     "title": "Exigen enjuiciar a Evo Morales y García por la estafa de $us 90 mil millones",
-     "url": "https://eju.tv/2026/10/exigen-enjuiciar-a-evo-morales-y-garcia-por-la-estafa-de-us-90-mil-millones/",
-     "domain": "eju.tv",
-     "seendate": "20261016T194500Z"
-    },
-    {
-     "title": "« Presidente Paz , hoy dejamos de darnos la espalda »: Kast apuesta por retomar las relaciones diplomáticas entre Chile y Bolivia",
-     "url": "https://eju.tv/2026/10/presidente-paz-hoy-dejamos-de-darnos-la-espalda-kast-apuesta-por-retomar-las-relaciones-diplomaticas-entre-chile-y-bolivia/",
-     "domain": "eju.tv",
-     "seendate": "20261016T194500Z"
-    },
-    {
-     "title": "Presidentes Paz y Kast presentaron los resultados del encuentro binacional",
-     "url": "https://eju.tv/2026/10/vivo-presidentes-paz-y-kast-presentan-los-resultados-de-encuentro-binacional/",
-     "domain": "eju.tv",
-     "seendate": "20261016T194500Z"
-    },
-    {
-     "title": "Kast : He invitado al presidente Rodrigo Paz a una visita de Estado en Chile en 2027 y aceptó – eju . tv",
-     "url": "https://eju.tv/2026/10/kast-he-invitado-al-presidente-rodrigo-paz-a-una-visita-de-estado-en-chile-en-2027-y-acepto/",
-     "domain": "eju.tv",
-     "seendate": "20261016T194500Z"
-    },
-    {
-     "title": "Choferes llevarán a sus bases el acuerdo de pasajes y alistan ampliado nacional en Sucre",
-     "url": "https://eju.tv/2026/10/choferes-llevaran-a-sus-bases-el-acuerdo-de-pasajes-y-alistan-ampliado-nacional-en-sucre/",
-     "domain": "eju.tv",
-     "seendate": "20261016T194500Z"
-    },
-    {
-     "title": "He vendido mi camión : interceptan a un hombre con medio millón de bolivianos en La Angostura – eju . tv",
-     "url": "https://eju.tv/2026/10/he-vendido-mi-camion-interceptan-a-un-hombre-con-medio-millon-de-bolivianos-en-la-angostura/",
-     "domain": "eju.tv",
-     "seendate": "20261016T194500Z"
-    },
-    {
-     "title": "Investigan presunto secuestro en Sacaba ; familia pagó por su liberación",
-     "url": "https://eju.tv/2026/10/investigan-presunto-secuestro-en-sacaba-familia-pago-por-su-liberacion/",
-     "domain": "eju.tv",
-     "seendate": "20261016T194500Z"
-    },
-    {
-     "title": "Los Colorados tocaron el himno de Chile y un Hércules trajo a Kast : las postales de una visita histórica",
-     "url": "https://eldeber.com.bo/pais/colorados-tocaron-himno-chile-hercules-trajo-kast-postales-visita-historica_1792168443",
-     "domain": "eldeber.com.bo",
-     "seendate": "20261016T183000Z"
     }
    ]
   },
@@ -2250,6 +2238,12 @@
   },
   "ARG": {
    "articles": [
+    {
+     "title": "La Sociedad Rural se sumó al masivo repudio contra el fallo que absolvió a los sindicalistas que bloquearon San Nicolás",
+     "url": "https://www.lanacion.com.ar/politica/la-sociedad-rural-se-sumo-al-masivo-repudio-contra-el-fallo-que-absolvio-a-los-sindicalistas-que-nid17102026/",
+     "domain": "La Nación",
+     "seendate": "20261017T133321Z"
+    },
     {
      "title": "Detuvieron al padre de Agostina Páez, la argentina que estuvo presa en Brasil por gestos racistas",
      "url": "https://www.lanacion.com.ar/seguridad/detuvieron-al-padre-de-agostina-paez-la-argentina-que-estuvo-presa-en-brasil-por-gestos-racistas-nid17102026/",
