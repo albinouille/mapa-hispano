@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T06:32:25+00:00",
+ "updated": "2026-10-17T07:14:49+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -115,6 +115,12 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Trabajadores del IMSS prevén oferta salarial de 6%; destitución de Olivos no es negociable, dicen",
+     "url": "https://www.eluniversal.com.mx/nacion/trabajadores-del-imss-preven-oferta-salarial-de-6-destitucion-de-olivos-no-es-negociable-dicen/",
+     "domain": "El Universal",
+     "seendate": "20261017T070508Z"
+    },
     {
      "title": "Sheinbaum supervisa construcción de dos hospitales en Campeche; conversa con pacientes y personal de salud",
      "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-supervisa-construccion-de-dos-hospitales-en-de-hospitales-campeche-conversa-con-pacientes-y-personal-de-salud/",
@@ -366,12 +372,6 @@
      "url": "https://www.eluniversal.com.mx/estados/aguascalientes-proyecta-la-construccion-de-mas-de-14-mil-viviendas-sector-inmobiliario-crece-20/",
      "domain": "El Universal",
      "seendate": "20261016T204136Z"
-    },
-    {
-     "title": "Maestros de la CNTE bloquean accesos a Tuxtla Gutiérrez; van contra reforma educativa y ley del ISSSTE",
-     "url": "https://www.eluniversal.com.mx/estados/maestros-de-la-cnte-bloquean-accesos-a-tuxtla-gutierrez-van-contra-reforma-educativa-y-ley-del-issste/",
-     "domain": "El Universal",
-     "seendate": "20261016T204005Z"
     },
     {
      "title": "Trudy se degrada a huracán categoría 1; sigue en vivo su trayectoria",
@@ -902,12 +902,6 @@
      "url": "https://www.nacion.com/sucesos/adolescente-resulto-herido-de-bala-al-enfrentar-a/JJNUVMIHTBG35MJFEM66WNZLOU/story/",
      "domain": "La Nación",
      "seendate": "20261016T134315Z"
-    },
-    {
-     "title": "Hace 50 años: Estudiantes organizaron un seminario para analizar el futuro de los colegios",
-     "url": "https://www.nacion.com/el-pais/hace-50-anos-estudiantes-organizaron-un-seminario/K5FYY2FB6JCZZK4Q6GIC2SRMSQ/story/",
-     "domain": "La Nación",
-     "seendate": "20261016T133000Z"
     }
    ]
   },
@@ -1165,6 +1159,12 @@
   "COL": {
    "articles": [
     {
+     "title": "Desarticulan presunta banda sicarial en Caldas: encontraron altares de santería y presuntas listas con nombres de las víctimas",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/desarticulan-presunta-banda-sicarial-en-caldas-encontraron-altares-de-santeria-y-presuntas-listas-con-nombres-de-las-victimas-3594229",
+     "domain": "El Tiempo",
+     "seendate": "20261017T064505Z"
+    },
+    {
      "title": "Atentado sicarial contra el exalcalde de Jamundí, Andrés Felipe Ramírez, deja a su escolta asesinado: ofrecen hasta $100 millones por los responsables",
      "url": "https://www.eltiempo.com/colombia/cali/atencion-atentado-sicarial-contra-el-exalcalde-de-jamundi-andres-felipe-ramirez-deja-un-escolta-asesinado-3594221",
      "domain": "El Tiempo",
@@ -1217,12 +1217,6 @@
      "url": "https://www.eltiempo.com/colombia/cali/la-nueva-arquitectura-de-seguridad-en-el-valle-del-cauca-los-homicidios-cayeron-22-y-las-autoridades-piden-no-bajar-la-guardia-3594155",
      "domain": "El Tiempo",
      "seendate": "20261016T215921Z"
-    },
-    {
-     "title": "Afinia investiga presunto fraude de energía en empresa hielera de Cartagena: reportan pérdidas superiores a los $36 millones al mes",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/afinia-investiga-presunto-fraude-de-energia-en-empresa-hielera-de-cartagena-reportan-perdidas-superiores-a-los-36-millones-al-mes-3594142",
-     "domain": "El Tiempo",
-     "seendate": "20261016T210705Z"
     }
    ]
   },
@@ -2365,6 +2359,12 @@
   "ARG": {
    "articles": [
     {
+     "title": "Hay alerta amarilla por tormentas y lluvias para este sábado 17 de octubre: las provincias afectadas",
+     "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-tormentas-y-lluvias-para-este-sabado-17-de-octubre-las-provincias-afectadas-nid17102026/",
+     "domain": "La Nación",
+     "seendate": "20261017T065744Z"
+    },
+    {
      "title": "Deborah Bellota, psicóloga, sobre el hijo preferido: “No tiene que ver con el amor”",
      "url": "https://www.lanacion.com.ar/sociedad/deborah-bellota-psicologa-sobre-el-hijo-preferido-no-tiene-que-ver-con-el-amor-nid17102026/",
      "domain": "La Nación",
@@ -2441,36 +2441,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicologo-sobre-la-intimidad-de-las-parejas-la-ilusion-de-completud-no-esta-nid15102026/",
      "domain": "La Nación",
      "seendate": "20261017T004400Z"
-    },
-    {
-     "title": "Sturzenegger y Santilli arremetieron contra la gestión de Kicillof, con vistas a la carrera presidencial de 2027",
-     "url": "https://www.lanacion.com.ar/politica/sturzenegger-y-santilli-arremetieron-contra-la-gestion-de-kicillof-con-vistas-a-la-carrera-nid16102026/",
-     "domain": "La Nación",
-     "seendate": "20261017T000950Z"
-    },
-    {
-     "title": "Gabriel Rolón: “Uno desea más haber sido feliz que ser feliz”",
-     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-uno-desea-mas-haber-sido-feliz-que-ser-feliz-nid16102026/",
-     "domain": "La Nación",
-     "seendate": "20261017T000000Z"
-    },
-    {
-     "title": "Conrado Estol: “Tenemos que considerar el envejecimiento como una enfermedad, y se puede curar”",
-     "url": "https://www.lanacion.com.ar/sociedad/conrado-estol-tenemos-que-considerar-el-envejecimiento-como-una-enfermedad-y-se-puede-curar-nid16102026/",
-     "domain": "La Nación",
-     "seendate": "20261017T000000Z"
-    },
-    {
-     "title": "Descartes, sobre la duda: “Si no pienso, luego me doy cuenta que tengo que estar existiendo, porque si yo no existo, no pienso”",
-     "url": "https://www.lanacion.com.ar/sociedad/descartes-sobre-la-duda-si-no-pienso-luego-me-doy-cuenta-que-tengo-que-estar-existiendo-porque-si-yo-nid16102026/",
-     "domain": "La Nación",
-     "seendate": "20261017T000000Z"
-    },
-    {
-     "title": "Arthur Brooks, experto en felicidad de Harvard: “Hay una inteligencia que nace a partir de los 40 años”",
-     "url": "https://www.lanacion.com.ar/sociedad/arthur-brooks-experto-en-felicidad-de-harvard-hay-una-inteligencia-que-nace-a-partir-de-los-40-anos-nid11102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T234400Z"
     }
    ]
   },
@@ -2872,6 +2842,90 @@
   "BRA": {
    "articles": [
     {
+     "title": "Quem é Jéssica Fazendeira, personagem criada por IA que levou pedreiro a viajar 2,1 mil km até o Maranhão",
+     "url": "https://oglobo.globo.com/brasil/post/2026/10/quem-e-jessica-fazendeira-personagem-criada-por-ia-que-levou-pedreiro-a-viajar-21-mil-km-ate-o-maranhao.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261017T070000Z"
+    },
+    {
+     "title": "Bolsonarismo explora contradição de Lula sobre maioridade penal, enquanto esquerda silencia para evitar dano eleitoral",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/17/bolsonarismo-explora-contradicao-de-lula-sobre-maioridade-penal-enquanto-esquerda-silencia-para-evitar-dano-eleitoral.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261017T063001Z"
+    },
+    {
+     "title": "Mudança na maioridade sugerida por Lula atingiria 10% dos internos entre 16 e 18 anos; proposta de Flávio abarcaria 57%",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/17/mudanca-na-maioridade-sugerida-por-lula-atingiria-10percent-dos-internos-entre-16-e-18-anos-proposta-de-flavio-abarcaria-57percent.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261017T063001Z"
+    },
+    {
+     "title": "Desmatamento na Amazônia caiu 71,2% em 2026 na comparação com o último ano de Bolsonaro; no Cerrado queda foi de 48,4%",
+     "url": "https://oglobo.globo.com/brasil/meio-ambiente/noticia/2026/10/17/desmatamento-na-amazonia-caiu-712percent-em-2026-na-comparacao-com-o-ultimo-ano-de-bolsonaro-no-cerrado-queda-foi-de-484percent.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261017T063000Z"
+    },
+    {
+     "title": "Flávio favorecido nas redes? Entre os questionamentos e a admissão de falhas, Meta nega interferência na eleição; entenda",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/17/flavio-favorecido-nas-redes-entre-os-questionamentos-e-a-admissao-de-falhas-meta-nega-interferencia-na-eleicao-entenda.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261017T063000Z"
+    },
+    {
+     "title": "Escala 6x1, salário mínimo, cargos para a família em eventual governo: a entrevista de Flávio à TV Globo em seis pontos",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/17/escala-6x1-salario-minimo-cargos-para-a-familia-em-eventual-governo-a-entrevista-de-flavio-a-tv-globo-em-seis-pontos.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261017T063000Z"
+    },
+    {
+     "title": "Alckmin busca aliados no interior na tentativa de reorganizar palanque de Lula em SP e grava com filha de FHC",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/17/alckmin-busca-aliados-no-interior-na-tentativa-de-reorganizar-palanque-de-lula-em-sp-e-grava-com-filha-de-fhc.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261017T063000Z"
+    },
+    {
+     "title": "Entrevista: 'Ideologia é importante, mas é a economia que está decidindo a eleição', diz cientista político André Singer",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/17/entrevista-ideologia-e-importante-mas-e-a-economia-que-esta-decidindo-a-eleicao-diz-cientista-politico-andre-singer.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261017T063000Z"
+    },
+    {
+     "title": "Flávio Bolsonaro ou Lula: quem foi melhor nas entrevistas da Globo? Veja notas e avaliações dos colunistas do GLOBO",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/17/flavio-bolsonaro-ou-lula-quem-foi-melhor-nas-entrevistas-da-globo-veja-notas-e-avaliacoes-dos-colunistas-do-globo.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261017T063000Z"
+    },
+    {
+     "title": "Lula vai explorar risco de cortes em programas sociais, e Flávio prepara ofensiva sobre segurança pública em debate",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/17/lula-vai-explorar-risco-de-cortes-em-programas-sociais-e-flavio-prepara-ofensiva-sobre-seguranca-publica-em-debate.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261017T063000Z"
+    },
+    {
+     "title": "Redução da maioridade penal: com sanções a partir dos 10 anos, como menores que violam a lei são punidos pelo mundo?",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/17/reducao-da-maioridade-penal-com-sancoes-a-partir-dos-10-anos-como-menores-que-violam-a-lei-sao-punidos-pelo-mundo.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261017T063000Z"
+    },
+    {
+     "title": "PSOL vive pressão por reestruturação após não alcançar cláusula de barreira, mas deixa discussão para depois do 2º turno",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/17/psol-vive-pressao-por-reestruturacao-apos-nao-alcancar-clausula-de-barreira-mas-deixa-discussao-para-depois-do-2o-turno.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261017T063000Z"
+    },
+    {
+     "title": "Informação sobre recursos, elo com campanhas, direcionamento: veja as regras para canais no WhatsApp definidas pelo TSE",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/17/informacao-sobre-recursos-elo-com-campanhas-direcionamento-veja-as-regras-para-canais-no-whatsapp-definidas-pelo-tse.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261017T063000Z"
+    },
+    {
+     "title": "Duas escolas: Lula aposta em PAC para construir creches, enquanto Flávio propõe vouchers para famílias",
+     "url": "https://oglobo.globo.com/brasil/educacao/noticia/2026/10/17/duas-escolas-lula-aposta-em-pac-para-construir-creches-enquanto-flavio-propoe-vouchers-para-familias.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261017T063000Z"
+    },
+    {
      "title": "Flávio Bolsonaro na TV Globo: veja como os colunistas do GLOBO analisaram em tempo real a entrevista com o senador",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/ao-vivo/flavio-bolsonaro-na-tv-globo-colunistas-do-globo-analisam-em-tempo-real-a-entrevista-com-o-bolsonarista.ghtml",
      "domain": "O Globo",
@@ -2990,72 +3044,6 @@
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/16/senado-avalia-ampliar-idade-minima-para-ministro-do-stf-para-tentar-reduzir-influencia-de-eventual-governo-flavio.ghtml",
      "domain": "O Globo",
      "seendate": "20261016T220124Z"
-    },
-    {
-     "title": "Zanin vai relatar pedido do PSD ao STF para anular eleição de Douglas Ruas e realizar segundo turno ao governo do Rio",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/16/zanin-vai-relatar-pedido-do-psd-para-anular-eleicao-de-douglas-ruas-e-realizar-segundo-turno-ao-governo-do-rio.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261016T205814Z"
-    },
-    {
-     "title": "MP-SP faz operação para apurar suspeita de regalias na cadeia onde está preso o ex-vereador Milton Leite",
-     "url": "https://oglobo.globo.com/brasil/sao-paulo/noticia/2026/10/16/mp-sp-faz-operacao-para-apurar-suspeita-de-regalias-na-cadeia-onde-esta-preso-o-ex-vereador-milton-leite.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261016T202112Z"
-    },
-    {
-     "title": "Homem de 68 anos é preso suspeito de estuprar menina de 9 anos no Espírito Santo; criança relatou abusos para professora",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/16/homem-de-68-anos-e-preso-suspeito-de-estuprar-menina-de-9-anos-no-espirito-santo-crianca-relatou-abusos-para-professora.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261016T201149Z"
-    },
-    {
-     "title": "Mulher em surto morta por PM é o 3º caso do tipo em 15 dias em SP; mortes por ação policial subiram pelo 4º ano seguido na capital paulista",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/16/mulher-em-surto-morta-por-pm-e-o-terceiro-caso-do-tipo-em-15-dias-em-sp-mortes-por-acoes-policiais-subiram-pelo-quarto-ano-seguido-na-capital-paulista.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261016T201017Z"
-    },
-    {
-     "title": "Flávio Bolsonaro na Globo: que horas é a entrevista e como assistir",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/16/flavio-bolsonaro-na-globo-que-horas-e-a-entrevista-e-como-assistir.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261016T200406Z"
-    },
-    {
-     "title": "Paes entra de cabeça na campanha de Lula e fará evento com lideranças comunitárias atrás de votos para o petista",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/16/paes-entra-de-cabeca-na-campanha-de-lula-e-fara-evento-com-liderancas-comunitarias-atras-de-votos-para-o-petista.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261016T193827Z"
-    },
-    {
-     "title": "Sem citar Flávio, ex-ministros e ambientalistas criticam 'retomada de propostas' para 'enfraquecer órgãos' fiscalizadores",
-     "url": "https://oglobo.globo.com/brasil/meio-ambiente/noticia/2026/10/16/sem-citar-flavio-ex-ministros-e-ambientalistas-criticam-retomada-de-propostas-para-enfraquecer-orgaos-fiscalizadores.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261016T192335Z"
-    },
-    {
-     "title": "Moraes autoriza Bolsonaro a receber dez convidados para aniversário de 16 anos da filha",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/16/moraes-autoriza-bolsonaro-a-receber-dez-convidados-para-aniversario-de-16-anos-da-filha.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261016T190204Z"
-    },
-    {
-     "title": "Chef brasileiro em Paris faz prato com carne de pombo e resultado surpreende; veja o vídeo",
-     "url": "https://oglobo.globo.com/brasil/epoca/noticia/2026/10/16/chef-brasileiro-em-paris-faz-prato-com-carne-de-pombo-e-resultado-surpreende-veja-o-video.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261016T190009Z"
-    },
-    {
-     "title": "Janones diz que ‘Exército do Lula’ voltou a funcionar e que direita perdeu espaço nas redes sociais: ‘O que eles fizerem não adianta mais’",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/16/janones-diz-que-exercito-do-lula-voltou-a-funcionar-e-que-direita-perdeu-espaco-nas-redes-sociais-o-que-eles-fizerem-nao-adianta-mais.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261016T185129Z"
-    },
-    {
-     "title": "Vídeo mostra entrada de criminosos na casa da família Matsunaga, prisão de suspeito e corpo carregado para fora do endereço",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/16/video-mostra-entrada-de-criminosos-na-casa-da-familia-matsunaga-prisao-de-suspeito-e-corpo-carregado-para-fora-do-endereco.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261016T184916Z"
     }
    ]
   }
