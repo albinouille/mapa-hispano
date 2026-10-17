@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-17T11:57:01+00:00",
+ "updated": "2026-10-17T12:28:12+00:00",
  "countries": {
   "ESP": {
    "articles": [
     {
-     "title": "Última hora de la actualidad política, en directo | Sánchez llama a la movilización el 29-N: “Hay que frenar la ola reaccionaria”",
+     "title": "Última hora de la actualidad política, en directo | Colau, sobre Podemos: “Si alguien no se quiere sentar a una mesa, no se le puede obligar”",
      "url": "https://elpais.com/espana/2026-10-17/ultima-hora-de-la-actualidad-politica-en-directo.html",
      "domain": "El País",
-     "seendate": "20261017T114847Z"
+     "seendate": "20261017T121743Z"
     },
     {
      "title": "Desaparece misteriosamente y en cuestión de horas ‘el altar’ de Maricarmen de su calle",
@@ -542,16 +542,16 @@
   "SLV": {
    "articles": [
     {
+     "title": "Diario Co Latino - Informándote con Credibilidad",
+     "url": "https://www.diariocolatino.com/bukele-se-retracta-y-dice-que-revisara-casos-de-10-mil-colaboradores-ocasionales-de-pandillas/",
+     "domain": "diariocolatino.com",
+     "seendate": "20261017T120000Z"
+    },
+    {
      "title": "Presidente de Costa Rica visita el CECOT para conocer de cerca el funcionamiento",
      "url": "https://www.periodicoequilibrium.com/presidente-de-costa-rica-visita-el-cecot-para-conocer-de-cerca-el-funcionamiento/",
      "domain": "periodicoequilibrium.com",
      "seendate": "20261017T081500Z"
-    },
-    {
-     "title": "Diario Co Latino - Informándote con Credibilidad",
-     "url": "https://www.diariocolatino.com/el-sanson-de-la-ciudad-de-las-colinas/",
-     "domain": "diariocolatino.com",
-     "seendate": "20261017T030000Z"
     },
     {
      "title": "American College y Latin Top Jobs ayudan al talento joven a dar sus primeros pasos en el mundo laboral",
@@ -651,6 +651,12 @@
   },
   "CRI": {
    "articles": [
+    {
+     "title": "De la captura de Diablo a la detención de uno de sus custodios en La Reforma: así evolucionó el caso en casi tres meses",
+     "url": "https://www.nacion.com/sucesos/de-la-captura-de-diablo-a-la-detencion-de-uno-de/IRMAZVDM3RCQ5BU72FLE6WPKGI/story/",
+     "domain": "La Nación",
+     "seendate": "20261017T120000Z"
+    },
     {
      "title": "¿Un teleférico para escapar de las presas? El plan del MOPT para los barrios del sur de San José",
      "url": "https://www.nacion.com/el-pais/un-teleferico-para-escapar-de-las-presas-el-plan/NJREP47WL5DJXFSJOJTVQCFTDE/story/",
@@ -818,24 +824,6 @@
      "url": "https://www.nacion.com/sucesos/oij-busca-a-sospechosa-de-asesinar-a-extranjero/SYP4IQ4SXJBE5CG7OJFFMYNV7A/story/",
      "domain": "La Nación",
      "seendate": "20261016T155853Z"
-    },
-    {
-     "title": "Volcán Rincón de la Vieja emite densa pluma blanca tras tres pulsos eruptivos",
-     "url": "https://www.nacion.com/sucesos/volcan-rincon-de-la-vieja-emite-densa-pluma-blanca/N2CCP4UILZA7PI3EUP2OPHLD3Y/story/",
-     "domain": "La Nación",
-     "seendate": "20261016T152807Z"
-    },
-    {
-     "title": "Pueblo Soberano se niega a liberar recursos fundamentales para el OIJ, Ministerio Público y jueces en 2027",
-     "url": "https://www.nacion.com/politica/pueblo-soberano-se-niega-a-liberar-recursos/AF2JZLKG2FGXFCJLUHPAKPBJYM/story/",
-     "domain": "La Nación",
-     "seendate": "20261016T152112Z"
-    },
-    {
-     "title": "Costa Rica extradita a Estados Unidos a tres mexicanos vinculados con el cartel de Sinaloa",
-     "url": "https://www.nacion.com/sucesos/costa-rica-extraditara-a-estados-unidos-a-tres/2YT6JKUW5VBZHGHHLQV7IZEWSM/story/",
-     "domain": "La Nación",
-     "seendate": "20261016T150926Z"
     }
    ]
   },
@@ -1087,10 +1075,16 @@
   "COL": {
    "articles": [
     {
-     "title": "La Procuraduría formuló pliego de cargos contra el director (e) de la cárcel de Itagüí, Antioquia, y seis funcionarios del Inpec por fiesta vallenata",
+     "title": "La Procuraduría formuló pliego de cargos contra el director (e) de la cárcel de Itagüí, Antioquia, y cinco funcionarios del Inpec por fiesta vallenata",
      "url": "https://www.eltiempo.com/colombia/medellin/la-procuraduria-formulo-pliego-de-cargos-contra-el-director-e-de-la-carcel-de-itaguei-antioquia-y-seis-funcionarios-del-inpec-por-fiesta-vallenata-3594236",
      "domain": "El Tiempo",
-     "seendate": "20261017T114805Z"
+     "seendate": "20261017T120959Z"
+    },
+    {
+     "title": "Video | Plan para que Cali adquiera una de las hidroeléctricas más grandes del país y así generar energía: 'No les costará ni un peso a los caleños'",
+     "url": "https://www.eltiempo.com/colombia/cali/video-plan-para-que-cali-adquiera-una-de-las-hidroelectricas-mas-grandes-del-pais-y-asi-generar-energia-no-les-costara-ni-un-peso-a-los-calenos-3594164",
+     "domain": "El Tiempo",
+     "seendate": "20261017T120535Z"
     },
     {
      "title": "Desarticulan presunta banda sicarial en Caldas: encontraron altares de santería y listas con posibles nombres de las víctimas",
@@ -1127,12 +1121,6 @@
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/directora-de-la-ant-se-pronuncio-tras-la-renuncia-del-funcionario-que-aparecio-en-video-cocinando-un-armadillo-nadie-esta-por-encima-de-la-ley-3594160",
      "domain": "El Tiempo",
      "seendate": "20261017T003734Z"
-    },
-    {
-     "title": "Video | Plan para que Cali adquiera una de las hidroeléctricas más grandes del país y así generar energía: 'No les costará ni un peso a los caleños'",
-     "url": "https://www.eltiempo.com/colombia/cali/video-plan-para-que-cali-adquiera-una-de-las-hidroelectricas-mas-grandes-del-pais-y-asi-generar-energia-no-les-costara-ni-un-peso-a-los-calenos-3594164",
-     "domain": "El Tiempo",
-     "seendate": "20261017T000353Z"
     },
     {
      "title": "Explosión en la variante de Popayán deja dos personas heridas; una estaría grave y cierran la vía por amenaza de explosivos",
@@ -1527,12 +1515,6 @@
      "seendate": "20261016T180548Z"
     },
     {
-     "title": "Dijo que su hija se suicidó, pero una prueba la delató: dictan prisión preventiva a una mujer en Manabí",
-     "url": "https://eluniverso.com/comunidad/ecuador/la-revancha-prision-preventiva-por-muerte-de-una-joven-nota/",
-     "domain": "El Universo",
-     "seendate": "20261016T172817Z"
-    },
-    {
      "title": "Xavier Jordán sigue detenido en Estados Unidos a la espera de su deportación, según ministro del Interior",
      "url": "https://eluniverso.com/politica/expedientes/xavier-jordan-sigue-detenido-en-estados-unidos-a-la-espera-de-su-deportacion-segun-ministro-del-interior-nota/",
      "domain": "El Universo",
@@ -1555,12 +1537,6 @@
      "url": "https://eluniverso.com/politica/seguridad/operacion-muralla-detienen-a-cuatro-presuntos-miembros-de-comandos-de-frontera-presuntamente-vinculados-con-asesinatos-de-militares-y-policias-nota/",
      "domain": "El Universo",
      "seendate": "20261015T101945Z"
-    },
-    {
-     "title": "Mónica Luzárraga, aspirante a la Alcaldía por la alianza 2-18: ‘¿Cuáles fueron los parámetros para definir que la candidata (de la RC) sea la esposa de Aquiles Alvarez?’",
-     "url": "https://eluniverso.com/politica/elecciones/monica-luzarraga-aspirante-a-la-alcaldia-por-la-alianza-2-18-la-rc-debe-explicar-cuales-fueron-los-parametros-para-definir-que-la-candidata-sea-la-esposa-de-aquiles-alvarez-y-no-una-persona-que-aglutine-los-ideales-que-tambien-defienden-ellos-nota/",
-     "domain": "El Universo",
-     "seendate": "20261014T130000Z"
     }
    ]
   },
@@ -2281,6 +2257,12 @@
   "ARG": {
    "articles": [
     {
+     "title": "Un hombre atropelló a su hijo de 5 años cuando daba marcha atrás con su camioneta en Mendoza",
+     "url": "https://www.lanacion.com.ar/sociedad/un-hombre-atropello-a-su-hijo-de-5-anos-cuando-daba-marcha-atras-con-su-camioneta-en-mendoza-nid17102026/",
+     "domain": "La Nación",
+     "seendate": "20261017T122438Z"
+    },
+    {
      "title": "Hay alerta amarilla por tormentas y lluvias para este sábado 17 de octubre: las provincias afectadas",
      "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-tormentas-y-lluvias-para-este-sabado-17-de-octubre-las-provincias-afectadas-nid17102026/",
      "domain": "La Nación",
@@ -2793,6 +2775,12 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "Governo do Paraná lamenta morte de reitor da PUC-PR em acidente durante viagem de trabalho nos EUA",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/17/governo-do-parana-lamenta-morte-de-reitor-da-puc-pr-em-acidente-durante-viagem-de-trabalho-nos-eua.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261017T120732Z"
+    },
     {
      "title": "Advogado denuncia 'violação' após porteiro ser detido pela PM durante panelaço contra Flávio Bolsonaro em Maceió (AL)",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/17/advogado-denuncia-violacao-apos-porteiro-ser-detido-pela-pm-durante-panelaco-contra-flavio-bolsonaro-em-maceio-al.ghtml",
