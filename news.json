@@ -1,8 +1,14 @@
 {
- "updated": "2026-10-17T18:59:59+00:00",
+ "updated": "2026-10-17T19:25:59+00:00",
  "countries": {
   "ESP": {
    "articles": [
+    {
+     "title": "La Ertzaintza detiene en Irún a dos personas acusadas de terrorismo y con información sobre las fuerzas de seguridad",
+     "url": "https://elpais.com/espana/2026-10-17/la-ertzaintza-detiene-en-irun-a-dos-personas-acusadas-de-terrorismo-y-con-informacion-sobre-las-fuerzas-de-seguridad.html",
+     "domain": "El País",
+     "seendate": "20261017T185742Z"
+    },
     {
      "title": "Cataluña y la Comunidad Valenciana envían mensajes de alerta a la población por riesgo de lluvias torrenciales",
      "url": "https://elpais.com/espana/2026-10-17/emergencias-envia-mensajes-de-alerta-por-lluvias-a-la-poblacion-de-valencia-y-alicante.html",
@@ -115,6 +121,18 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Diputada denuncia ataque con arma blanca en Río Bravo, Tamaulipas; le provocaron una herida de 15 cm en el costado",
+     "url": "https://www.eluniversal.com.mx/estados/diputada-denuncia-ataque-con-arma-blanca-en-rio-bravo-tamaulipas-le-provocaron-una-herida-de-15-cm-en-el-costado/",
+     "domain": "El Universal",
+     "seendate": "20261017T191328Z"
+    },
+    {
+     "title": "Se atenderán demandas de médicos del IMSS: Sheinbaum; va por eliminar trámites burocráticos que retrasan abasto de medicamentos",
+     "url": "https://www.eluniversal.com.mx/nacion/se-tenderan-demandas-de-medicos-del-imss-sheinbaum-va-por-eliminar-tramites-burocraticos-que-retrasan-abasto-de-medicamentos/",
+     "domain": "El Universal",
+     "seendate": "20261017T185843Z"
+    },
     {
      "title": "Especialistas de la ATF de EU capacitan a personal de la FGJCDMX; enseñan rastreo de armas",
      "url": "https://www.eluniversal.com.mx/metropoli/especialistas-de-la-atf-de-eu-capacitan-a-personal-de-la-fgjcdmx-ensenan-rastreo-de-armas/",
@@ -592,7 +610,13 @@
   "CRI": {
    "articles": [
     {
-     "title": "Fuego afecta pulpería y casa en Cartago; tres personas atendidas por crisis nerviosa",
+     "title": "Una persona muere en incendio que consume vivienda en Moravia y obliga a rescatar personas de un balcón",
+     "url": "https://www.nacion.com/sucesos/una-persona-muere-en-incendio-que-consume-vivienda/JL6A2ZIGWVHVRGU5ZB7KA5N3AY/story/",
+     "domain": "La Nación",
+     "seendate": "20261017T191618Z"
+    },
+    {
+     "title": "Fuego afecta pulpería y casa en Cartago; tres personas atendidas por crisis nerviosas",
      "url": "https://www.nacion.com/sucesos/fuego-afecta-pulperia-y-casa-en-cartago-tres/JLK3MCFYNJHS5OBVICGFT27YZA/story/",
      "domain": "La Nación",
      "seendate": "20261017T184133Z"
@@ -1021,6 +1045,12 @@
   "COL": {
    "articles": [
     {
+     "title": "'¡A los bandidos que tienen azotada la isla de San Andrés se les acabó la fiesta!': las inversiones en el archipiélago anunciadas por De La Espriella",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/a-los-bandidos-que-tienen-azotada-la-isla-de-san-andres-se-les-acabo-la-fiesta-las-inversiones-en-el-archipielago-anunciadas-por-de-la-espriella-3594307",
+     "domain": "El Tiempo",
+     "seendate": "20261017T191553Z"
+    },
+    {
      "title": "Él era Andrés Felipe López Gutiérrez, escolta que murió asesinado en el atentado contra el exalcalde de Jamundí Andrés Felipe Ramírez",
      "url": "https://www.eltiempo.com/colombia/cali/el-era-felipe-lopez-gutierrez-escolta-que-murio-asesinado-en-el-atentado-contra-el-exalcalde-de-jamundi-andres-felipe-ramirez-3594300",
      "domain": "El Tiempo",
@@ -1073,12 +1103,6 @@
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/ideam-advierte-por-fuertes-lluvias-y-tormentas-electricas-en-colombia-este-fin-de-semana-estos-son-los-departamentos-mas-afectados-3594268",
      "domain": "El Tiempo",
      "seendate": "20261017T152122Z"
-    },
-    {
-     "title": "Lluvias, deslizamientos y oleaje: estas son las alertas del Ideam para el fin de semana en el Caribe colombiano y las zonas que requieren atención",
-     "url": "https://www.eltiempo.com/colombia/barranquilla/lluvias-deslizamientos-y-oleaje-estas-son-las-alertas-del-ideam-para-el-fin-de-semana-en-el-caribe-colombiano-y-las-zonas-que-requieren-atencion-3594266",
-     "domain": "El Tiempo",
-     "seendate": "20261017T151315Z"
     }
    ]
   },
@@ -1519,12 +1543,6 @@
      "url": "https://eluniverso.com/comunidad/ecuador/horarios-y-sectores-con-mantenimiento-electrico-en-tungurahua-y-sucumbios-este-sabado-17-de-octubre-de-2026-nota/",
      "domain": "El Universo",
      "seendate": "20261017T020435Z"
-    },
-    {
-     "title": "Deslizamiento de material mantiene cerrada la vía Cuenca–Molleturo–Naranjal en el km 90",
-     "url": "https://eluniverso.com/comunidad/ecuador/deslizamiento-de-material-mantiene-cerrada-la-via-cuencamolleturonaranjal-en-el-km-90-nota/",
-     "domain": "El Universo",
-     "seendate": "20261017T004858Z"
     },
     {
      "title": "Shyare Andrade será embajadora de turismo de Portoviejo",
@@ -2221,6 +2239,18 @@
   "ARG": {
    "articles": [
     {
+     "title": "El Merval cambia este lunes: qué se sabe sobre el nuevo índice de MSCI",
+     "url": "https://www.lanacion.com.ar/economia/el-merval-cambia-este-lunes-que-se-sabe-sobre-el-nuevo-indice-de-msci-nid17102026/",
+     "domain": "La Nación",
+     "seendate": "20261017T191850Z"
+    },
+    {
+     "title": "Qué es la Púrpura Trombocitopénica Idiopática, la enfermedad de la ex Gran Hermano Denisse González, explicada por una hematóloga",
+     "url": "https://www.lanacion.com.ar/sociedad/que-es-el-trastorno-de-purpura-trombocitopenica-idiopatica-la-enfermedad-de-denisse-gonzalez-nid15102026/",
+     "domain": "La Nación",
+     "seendate": "20261017T190819Z"
+    },
+    {
      "title": "A pesar de El Niño: por qué hay una “palabra prohibida” para hablar de las Cataratas del Iguazú, que están más potentes que nunca",
      "url": "https://www.lanacion.com.ar/sociedad/a-pesar-de-el-nino-por-que-hay-una-palabra-prohibida-para-hablar-de-las-cataratas-del-iguazu-que-nid17102026/",
      "domain": "La Nación",
@@ -2311,12 +2341,6 @@
      "seendate": "20261017T143615Z"
     },
     {
-     "title": "Qué es la Púrpura Trombocitopénica Idiopática, la enfermedad de la ex Gran Hermano Denisse González, explicada por una hematóloga",
-     "url": "https://www.lanacion.com.ar/sociedad/que-es-el-trastorno-de-purpura-trombocitopenica-idiopatica-la-enfermedad-de-denisse-gonzalez-nid15102026/",
-     "domain": "La Nación",
-     "seendate": "20261017T142355Z"
-    },
-    {
      "title": "Los secretos de la banda narco que impuso el miedo para retrasar un desarrollo urbano a 30 minutos del Obelisco",
      "url": "https://www.lanacion.com.ar/seguridad/los-secretos-del-senor-j-el-narco-que-impuso-el-miedo-para-retrasar-un-desarrollo-urbano-a-treinta-nid17102026/",
      "domain": "La Nación",
@@ -2327,18 +2351,6 @@
      "url": "https://www.lanacion.com.ar/politica/la-sociedad-rural-se-sumo-al-masivo-repudio-contra-el-fallo-que-absolvio-a-los-sindicalistas-que-nid17102026/",
      "domain": "La Nación",
      "seendate": "20261017T133321Z"
-    },
-    {
-     "title": "Un hombre atropelló a su hijo de 5 años cuando daba marcha atrás con su camioneta en Mendoza",
-     "url": "https://www.lanacion.com.ar/sociedad/un-hombre-atropello-a-su-hijo-de-5-anos-cuando-daba-marcha-atras-con-su-camioneta-en-mendoza-nid17102026/",
-     "domain": "La Nación",
-     "seendate": "20261017T122438Z"
-    },
-    {
-     "title": "Hay alerta amarilla por tormentas y lluvias para este sábado 17 de octubre: las provincias afectadas",
-     "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-tormentas-y-lluvias-para-este-sabado-17-de-octubre-las-provincias-afectadas-nid17102026/",
-     "domain": "La Nación",
-     "seendate": "20261017T115029Z"
     }
    ]
   },
@@ -2709,6 +2721,18 @@
   "PRY": {
    "articles": [
     {
+     "title": "Puerto Antequera vive un fin de semana de pesca, gastronomía y turismo",
+     "url": "https://www.abc.com.py/nacionales/2026/10/17/puerto-antequera-vive-un-fin-de-semana-de-pesca-gastronomia-y-turismo/",
+     "domain": "ABC Color",
+     "seendate": "20261017T192028Z"
+    },
+    {
+     "title": "Con presencia de Santiago Peña y Pedro Alliana, inauguran la Expo Amambay 2026",
+     "url": "https://www.abc.com.py/nacionales/2026/10/17/con-presencia-de-santiago-pena-y-pedro-alliana-inauguran-la-expo-amambay-2026/",
+     "domain": "ABC Color",
+     "seendate": "20261017T185223Z"
+    },
+    {
      "title": "Video: El Niño azota Misiones y Ñeembucú y “esto recién empieza”, advierte la Defensoría",
      "url": "https://www.abc.com.py/nacionales/2026/10/17/video-el-nino-azota-misiones-y-neembucu-y-esto-recien-empieza-advierte-la-defensoria/",
      "domain": "ABC Color",
@@ -2739,22 +2763,10 @@
      "seendate": "20261017T161157Z"
     },
     {
-     "title": "Crisis de medicamentos: 1.438 amparos judiciales en 16 meses contra el MSPBS",
-     "url": "https://www.abc.com.py/nacionales/2026/10/17/crisis-de-medicamentos-1438-amparos-judiciales-en-16-meses-contra-el-mspbs/",
-     "domain": "ABC Color",
-     "seendate": "20261017T160501Z"
-    },
-    {
      "title": "El río Paraguay registra repunte generalizado mientras el Paraná muestra comportamiento mixto",
      "url": "https://www.abc.com.py/nacionales/2026/10/17/el-rio-paraguay-registra-repunte-generalizado-mientras-el-parana-muestra-comportamiento-mixto/",
      "domain": "ABC Color",
      "seendate": "20261017T160003Z"
-    },
-    {
-     "title": "¿Nuevos cardenales para Paraguay en 2027? Esto aclaró la Arquidiócesis",
-     "url": "https://www.abc.com.py/nacionales/2026/10/17/nuevos-cardenales-para-paraguay-en-2027-esto-aclaro-la-arquidiocesis/",
-     "domain": "ABC Color",
-     "seendate": "20261017T140924Z"
     }
    ]
   },
@@ -2763,6 +2775,12 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "Fumaça por queimadas traz qualidade de ar em nível 'perigoso' em Manaus e cientista recomenda que se evite sair de casa",
+     "url": "https://oglobo.globo.com/brasil/meio-ambiente/noticia/2026/10/17/fumaca-por-queimadas-traz-qualidade-de-ar-em-nivel-perigoso-em-manaus-e-cientista-recomenda-que-se-evite-sair-de-casa.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261017T191005Z"
+    },
     {
      "title": "Homem é preso em SP após ameaçar com faca e manter mulher e bebê de 8 meses reféns por seis horas",
      "url": "https://oglobo.globo.com/brasil/noticia/2026/10/17/homem-e-preso-em-sp-apos-ameacar-com-faca-e-manter-mulher-e-bebe-de-8-meses-refens-por-seis-horas.ghtml",
