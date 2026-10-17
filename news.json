@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T19:55:22+00:00",
+ "updated": "2026-10-17T20:23:28+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -121,6 +121,18 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "\"El primito\", líder del CJNG en Tamaulipas, se ampara contra extradición a EU; sigue prófugo",
+     "url": "https://www.eluniversal.com.mx/nacion/el-primito-lider-del-cjng-en-tamaulipas-se-ampara-contra-extradicion-a-eu-sigue-profugo/",
+     "domain": "El Universal",
+     "seendate": "20261017T200410Z"
+    },
+    {
+     "title": "Confirman dos muertos y 14 lesionados por carambola en autopista de Chiapas; ocho vehículos resultaron dañados",
+     "url": "https://www.eluniversal.com.mx/estados/confirman-dos-muertos-y-14-lesionados-por-carambola-en-autopista-de-chiapas-ocho-vehiculos-resultaron-danados/",
+     "domain": "El Universal",
+     "seendate": "20261017T200329Z"
+    },
     {
      "title": "Accidente de autobús turístico deja un muerto y 14 heridos en la Puebla-Veracruz; Fiscalía inicia investigación",
      "url": "https://www.eluniversal.com.mx/estados/accidente-de-autobus-turistico-deja-un-muerto-y-14-heridos-en-la-puebla-veracruz-fiscalia-inicia-investigacion/",
@@ -812,12 +824,6 @@
      "url": "https://www.nacion.com/sucesos/abogado-del-jugador-carlos-barahona-cuestiona/5DRI7OUV5ZBRPM4GL23V6FGVKI/story/",
      "domain": "La Nación",
      "seendate": "20261016T211850Z"
-    },
-    {
-     "title": "Deslizamiento en Heredia deja a hombre de 70 años en condición crítica",
-     "url": "https://www.nacion.com/sucesos/deslizamiento-en-heredia-deja-a-hombre-de-70-anos/JUX5YEIMA5BEBDMOZG5SNGRVNQ/story/",
-     "domain": "La Nación",
-     "seendate": "20261016T202807Z"
     }
    ]
   },
@@ -930,12 +936,6 @@
      "url": "https://www.prensa.com/politica/suspenden-festividades-patrias-en-las-tablas-y-montijo/",
      "domain": "La Prensa",
      "seendate": "20261016T011056Z"
-    },
-    {
-     "title": "Gobierno reporta 3,696 personas en albergues tras el terremoto",
-     "url": "https://www.prensa.com/politica/en-vivo-gobierno-actualiza-situacion-de-danos-y-labores-de-recuperacion-tras-el-terremoto/",
-     "domain": "La Prensa",
-     "seendate": "20261015T233002Z"
     },
     {
      "title": "Roxana Méndez deja la Autoridad de Descentralización",
@@ -1087,6 +1087,24 @@
   "COL": {
    "articles": [
     {
+     "title": "Santa Verónica recupera 2,1 kilómetros de costa tras inversión de casi $94.000 millones para frenar la erosión y reactivar el turismo en el Atlántico.",
+     "url": "https://www.eltiempo.com/colombia/barranquilla/santa-veronica-recupera-2-1-kilometros-de-costa-tras-inversion-de-casi-94-000-millones-para-frenar-la-erosion-y-reactivar-el-turismo-en-el-atlantico-3594308",
+     "domain": "El Tiempo",
+     "seendate": "20261017T200100Z"
+    },
+    {
+     "title": "'Un milagro': el senador Duvalier Sánchez reveló los angustiantes momentos en que el exalcalde de Jamundí sobrevivió a un atentado sicarial",
+     "url": "https://www.eltiempo.com/colombia/cali/un-milagro-el-senador-duvalier-sanchez-revelo-los-angustiantes-momentos-en-que-el-exalcalde-de-jamundi-sobrevivio-a-un-atentado-sicarial-3594315",
+     "domain": "El Tiempo",
+     "seendate": "20261017T195655Z"
+    },
+    {
+     "title": "Temblor hoy en Colombia, 17 de octubre: reportan sismo de magnitud 3,2 en Tolima; esto se sabe del movimiento sísmico",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-17-de-octubre-reportan-sismo-de-magnitud-3-2-en-tolima-esto-se-sabe-del-movimiento-sismico-3594312",
+     "domain": "El Tiempo",
+     "seendate": "20261017T195137Z"
+    },
+    {
      "title": "'¡A los bandidos que tienen azotada la isla de San Andrés se les acabó la fiesta!': las inversiones en el archipiélago anunciadas por De La Espriella",
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/a-los-bandidos-que-tienen-azotada-la-isla-de-san-andres-se-les-acabo-la-fiesta-las-inversiones-en-el-archipielago-anunciadas-por-de-la-espriella-3594307",
      "domain": "El Tiempo",
@@ -1123,28 +1141,10 @@
      "seendate": "20261017T163404Z"
     },
     {
-     "title": "La hipótesis tras el atentado de sicarios a Wilber Hernández en un cortejo fúnebre en una vía de Santander: ¿quién es el comerciante atacado?",
-     "url": "https://www.eltiempo.com/colombia/santander/la-hipotesis-tras-el-atentado-de-sicarios-a-wilber-hernandez-en-un-cortejo-funebre-en-una-via-de-santander-quien-es-el-comerciante-atacado-3594261",
-     "domain": "El Tiempo",
-     "seendate": "20261017T160928Z"
-    },
-    {
      "title": "Alias Keko, señalado socio del Negro Ober: así habría operado la red de extorsión a comerciantes y vecinos de Barranquilla y Soledad según la Fiscalía",
      "url": "https://www.eltiempo.com/colombia/barranquilla/alias-keko-senalado-socio-del-negro-ober-asi-habria-operado-la-red-de-extorsion-a-comerciantes-y-vecinos-de-barranquilla-y-soledad-segun-la-fiscalia-3594271",
      "domain": "El Tiempo",
      "seendate": "20261017T160100Z"
-    },
-    {
-     "title": "Videos clave y $ 150 millones en juego: las primeras pistas del atentado contra el exalcalde de Jamundí que dejó un escolta sin vida",
-     "url": "https://www.eltiempo.com/colombia/cali/videos-clave-y-150-millones-en-juego-las-primeras-pistas-del-atentado-contra-el-exalcalde-de-jamundi-que-dejo-un-escolta-sin-vida-3594269",
-     "domain": "El Tiempo",
-     "seendate": "20261017T154536Z"
-    },
-    {
-     "title": "Ideam advierte por fuertes lluvias y tormentas eléctricas en Colombia este fin de semana: estos son los departamentos más afectados",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/ideam-advierte-por-fuertes-lluvias-y-tormentas-electricas-en-colombia-este-fin-de-semana-estos-son-los-departamentos-mas-afectados-3594268",
-     "domain": "El Tiempo",
-     "seendate": "20261017T152122Z"
     }
    ]
   },
@@ -1603,16 +1603,16 @@
   "PER": {
    "articles": [
     {
-     "title": "Último temblor en Perú hoy, 17 de octubre: epicentro y magnitud del sismo",
-     "url": "https://elcomercio.pe/peru/ultimo-temblor-en-peru-hoy-epicentro-del-sismo-y-magnitud-ultima-hora-censis-tdpe-noticia/",
+     "title": "Ucayali: MTC gestionó vuelos humanitarios para el traslado de 80 personas en Purús",
+     "url": "https://elcomercio.pe/peru/ucayali/ucayali-mtc-gestiono-vuelos-humanitarios-para-el-traslado-de-80-personas-en-purus-ultimas-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261017T175749Z"
+     "seendate": "20261017T200723Z"
     },
     {
-     "title": "Sismos registrados en el Perú este miércoles 14 de octubre",
-     "url": "https://elcomercio.pe/peru/temblor-hoy-en-peru-consulta-donde-ocurrio-el-ultimo-sismo-magnitud-y-reporte-segun-el-igp-tdpe-noticia/",
+     "title": "Último temblor en Perú hoy, sábado 17 de octubre: epicentro y magnitud del sismo",
+     "url": "https://elcomercio.pe/peru/ultimo-temblor-en-peru-hoy-epicentro-del-sismo-y-magnitud-ultima-hora-censis-tdpe-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261016T214918Z"
+     "seendate": "20261017T200100Z"
     }
    ]
   },
@@ -2287,10 +2287,16 @@
   "ARG": {
    "articles": [
     {
-     "title": "El PJ pidió por la libertad de Cristina Kirchner y Kicillof dijo: “Cuenten conmigo para derrotar esta pesadilla en las urnas”",
+     "title": "El PJ hizo actos divididos por el Día de la Lealtad y hubo una masiva movilización a San José 1111 por Cristina Kirchner",
      "url": "https://www.lanacion.com.ar/politica/dia-de-la-lealtad-el-pj-pidio-por-la-libertad-de-cristina-kirchner-y-el-fin-de-su-proscripcion-nid17102026/",
      "domain": "La Nación",
-     "seendate": "20261017T194033Z"
+     "seendate": "20261017T201703Z"
+    },
+    {
+     "title": "Esta es la principal causa de muerte en menores de 5 años y se puede prevenir",
+     "url": "https://www.lanacion.com.ar/sociedad/esta-es-la-principal-causa-de-muerte-en-menores-de-5-anos-y-se-puede-prevenir-nid17102026/",
+     "domain": "La Nación",
+     "seendate": "20261017T200000Z"
     },
     {
      "title": "El Merval cambia este lunes: qué se sabe sobre el nuevo índice de MSCI",
@@ -2387,12 +2393,6 @@
      "url": "https://www.lanacion.com.ar/politica/la-crisis-del-mercado-laboral-detras-de-la-revolucion-del-monotributo-nid17102026/",
      "domain": "La Nación",
      "seendate": "20261017T143615Z"
-    },
-    {
-     "title": "Los secretos de la banda narco que impuso el miedo para retrasar un desarrollo urbano a 30 minutos del Obelisco",
-     "url": "https://www.lanacion.com.ar/seguridad/los-secretos-del-senor-j-el-narco-que-impuso-el-miedo-para-retrasar-un-desarrollo-urbano-a-treinta-nid17102026/",
-     "domain": "La Nación",
-     "seendate": "20261017T141849Z"
     }
    ]
   },
@@ -2818,16 +2818,58 @@
   "BRA": {
    "articles": [
     {
-     "title": "O Brasil é nosso ? | Papo das 9 # 966",
-     "url": "https://mundosustentavel.com.br/papo-das-9-966-o-brasil-e-nosso-2/",
-     "domain": "mundosustentavel.com.br",
-     "seendate": "20261017T043000Z"
+     "title": "TSE alerta para mudança de endereço de quase 5 mil seções eleitorais",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/17/tse-alerta-para-mudanca-de-endereco-de-quase-5-mil-secoes-eleitorais.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261017T194517Z"
     },
     {
-     "title": "Guerra híbrida dos EUA contra o Brasil exige resposta na Justiça Internacional – Durval de Noronha Goyos Filho – Brasil 247",
-     "url": "https://www.brasil247.com/blog/guerra-hibrida-dos-eua-contra-o-brasil-exige-resposta-na-justica-internacional/",
-     "domain": "brasil247.com",
-     "seendate": "20261015T204500Z"
+     "title": "Fumaça por queimadas traz qualidade de ar em nível 'perigoso' em Manaus e cientista recomenda que se evite sair de casa",
+     "url": "https://oglobo.globo.com/brasil/meio-ambiente/noticia/2026/10/17/fumaca-por-queimadas-traz-qualidade-de-ar-em-nivel-perigoso-em-manaus-e-cientista-recomenda-que-se-evite-sair-de-casa.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261017T191005Z"
+    },
+    {
+     "title": "Homem é preso em SP após ameaçar com faca e manter mulher e bebê de 8 meses reféns por seis horas",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/17/homem-e-preso-em-sp-apos-ameacar-com-faca-e-manter-mulher-e-bebe-de-8-meses-refens-por-seis-horas.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261017T184846Z"
+    },
+    {
+     "title": "José Sarney recebe alta hospitalar em São Luís após nove dias internado",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/17/jose-sarney-recebe-alta-hospitalar-em-sao-luis-apos-nove-dias-internado.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261017T172928Z"
+    },
+    {
+     "title": "Presidente do PT diz que Lula quer ‘confronto direto’ e tentará ‘desmascarar’ Flávio em debate",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/17/presidente-do-pt-diz-que-lula-quer-confronto-direto-e-tentara-desmascarar-flavio-em-debate.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261017T172427Z"
+    },
+    {
+     "title": "Ex-ministros tucanos, filha de FHC e autor do pedido de impeachment de Dilma assinam carta pela democracia e declaram apoio a Lula",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/17/ex-ministros-tucanos-filha-de-fhc-e-autor-do-pedido-de-impeachment-de-dilma-assinam-carta-pela-democracia-e-declaram-apoio-a-lula.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261017T164447Z"
+    },
+    {
+     "title": "Ministério da Justiça aciona MPF no caso Meta: 'Falta transparência'",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/17/ministerio-da-justica-aciona-mpf-no-caso-meta-falta-transparencia.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261017T145520Z"
+    },
+    {
+     "title": "Governo do Paraná lamenta morte de reitor da PUC-PR em acidente durante viagem de trabalho nos EUA",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/17/governo-do-parana-lamenta-morte-de-reitor-da-puc-pr-em-acidente-durante-viagem-de-trabalho-nos-eua.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261017T120732Z"
+    },
+    {
+     "title": "Advogado denuncia 'violação' após porteiro ser detido pela PM durante panelaço contra Flávio Bolsonaro em Maceió (AL)",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/17/advogado-denuncia-violacao-apos-porteiro-ser-detido-pela-pm-durante-panelaco-contra-flavio-bolsonaro-em-maceio-al.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261017T102044Z"
     }
    ]
   }
