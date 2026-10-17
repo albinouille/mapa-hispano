@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T22:24:59+00:00",
+ "updated": "2026-10-17T22:55:22+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -121,6 +121,18 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Renuncia Rodrigo Reyes Mugüerza a Secretaría general del gobierno de Zacatecas; buscará candidatura a la capital estatal",
+     "url": "https://www.eluniversal.com.mx/estados/renuncia-rodrigo-reyes-muguerza-a-secretaria-general-del-gobierno-de-zacatecas-buscara-candidatura-a-la-capital-estatal/",
+     "domain": "El Universal",
+     "seendate": "20261017T223927Z"
+    },
+    {
+     "title": "Detienen a bombero señalado de atropellar a niño en alcaldía Magdalena Contreras; el pequeño falleció",
+     "url": "https://www.eluniversal.com.mx/metropoli/detienen-a-bombero-senalado-de-atropellar-a-nino-en-alcaldia-magdalena-contreras-el-pequeno-fallecio/",
+     "domain": "El Universal",
+     "seendate": "20261017T223352Z"
+    },
     {
      "title": "Dos trabajadores mueren y 20 resultan lesionados tras caída de camión en obras del Tren México-Querétaro; se desconocen causas del accidente",
      "url": "https://www.eluniversal.com.mx/estados/dos-trabajadores-mueren-y-20-resultan-lesionados-tras-caida-de-camion-en-obras-del-tren-mexico-queretaro-se-desconocen-causas-del-accidente/",
@@ -306,18 +318,6 @@
      "url": "https://www.eluniversal.com.mx/metropoli/toma-precauciones-estas-son-las-marchas-y-concentraciones-previstas-para-este-sabado-17-de-octubre-en-la-cdmx/",
      "domain": "El Universal",
      "seendate": "20261017T155744Z"
-    },
-    {
-     "title": "Detienen a hombre en fraccionamiento residencial de Mazatlán; aseguran 8 vehículos, dinero en efectivo y divisas extranjeras",
-     "url": "https://www.eluniversal.com.mx/nacion/detienen-a-hombre-en-fraccionamiento-residencial-de-mazatlan-aseguran-8-vehiculos-dinero-en-efectivo-y-divisas-extranjeras/",
-     "domain": "El Universal",
-     "seendate": "20261017T154438Z"
-    },
-    {
-     "title": "Frente frío deja bajas temperaturas, fuertes vientos y lluvias en Veracruz; reportan caída de árboles y postes",
-     "url": "https://www.eluniversal.com.mx/estados/frente-frio-deja-bajas-temperaturas-fuertes-vientos-y-lluvias-en-veracruz-reportan-caida-de-arboles-y-postes/",
-     "domain": "El Universal",
-     "seendate": "20261017T152123Z"
     },
     {
      "title": "Trudy se fortalece y vuelve a ser huracán categoría 2; sigue en vivo su trayectoria",
@@ -742,6 +742,12 @@
   "CRI": {
    "articles": [
     {
+     "title": "Presidente de Asociación Solidarista del Poder Judicial apelará fallo que separa a 10 directivos del cargo y denuncia ‘persecución’",
+     "url": "https://www.nacion.com/sucesos/presidente-de-asociacion-solidarista-del-poder/UMPSO432BFCULMSRIQKMNN647M/story/",
+     "domain": "La Nación",
+     "seendate": "20261017T222514Z"
+    },
+    {
      "title": "Jueza suspendida por investigación en Asosejud rechaza haber recibido créditos privilegiados",
      "url": "https://www.nacion.com/sucesos/jueza-suspendida-por-investigacion-en-asosejud/YUIZ7C4SIFCR3IXTS6SYRF3INY/story/",
      "domain": "La Nación",
@@ -890,12 +896,6 @@
      "url": "https://www.nacion.com/sucesos/implicado-en-causa-por-presunta-estafa-que/23IH5ZG5TRCI5ONSWMUFDSO7JY/story/",
      "domain": "La Nación",
      "seendate": "20261016T221626Z"
-    },
-    {
-     "title": "Fiestas de Zapote: tercer remate del campo ferial también fracasa",
-     "url": "https://www.nacion.com/el-pais/fiestas-de-zapote-tercer-remate-del-campo-ferial/UEYKHBFQSZDA3DTSRZNKKDOMRQ/story/",
-     "domain": "La Nación",
-     "seendate": "20261016T215639Z"
     }
    ]
   },
@@ -1563,7 +1563,13 @@
   "ECU": {
    "articles": [
     {
-     "title": "Gobierno ejecutó mantenimientos eléctricos en 15 provincias ante el fenómeno de El Niño",
+     "title": "Padre de los siameses de Milagro recibe ayuda económica para afrontar gastos funerarios",
+     "url": "https://eluniverso.com/comunidad/ecuador/padre-de-los-siameses-de-milagro-recibe-ayuda-economica-para-afrontar-gastos-funerarios-nota/",
+     "domain": "El Universo",
+     "seendate": "20261017T223000Z"
+    },
+    {
+     "title": "Gobierno ejecutó mantenimientos eléctricos en quince provincias ante el fenómeno de El Niño",
      "url": "https://eluniverso.com/politica/ejecutivo/gobierno-ejecuto-mantenimientos-electricos-en-15-provincias-ante-el-fenomeno-de-el-nino-nota/",
      "domain": "El Universo",
      "seendate": "20261017T215236Z"
@@ -2025,6 +2031,66 @@
   "CHL": {
    "articles": [
     {
+     "title": "Actuación lamentable : Manuel Pellegrini apuntó a arbitraje",
+     "url": "https://www.prensafutbol.cl/manuel-pellegrini-critico-arbitraje-tras-caida/",
+     "domain": "prensafutbol.cl",
+     "seendate": "20261017T213000Z"
+    },
+    {
+     "title": "Brayan Cortés titular y figura en triunfo de Argentinos Jr",
+     "url": "https://www.prensafutbol.cl/brayan-cortes-como-titular-y-figura-argentinos/",
+     "domain": "prensafutbol.cl",
+     "seendate": "20261017T213000Z"
+    },
+    {
+     "title": "Iguales rechaza presencia de sacerdote que promueve salir de la homosexualidad en Expofamily : Es dar legitimidad pública a una práctica que daña",
+     "url": "https://www.theclinic.cl/2026/10/17/iguales-rechaza-presencia-de-sacerdote-que-promueve-salir-de-la-homosexualidad-en-expofamily-es-dar-legitimidad-publica-a-una-practica-que-dana/",
+     "domain": "theclinic.cl",
+     "seendate": "20261017T210000Z"
+    },
+    {
+     "title": "Quiebre en Colo Colo : tambalea la renovación de Arturo Vidal tras disputa con Aníbal Mosa",
+     "url": "https://www.lacuarta.com/deportes/noticia/quiebre-en-colo-colo-tambalea-la-renovacion-de-arturo-vidal-tras-disputa-con-anibal-mosa/",
+     "domain": "lacuarta.com",
+     "seendate": "20261017T191500Z"
+    },
+    {
+     "title": "Retiro de cuadro conmemorativo de Salvador Allende en la OEA abre nuevo flanco en Cancillería y genera criticas en la oposición",
+     "url": "https://www.latercera.com/nacional/noticia/retiro-de-placa-conmemorativa-de-salvador-allende-en-la-oea-abre-nuevo-flanco-en-cancilleria-y-genera-criticas-en-la-oposicion/",
+     "domain": "latercera.com",
+     "seendate": "20261017T190000Z"
+    },
+    {
+     "title": "FECILS inaugura su duodécima edición con el estreno de Il Cileno y destacados invitados del cine nacional",
+     "url": "https://www.diarioeldia.cl/noticias/2026/10/17/154121-fecils-inaugura-su-duodecima-edicion-con-el-estreno-de-il-cileno-y-destacados-invitados-del-cine-nacional",
+     "domain": "diarioeldia.cl",
+     "seendate": "20261017T190000Z"
+    },
+    {
+     "title": "El implacable Barcelona de Lamine Yamal detiene el andar del Betis de Pellegrini en un duelo de alto voltaje",
+     "url": "https://www.latercera.com/el-deportivo/noticia/el-implacable-barcelona-de-lamine-yamal-detiene-el-andar-del-betis-de-pellegrini-en-un-duelo-de-alto-voltaje/",
+     "domain": "latercera.com",
+     "seendate": "20261017T190000Z"
+    },
+    {
+     "title": "Como en las primeras tocatas : Santa Feria regresa a La Serena",
+     "url": "https://www.diarioeldia.cl/noticias/2026/10/17/154127-como-en-las-primeras-tocatas-santa-feria-regresa-a-la-serena",
+     "domain": "diarioeldia.cl",
+     "seendate": "20261017T190000Z"
+    },
+    {
+     "title": "Kast aborda libertad condicional de Patricio Maturana",
+     "url": "https://www.24horas.cl/actualidad/politica/presidente-kast-por-libertad-condicional-de-patricio-maturana",
+     "domain": "24horas.cl",
+     "seendate": "20261017T190000Z"
+    },
+    {
+     "title": "Casi 4 , 6 kilos de cocaína en sus mochilas : las penas que enfrentan dos chilenos detenidos en Indonesia",
+     "url": "https://www.eldinamo.cl/mundo/2026/10/17/casi-46-kilos-de-cocaina-en-sus-mochilas-las-penas-que-enfrentan-dos-chilenos-detenidos-en-indonesia/",
+     "domain": "eldinamo.cl",
+     "seendate": "20261017T183000Z"
+    },
+    {
      "title": "Paris Beauty 2026 : Evento de belleza reunirá a 10 mil asistentes y más de 80 marcas",
      "url": "https://www.chilevision.cl/noticias/tendencias/paris-beauty-2026-evento-de-belleza-reunira-a-10-mil-asistentes-y-mas-de-80-marcas/",
      "domain": "chilevision.cl",
@@ -2323,66 +2389,6 @@
      "url": "https://www.elmostrador.cl/noticias/pais/2026/10/17/nicolas-somma-y-el-18-o-define-el-comienzo-de-una-nueva-era-para-chile/",
      "domain": "elmostrador.cl",
      "seendate": "20261017T103000Z"
-    },
-    {
-     "title": "DOS MÁS UNO LLEGA A PUNTA ARENAS CON SU GIRA TRASANDINA 2026",
-     "url": "https://www.radiopolar.com/llega-punta-arenas-gira-trasandina-2026",
-     "domain": "radiopolar.com",
-     "seendate": "20261017T103000Z"
-    },
-    {
-     "title": "SERPAT MAGALLANES ABRE INSCRIPCIONES PARA SU CONSEJO DE LA SOCIEDAD CIVIL 2026 - 2030",
-     "url": "https://www.radiopolar.com/serpat-magallanes-abre-inscripciones-consejo-sociedad-civil-2026-2030",
-     "domain": "radiopolar.com",
-     "seendate": "20261017T103000Z"
-    },
-    {
-     "title": "Detienen en Macul a sujeto vinculado a homicidio con arma de fuego",
-     "url": "https://www.24horas.cl/actualidad/nacional/detienen-en-macul-a-sujeto-vinculado-a-homicidio-con-arma-de-fuego",
-     "domain": "24horas.cl",
-     "seendate": "20261017T091500Z"
-    },
-    {
-     "title": "Las repercusiones en la prensa argentina por los dichos de Poduje contra Milei : inesperado ataque y fuerte exabrupto",
-     "url": "https://www.t13.cl/noticia/mundo/las-repercusiones-prensa-argentina-por-dichos-poduje-contra-milei-inesperado-at-17-10-2026",
-     "domain": "t13.cl",
-     "seendate": "20261017T091500Z"
-    },
-    {
-     "title": "Ricardo García Posadas , Maguindo Castillo Andrade y Benito de los Santos Tapia",
-     "url": "https://www.elclarin.cl/2026/10/17/otro-18-de-octubre/",
-     "domain": "elclarin.cl",
-     "seendate": "20261017T081500Z"
-    },
-    {
-     "title": "Obra Vale la pena seguir en GAM",
-     "url": "https://www.elmostrador.cl/cultura/agenda/2026/10/17/obra-vale-la-pena-seguir-en-gam/",
-     "domain": "elmostrador.cl",
-     "seendate": "20261017T080000Z"
-    },
-    {
-     "title": "¿ Podría Miguel Ángel postular El David al Fondart ?",
-     "url": "https://www.elmostrador.cl/cultura/critica-opinion/2026/10/17/podria-miguel-angel-postular-el-david-al-fondart/",
-     "domain": "elmostrador.cl",
-     "seendate": "20261017T080000Z"
-    },
-    {
-     "title": "Histórico Encuentro Entre Kast Y Paz Abre Nueva Etapa Entre Chile Y Bolivia Tras 71 Años",
-     "url": "https://diariolongino.cl/historico-encuentro-entre-kast-y-paz-abre-nueva-etapa-entre-chile-y-bolivia-tras-71-anos/",
-     "domain": "diariolongino.cl",
-     "seendate": "20261017T071500Z"
-    },
-    {
-     "title": "Concesiones : Ganar - ganar Con Más Transparencia Y Equidad",
-     "url": "https://diariolongino.cl/concesiones-ganar-ganar-con-mas-transparencia-y-equidad/",
-     "domain": "diariolongino.cl",
-     "seendate": "20261017T071500Z"
-    },
-    {
-     "title": "Presidente De Bolivia Compromete No Regularizar Vehículos Robados En Chile Tras Planteamiento Del Gobernador Carvajal",
-     "url": "https://diariolongino.cl/presidente-de-bolivia-compromete-no-regularizar-vehiculos-robados-en-chile-tras-planteamiento-del-gobernador-carvajal/",
-     "domain": "diariolongino.cl",
-     "seendate": "20261017T071500Z"
     }
    ]
   },
