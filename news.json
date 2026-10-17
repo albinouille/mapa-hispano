@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T17:24:41+00:00",
+ "updated": "2026-10-17T17:54:42+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -116,6 +116,18 @@
   "MEX": {
    "articles": [
     {
+     "title": "Huracán Trudy avanza hacia Jalisco y Colima; pronostican lluvias torrenciales, fuerte oleaje y mayor fuerza",
+     "url": "https://www.eluniversal.com.mx/estados/huracan-trudy-avanza-hacia-jalisco-y-colima-pronostican-lluvias-torrenciales-fuerte-oleaje-y-mayor-fuerza/",
+     "domain": "El Universal",
+     "seendate": "20261017T174114Z"
+    },
+    {
+     "title": "Sheinbaum pide estar atentos a efectos del huracán Trudy; prevén lluvias en Colima, Michoacán, Jalisco, Nayarit y Guerrero",
+     "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-pide-estar-atentos-a-efectos-del-huracan-trudy-preven-lluvias-en-colima-michoacan-jalisco-nayarit-y-guerrero/",
+     "domain": "El Universal",
+     "seendate": "20261017T171825Z"
+    },
+    {
      "title": "Tráiler se queda sin frenos y arrastra media docena de vehículos en Chiapas; reportan un muerto y varios lesionados",
      "url": "https://www.eluniversal.com.mx/estados/trailer-se-queda-sin-frenos-y-arrastra-media-docena-de-vehiculos-en-chiapas-reportan-un-muerto-y-varios-lesionados/",
      "domain": "El Universal",
@@ -212,12 +224,6 @@
      "seendate": "20261017T070508Z"
     },
     {
-     "title": "Sheinbaum supervisa construcción de dos hospitales en Campeche; conversa con pacientes y personal de salud",
-     "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-supervisa-construccion-de-dos-hospitales-en-de-hospitales-campeche-conversa-con-pacientes-y-personal-de-salud/",
-     "domain": "El Universal",
-     "seendate": "20261017T050250Z"
-    },
-    {
      "title": "Trudy se degrada a huracán categoría 1; sigue en vivo su trayectoria",
      "url": "https://www.eluniversal.com.mx/estados/trudy-se-mantiene-como-huracan-categoria-3-sigue-en-vivo-su-trayectoria/",
      "domain": "El Universal",
@@ -291,6 +297,24 @@
   },
   "HND": {
    "articles": [
+    {
+     "title": "Tengo la prueba : Pinto destapa robo en Concacaf y su pelea con Bolillo Gómez",
+     "url": "https://www.diez.hn/centroamerica/tengo-la-prueba-pinto-destapa-robo-concacaf-pelea-bolillo-gomez-EH32352996",
+     "domain": "diez.hn",
+     "seendate": "20261017T161500Z"
+    },
+    {
+     "title": "Enfermos huyendo de Honduras hacia El Salvador",
+     "url": "https://www.laprensa.hn/opinion/columnas/enfermos-huyendo-de-honduras-hacia-el-salvador-HG32344030",
+     "domain": "laprensa.hn",
+     "seendate": "20261017T103000Z"
+    },
+    {
+     "title": "La economía llega a casa",
+     "url": "http://www.laprensa.hn/opinion/columnas/la-economia-llega-a-casa-MG32344190",
+     "domain": "laprensa.hn",
+     "seendate": "20261017T103000Z"
+    },
     {
      "title": "Compromiso contra el hambre : Casa Presidencial se ilumina de azul en el Día Mundial de la Alimentación para urgir sistemas agrícolas sostenibles",
      "url": "https://abriendobrecha.tv/nacionales/compromiso-contra-el-hambre-casa-presidencial-se-ilumina-de-azul-en-el-dia-mundial-de-la-alimentacion-para-urgir-sistemas-agricolas-sostenibles/",
@@ -776,6 +800,12 @@
   "PAN": {
    "articles": [
     {
+     "title": "Influencer denuncia intimidación policial durante protesta pacífica en Santiago",
+     "url": "https://www.prensa.com/politica/influencer-denuncia-presunta-intimidacion-policial-durante-protesta-pacifica-en-santiago/",
+     "domain": "La Prensa",
+     "seendate": "20261017T172902Z"
+    },
+    {
      "title": "Minsa confirma que sube a 37 los casos de malaria en trabajadores informales que frecuentan Merca Panamá",
      "url": "https://www.prensa.com/sociedad/minsa-confirma-que-sube-a-37-los-casos-de-malaria-en-trabajadores-informales-que-frecuentan-merca-panama/",
      "domain": "La Prensa",
@@ -912,6 +942,12 @@
   "CUB": {
    "articles": [
     {
+     "title": "La Habana protesta porque EE UU utilizará la ONU para denunciar la represión en la Isla",
+     "url": "https://www.14ymedio.com/cuba/habana-protesta-ee-uu-utilizara_1_1132090.html",
+     "domain": "14ymedio",
+     "seendate": "20261017T173112Z"
+    },
+    {
      "title": "En Guantánamo se han robado hasta los paneles solares de la funeraria",
      "url": "https://www.14ymedio.com/cuba/guantanamo-han-robado-paneles-solares_1_1132086.html",
      "domain": "14ymedio",
@@ -994,12 +1030,6 @@
      "url": "https://www.14ymedio.com/cuba/llamarlo-carniceria-decir_1_1132001.html",
      "domain": "14ymedio",
      "seendate": "20261015T204951Z"
-    },
-    {
-     "title": "La Cancillería cubana, muy preocupada por la campaña de EE UU contra la resolución sobre el embargo en la ONU",
-     "url": "https://www.14ymedio.com/cuba/cancilleria-cubana-preocupada-campana-ee_1_1131965.html",
-     "domain": "14ymedio",
-     "seendate": "20261015T101355Z"
     },
     {
      "title": "\"Abajo los Castros\", un cartel contra el régimen en un sector de la Policía en Guanabacoa",
@@ -1419,6 +1449,12 @@
   "ECU": {
    "articles": [
     {
+     "title": "Ministerio del Interior reporta incautación de cocaína en Esmeraldas y destrucción de 6,2 toneladas de droga",
+     "url": "https://eluniverso.com/politica/seguridad/ministerio-del-interior-reporta-incautacion-de-cocaina-en-esmeraldas-y-destruccion-de-62-toneladas-de-droga-nota/",
+     "domain": "El Universo",
+     "seendate": "20261017T173904Z"
+    },
+    {
      "title": "Operativo militar en Posorja deja cinco detenidos tras hallazgo de restos humanos",
      "url": "https://eluniverso.com/politica/seguridad/operativo-militar-en-posorja-cinco-detenidos-tras-hallazgos-de-restos-humanos-nota/",
      "domain": "El Universo",
@@ -1521,18 +1557,6 @@
      "seendate": "20261017T004858Z"
     },
     {
-     "title": "Prisión preventiva para cuatro supuestos miembros de célula de Comandos de Frontera vinculados a crímenes en Ecuador",
-     "url": "https://eluniverso.com/politica/seguridad/prision-preventiva-para-cuatro-supuestos-miembros-de-celula-de-comandos-de-frontera-vinculados-a-crimenes-en-ecuador-nota/",
-     "domain": "El Universo",
-     "seendate": "20261016T225052Z"
-    },
-    {
-     "title": "Preocupación y dudas entre candidatos al Consejo de Participación Ciudadana por las reglas de la campaña electoral",
-     "url": "https://eluniverso.com/politica/elecciones/elecciones-seccionales-2027-consejo-de-participacion-ciudadana-campanas-electorales-consejo-nacional-electoral-nota/",
-     "domain": "El Universo",
-     "seendate": "20261016T221000Z"
-    },
-    {
      "title": "Shyare Andrade será embajadora de turismo de Portoviejo",
      "url": "https://eluniverso.com/comunidad/ecuador/shyare-andrade-seguidores-la-esperan-bajo-la-lluvia-en-portoviejo-nota/",
      "domain": "El Universo",
@@ -1543,40 +1567,10 @@
   "PER": {
    "articles": [
     {
-     "title": "SNP, Produce e Imarpe suscriben convenio de cooperación para una pesca más sostenible",
-     "url": "https://elcomercio.pe/economia/peru/snp-produce-e-imarpe-suscriben-convenio-de-cooperacion-para-una-pesca-mas-sostenible-l-ultimas-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261016T163014Z"
-    },
-    {
-     "title": "Fenómeno El Niño: Keiko Fujimori inspecciona obras de prevención ante inundaciones y huaicos en Piura y La Libertad",
-     "url": "https://elcomercio.pe/peru/piura/fenomeno-el-nino-keiko-fujimori-inspecciona-obras-de-prevencion-ante-inundaciones-y-huaicos-en-piura-y-la-libertad-ultimas-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261016T162316Z"
-    },
-    {
-     "title": "Temblor hoy, viernes 16 de octubre: dónde ocurrió el último sismo y magnitud",
+     "title": "Sismos registrados en el Perú este miércoles 14 de octubre",
      "url": "https://elcomercio.pe/peru/temblor-hoy-en-peru-consulta-donde-ocurrio-el-ultimo-sismo-magnitud-y-reporte-segun-el-igp-tdpe-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261016T161954Z"
-    },
-    {
-     "title": "PBI se desacelera en agosto: ¿qué frenó el crecimiento y cuáles son los riesgos para el cierre del año?",
-     "url": "https://elcomercio.pe/economia/peru/pbi-se-desacelera-en-agosto-que-freno-el-crecimiento-y-cuales-son-los-riesgos-para-el-cierre-del-ano-economia-peruana-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261016T154000Z"
-    },
-    {
-     "title": "El dólar abre a la baja en S/3,42 ante debilitamiento de la divisa estadounidense",
-     "url": "https://elcomercio.pe/economia/peru/el-dolar-abre-a-la-baja-en-s342-ante-debilitamiento-de-la-divisa-estadounidense-l-cotizacion-del-dolar-l-ultimas-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261016T153831Z"
-    },
-    {
-     "title": "INEI: producción nacional presenta un crecimiento de 3,23% en agosto del 2026",
-     "url": "https://elcomercio.pe/economia/peru/inei-produccion-nacional-presenta-un-crecimiento-de-323-en-agosto-del-2026-l-ultimas-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261016T145349Z"
+     "seendate": "20261016T214918Z"
     }
    ]
   },
@@ -2251,10 +2245,10 @@
   "ARG": {
    "articles": [
     {
-     "title": "El PJ pidió por la libertad de Cristina y Kicillof dijo: “Cuenten conmigo para derrotar esta pesadilla en las urnas”",
+     "title": "El PJ pidió por la libertad de Cristina Kirchner y Kicillof dijo: “Cuenten conmigo para derrotar esta pesadilla en las urnas”",
      "url": "https://www.lanacion.com.ar/politica/dia-de-la-lealtad-el-pj-pidio-por-la-libertad-de-cristina-kirchner-y-el-fin-de-su-proscripcion-nid17102026/",
      "domain": "La Nación",
-     "seendate": "20261017T165937Z"
+     "seendate": "20261017T175208Z"
     },
     {
      "title": "Quién es Gustavo Kumiega, el ginecólogo chaqueño detenido por abuso sexual y mala praxis",
@@ -2345,18 +2339,6 @@
      "url": "https://www.lanacion.com.ar/economia/campo/por-que-la-soja-es-la-cenicienta-del-sistema-y-la-argentina-no-aprovecha-una-tendencia-favorable-nid17102026/",
      "domain": "La Nación",
      "seendate": "20261017T110000Z"
-    },
-    {
-     "title": "Los intendentes del PJ que afrontarán un recambio inédito si es que la ley de reelecciones no se revierte",
-     "url": "https://www.lanacion.com.ar/politica/los-intendentes-del-pj-que-afrontaran-un-recambio-inedito-si-es-que-la-ley-de-reelecciones-no-se-nid17102026/",
-     "domain": "La Nación",
-     "seendate": "20261017T105858Z"
-    },
-    {
-     "title": "Dólar hoy y dólar blue hoy: a cuánto cotiza este sábado 17 de octubre",
-     "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-hoy-a-cuanto-cotiza-este-sabado-17-de-octubre-nid17102026/",
-     "domain": "La Nación",
-     "seendate": "20261017T100200Z"
     }
    ]
   },
@@ -2763,18 +2745,6 @@
      "seendate": "20261017T153606Z"
     },
     {
-     "title": "La Espada de San Miguel se despide de Paraguay: ¿dónde y a qué hora será la última celebración?",
-     "url": "https://www.abc.com.py/nacionales/2026/10/17/la-espada-de-san-miguel-se-despide-de-paraguay-donde-y-a-que-hora-sera-la-ultima-celebracion/",
-     "domain": "ABC Color",
-     "seendate": "20261017T143800Z"
-    },
-    {
-     "title": "Suena Pedro Juan Caballero: llegaron las delegaciones y se alistan para megaconcierto",
-     "url": "https://www.abc.com.py/nacionales/2026/10/17/suena-pedro-juan-caballero-llegaron-las-delegaciones-y-se-alistan-para-megaconcierto/",
-     "domain": "ABC Color",
-     "seendate": "20261017T143215Z"
-    },
-    {
      "title": "¿Nuevos cardenales para Paraguay en 2027? Esto aclaró la Arquidiócesis",
      "url": "https://www.abc.com.py/nacionales/2026/10/17/nuevos-cardenales-para-paraguay-en-2027-esto-aclaro-la-arquidiocesis/",
      "domain": "ABC Color",
@@ -2788,16 +2758,46 @@
   "BRA": {
    "articles": [
     {
-     "title": "O Brasil é nosso ? | Papo das 9 # 966",
-     "url": "https://mundosustentavel.com.br/papo-das-9-966-o-brasil-e-nosso-2/",
-     "domain": "mundosustentavel.com.br",
-     "seendate": "20261017T043000Z"
+     "title": "José Sarney recebe alta hospitalar em São Luís após nove dias internado",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/17/jose-sarney-recebe-alta-hospitalar-em-sao-luis-apos-nove-dias-internado.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261017T172928Z"
     },
     {
-     "title": "Guerra híbrida dos EUA contra o Brasil exige resposta na Justiça Internacional – Durval de Noronha Goyos Filho – Brasil 247",
-     "url": "https://www.brasil247.com/blog/guerra-hibrida-dos-eua-contra-o-brasil-exige-resposta-na-justica-internacional/",
-     "domain": "brasil247.com",
-     "seendate": "20261015T204500Z"
+     "title": "Presidente do PT diz que Lula quer ‘confronto direto’ e tentará ‘desmascarar’ Flávio em debate",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/17/presidente-do-pt-diz-que-lula-quer-confronto-direto-e-tentara-desmascarar-flavio-em-debate.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261017T172427Z"
+    },
+    {
+     "title": "Ex-ministros tucanos, filha de FHC e autor do pedido de impeachment de Dilma assinam carta pela democracia e declaram apoio a Lula",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/17/ex-ministros-tucanos-filha-de-fhc-e-autor-do-pedido-de-impeachment-de-dilma-assinam-carta-pela-democracia-e-declaram-apoio-a-lula.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261017T164447Z"
+    },
+    {
+     "title": "Ministério da Justiça aciona MPF no caso Meta: 'Falta transparência'",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/17/ministerio-da-justica-aciona-mpf-no-caso-meta-falta-transparencia.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261017T145520Z"
+    },
+    {
+     "title": "Governo do Paraná lamenta morte de reitor da PUC-PR em acidente durante viagem de trabalho nos EUA",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/17/governo-do-parana-lamenta-morte-de-reitor-da-puc-pr-em-acidente-durante-viagem-de-trabalho-nos-eua.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261017T120732Z"
+    },
+    {
+     "title": "Advogado denuncia 'violação' após porteiro ser detido pela PM durante panelaço contra Flávio Bolsonaro em Maceió (AL)",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/17/advogado-denuncia-violacao-apos-porteiro-ser-detido-pela-pm-durante-panelaco-contra-flavio-bolsonaro-em-maceio-al.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261017T102044Z"
+    },
+    {
+     "title": "Quem é Jéssica Fazendeira, personagem criada por IA que levou pedreiro a viajar 2,1 mil km do Maranhão a Minas",
+     "url": "https://oglobo.globo.com/brasil/post/2026/10/quem-e-jessica-fazendeira-personagem-criada-por-ia-que-levou-pedreiro-a-viajar-21-mil-km-ate-o-maranhao.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261017T070000Z"
     }
    ]
   }
