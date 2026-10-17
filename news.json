@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T14:24:50+00:00",
+ "updated": "2026-10-17T14:57:34+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -7,7 +7,13 @@
      "title": "Última hora de la actualidad política, en directo | García Albiol será el candidato del PP al Congreso por Barcelona",
      "url": "https://elpais.com/espana/2026-10-17/ultima-hora-de-la-actualidad-politica-en-directo.html",
      "domain": "El País",
-     "seendate": "20261017T140700Z"
+     "seendate": "20261017T143936Z"
+    },
+    {
+     "title": "Cataluña y la Comunidad Valenciana envían mensajes de alerta a la población por riesgo de lluvias torrenciales",
+     "url": "https://elpais.com/espana/2026-10-17/emergencias-envia-mensajes-de-alerta-por-lluvias-a-la-poblacion-de-valencia-y-alicante.html",
+     "domain": "El País",
+     "seendate": "20261017T134850Z"
     },
     {
      "title": "Frente Amplio pasa página del pacto fallido con Podemos: “Se acabó el tiempo de unir a los partidos, hay que unir a la gente”",
@@ -52,14 +58,14 @@
      "seendate": "20261017T033001Z"
     },
     {
-     "title": "El desencuentro entre Rufián y Frente Amplio reabre viejas heridas entre ERC y Comuns",
-     "url": "https://elpais.com/espana/catalunya/2026-10-17/el-desencuentro-entre-rufian-y-frente-amplio-reabre-viejas-heridas-entre-erc-y-comuns.html",
+     "title": "La cruz de Gal·la Placídia",
+     "url": "https://elpais.com/espana/catalunya/2026-10-17/la-cruz-de-galla-placidia.html",
      "domain": "El País",
      "seendate": "20261017T033001Z"
     },
     {
-     "title": "La cruz de Gal·la Placídia",
-     "url": "https://elpais.com/espana/catalunya/2026-10-17/la-cruz-de-galla-placidia.html",
+     "title": "El desencuentro entre Rufián y Frente Amplio reabre viejas heridas entre ERC y Comuns",
+     "url": "https://elpais.com/espana/catalunya/2026-10-17/el-desencuentro-entre-rufian-y-frente-amplio-reabre-viejas-heridas-entre-erc-y-comuns.html",
      "domain": "El País",
      "seendate": "20261017T033001Z"
     },
@@ -115,6 +121,12 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Sismo de 5.1 grados sacude Ciudad Hidalgo, Chiapas; no se reportan afectaciones",
+     "url": "https://www.eluniversal.com.mx/estados/sismo-de-51-grados-sacude-ciudad-hidalgo-chiapas-no-se-reportan-afectaciones/",
+     "domain": "El Universal",
+     "seendate": "20261017T144819Z"
+    },
     {
      "title": "Emiten alerta por posible caso de fiebre aftosa en ganado mexicano; esperan resultados para reanudar exportaciones",
      "url": "https://www.eluniversal.com.mx/nacion/emiten-alerta-por-posible-caso-de-fiebre-aftosa-en-ganado-mexicano-esperan-resultados-para-reanudar-exportaciones/",
@@ -236,34 +248,10 @@
      "seendate": "20261017T014756Z"
     },
     {
-     "title": "Agricultura atiende caso de becerro con aftas en Sonora; pide hacer revisiones cuidadosas hasta que se descarte fiebre aftosa",
-     "url": "https://www.eluniversal.com.mx/nacion/agricultura-atiende-caso-de-becerro-con-aftas-en-sonora-pide-hacer-revisiones-cuidadosas-hasta-que-se-descarte-fiebre-aftosa/",
-     "domain": "El Universal",
-     "seendate": "20261017T012733Z"
-    },
-    {
-     "title": "Vinculan a proceso a cuatro detenidos en manifestación por agua limpia en Guadalajara; los acusan de lesiones y resistencia de particulares",
-     "url": "https://www.eluniversal.com.mx/estados/vinculan-a-proceso-a-cuatro-detenidos-en-manifestacion-por-agua-limpia-en-guadalajara-los-acusan-de-lesiones-y-resistencia-de-particulares/",
-     "domain": "El Universal",
-     "seendate": "20261017T012700Z"
-    },
-    {
-     "title": "Dan golpe a heredero de \"El Mencho\"; cae \"El Ingeniero\", quien diseñaba y construía túneles para el CJNG de México a EU",
-     "url": "https://www.eluniversal.com.mx/nacion/dan-golpe-al-heredero-de-el-mencho-cae-el-ingeniero-quien-disenaba-y-construia-tuneles-para-el-cjng-de-mexico-a-eu/",
-     "domain": "El Universal",
-     "seendate": "20261017T012042Z"
-    },
-    {
      "title": "Consejo Coordinador Empresarial del Caribe advierte sobre alza al DNR; puede afectar empleo e inversión en Quintana Roo, señala",
      "url": "https://www.eluniversal.com.mx/estados/consejo-coordinador-empresarial-del-caribe-advierte-sobre-alza-al-dnr-puede-afectar-empleo-e-inversion-en-quintana-roo-senala/",
      "domain": "El Universal",
      "seendate": "20261017T010350Z"
-    },
-    {
-     "title": "Sindicato de burócratas de Yucatán exige mejoras laborales; espera resolución favorable, dice",
-     "url": "https://www.eluniversal.com.mx/estados/sindicato-de-burocratas-de-yucatan-exige-mejoras-laborales-espera-resolucion-favorable-dice/",
-     "domain": "El Universal",
-     "seendate": "20261017T005638Z"
     },
     {
      "title": "Trudy se degrada a huracán categoría 1; sigue en vivo su trayectoria",
@@ -954,6 +942,12 @@
   "CUB": {
    "articles": [
     {
+     "title": "En las paradas de Matanzas ya no faltan los triciclos, sino los pasajeros que puedan pagar",
+     "url": "https://www.14ymedio.com/cuba/paradas-matanzas-no-faltan-triciclos_1_1132071.html",
+     "domain": "14ymedio",
+     "seendate": "20261017T144317Z"
+    },
+    {
      "title": "El automóvil como un enfermo crónico",
      "url": "https://www.14ymedio.com/cuba/automovil-enfermo-cronico_1_1132056.html",
      "domain": "14ymedio",
@@ -1449,6 +1443,12 @@
   "ECU": {
    "articles": [
     {
+     "title": "Pabel Muñoz y Rafael Correa vuelven a chocar por acercamientos del alcalde con personas ajenas al correísmo",
+     "url": "https://eluniverso.com/politica/elecciones/pabel-munoz-y-rafael-correa-vuelven-a-chocar-por-acercamientos-fuera-del-correismo-nota/",
+     "domain": "El Universo",
+     "seendate": "20261017T143207Z"
+    },
+    {
      "title": "Paquetes de ayuda humanitaria llegan a 312 familias afectadas por las lluvias en cinco provincias",
      "url": "https://eluniverso.com/comunidad/ecuador/paquetes-de-ayuda-humanitaria-llegan-a-312-familias-afectadas-por-las-lluvias-en-cinco-provincias-nota/",
      "domain": "El Universo",
@@ -1585,12 +1585,6 @@
      "url": "https://eluniverso.com/politica/seguridad/dos-policias-y-un-presunto-integrante-de-la-cte-procesados-por-robo-de-camion-con-cacao-en-guayas-nota/",
      "domain": "El Universo",
      "seendate": "20261016T194945Z"
-    },
-    {
-     "title": "Xavier Jordán sigue detenido en Estados Unidos a la espera de su deportación, según ministro del Interior",
-     "url": "https://eluniverso.com/politica/expedientes/xavier-jordan-sigue-detenido-en-estados-unidos-a-la-espera-de-su-deportacion-segun-ministro-del-interior-nota/",
-     "domain": "El Universo",
-     "seendate": "20261016T135308Z"
     },
     {
      "title": "Pedro Medina, candidato a la Alcaldía de Guayaquil por la alianza 4-12-20: ‘Se necesita un municipio que esté atento a las personas, que escuche el requerimiento y que resuelva’",
@@ -2317,6 +2311,24 @@
   "ARG": {
    "articles": [
     {
+     "title": "La crisis del mercado laboral detrás de la revolución del monotributo",
+     "url": "https://www.lanacion.com.ar/politica/la-crisis-del-mercado-laboral-detras-de-la-revolucion-del-monotributo-nid17102026/",
+     "domain": "La Nación",
+     "seendate": "20261017T143615Z"
+    },
+    {
+     "title": "Qué es la Púrpura Trombocitopénica Idiopática, la enfermedad de la ex Gran Hermano Denisse González, explicada por una hematóloga",
+     "url": "https://www.lanacion.com.ar/sociedad/que-es-el-trastorno-de-purpura-trombocitopenica-idiopatica-la-enfermedad-de-denisse-gonzalez-nid15102026/",
+     "domain": "La Nación",
+     "seendate": "20261017T142355Z"
+    },
+    {
+     "title": "Los secretos de la banda narco que impuso el miedo para retrasar un desarrollo urbano a 30 minutos del Obelisco",
+     "url": "https://www.lanacion.com.ar/seguridad/los-secretos-del-senor-j-el-narco-que-impuso-el-miedo-para-retrasar-un-desarrollo-urbano-a-treinta-nid17102026/",
+     "domain": "La Nación",
+     "seendate": "20261017T141849Z"
+    },
+    {
      "title": "La Sociedad Rural se sumó al masivo repudio contra el fallo que absolvió a los sindicalistas que bloquearon San Nicolás",
      "url": "https://www.lanacion.com.ar/politica/la-sociedad-rural-se-sumo-al-masivo-repudio-contra-el-fallo-que-absolvio-a-los-sindicalistas-que-nid17102026/",
      "domain": "La Nación",
@@ -2341,12 +2353,6 @@
      "seendate": "20261017T115029Z"
     },
     {
-     "title": "Los secretos del Señor J, el narco que impuso el miedo para retrasar un desarrollo urbano a treinta minutos del Obelisco",
-     "url": "https://www.lanacion.com.ar/seguridad/los-secretos-del-senor-j-el-narco-que-impuso-el-miedo-para-retrasar-un-desarrollo-urbano-a-treinta-nid17102026/",
-     "domain": "La Nación",
-     "seendate": "20261017T110000Z"
-    },
-    {
      "title": "Por qué la soja es la Cenicienta del sistema y la Argentina no aprovecha una tendencia favorable",
      "url": "https://www.lanacion.com.ar/economia/campo/por-que-la-soja-es-la-cenicienta-del-sistema-y-la-argentina-no-aprovecha-una-tendencia-favorable-nid17102026/",
      "domain": "La Nación",
@@ -2357,12 +2363,6 @@
      "url": "https://www.lanacion.com.ar/politica/los-intendentes-del-pj-que-afrontaran-un-recambio-inedito-si-es-que-la-ley-de-reelecciones-no-se-nid17102026/",
      "domain": "La Nación",
      "seendate": "20261017T105858Z"
-    },
-    {
-     "title": "La crisis del mercado laboral detrás de la revolución del monotributo",
-     "url": "https://www.lanacion.com.ar/politica/la-crisis-del-mercado-laboral-detras-de-la-revolucion-del-monotributo-nid17102026/",
-     "domain": "La Nación",
-     "seendate": "20261017T105817Z"
     },
     {
      "title": "Dólar hoy y dólar blue hoy: a cuánto cotiza este sábado 17 de octubre",
@@ -2441,23 +2441,71 @@
      "url": "https://www.lanacion.com.ar/sociedad/se-aproxima-un-fenomeno-que-pondra-fin-a-un-periodo-de-diez-dias-consecutivos-de-lluvias-y-provocara-nid17102026/",
      "domain": "La Nación",
      "seendate": "20261017T080000Z"
-    },
-    {
-     "title": "Deborah Bellota, psicóloga, sobre el hijo preferido: “No tiene que ver con el amor”",
-     "url": "https://www.lanacion.com.ar/sociedad/deborah-bellota-psicologa-sobre-el-hijo-preferido-no-tiene-que-ver-con-el-amor-nid17102026/",
-     "domain": "La Nación",
-     "seendate": "20261017T060000Z"
-    },
-    {
-     "title": "Mauricio Macri apoyó a Santiago Passaglia con un mensaje en redes sociales y después borró el posteo",
-     "url": "https://www.lanacion.com.ar/politica/mauricio-macri-apoyo-a-santiago-passaglia-con-un-mensaje-en-redes-sociales-y-despues-borro-el-posteo-nid17102026/",
-     "domain": "La Nación",
-     "seendate": "20261017T050922Z"
     }
    ]
   },
   "URY": {
    "articles": [
+    {
+     "title": "Retiro anticipado a los 60 años : qué dice el proyecto de ley que se envió al Parlamento",
+     "url": "https://www.carasycaretas.com.uy/politica/retiro-anticipado-los-60-anos-que-dice-el-proyecto-ley-que-se-envio-al-parlamento-n100249",
+     "domain": "carasycaretas.com.uy",
+     "seendate": "20261017T134500Z"
+    },
+    {
+     "title": "Alerta Amber : se busca a una adolescente de 15 años ausente de su hogar en Paysandú",
+     "url": "https://www.elpais.com.uy/informacion/policiales/alerta-amber-se-busca-a-una-adolescente-de-15-anos-ausente-de-su-hogar-en-paysandu",
+     "domain": "elpais.com.uy",
+     "seendate": "20261017T134500Z"
+    },
+    {
+     "title": "Progreso 0 - 0 Juventud en vivo por el Torneo Clausura : el Gaucho busca tres puntos claves por la permanencia",
+     "url": "https://www.elpais.com.uy/ovacion/futbol/progreso-vs-juventud-en-vivo-por-el-torneo-clausura-el-gaucho-busca-tres-puntos-claves-por-la-permanencia",
+     "domain": "elpais.com.uy",
+     "seendate": "20261017T134500Z"
+    },
+    {
+     "title": "Bruno Mori : Nacional tiene alrededor de 280 niños y seguimos trabajando para crecer",
+     "url": "https://www.diariocambio.com.uy/bruno-mori-nacional-tiene-alrededor-de-280-ninos-y-seguimos-trabajando-para-crecer",
+     "domain": "diariocambio.com.uy",
+     "seendate": "20261017T121500Z"
+    },
+    {
+     "title": "Fortalecen lazos institucionales entre la Jefatura de Salto y Embajada de Rumania",
+     "url": "https://www.diariocambio.com.uy/fortalecen-lazos-institucionales-entre-la-jefatura-de-salto-y-embajada-de-rumania",
+     "domain": "diariocambio.com.uy",
+     "seendate": "20261017T121500Z"
+    },
+    {
+     "title": "Incautaciones cercanas a los $700 . 000 en procedimientos en el puente de Salto Grande",
+     "url": "https://www.diariocambio.com.uy/incautaciones-cercanas-los-700000-en-procedimientos-en-el-puente-de-salto-grande",
+     "domain": "diariocambio.com.uy",
+     "seendate": "20261017T121500Z"
+    },
+    {
+     "title": "Salto Uruguay superó a Universitario en la cancha y en las posiciones",
+     "url": "https://www.diariocambio.com.uy/salto-uruguay-supero-universitario-en-la-cancha-y-en-las-posiciones",
+     "domain": "diariocambio.com.uy",
+     "seendate": "20261017T121500Z"
+    },
+    {
+     "title": "Cárcel : Más de 500 presos , hacinamiento y lucha constante por cupos de rehabilitación",
+     "url": "https://www.diariocambio.com.uy/carcel-mas-de-500-presos-hacinamiento-y-lucha-constante-por-cupos-de-rehabilitacion",
+     "domain": "diariocambio.com.uy",
+     "seendate": "20261017T121500Z"
+    },
+    {
+     "title": "Llamadas 2027 : habrá cortes y desvíos de tránsito por la Prueba de Admisión",
+     "url": "https://www.diariocambio.com.uy/llamadas-2027-habra-cortes-y-desvios-de-transito-por-la-prueba-de-admision",
+     "domain": "diariocambio.com.uy",
+     "seendate": "20261017T121500Z"
+    },
+    {
+     "title": "La nube no flota : el poder de las grandes tecnológicas tiene límites y Uruguay puede aprovecharlos , asegura experto chileno | la diaria",
+     "url": "https://ladiaria.com.uy/futuro/articulo/2026/10/la-nube-no-flota-el-poder-de-las-grandes-tecnologicas-tiene-limites-y-uruguay-puede-aprovecharlos-asegura-experto-chileno/",
+     "domain": "ladiaria.com.uy",
+     "seendate": "20261017T113000Z"
+    },
     {
      "title": "Unidad Indexada hoy : cuánto cotiza la UI este sábado 17 de octubre de 2026 en pesos uruguayos",
      "url": "https://www.elpais.com.uy/negocios/finanzas/unidad-indexada-hoy-cuanto-cotiza-la-ui-este-sabado-17-de-octubre-de-2026-en-pesos-uruguayos",
@@ -2757,71 +2805,23 @@
      "url": "https://www.elpais.com.uy/ovacion/futbol/patricio-pernicone-y-su-sueno-inmediato-en-juventud-pelear-la-copa-auf-uruguay-y-vamos-partido-a-partido",
      "domain": "elpais.com.uy",
      "seendate": "20261016T103000Z"
-    },
-    {
-     "title": "Así abre la cotización del dólar hoy viernes 16 de octubre de 2026 en pesos uruguayos",
-     "url": "https://www.elpais.com.uy/negocios/finanzas/asi-abre-la-cotizacion-del-dolar-hoy-viernes-16-de-octubre-de-2026-en-pesos-uruguayos",
-     "domain": "elpais.com.uy",
-     "seendate": "20261016T094500Z"
-    },
-    {
-     "title": "Procobro by Scanntech : promociones especiales y tecnología para comercios",
-     "url": "https://www.elpais.com.uy/el-empresario/procobro-by-scanntech-promociones-especiales-y-tecnologia-para-comercios",
-     "domain": "elpais.com.uy",
-     "seendate": "20261016T084500Z"
-    },
-    {
-     "title": "De la ciencia moderna a la medicina herbal : cómo usar recursos naturales para aliviar la menopausia",
-     "url": "https://www.elpais.com.uy/bienestar/vida-sana/de-la-ciencia-moderna-a-la-medicina-herbal-como-usar-recursos-naturales-para-aliviar-la-menopausia",
-     "domain": "elpais.com.uy",
-     "seendate": "20261016T084500Z"
-    },
-    {
-     "title": "Acuerdo para instalar data centers con el que ganan todos sería la solución para todos los problemas de la civilización humana | la diaria",
-     "url": "https://ladiaria.com.uy/humor/articulo/2026/10/acuerdo-para-instalar-data-centers-con-el-que-ganan-todos-seria-la-solucion-para-todos-los-problemas-de-la-civilizacion-humana/",
-     "domain": "ladiaria.com.uy",
-     "seendate": "20261016T081500Z"
-    },
-    {
-     "title": "Mare , la empresa que transforma residuos rurales en regalos empresariales , llegó a México y evalúa más mercados",
-     "url": "https://www.elpais.com.uy/el-empresario/mare-la-empresa-que-transforma-residuos-rurales-en-regalos-empresariales-llego-a-mexico-y-evalua-mas-mercados",
-     "domain": "elpais.com.uy",
-     "seendate": "20261016T074500Z"
-    },
-    {
-     "title": "El potencial oculto de la Inteligencia Artificial para empresas , según experto de Gemini en evento Fenicio Talks",
-     "url": "https://www.elpais.com.uy/el-empresario/el-potencial-oculto-de-la-inteligencia-artificial-para-empresas-segun-experto-de-gemini-en-evento-fenicio-talks",
-     "domain": "elpais.com.uy",
-     "seendate": "20261016T074500Z"
-    },
-    {
-     "title": "De la exigencia del ballet a la agilidad corporativa : lecciones de Riccetto y Baliño en evento de 20 años de AJE",
-     "url": "https://www.elpais.com.uy/el-empresario/de-la-exigencia-del-ballet-a-la-agilidad-corporativa-lecciones-de-riccetto-y-balino-en-evento-de-20-anos-de-aje",
-     "domain": "elpais.com.uy",
-     "seendate": "20261016T074500Z"
-    },
-    {
-     "title": "Es uruguaya , lidera un fondo de US$ 10 millones destinado a Latinoamérica y quiere invertir en Uruguay",
-     "url": "https://www.elpais.com.uy/el-empresario/es-uruguaya-lidera-un-fondo-de-us-10-millones-destinado-a-latinoamerica-y-quiere-invertir-en-uruguay",
-     "domain": "elpais.com.uy",
-     "seendate": "20261016T074500Z"
-    },
-    {
-     "title": "Ser uruguayo",
-     "url": "https://www.elpais.com.uy/opinion/columnistas/ser-uruguayo",
-     "domain": "elpais.com.uy",
-     "seendate": "20261016T074500Z"
-    },
-    {
-     "title": "Buen Abrigo realizará una edición especial de su remate anual",
-     "url": "https://rurales.elpais.com.uy/zafra-de-toros/buen-abrigo-realizara-una-edicion-especial-de-su-remate-anual",
-     "domain": "rurales.elpais.com.uy",
-     "seendate": "20261016T073000Z"
     }
    ]
   },
   "PRY": {
    "articles": [
+    {
+     "title": "La Espada de San Miguel se despide de Paraguay: ¿dónde y a qué hora será la última celebración?",
+     "url": "https://www.abc.com.py/nacionales/2026/10/17/la-espada-de-san-miguel-se-despide-de-paraguay-donde-y-a-que-hora-sera-la-ultima-celebracion/",
+     "domain": "ABC Color",
+     "seendate": "20261017T143800Z"
+    },
+    {
+     "title": "Suena Pedro Juan Caballero: llegaron las delegaciones y se alistan para megaconcierto",
+     "url": "https://www.abc.com.py/nacionales/2026/10/17/suena-pedro-juan-caballero-llegaron-las-delegaciones-y-se-alistan-para-megaconcierto/",
+     "domain": "ABC Color",
+     "seendate": "20261017T143215Z"
+    },
     {
      "title": "¿Nuevos cardenales para Paraguay en 2027? Esto aclaró la Arquidiócesis",
      "url": "https://www.abc.com.py/nacionales/2026/10/17/nuevos-cardenales-para-paraguay-en-2027-esto-aclaro-la-arquidiocesis/",
@@ -2848,16 +2848,88 @@
   "BRA": {
    "articles": [
     {
-     "title": "O Brasil é nosso ? | Papo das 9 # 966",
-     "url": "https://mundosustentavel.com.br/papo-das-9-966-o-brasil-e-nosso-2/",
-     "domain": "mundosustentavel.com.br",
-     "seendate": "20261017T043000Z"
+     "title": "Governo do Paraná lamenta morte de reitor da PUC-PR em acidente durante viagem de trabalho nos EUA",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/17/governo-do-parana-lamenta-morte-de-reitor-da-puc-pr-em-acidente-durante-viagem-de-trabalho-nos-eua.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261017T120732Z"
     },
     {
-     "title": "Guerra híbrida dos EUA contra o Brasil exige resposta na Justiça Internacional – Durval de Noronha Goyos Filho – Brasil 247",
-     "url": "https://www.brasil247.com/blog/guerra-hibrida-dos-eua-contra-o-brasil-exige-resposta-na-justica-internacional/",
-     "domain": "brasil247.com",
-     "seendate": "20261015T204500Z"
+     "title": "Advogado denuncia 'violação' após porteiro ser detido pela PM durante panelaço contra Flávio Bolsonaro em Maceió (AL)",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/17/advogado-denuncia-violacao-apos-porteiro-ser-detido-pela-pm-durante-panelaco-contra-flavio-bolsonaro-em-maceio-al.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261017T102044Z"
+    },
+    {
+     "title": "Quem é Jéssica Fazendeira, personagem criada por IA que levou pedreiro a viajar 2,1 mil km do Maranhão a Minas",
+     "url": "https://oglobo.globo.com/brasil/post/2026/10/quem-e-jessica-fazendeira-personagem-criada-por-ia-que-levou-pedreiro-a-viajar-21-mil-km-ate-o-maranhao.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261017T070000Z"
+    },
+    {
+     "title": "Bolsonarismo explora contradição de Lula sobre maioridade penal, enquanto esquerda silencia para evitar dano eleitoral",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/17/bolsonarismo-explora-contradicao-de-lula-sobre-maioridade-penal-enquanto-esquerda-silencia-para-evitar-dano-eleitoral.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261017T063001Z"
+    },
+    {
+     "title": "Mudança na maioridade sugerida por Lula atingiria 10% dos internos entre 16 e 18 anos; proposta de Flávio abarcaria 57%",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/17/mudanca-na-maioridade-sugerida-por-lula-atingiria-10percent-dos-internos-entre-16-e-18-anos-proposta-de-flavio-abarcaria-57percent.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261017T063001Z"
+    },
+    {
+     "title": "Desmatamento na Amazônia caiu 71,2% em 2026 na comparação com o último ano de Bolsonaro; no Cerrado queda foi de 48,4%",
+     "url": "https://oglobo.globo.com/brasil/meio-ambiente/noticia/2026/10/17/desmatamento-na-amazonia-caiu-712percent-em-2026-na-comparacao-com-o-ultimo-ano-de-bolsonaro-no-cerrado-queda-foi-de-484percent.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261017T063000Z"
+    },
+    {
+     "title": "Flávio favorecido nas redes? Entre os questionamentos e a admissão de falhas, Meta nega interferência na eleição; entenda",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/17/flavio-favorecido-nas-redes-entre-os-questionamentos-e-a-admissao-de-falhas-meta-nega-interferencia-na-eleicao-entenda.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261017T063000Z"
+    },
+    {
+     "title": "Escala 6x1, salário mínimo, cargos para a família em eventual governo: a entrevista de Flávio à TV Globo em seis pontos",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/17/escala-6x1-salario-minimo-cargos-para-a-familia-em-eventual-governo-a-entrevista-de-flavio-a-tv-globo-em-seis-pontos.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261017T063000Z"
+    },
+    {
+     "title": "Alckmin busca aliados no interior na tentativa de reorganizar palanque de Lula em SP e grava com filha de FHC",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/17/alckmin-busca-aliados-no-interior-na-tentativa-de-reorganizar-palanque-de-lula-em-sp-e-grava-com-filha-de-fhc.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261017T063000Z"
+    },
+    {
+     "title": "Entrevista: 'Ideologia é importante, mas é a economia que está decidindo a eleição', diz cientista político André Singer",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/17/entrevista-ideologia-e-importante-mas-e-a-economia-que-esta-decidindo-a-eleicao-diz-cientista-politico-andre-singer.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261017T063000Z"
+    },
+    {
+     "title": "Flávio Bolsonaro ou Lula: quem foi melhor nas entrevistas da Globo? Veja notas e avaliações dos colunistas do GLOBO",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/17/flavio-bolsonaro-ou-lula-quem-foi-melhor-nas-entrevistas-da-globo-veja-notas-e-avaliacoes-dos-colunistas-do-globo.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261017T063000Z"
+    },
+    {
+     "title": "Lula vai explorar risco de cortes em programas sociais, e Flávio prepara ofensiva sobre segurança pública em debate",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/17/lula-vai-explorar-risco-de-cortes-em-programas-sociais-e-flavio-prepara-ofensiva-sobre-seguranca-publica-em-debate.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261017T063000Z"
+    },
+    {
+     "title": "Redução da maioridade penal: com sanções a partir dos 10 anos, como menores que violam a lei são punidos pelo mundo?",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/17/reducao-da-maioridade-penal-com-sancoes-a-partir-dos-10-anos-como-menores-que-violam-a-lei-sao-punidos-pelo-mundo.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261017T063000Z"
+    },
+    {
+     "title": "PSOL vive pressão por reestruturação após não alcançar cláusula de barreira, mas deixa discussão para depois do 2º turno",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/17/psol-vive-pressao-por-reestruturacao-apos-nao-alcancar-clausula-de-barreira-mas-deixa-discussao-para-depois-do-2o-turno.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261017T063000Z"
     }
    ]
   }
