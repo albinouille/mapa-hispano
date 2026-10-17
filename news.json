@@ -1,8 +1,14 @@
 {
- "updated": "2026-10-17T21:56:12+00:00",
+ "updated": "2026-10-17T22:24:59+00:00",
  "countries": {
   "ESP": {
    "articles": [
+    {
+     "title": "Reabre la estación de Metro de Sol tras el cierre de dos días ordenado por Ayuso para disuadir a los acampados por la vivienda",
+     "url": "https://elpais.com/espana/madrid/2026-10-17/reabre-la-estacion-de-metro-de-sol-tras-el-cierre-de-dos-dias-ordenado-por-ayuso-para-disuadir-a-los-acampados-por-la-vivienda.html",
+     "domain": "El País",
+     "seendate": "20261017T214833Z"
+    },
     {
      "title": "Buscan a una persona desaparecida en Cabrera de Mar (Barcelona) por el temporal",
      "url": "https://elpais.com/espana/2026-10-17/emergencias-envia-mensajes-de-alerta-por-lluvias-a-la-poblacion-de-valencia-y-alicante.html",
@@ -115,6 +121,42 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Dos trabajadores mueren y 20 resultan lesionados tras caída de camión en obras del Tren México-Querétaro; se desconocen causas del accidente",
+     "url": "https://www.eluniversal.com.mx/estados/dos-trabajadores-mueren-y-20-resultan-lesionados-tras-caida-de-camion-en-obras-del-tren-mexico-queretaro-se-desconocen-causas-del-accidente/",
+     "domain": "El Universal",
+     "seendate": "20261017T221316Z"
+    },
+    {
+     "title": "Sheinbaum evita pronunciarse sobre detención del exfiscal de Chihuahua, César Jáuregui; \"el lunes, gracias\"",
+     "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-evita-pronunciarse-sobre-detencion-del-exfiscal-de-chihuahua-cesar-jauregui-el-lunes-gracias/",
+     "domain": "El Universal",
+     "seendate": "20261017T221249Z"
+    },
+    {
+     "title": "Se manifiestan a favor de César Jáuregui, afuera del Tribunal Judicial de Chihuahua; detención fue por sus aspiraciones políticas, dicen",
+     "url": "https://www.eluniversal.com.mx/estados/se-manifiestan-a-favor-de-cesar-jauregui-afuera-del-tribunal-judicial-de-chihuahua-detencion-fue-por-sus-aspiraciones-politicas-dicen/",
+     "domain": "El Universal",
+     "seendate": "20261017T215407Z"
+    },
+    {
+     "title": "Pedro Haces Lago se registra para proceso de los Comités de Defensa de la Cuarta Transformación en Tlalpan; “No tengo derecho a fallarles” dice",
+     "url": "https://www.eluniversal.com.mx/metropoli/pedro-haces-lago-se-registra-para-proceso-de-los-comites-de-defensa-de-la-cuarta-transformacion-en-tlalpan-no-tengo-derecho-a-fallarles-dice/",
+     "domain": "El Universal",
+     "seendate": "20261017T215345Z"
+    },
+    {
+     "title": "Ante Huracán Trudy, Sheinbaum pide extremar precauciones; hay pronóstico de lluvias en nueve estados",
+     "url": "https://www.eluniversal.com.mx/nacion/ante-huracan-trudy-sheinbaum-pide-extremar-precauciones-hay-pronostico-de-lluvias-en-nueve-estados/",
+     "domain": "El Universal",
+     "seendate": "20261017T214825Z"
+    },
+    {
+     "title": "Alcaldesa de Ecatepec inaugura Sendero Seguro en colonia Nueva Aragón; \"ya empezamos a sentir que es posible transformar este municipio\", dice",
+     "url": "https://www.eluniversal.com.mx/metropoli/alcaldesa-de-ecatepec-inaugura-sendero-seguro-en-colonia-nueva-aragon-ya-empezamos-a-sentir-que-es-posible-transformar-este-municipio-dice/",
+     "domain": "El Universal",
+     "seendate": "20261017T214727Z"
+    },
     {
      "title": "Fallece buzo en Celestún a bordo de embarcación pesquera; habría sufrido descompensación mientras realizaba una sumersión",
      "url": "https://www.eluniversal.com.mx/estados/fallece-buzo-en-celestun-a-bordo-de-embarcacion-pesquera-habria-sufrido-descompensacion-mientras-realizaba-una-sumersion/",
@@ -278,13 +320,7 @@
      "seendate": "20261017T152123Z"
     },
     {
-     "title": "Sismo de 5.1 grados sacude Ciudad Hidalgo, Chiapas; no se reportan afectaciones",
-     "url": "https://www.eluniversal.com.mx/estados/sismo-de-51-grados-sacude-ciudad-hidalgo-chiapas-no-se-reportan-afectaciones/",
-     "domain": "El Universal",
-     "seendate": "20261017T144819Z"
-    },
-    {
-     "title": "Trudy se degrada a huracán categoría 1; sigue en vivo su trayectoria",
+     "title": "Trudy se fortalece y vuelve a ser huracán categoría 2; sigue en vivo su trayectoria",
      "url": "https://www.eluniversal.com.mx/estados/trudy-se-mantiene-como-huracan-categoria-3-sigue-en-vivo-su-trayectoria/",
      "domain": "El Universal",
      "seendate": "20261016T141304Z"
@@ -784,14 +820,14 @@
      "seendate": "20261017T152200Z"
     },
     {
-     "title": "Hace 50 años: ‘Solo uniéndonos pesaremos en el equilibrio del mundo’, dijo ministro de Venezuela en visita al país",
-     "url": "https://www.nacion.com/el-pais/hace-50-anos-solo-uniendonos-pesaremos-en-el/RJGITZLBXZEV3AJRK6YJBUTDSI/story/",
+     "title": "IMN pronostica fuertes aguaceros y tormentas eléctricas este sábado: ¿cuáles zonas tendrán más lluvia?",
+     "url": "https://www.nacion.com/sucesos/imn-pronostica-fuertes-aguaceros-y-tormentas/YXKAG63GPBFDBI4OZ4IIIWWZOQ/story/",
      "domain": "La Nación",
      "seendate": "20261017T133000Z"
     },
     {
-     "title": "IMN pronostica fuertes aguaceros y tormentas eléctricas este sábado: ¿cuáles zonas tendrán más lluvia?",
-     "url": "https://www.nacion.com/sucesos/imn-pronostica-fuertes-aguaceros-y-tormentas/YXKAG63GPBFDBI4OZ4IIIWWZOQ/story/",
+     "title": "Hace 50 años: ‘Solo uniéndonos pesaremos en el equilibrio del mundo’, dijo ministro de Venezuela en visita al país",
+     "url": "https://www.nacion.com/el-pais/hace-50-anos-solo-uniendonos-pesaremos-en-el/RJGITZLBXZEV3AJRK6YJBUTDSI/story/",
      "domain": "La Nación",
      "seendate": "20261017T133000Z"
     },
@@ -860,18 +896,6 @@
      "url": "https://www.nacion.com/el-pais/fiestas-de-zapote-tercer-remate-del-campo-ferial/UEYKHBFQSZDA3DTSRZNKKDOMRQ/story/",
      "domain": "La Nación",
      "seendate": "20261016T215639Z"
-    },
-    {
-     "title": "Tras cuatro días de búsqueda, Cruz Roja localiza cuerpo de hombre desaparecido en el río Reventado",
-     "url": "https://www.nacion.com/sucesos/tras-cuatro-dias-de-busqueda-cruz-roja-localiza/QFGZD4PDF5CYZJ47XDAZHIAGQI/story/",
-     "domain": "La Nación",
-     "seendate": "20261016T215006Z"
-    },
-    {
-     "title": "Juzgado separa por un año a 10 jerarcas de la Asociación Solidarista de Servidores Judiciales por presunta administración fraudulenta",
-     "url": "https://www.nacion.com/sucesos/juzgado-separa-por-un-ano-a-10-jerarcas-de-la/JXWH3I5XNRGHLPDALOTMT5EZQ4/story/",
-     "domain": "La Nación",
-     "seendate": "20261016T212204Z"
     }
    ]
   },
@@ -1147,6 +1171,12 @@
   "COL": {
    "articles": [
     {
+     "title": "Incautan en Barranquilla 3.043 artículos importados sin soportes por más de $675 millones: había consolas, drones y accesorios tecnológicos en bodega",
+     "url": "https://www.eltiempo.com/colombia/barranquilla/incautan-en-barranquilla-3-043-articulos-importados-sin-soportes-por-mas-de-675-millones-habia-consolas-drones-y-accesorios-tecnologicos-en-bodega-3594318",
+     "domain": "El Tiempo",
+     "seendate": "20261017T220100Z"
+    },
+    {
      "title": "'Un milagro': el senador Duvalier Sánchez reveló los angustiantes momentos en que el exalcalde de Jamundí sobrevivió a un atentado sicarial",
      "url": "https://www.eltiempo.com/colombia/cali/un-milagro-el-senador-duvalier-sanchez-revelo-los-angustiantes-momentos-en-que-el-exalcalde-de-jamundi-sobrevivio-a-un-atentado-sicarial-3594315",
      "domain": "El Tiempo",
@@ -1159,13 +1189,7 @@
      "seendate": "20261017T213107Z"
     },
     {
-     "title": "Falsos bonos turísticos en centros comerciales de Medellín: red de estafadores dejó más de 1.000 víctimas y $ 14.000 millones en ganancias ilícitas",
-     "url": "https://www.eltiempo.com/colombia/medellin/falsos-bonos-turisticos-en-centros-comerciales-de-medellin-red-de-estafadores-dejo-mas-de-1-000-victimas-y-14-000-millones-en-ganancias-ilicitas-3594279",
-     "domain": "El Tiempo",
-     "seendate": "20261017T211736Z"
-    },
-    {
-     "title": "Santa Verónica recupera 2,1 kilómetros de costa tras inversión de casi $94.000 millones para frenar la erosión y reactivar el turismo en el Atlántico.",
+     "title": "Atlántico| Santa Verónica recupera 2,1 kilómetros de costa tras inversión de casi $94.000 millones para frenar la erosión y reactivar el turismo",
      "url": "https://www.eltiempo.com/colombia/barranquilla/santa-veronica-recupera-2-1-kilometros-de-costa-tras-inversion-de-casi-94-000-millones-para-frenar-la-erosion-y-reactivar-el-turismo-en-el-atlantico-3594308",
      "domain": "El Tiempo",
      "seendate": "20261017T200100Z"
@@ -1538,6 +1562,12 @@
   },
   "ECU": {
    "articles": [
+    {
+     "title": "Gobierno ejecutó mantenimientos eléctricos en 15 provincias ante el fenómeno de El Niño",
+     "url": "https://eluniverso.com/politica/ejecutivo/gobierno-ejecuto-mantenimientos-electricos-en-15-provincias-ante-el-fenomeno-de-el-nino-nota/",
+     "domain": "El Universo",
+     "seendate": "20261017T215236Z"
+    },
     {
      "title": "Cuatro personas fueron aprehendidas por presunto robo a pasajeros de un bus en Napo",
      "url": "https://eluniverso.com/politica/seguridad/cuatro-personas-fueron-aprehendidas-por-presunto-robo-a-pasajeros-de-un-bus-en-napo-nota/",
@@ -2359,6 +2389,24 @@
   "ARG": {
    "articles": [
     {
+     "title": "¿Teoría pura o historia? Hace 150 años y ahora",
+     "url": "https://www.lanacion.com.ar/economia/teoria-pura-o-historia-hace-150-anos-y-ahora-nid17102026/",
+     "domain": "La Nación",
+     "seendate": "20261017T220000Z"
+    },
+    {
+     "title": "El ejercicio ideal para respirar, reconectar y calmarte en solo 5 minutos",
+     "url": "https://www.lanacion.com.ar/sociedad/el-ejercicio-ideal-para-respirar-reconectar-y-calmarte-en-solo-5-minutos-nid17102026/",
+     "domain": "La Nación",
+     "seendate": "20261017T220000Z"
+    },
+    {
+     "title": "“Elemento integrador”: avanza el concurso urbanístico para rediseñar una icónica avenida marítima de la costa bonaerense",
+     "url": "https://www.lanacion.com.ar/sociedad/elemento-integrador-avanza-el-concurso-urbanistico-para-redisenar-una-iconica-avenida-maritima-de-la-nid17102026/",
+     "domain": "La Nación",
+     "seendate": "20261017T215241Z"
+    },
+    {
      "title": "Dos víctimas fatales al volcar una camioneta en la llamada “ruta de la muerte”",
      "url": "https://www.lanacion.com.ar/seguridad/dos-victimas-fatales-al-volcar-una-camioneta-en-la-llamada-ruta-de-la-muerte-nid17102026/",
      "domain": "La Nación",
@@ -2459,12 +2507,6 @@
      "url": "https://www.lanacion.com.ar/economia/campo/record-historico-el-campo-argentino-ya-vendio-mas-de-105-millones-de-toneladas-de-granos-nid17102026/",
      "domain": "La Nación",
      "seendate": "20261017T175918Z"
-    },
-    {
-     "title": "Quién es Gustavo Kumiega, el ginecólogo chaqueño detenido por abuso sexual y mala praxis",
-     "url": "https://www.lanacion.com.ar/seguridad/quien-es-gustavo-kumiega-el-ginecologo-chaqueno-detenido-por-abuso-sexual-y-mala-praxis-nid17102026/",
-     "domain": "La Nación",
-     "seendate": "20261017T165515Z"
     }
    ]
   },
@@ -2834,6 +2876,12 @@
   },
   "PRY": {
    "articles": [
+    {
+     "title": "Trans exigen fin a la discriminación y respeto a su identidad con marcha en Asunción",
+     "url": "https://www.abc.com.py/nacionales/2026/10/17/trans-exigen-fin-a-la-discriminacion-y-respeto-a-su-identidad-con-marcha-en-asuncion/",
+     "domain": "ABC Color",
+     "seendate": "20261017T222013Z"
+    },
     {
      "title": "Puerto Antequera vive un fin de semana de pesca, gastronomía y turismo",
      "url": "https://www.abc.com.py/nacionales/2026/10/17/puerto-antequera-vive-un-fin-de-semana-de-pesca-gastronomia-y-turismo/",
