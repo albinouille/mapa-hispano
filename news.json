@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-17T13:59:17+00:00",
+ "updated": "2026-10-17T14:24:50+00:00",
  "countries": {
   "ESP": {
    "articles": [
     {
-     "title": "Última hora de la actualidad política, en directo | Colau, sobre Podemos: “Si alguien no se quiere sentar a una mesa, no se le puede obligar”",
+     "title": "Última hora de la actualidad política, en directo | García Albiol será el candidato del PP al Congreso por Barcelona",
      "url": "https://elpais.com/espana/2026-10-17/ultima-hora-de-la-actualidad-politica-en-directo.html",
      "domain": "El País",
-     "seendate": "20261017T135236Z"
+     "seendate": "20261017T140700Z"
     },
     {
      "title": "Frente Amplio pasa página del pacto fallido con Podemos: “Se acabó el tiempo de unir a los partidos, hay que unir a la gente”",
@@ -264,18 +264,6 @@
      "url": "https://www.eluniversal.com.mx/estados/sindicato-de-burocratas-de-yucatan-exige-mejoras-laborales-espera-resolucion-favorable-dice/",
      "domain": "El Universal",
      "seendate": "20261017T005638Z"
-    },
-    {
-     "title": "Trabajadores del IMSS bloquean Reforma; exigen destitución del líder sindical Rafael Olivos",
-     "url": "https://www.eluniversal.com.mx/nacion/trabajadores-del-imss-bloquean-reforma-exigen-destitucion-del-lider-sindical-rafael-olivos/",
-     "domain": "El Universal",
-     "seendate": "20261017T003416Z"
-    },
-    {
-     "title": "Fotógrafo y funcionario del DIF Tabasco muere tras ser atropellado intencionalmente en plaza comercial; responsable no ha sido identificado",
-     "url": "https://www.eluniversal.com.mx/estados/fotografo-y-funcionario-del-dif-tabasco-muere-tras-ser-atropellado-intencionalmente-en-plaza-comercial-responsable-no-ha-sido-identificado/",
-     "domain": "El Universal",
-     "seendate": "20261017T001019Z"
     },
     {
      "title": "Trudy se degrada a huracán categoría 1; sigue en vivo su trayectoria",
@@ -535,6 +523,12 @@
   },
   "SLV": {
    "articles": [
+    {
+     "title": "El Salvador cuenta con un nuevo puente de primer nivel",
+     "url": "https://lapagina.com.sv/politica/el-salvador-cuenta-con-un-nuevo-puente-de-primer-nivel/",
+     "domain": "lapagina.com.sv",
+     "seendate": "20261017T133000Z"
+    },
     {
      "title": "Diario Co Latino - Informándote con Credibilidad",
      "url": "https://www.diariocolatino.com/bukele-se-retracta-y-dice-que-revisara-casos-de-10-mil-colaboradores-ocasionales-de-pandillas/",
@@ -1069,6 +1063,12 @@
   "COL": {
    "articles": [
     {
+     "title": "Doble plástico, 31 paquetes y una camioneta blanca: así operaba la red que movía marihuana por el corredor del Dagua, Valle del Cauca",
+     "url": "https://www.eltiempo.com/colombia/cali/doble-plastico-31-paquetes-y-una-camioneta-blanca-asi-operaba-la-red-que-movia-marihuana-por-el-corredor-del-dagua-valle-del-cauca-3594253",
+     "domain": "El Tiempo",
+     "seendate": "20261017T140626Z"
+    },
+    {
      "title": "Cartago vuelve a la incertidumbre: Tribunal ordena la suspensión temporal del alcalde electo Juan David Piedrahíta",
      "url": "https://www.eltiempo.com/colombia/cali/cartago-vuelve-a-la-incertidumbre-tribunal-ordena-la-suspension-temporal-del-alcalde-electo-juan-david-piedrahita-3594242",
      "domain": "El Tiempo",
@@ -1121,17 +1121,185 @@
      "url": "https://www.eltiempo.com/colombia/cali/la-alarma-por-el-levantamiento-de-dos-supuestos-cuerpos-de-habitantes-de-calle-en-cali-termino-siendo-una-actividad-pedagogica-de-la-policia-3594205",
      "domain": "El Tiempo",
      "seendate": "20261017T013944Z"
-    },
-    {
-     "title": "Directora de la ANT se pronunció tras la renuncia del funcionario que apareció en video cocinando un armadillo: 'Nadie está por encima de la ley'",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/directora-de-la-ant-se-pronuncio-tras-la-renuncia-del-funcionario-que-aparecio-en-video-cocinando-un-armadillo-nadie-esta-por-encima-de-la-ley-3594160",
-     "domain": "El Tiempo",
-     "seendate": "20261017T003734Z"
     }
    ]
   },
   "VEN": {
    "articles": [
+    {
+     "title": "Charo Romero lleva el imaginario popular venezolano a Madrid con la exposición « CHINITA MÍA »",
+     "url": "https://notiactual.com/charo-romero-lleva-el-imaginario-popular-venezolano-a-madrid-con-la-exposicion-chinita-mia/",
+     "domain": "notiactual.com",
+     "seendate": "20261017T134500Z"
+    },
+    {
+     "title": "Autoridades de Venezuela y Francia incautan 2 , 9 toneladas de sustancias ilícitas en operación conjunta",
+     "url": "https://www.eluniversal.com/politica/243412/venezuela-y-francia-incautan-29-toneladas-de-drogas-en-operacion-conjunta",
+     "domain": "eluniversal.com",
+     "seendate": "20261017T130000Z"
+    },
+    {
+     "title": "Estados Unidos sí paga a los traidores , pero , cuando ya no los necesita , los desprecia",
+     "url": "https://www.aporrea.org/tiburon/a357575.html",
+     "domain": "aporrea.org",
+     "seendate": "20261017T124500Z"
+    },
+    {
+     "title": "Pdvsa afirma que el acuerdo petrolero con EEUU está vigente y en pleno funcionamiento",
+     "url": "https://www.aporrea.org/energia/n424844.html",
+     "domain": "aporrea.org",
+     "seendate": "20261017T124500Z"
+    },
+    {
+     "title": "Por la llamada Revolución de octubre del 18 de octubre de 1945 y las evoluciones del cangrejo ( II )",
+     "url": "https://www.aporrea.org/ideologia/a357564.html",
+     "domain": "aporrea.org",
+     "seendate": "20261017T124500Z"
+    },
+    {
+     "title": "Ángel Prado : Segunda Consulta Nacional 2026 será una jornada democrática ejemplar",
+     "url": "http://www.psuv.org.ve/temas/noticias/angel-prado-segunda-consulta-nacional-2026-sera-una-jornada-democratica-ejemplar/",
+     "domain": "psuv.org.ve",
+     "seendate": "20261017T124500Z"
+    },
+    {
+     "title": "Paz y amor , ¿ cómo y cuándo ? No lo permiten , no descansan",
+     "url": "https://www.aporrea.org/ddhh/a357572.html",
+     "domain": "aporrea.org",
+     "seendate": "20261017T124500Z"
+    },
+    {
+     "title": "Iamael Querales y sus hijas continuadores en las tradiciones musicales venezolanas",
+     "url": "https://www.aporrea.org/cultura/a357566.html",
+     "domain": "aporrea.org",
+     "seendate": "20261017T124500Z"
+    },
+    {
+     "title": "Transparencia Venezuela exige que se publique en detalle la propuesta de presupuesto para 2027",
+     "url": "https://www.aporrea.org/contraloria/n424848.html",
+     "domain": "aporrea.org",
+     "seendate": "20261017T124500Z"
+    },
+    {
+     "title": "Machado afirma que EEUU la excluyó de las negociaciones en Caracas",
+     "url": "https://www.aporrea.org/oposicion/n424842.html",
+     "domain": "aporrea.org",
+     "seendate": "20261017T124500Z"
+    },
+    {
+     "title": "Doble sismo afectó a 38 panaderías de La Guaira",
+     "url": "https://ultimasnoticias.com.ve/la-guaira/doble-sismo-afecto-a-38-panaderias-de-la-guaira/",
+     "domain": "ultimasnoticias.com.ve",
+     "seendate": "20261017T124500Z"
+    },
+    {
+     "title": "De elecciones ya , a elecciones lo más pronto posible , a esperar un poco más",
+     "url": "https://www.aporrea.org/ideologia/a357570.html",
+     "domain": "aporrea.org",
+     "seendate": "20261017T124500Z"
+    },
+    {
+     "title": "¡ Entre la coartada y el silencio : Las preguntas que la ex magistrada Bárbara Gabriela César Siero debe responderle al país !",
+     "url": "https://www.aporrea.org/contraloria/a357568.html",
+     "domain": "aporrea.org",
+     "seendate": "20261017T124500Z"
+    },
+    {
+     "title": "( VIDEO ) Enrique Márquez celebra decisión del TSJ y exige desmontar el Sebin y la Dgcim",
+     "url": "https://www.aporrea.org/ddhh/n424841.html",
+     "domain": "aporrea.org",
+     "seendate": "20261017T124500Z"
+    },
+    {
+     "title": "Enseñar IA con Excel en educación media y también la creación de redes neuronales",
+     "url": "https://www.aporrea.org/tecno/a357563.html",
+     "domain": "aporrea.org",
+     "seendate": "20261017T124500Z"
+    },
+    {
+     "title": "Trujillana ajedrecista mundial",
+     "url": "https://www.aporrea.org/deportes/a357574.html",
+     "domain": "aporrea.org",
+     "seendate": "20261017T124500Z"
+    },
+    {
+     "title": "La resistencia del pueblo venezolano",
+     "url": "https://www.aporrea.org/tiburon/a357569.html",
+     "domain": "aporrea.org",
+     "seendate": "20261017T124500Z"
+    },
+    {
+     "title": "Venezuela , lista para la segunda consulta popular nacional",
+     "url": "https://www.aporrea.org/ideologia/a357571.html",
+     "domain": "aporrea.org",
+     "seendate": "20261017T124500Z"
+    },
+    {
+     "title": "Premio de consolación para Zelaya , por Simón Boccanegra",
+     "url": "https://talcualdigital.com/teodoro/premio-de-consolacion-para-zelaya-por-simon-boccanegra/",
+     "domain": "talcualdigital.com",
+     "seendate": "20261017T121500Z"
+    },
+    {
+     "title": "Se pueden « cashear » la inscripción y la mensualidad escolar",
+     "url": "https://talcualdigital.com/noticias/cashear-inscripcion-y-mensualidad-escolar/",
+     "domain": "talcualdigital.com",
+     "seendate": "20261017T121500Z"
+    },
+    {
+     "title": "Transparencia Venezuela exige la publicación de los proyectos de Ley de Presupuesto y Endeudamiento 2027",
+     "url": "https://confirmado.com.ve/transparencia-venezuela-exige-la-publicacion-de-los-proyectos-de-ley-de-presupuesto-y-endeudamiento-2027/",
+     "domain": "confirmado.com.ve",
+     "seendate": "20261017T094500Z"
+    },
+    {
+     "title": "Burlas para los venezolanos de Doral ( y para los que no lo sean también ) – Correo del Caroní",
+     "url": "https://correodelcaroni.com/opinion/burlas-para-los-venezolanos-de-doral-y-para-los-que-no-lo-sean-tambien/",
+     "domain": "correodelcaroni.com",
+     "seendate": "20261017T094500Z"
+    },
+    {
+     "title": "Servir o no a la verdad : el dilema de Venezuela – Correo del Caroní",
+     "url": "https://correodelcaroni.com/opinion/servir-o-no-a-la-verdad-el-dilema-de-venezuela/",
+     "domain": "correodelcaroni.com",
+     "seendate": "20261017T094500Z"
+    },
+    {
+     "title": "Ramón Guillermo Aveledo : En vez de pre juicio , Juicio",
+     "url": "https://confirmado.com.ve/ramon-guillermo-aveledo-en-vez-de-pre-juicio-juicio/",
+     "domain": "confirmado.com.ve",
+     "seendate": "20261017T094500Z"
+    },
+    {
+     "title": "Antonio Ledezma : De la rabia a la esperanza",
+     "url": "https://confirmado.com.ve/antonio-ledezma-de-la-rabia-a-la-esperanza/",
+     "domain": "confirmado.com.ve",
+     "seendate": "20261017T094500Z"
+    },
+    {
+     "title": "La Ley contra el Odio , o la ley creada para aplicar el odio – Correo del Caroní",
+     "url": "https://correodelcaroni.com/opinion/la-ley-contra-el-odio-o-la-ley-creada-para-aplicar-el-odio/",
+     "domain": "correodelcaroni.com",
+     "seendate": "20261017T094500Z"
+    },
+    {
+     "title": "Pobreza y hambre – Correo del Caroní",
+     "url": "https://correodelcaroni.com/opinion/pobreza-y-hambre/",
+     "domain": "correodelcaroni.com",
+     "seendate": "20261017T094500Z"
+    },
+    {
+     "title": "Inicio | Periódico CiudadCCS",
+     "url": "https://www.ciudadccs.info/publicacion/52059-operativo-conjunto-venezuela-francia-incauta-casi-3-toneladas-de-droga",
+     "domain": "ciudadccs.info",
+     "seendate": "20261017T091500Z"
+    },
+    {
+     "title": "La ley del odio",
+     "url": "https://www.el-carabobeno.com/la-ley-del-odio/",
+     "domain": "el-carabobeno.com",
+     "seendate": "20261017T080000Z"
+    },
     {
      "title": "¿ Qué propuso América Latina ante la ONU ?, por Irma Torres Garrido",
      "url": "https://talcualdigital.com/opinion/que-propuso-america-latina-ante-la-onu-por-irma-torres-garrido/",
@@ -1151,12 +1319,6 @@
      "seendate": "20261017T080000Z"
     },
     {
-     "title": "La ley del odio",
-     "url": "https://www.el-carabobeno.com/la-ley-del-odio/",
-     "domain": "el-carabobeno.com",
-     "seendate": "20261017T080000Z"
-    },
-    {
      "title": "Paparoni advierte tras la captura de Álvaro Pulido : Esto apenas está comenzando",
      "url": "https://lapatilla.com/2026/10/16/paparoni-advierte-tras-la-captura-de-alvaro-pulido-esto-apenas-esta-comenzando/",
      "domain": "lapatilla.com",
@@ -1167,12 +1329,6 @@
      "url": "https://lapatilla.com/2026/10/16/los-aviones-de-la-fuerza-aerea-de-eeuu-que-aterrizaron-de-sorpresa-en-maiquetia-este-16oct/",
      "domain": "lapatilla.com",
      "seendate": "20261017T064500Z"
-    },
-    {
-     "title": "Inicio | Periódico CiudadCCS",
-     "url": "https://ciudadccs.info/publicacion/52026-concierto-de-la-filarmonica-exaltara-al-maestro-gonzalo-castellanos",
-     "domain": "ciudadccs.info",
-     "seendate": "20261017T063000Z"
     },
     {
      "title": "Globovisión desplegará operativo especial este sábado para el Teletón",
@@ -1247,12 +1403,6 @@
      "seendate": "20261017T041500Z"
     },
     {
-     "title": "Transparencia Venezuela exige que se publique en detalle la propuesta de presupuesto para 2027",
-     "url": "https://www.el-carabobeno.com/transparencia-venezuela-exige-que-se-publique-en-detalle-la-propuesta-de-presupuesto-para-2027/",
-     "domain": "el-carabobeno.com",
-     "seendate": "20261017T041500Z"
-    },
-    {
      "title": "Concejo Municipal rinde homenaje a santos venezolanos",
      "url": "https://radiomundial.com.ve/concejo-municipal-de-caracas-homenaje-jose-gregorio-hernandez-carmen-rendiles/",
      "domain": "radiomundial.com.ve",
@@ -1293,71 +1443,17 @@
      "url": "https://talcualdigital.com/noticias/banco-mundial-evalua-otorgar-hasta-5-000-millones-a-venezuela-en-dos-anos/",
      "domain": "talcualdigital.com",
      "seendate": "20261017T040000Z"
-    },
-    {
-     "title": "Cruz Roja Venezolana recibe lote de medicamentos para atender a afectados por sismos",
-     "url": "https://talcualdigital.com/noticias/cruz-roja-venezolana-recibe-lote-de-medicamentos-para-atender-a-afectados-por-sismos/",
-     "domain": "talcualdigital.com",
-     "seendate": "20261017T040000Z"
-    },
-    {
-     "title": "Márquez pide profundizar cambios en el sistema de justicia tras medida del TSJ",
-     "url": "https://talcualdigital.com/noticias/marquez-pide-profundizar-cambios-en-el-sistema-de-justicia-tras-medida-del-tsj/",
-     "domain": "talcualdigital.com",
-     "seendate": "20261017T040000Z"
-    },
-    {
-     "title": "El desintegrador , por Teodoro Petkoff",
-     "url": "https://talcualdigital.com/teodoro/el-desintegrador-por-teodoro-petkoff/",
-     "domain": "talcualdigital.com",
-     "seendate": "20261017T040000Z"
-    },
-    {
-     "title": "Trump no quiere trabajar con María Corina : exdiplomático tras ausencia de Machado en diálogos",
-     "url": "https://www.ntn24.com/noticias-actualidad/trump-no-quiere-trabajar-con-maria-corina-exdiplomatico-tras-ausencia-de-machado-en-dialogos-659048",
-     "domain": "ntn24.com",
-     "seendate": "20261017T030000Z"
-    },
-    {
-     "title": "En última instancia , el gobierno Trump quiere la democracia : María Corina Machado sobre Venezuela",
-     "url": "https://www.ntn24.com/noticias-actualidad/en-ultima-instancia-el-gobierno-trump-quiere-la-democracia-maria-corina-machado-sobre-venezuela-659028",
-     "domain": "ntn24.com",
-     "seendate": "20261017T030000Z"
-    },
-    {
-     "title": "Seniat impulsa la filosofía MODA para cultura tributaria",
-     "url": "https://rnv.gob.ve/seniat-filosofia-moda-cultura-tributaria/",
-     "domain": "rnv.gob.ve",
-     "seendate": "20261017T030000Z"
-    },
-    {
-     "title": "Delcy Rodríguez fue acusada ante EEUU por secuestro y tortura de ciudadanos de ese país : esto se sabe",
-     "url": "https://www.ntn24.com/noticias-actualidad/delcy-rodriguez-fue-acusada-ante-eeuu-por-secuestro-y-tortura-de-ciudadanos-de-ese-pais-esto-se-sabe-659047",
-     "domain": "ntn24.com",
-     "seendate": "20261017T030000Z"
-    },
-    {
-     "title": "Colombia capturó y expulsó a alias Chachi del Tren del Llano",
-     "url": "https://elsiglo.com.ve/colombia-capturo-y-expulso-a-alias-chachicabecilla-del-tren-del-llano/",
-     "domain": "elsiglo.com.ve",
-     "seendate": "20261017T023000Z"
-    },
-    {
-     "title": "Hallado muerto zuliano desaparecido en Texas",
-     "url": "https://elsiglo.com.ve/hallado-muerto-zuliano-desaparecido-en-texas/",
-     "domain": "elsiglo.com.ve",
-     "seendate": "20261017T023000Z"
-    },
-    {
-     "title": "Realizado el primer seminario de Trabajo Social Integral en Aragua",
-     "url": "https://elsiglo.com.ve/realizado-el-primer-seminario-de-trabajo-social-integral-en-aragua/",
-     "domain": "elsiglo.com.ve",
-     "seendate": "20261017T023000Z"
     }
    ]
   },
   "ECU": {
    "articles": [
+    {
+     "title": "Paquetes de ayuda humanitaria llegan a 312 familias afectadas por las lluvias en cinco provincias",
+     "url": "https://eluniverso.com/comunidad/ecuador/paquetes-de-ayuda-humanitaria-llegan-a-312-familias-afectadas-por-las-lluvias-en-cinco-provincias-nota/",
+     "domain": "El Universo",
+     "seendate": "20261017T140150Z"
+    },
     {
      "title": "Andrés Roche, candidato a la Alcaldía por la lista 6: “Es importante entrar ya, ciudadanía y Municipio, en una política de reciclaje en Guayaquil”",
      "url": "https://eluniverso.com/politica/elecciones/andres-roche-candidato-a-la-alcaldia-por-la-lista-6-es-importante-entrar-ya-ciudadania-y-municipio-en-una-politica-de-reciclaje-en-guayaquil-nota/",
@@ -1489,24 +1585,6 @@
      "url": "https://eluniverso.com/politica/seguridad/dos-policias-y-un-presunto-integrante-de-la-cte-procesados-por-robo-de-camion-con-cacao-en-guayas-nota/",
      "domain": "El Universo",
      "seendate": "20261016T194945Z"
-    },
-    {
-     "title": "Policía condecora al alto mando de las Fuerzas Armadas por cooperación en la lucha contra el crimen organizado",
-     "url": "https://eluniverso.com/politica/seguridad/policia-nacional-fuerzas-armadas-bloque-de-seguridad-gobierno-nota/",
-     "domain": "El Universo",
-     "seendate": "20261016T192730Z"
-    },
-    {
-     "title": "Ministerio de Ambiente verificó remediación ambiental y reparación de tubería tras derrame de crudo en Cupa",
-     "url": "https://eluniverso.com/comunidad/ecuador/ministerio-de-ambiente-verifico-remediacion-ambiental-y-reparacion-de-tuberia-tras-derrame-de-crudo-en-cupa-nota/",
-     "domain": "El Universo",
-     "seendate": "20261016T191907Z"
-    },
-    {
-     "title": "Condenan a 22 años de cárcel a Derian A. por femicidio en Cotacachi",
-     "url": "https://eluniverso.com/comunidad/ecuador/condenan-a-22-anos-de-carcel-a-derian-a-por-el-femicidio-de-una-mujer-en-cotacachi-nota/",
-     "domain": "El Universo",
-     "seendate": "20261016T185238Z"
     },
     {
      "title": "Xavier Jordán sigue detenido en Estados Unidos a la espera de su deportación, según ministro del Interior",
@@ -2375,12 +2453,6 @@
      "url": "https://www.lanacion.com.ar/politica/mauricio-macri-apoyo-a-santiago-passaglia-con-un-mensaje-en-redes-sociales-y-despues-borro-el-posteo-nid17102026/",
      "domain": "La Nación",
      "seendate": "20261017T050922Z"
-    },
-    {
-     "title": "Representantes de 23 ciudades se reunieron para coordinar estrategias de seguridad y control territorial",
-     "url": "https://www.lanacion.com.ar/politica/representantes-de-23-ciudades-se-reunieron-para-coordinar-estrategias-de-seguridad-y-control-nid17102026/",
-     "domain": "La Nación",
-     "seendate": "20261017T050142Z"
     }
    ]
   },
@@ -2751,6 +2823,12 @@
   "PRY": {
    "articles": [
     {
+     "title": "¿Nuevos cardenales para Paraguay en 2027? Esto aclaró la Arquidiócesis",
+     "url": "https://www.abc.com.py/nacionales/2026/10/17/nuevos-cardenales-para-paraguay-en-2027-esto-aclaro-la-arquidiocesis/",
+     "domain": "ABC Color",
+     "seendate": "20261017T140924Z"
+    },
+    {
      "title": "Nuevo cierre de la Costanera: mal estado de la pista retrasa competencias, lamenta PMT",
      "url": "https://www.abc.com.py/nacionales/2026/10/17/nuevo-cierre-de-la-costanera-pesimo-estado-de-la-pista-retrasa-competencias-lamenta-pmt/",
      "domain": "ABC Color",
@@ -2770,100 +2848,16 @@
   "BRA": {
    "articles": [
     {
-     "title": "Governo do Paraná lamenta morte de reitor da PUC-PR em acidente durante viagem de trabalho nos EUA",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/17/governo-do-parana-lamenta-morte-de-reitor-da-puc-pr-em-acidente-durante-viagem-de-trabalho-nos-eua.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261017T120732Z"
+     "title": "O Brasil é nosso ? | Papo das 9 # 966",
+     "url": "https://mundosustentavel.com.br/papo-das-9-966-o-brasil-e-nosso-2/",
+     "domain": "mundosustentavel.com.br",
+     "seendate": "20261017T043000Z"
     },
     {
-     "title": "Advogado denuncia 'violação' após porteiro ser detido pela PM durante panelaço contra Flávio Bolsonaro em Maceió (AL)",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/17/advogado-denuncia-violacao-apos-porteiro-ser-detido-pela-pm-durante-panelaco-contra-flavio-bolsonaro-em-maceio-al.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261017T102044Z"
-    },
-    {
-     "title": "Quem é Jéssica Fazendeira, personagem criada por IA que levou pedreiro a viajar 2,1 mil km do Maranhão a Minas",
-     "url": "https://oglobo.globo.com/brasil/post/2026/10/quem-e-jessica-fazendeira-personagem-criada-por-ia-que-levou-pedreiro-a-viajar-21-mil-km-ate-o-maranhao.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261017T070000Z"
-    },
-    {
-     "title": "Bolsonarismo explora contradição de Lula sobre maioridade penal, enquanto esquerda silencia para evitar dano eleitoral",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/17/bolsonarismo-explora-contradicao-de-lula-sobre-maioridade-penal-enquanto-esquerda-silencia-para-evitar-dano-eleitoral.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261017T063001Z"
-    },
-    {
-     "title": "Mudança na maioridade sugerida por Lula atingiria 10% dos internos entre 16 e 18 anos; proposta de Flávio abarcaria 57%",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/17/mudanca-na-maioridade-sugerida-por-lula-atingiria-10percent-dos-internos-entre-16-e-18-anos-proposta-de-flavio-abarcaria-57percent.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261017T063001Z"
-    },
-    {
-     "title": "Desmatamento na Amazônia caiu 71,2% em 2026 na comparação com o último ano de Bolsonaro; no Cerrado queda foi de 48,4%",
-     "url": "https://oglobo.globo.com/brasil/meio-ambiente/noticia/2026/10/17/desmatamento-na-amazonia-caiu-712percent-em-2026-na-comparacao-com-o-ultimo-ano-de-bolsonaro-no-cerrado-queda-foi-de-484percent.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261017T063000Z"
-    },
-    {
-     "title": "Flávio favorecido nas redes? Entre os questionamentos e a admissão de falhas, Meta nega interferência na eleição; entenda",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/17/flavio-favorecido-nas-redes-entre-os-questionamentos-e-a-admissao-de-falhas-meta-nega-interferencia-na-eleicao-entenda.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261017T063000Z"
-    },
-    {
-     "title": "Escala 6x1, salário mínimo, cargos para a família em eventual governo: a entrevista de Flávio à TV Globo em seis pontos",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/17/escala-6x1-salario-minimo-cargos-para-a-familia-em-eventual-governo-a-entrevista-de-flavio-a-tv-globo-em-seis-pontos.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261017T063000Z"
-    },
-    {
-     "title": "Alckmin busca aliados no interior na tentativa de reorganizar palanque de Lula em SP e grava com filha de FHC",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/17/alckmin-busca-aliados-no-interior-na-tentativa-de-reorganizar-palanque-de-lula-em-sp-e-grava-com-filha-de-fhc.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261017T063000Z"
-    },
-    {
-     "title": "Entrevista: 'Ideologia é importante, mas é a economia que está decidindo a eleição', diz cientista político André Singer",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/17/entrevista-ideologia-e-importante-mas-e-a-economia-que-esta-decidindo-a-eleicao-diz-cientista-politico-andre-singer.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261017T063000Z"
-    },
-    {
-     "title": "Flávio Bolsonaro ou Lula: quem foi melhor nas entrevistas da Globo? Veja notas e avaliações dos colunistas do GLOBO",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/17/flavio-bolsonaro-ou-lula-quem-foi-melhor-nas-entrevistas-da-globo-veja-notas-e-avaliacoes-dos-colunistas-do-globo.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261017T063000Z"
-    },
-    {
-     "title": "Lula vai explorar risco de cortes em programas sociais, e Flávio prepara ofensiva sobre segurança pública em debate",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/17/lula-vai-explorar-risco-de-cortes-em-programas-sociais-e-flavio-prepara-ofensiva-sobre-seguranca-publica-em-debate.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261017T063000Z"
-    },
-    {
-     "title": "Redução da maioridade penal: com sanções a partir dos 10 anos, como menores que violam a lei são punidos pelo mundo?",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/17/reducao-da-maioridade-penal-com-sancoes-a-partir-dos-10-anos-como-menores-que-violam-a-lei-sao-punidos-pelo-mundo.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261017T063000Z"
-    },
-    {
-     "title": "PSOL vive pressão por reestruturação após não alcançar cláusula de barreira, mas deixa discussão para depois do 2º turno",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/17/psol-vive-pressao-por-reestruturacao-apos-nao-alcancar-clausula-de-barreira-mas-deixa-discussao-para-depois-do-2o-turno.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261017T063000Z"
-    },
-    {
-     "title": "Informação sobre recursos, elo com campanhas, direcionamento: veja as regras para canais no WhatsApp definidas pelo TSE",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/17/informacao-sobre-recursos-elo-com-campanhas-direcionamento-veja-as-regras-para-canais-no-whatsapp-definidas-pelo-tse.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261017T063000Z"
-    },
-    {
-     "title": "Duas escolas: Lula aposta em PAC para construir creches, enquanto Flávio propõe vouchers para famílias",
-     "url": "https://oglobo.globo.com/brasil/educacao/noticia/2026/10/17/duas-escolas-lula-aposta-em-pac-para-construir-creches-enquanto-flavio-propoe-vouchers-para-familias.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261017T063000Z"
+     "title": "Guerra híbrida dos EUA contra o Brasil exige resposta na Justiça Internacional – Durval de Noronha Goyos Filho – Brasil 247",
+     "url": "https://www.brasil247.com/blog/guerra-hibrida-dos-eua-contra-o-brasil-exige-resposta-na-justica-internacional/",
+     "domain": "brasil247.com",
+     "seendate": "20261015T204500Z"
     }
    ]
   }
