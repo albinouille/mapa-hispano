@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T23:54:14+00:00",
+ "updated": "2026-10-17T00:35:01+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -157,6 +157,24 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Fotógrafo y funcionario del DIF Tabasco muere tras ser atropellado intencionalmente en plaza comercial; responsable no ha sido identificado",
+     "url": "https://www.eluniversal.com.mx/estados/fotografo-y-funcionario-del-dif-tabasco-muere-tras-ser-atropellado-intencionalmente-en-plaza-comercial-responsable-no-ha-sido-identificado/",
+     "domain": "El Universal",
+     "seendate": "20261017T001019Z"
+    },
+    {
+     "title": "Autoridades de EU entregan a México al agresor de recepcionista de un hotel en Santa Fe; será trasladado al Reclusorio Oriente de CDMX",
+     "url": "https://www.eluniversal.com.mx/metropoli/autoridades-de-eu-entregan-a-mexico-al-agresor-de-recepcionista-de-un-hotel-en-santa-fe-sera-trasladado-al-reclusorio-oriente-de-cdmx/",
+     "domain": "El Universal",
+     "seendate": "20261016T235643Z"
+    },
+    {
+     "title": "Entre trajineras, pulque, brujas y nahuales; así se vivirá el Día de Muertos en Xochimilco",
+     "url": "https://www.eluniversal.com.mx/metropoli/entre-trajineras-pulque-brujas-y-nahuales-asi-se-vivira-el-dia-de-muertos-en-xochimilco/",
+     "domain": "El Universal",
+     "seendate": "20261016T234547Z"
+    },
     {
      "title": "Condenan a 20 años de prisión al padre de Dafne Zapata; lo encuentran culpable de violación equiparada contra su hija",
      "url": "https://www.eluniversal.com.mx/estados/condenan-a-20-anos-de-prision-al-padre-de-dafne-zapata-lo-encuentran-culpable-de-violacion-equiparada-contra-su-hija/",
@@ -378,24 +396,6 @@
      "url": "https://www.eluniversal.com.mx/metropoli/detienen-a-dona-mari-presunta-lider-de-narcomenudistas-en-reclusorios-le-decomisan-5-kilos-de-marihuana/",
      "domain": "El Universal",
      "seendate": "20261016T163826Z"
-    },
-    {
-     "title": "Sheinbaum niega dar instrucciones a la Corte; \"soy respetuosa de la autonomía\", dice",
-     "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-niega-dar-instrucciones-a-la-corte-soy-respetuosa-de-la-autonomia-dice/",
-     "domain": "El Universal",
-     "seendate": "20261016T163735Z"
-    },
-    {
-     "title": "Sheinbaum destaca estrategia de salud escolar tras aval de la Corte de prohibir comida chatarra; reconoce atención a menores",
-     "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-destaca-estrategia-de-salud-escolar-tras-aval-de-la-corte-de-prohibir-comida-chatarra-reconoce-atencion-a-menores/",
-     "domain": "El Universal",
-     "seendate": "20261016T162146Z"
-    },
-    {
-     "title": "Sheinbaum anuncia nueva Universidad Rosario Castellanos en antigua casa de \"El Negro\" Durazo; se ubicará en Tlalpan",
-     "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-anuncia-nueva-universidad-rosario-castellanos-en-antigua-casa-de-el-negro-durazo-se-ubicara-en-tlalpan/",
-     "domain": "El Universal",
-     "seendate": "20261016T141841Z"
     },
     {
      "title": "Trudy se degrada a huracán categoría 1; sigue en vivo su trayectoria",
@@ -724,6 +724,12 @@
   "CRI": {
    "articles": [
     {
+     "title": "IMN pronostica fuertes aguaceros y tormentas eléctricas este sábado: ¿cuáles zonas tendrán más lluvia?",
+     "url": "https://www.nacion.com/sucesos/imn-pronostica-fuertes-aguaceros-y-tormentas/YXKAG63GPBFDBI4OZ4IIIWWZOQ/story/",
+     "domain": "La Nación",
+     "seendate": "20261016T234712Z"
+    },
+    {
      "title": "Laura Fernández visita Cecot de El Salvador",
      "url": "https://www.nacion.com/politica/laura-fernandez-visita-cecot-de-el-salvador/RS4PLPPJR5AG5BKAD5ST5MW4WE/story/",
      "domain": "La Nación",
@@ -902,12 +908,6 @@
      "url": "https://www.nacion.com/sucesos/la-sospechosa-de-asesinar-a-un-estadounidense-con/EBRUNAGFURCWVGO6MXX53JE4HU/story/",
      "domain": "La Nación",
      "seendate": "20261016T091000Z"
-    },
-    {
-     "title": "¿Es Damaris Vargas la candidata más cómoda para el gobierno? Así respondió la aspirante a presidir la Corte Suprema de Justicia",
-     "url": "https://www.nacion.com/politica/es-damaris-vargas-la-candidata-mas-comoda-para-el/L452NW2JANBC7DNN6ZRX5BDFBY/story/",
-     "domain": "La Nación",
-     "seendate": "20261016T081500Z"
     }
    ]
   },
@@ -1044,12 +1044,6 @@
      "url": "https://www.prensa.com/sociedad/por-que-sigue-temblando-en-panama-experto-explica-cuanto-pueden-durar-las-replicas-del-terremoto/",
      "domain": "La Prensa",
      "seendate": "20261015T050100Z"
-    },
-    {
-     "title": "Minsa detecta 34 casos de malaria en trabajadores informales en los alrededores de Merca Panamá",
-     "url": "https://www.prensa.com/sociedad/minsa-detecta-34-casos-de-malaria-en-trabajadores-informales-en-los-alrededores-de-merca-panama/",
-     "domain": "La Prensa",
-     "seendate": "20261015T042500Z"
     },
     {
      "title": "Sinaproc reporta más de 13 mil personas afectadas por el terremoto",
@@ -1204,13 +1198,19 @@
      "title": "Directora de la ANT se pronunció tras la renuncia del funcionario que apareció en video cocinando un armadillo: 'Nadie está por encima de la ley'",
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/directora-de-la-ant-se-pronuncio-tras-la-renuncia-del-funcionario-que-aparecio-en-video-cocinando-un-armadillo-nadie-esta-por-encima-de-la-ley-3594160",
      "domain": "El Tiempo",
-     "seendate": "20261016T234325Z"
+     "seendate": "20261017T001255Z"
+    },
+    {
+     "title": "Video | Plan para que Cali adquiera una de las hidroeléctricas más grandes del país y así generar energía: 'No les costará ni un peso a los caleños'",
+     "url": "https://www.eltiempo.com/colombia/cali/video-plan-para-que-cali-adquiera-una-de-las-hidroelectricas-mas-grandes-del-pais-y-asi-generar-energia-no-les-costara-ni-un-peso-a-los-calenos-3594164",
+     "domain": "El Tiempo",
+     "seendate": "20261017T000353Z"
     },
     {
      "title": "Explosión en la variante de Popayán deja dos personas heridas; una estaría grave y cierran la vía por amenaza de explosivos",
      "url": "https://www.eltiempo.com/colombia/cali/explosion-en-la-variante-de-popayan-deja-dos-personas-heridas-una-estaria-grave-y-cierran-la-via-por-amenaza-de-explosivos-3594181",
      "domain": "El Tiempo",
-     "seendate": "20261016T233419Z"
+     "seendate": "20261017T000053Z"
     },
     {
      "title": "Capturan a alias 'Julito' en Santander, señalado de cometer homicidios y sicariatos; se escapó de una correccional en Bogotá hace meses",
@@ -1253,12 +1253,6 @@
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/tras-asesinar-a-su-esposo-en-medio-de-una-discusion-una-joven-en-boyaca-tendra-que-pagar-20-anos-de-prision-3594132",
      "domain": "El Tiempo",
      "seendate": "20261016T203957Z"
-    },
-    {
-     "title": "Medellín interviene quebradas y soterrados para prevenir nuevas emergencias por lluvias: van más de 7.500 metros cúbicos de residuos removidos en 2026",
-     "url": "https://www.eltiempo.com/colombia/medellin/medellin-interviene-quebradas-y-soterrados-para-prevenir-nuevas-emergencias-por-lluvias-van-mas-de-7-500-metros-cubicos-de-residuos-removidos-en-3594081",
-     "domain": "El Tiempo",
-     "seendate": "20261016T201318Z"
     }
    ]
   },
@@ -2449,16 +2443,40 @@
   "ARG": {
    "articles": [
     {
+     "title": "Javier Milei y sus medidas, EN VIVO: el FMI espera una “aceleración muy positiva de crecimiento económico para 2027″",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-fmi-espera-una-aceleracion-muy-positiva-de-crecimiento-nid16102026/",
+     "domain": "La Nación",
+     "seendate": "20261017T001927Z"
+    },
+    {
+     "title": "Sturzenegger y Santilli arremetieron contra la gestión de Kicillof, con vistas a la carrera presidencial de 2027",
+     "url": "https://www.lanacion.com.ar/politica/sturzenegger-y-santilli-arremetieron-contra-la-gestion-de-kicillof-con-vistas-a-la-carrera-nid16102026/",
+     "domain": "La Nación",
+     "seendate": "20261017T000950Z"
+    },
+    {
+     "title": "Gabriel Rolón: “Uno desea más haber sido feliz que ser feliz”",
+     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-uno-desea-mas-haber-sido-feliz-que-ser-feliz-nid16102026/",
+     "domain": "La Nación",
+     "seendate": "20261017T000000Z"
+    },
+    {
+     "title": "Conrado Estol: “Tenemos que considerar el envejecimiento como una enfermedad, y se puede curar”",
+     "url": "https://www.lanacion.com.ar/sociedad/conrado-estol-tenemos-que-considerar-el-envejecimiento-como-una-enfermedad-y-se-puede-curar-nid16102026/",
+     "domain": "La Nación",
+     "seendate": "20261017T000000Z"
+    },
+    {
+     "title": "Descartes, sobre la duda: “Si no pienso, luego me doy cuenta que tengo que estar existiendo, porque si yo no existo, no pienso”",
+     "url": "https://www.lanacion.com.ar/sociedad/descartes-sobre-la-duda-si-no-pienso-luego-me-doy-cuenta-que-tengo-que-estar-existiendo-porque-si-yo-nid16102026/",
+     "domain": "La Nación",
+     "seendate": "20261017T000000Z"
+    },
+    {
      "title": "Arthur Brooks, experto en felicidad de Harvard: “Hay una inteligencia que nace a partir de los 40 años”",
      "url": "https://www.lanacion.com.ar/sociedad/arthur-brooks-experto-en-felicidad-de-harvard-hay-una-inteligencia-que-nace-a-partir-de-los-40-anos-nid11102026/",
      "domain": "La Nación",
      "seendate": "20261016T234400Z"
-    },
-    {
-     "title": "Javier Milei y sus medidas, EN VIVO: el FMI espera una “aceleración muy positiva de crecimiento económico para 2027″",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-fmi-espera-una-aceleracion-muy-positiva-de-crecimiento-nid16102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T233600Z"
     },
     {
      "title": "El agua sigue bajando desde Brasil y ya pone en alerta a 17 puertos del Litoral",
@@ -2991,18 +3009,6 @@
      "seendate": "20261016T203013Z"
     },
     {
-     "title": "Escándalo en Asunción: becarios estallan contra la Municipalidad por falta de pagos y nombramientos de lujo",
-     "url": "https://www.abc.com.py/nacionales/2026/10/16/escandalo-en-asuncion-becarios-estallan-contra-la-municipalidad-por-falta-de-pagos-y-nombramientos-de-lujo/",
-     "domain": "ABC Color",
-     "seendate": "20261016T202650Z"
-    },
-    {
-     "title": "Pablo Benegas: restricciones por acoso en paralelo con su prisión preventiva",
-     "url": "https://www.abc.com.py/nacionales/2026/10/16/pablo-benegas-restricciones-por-acoso-en-paralelo-con-su-prision-preventiva/",
-     "domain": "ABC Color",
-     "seendate": "20261016T192947Z"
-    },
-    {
      "title": "Titular de Defensa Pública dice que no usó recurso institucional para viaje a Ginebra",
      "url": "https://www.abc.com.py/nacionales/2026/10/16/ministro-del-mdp-afirma-que-no-utilizo-recursos-del-estado-para-el-viaje-a-ginebra/",
      "domain": "ABC Color",
@@ -3016,7 +3022,31 @@
   "BRA": {
    "articles": [
     {
-     "title": "PT pede que Exército do Lula no WhatApp seja desvinculado da campanha após resolução do TSE",
+     "title": "Na Globo, Flávio reclama de ‘terrorismo’ de Lula e promete manter aumento real do salário mínimo e fim da escala 6x1",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/16/flavio-bolsonaro-e-entrevistado-pela-globo-no-segundo-turno.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261017T001738Z"
+    },
+    {
+     "title": "Empresa que intermediou recursos para filme sobre Bolsonaro declarou R$ 2,2 bilhões em investimentos no exterior",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/16/empresa-que-intermediou-recursos-para-filme-sobre-bolsonaro-declarou-r-22-bilhoes-em-investimentos-no-exterior.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261017T001715Z"
+    },
+    {
+     "title": "Lula deve enviar PEC que prevê gratuidade no transporte aos fins de semana ao Congresso na semana que vem",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/16/lula-deve-enviar-pec-que-preve-gratuidade-no-transporte-aos-fins-de-semana-ao-congresso-na-semana-que-vem.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261016T235643Z"
+    },
+    {
+     "title": "Flávio Bolsonaro na TV Globo: colunistas do GLOBO analisam em tempo real a entrevista com o bolsonarista",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/ao-vivo/flavio-bolsonaro-na-tv-globo-colunistas-do-globo-analisam-em-tempo-real-a-entrevista-com-o-bolsonarista.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261016T235147Z"
+    },
+    {
+     "title": "Nunes Marques autoriza campanha do PT a não se responsabilizar por 'Exército do Lula' no WhatsApp",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/16/pt-pede-que-exercito-do-lula-no-whatapp-seja-desvinculado-da-campanha-apos-resolucao-do-tse.ghtml",
      "domain": "O Globo",
      "seendate": "20261016T234538Z"
@@ -3146,24 +3176,6 @@
      "url": "https://oglobo.globo.com/brasil/noticia/2026/10/16/amazonia-tem-a-menor-taxa-de-desmatamento-desde-o-inicio-da-serie-historica-em-1988.ghtml",
      "domain": "O Globo",
      "seendate": "20261016T175513Z"
-    },
-    {
-     "title": "TSE aprova novas regras para canais de campanhas no WhatsApp",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/16/tse-aprova-novas-regras-para-canais-no-whatsapp.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261016T174526Z"
-    },
-    {
-     "title": "'Bolsonaristas vão acabar com essa medida e a (escala) 6x1 vai voltar', diz Lula após promulgação de PEC no Congresso",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/16/lula-comemora-fim-da-escala-6x1-em-comicio-em-juiz-de-fora-e-diz-que-pais-deve-evitar-retrocesso.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261016T173728Z"
-    },
-    {
-     "title": "Meta admite falhas envolvendo contas de Lula e nega interferência na eleição em benefício a Flávio Bolsonaro",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/16/meta-fala-em-lacuna-de-sistema-de-ia-que-favoreceu-montagens-para-flavio-e-diz-que-problema-foi-corrigido.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261016T173725Z"
     }
    ]
   }
