@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T20:23:28+00:00",
+ "updated": "2026-10-17T20:58:15+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -7,7 +7,7 @@
      "title": "Buscan a una persona desaparecida en Cabrera de Mar (Barcelona) por el temporal",
      "url": "https://elpais.com/espana/2026-10-17/emergencias-envia-mensajes-de-alerta-por-lluvias-a-la-poblacion-de-valencia-y-alicante.html",
      "domain": "El País",
-     "seendate": "20261017T193722Z"
+     "seendate": "20261017T203808Z"
     },
     {
      "title": "La Ertzaintza detiene en Irún a dos personas acusadas de terrorismo y con información sobre las fuerzas de seguridad",
@@ -76,12 +76,6 @@
      "seendate": "20261017T033001Z"
     },
     {
-     "title": "El desencuentro entre Rufián y Frente Amplio reabre viejas heridas entre ERC y Comuns",
-     "url": "https://elpais.com/espana/catalunya/2026-10-17/el-desencuentro-entre-rufian-y-frente-amplio-reabre-viejas-heridas-entre-erc-y-comuns.html",
-     "domain": "El País",
-     "seendate": "20261017T033001Z"
-    },
-    {
      "title": "El Defensor del Pueblo interpone un recurso de amparo ante el Constitucional por la suspensión del voto de los nacionalizados por la ‘ley de nietos’",
      "url": "https://elpais.com/espana/2026-10-16/el-defensor-del-pueblo-interpone-un-recurso-de-amparo-ante-el-constitucional-por-la-suspension-del-derecho-al-voto-a-nacionalizados-por-la-ley-de-nietos.html",
      "domain": "El País",
@@ -121,6 +115,24 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "FOTOS: Así se vive el Desfile y Concurso de Alebrijes Monumentales en CDMX; miles de personas inundan las calles en medio de música y color",
+     "url": "https://www.eluniversal.com.mx/metropoli/fotos-asi-se-vive-el-desfile-y-concurso-de-alebrijes-monumentales-en-cdmx-miles-de-personas-inundan-las-calles-en-medio-de-musica-y-color/",
+     "domain": "El Universal",
+     "seendate": "20261017T204355Z"
+    },
+    {
+     "title": "Sheinbaum hace visitas sorpresa a centros de salud en Yucatán; \"cuando dicen que iré todo arreglan, por eso ya no aviso\"",
+     "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-hace-visitas-sorpresa-a-centros-de-salud-en-yucatan-cuando-dicen-que-ire-todo-arreglan-por-eso-ya-no-aviso/",
+     "domain": "El Universal",
+     "seendate": "20261017T203553Z"
+    },
+    {
+     "title": "César Jáuregui, exfiscal de Chihuahua será puesto a disposición de un Juez; “ningún resultado está por encima de la ley”: Fiscalía",
+     "url": "https://www.eluniversal.com.mx/estados/cesar-jauregui-exfiscal-de-chihuahua-sera-puesto-a-disposicion-de-un-juez-ningun-resultado-esta-por-encima-de-la-ley-fiscalia/",
+     "domain": "El Universal",
+     "seendate": "20261017T202339Z"
+    },
     {
      "title": "\"El primito\", líder del CJNG en Tamaulipas, se ampara contra extradición a EU; sigue prófugo",
      "url": "https://www.eluniversal.com.mx/nacion/el-primito-lider-del-cjng-en-tamaulipas-se-ampara-contra-extradicion-a-eu-sigue-profugo/",
@@ -236,18 +248,6 @@
      "seendate": "20261017T144819Z"
     },
     {
-     "title": "Emiten alerta por posible caso de fiebre aftosa en ganado mexicano; esperan resultados para reanudar exportaciones",
-     "url": "https://www.eluniversal.com.mx/nacion/emiten-alerta-por-posible-caso-de-fiebre-aftosa-en-ganado-mexicano-esperan-resultados-para-reanudar-exportaciones/",
-     "domain": "El Universal",
-     "seendate": "20261017T103523Z"
-    },
-    {
-     "title": "Trabajadores del IMSS prevén oferta salarial de 6%; destitución de Olivos no es negociable, dicen",
-     "url": "https://www.eluniversal.com.mx/nacion/trabajadores-del-imss-preven-oferta-salarial-de-6-destitucion-de-olivos-no-es-negociable-dicen/",
-     "domain": "El Universal",
-     "seendate": "20261017T070508Z"
-    },
-    {
      "title": "Trudy se degrada a huracán categoría 1; sigue en vivo su trayectoria",
      "url": "https://www.eluniversal.com.mx/estados/trudy-se-mantiene-como-huracan-categoria-3-sigue-en-vivo-su-trayectoria/",
      "domain": "El Universal",
@@ -321,6 +321,12 @@
   },
   "HND": {
    "articles": [
+    {
+     "title": "Mantienen alerta verde en el Distrito Central y el Lago de Yojoa por lluvias",
+     "url": "https://www.elheraldo.hn/honduras/copeco-mantiene-alerta-verde-distrito-central-lago-yojoa-lluvias-EH32353601",
+     "domain": "elheraldo.hn",
+     "seendate": "20261017T193000Z"
+    },
     {
      "title": "COPECO extiende por 48 horas la Alerta Verde en Tegucigalpa y zonas aledañas al Lago de Yojoa",
      "url": "https://abriendobrecha.tv/nacionales/copeco-extiende-por-48-horas-la-alerta-verde-en-tegucigalpa-y-zonas-aledanas-al-lago-de-yojoa/",
@@ -664,6 +670,18 @@
   "CRI": {
    "articles": [
     {
+     "title": "Jueza suspendida por investigación en Asosejud rechaza haber recibido créditos privilegiados",
+     "url": "https://www.nacion.com/sucesos/jueza-suspendida-por-investigacion-en-asosejud/YUIZ7C4SIFCR3IXTS6SYRF3INY/story/",
+     "domain": "La Nación",
+     "seendate": "20261017T204321Z"
+    },
+    {
+     "title": "Asesinan a hombre a balazos dentro de un automóvil en San Miguel de Desamparados",
+     "url": "https://www.nacion.com/sucesos/asesinan-a-hombre-a-balazos-dentro-de-un-automovil/U7KBUKMBKRCEXHEXAQ53XG4OGE/story/",
+     "domain": "La Nación",
+     "seendate": "20261017T204019Z"
+    },
+    {
      "title": "Una persona muere en incendio que consume vivienda en Moravia y obliga a rescatar personas de un balcón",
      "url": "https://www.nacion.com/sucesos/una-persona-muere-en-incendio-que-consume-vivienda/JL6A2ZIGWVHVRGU5ZB7KA5N3AY/story/",
      "domain": "La Nación",
@@ -829,6 +847,12 @@
   },
   "PAN": {
    "articles": [
+    {
+     "title": "Universidad de Panamá retomará clases presenciales de forma escalonada desde el 19 de octubre",
+     "url": "https://www.prensa.com/sociedad/universidad-de-panama-retomara-clases-presenciales-de-forma-escalonada-desde-el-19-de-octubre/",
+     "domain": "La Prensa",
+     "seendate": "20261017T203031Z"
+    },
     {
      "title": "Terremoto en Panamá provocó al menos 2,351 deslizamientos de tierra",
      "url": "https://www.prensa.com/sociedad/terremoto-en-panama-provoco-al-menos-2351-deslizamientos-de-tierra/",
@@ -1087,16 +1111,16 @@
   "COL": {
    "articles": [
     {
+     "title": "'Un milagro': el senador Duvalier Sánchez reveló los angustiantes momentos en que el exalcalde de Jamundí sobrevivió a un atentado sicarial",
+     "url": "https://www.eltiempo.com/colombia/cali/un-milagro-el-senador-duvalier-sanchez-revelo-los-angustiantes-momentos-en-que-el-exalcalde-de-jamundi-sobrevivio-a-un-atentado-sicarial-3594315",
+     "domain": "El Tiempo",
+     "seendate": "20261017T201427Z"
+    },
+    {
      "title": "Santa Verónica recupera 2,1 kilómetros de costa tras inversión de casi $94.000 millones para frenar la erosión y reactivar el turismo en el Atlántico.",
      "url": "https://www.eltiempo.com/colombia/barranquilla/santa-veronica-recupera-2-1-kilometros-de-costa-tras-inversion-de-casi-94-000-millones-para-frenar-la-erosion-y-reactivar-el-turismo-en-el-atlantico-3594308",
      "domain": "El Tiempo",
      "seendate": "20261017T200100Z"
-    },
-    {
-     "title": "'Un milagro': el senador Duvalier Sánchez reveló los angustiantes momentos en que el exalcalde de Jamundí sobrevivió a un atentado sicarial",
-     "url": "https://www.eltiempo.com/colombia/cali/un-milagro-el-senador-duvalier-sanchez-revelo-los-angustiantes-momentos-en-que-el-exalcalde-de-jamundi-sobrevivio-a-un-atentado-sicarial-3594315",
-     "domain": "El Tiempo",
-     "seendate": "20261017T195655Z"
     },
     {
      "title": "Temblor hoy en Colombia, 17 de octubre: reportan sismo de magnitud 3,2 en Tolima; esto se sabe del movimiento sísmico",
@@ -1478,6 +1502,12 @@
   },
   "ECU": {
    "articles": [
+    {
+     "title": "Gobierno cuenta con un plan preventivo para los efectos del fenómeno de El Niño",
+     "url": "https://eluniverso.com/politica/ejecutivo/gobierno-plan-preventivo-para-los-efectos-del-fenomeno-del-nino-nota/",
+     "domain": "El Universo",
+     "seendate": "20261017T203100Z"
+    },
     {
      "title": "Incautan más de 113 kilos de cocaína en el sector de Las Piedras, en Esmeraldas",
      "url": "https://eluniverso.com/comunidad/ecuador/incautan-mas-de-113-kilos-de-cocaina-en-el-sector-las-piedras-en-esmeraldas-nota/",
@@ -2287,10 +2317,16 @@
   "ARG": {
    "articles": [
     {
+     "title": "La renovada ofensiva de Milei por Malvinas profundizó la crisis bilateral con Gran Bretaña",
+     "url": "https://www.lanacion.com.ar/politica/la-renovada-ofensiva-de-milei-por-malvinas-profundizo-la-crisis-bilateral-con-gran-bretana-nid17102026/",
+     "domain": "La Nación",
+     "seendate": "20261017T203837Z"
+    },
+    {
      "title": "El PJ hizo actos divididos por el Día de la Lealtad y hubo una masiva movilización a San José 1111 por Cristina Kirchner",
      "url": "https://www.lanacion.com.ar/politica/dia-de-la-lealtad-el-pj-pidio-por-la-libertad-de-cristina-kirchner-y-el-fin-de-su-proscripcion-nid17102026/",
      "domain": "La Nación",
-     "seendate": "20261017T201703Z"
+     "seendate": "20261017T202257Z"
     },
     {
      "title": "Esta es la principal causa de muerte en menores de 5 años y se puede prevenir",
@@ -2387,12 +2423,6 @@
      "url": "https://www.lanacion.com.ar/seguridad/detuvieron-al-padre-de-agostina-paez-la-argentina-que-estuvo-presa-en-brasil-por-gestos-racistas-nid17102026/",
      "domain": "La Nación",
      "seendate": "20261017T150330Z"
-    },
-    {
-     "title": "La crisis del mercado laboral detrás de la revolución del monotributo",
-     "url": "https://www.lanacion.com.ar/politica/la-crisis-del-mercado-laboral-detras-de-la-revolucion-del-monotributo-nid17102026/",
-     "domain": "La Nación",
-     "seendate": "20261017T143615Z"
     }
    ]
   },
@@ -2769,7 +2799,7 @@
      "seendate": "20261017T192028Z"
     },
     {
-     "title": "Con presencia de Santiago Peña y Pedro Alliana, inauguran la Expo Amambay 2026",
+     "title": "Ganaderos piden energía y Peña se queja de “mal relato de los medios” en Amambay",
      "url": "https://www.abc.com.py/nacionales/2026/10/17/con-presencia-de-santiago-pena-y-pedro-alliana-inauguran-la-expo-amambay-2026/",
      "domain": "ABC Color",
      "seendate": "20261017T185223Z"
@@ -2793,22 +2823,10 @@
      "seendate": "20261017T175551Z"
     },
     {
-     "title": "Caso Quyquyhó: extitular de Junta Municipal, a un paso de perder la suspensión condicional",
-     "url": "https://www.abc.com.py/nacionales/2026/10/17/caso-quyquyho-extitular-de-junta-municipal-a-un-paso-de-perder-la-suspension-condicional/",
-     "domain": "ABC Color",
-     "seendate": "20261017T161846Z"
-    },
-    {
      "title": "“Tienen abandonados a los pacientes”, denuncian por falta de fármacos en el IPS",
      "url": "https://www.abc.com.py/nacionales/2026/10/17/tienen-abandonados-a-los-pacientes-denuncian-por-falta-de-farmacos-en-el-ips/",
      "domain": "ABC Color",
      "seendate": "20261017T161157Z"
-    },
-    {
-     "title": "El río Paraguay registra repunte generalizado mientras el Paraná muestra comportamiento mixto",
-     "url": "https://www.abc.com.py/nacionales/2026/10/17/el-rio-paraguay-registra-repunte-generalizado-mientras-el-parana-muestra-comportamiento-mixto/",
-     "domain": "ABC Color",
-     "seendate": "20261017T160003Z"
     }
    ]
   },
