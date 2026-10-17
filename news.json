@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T03:01:54+00:00",
+ "updated": "2026-10-17T03:32:18+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -158,6 +158,18 @@
   "MEX": {
    "articles": [
     {
+     "title": "Asesinan a tres actores políticos en Chiapas en las últimas horas; víctimas pertenecían al PAN y Morena",
+     "url": "https://www.eluniversal.com.mx/estados/asesinan-a-tres-politicos-en-chiapas-en-las-ultimas-horas-victimas-pertenecian-al-pan-y-morena/",
+     "domain": "El Universal",
+     "seendate": "20261017T031433Z"
+    },
+    {
+     "title": "México presenta a la ONU avances de la estrategia de búsqueda de desaparecidos; destaca localización de 16 mil personas",
+     "url": "https://www.eluniversal.com.mx/nacion/mexico-presenta-a-la-onu-avances-de-la-estrategia-de-busqueda-de-desaparecidos-destaca-localizacion-de-16-mil-personas/",
+     "domain": "El Universal",
+     "seendate": "20261017T031417Z"
+    },
+    {
      "title": "Inicia remediación del Río Sonora; retirarán 100 mil toneladas de suelo contaminado por Grupo México",
      "url": "https://www.eluniversal.com.mx/estados/inicia-remediacion-del-rio-sonora-retiraran-100-mil-toneladas-de-suelo-contaminado-por-grupo-mexico/",
      "domain": "El Universal",
@@ -176,7 +188,7 @@
      "seendate": "20261017T022647Z"
     },
     {
-     "title": "VIDEO Se registra riña entre automovilista y repartidores en Coapa; agresión fue ocasionada por presunto atropellamiento",
+     "title": "VIDEO Se registra riña entre automovilista y repartidores en Coapa; hay una persona detenida y dos lesionados",
      "url": "https://www.eluniversal.com.mx/metropoli/video-se-registra-rina-entre-automovilista-y-repartidores-en-coapa-agresion-fue-ocasionada-por-presunto-atropellamiento/",
      "domain": "El Universal",
      "seendate": "20261017T015757Z"
@@ -390,18 +402,6 @@
      "url": "https://www.eluniversal.com.mx/estados/alistan-destruccion-de-tunel-para-robo-de-combustible-en-parque-industrial-de-atitalaquia-hidalgo-localizan-otro-en-atotonilco-de-tula/",
      "domain": "El Universal",
      "seendate": "20261016T194516Z"
-    },
-    {
-     "title": "¿Quieres adoptar un perrito? El Metro tiene 43 que buscan hogar; en el año suman 73 canes rescatados",
-     "url": "https://www.eluniversal.com.mx/metropoli/quieres-adoptar-un-perrito-el-metro-tiene-43-que-buscan-hogar-en-el-ano-suman-73-canes-rescatados/",
-     "domain": "El Universal",
-     "seendate": "20261016T193448Z"
-    },
-    {
-     "title": "Caen en Culiacán 4 traficantes de armas para el Cártel de Sinaloa; les aseguran 200 dosis de drogas",
-     "url": "https://www.eluniversal.com.mx/nacion/caen-en-culiacan-4-hombres-ligados-a-celula-delictiva-que-trafica-armas-para-el-cartel-de-sinaloa-aseguran-200-dosis-de-drogas/",
-     "domain": "El Universal",
-     "seendate": "20261016T190046Z"
     },
     {
      "title": "Trudy se degrada a huracán categoría 1; sigue en vivo su trayectoria",
@@ -736,6 +736,12 @@
   "CRI": {
    "articles": [
     {
+     "title": "Laura Fernández defiende medidas penitenciarias más estrictas tras visitar cárcel de Bukele: ‘No se trata de renunciar a los derechos humanos’",
+     "url": "https://www.nacion.com/politica/laura-fernandez-defiende-medidas-penitenciarias/OB7RMTCPEBEBHP5BIOHGJMGV4Y/story/",
+     "domain": "La Nación",
+     "seendate": "20261017T031448Z"
+    },
+    {
      "title": "Chances de la JPS: estos son los números ganadores del sorteo especial de este viernes 16 de octubre",
      "url": "https://www.nacion.com/el-pais/chances-de-la-jps-estos-son-los-numeros-ganadores/GXYRFMBGGZB27M36AZLPNPPFKQ/story/",
      "domain": "La Nación",
@@ -920,12 +926,6 @@
      "url": "https://www.nacion.com/el-pais/hace-50-anos-estudiantes-organizaron-un-seminario/K5FYY2FB6JCZZK4Q6GIC2SRMSQ/story/",
      "domain": "La Nación",
      "seendate": "20261016T133000Z"
-    },
-    {
-     "title": "TSE cambia reglas de paridad para elecciones municipales de 2028 tras detectar que mujeres son postuladas en cantones con pocas posibilidades de ganar",
-     "url": "https://www.nacion.com/politica/tse-cambia-reglas-de-paridad-para-elecciones/TRK75GIC6ZGLDMVP2UR2YOQNEA/story/",
-     "domain": "La Nación",
-     "seendate": "20261016T120000Z"
     }
    ]
   },
@@ -1038,12 +1038,6 @@
      "url": "https://www.prensa.com/sociedad/es-seguro-comprar-en-merca-panama-tras-los-casos-de-malaria/",
      "domain": "La Prensa",
      "seendate": "20261015T143350Z"
-    },
-    {
-     "title": "CSS: pago a jubilados y pensionados será el 16 de octubre de 2026",
-     "url": "https://www.prensa.com/sociedad/css-pago-a-jubilados-y-pensionados-sera-el-16-de-octubre-de-2026/",
-     "domain": "La Prensa",
-     "seendate": "20261015T142021Z"
     },
     {
      "title": "Cuando el paraíso tembló: Torio y Quebro afrontan el reto de reconstruir sus vidas y el turismo",
@@ -1219,6 +1213,12 @@
   "COL": {
    "articles": [
     {
+     "title": "Atención | Atentado sicarial contra el exalcalde de Jamundí Andrés Felipe Ramírez deja un escolta asesinado",
+     "url": "https://www.eltiempo.com/colombia/cali/atencion-atentado-sicarial-contra-el-exalcalde-de-jamundi-andres-felipe-ramirez-deja-un-escolta-asesinado-3594221",
+     "domain": "El Tiempo",
+     "seendate": "20261017T032531Z"
+    },
+    {
      "title": "'¡Se acabó la guachafita!': el presidente De La Espriella lideró operativo en Barranquilla; 72 capturados y golpes a cabecillas de bandas criminales",
      "url": "https://www.eltiempo.com/colombia/barranquilla/se-acabo-la-guachafita-el-presidente-de-la-espriella-lidero-operativo-en-barranquilla-72-capturados-y-golpes-a-cabecillas-de-bandas-criminales-3594138",
      "domain": "El Tiempo",
@@ -1271,12 +1271,6 @@
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/afinia-investiga-presunto-fraude-de-energia-en-empresa-hielera-de-cartagena-reportan-perdidas-superiores-a-los-36-millones-al-mes-3594142",
      "domain": "El Tiempo",
      "seendate": "20261016T210705Z"
-    },
-    {
-     "title": "Tras asesinar a su esposo en medio de una discusión, una joven en Boyacá tendrá que pagar 20 años de prisión",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/tras-asesinar-a-su-esposo-en-medio-de-una-discusion-una-joven-en-boyaca-tendra-que-pagar-20-anos-de-prision-3594132",
-     "domain": "El Tiempo",
-     "seendate": "20261016T203957Z"
     }
    ]
   },
@@ -1622,6 +1616,12 @@
   },
   "ECU": {
    "articles": [
+    {
+     "title": "Horarios de mantenimiento eléctrico en Tungurahua, Napo y Cotopaxi este sábado 17 de octubre de 2026",
+     "url": "https://eluniverso.com/comunidad/ecuador/horarios-de-mantenimiento-electrico-en-tungurahua-napo-y-cotopaxi-este-sabado-17-de-octubre-de-2026-nota/",
+     "domain": "El Universo",
+     "seendate": "20261017T031911Z"
+    },
     {
      "title": "Horarios de mantenimiento eléctrico en Manabí este sábado 17 de octubre",
      "url": "https://eluniverso.com/comunidad/ecuador/horarios-de-mantenimiento-electrico-en-manabi-este-sabado-17-de-octubre-nota/",
@@ -2645,23 +2645,71 @@
      "url": "https://www.lanacion.com.ar/sociedad/arthur-brooks-experto-de-harvard-de-62-anos-lo-que-hacen-las-personas-felices-y-exitosas-en-la-nid08102026/",
      "domain": "La Nación",
      "seendate": "20261016T224600Z"
-    },
-    {
-     "title": "Qué es la Púrpura Trombocitopénica Idiopática, la enfermedad de la ex Gran Hermano Denisse González, explicada por una hematóloga",
-     "url": "https://www.lanacion.com.ar/sociedad/que-es-el-trastorno-de-purpura-trombocitopenica-idiopatica-la-enfermedad-de-denisse-gonzalez-nid15102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T223023Z"
-    },
-    {
-     "title": "“El agua viene fuerte”: la crecida acecha y el éxodo de animales y de pobladores en el Litoral entró en su hora más crítica",
-     "url": "https://www.lanacion.com.ar/economia/campo/el-agua-viene-fuerte-en-las-islas-del-litoral-se-profundiza-el-exodo-de-miles-de-animales-y-de-nid16102026/",
-     "domain": "La Nación",
-     "seendate": "20261016T222842Z"
     }
    ]
   },
   "URY": {
    "articles": [
+    {
+     "title": "Ministerio de Ganadería declara alerta institucional por El Niño : fijan planes de acción y contingencia",
+     "url": "https://www.elpais.com.uy/informacion/politica/ministerio-de-ganaderia-declara-alerta-institucional-por-el-nino-fijan-planes-de-accion-y-contingencia",
+     "domain": "elpais.com.uy",
+     "seendate": "20261017T001500Z"
+    },
+    {
+     "title": "El Paraíso hizo una gran venta en conjunto con Agromeluy y Manga Vieja : fueron 62 toros en total con US$ 5 . 955 de media",
+     "url": "https://rurales.elpais.com.uy/zafra-de-toros/el-paraiso-hizo-una-gran-venta-en-conjunto-con-agromeluy-y-manga-vieja-fueron-62-toros-en-total-con-us-5-955-de-media",
+     "domain": "rurales.elpais.com.uy",
+     "seendate": "20261017T000000Z"
+    },
+    {
+     "title": "Retiro anticipado a los 60 años : qué dice el proyecto de ley que el Poder Ejecutivo envió al Parlamento",
+     "url": "https://www.elpais.com.uy/informacion/politica/retiro-anticipado-a-los-60-anos-que-dice-el-proyecto-de-ley-que-el-poder-ejecutivo-envio-al-parlamento",
+     "domain": "elpais.com.uy",
+     "seendate": "20261017T000000Z"
+    },
+    {
+     "title": "Salud Mental : Desde el Ministerio de Salud Pública tenemos muchos desafíos , reconoció Lustemberg",
+     "url": "https://www.carasycaretas.com.uy/politica/salud-mental-desde-el-ministerio-salud-publica-tenemos-muchos-desafios-reconocio-lustemberg-n100231",
+     "domain": "carasycaretas.com.uy",
+     "seendate": "20261016T233000Z"
+    },
+    {
+     "title": "Ciudad de la Costa celebra los vinos uruguayos con el festival gratuito Al Paso",
+     "url": "https://www.carasycaretas.com.uy/sociedad/ciudad-la-costa-celebra-los-vinos-uruguayos-el-festival-gratuito-al-paso-n100222",
+     "domain": "carasycaretas.com.uy",
+     "seendate": "20261016T230000Z"
+    },
+    {
+     "title": "La trama detrás de Eros , el narco barra que cayó en un puerto de Italia",
+     "url": "https://www.carasycaretas.com.uy/sociedad/la-trama-detras-eros-el-narco-barra-que-cayo-un-puerto-italia-n100223",
+     "domain": "carasycaretas.com.uy",
+     "seendate": "20261016T230000Z"
+    },
+    {
+     "title": "Más de la mitad de los presos abandonó sus estudios antes de los 15 años , según censo carcelario",
+     "url": "https://www.elpais.com.uy/informacion/policiales/mas-de-la-mitad-de-los-presos-abandono-sus-estudios-antes-de-los-15-anos-segun-censo-carcelario",
+     "domain": "elpais.com.uy",
+     "seendate": "20261016T230000Z"
+    },
+    {
+     "title": "Copa AUF Uruguay : qué equipos están clasificados , cómo y cuándo se sortean los octavos de final",
+     "url": "https://www.elpais.com.uy/ovacion/futbol/copa-auf-uruguay-que-equipos-estan-clasificados-como-y-cuando-se-sortean-los-octavos-de-final",
+     "domain": "elpais.com.uy",
+     "seendate": "20261016T224500Z"
+    },
+    {
+     "title": "El pronóstico para el sábado 17 de octubre de 2026 : cómo estará el tiempo en cada zona del país , según Inumet",
+     "url": "https://www.elpais.com.uy/informacion/servicios/el-pronostico-para-el-sabado-17-de-octubre-de-2026-como-estara-el-tiempo-en-cada-zona-del-pais-segun-inumet",
+     "domain": "elpais.com.uy",
+     "seendate": "20261016T224500Z"
+    },
+    {
+     "title": "Cerro 1 - 0 Cerro Largo en vivo por el Torneo Clausura : Guasone ganó por arriba para adelantar al Villero",
+     "url": "https://www.elpais.com.uy/ovacion/futbol/cerro-vs-cerro-largo-en-vivo-por-el-torneo-clausura-segui-en-directo-el-minuto-a-minuto-del-partido",
+     "domain": "elpais.com.uy",
+     "seendate": "20261016T224500Z"
+    },
     {
      "title": "Alejandro Sánchez cuestionó a la oposición por críticas a la inversión de Solaria : Hay quienes lo que hacen es agredir al inversor",
      "url": "https://www.elobservador.com.uy/nacional/alejandro-sanchez-cuestiono-la-oposicion-criticas-la-inversion-solaria-hay-quienes-lo-que-hacen-es-agredir-al-inversor-n6060681",
@@ -2759,14 +2807,14 @@
      "seendate": "20261016T151500Z"
     },
     {
-     "title": "El Salvador autoritario : La otra cara de Bukele",
-     "url": "https://www.carasycaretas.com.uy/politica/el-salvador-autoritario-la-otra-cara-bukele-n100207",
+     "title": "Fernando Pereira : el congreso y la esperanza",
+     "url": "https://www.carasycaretas.com.uy/fernando-pereira-el-congreso-y-la-esperanza-n100203",
      "domain": "carasycaretas.com.uy",
      "seendate": "20261016T133000Z"
     },
     {
-     "title": "Fernando Pereira : el congreso y la esperanza",
-     "url": "https://www.carasycaretas.com.uy/fernando-pereira-el-congreso-y-la-esperanza-n100203",
+     "title": "El Salvador autoritario : La otra cara de Bukele",
+     "url": "https://www.carasycaretas.com.uy/politica/el-salvador-autoritario-la-otra-cara-bukele-n100207",
      "domain": "carasycaretas.com.uy",
      "seendate": "20261016T133000Z"
     },
@@ -2961,60 +3009,6 @@
      "url": "https://www.eltelegrafo.com/2026/10/union-europea-restablece-habilitacion-sanitaria-para-ingreso-de-equinos-procedentes-de-uruguay/",
      "domain": "eltelegrafo.com",
      "seendate": "20261016T054500Z"
-    },
-    {
-     "title": "Apefpay organiza el primer foro regional de gestión deportiva",
-     "url": "https://www.eltelegrafo.com/2026/10/apefpay-organiza-el-primer-foro-regional-de-gestion-deportiva/",
-     "domain": "eltelegrafo.com",
-     "seendate": "20261016T054500Z"
-    },
-    {
-     "title": "El Ascenso profesional votó eliminar un descenso directo",
-     "url": "https://www.eltelegrafo.com/2026/10/el-ascenso-profesional-voto-eliminar-un-descenso-directo/",
-     "domain": "eltelegrafo.com",
-     "seendate": "20261016T054500Z"
-    },
-    {
-     "title": "Bordaberry reclamó cambios urgentes ante un Estado que gasta mucho y mal – Diario El Telégrafo",
-     "url": "https://www.eltelegrafo.com/2026/10/bordaberry-reclamo-cambios-urgentes-ante-un-estado-que-gasta-mucho-y-mal/",
-     "domain": "eltelegrafo.com",
-     "seendate": "20261016T054500Z"
-    },
-    {
-     "title": "Las luchas que incomodan - Semanario Brecha",
-     "url": "https://brecha.com.uy/las-luchas-que-incomodan/",
-     "domain": "brecha.com.uy",
-     "seendate": "20261016T050000Z"
-    },
-    {
-     "title": "Copy paste genético - Semanario Brecha",
-     "url": "https://brecha.com.uy/copy-paste-genetico/",
-     "domain": "brecha.com.uy",
-     "seendate": "20261016T050000Z"
-    },
-    {
-     "title": "Andrade dijo que la inversión de la empresa española le da un poco de oxígeno al país | la diaria",
-     "url": "https://ladiaria.com.uy/politica/articulo/2026/10/andrade-dijo-que-la-inversion-de-la-empresa-espanola-le-da-un-poco-de-oxigeno-al-pais/",
-     "domain": "ladiaria.com.uy",
-     "seendate": "20261016T033000Z"
-    },
-    {
-     "title": "Mi larva está en la frontera : el cangrejo sirí llama a pensar una estrategia de manejo conjunta entre Uruguay y Brasil",
-     "url": "https://ladiaria.com.uy/ciencia/articulo/2026/10/mi-larva-esta-en-la-frontera-el-cangrejo-siri-llama-a-pensar-una-estrategia-de-manejo-conjunta-entre-uruguay-y-brasil/",
-     "domain": "ladiaria.com.uy",
-     "seendate": "20261016T033000Z"
-    },
-    {
-     "title": "Ancap estima en un 25 % la probabilidad de encontrar petróleo en el mar uruguayo",
-     "url": "https://www.radiomontecarlo.com.uy/articulos/articulos_masinfo.php?secc=articulos&id=115070&path=0.2308",
-     "domain": "radiomontecarlo.com.uy",
-     "seendate": "20261016T021500Z"
-    },
-    {
-     "title": "Debut de Nahuel Gelos en Nacional : de un ingresó picante que generó una amarilla a la primera roja de su carrera",
-     "url": "https://www.elpais.com.uy/ovacion/futbol/el-debut-de-nahuel-gelos-de-un-buen-desborde-y-generar-una-amarilla-a-ver-la-primera-roja-en-su-carrera",
-     "domain": "elpais.com.uy",
-     "seendate": "20261016T021500Z"
     }
    ]
   },
