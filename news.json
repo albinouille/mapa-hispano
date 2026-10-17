@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T15:57:54+00:00",
+ "updated": "2026-10-17T16:25:04+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -116,6 +116,18 @@
   "MEX": {
    "articles": [
     {
+     "title": "Dictan prisión preventiva al \"Comandante Cromo\", líder de célula afín al CJNG; es ingresado al Altiplano",
+     "url": "https://www.eluniversal.com.mx/nacion/dictan-prision-preventiva-al-comandante-cromo-lider-de-celula-afin-al-cjng-es-ingresado-al-altiplano/",
+     "domain": "El Universal",
+     "seendate": "20261017T160916Z"
+    },
+    {
+     "title": "¡Toma precauciones! Estas son las marchas y concentraciones previstas para este sábado 17 de octubre en la CDMX",
+     "url": "https://www.eluniversal.com.mx/metropoli/toma-precauciones-estas-son-las-marchas-y-concentraciones-previstas-para-este-sabado-17-de-octubre-en-la-cdmx/",
+     "domain": "El Universal",
+     "seendate": "20261017T155744Z"
+    },
+    {
      "title": "Detienen a hombre en fraccionamiento residencial de Mazatlán; aseguran 8 vehículos, dinero en efectivo y divisas extranjeras",
      "url": "https://www.eluniversal.com.mx/nacion/detienen-a-hombre-en-fraccionamiento-residencial-de-mazatlan-aseguran-8-vehiculos-dinero-en-efectivo-y-divisas-extranjeras/",
      "domain": "El Universal",
@@ -212,22 +224,10 @@
      "seendate": "20261017T032347Z"
     },
     {
-     "title": "Asesinan a tres actores políticos en Chiapas en las últimas horas; víctimas pertenecían al PAN y Morena",
-     "url": "https://www.eluniversal.com.mx/estados/asesinan-a-tres-politicos-en-chiapas-en-las-ultimas-horas-victimas-pertenecian-al-pan-y-morena/",
-     "domain": "El Universal",
-     "seendate": "20261017T031433Z"
-    },
-    {
      "title": "México presenta a la ONU avances de la estrategia de búsqueda de desaparecidos; destaca localización de 16 mil personas",
      "url": "https://www.eluniversal.com.mx/nacion/mexico-presenta-a-la-onu-avances-de-la-estrategia-de-busqueda-de-desaparecidos-destaca-localizacion-de-16-mil-personas/",
      "domain": "El Universal",
      "seendate": "20261017T031417Z"
-    },
-    {
-     "title": "VIDEO Se registra riña entre automovilista y repartidores en Coapa; hay una persona detenida y dos lesionados",
-     "url": "https://www.eluniversal.com.mx/metropoli/video-se-registra-rina-entre-automovilista-y-repartidores-en-coapa-agresion-fue-ocasionada-por-presunto-atropellamiento/",
-     "domain": "El Universal",
-     "seendate": "20261017T015757Z"
     },
     {
      "title": "Trudy se degrada a huracán categoría 1; sigue en vivo su trayectoria",
@@ -603,6 +603,12 @@
   },
   "CRI": {
    "articles": [
+    {
+     "title": "MEP revoca el permiso con goce de salario de los afiliados del SEC previsto para el 20 de octubre. Gilberth Díaz afirma que la medida afecta la presentación de informes",
+     "url": "https://www.nacion.com/el-pais/mep-revoca-el-permiso-con-goce-de-salario-de-los/FB554EOWSJFN7JEQVIEW22FGCA/story/",
+     "domain": "La Nación",
+     "seendate": "20261017T155544Z"
+    },
     {
      "title": "Tres fallecidos y 13 heridos en una trágica noche de accidentes de tránsito",
      "url": "https://www.nacion.com/sucesos/tres-fallecidos-y-13-heridos-en-una-tragica-noche/QZ3WTHIJBNE5TF5JFBLDATPPB4/story/",
@@ -1018,7 +1024,19 @@
      "title": "La hipótesis tras el atentado de sicarios a Wilber Hernández en un cortejo fúnebre en una vía de Santander: ¿quién es el comerciante atacado?",
      "url": "https://www.eltiempo.com/colombia/santander/la-hipotesis-tras-el-atentado-de-sicarios-a-wilber-hernandez-en-un-cortejo-funebre-en-una-via-de-santander-quien-es-el-comerciante-atacado-3594261",
      "domain": "El Tiempo",
-     "seendate": "20261017T152939Z"
+     "seendate": "20261017T160928Z"
+    },
+    {
+     "title": "Alias Keko, señalado socio del Negro Ober: así habría operado la red de extorsión a comerciantes y vecinos de Barranquilla y Soledad según la Fiscalía",
+     "url": "https://www.eltiempo.com/colombia/barranquilla/alias-keko-senalado-socio-del-negro-ober-asi-habria-operado-la-red-de-extorsion-a-comerciantes-y-vecinos-de-barranquilla-y-soledad-segun-la-fiscalia-3594271",
+     "domain": "El Tiempo",
+     "seendate": "20261017T160100Z"
+    },
+    {
+     "title": "Videos clave y $ 150 millones en juego: las primeras pistas del atentado contra el exalcalde de Jamundí que dejó un escolta sin vida",
+     "url": "https://www.eltiempo.com/colombia/cali/videos-clave-y-150-millones-en-juego-las-primeras-pistas-del-atentado-contra-el-exalcalde-de-jamundi-que-dejo-un-escolta-sin-vida-3594269",
+     "domain": "El Tiempo",
+     "seendate": "20261017T154536Z"
     },
     {
      "title": "Ideam advierte por fuertes lluvias y tormentas eléctricas en Colombia este fin de semana: estos son los departamentos más afectados",
@@ -1061,18 +1079,6 @@
      "url": "https://www.eltiempo.com/colombia/medellin/la-procuraduria-formulo-pliego-de-cargos-contra-el-director-e-de-la-carcel-de-itaguei-antioquia-y-seis-funcionarios-del-inpec-por-fiesta-vallenata-3594236",
      "domain": "El Tiempo",
      "seendate": "20261017T121732Z"
-    },
-    {
-     "title": "Desarticulan presunta banda sicarial en Caldas: encontraron altares de santería y listas con posibles nombres de las víctimas",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/desarticulan-presunta-banda-sicarial-en-caldas-encontraron-altares-de-santeria-y-presuntas-listas-con-nombres-de-las-victimas-3594229",
-     "domain": "El Tiempo",
-     "seendate": "20261017T104851Z"
-    },
-    {
-     "title": "Exalcalde de Jamundí, Andrés Felipe Ramírez, se pronunció tras atentado en el que asesinaron a su escolta en Valle del Cauca: 'Estoy vivo de milagro'",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/exalcalde-de-jamundi-andres-felipe-ramirez-se-pronuncio-tras-atentado-en-el-que-asesinaron-a-su-escolta-en-valle-del-cauca-estoy-vivo-de-milagro-3594234",
-     "domain": "El Tiempo",
-     "seendate": "20261017T085000Z"
     }
    ]
   },
@@ -1515,10 +1521,10 @@
      "seendate": "20261016T215759Z"
     },
     {
-     "title": "Concluye la inscripción para 700.000 cupos del programa Jóvenes en Acción, que se inicia el 4 de noviembre",
-     "url": "https://eluniverso.com/politica/ejecutivo/concluye-la-inscripcion-para-700000-cupos-del-programa-jovenes-en-accion-que-se-inicia-el-4-de-noviembre-nota/",
+     "title": "Shyare Andrade será embajadora de turismo de Portoviejo",
+     "url": "https://eluniverso.com/comunidad/ecuador/shyare-andrade-seguidores-la-esperan-bajo-la-lluvia-en-portoviejo-nota/",
      "domain": "El Universo",
-     "seendate": "20261016T215500Z"
+     "seendate": "20261016T213223Z"
     },
     {
      "title": "Cancillería del Ecuador gestiona apoyo a la familia de los siameses fallecidos en Colombia",
@@ -2245,16 +2251,34 @@
   "ARG": {
    "articles": [
     {
+     "title": "El kirchnerismo pidió por la libertad de Cristina Kirchner y Kicillof lidera un acto en La Matanza",
+     "url": "https://www.lanacion.com.ar/politica/dia-de-la-lealtad-el-pj-pidio-por-la-libertad-de-cristina-kirchner-y-el-fin-de-su-proscripcion-nid17102026/",
+     "domain": "La Nación",
+     "seendate": "20261017T162222Z"
+    },
+    {
+     "title": "Santa Fe realizó una nueva subasta de bienes recuperados del delito",
+     "url": "https://www.lanacion.com.ar/seguridad/santa-fe-realizo-una-nueva-subasta-de-bienes-recuperados-del-delito-nid17102026/",
+     "domain": "La Nación",
+     "seendate": "20261017T160540Z"
+    },
+    {
+     "title": "Eric Agustín y Mónica Reinsch manejan una estancia de 33.000 hectáreas, amansan guanacos y exportan su valiosa fibra a Italia",
+     "url": "https://www.lanacion.com.ar/economia/campo/eric-agustin-y-monica-reinsch-amansan-guanacos-los-esquilan-y-exportan-una-de-las-fibras-mas-nid16102026/",
+     "domain": "La Nación",
+     "seendate": "20261017T155759Z"
+    },
+    {
+     "title": "“Arrancamos ligados al campo”: producían ajo y cebolla y ahora tienen un imperio de más de 200.000 hectáreas, real estate y hoteles de lujo",
+     "url": "https://www.lanacion.com.ar/economia/campo/arrancamos-ligados-al-campo-producian-ajo-y-cebolla-y-ahora-tienen-un-imperio-de-mas-de-100000-nid17102026/",
+     "domain": "La Nación",
+     "seendate": "20261017T155644Z"
+    },
+    {
      "title": "Refinanciación de deudas: claves y precauciones al negociar con un banco",
      "url": "https://www.lanacion.com.ar/economia/refinanciacion-de-deudas-claves-y-precauciones-al-negociar-con-un-banco-nid17102026/",
      "domain": "La Nación",
      "seendate": "20261017T153404Z"
-    },
-    {
-     "title": "Día de la Lealtad: el PJ pidió por “la libertad de Cristina Kirchner y el fin de su proscripción”",
-     "url": "https://www.lanacion.com.ar/politica/dia-de-la-lealtad-el-pj-pidio-por-la-libertad-de-cristina-kirchner-y-el-fin-de-su-proscripcion-nid17102026/",
-     "domain": "La Nación",
-     "seendate": "20261017T152729Z"
     },
     {
      "title": "La inflación mayorista subió al 3,2%: por qué se aceleró en septiembre",
@@ -2329,12 +2353,6 @@
      "seendate": "20261017T100200Z"
     },
     {
-     "title": "“Arrancamos ligados al campo”: producían ajo y cebolla y ahora tienen un imperio de más de 200.000 hectáreas, real estate y hoteles de lujo",
-     "url": "https://www.lanacion.com.ar/economia/campo/arrancamos-ligados-al-campo-producian-ajo-y-cebolla-y-ahora-tienen-un-imperio-de-mas-de-100000-nid17102026/",
-     "domain": "La Nación",
-     "seendate": "20261017T095527Z"
-    },
-    {
      "title": "Declaraciones juradas al compás de la baja de retenciones",
      "url": "https://www.lanacion.com.ar/economia/campo/declaraciones-juradas-al-compas-de-la-baja-de-retenciones-nid17102026/",
      "domain": "La Nación",
@@ -2359,12 +2377,6 @@
      "seendate": "20261017T093449Z"
     },
     {
-     "title": "Eric Agustín y Mónica Reinsch manejan una estancia de 33.000 hectáreas, amansan guanacos y exportan su valiosa fibra a Italia",
-     "url": "https://www.lanacion.com.ar/economia/campo/eric-agustin-y-monica-reinsch-amansan-guanacos-los-esquilan-y-exportan-una-de-las-fibras-mas-nid16102026/",
-     "domain": "La Nación",
-     "seendate": "20261017T093314Z"
-    },
-    {
      "title": "El boom de la cocina judía que conquista nuevos barrios y públicos",
      "url": "https://www.lanacion.com.ar/economia/negocios/el-boom-de-la-cocina-judia-que-conquista-nuevos-barrios-y-publicos-nid17102026/",
      "domain": "La Nación",
@@ -2375,17 +2387,17 @@
      "url": "https://www.lanacion.com.ar/economia/negocios/el-mapa-de-las-inversiones-que-pagan-impuestos-nid17102026/",
      "domain": "La Nación",
      "seendate": "20261017T092700Z"
-    },
-    {
-     "title": "Luján en suspenso: hoteles agotados, alquileres millonarios y comercios que se frenan hasta saber si viene el Papa",
-     "url": "https://www.lanacion.com.ar/sociedad/lujan-en-suspenso-hoteles-agotados-alquileres-millonarios-y-comercios-que-se-frenan-hasta-saber-si-nid17102026/",
-     "domain": "La Nación",
-     "seendate": "20261017T090000Z"
     }
    ]
   },
   "URY": {
    "articles": [
+    {
+     "title": "Racing vs . Wanderers en vivo : el Bohemio en busca de tres puntos decisivos para alejarse de la zona de descenso",
+     "url": "https://www.elpais.com.uy/ovacion/futbol/racing-vs-wanderers-en-vivo-el-bohemio-en-busca-de-tres-puntos-decisivos-para-alejarse-de-la-zona-de-descenso",
+     "domain": "elpais.com.uy",
+     "seendate": "20261017T153000Z"
+    },
     {
      "title": "Retiro anticipado a los 60 años : qué dice el proyecto de ley que se envió al Parlamento",
      "url": "https://www.carasycaretas.com.uy/politica/retiro-anticipado-los-60-anos-que-dice-el-proyecto-ley-que-se-envio-al-parlamento-n100249",
@@ -2405,24 +2417,6 @@
      "seendate": "20261017T134500Z"
     },
     {
-     "title": "Bruno Mori : Nacional tiene alrededor de 280 niños y seguimos trabajando para crecer",
-     "url": "https://www.diariocambio.com.uy/bruno-mori-nacional-tiene-alrededor-de-280-ninos-y-seguimos-trabajando-para-crecer",
-     "domain": "diariocambio.com.uy",
-     "seendate": "20261017T121500Z"
-    },
-    {
-     "title": "Fortalecen lazos institucionales entre la Jefatura de Salto y Embajada de Rumania",
-     "url": "https://www.diariocambio.com.uy/fortalecen-lazos-institucionales-entre-la-jefatura-de-salto-y-embajada-de-rumania",
-     "domain": "diariocambio.com.uy",
-     "seendate": "20261017T121500Z"
-    },
-    {
-     "title": "Incautaciones cercanas a los $700 . 000 en procedimientos en el puente de Salto Grande",
-     "url": "https://www.diariocambio.com.uy/incautaciones-cercanas-los-700000-en-procedimientos-en-el-puente-de-salto-grande",
-     "domain": "diariocambio.com.uy",
-     "seendate": "20261017T121500Z"
-    },
-    {
      "title": "Salto Uruguay superó a Universitario en la cancha y en las posiciones",
      "url": "https://www.diariocambio.com.uy/salto-uruguay-supero-universitario-en-la-cancha-y-en-las-posiciones",
      "domain": "diariocambio.com.uy",
@@ -2437,6 +2431,24 @@
     {
      "title": "Llamadas 2027 : habrá cortes y desvíos de tránsito por la Prueba de Admisión",
      "url": "https://www.diariocambio.com.uy/llamadas-2027-habra-cortes-y-desvios-de-transito-por-la-prueba-de-admision",
+     "domain": "diariocambio.com.uy",
+     "seendate": "20261017T121500Z"
+    },
+    {
+     "title": "Bruno Mori : Nacional tiene alrededor de 280 niños y seguimos trabajando para crecer",
+     "url": "https://www.diariocambio.com.uy/bruno-mori-nacional-tiene-alrededor-de-280-ninos-y-seguimos-trabajando-para-crecer",
+     "domain": "diariocambio.com.uy",
+     "seendate": "20261017T121500Z"
+    },
+    {
+     "title": "Fortalecen lazos institucionales entre la Jefatura de Salto y Embajada de Rumania",
+     "url": "https://www.diariocambio.com.uy/fortalecen-lazos-institucionales-entre-la-jefatura-de-salto-y-embajada-de-rumania",
+     "domain": "diariocambio.com.uy",
+     "seendate": "20261017T121500Z"
+    },
+    {
+     "title": "Incautaciones cercanas a los $700 . 000 en procedimientos en el puente de Salto Grande",
+     "url": "https://www.diariocambio.com.uy/incautaciones-cercanas-los-700000-en-procedimientos-en-el-puente-de-salto-grande",
      "domain": "diariocambio.com.uy",
      "seendate": "20261017T121500Z"
     },
@@ -2507,12 +2519,6 @@
      "seendate": "20261017T063000Z"
     },
     {
-     "title": "El PGC Trébol visita a Ceibos en la capital",
-     "url": "https://www.eltelegrafo.com/2026/10/el-pgc-trebol-visita-a-ceibos-en-la-capital/",
-     "domain": "eltelegrafo.com",
-     "seendate": "20261017T053000Z"
-    },
-    {
      "title": "Calificación de reproductores y nacionales Brangus y Dorper , los principales atractivos hoy en la Rural",
      "url": "https://www.eltelegrafo.com/2026/10/calificacion-de-reproductores-y-nacionales-brangus-y-dorper-los-principales-atractivos-hoy-en-la-rural/",
      "domain": "eltelegrafo.com",
@@ -2540,6 +2546,12 @@
      "title": "¿ Cómo es Lo dejamos acá , la película de Netflix que reúne a Ricardo Darín y Diego Peretti ?",
      "url": "https://www.elpais.com.uy/tvshow/cine/como-es-lo-dejamos-aca-la-pelicula-de-netflix-que-reune-a-ricardo-darin-y-diego-peretti",
      "domain": "elpais.com.uy",
+     "seendate": "20261017T053000Z"
+    },
+    {
+     "title": "El PGC Trébol visita a Ceibos en la capital",
+     "url": "https://www.eltelegrafo.com/2026/10/el-pgc-trebol-visita-a-ceibos-en-la-capital/",
+     "domain": "eltelegrafo.com",
      "seendate": "20261017T053000Z"
     },
     {
@@ -2739,17 +2751,35 @@
      "url": "https://www.elpais.com.uy/informacion/en-clave-pais/mira-en-clave-pais-el-streaming-de-el-pais-en-vivo-viernes-15-de-octubre-sueno-petrolero-de-uruguay-entrevista-a-antonio-vizintin-y-mas",
      "domain": "elpais.com.uy",
      "seendate": "20261016T110000Z"
-    },
-    {
-     "title": "Patricio Pernicone y su sueño inmediato en Juventud : Pelear la Copa AUF Uruguay y vamos partido a partido",
-     "url": "https://www.elpais.com.uy/ovacion/futbol/patricio-pernicone-y-su-sueno-inmediato-en-juventud-pelear-la-copa-auf-uruguay-y-vamos-partido-a-partido",
-     "domain": "elpais.com.uy",
-     "seendate": "20261016T103000Z"
     }
    ]
   },
   "PRY": {
    "articles": [
+    {
+     "title": "Caso Quyquyhó: extitular de Junta Municipal, a un paso de perder la suspensión condicional",
+     "url": "https://www.abc.com.py/nacionales/2026/10/17/caso-quyquyho-extitular-de-junta-municipal-a-un-paso-de-perder-la-suspension-condicional/",
+     "domain": "ABC Color",
+     "seendate": "20261017T161846Z"
+    },
+    {
+     "title": "“Tienen abandonados a los pacientes”, denuncian por falta de fármacos en el IPS",
+     "url": "https://www.abc.com.py/nacionales/2026/10/17/tienen-abandonados-a-los-pacientes-denuncian-por-falta-de-farmacos-en-el-ips/",
+     "domain": "ABC Color",
+     "seendate": "20261017T161157Z"
+    },
+    {
+     "title": "Crisis de medicamentos: 1.438 amparos judiciales en 16 meses contra el MSPBS",
+     "url": "https://www.abc.com.py/nacionales/2026/10/17/crisis-de-medicamentos-1438-amparos-judiciales-en-16-meses-contra-el-mspbs/",
+     "domain": "ABC Color",
+     "seendate": "20261017T160501Z"
+    },
+    {
+     "title": "El Río Paraguay registra repunte generalizado mientras el Paraná muestra comportamiento mixto",
+     "url": "https://www.abc.com.py/nacionales/2026/10/17/el-rio-paraguay-registra-repunte-generalizado-mientras-el-parana-muestra-comportamiento-mixto/",
+     "domain": "ABC Color",
+     "seendate": "20261017T160003Z"
+    },
     {
      "title": "Indignación en la Costanera: denuncian recapado chapucero tras meses de baches y escándalo internacional",
      "url": "https://www.abc.com.py/nacionales/2026/10/17/indignacion-en-la-costanera-denuncian-recapado-chapucero-tras-meses-de-baches-y-escandalo-internacional/",
@@ -2779,12 +2809,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/17/nuevos-cardenales-para-paraguay-en-2027-esto-aclaro-la-arquidiocesis/",
      "domain": "ABC Color",
      "seendate": "20261017T140924Z"
-    },
-    {
-     "title": "Nuevo cierre de la Costanera: mal estado de la pista retrasa competencias, lamenta PMT",
-     "url": "https://www.abc.com.py/nacionales/2026/10/17/nuevo-cierre-de-la-costanera-pesimo-estado-de-la-pista-retrasa-competencias-lamenta-pmt/",
-     "domain": "ABC Color",
-     "seendate": "20261017T113120Z"
     },
     {
      "title": "“No son casos aislados”, alertan por muerte de animales en el Parque Guasu",
@@ -2834,30 +2858,6 @@
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/17/mudanca-na-maioridade-sugerida-por-lula-atingiria-10percent-dos-internos-entre-16-e-18-anos-proposta-de-flavio-abarcaria-57percent.ghtml",
      "domain": "O Globo",
      "seendate": "20261017T063001Z"
-    },
-    {
-     "title": "Desmatamento na Amazônia caiu 71,2% em 2026 na comparação com o último ano de Bolsonaro; no Cerrado queda foi de 48,4%",
-     "url": "https://oglobo.globo.com/brasil/meio-ambiente/noticia/2026/10/17/desmatamento-na-amazonia-caiu-712percent-em-2026-na-comparacao-com-o-ultimo-ano-de-bolsonaro-no-cerrado-queda-foi-de-484percent.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261017T063000Z"
-    },
-    {
-     "title": "Flávio favorecido nas redes? Entre os questionamentos e a admissão de falhas, Meta nega interferência na eleição; entenda",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/17/flavio-favorecido-nas-redes-entre-os-questionamentos-e-a-admissao-de-falhas-meta-nega-interferencia-na-eleicao-entenda.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261017T063000Z"
-    },
-    {
-     "title": "Escala 6x1, salário mínimo, cargos para a família em eventual governo: a entrevista de Flávio à TV Globo em seis pontos",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/17/escala-6x1-salario-minimo-cargos-para-a-familia-em-eventual-governo-a-entrevista-de-flavio-a-tv-globo-em-seis-pontos.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261017T063000Z"
-    },
-    {
-     "title": "Alckmin busca aliados no interior na tentativa de reorganizar palanque de Lula em SP e grava com filha de FHC",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/17/alckmin-busca-aliados-no-interior-na-tentativa-de-reorganizar-palanque-de-lula-em-sp-e-grava-com-filha-de-fhc.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261017T063000Z"
     }
    ]
   }
