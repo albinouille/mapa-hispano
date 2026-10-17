@@ -1,8 +1,14 @@
 {
- "updated": "2026-10-17T18:24:43+00:00",
+ "updated": "2026-10-17T18:59:59+00:00",
  "countries": {
   "ESP": {
    "articles": [
+    {
+     "title": "Cataluña y la Comunidad Valenciana envían mensajes de alerta a la población por riesgo de lluvias torrenciales",
+     "url": "https://elpais.com/espana/2026-10-17/emergencias-envia-mensajes-de-alerta-por-lluvias-a-la-poblacion-de-valencia-y-alicante.html",
+     "domain": "El País",
+     "seendate": "20261017T183626Z"
+    },
     {
      "title": "Vox baraja no presentarse al Senado en algunas provincias para evitar una mayoría de izquierdas",
      "url": "https://elpais.com/espana/2026-10-17/vox-baraja-no-presentarse-al-senado-en-algunas-provincias-para-evitar-una-mayoria-de-izquierdas.html",
@@ -14,12 +20,6 @@
      "url": "https://elpais.com/espana/catalunya/2026-10-17/el-pp-situa-a-albiol-como-candidato-por-barcelona-el-29-n-para-frenar-a-vox.html",
      "domain": "El País",
      "seendate": "20261017T143913Z"
-    },
-    {
-     "title": "Cataluña y la Comunidad Valenciana envían mensajes de alerta a la población por riesgo de lluvias torrenciales",
-     "url": "https://elpais.com/espana/2026-10-17/emergencias-envia-mensajes-de-alerta-por-lluvias-a-la-poblacion-de-valencia-y-alicante.html",
-     "domain": "El País",
-     "seendate": "20261017T134850Z"
     },
     {
      "title": "Frente Amplio pasa página del pacto fallido con Podemos: “Se acabó el tiempo de unir a los partidos, hay que unir a la gente”",
@@ -116,6 +116,12 @@
   "MEX": {
    "articles": [
     {
+     "title": "Especialistas de la ATF de EU capacitan a personal de la FGJCDMX; enseñan rastreo de armas",
+     "url": "https://www.eluniversal.com.mx/metropoli/especialistas-de-la-atf-de-eu-capacitan-a-personal-de-la-fgjcdmx-ensenan-rastreo-de-armas/",
+     "domain": "El Universal",
+     "seendate": "20261017T182744Z"
+    },
+    {
      "title": "Detienen al exfiscal de Chihuahua, César Jáuregui, por uso indebido de funciones; gobernadora confirma investigación en su contra",
      "url": "https://www.eluniversal.com.mx/estados/detienen-al-exfiscal-de-chihuahua-cesar-jauregui-por-uso-indebido-de-funciones-gobernadora-confirma-investigacion-en-su-contra/",
      "domain": "El Universal",
@@ -186,18 +192,6 @@
      "url": "https://www.eluniversal.com.mx/nacion/emiten-alerta-por-posible-caso-de-fiebre-aftosa-en-ganado-mexicano-esperan-resultados-para-reanudar-exportaciones/",
      "domain": "El Universal",
      "seendate": "20261017T103523Z"
-    },
-    {
-     "title": "En Edomex 6 de cada 10 niñas son enganchadas",
-     "url": "https://www.eluniversal.com.mx/metropoli/en-edomex-6-de-cada-10-ninas-son-enganchadas/",
-     "domain": "El Universal",
-     "seendate": "20261017T080500Z"
-    },
-    {
-     "title": "Especialistas advierten falta de certeza sobre el plan metropolitano",
-     "url": "https://www.eluniversal.com.mx/metropoli/especialistas-advierten-falta-de-certeza-sobre-el-plan-metropolitano/",
-     "domain": "El Universal",
-     "seendate": "20261017T080400Z"
     },
     {
      "title": "Trabajadores del IMSS prevén oferta salarial de 6%; destitución de Olivos no es negociable, dicen",
@@ -598,6 +592,12 @@
   "CRI": {
    "articles": [
     {
+     "title": "Fuego afecta pulpería y casa en Cartago; tres personas atendidas por crisis nerviosa",
+     "url": "https://www.nacion.com/sucesos/fuego-afecta-pulperia-y-casa-en-cartago-tres/JLK3MCFYNJHS5OBVICGFT27YZA/story/",
+     "domain": "La Nación",
+     "seendate": "20261017T184133Z"
+    },
+    {
      "title": "Hombre viajó casi 100 kilómetros para recibir atención médica tras ser herido de bala",
      "url": "https://www.nacion.com/sucesos/hombre-viajo-casi-100-kilometros-para-recibir/T232ZAZTWREWVGCDA7ETCKSGP4/story/",
      "domain": "La Nación",
@@ -652,14 +652,14 @@
      "seendate": "20261017T152200Z"
     },
     {
-     "title": "IMN pronostica fuertes aguaceros y tormentas eléctricas este sábado: ¿cuáles zonas tendrán más lluvia?",
-     "url": "https://www.nacion.com/sucesos/imn-pronostica-fuertes-aguaceros-y-tormentas/YXKAG63GPBFDBI4OZ4IIIWWZOQ/story/",
+     "title": "Hace 50 años: ‘Solo uniéndonos pesaremos en el equilibrio del mundo’, dijo ministro de Venezuela en visita al país",
+     "url": "https://www.nacion.com/el-pais/hace-50-anos-solo-uniendonos-pesaremos-en-el/RJGITZLBXZEV3AJRK6YJBUTDSI/story/",
      "domain": "La Nación",
      "seendate": "20261017T133000Z"
     },
     {
-     "title": "Hace 50 años: ‘Solo uniéndonos pesaremos en el equilibrio del mundo’, dijo ministro de Venezuela en visita al país",
-     "url": "https://www.nacion.com/el-pais/hace-50-anos-solo-uniendonos-pesaremos-en-el/RJGITZLBXZEV3AJRK6YJBUTDSI/story/",
+     "title": "IMN pronostica fuertes aguaceros y tormentas eléctricas este sábado: ¿cuáles zonas tendrán más lluvia?",
+     "url": "https://www.nacion.com/sucesos/imn-pronostica-fuertes-aguaceros-y-tormentas/YXKAG63GPBFDBI4OZ4IIIWWZOQ/story/",
      "domain": "La Nación",
      "seendate": "20261017T133000Z"
     },
@@ -758,12 +758,6 @@
      "url": "https://www.nacion.com/politica/ppso-revela-que-acuerdo-previo-con-siete-diputados/5OKJL74DBZCUNA45WXCUR67DSY/story/",
      "domain": "La Nación",
      "seendate": "20261016T201430Z"
-    },
-    {
-     "title": "Drones e intimidad de casas: sentencia obligó a municipalidad a dar cuentas por sobrevuelo a pocos metros de la cocina de una vivienda en Acosta",
-     "url": "https://www.nacion.com/politica/drones-e-intimidad-ciudadanos-tienen-derecho-a-que/OSOC57A74BDHTFHCLMGEN4ZNEI/story/",
-     "domain": "La Nación",
-     "seendate": "20261016T193004Z"
     }
    ]
   },
@@ -1030,7 +1024,13 @@
      "title": "Él era Andrés Felipe López Gutiérrez, escolta que murió asesinado en el atentado contra el exalcalde de Jamundí Andrés Felipe Ramírez",
      "url": "https://www.eltiempo.com/colombia/cali/el-era-felipe-lopez-gutierrez-escolta-que-murio-asesinado-en-el-atentado-contra-el-exalcalde-de-jamundi-andres-felipe-ramirez-3594300",
      "domain": "El Tiempo",
-     "seendate": "20261017T181152Z"
+     "seendate": "20261017T183019Z"
+    },
+    {
+     "title": "Terror en Santander: incineran bus intermunicipal en la vía entre Málaga y Cerrito; señalan al Eln como posible responsable",
+     "url": "https://www.eltiempo.com/colombia/santander/terror-en-santander-incineran-bus-intermunicipal-en-la-via-entre-malaga-y-cerrito-senalan-al-eln-como-posible-responsable-3594284",
+     "domain": "El Tiempo",
+     "seendate": "20261017T182202Z"
     },
     {
      "title": "Fisuras en el deprimido de la Gran Vía reavivan dudas sobre la obra que conecta Barranquilla con Puerto Colombia y su sistema de drenaje del corredor",
@@ -1043,12 +1043,6 @@
      "url": "https://www.eltiempo.com/colombia/cali/tres-capturados-cuatro-allanamientos-y-un-atentado-resuelto-el-golpe-a-la-estructura-que-detono-un-bus-bomba-frente-al-batallon-pichincha-de-cali-3594292",
      "domain": "El Tiempo",
      "seendate": "20261017T175755Z"
-    },
-    {
-     "title": "Terror en Santander: incineran bus intermunicipal en la vía entre Málaga y Cerrito; señalan al ELN como posible responsable",
-     "url": "https://www.eltiempo.com/colombia/santander/terror-en-santander-incineran-bus-intermunicipal-en-la-via-entre-malaga-y-cerrito-senalan-al-eln-como-posible-responsable-3594284",
-     "domain": "El Tiempo",
-     "seendate": "20261017T165759Z"
     },
     {
      "title": "Falsos bonos turísticos en centros comerciales de Medellín: red de estafadores dejó más de 1.000 víctimas y $ 14.000 millones en ganancias ilícitas",
@@ -1418,6 +1412,12 @@
   },
   "ECU": {
    "articles": [
+    {
+     "title": "Policía aprehende a presunto vinculado a ‘Los Lobos’ y recupera un vehículo robado en Huaquillas",
+     "url": "https://eluniverso.com/politica/seguridad/policia-aprehende-a-presunto-vinculado-a-los-lobos-y-recupera-un-vehiculo-robado-en-huaquillas-nota/",
+     "domain": "El Universo",
+     "seendate": "20261017T182601Z"
+    },
     {
      "title": "Ministerio del Interior reporta incautación de cocaína en Esmeraldas y destrucción de 6,2 toneladas de droga",
      "url": "https://eluniverso.com/politica/seguridad/ministerio-del-interior-reporta-incautacion-de-cocaina-en-esmeraldas-y-destruccion-de-62-toneladas-de-droga-nota/",
@@ -2221,6 +2221,24 @@
   "ARG": {
    "articles": [
     {
+     "title": "A pesar de El Niño: por qué hay una “palabra prohibida” para hablar de las Cataratas del Iguazú, que están más potentes que nunca",
+     "url": "https://www.lanacion.com.ar/sociedad/a-pesar-de-el-nino-por-que-hay-una-palabra-prohibida-para-hablar-de-las-cataratas-del-iguazu-que-nid17102026/",
+     "domain": "La Nación",
+     "seendate": "20261017T184528Z"
+    },
+    {
+     "title": "Luis Caputo aseguró que hay “un excedente de dólares” y que el rumbo del RIGI permitiría levantar restricciones cambiarias",
+     "url": "https://www.lanacion.com.ar/economia/luis-caputo-aseguro-que-hay-un-excedente-de-dolares-y-que-el-rumbo-del-rigi-permitiria-levantar-nid17102026/",
+     "domain": "La Nación",
+     "seendate": "20261017T182504Z"
+    },
+    {
+     "title": "Ganarle al agua: así es el dramático operativo de los ganaderos de las islas entrerrianas donde nada puede fallar para salvar a las vacas",
+     "url": "https://www.lanacion.com.ar/economia/campo/ganarle-al-agua-asi-es-el-dramatico-operativo-de-los-ganaderos-de-las-islas-entrerrianas-donde-nada-nid17102026/",
+     "domain": "La Nación",
+     "seendate": "20261017T182300Z"
+    },
+    {
      "title": "El PJ pidió por la libertad de Cristina Kirchner y Kicillof dijo: “Cuenten conmigo para derrotar esta pesadilla en las urnas”",
      "url": "https://www.lanacion.com.ar/politica/dia-de-la-lealtad-el-pj-pidio-por-la-libertad-de-cristina-kirchner-y-el-fin-de-su-proscripcion-nid17102026/",
      "domain": "La Nación",
@@ -2691,6 +2709,12 @@
   "PRY": {
    "articles": [
     {
+     "title": "Video: El Niño azota Misiones y Ñeembucú y “esto recién empieza”, advierte la Defensoría",
+     "url": "https://www.abc.com.py/nacionales/2026/10/17/video-el-nino-azota-misiones-y-neembucu-y-esto-recien-empieza-advierte-la-defensoria/",
+     "domain": "ABC Color",
+     "seendate": "20261017T183406Z"
+    },
+    {
      "title": "Adultos mayores de Pilar accederán a atención médica mediante un acuerdo de cooperación",
      "url": "https://www.abc.com.py/nacionales/2026/10/17/adultos-mayores-de-pilar-accederan-a-atencion-medica-mediante-un-acuerdo-de-cooperacion/",
      "domain": "ABC Color",
@@ -2727,18 +2751,6 @@
      "seendate": "20261017T160003Z"
     },
     {
-     "title": "Indignación en la Costanera: denuncian recapado chapucero tras meses de baches y escándalo internacional",
-     "url": "https://www.abc.com.py/nacionales/2026/10/17/indignacion-en-la-costanera-denuncian-recapado-chapucero-tras-meses-de-baches-y-escandalo-internacional/",
-     "domain": "ABC Color",
-     "seendate": "20261017T154215Z"
-    },
-    {
-     "title": "Cetrapam anuncia movilización frente al Viceministerio de Transporte",
-     "url": "https://www.abc.com.py/nacionales/2026/10/17/cetrapam-anuncia-movilizacion-frente-al-viceministerio-de-transporte/",
-     "domain": "ABC Color",
-     "seendate": "20261017T153606Z"
-    },
-    {
      "title": "¿Nuevos cardenales para Paraguay en 2027? Esto aclaró la Arquidiócesis",
      "url": "https://www.abc.com.py/nacionales/2026/10/17/nuevos-cardenales-para-paraguay-en-2027-esto-aclaro-la-arquidiocesis/",
      "domain": "ABC Color",
@@ -2751,6 +2763,12 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "Homem é preso em SP após ameaçar com faca e manter mulher e bebê de 8 meses reféns por seis horas",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/17/homem-e-preso-em-sp-apos-ameacar-com-faca-e-manter-mulher-e-bebe-de-8-meses-refens-por-seis-horas.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261017T184846Z"
+    },
     {
      "title": "José Sarney recebe alta hospitalar em São Luís após nove dias internado",
      "url": "https://oglobo.globo.com/politica/noticia/2026/10/17/jose-sarney-recebe-alta-hospitalar-em-sao-luis-apos-nove-dias-internado.ghtml",
@@ -2786,12 +2804,6 @@
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/17/advogado-denuncia-violacao-apos-porteiro-ser-detido-pela-pm-durante-panelaco-contra-flavio-bolsonaro-em-maceio-al.ghtml",
      "domain": "O Globo",
      "seendate": "20261017T102044Z"
-    },
-    {
-     "title": "Quem é Jéssica Fazendeira, personagem criada por IA que levou pedreiro a viajar 2,1 mil km do Maranhão a Minas",
-     "url": "https://oglobo.globo.com/brasil/post/2026/10/quem-e-jessica-fazendeira-personagem-criada-por-ia-que-levou-pedreiro-a-viajar-21-mil-km-ate-o-maranhao.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261017T070000Z"
     }
    ]
   }
