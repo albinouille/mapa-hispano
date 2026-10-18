@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T23:52:23+00:00",
+ "updated": "2026-10-18T00:34:58+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -122,8 +122,20 @@
   "MEX": {
    "articles": [
     {
-     "title": "Hugo Aguilar y Loretta Ortiz proponen a Corte atraer caso de María Elena Ríos; pleno lo mandó a Oaxaca en mayo",
-     "url": "https://www.eluniversal.com.mx/nacion/hugo-aguilar-y-loretta-ortiz-proponen-a-corte-atraer-caso-de-maria-elena-rios-pleno-lo-mando-a-oaxaca-en-mayo/",
+     "title": "Cae \"Donovan\", líder de banda dedicada al robo de cuentahabientes en cuatro alcaldías de CDMX; tiene varios ingresos al Sistema Penitenciario",
+     "url": "https://www.eluniversal.com.mx/metropoli/cae-donovan-lider-de-banda-dedicada-al-robo-de-cuentahabientes-en-cuatro-alcaldias-de-cdmx-tiene-varios-ingresos-al-sistema-penitenciario/",
+     "domain": "El Universal",
+     "seendate": "20261018T001550Z"
+    },
+    {
+     "title": "Trabajadores del Hospital O’Horán bloquean periférico de Mérida; continúan exigiendo mejores condiciones laborales",
+     "url": "https://www.eluniversal.com.mx/estados/trabajadores-del-hospital-ohoran-bloquean-periferico-de-merida-continuan-exigiendo-mejores-condiciones-laborales/",
+     "domain": "El Universal",
+     "seendate": "20261018T000015Z"
+    },
+    {
+     "title": "Hugo Aguilar y Loretta Ortiz proponen en Corte atraer caso de María Elena Ríos; pleno lo mandó a Oaxaca en mayo",
+     "url": "https://www.eluniversal.com.mx/nacion/hugo-aguilar-y-loretta-ortiz-proponen-en-corte-atraer-caso-de-maria-elena-rios-pleno-lo-mando-a-oaxaca-en-mayo/",
      "domain": "El Universal",
      "seendate": "20261017T233807Z"
     },
@@ -134,7 +146,7 @@
      "seendate": "20261017T233750Z"
     },
     {
-     "title": "Velan a la doctora Cristina, asesinada en Coatzacoalcos, Veracruz; \"estamos desechos\", asegura su hermana",
+     "title": "Velan a la doctora Cristina, asesinada en Coatzacoalcos, Veracruz; \"estamos deshechos\", asegura su hermana",
      "url": "https://www.eluniversal.com.mx/estados/velan-a-la-doctora-cristina-asesinada-en-coatzacoalcos-veracruz-estamos-desechos-asegura-su-hermana/",
      "domain": "El Universal",
      "seendate": "20261017T231623Z"
@@ -314,16 +326,10 @@
      "seendate": "20261017T174114Z"
     },
     {
-     "title": "Sheinbaum pide estar atentos a efectos del huracán Trudy; prevén lluvias en Colima, Michoacán, Jalisco, Nayarit y Guerrero",
-     "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-pide-estar-atentos-a-efectos-del-huracan-trudy-preven-lluvias-en-colima-michoacan-jalisco-nayarit-y-guerrero/",
+     "title": "Compañeros despiden a la doctora Cristina Ramos, asesinada en el puerto de Coatzacoalcos, Veracruz; exigen justicia",
+     "url": "https://www.eluniversal.com.mx/estados/companeros-despiden-a-la-doctora-cristina-ramos-asesinada-en-el-puerto-de-coatzacoalcos-veracruz-estamos-deshechos-dice-su-hermana/",
      "domain": "El Universal",
-     "seendate": "20261017T171825Z"
-    },
-    {
-     "title": "Tráiler se queda sin frenos y arrastra media docena de vehículos en Chiapas; reportan un muerto y varios lesionados",
-     "url": "https://www.eluniversal.com.mx/estados/trailer-se-queda-sin-frenos-y-arrastra-media-docena-de-vehiculos-en-chiapas-reportan-un-muerto-y-varios-lesionados/",
-     "domain": "El Universal",
-     "seendate": "20261017T171027Z"
+     "seendate": "20261017T162337Z"
     },
     {
      "title": "Trudy se fortalece y vuelve a ser huracán categoría 2; sigue en vivo su trayectoria",
@@ -748,6 +754,18 @@
   "CRI": {
    "articles": [
     {
+     "title": "Domingo con lluvias en Costa Rica: IMN prevé aguaceros durante la tarde",
+     "url": "https://www.nacion.com/sucesos/domingo-con-lluvias-en-costa-rica-imn-preve/CBZLP3NWXFBW5DQVKRZAAFJ5SM/story/",
+     "domain": "La Nación",
+     "seendate": "20261018T000759Z"
+    },
+    {
+     "title": "Reglamento para escuelas y colegios privados aún no se conoce pese a que MEP dijo que estaría listo hace 10 meses",
+     "url": "https://www.nacion.com/el-pais/reglamento-para-escuelas-y-colegios-privados-aun/CQDA73T5YFDPBNC23UPVQBF5YA/story/",
+     "domain": "La Nación",
+     "seendate": "20261018T000252Z"
+    },
+    {
      "title": "FA califica negociación del PPSO con parte del PLN por armonización eléctrica como maniobra para dividir a bloque de oposición",
      "url": "https://www.nacion.com/politica/fa-califica-negociacion-del-ppso-con-parte-del-pln/JSJ6WLJM6NDEDC75HOIN4HXOW4/story/",
      "domain": "La Nación",
@@ -884,12 +902,6 @@
      "url": "https://www.nacion.com/politica/rebeca-grynspan-tras-sexta-votacion-en-el-consejo/ANVYKRZ6QJA2XFLB22CXQNWMCY/story/",
      "domain": "La Nación",
      "seendate": "20261017T020716Z"
-    },
-    {
-     "title": "Laura Fernández visita Cecot de El Salvador",
-     "url": "https://www.nacion.com/politica/laura-fernandez-visita-cecot-de-el-salvador/RS4PLPPJR5AG5BKAD5ST5MW4WE/story/",
-     "domain": "La Nación",
-     "seendate": "20261016T233412Z"
     }
    ]
   },
@@ -1171,6 +1183,18 @@
   "COL": {
    "articles": [
     {
+     "title": "Así protegerá Cartagena a sus corales de Varadero, el secreto mejor guardado de la ciencia en el Caribe",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/asi-protegera-cartagena-a-sus-corales-de-varadero-el-secreto-mejor-guardado-de-la-ciencia-en-el-caribe-3594180",
+     "domain": "El Tiempo",
+     "seendate": "20261018T000100Z"
+    },
+    {
+     "title": "Así se construye el Plan Nacional de Desarrollo de la región centro-sur: gobernadores pidieron una mirada al campo y acciones por la seguridad",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/asi-se-construye-el-plan-nacional-de-desarrollo-de-la-region-centro-sur-gobernadores-pidieron-una-mirada-al-campo-y-acciones-por-la-seguridad-3594340",
+     "domain": "El Tiempo",
+     "seendate": "20261017T235256Z"
+    },
+    {
      "title": "Incautan en Barranquilla 3.043 artículos importados sin soportes por más de $675 millones: había consolas, drones y accesorios tecnológicos en bodega",
      "url": "https://www.eltiempo.com/colombia/barranquilla/incautan-en-barranquilla-3-043-articulos-importados-sin-soportes-por-mas-de-675-millones-habia-consolas-drones-y-accesorios-tecnologicos-en-bodega-3594318",
      "domain": "El Tiempo",
@@ -1213,22 +1237,10 @@
      "seendate": "20261017T183019Z"
     },
     {
-     "title": "Terror en Santander: incineran bus intermunicipal en la vía entre Málaga y Cerrito; señalan al Eln como posible responsable",
-     "url": "https://www.eltiempo.com/colombia/santander/terror-en-santander-incineran-bus-intermunicipal-en-la-via-entre-malaga-y-cerrito-senalan-al-eln-como-posible-responsable-3594284",
-     "domain": "El Tiempo",
-     "seendate": "20261017T182202Z"
-    },
-    {
      "title": "Fisuras en el deprimido de la Gran Vía reavivan dudas sobre la obra que conecta Barranquilla con Puerto Colombia y su sistema de drenaje del corredor",
      "url": "https://www.eltiempo.com/colombia/barranquilla/fisuras-en-el-deprimido-de-la-gran-via-reavivan-dudas-sobre-la-obra-que-conecta-barranquilla-con-puerto-colombia-y-su-sistema-de-drenaje-del-corredor-3594273",
      "domain": "El Tiempo",
      "seendate": "20261017T180100Z"
-    },
-    {
-     "title": "Tres capturados, cuatro allanamientos y un atentado resuelto: el golpe a la estructura que detonó un bus bomba frente al Batallón Pichincha de Cali",
-     "url": "https://www.eltiempo.com/colombia/cali/tres-capturados-cuatro-allanamientos-y-un-atentado-resuelto-el-golpe-a-la-estructura-que-detono-un-bus-bomba-frente-al-batallon-pichincha-de-cali-3594292",
-     "domain": "El Tiempo",
-     "seendate": "20261017T175755Z"
     }
    ]
   },
@@ -1671,12 +1683,6 @@
      "seendate": "20261017T025626Z"
     },
     {
-     "title": "Horarios de mantenimiento eléctrico en Esmeraldas este sábado 17 de octubre",
-     "url": "https://eluniverso.com/comunidad/ecuador/horarios-de-mantenimiento-electrico-en-esmeraldas-este-sabado-17-de-octubre-nota/",
-     "domain": "El Universo",
-     "seendate": "20261017T024808Z"
-    },
-    {
      "title": "Horarios de mantenimiento eléctrico en Morona Santiago este sábado 17 de octubre de 2026",
      "url": "https://eluniverso.com/comunidad/ecuador/horarios-y-sectores-con-mantenimiento-electrico-en-morona-santiago-este-sabado-17-de-octubre-de-2026-nota/",
      "domain": "El Universo",
@@ -1697,12 +1703,6 @@
      "url": "https://elcomercio.pe/peru/ultimo-temblor-en-peru-hoy-epicentro-del-sismo-y-magnitud-ultima-hora-censis-tdpe-noticia/",
      "domain": "El Comercio",
      "seendate": "20261017T210315Z"
-    },
-    {
-     "title": "Ucayali: MTC gestionó vuelos humanitarios para el traslado de 80 personas en Purús",
-     "url": "https://elcomercio.pe/peru/ucayali/ucayali-mtc-gestiono-vuelos-humanitarios-para-el-traslado-de-80-personas-en-purus-ultimas-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261017T200723Z"
     }
    ]
   },
@@ -2377,6 +2377,24 @@
   "ARG": {
    "articles": [
     {
+     "title": "Pese a sumar condenas y procesamientos, fue atrapado en pleno raid de robos con la réplica de una ametralladora",
+     "url": "https://www.lanacion.com.ar/seguridad/pese-a-sumar-condenas-y-procesamientos-fue-atrapado-en-pleno-raid-de-robos-con-la-replica-de-una-nid17102026/",
+     "domain": "La Nación",
+     "seendate": "20261018T002959Z"
+    },
+    {
+     "title": "Joseph Pilates, creador del método: “La felicidad está subordinada al bienestar físico”",
+     "url": "https://www.lanacion.com.ar/sociedad/joseph-pilates-creador-del-metodo-la-felicidad-esta-subordinada-al-bienestar-fisico-nid17102026/",
+     "domain": "La Nación",
+     "seendate": "20261018T000000Z"
+    },
+    {
+     "title": "Gabriel Rolón, psicoanalista: “La gracia del amor es abrazar la imperfección del otro”",
+     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-la-gracia-del-amor-es-abrazar-la-imperfeccion-del-otro-nid17102026/",
+     "domain": "La Nación",
+     "seendate": "20261018T000000Z"
+    },
+    {
      "title": "La bazuca de Milei y su alianza de cristal",
      "url": "https://www.lanacion.com.ar/politica/la-bazuca-de-milei-y-su-alianza-de-cristal-nid17102026/",
      "domain": "La Nación",
@@ -2471,12 +2489,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/que-es-el-trastorno-de-purpura-trombocitopenica-idiopatica-la-enfermedad-de-denisse-gonzalez-nid15102026/",
      "domain": "La Nación",
      "seendate": "20261017T190819Z"
-    },
-    {
-     "title": "A pesar de El Niño: por qué hay una “palabra prohibida” para hablar de las Cataratas del Iguazú, que están más potentes que nunca",
-     "url": "https://www.lanacion.com.ar/sociedad/a-pesar-de-el-nino-por-que-hay-una-palabra-prohibida-para-hablar-de-las-cataratas-del-iguazu-que-nid17102026/",
-     "domain": "La Nación",
-     "seendate": "20261017T184528Z"
     }
    ]
   },
@@ -2875,18 +2887,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/17/video-el-nino-azota-misiones-y-neembucu-y-esto-recien-empieza-advierte-la-defensoria/",
      "domain": "ABC Color",
      "seendate": "20261017T183406Z"
-    },
-    {
-     "title": "Adultos mayores de Pilar accederán a atención médica mediante un acuerdo de cooperación",
-     "url": "https://www.abc.com.py/nacionales/2026/10/17/adultos-mayores-de-pilar-accederan-a-atencion-medica-mediante-un-acuerdo-de-cooperacion/",
-     "domain": "ABC Color",
-     "seendate": "20261017T175943Z"
-    },
-    {
-     "title": "San Pedro de Ycuamandyyú corre por el Octubre Rosa: una maratón para concienciar sobre el cáncer de mama",
-     "url": "https://www.abc.com.py/nacionales/2026/10/17/san-pedro-de-ycuamandyyu-corre-por-el-octubre-rosa-una-maraton-para-concienciar-sobre-el-cancer-de-mama/",
-     "domain": "ABC Color",
-     "seendate": "20261017T175551Z"
     },
     {
      "title": "“Tienen abandonados a los pacientes”, denuncian por falta de fármacos en el IPS",
