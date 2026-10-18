@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T13:59:01+00:00",
+ "updated": "2026-10-18T14:25:03+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -128,6 +128,18 @@
   "MEX": {
    "articles": [
     {
+     "title": "Trudy continúa como huracán categoría 2; provocará lluvias intensas en Jalisco, Colima y Nayarit",
+     "url": "https://www.eluniversal.com.mx/estados/trudy-continua-como-huracan-categoria-2-provocara-lluvias-intensas-en-jalisco-colima-y-nayarit/",
+     "domain": "El Universal",
+     "seendate": "20261018T141416Z"
+    },
+    {
+     "title": "¿Por qué hace tanto frío en la Ciudad de México?; masas de aire polar y altitud desploman los termómetros",
+     "url": "https://www.eluniversal.com.mx/metropoli/por-que-hace-tanto-frio-en-la-ciudad-de-mexico-masas-de-aire-polar-y-altitud-desploman-los-termometros/",
+     "domain": "El Universal",
+     "seendate": "20261018T135738Z"
+    },
+    {
      "title": "Edomex: van 100 gaseras suspendidas en 2026",
      "url": "https://www.eluniversal.com.mx/metropoli/edomex-van-100-gaseras-suspendidas-en-2026/",
      "domain": "El Universal",
@@ -198,24 +210,6 @@
      "url": "https://www.eluniversal.com.mx/metropoli/carrera-panamericana-en-cdmx-miles-de-personas-ovacionan-a-los-pilotos-que-cruzaron-la-meta-frente-a-bellas-artes/",
      "domain": "El Universal",
      "seendate": "20261018T022749Z"
-    },
-    {
-     "title": "FGR entra al caso de exfiscal de Chihuahua; habría incurrido en traición a la patria, dice Godoy",
-     "url": "https://www.eluniversal.com.mx/nacion/fgr-entra-al-caso-de-exfiscal-de-chihuahua-habria-incurrido-en-traicion-a-la-patria-dice-godoy/",
-     "domain": "El Universal",
-     "seendate": "20261018T021237Z"
-    },
-    {
-     "title": "Reanudarán exportación de ganado por Agua Prieta, Sonora, el 20 de octubre; resultados de laboratorio de Senasica descartan fiebre aftosa",
-     "url": "https://www.eluniversal.com.mx/estados/reanudaran-exportacion-de-ganado-por-agua-prieta-sonora-el-20-de-octubre-resultados-de-laboratorio-de-senasica-descartan-fiebre-aftosa/",
-     "domain": "El Universal",
-     "seendate": "20261018T004234Z"
-    },
-    {
-     "title": "Trudy se fortalece y vuelve a ser huracán categoría 2; sigue en vivo su trayectoria",
-     "url": "https://www.eluniversal.com.mx/estados/trudy-se-mantiene-como-huracan-categoria-3-sigue-en-vivo-su-trayectoria/",
-     "domain": "El Universal",
-     "seendate": "20261016T141304Z"
     }
    ]
   },
@@ -782,23 +776,17 @@
      "url": "https://www.nacion.com/el-pais/corte-de-luz-de-la-cnfl-afectara-desamparados-este/PVXJDDM53RB7TOQ77KDICPU6FU/story/",
      "domain": "La Nación",
      "seendate": "20261017T152200Z"
-    },
-    {
-     "title": "IMN pronostica fuertes aguaceros y tormentas eléctricas este sábado: ¿cuáles zonas tendrán más lluvia?",
-     "url": "https://www.nacion.com/sucesos/imn-pronostica-fuertes-aguaceros-y-tormentas/YXKAG63GPBFDBI4OZ4IIIWWZOQ/story/",
-     "domain": "La Nación",
-     "seendate": "20261017T133000Z"
-    },
-    {
-     "title": "Hace 50 años: ‘Solo uniéndonos pesaremos en el equilibrio del mundo’, dijo ministro de Venezuela en visita al país",
-     "url": "https://www.nacion.com/el-pais/hace-50-anos-solo-uniendonos-pesaremos-en-el/RJGITZLBXZEV3AJRK6YJBUTDSI/story/",
-     "domain": "La Nación",
-     "seendate": "20261017T133000Z"
     }
    ]
   },
   "PAN": {
    "articles": [
+    {
+     "title": "Lotería: sorteo dominical cambia de hora por eventos sísmicos",
+     "url": "https://www.prensa.com/sociedad/loteria-sorteo-dominical-cambia-de-hora-por-eventos-sismicos/",
+     "domain": "La Prensa",
+     "seendate": "20261018T135938Z"
+    },
     {
      "title": "Veinte años después de la intoxicación masiva con dietilenglicol la historia sigue escribiéndose",
      "url": "https://www.prensa.com/sociedad/veinte-anos-despues-de-la-intoxicacion-masiva-con-dietilenglicol-la-historia-sigue-escribiendose/",
@@ -960,6 +948,12 @@
   "CUB": {
    "articles": [
     {
+     "title": "La escasez de electricidad en Cuba provoca una “guerra de circuitos”",
+     "url": "https://www.14ymedio.com/cuba/escasez-electricidad-cuba-provoca-guerra_1_1132109.html",
+     "domain": "14ymedio",
+     "seendate": "20261018T140149Z"
+    },
+    {
      "title": "En Guantánamo, tener dinero en el banco no significa poder comprar",
      "url": "https://www.14ymedio.com/cuba/guantanamo-dinero-banco-no-significa_1_1132092.html",
      "domain": "14ymedio",
@@ -1063,6 +1057,12 @@
   "COL": {
    "articles": [
     {
+     "title": "Empresa del bus incinerado denunció cobros de extorsiones y un secuestro por el Eln: 'Sabemos quiénes son los bandidos', dijo gobernador de Santander",
+     "url": "https://www.eltiempo.com/colombia/santander/empresa-del-bus-incinerado-denuncio-cobros-de-extorsiones-y-un-secuestro-por-el-eln-sabemos-quienes-son-los-bandidos-dijo-gobernador-de-santander-3594398",
+     "domain": "El Tiempo",
+     "seendate": "20261018T141148Z"
+    },
+    {
      "title": "Ofrecen $ 50 millones de recompensa por atentado con explosivos en Popayán que dejó dos heridos",
      "url": "https://www.eltiempo.com/colombia/cali/ofrecen-50-millones-de-recompensa-por-atentado-con-explosivos-en-popayan-que-dejo-dos-heridos-3594393",
      "domain": "El Tiempo",
@@ -1103,12 +1103,6 @@
      "url": "https://www.eltiempo.com/colombia/barranquilla/incautan-en-barranquilla-3-043-articulos-importados-sin-soportes-por-mas-de-675-millones-habia-consolas-drones-y-accesorios-tecnologicos-en-bodega-3594318",
      "domain": "El Tiempo",
      "seendate": "20261017T220100Z"
-    },
-    {
-     "title": "'Un milagro': el senador Duvalier Sánchez reveló los angustiantes momentos en que el exalcalde de Jamundí sobrevivió a un atentado sicarial",
-     "url": "https://www.eltiempo.com/colombia/cali/un-milagro-el-senador-duvalier-sanchez-revelo-los-angustiantes-momentos-en-que-el-exalcalde-de-jamundi-sobrevivio-a-un-atentado-sicarial-3594315",
-     "domain": "El Tiempo",
-     "seendate": "20261017T213240Z"
     },
     {
      "title": "Estremecedor relato de una testigo de la tragedia en un restaurante que condujo a la muerte de una ingeniera en Bucaramanga: 'Aún escucho sus gritos'",
@@ -1431,6 +1425,12 @@
   "ECU": {
    "articles": [
     {
+     "title": "Patrulla militar se enfrenta a grupo armado en Sucumbíos",
+     "url": "https://eluniverso.com/politica/seguridad/patrulla-militar-se-enfrenta-a-grupo-armado-en-sucumbios-nota/",
+     "domain": "El Universo",
+     "seendate": "20261018T135327Z"
+    },
+    {
      "title": "Quiénes son los candidatos que buscan llegar al Concejo de Guayaquil en las elecciones seccionales",
      "url": "https://eluniverso.com/politica/elecciones/quienes-son-los-candidatos-que-buscan-llegar-al-concejo-de-guayaquil-en-las-elecciones-seccionales-nota/",
      "domain": "El Universo",
@@ -1519,12 +1519,6 @@
      "url": "https://eluniverso.com/politica/seguridad/naufragio-de-barco-pesquero-frente-a-santa-elena-deja-seis-rescatados-y-14-desaparecidos-nota/",
      "domain": "El Universo",
      "seendate": "20261017T154421Z"
-    },
-    {
-     "title": "Pabel Muñoz y Rafael Correa vuelven a chocar por acercamientos del alcalde con personas ajenas al correísmo",
-     "url": "https://eluniverso.com/politica/elecciones/pabel-munoz-y-rafael-correa-vuelven-a-chocar-por-acercamientos-fuera-del-correismo-nota/",
-     "domain": "El Universo",
-     "seendate": "20261017T143207Z"
     },
     {
      "title": "Entre lluvia y aplausos, Portoviejo celebra el regreso de Shyare Andrade",
@@ -2233,6 +2227,24 @@
   "ARG": {
    "articles": [
     {
+     "title": "Negociaciones en Washington sobre el futuro de la Argentina",
+     "url": "https://www.lanacion.com.ar/economia/negociaciones-en-washington-sobre-el-futuro-de-la-argentina-nid18102026/",
+     "domain": "La Nación",
+     "seendate": "20261018T141514Z"
+    },
+    {
+     "title": "Alta demanda: ya se venden los pasajes para un viaje de 800 km a través de paisajes únicos",
+     "url": "https://www.lanacion.com.ar/sociedad/alta-demanda-ya-se-venden-los-pasajes-para-un-viaje-de-800-km-a-traves-de-paisajes-unicos-nid18102026/",
+     "domain": "La Nación",
+     "seendate": "20261018T141234Z"
+    },
+    {
+     "title": "“Gran manjar”: las sorpresas que se llevó un viajero inglés en la Argentina",
+     "url": "https://www.lanacion.com.ar/economia/campo/gran-manjar-las-sorpresas-que-se-llevo-un-viajero-ingles-en-la-argentina-nid18102026/",
+     "domain": "La Nación",
+     "seendate": "20261018T140732Z"
+    },
+    {
      "title": "A los 29 años: quién es Yamila Farrell, la presidenta de la Asociación Rural de Chivilcoy que representa un cambio generacional",
      "url": "https://www.lanacion.com.ar/economia/campo/yamila-farrell-29-anos-presidenta-de-la-asociacion-rural-de-chivilcoy-las-cosas-que-mejoran-las-nid16102026/",
      "domain": "La Nación",
@@ -2293,12 +2305,6 @@
      "seendate": "20261018T105236Z"
     },
     {
-     "title": "Negociaciones en Washington sobre el futuro de la Argentina",
-     "url": "https://www.lanacion.com.ar/economia/negociaciones-en-washington-sobre-el-futuro-de-la-argentina-nid18102026/",
-     "domain": "La Nación",
-     "seendate": "20261018T104656Z"
-    },
-    {
      "title": "Dólar hoy y dólar blue hoy: a cuánto cotiza este domingo 18 de octubre",
      "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-hoy-a-cuanto-cotiza-este-domingo-18-de-octubre-nid18102026/",
      "domain": "La Nación",
@@ -2339,12 +2345,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/cita-del-dia-seneca-filosofo-del-estoicismo-la-suerte-es-donde-confluyen-la-preparacion-y-la-nid18102026/",
      "domain": "La Nación",
      "seendate": "20261018T050000Z"
-    },
-    {
-     "title": "La bazuca de Milei y su alianza de cristal",
-     "url": "https://www.lanacion.com.ar/politica/la-bazuca-de-milei-y-su-alianza-de-cristal-nid17102026/",
-     "domain": "La Nación",
-     "seendate": "20261018T034221Z"
     }
    ]
   },
@@ -2758,6 +2758,12 @@
   "BRA": {
    "articles": [
     {
+     "title": "Motorista é preso após atropelar idoso durante ato pró-Lula em Belo Horizonte",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/18/motorista-e-preso-apos-atropelar-idoso-durante-ato-pro-lula-em-belo-horizonte.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261018T135930Z"
+    },
+    {
      "title": "'Sem bandeiras de outros países': organização de ato de Flávio na Paulista pede que apoiadores escondam bandeiras de EUA e Israel",
      "url": "https://oglobo.globo.com/politica/noticia/2026/10/18/sem-bandeiras-de-outros-paises-organizacao-de-ato-de-flavio-na-paulista-pede-que-apoiadores-escondam-bandeiras-de-eua-e-israel.ghtml",
      "domain": "O Globo",
@@ -2784,18 +2790,6 @@
     {
      "title": "Aval popular guia propostas para reduzir maioridade penal",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/18/aval-popular-guia-propostas-para-reduzir-maioridade-penal.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261018T063000Z"
-    },
-    {
-     "title": "Abstenção de idosos em cidades-chave e risco de desmobilização desafiam Lula e Flávio Bolsonaro",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/18/abstencao-de-idosos-em-cidades-chave-e-risco-de-desmobilizacao-desafiam-lula-e-flavio-bolsonaro.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261018T063000Z"
-    },
-    {
-     "title": "Conselho Federal de Medicina terá mais poder na prova que decidirá exercício da profissão",
-     "url": "https://oglobo.globo.com/brasil/educacao/noticia/2026/10/18/conselho-federal-de-medicina-tera-mais-poder-na-prova-que-decidira-exercicio-da-profissao.ghtml",
      "domain": "O Globo",
      "seendate": "20261018T063000Z"
     }
