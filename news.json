@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T07:31:33+00:00",
+ "updated": "2026-10-18T08:02:23+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -128,6 +128,12 @@
   "MEX": {
    "articles": [
     {
+     "title": "FGR obtuvo orden de captura exprés contra César Jáuregui; un segundo funcionario está prófugo",
+     "url": "https://www.eluniversal.com.mx/nacion/fgr-obtuvo-orden-de-captura-expres-contra-cesar-jauregui-un-segundo-funcionario-esta-profugo/",
+     "domain": "El Universal",
+     "seendate": "20261018T074235Z"
+    },
+    {
      "title": "Detienen a director de Reglamentos y Espectáculos de Taxco; está acusado del secuestro del padre del alcalde",
      "url": "https://www.eluniversal.com.mx/estados/detienen-a-director-de-reglamentos-y-espectaculos-de-taxco-esta-acusado-del-secuestro-del-padre-del-alcalde/",
      "domain": "El Universal",
@@ -222,18 +228,6 @@
      "url": "https://www.eluniversal.com.mx/nacion/imss-y-sindicato-continuan-mesas-de-trabajo-buscan-aumento-salarial-y-mejores-condiciones-laborales/",
      "domain": "El Universal",
      "seendate": "20261017T225452Z"
-    },
-    {
-     "title": "Desfilan 300 alebrijes en Paseo de la Reforma; serán exhibidos hasta el 8 de noviembre",
-     "url": "https://www.eluniversal.com.mx/metropoli/desfilan-300-alebrijes-en-paseo-de-la-reforma-seran-exhibidos-hasta-el-8-de-noviembre/",
-     "domain": "El Universal",
-     "seendate": "20261017T224749Z"
-    },
-    {
-     "title": "Renuncia Rodrigo Reyes Mugüerza a Secretaría general del gobierno de Zacatecas; buscará candidatura a la capital estatal",
-     "url": "https://www.eluniversal.com.mx/estados/renuncia-rodrigo-reyes-muguerza-a-secretaria-general-del-gobierno-de-zacatecas-buscara-candidatura-a-la-capital-estatal/",
-     "domain": "El Universal",
-     "seendate": "20261017T223927Z"
     },
     {
      "title": "Compañeros despiden a la doctora Cristina Ramos, asesinada en el puerto de Coatzacoalcos, Veracruz; exigen justicia",
@@ -663,6 +657,12 @@
   },
   "CRI": {
    "articles": [
+    {
+     "title": "Patricia Vargas, aspirante a presidir la Corte: ‘No podemos prestarnos para el ataque o la discusión que ha sido degradada’",
+     "url": "https://www.nacion.com/politica/patricia-vargas-aspirante-a-presidir-la-corte-no/UDU6ENCGENCK3P72YFMCTAH7HY/story/",
+     "domain": "La Nación",
+     "seendate": "20261018T073000Z"
+    },
     {
      "title": "La Cahuita que quedó tras la caída de Pecho de Rata y su grupo criminal",
      "url": "https://www.nacion.com/sucesos/la-cahuita-que-quedo-tras-la-caida-de-pecho-de/5V7HICK6ZRHFVNW3SXR6F2RUQQ/story/",
@@ -2293,6 +2293,18 @@
   "ARG": {
    "articles": [
     {
+     "title": "Se viene un festejo del Día de la Madre con pronóstico muy frío para octubre y chances de que vuelva el sol: las zonas afectadas",
+     "url": "https://www.lanacion.com.ar/sociedad/se-viene-un-festejo-del-dia-de-la-madre-con-pronostico-muy-frio-para-octubre-y-chances-de-que-vuelva-nid18102026/",
+     "domain": "La Nación",
+     "seendate": "20261018T080000Z"
+    },
+    {
+     "title": "Tony Robbins, experto en crecimiento personal: “La razón por la que sufrís: estás enfocado en vos”",
+     "url": "https://www.lanacion.com.ar/sociedad/tony-robbins-experto-en-crecimiento-personal-la-razon-por-la-que-sufris-estas-enfocado-en-vos-nid18102026/",
+     "domain": "La Nación",
+     "seendate": "20261018T080000Z"
+    },
+    {
      "title": "Pilar Sordo, psicóloga, sobre los vínculos: “Nos cuesta decir lo que nos pasa”",
      "url": "https://www.lanacion.com.ar/sociedad/pilar-sordo-psicologa-sobre-los-vinculos-nos-cuesta-decir-lo-que-nos-pasa-nid18102026/",
      "domain": "La Nación",
@@ -2335,6 +2347,18 @@
      "seendate": "20261018T030100Z"
     },
     {
+     "title": "Federico Moll: “Incluso si la economía no para de crecer, el consumo masivo tal vez no recupere los niveles de 2023 por mucho tiempo”",
+     "url": "https://www.lanacion.com.ar/economia/federico-moll-incluso-si-la-economia-no-para-de-crecer-el-consumo-masivo-tal-vez-no-recupere-los-nid18102026/",
+     "domain": "La Nación",
+     "seendate": "20261018T030100Z"
+    },
+    {
+     "title": "Stefano Volpetti: “Los productos libres de humo ya funcionan en el mundo y va a pasar lo mismo en la Argentina”",
+     "url": "https://www.lanacion.com.ar/economia/los-productos-libres-de-humo-ya-funcionan-en-el-mundo-y-va-a-pasar-lo-mismo-en-la-argentina-nid18102026/",
+     "domain": "La Nación",
+     "seendate": "20261018T030100Z"
+    },
+    {
      "title": "Economía del comportamiento: cuando los agentes moderan sesgos y van por “la renta de la inercia”",
      "url": "https://www.lanacion.com.ar/economia/economia-del-comportamiento-cuando-los-agentes-moderan-sesgos-y-van-por-la-renta-de-la-inercia-nid18102026/",
      "domain": "La Nación",
@@ -2347,20 +2371,8 @@
      "seendate": "20261018T030100Z"
     },
     {
-     "title": "Stefano Volpetti: “Los productos libres de humo ya funcionan en el mundo y va a pasar lo mismo en la Argentina”",
-     "url": "https://www.lanacion.com.ar/economia/los-productos-libres-de-humo-ya-funcionan-en-el-mundo-y-va-a-pasar-lo-mismo-en-la-argentina-nid18102026/",
-     "domain": "La Nación",
-     "seendate": "20261018T030100Z"
-    },
-    {
      "title": "Finanzas: contexto externo desafiante y riesgo país en alza",
      "url": "https://www.lanacion.com.ar/economia/finanzas-contexto-externo-desafiante-y-riesgo-pais-en-alza-nid18102026/",
-     "domain": "La Nación",
-     "seendate": "20261018T030100Z"
-    },
-    {
-     "title": "Federico Moll: “Incluso si la economía no para de crecer, el consumo masivo tal vez no recupere los niveles de 2023 por mucho tiempo”",
-     "url": "https://www.lanacion.com.ar/economia/federico-moll-incluso-si-la-economia-no-para-de-crecer-el-consumo-masivo-tal-vez-no-recupere-los-nid18102026/",
      "domain": "La Nación",
      "seendate": "20261018T030100Z"
     },
@@ -2371,14 +2383,14 @@
      "seendate": "20261018T015000Z"
     },
     {
-     "title": "Mario Alonso Puig, especialista en emociones: “Cuanto mayor sea tu capacidad de amar, más feliz vas a ser”",
-     "url": "https://www.lanacion.com.ar/sociedad/mario-alonso-puig-especialista-en-emociones-cuanto-mayor-sea-tu-capacidad-de-amar-mas-feliz-vas-a-nid17102026/",
+     "title": "Este es el estudio que las personas que fuman o fumaron tendrían que realizarse",
+     "url": "https://www.lanacion.com.ar/sociedad/este-es-el-estudio-que-las-personas-que-fuman-o-fumaron-tendrian-que-realizarse-nid17102026/",
      "domain": "La Nación",
      "seendate": "20261018T010000Z"
     },
     {
-     "title": "Este es el estudio que las personas que fuman o fumaron tendrían que realizarse",
-     "url": "https://www.lanacion.com.ar/sociedad/este-es-el-estudio-que-las-personas-que-fuman-o-fumaron-tendrian-que-realizarse-nid17102026/",
+     "title": "Mario Alonso Puig, especialista en emociones: “Cuanto mayor sea tu capacidad de amar, más feliz vas a ser”",
+     "url": "https://www.lanacion.com.ar/sociedad/mario-alonso-puig-especialista-en-emociones-cuanto-mayor-sea-tu-capacidad-de-amar-mas-feliz-vas-a-nid17102026/",
      "domain": "La Nación",
      "seendate": "20261018T010000Z"
     },
@@ -2405,24 +2417,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/los-especialistas-en-sueno-coinciden-los-ruidos-blancos-enmascaran-los-demas-ruidos-y-promueven-el-nid17102026/",
      "domain": "La Nación",
      "seendate": "20261017T230000Z"
-    },
-    {
-     "title": "¿Teoría pura o historia? Hace 150 años y ahora",
-     "url": "https://www.lanacion.com.ar/economia/teoria-pura-o-historia-hace-150-anos-y-ahora-nid17102026/",
-     "domain": "La Nación",
-     "seendate": "20261017T220000Z"
-    },
-    {
-     "title": "El ejercicio ideal para respirar, reconectar y calmarte en solo 5 minutos",
-     "url": "https://www.lanacion.com.ar/sociedad/el-ejercicio-ideal-para-respirar-reconectar-y-calmarte-en-solo-5-minutos-nid17102026/",
-     "domain": "La Nación",
-     "seendate": "20261017T220000Z"
-    },
-    {
-     "title": "“Elemento integrador”: avanza el concurso urbanístico para rediseñar una icónica avenida marítima de la costa bonaerense",
-     "url": "https://www.lanacion.com.ar/sociedad/elemento-integrador-avanza-el-concurso-urbanistico-para-redisenar-una-iconica-avenida-maritima-de-la-nid17102026/",
-     "domain": "La Nación",
-     "seendate": "20261017T215241Z"
     }
    ]
   },
@@ -2930,24 +2924,6 @@
      "url": "https://oglobo.globo.com/brasil/noticia/2026/10/17/homem-e-preso-em-sp-apos-ameacar-com-faca-e-manter-mulher-e-bebe-de-8-meses-refens-por-seis-horas.ghtml",
      "domain": "O Globo",
      "seendate": "20261017T184846Z"
-    },
-    {
-     "title": "José Sarney recebe alta hospitalar em São Luís após nove dias internado",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/17/jose-sarney-recebe-alta-hospitalar-em-sao-luis-apos-nove-dias-internado.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261017T172928Z"
-    },
-    {
-     "title": "Presidente do PT diz que Lula quer ‘confronto direto’ e tentará ‘desmascarar’ Flávio em debate",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/17/presidente-do-pt-diz-que-lula-quer-confronto-direto-e-tentara-desmascarar-flavio-em-debate.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261017T172427Z"
-    },
-    {
-     "title": "Ex-ministros tucanos, filha de FHC e autor do pedido de impeachment de Dilma assinam carta pela democracia e declaram apoio a Lula",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/17/ex-ministros-tucanos-filha-de-fhc-e-autor-do-pedido-de-impeachment-de-dilma-assinam-carta-pela-democracia-e-declaram-apoio-a-lula.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261017T164447Z"
     }
    ]
   }
