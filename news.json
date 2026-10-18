@@ -1,16 +1,16 @@
 {
- "updated": "2026-10-18T10:28:44+00:00",
+ "updated": "2026-10-18T10:58:17+00:00",
  "countries": {
   "ESP": {
    "articles": [
     {
-     "title": "Última hora de la actualidad política, en directo | Feijóo protagoniza el primer gran acto de precampaña del PP en Cataluña",
+     "title": "Última hora de la actualidad política, en directo | Feijóo reclama “tolerancia cero para los okupas” y pide a Albiol que lidere en el Congreso una ley antiocupación",
      "url": "https://elpais.com/espana/2026-10-18/ultima-hora-de-la-actualidad-politica-en-directo.html",
      "domain": "El País",
-     "seendate": "20261018T102036Z"
+     "seendate": "20261018T104424Z"
     },
     {
-     "title": "El temporal deja hasta 87 litros por metro cuadrado en Cataluña y obliga al rescate de personas atrapadas por el agua",
+     "title": "El temporal deja una mujer fallecida en Cabrera de Mar y lluvias de hasta 87 litros en Cataluña",
      "url": "https://elpais.com/espana/catalunya/2026-10-18/el-temporal-deja-hasta-87-litros-por-metro-cuadrado-en-cataluna-y-obliga-al-rescate-de-personas-atrapadas-por-el-agua.html",
      "domain": "El País",
      "seendate": "20261018T071118Z"
@@ -52,12 +52,6 @@
      "seendate": "20261018T033001Z"
     },
     {
-     "title": "La alta velocidad entre Barcelona y Madrid pierde frecuencias, fiabilidad y rapidez",
-     "url": "https://elpais.com/espana/catalunya/2026-10-18/la-alta-velocidad-entre-barcelona-y-madrid-pierde-frecuencias-fiabilidad-y-rapidez.html",
-     "domain": "El País",
-     "seendate": "20261018T033001Z"
-    },
-    {
      "title": "La zancadilla de Rufián",
      "url": "https://elpais.com/espana/catalunya/2026-10-18/la-zancadilla-de-rufian.html",
      "domain": "El País",
@@ -78,6 +72,12 @@
     {
      "title": "Ayuso y Vox aparcan de golpe su guerra en Madrid",
      "url": "https://elpais.com/espana/madrid/2026-10-18/ayuso-y-vox-aparcan-de-golpe-su-guerra-en-madrid.html",
+     "domain": "El País",
+     "seendate": "20261018T033001Z"
+    },
+    {
+     "title": "La alta velocidad entre Barcelona y Madrid pierde frecuencias, fiabilidad y rapidez",
+     "url": "https://elpais.com/espana/catalunya/2026-10-18/la-alta-velocidad-entre-barcelona-y-madrid-pierde-frecuencias-fiabilidad-y-rapidez.html",
      "domain": "El País",
      "seendate": "20261018T033001Z"
     },
@@ -140,7 +140,7 @@
      "seendate": "20261018T094748Z"
     },
     {
-     "title": "Partidos burlan ley electoral y anticipan campañas",
+     "title": "Partidos burlan ley electoral y anticipan campañas en CDMX; figura de “coordinadores”, sin regulación",
      "url": "https://www.eluniversal.com.mx/metropoli/partidos-burlan-ley-electoral-y-anticipan-campanas/",
      "domain": "El Universal",
      "seendate": "20261018T094546Z"
@@ -2287,6 +2287,12 @@
   "ARG": {
    "articles": [
     {
+     "title": "Negociaciones en Washington sobre el futuro de la Argentina",
+     "url": "https://www.lanacion.com.ar/economia/negociaciones-en-washington-sobre-el-futuro-de-la-argentina-nid18102026/",
+     "domain": "La Nación",
+     "seendate": "20261018T104656Z"
+    },
+    {
      "title": "El pronóstico del tiempo para este domingo 18 de octubre en todo el país: cómo estará el tiempo en el Día de la Madre",
      "url": "https://www.lanacion.com.ar/sociedad/el-pronostico-del-tiempo-para-este-domingo-18-en-todo-el-pais-como-estara-el-clima-en-el-dia-de-la-nid18102026/",
      "domain": "La Nación",
@@ -2359,26 +2365,14 @@
      "seendate": "20261018T034221Z"
     },
     {
-     "title": "El futuro de Milei",
-     "url": "https://www.lanacion.com.ar/politica/el-futuro-de-milei-nid18102026/",
-     "domain": "La Nación",
-     "seendate": "20261018T030100Z"
-    },
-    {
      "title": "Por qué hay que bajar el ritmo de compra de reservas",
      "url": "https://www.lanacion.com.ar/economia/por-que-hay-que-bajar-el-ritmo-de-compra-de-reservas-nid18102026/",
      "domain": "La Nación",
      "seendate": "20261018T030100Z"
     },
     {
-     "title": "Stefano Volpetti: “Los productos libres de humo ya funcionan en el mundo y va a pasar lo mismo en la Argentina”",
-     "url": "https://www.lanacion.com.ar/economia/los-productos-libres-de-humo-ya-funcionan-en-el-mundo-y-va-a-pasar-lo-mismo-en-la-argentina-nid18102026/",
-     "domain": "La Nación",
-     "seendate": "20261018T030100Z"
-    },
-    {
-     "title": "Finanzas: contexto externo desafiante y riesgo país en alza",
-     "url": "https://www.lanacion.com.ar/economia/finanzas-contexto-externo-desafiante-y-riesgo-pais-en-alza-nid18102026/",
+     "title": "El futuro de Milei",
+     "url": "https://www.lanacion.com.ar/politica/el-futuro-de-milei-nid18102026/",
      "domain": "La Nación",
      "seendate": "20261018T030100Z"
     },
@@ -2389,8 +2383,20 @@
      "seendate": "20261018T030100Z"
     },
     {
+     "title": "Stefano Volpetti: “Los productos libres de humo ya funcionan en el mundo y va a pasar lo mismo en la Argentina”",
+     "url": "https://www.lanacion.com.ar/economia/los-productos-libres-de-humo-ya-funcionan-en-el-mundo-y-va-a-pasar-lo-mismo-en-la-argentina-nid18102026/",
+     "domain": "La Nación",
+     "seendate": "20261018T030100Z"
+    },
+    {
      "title": "Economía del comportamiento: cuando los agentes moderan sesgos y van por “la renta de la inercia”",
      "url": "https://www.lanacion.com.ar/economia/economia-del-comportamiento-cuando-los-agentes-moderan-sesgos-y-van-por-la-renta-de-la-inercia-nid18102026/",
+     "domain": "La Nación",
+     "seendate": "20261018T030100Z"
+    },
+    {
+     "title": "Finanzas: contexto externo desafiante y riesgo país en alza",
+     "url": "https://www.lanacion.com.ar/economia/finanzas-contexto-externo-desafiante-y-riesgo-pais-en-alza-nid18102026/",
      "domain": "La Nación",
      "seendate": "20261018T030100Z"
     },
@@ -2401,22 +2407,16 @@
      "seendate": "20261018T015000Z"
     },
     {
-     "title": "Mario Alonso Puig, especialista en emociones: “Cuanto mayor sea tu capacidad de amar, más feliz vas a ser”",
-     "url": "https://www.lanacion.com.ar/sociedad/mario-alonso-puig-especialista-en-emociones-cuanto-mayor-sea-tu-capacidad-de-amar-mas-feliz-vas-a-nid17102026/",
-     "domain": "La Nación",
-     "seendate": "20261018T010000Z"
-    },
-    {
      "title": "Este es el estudio que las personas que fuman o fumaron tendrían que realizarse",
      "url": "https://www.lanacion.com.ar/sociedad/este-es-el-estudio-que-las-personas-que-fuman-o-fumaron-tendrian-que-realizarse-nid17102026/",
      "domain": "La Nación",
      "seendate": "20261018T010000Z"
     },
     {
-     "title": "Pese a sumar condenas y procesamientos, fue atrapado en pleno raid de robos con la réplica de una ametralladora",
-     "url": "https://www.lanacion.com.ar/seguridad/pese-a-sumar-condenas-y-procesamientos-fue-atrapado-en-pleno-raid-de-robos-con-la-replica-de-una-nid17102026/",
+     "title": "Mario Alonso Puig, especialista en emociones: “Cuanto mayor sea tu capacidad de amar, más feliz vas a ser”",
+     "url": "https://www.lanacion.com.ar/sociedad/mario-alonso-puig-especialista-en-emociones-cuanto-mayor-sea-tu-capacidad-de-amar-mas-feliz-vas-a-nid17102026/",
      "domain": "La Nación",
-     "seendate": "20261018T002959Z"
+     "seendate": "20261018T010000Z"
     }
    ]
   },
