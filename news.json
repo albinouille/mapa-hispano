@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T21:56:38+00:00",
+ "updated": "2026-10-18T22:23:27+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -122,7 +122,7 @@
      "seendate": "20261018T213013Z"
     },
     {
-     "title": "EN VIVO: Marcha Zombie recorrerá el Centro Histórico de CDMX; conoce la ruta y las alternativas viales",
+     "title": "Marcha Zombie recorre las calles del Centro de la CDMX; sigue EN VIVO la ruta y los detalles",
      "url": "https://www.eluniversal.com.mx/metropoli/en-vivo-marcha-zombie-recorrera-el-centro-historico-de-cdmx-conoce-la-ruta-y-las-alternativas-viales/",
      "domain": "El Universal",
      "seendate": "20261018T211802Z"
@@ -342,12 +342,6 @@
      "url": "https://www.eluniversal.com.mx/estados/agua-sucia-crisis-que-toca-fondo-en-jalisco/",
      "domain": "El Universal",
      "seendate": "20261018T090500Z"
-    },
-    {
-     "title": "La caída de César Jáuregui; cronología del proceso al exfiscal de Chihuahua",
-     "url": "https://www.eluniversal.com.mx/estados/la-caida-de-cesar-jauregui-cronologia-del-proceso-al-exfiscal-de-chihuahua/",
-     "domain": "El Universal",
-     "seendate": "20261018T030553Z"
     }
    ]
   },
@@ -778,6 +772,12 @@
   "CRI": {
    "articles": [
     {
+     "title": "Fuertes lluvias causan inundaciones en Heredia y San José: se reportan personas atrapadas y emergencias en varios sectores",
+     "url": "https://www.nacion.com/sucesos/fuertes-lluvias-causan-inundaciones-en-heredia-y/UAO2ZATLPFFX3IWOJEU25GB3C4/story/",
+     "domain": "La Nación",
+     "seendate": "20261018T220844Z"
+    },
+    {
      "title": "Dueño de perrita en San Ramón denunció presunto envenenamiento",
      "url": "https://www.nacion.com/sucesos/dueno-de-perrita-en-san-ramon-denuncio-presunto/S4BFGRNRVVADTLTCLAMAOC4UE4/story/",
      "domain": "La Nación",
@@ -1189,6 +1189,12 @@
   "COL": {
    "articles": [
     {
+     "title": "¿Quiénes son Girley Ordóñez Bowie, la gobernadora de San Andrés, y la congresista Elizabeth Jay-Pang Díaz, del careo del presidente De La Espriella?",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/quienes-son-girley-ordonez-bowie-la-gobernadora-de-san-andres-y-la-congresista-elizabeth-jay-pang-diaz-del-careo-del-presidente-de-la-espriella-3594418",
+     "domain": "El Tiempo",
+     "seendate": "20261018T214556Z"
+    },
+    {
      "title": "Medellín impulsa el turismo del futuro: más de 9.000 prestadores le apuestan a la formalidad y la inteligencia artificial",
      "url": "https://www.eltiempo.com/colombia/medellin/medellin-impulsa-el-turismo-del-futuro-mas-de-9-000-prestadores-le-apuestan-a-la-formalidad-y-la-inteligencia-artificial-3594447",
      "domain": "El Tiempo",
@@ -1205,12 +1211,6 @@
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/videos-momentos-de-angustia-por-drones-cargados-con-explosivos-en-norte-de-santander-hay-gente-desplazandose-a-la-cabecera-y-otra-esta-atrapada-3594436",
      "domain": "El Tiempo",
      "seendate": "20261018T195408Z"
-    },
-    {
-     "title": "¿Quiénes son Girley Ordóñez Bowie, la gobernadora de San Andrés, y la congresista Elizabeth Jay-Pang Díaz, del careo del presidente De La Espriella?",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/quienes-son-girley-ordonez-bowie-la-gobernadora-de-san-andres-y-la-congresista-elizabeth-jay-pang-diaz-del-careo-del-presidente-de-la-espriella-3594418",
-     "domain": "El Tiempo",
-     "seendate": "20261018T184041Z"
     },
     {
      "title": "Homicidios selectivos, desapariciones y amenazas: el complejo panorama de violencia que rodea el atentado contra el exalcalde de Jamundí",
@@ -1419,6 +1419,18 @@
   "ECU": {
    "articles": [
     {
+     "title": "Jóvenes en Acción: beneficiarios podrán elegir institución desde este 18 de octubre",
+     "url": "https://eluniverso.com/politica/ejecutivo/jovenes-en-accion-beneficiarios-podran-elegir-institucion-desde-este-18-de-octubre-nota/",
+     "domain": "El Universo",
+     "seendate": "20261018T221058Z"
+    },
+    {
+     "title": "Ocho incendios forestales se mantienen activos en Chimborazo, Tungurahua y Loja este domingo, 18 de octubre",
+     "url": "https://eluniverso.com/comunidad/ecuador/dos-incendios-forestales-se-registran-en-riobamba-y-penipe-en-chimborazo-nota/",
+     "domain": "El Universo",
+     "seendate": "20261018T220255Z"
+    },
+    {
      "title": "Nuevas obras viales e hidráulicas impulsarán el desarrollo económico y logístico de Tungurahua",
      "url": "https://eluniverso.com/politica/ejecutivo/nuevas-obras-viales-e-hidraulicas-impulsaran-el-desarrollo-economico-y-logistico-de-tungurahua-nota/",
      "domain": "El Universo",
@@ -1495,12 +1507,6 @@
      "url": "https://eluniverso.com/politica/elecciones/andres-roche-candidato-a-la-alcaldia-por-la-lista-6-es-importante-entrar-ya-ciudadania-y-municipio-en-una-politica-de-reciclaje-en-guayaquil-nota/",
      "domain": "El Universo",
      "seendate": "20261017T130000Z"
-    },
-    {
-     "title": "Entre lluvia y aplausos, Portoviejo celebra el regreso de Shyare Andrade",
-     "url": "https://eluniverso.com/comunidad/ecuador/entre-lluvia-y-aplausos-portoviejo-celebra-el-regreso-de-shyare-andrade-nota/",
-     "domain": "El Universo",
-     "seendate": "20261016T224226Z"
     }
    ]
   },
@@ -2167,6 +2173,24 @@
   "ARG": {
    "articles": [
     {
+     "title": "Milei viaja a España para apoyar a la ultraderecha, pero analistas advierten que podría jugarle en contra",
+     "url": "https://www.lanacion.com.ar/politica/milei-viaja-a-espana-para-apoyar-a-la-ultraderecha-pero-analistas-advierten-que-podria-jugarle-en-nid18102026/",
+     "domain": "La Nación",
+     "seendate": "20261018T221933Z"
+    },
+    {
+     "title": "Joseph Pilates: “La felicidad está subordinada al bienestar físico por encima del nivel social o económico”",
+     "url": "https://www.lanacion.com.ar/sociedad/joseph-pilates-la-felicidad-esta-subordinada-al-bienestar-fisico-por-encima-del-nivel-social-o-nid18102026/",
+     "domain": "La Nación",
+     "seendate": "20261018T220000Z"
+    },
+    {
+     "title": "Advierten que los servicios impiden que baje la inflación, aun con una economía debilitada y el dólar planchado",
+     "url": "https://www.lanacion.com.ar/economia/advierten-que-los-servicios-impiden-que-baje-la-inflacion-aun-con-una-economia-debilitada-y-el-dolar-nid18102026/",
+     "domain": "La Nación",
+     "seendate": "20261018T215642Z"
+    },
+    {
      "title": "El exviceministro de Caputo criticó la estrategia oficialista para bajar la inflación: “En el corto plazo no dan pie con bola”",
      "url": "https://www.lanacion.com.ar/economia/el-exviceministro-de-caputo-critico-la-estrategia-para-bajar-la-inflacion-en-el-corto-plazo-no-dan-nid18102026/",
      "domain": "La Nación",
@@ -2189,12 +2213,6 @@
      "url": "https://www.lanacion.com.ar/politica/el-reino-unido-analiza-bloquear-el-ingreso-argentino-a-la-ocde-y-el-tipat-y-chile-avanza-con-la-ruta-nid18102026/",
      "domain": "La Nación",
      "seendate": "20261018T204443Z"
-    },
-    {
-     "title": "Milei viaja a España para apoyar a la ultraderecha, pero analistas advierten que podría jugarle en contra",
-     "url": "https://www.lanacion.com.ar/politica/milei-viaja-a-espana-para-apoyar-a-la-ultraderecha-pero-analistas-advierten-que-podria-jugarle-en-nid18102026/",
-     "domain": "La Nación",
-     "seendate": "20261018T203930Z"
     },
     {
      "title": "Valentín Yan: un duro relato que reinstala el foco en la violencia intrafamiliar y el desafío de escuchar a las víctimas",
@@ -2273,12 +2291,6 @@
      "url": "https://www.lanacion.com.ar/economia/campo/el-costo-de-producir-granos-en-la-argentina-se-acerca-al-de-sus-competidores-nid18102026/",
      "domain": "La Nación",
      "seendate": "20261018T133007Z"
-    },
-    {
-     "title": "Calendario Anses: comienza el pago de las prestaciones sociales que se cobran en la semana del 19 al 23 de octubre",
-     "url": "https://www.lanacion.com.ar/economia/calendario-anses-comienza-el-pago-de-las-prestaciones-sociales-que-se-cobran-en-la-semana-del-19-al-nid18102026/",
-     "domain": "La Nación",
-     "seendate": "20261018T130000Z"
     }
    ]
   },
