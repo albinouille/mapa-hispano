@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T15:58:58+00:00",
+ "updated": "2026-10-18T16:26:01+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -121,6 +121,18 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Metrobús modifica servicio por Marcha Zombie; habrá cierres en las líneas 3, 4 y 7",
+     "url": "https://www.eluniversal.com.mx/metropoli/metrobus-modifica-servicio-por-marcha-zombie-habra-cierres-en-las-lineas-3-4-y-7/",
+     "domain": "El Universal",
+     "seendate": "20261018T160558Z"
+    },
+    {
+     "title": "¿Cómo estará este domingo la temperatura en la CDMX?; se mantiene alerta amarilla",
+     "url": "https://www.eluniversal.com.mx/metropoli/como-estara-este-domingo-la-temperatura-en-la-cdmx-se-mantiene-alerta-amarilla/",
+     "domain": "El Universal",
+     "seendate": "20261018T155225Z"
+    },
     {
      "title": "Estas son las marchas y concentraciones previstas para este 18 de octubre; prevé afectaciones viales",
      "url": "https://www.eluniversal.com.mx/metropoli/estas-son-las-marchas-y-concentraciones-previstas-para-este-18-de-octubre-preve-afectaciones-viales/",
@@ -936,12 +948,6 @@
      "seendate": "20261017T163859Z"
     },
     {
-     "title": "Las aprobaciones de residencia bajo la Ley de Ajuste Cubano caen un 99,7% en los últimos dos años",
-     "url": "https://www.14ymedio.com/cuba/migracion/aprobaciones-residencia-ley-ajuste-cubano_1_1132080.html",
-     "domain": "14ymedio",
-     "seendate": "20261017T162626Z"
-    },
-    {
      "title": "La falta de combustible obliga a los tabacaleros holguineros a volver a los bueyes",
      "url": "https://www.14ymedio.com/cuba/falta-combustible-obliga-tabacaleros-holguineros_1_1132078.html",
      "domain": "14ymedio",
@@ -1015,6 +1021,12 @@
   "COL": {
    "articles": [
     {
+     "title": "Aeropuerto Ernesto Cortissoz: así avanzan las obras en las salas internacionales que ya buscan agilizar Migración antes de la final de la Sudamericana",
+     "url": "https://www.eltiempo.com/colombia/barranquilla/aeropuerto-ernesto-cortissoz-asi-avanzan-las-obras-en-las-salas-internacionales-que-ya-buscan-agilizar-migracion-antes-de-la-final-de-la-sudamericana-3594416",
+     "domain": "El Tiempo",
+     "seendate": "20261018T154046Z"
+    },
+    {
      "title": "El Ejército frustra un atentado del Eln contra la vía férrea de El Cerrejón en La Guajira: desactivó un explosivo en una zona del municipio de Maicao",
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-ejercito-frustra-un-atentado-del-eln-contra-la-via-ferrea-de-el-cerrejon-en-la-guajira-desactivo-un-explosivo-en-una-zona-del-municipio-de-maicao-3594409",
      "domain": "El Tiempo",
@@ -1067,12 +1079,6 @@
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/asi-protegera-cartagena-a-sus-corales-de-varadero-el-secreto-mejor-guardado-de-la-ciencia-en-el-caribe-3594180",
      "domain": "El Tiempo",
      "seendate": "20261018T000100Z"
-    },
-    {
-     "title": "Así se construye el Plan Nacional de Desarrollo de la región centro-sur: gobernadores pidieron una mirada al campo y acciones por la seguridad",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/asi-se-construye-el-plan-nacional-de-desarrollo-de-la-region-centro-sur-gobernadores-pidieron-una-mirada-al-campo-y-acciones-por-la-seguridad-3594340",
-     "domain": "El Tiempo",
-     "seendate": "20261017T235256Z"
     }
    ]
   },
@@ -1383,6 +1389,12 @@
   "ECU": {
    "articles": [
     {
+     "title": "Policía incauta 382 kilos de cocaína en dos vehículos en Quinindé",
+     "url": "https://eluniverso.com/politica/seguridad/policia-incauta-382-kilos-de-cocaina-en-dos-vehiculos-en-quininde-nota/",
+     "domain": "El Universo",
+     "seendate": "20261018T155816Z"
+    },
+    {
      "title": "Patrulla militar se enfrenta a grupo armado en Sucumbíos",
      "url": "https://eluniverso.com/politica/seguridad/patrulla-militar-se-enfrenta-a-grupo-armado-en-sucumbios-nota/",
      "domain": "El Universo",
@@ -1461,12 +1473,6 @@
      "seendate": "20261017T173904Z"
     },
     {
-     "title": "Operativo militar en Posorja deja cinco detenidos tras hallazgo de restos humanos",
-     "url": "https://eluniverso.com/politica/seguridad/operativo-militar-en-posorja-cinco-detenidos-tras-hallazgos-de-restos-humanos-nota/",
-     "domain": "El Universo",
-     "seendate": "20261017T170435Z"
-    },
-    {
      "title": "Naufragio de barco pesquero frente a Santa Elena deja seis rescatados y catorce desaparecidos",
      "url": "https://eluniverso.com/politica/seguridad/naufragio-de-barco-pesquero-frente-a-santa-elena-deja-seis-rescatados-y-14-desaparecidos-nota/",
      "domain": "El Universo",
@@ -1488,6 +1494,12 @@
   },
   "PER": {
    "articles": [
+    {
+     "title": "Aprueban protocolo para el manejo de restos humanos en emergencias y desastres",
+     "url": "https://elcomercio.pe/peru/pcm-aprueba-protocolo-para-el-manejo-de-restos-humanos-en-emergencias-y-desastres-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261018T160050Z"
+    },
     {
      "title": "La poesía de Elqui Burgos, reunida en un volumen tras cinco décadas de escritura",
      "url": "https://elcomercio.pe/peru/la-poesia-de-elqui-burgos-reunida-en-un-volumen-tras-cinco-decadas-de-escritura-noticia/",
@@ -1809,6 +1821,114 @@
   "CHL": {
    "articles": [
     {
+     "title": "Darío Osorio fue suplente en la goleada sufrida por Crystal",
+     "url": "https://www.prensafutbol.cl/dario-osorio-suplente-goleada-sufrida-crystal/",
+     "domain": "prensafutbol.cl",
+     "seendate": "20261018T160000Z"
+    },
+    {
+     "title": "Aníbal Mosa y reunión clave con César Villegas por la ANFP",
+     "url": "https://www.prensafutbol.cl/anibal-mosa-reunion-cesar-villegas-anfp-2026/",
+     "domain": "prensafutbol.cl",
+     "seendate": "20261018T160000Z"
+    },
+    {
+     "title": "Canciller inicia gira por Europa con foco en inversiones , comercio y seguridad para Chile",
+     "url": "https://www.radioagricultura.cl/noticias/internacional/canciller-inicia-gira-por-europa-con-foco-en-inversiones-comercio-y-seguridad-para-chile_20261018/",
+     "domain": "radioagricultura.cl",
+     "seendate": "20261018T153000Z"
+    },
+    {
+     "title": "Despedida de Matías Rodríguez en La U termina en caos",
+     "url": "https://www.elperiscopio.cl/destacado-1/despedida-de-matias-rodriguez-en-la-u-termina-en-caos/",
+     "domain": "elperiscopio.cl",
+     "seendate": "20261018T153000Z"
+    },
+    {
+     "title": "Profesores chilenos en EE . UU .: requisitos y cómo postular",
+     "url": "https://www.elmostrador.cl/datos-utiles/2026/10/18/profesores-chilenos-en-estados-unidos-requisitos-sueldos-y-como-postular/",
+     "domain": "elmostrador.cl",
+     "seendate": "20261018T151500Z"
+    },
+    {
+     "title": "Servicio Militar 2027 : cómo excusarte y evitar sanciones",
+     "url": "https://www.elmostrador.cl/datos-utiles/2026/10/18/servicio-militar-2027-como-excusarte-y-que-pasa-si-no-te-presentas/",
+     "domain": "elmostrador.cl",
+     "seendate": "20261018T151500Z"
+    },
+    {
+     "title": "Columna de Luis Cordero Vega : El miedo también enferma",
+     "url": "https://www.theclinic.cl/2026/10/18/columna-de-luis-cordero-vega-el-miedo-tambien-enferma/",
+     "domain": "theclinic.cl",
+     "seendate": "20261018T143000Z"
+    },
+    {
+     "title": "Mara Sedini : Los indultos a carabineros fueron un compromiso y al Gobierno se le está acabando el tiempo para definirlo",
+     "url": "https://www.theclinic.cl/2026/10/18/mara-sedini-los-indultos-a-carabineros-fueron-un-compromiso-y-al-gobierno-se-le-esta-acabando-el-tiempo-para-definirlo/",
+     "domain": "theclinic.cl",
+     "seendate": "20261018T143000Z"
+    },
+    {
+     "title": "Editorial / Un déjá vu : siete años después",
+     "url": "https://www.theclinic.cl/2026/10/18/editorial-un-deja-vu-siete-anos-despues/",
+     "domain": "theclinic.cl",
+     "seendate": "20261018T143000Z"
+    },
+    {
+     "title": "Jaime Bassa , a siete años del 18 - O : Algo hicimos bien durante todo ese período : pusimos la oligarquía contra la pared",
+     "url": "https://www.theclinic.cl/2026/10/18/jaime-bassa-a-siete-anos-del-18-o-algo-hicimos-bien-durante-todo-ese-periodo-pusimos-la-oligarquia-contra-la-pared/",
+     "domain": "theclinic.cl",
+     "seendate": "20261018T143000Z"
+    },
+    {
+     "title": "PS manifestó su rechazo : Controversia por retiro de retrato de Salvador Allende de sede de la OEA",
+     "url": "https://www.chilevision.cl/noticias/internacional/ps-manifesto-su-rechazo-controversia-por-retiro-de-retrato-de-salvador-allende-de-sede-de-la-oea/",
+     "domain": "chilevision.cl",
+     "seendate": "20261018T143000Z"
+    },
+    {
+     "title": "La historia detrás de la cantina Monte Rosa",
+     "url": "https://www.theclinic.cl/2026/10/18/las-historias-detras-de-monte-rosa-sus-platos-abundantes-viejos-parroquianos-y-una-cantina-que-ha-recibido-desde-allende-hasta-boric/",
+     "domain": "theclinic.cl",
+     "seendate": "20261018T143000Z"
+    },
+    {
+     "title": "Johannes Kaiser presiona a Kast por indultos a carabineros del 18 - O : Respáldelo , patrocínelo , es lo menos que se merecen",
+     "url": "https://www.theclinic.cl/2026/10/18/johannes-kaiser-presiona-a-kast-por-indultos-a-carabineros-del-18-o-respaldelo-patrocinelo-es-lo-menos-que-se-merecen/",
+     "domain": "theclinic.cl",
+     "seendate": "20261018T143000Z"
+    },
+    {
+     "title": "Franco Parisi : ¿ Qué esperanza entrega Bachelet , Boric , Kast , Kaiser o Matthei ? Yo no lo veo y la gente tampoco",
+     "url": "https://www.theclinic.cl/2026/10/18/franco-parisi-que-esperanza-entrega-bachelet-boric-kast-kaiser-o-matthei-yo-no-lo-veo-y-la-gente-tampoco/",
+     "domain": "theclinic.cl",
+     "seendate": "20261018T143000Z"
+    },
+    {
+     "title": "¿ Quién y cuándo ?: Don Francisco revela parrilla completa de Teletón 2026",
+     "url": "https://www.24horas.cl/tendencias/espectaculos/quien-y-cuando-don-francisco-revela-parrilla-completa-de-teleton-2026-",
+     "domain": "24horas.cl",
+     "seendate": "20261018T134500Z"
+    },
+    {
+     "title": "¿ Usar el mismo método anticonceptivo por años es seguro ? Cuándo hay riesgos y qué pasa al dejarlos | Salud y Bienestar",
+     "url": "https://www.biobiochile.cl/noticias/salud-y-bienestar/cuerpo/2026/10/18/usar-anticonceptivos-por-anos-es-seguro-expertos-explican-cuando-hay-riesgos-y-que-pasa-al-dejarlos.shtml",
+     "domain": "biobiochile.cl",
+     "seendate": "20261018T133000Z"
+    },
+    {
+     "title": "Se desactiva la huelga en Centinela : minera y sindicatos alcanzan acuerdo con bono de término y renovación de jornadas de $ 24 millones",
+     "url": "https://www.df.cl/empresas/mineria/se-desactiva-la-huelga-en-centinela-minera-y-sindicatos-alcanzan-acuerdo",
+     "domain": "df.cl",
+     "seendate": "20261018T130000Z"
+    },
+    {
+     "title": "Día mundial de la Menopausia : el desafío de informar sin estigmas",
+     "url": "https://www.diarioelcentro.cl/2026/10/18/dia-mundial-de-la-menopausia-el-desafio-de-informar-sin-estigmas/",
+     "domain": "diarioelcentro.cl",
+     "seendate": "20261018T124500Z"
+    },
+    {
      "title": "Récord de exportaciones impulsa mayor superávit comercial de la historia de Chile – Diario Chañarcillo",
      "url": "https://www.chanarcillo.cl/record-de-exportaciones-impulsa-mayor-superavit-comercial-de-la-historia-de-chile/",
      "domain": "chanarcillo.cl",
@@ -2059,119 +2179,17 @@
      "url": "https://www.chilevision.cl/noticias/tendencias/paris-beauty-2026-evento-de-belleza-reunira-a-10-mil-asistentes-y-mas-de-80-marcas/",
      "domain": "chilevision.cl",
      "seendate": "20261017T180000Z"
-    },
-    {
-     "title": "Fother Muckers presenta su nuevo álbum : Tener un disco que sonara bien era una deuda que teníamos con nosotros mismos",
-     "url": "https://www.latercera.com/culto/noticia/fother-muckers-presenta-su-nuevo-album-tener-un-disco-que-sonara-bien-era-una-deuda-que-teniamos-con-nosotros-mismos/",
-     "domain": "latercera.com",
-     "seendate": "20261017T174500Z"
-    },
-    {
-     "title": "Este lunes llega el gran estreno de Vértigo Extremo : conoce a los famosos que enfrentarán el primer desafío",
-     "url": "https://www.13.cl/programas/vertigo-extremo/noticias/este-lunes-llega-el-gran-estreno-de-vertigo-extremo-conoce-a-los",
-     "domain": "13.cl",
-     "seendate": "20261017T174500Z"
-    },
-    {
-     "title": "Con un C - H - I y la promesa de regresar : BTS arrasa en su segunda noche en Chile ante un Estadio Nacional eufórico",
-     "url": "https://www.diarioelcentro.cl/2026/10/17/con-un-c-h-i-y-la-promesa-de-regresar-bts-arrasa-en-su-segunda-noche-en-chile-ante-un-estadio-nacional-euforico/",
-     "domain": "diarioelcentro.cl",
-     "seendate": "20261017T174500Z"
-    },
-    {
-     "title": "Con foco en América Latina : los países que ha visitado Kast en sus primeros meses de mandato",
-     "url": "https://www.latercera.com/politica/noticia/con-foco-en-america-latina-los-paises-que-ha-visitado-kast-en-sus-primeros-meses-de-mandato/",
-     "domain": "latercera.com",
-     "seendate": "20261017T174500Z"
-    },
-    {
-     "title": "Con Marcelino Nez nuevamente borrado : Ipswich Town cae ante el líder Manchester City",
-     "url": "https://www.latercera.com/el-deportivo/noticia/con-marcelino-nunez-nuevamente-borrado-ipswich-town-cae-ante-el-lider-manchester-city/",
-     "domain": "latercera.com",
-     "seendate": "20261017T174500Z"
-    },
-    {
-     "title": "Diputados IND - PPD impulsan comisión investigadora por millonarias pérdidas de las AFP",
-     "url": "https://www.latercera.com/politica/noticia/diputados-ind-ppd-impulsan-comision-investigadora-por-millonarias-perdidas-de-las-afp/",
-     "domain": "latercera.com",
-     "seendate": "20261017T174500Z"
-    },
-    {
-     "title": "La Banda de Gregorio representará al Maule en Rockódromo 2026",
-     "url": "https://www.diarioelcentro.cl/2026/10/17/la-banda-de-gregorio-representara-al-maule-en-rockodromo-2026/",
-     "domain": "diarioelcentro.cl",
-     "seendate": "20261017T174500Z"
-    },
-    {
-     "title": "Pareja chilena es detenida con más de 4 , 5 kilos de cocaína en Bali y arriesga severas penas",
-     "url": "https://www.cnnchile.com/mundo/pareja-chilena-es-detenida-con-mas-de-45-kilos-de-cocaina-en-bali-y-arriesga-severas-penas/",
-     "domain": "cnnchile.com",
-     "seendate": "20261017T173000Z"
-    },
-    {
-     "title": "El estallido institucional es la corrupción generalizada",
-     "url": "https://www.elclarin.cl/2026/10/17/del-estallido-social-al-estallido-institucional/",
-     "domain": "elclarin.cl",
-     "seendate": "20261017T173000Z"
-    },
-    {
-     "title": "A siete años del estallido social : las demandas de octubre siguen abiertas",
-     "url": "https://www.elclarin.cl/2026/10/17/estallido-social-2019-demandas-pendientes-siete-anos/",
-     "domain": "elclarin.cl",
-     "seendate": "20261017T173000Z"
-    },
-    {
-     "title": "Arriesgan pena de muerte : Lo que se sabe de los dos turistas chilenos detenidos en Bali",
-     "url": "https://www.t13.cl/noticia/mundo/arriesgan-pena-muerte-hay-tercer-involucrado-lo-se-sabe-dos-turistas-chilenos-17-10-2026",
-     "domain": "t13.cl",
-     "seendate": "20261017T173000Z"
-    },
-    {
-     "title": "Hay peligro de fuga : jueza rechaza autorizar viaje de Jadue a Brasil antes de la audiencia para preparar su juicio",
-     "url": "https://www.t13.cl/noticia/politica/hay-peligro-fuga-jueza-rechaza-autorizar-viaje-jadue-brasil-antes-audiencia-juicio",
-     "domain": "t13.cl",
-     "seendate": "20261017T173000Z"
-    },
-    {
-     "title": "Visa Waiver : Cifra de chilenos que exceden tiempo de permanencia en EE . UU . llega a su nivel más bajo en seis años",
-     "url": "https://www.cnnchile.com/pais/visa-waiver-cifra-de-chilenos-que-exceden-tiempo-de-permanencia-en-ee-uu-llega-a-su-nivel-mas-bajo-en-seis-anos/",
-     "domain": "cnnchile.com",
-     "seendate": "20261017T173000Z"
-    },
-    {
-     "title": "Chilenos detenidos en Bali por tráfico de drogas : Cancillería confirmó que ya se comunicó con sus familiares",
-     "url": "https://www.t13.cl/noticia/mundo/chilenos-detenidos-bali-por-trafico-drogas-cancilleria-confirmo-ya-se-comunico-17-10-2026",
-     "domain": "t13.cl",
-     "seendate": "20261017T173000Z"
-    },
-    {
-     "title": "Por qué NO hay Liga de Primera este fin de semana y cuándo vuelve a jugarse",
-     "url": "https://www.t13.cl/noticia/deportes13/por-no-hay-liga-primera-este-fin-semana-cuando-vuelve-jugarse-17-10-2026",
-     "domain": "t13.cl",
-     "seendate": "20261017T173000Z"
-    },
-    {
-     "title": "Marcelino Nez vive un calvario y suma un nuevo revés en Inglaterra",
-     "url": "https://www.prensafutbol.cl/marcelino-nunez-recibe-otro-duro-golpe/",
-     "domain": "prensafutbol.cl",
-     "seendate": "20261017T163000Z"
-    },
-    {
-     "title": "Radio Pudahuel celebró 58 años de historia junto a grandes artistas nacionales : Revive AQUÍ las presentaciones",
-     "url": "https://www.pudahuel.cl/destacados/2026/10/radio-pudahuel-celebro-58-anos-de-historia-junto-a-grandes-artistas-nacionales-revive-aqui-las-presentaciones/",
-     "domain": "pudahuel.cl",
-     "seendate": "20261017T161500Z"
-    },
-    {
-     "title": "Diputados argentinos piden citar a embajador chileno por futura ruta marítima entre Punta Arenas y Malvinas",
-     "url": "https://www.latercera.com/mundo/noticia/diputados-argentinos-piden-citar-a-embajador-chileno-por-futura-ruta-maritima-entre-punta-arenas-y-malvinas/",
-     "domain": "latercera.com",
-     "seendate": "20261017T161500Z"
     }
    ]
   },
   "ARG": {
    "articles": [
+    {
+     "title": "Moratoria en Buenos Aires: lanzan un plan de pagos con descuentos de hasta el 40%",
+     "url": "https://www.lanacion.com.ar/economia/moratoria-en-buenos-aires-lanzan-un-plan-de-pagos-con-descuentos-de-hasta-el-40-nid18102026/",
+     "domain": "La Nación",
+     "seendate": "20261018T161552Z"
+    },
     {
      "title": "Negociaciones en Washington sobre el futuro de la Argentina",
      "url": "https://www.lanacion.com.ar/economia/negociaciones-en-washington-sobre-el-futuro-de-la-argentina-nid18102026/",
@@ -2637,7 +2655,7 @@
   "PRY": {
    "articles": [
     {
-     "title": "Tupãrenda: obispo llama a vivir en libertad y humildad durante misa",
+     "title": "Tupãrenda: obispo llama a vivir en libertad y humildad durante misa por el trabajo",
      "url": "https://www.abc.com.py/nacionales/2026/10/18/tuparenda-obispo-llama-a-vivir-en-libertad-y-humildad-durante-misa/",
      "domain": "ABC Color",
      "seendate": "20261018T153716Z"
@@ -2671,18 +2689,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/18/multitudinaria-concurrencia-marco-la-primera-noche-del-festival-de-la-raza-en-villarrica/",
      "domain": "ABC Color",
      "seendate": "20261018T121514Z"
-    },
-    {
-     "title": "¿Sin luz en casa? Estas son las zonas con cortes programados de ANDE",
-     "url": "https://www.abc.com.py/nacionales/2026/10/18/sin-luz-en-casa-estas-son-las-zonas-con-cortes-programados-de-ande/",
-     "domain": "ABC Color",
-     "seendate": "20261018T120016Z"
-    },
-    {
-     "title": "Discurso vs. realidad: Cuánto cuestan los funcionarios que metió Luis Bello a la Municipalidad de Asunción",
-     "url": "https://www.abc.com.py/nacionales/2026/10/18/discurso-vs-realidad-cuanto-cuestan-los-funcionarios-que-metio-luis-bello-a-la-municipalidad-de-asuncion/",
-     "domain": "ABC Color",
-     "seendate": "20261018T120000Z"
     }
    ]
   },
@@ -2691,6 +2697,18 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "Eleições 2026: apenas um local de votação mudou de endereço no RJ para o segundo turno",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/18/eleicoes-2026-apenas-um-local-de-votacao-mudou-de-endereco-no-rj-para-o-segundo-turno.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261018T161144Z"
+    },
+    {
+     "title": "PT aposta em atos descentralizados pela democracia com Emicida em SP e Caetano Veloso no Rio; Flávio Bolsonaro lota Avenida Paulista",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/18/pt-aposta-em-atos-descentralizados-pela-democracia-com-emicida-em-sp-e-caetano-veloso-no-rio-flavio-bolsonaro-lota-avenida-paulista.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261018T154910Z"
+    },
     {
      "title": "Motorista é preso após atropelar idoso durante ato pró-Lula em Belo Horizonte",
      "url": "https://oglobo.globo.com/brasil/noticia/2026/10/18/motorista-e-preso-apos-atropelar-idoso-durante-ato-pro-lula-em-belo-horizonte.ghtml",
@@ -2714,18 +2732,6 @@
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/18/horario-do-debate-da-band-veja-como-assistir-debate-entre-lula-e-flavio-ao-vivo.ghtml",
      "domain": "O Globo",
      "seendate": "20261018T102559Z"
-    },
-    {
-     "title": "Jogo Político: 'Evangélico continua tratado como charlatão ou coitadinho pela esquerda intelectual', diz antropólogo",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/18/jogo-politico-evangelico-continua-tratado-como-charlatao-ou-coitadinho-pela-esquerda-intelectual-diz-antropologo.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261018T063000Z"
-    },
-    {
-     "title": "Aval popular guia propostas para reduzir maioridade penal",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/18/aval-popular-guia-propostas-para-reduzir-maioridade-penal.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261018T063000Z"
     }
    ]
   }
