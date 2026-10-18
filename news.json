@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T19:26:52+00:00",
+ "updated": "2026-10-18T19:55:20+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -103,6 +103,24 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Anticorrupción da golpe a factureras; va contra siete proveedores de certificación de operaciones simuladas",
+     "url": "https://www.eluniversal.com.mx/nacion/anticorrupcion-da-golpe-a-factureras-va-contra-siete-proveedores-de-certificacion-de-operaciones-simuladas/",
+     "domain": "El Universal",
+     "seendate": "20261018T194103Z"
+    },
+    {
+     "title": "Detienen a dos personas por presunto fraude con créditos de tiendas departamentales; operaban en seis entidades",
+     "url": "https://www.eluniversal.com.mx/metropoli/detienen-a-dos-personas-por-presunto-fraude-con-creditos-de-tiendas-departamentales-operaban-en-seis-entidades/",
+     "domain": "El Universal",
+     "seendate": "20261018T193814Z"
+    },
+    {
+     "title": "Suspenden tres fiestas clandestinas en Coyoacán; alcaldía detecta presencia de menores de edad",
+     "url": "https://www.eluniversal.com.mx/metropoli/desalojan-a-jovenes-de-tres-fiestas-clandestinas-en-coyoacan-detectan-presencia-de-menores-y-falta-de-permisos/",
+     "domain": "El Universal",
+     "seendate": "20261018T191709Z"
+    },
     {
      "title": "Vinculan a proceso a Hugo Gabriel “N”; es acusado de participar en extorsión agravada",
      "url": "https://www.eluniversal.com.mx/metropoli/vinculan-a-proceso-a-hugo-gabriel-n-es-acusado-de-participar-en-extorsion-agravada/",
@@ -706,6 +724,18 @@
   "CRI": {
    "articles": [
     {
+     "title": "Mujer y niña de 9 años habrían sido asesinadas mientras dormían en Liberia, según OIJ",
+     "url": "https://www.nacion.com/sucesos/mujer-y-nina-de-9-anos-habrian-sido-asesinadas/FNFC2AJSZRG4ND3W4FHMPGQZZA/story/",
+     "domain": "La Nación",
+     "seendate": "20261018T194023Z"
+    },
+    {
+     "title": "Cortes de luz en Cartago: Jasec suspenderá el servicio este martes 20 de octubre",
+     "url": "https://www.nacion.com/el-pais/cortes-de-luz-en-cartago-jasec-suspendera-el/B4RANDKCVZG4ZGR2WVOEN57QWQ/story/",
+     "domain": "La Nación",
+     "seendate": "20261018T192300Z"
+    },
+    {
      "title": "UCR estrenará tres carreras STEM que prometen ‘una gran oferta laboral’: empezarán en 2027",
      "url": "https://www.nacion.com/el-pais/ucr-estrenara-tres-carreras-stem-que-prometen-una/WDQIIUCSOZHWHF566TD527H4B4/story/",
      "domain": "La Nación",
@@ -806,12 +836,6 @@
      "url": "https://www.nacion.com/sucesos/jueza-suspendida-por-investigacion-en-asosejud/YUIZ7C4SIFCR3IXTS6SYRF3INY/story/",
      "domain": "La Nación",
      "seendate": "20261017T204321Z"
-    },
-    {
-     "title": "Asesinan a hombre a balazos dentro de un automóvil en San Miguel de Desamparados",
-     "url": "https://www.nacion.com/sucesos/asesinan-a-hombre-a-balazos-dentro-de-un-automovil/U7KBUKMBKRCEXHEXAQ53XG4OGE/story/",
-     "domain": "La Nación",
-     "seendate": "20261017T204019Z"
     }
    ]
   },
@@ -1158,9 +1182,93 @@
    "articles": [
     {
      "title": "Inicio | Periódico CiudadCCS",
-     "url": "https://www.ciudadccs.info/publicacion/52113-voto-vecinal-protagoniza-consulta-popular-para-eleccion-de-proyectos",
+     "url": "http://ciudadccs.info/publicacion/52104-perez-rossi-acompano-su-tributo-en-el-eje-del-buen-vivir",
      "domain": "ciudadccs.info",
-     "seendate": "20261018T183000Z"
+     "seendate": "20261018T191500Z"
+    },
+    {
+     "title": "DAKA entra en la recta final de sus 100 Horas con ofertas de hasta 50 % de descuento y pago a cuotas",
+     "url": "https://www.descifrado.com/2026/10/18/daka-entra-en-la-recta-final-de-sus-100-horas-con-ofertas-de-hasta-50-de-descuento-y-pago-a-cuotas/",
+     "domain": "descifrado.com",
+     "seendate": "20261018T191500Z"
+    },
+    {
+     "title": "Cámara de Panaderos de La Guaira reporta 88 establecimientos afectados por el doble sismo",
+     "url": "https://www.descifrado.com/2026/10/18/camara-de-panaderos-de-la-guaira-reporta-88-establecimientos-afectados-por-el-doble-sismo/",
+     "domain": "descifrado.com",
+     "seendate": "20261018T191500Z"
+    },
+    {
+     "title": "El sector petrolero generará 324 . 000 empleos en una década , según Delcy Rodríguez",
+     "url": "https://www.descifrado.com/2026/10/18/el-sector-petrolero-generara-324-000-empleos-en-una-decada-segun-delcy-rodriguez/",
+     "domain": "descifrado.com",
+     "seendate": "20261018T191500Z"
+    },
+    {
+     "title": "Parranderitos de La Pastora celebraron el legado del cantautor venezolano Iván Pérez Rossi",
+     "url": "https://avn.info.ve/parranderitos-de-la-pastora-celebraron-el-legado-del-cantautor-venezolano-ivan-perez-rossi/",
+     "domain": "avn.info.ve",
+     "seendate": "20261018T190000Z"
+    },
+    {
+     "title": "Fiscal Larry Devoe lideró debate sobre la Reforma de la Justicia Penal en Nueva Esparta",
+     "url": "https://avn.info.ve/fiscal-larry-devoe-lidero-debate-sobre-la-reforma-de-la-justicia-penal-en-nueva-esparta/",
+     "domain": "avn.info.ve",
+     "seendate": "20261018T190000Z"
+    },
+    {
+     "title": "San Simón de Maturín registra alta movilización para participar en la Consulta Popular Nacional",
+     "url": "https://avn.info.ve/san-simon-de-maturin-registra-alta-movilizacion-para-participar-en-la-consulta-popular-nacional/",
+     "domain": "avn.info.ve",
+     "seendate": "20261018T190000Z"
+    },
+    {
+     "title": "Fallece la ciclista venezolana Nelsy Gálvez tras sufrir grave accidente en velódromo de Tinaquillo",
+     "url": "https://confirmado.com.ve/fallece-la-ciclista-venezolana-nelsy-galvez-tras-sufrir-grave-accidente-en-velodromo-de-tinaquillo/",
+     "domain": "confirmado.com.ve",
+     "seendate": "20261018T190000Z"
+    },
+    {
+     "title": "Avanza la rehabilitación de la pista 10L - 28R del Aeropuerto de Maiquetía tras daños por sismos",
+     "url": "https://confirmado.com.ve/avanza-la-rehabilitacion-de-la-pista-10l-28r-del-aeropuerto-de-maiquetia-tras-danos-por-sismos/",
+     "domain": "confirmado.com.ve",
+     "seendate": "20261018T190000Z"
+    },
+    {
+     "title": "Oposición venezolana y Colegio de Abogados debaten reformas al sistema de justicia en el marco del diálogo nacional",
+     "url": "https://confirmado.com.ve/oposicion-venezolana-y-colegio-de-abogados-debaten-reformas-al-sistema-de-justicia-en-el-marco-del-dialogo-nacional/",
+     "domain": "confirmado.com.ve",
+     "seendate": "20261018T190000Z"
+    },
+    {
+     "title": "Gran Alianza Ciudadana propone elecciones legislativas como ruta de institucionalización – Correo del Caroní",
+     "url": "https://correodelcaroni.com/pais-politico/gran-alianza-ciudadana-propone-elecciones-legislativas-como-ruta-de-institucionalizacion/",
+     "domain": "correodelcaroni.com",
+     "seendate": "20261018T190000Z"
+    },
+    {
+     "title": "Protestas en Francia dejan 1 . 800 detenidos y 500 agentes heridos - Agencia Venezolana de Noticias",
+     "url": "https://avn.info.ve/protestas-en-francia-dejan-1-800-detenidos-y-500-agentes-heridos/",
+     "domain": "avn.info.ve",
+     "seendate": "20261018T190000Z"
+    },
+    {
+     "title": "Resaltan desempeño activo de la juventud en la Consulta Popular Nacional 2026",
+     "url": "https://avn.info.ve/resaltan-desempeno-activo-de-la-juventud-en-la-consulta-popular-nacional-2026/",
+     "domain": "avn.info.ve",
+     "seendate": "20261018T190000Z"
+    },
+    {
+     "title": "Teletón Unidos por Venezuela recaudó más de US$2 . 350 . 000 para afectados por doble terremoto",
+     "url": "https://confirmado.com.ve/teleton-unidos-por-venezuela-recaudo-mas-de-us2-350-000-para-afectados-por-doble-terremoto/",
+     "domain": "confirmado.com.ve",
+     "seendate": "20261018T190000Z"
+    },
+    {
+     "title": "Destacan alta participación de la clase media en Consulta Popular Nacional - Agencia Venezolana de Noticias",
+     "url": "https://avn.info.ve/destacan-alta-participacion-de-la-clase-media-en-consulta-popular-nacional/",
+     "domain": "avn.info.ve",
+     "seendate": "20261018T190000Z"
     },
     {
      "title": "Destacan masiva participación en Segunda Consulta Popular Nacional 2026 en el Táchira",
@@ -1233,173 +1341,23 @@
      "url": "https://rnv.gob.ve/cardenales-caribes-tigres-bravos-victoria-en-la-lvbp/",
      "domain": "rnv.gob.ve",
      "seendate": "20261018T161500Z"
-    },
-    {
-     "title": "El carnaval de El Callao más allá de la fiesta – Correo del Caroní",
-     "url": "https://correodelcaroni.com/sociedad/cultura/el-carnaval-de-el-callao-mas-alla-de-la-fiesta/",
-     "domain": "correodelcaroni.com",
-     "seendate": "20261018T161500Z"
-    },
-    {
-     "title": "Ángel Prado sobre la Segunda Consulta Popular :",
-     "url": "https://www.globovision.com/sociedad/63297/angel-prado-sobre-la-segunda-consulta-popular-es-un-mensaje-al-mundo-de-que-venezuela-en-unidad-la",
-     "domain": "globovision.com",
-     "seendate": "20261018T154500Z"
-    },
-    {
-     "title": "Venezolana que entregaba un paquete de Amazon fue baleada por el dueño de una vivienda en Texas",
-     "url": "https://www.aporrea.org/ddhh/n424880.html",
-     "domain": "aporrea.org",
-     "seendate": "20261018T154500Z"
-    },
-    {
-     "title": "Hallan sin vida al músico venezolano Gus Ormo en una piscina de Florida : investigan muerte sospechosa",
-     "url": "https://www.aporrea.org/ddhh/n424879.html",
-     "domain": "aporrea.org",
-     "seendate": "20261018T154500Z"
-    },
-    {
-     "title": "Reforma de la Ley contra el Odio propone multas de hasta 10 . 000 veces el tipo de cambio",
-     "url": "https://www.el-carabobeno.com/reforma-ley-contra-el-odio-venezuela-multas-medios-redes/",
-     "domain": "el-carabobeno.com",
-     "seendate": "20261018T154500Z"
-    },
-    {
-     "title": "A participar activamente : Diosdado Cabello llama al Pueblo a movilizarse este domingo en la Consulta Popular Nacional",
-     "url": "https://www.globovision.com/politica/63289/a-participar-activamente-diosdado-cabello-llama-al-pueblo-a-movilizarse-este-domingo-en-la-consulta",
-     "domain": "globovision.com",
-     "seendate": "20261018T154500Z"
-    },
-    {
-     "title": "Rodríguez proyecta inversiones petroleras de casi $76 . 000 millones",
-     "url": "https://www.el-carabobeno.com/delcy-rodriguez-proyecta-inversiones-petroleras-por-casi-76-000-millones-de-dolares-en-cinco-anos/",
-     "domain": "el-carabobeno.com",
-     "seendate": "20261018T154500Z"
-    },
-    {
-     "title": "PDVSA juega con la vida del jubilado y se apropia de su dinero ..",
-     "url": "https://www.aporrea.org/trabajadores/a357611.html",
-     "domain": "aporrea.org",
-     "seendate": "20261018T154500Z"
-    },
-    {
-     "title": "Consulta popular en Venezuela enfrenta apatía ciudadana",
-     "url": "https://www.el-carabobeno.com/consulta-popular-venezuela-denuncias-presion-voto-recursos/",
-     "domain": "el-carabobeno.com",
-     "seendate": "20261018T154500Z"
-    },
-    {
-     "title": "Sucre y Nueva Esparta enrolados en la reforma",
-     "url": "https://ultimasnoticias.com.ve/mas-vida/sucre-y-nueva-esparta-enrolados-en-la-reforma/",
-     "domain": "ultimasnoticias.com.ve",
-     "seendate": "20261018T153000Z"
-    },
-    {
-     "title": "Comunas de Caracas salen a las calles a elegir los proyectos de sus comunidades",
-     "url": "https://ultimasnoticias.com.ve/mas-vida/comunas-de-caracas-salen-a-las-calles-a-elegir-a-los-proyectos-de-sus-comunidades/",
-     "domain": "ultimasnoticias.com.ve",
-     "seendate": "20261018T153000Z"
-    },
-    {
-     "title": "Maduro enaltece la consulta nacional como ejercicio de soberanía Popular",
-     "url": "https://ultimasnoticias.com.ve/actualidad/maduro-enaltece-la-consulta-nacional-como-ejercicio-de-soberania-popular/",
-     "domain": "ultimasnoticias.com.ve",
-     "seendate": "20261018T153000Z"
-    },
-    {
-     "title": "Prevención del cáncer de mama recorre los estados",
-     "url": "https://ultimasnoticias.com.ve/mas-vida/prevencion-del-cancer-de-mama-recorre-los-estados/",
-     "domain": "ultimasnoticias.com.ve",
-     "seendate": "20261018T153000Z"
-    },
-    {
-     "title": "Teletón recauda en Venezuela más de 2 . 300 . 000 de dólares para afectados del doble sismo",
-     "url": "https://elsiglo.com.ve/teleton-recauda-venezuela-mas-2300000-dolares-afectados-doble-sismo/",
-     "domain": "elsiglo.com.ve",
-     "seendate": "20261018T153000Z"
-    },
-    {
-     "title": "Teletón Unidos por Venezuela superó los 2 , 3 millones de dólares para ayudar a damnificados",
-     "url": "https://noticierodigital.com/2026/10/teleton-unidos-por-venezuela-supero-los-23-millones-de-dolares-para-ayudar-a-damnificados/",
-     "domain": "noticierodigital.com",
-     "seendate": "20261018T153000Z"
-    },
-    {
-     "title": "Ministerio de Comunas activa plataforma web para consultar proyectos y centros electorales",
-     "url": "https://www.globovision.com/sociedad/63286/ministerio-de-comunas-activa-plataforma-web-para-consultar-proyectos-y-centros-electorales",
-     "domain": "globovision.com",
-     "seendate": "20261018T153000Z"
-    },
-    {
-     "title": "PUD presenta 14 propuestas para impulsar un acuerdo nacional en Venezuela",
-     "url": "https://noticierodigital.com/2026/10/pud-presenta-14-propuestas-para-impulsar-un-acuerdo-nacional-en-venezuela/",
-     "domain": "noticierodigital.com",
-     "seendate": "20261018T153000Z"
-    },
-    {
-     "title": "Venezuela y Colombia evalúan medidas de seguridad para habilitar los puentes las 24 horas",
-     "url": "https://noticierodigital.com/2026/10/venezuela-y-colombia-evaluan-medidas-de-seguridad-para-habilitar-los-puentes-las-24-horas/",
-     "domain": "noticierodigital.com",
-     "seendate": "20261018T150000Z"
-    },
-    {
-     "title": "Gobierno y gremios empresariales instalan mesas de trabajo para impulsar la actividad pesquera",
-     "url": "https://www.descifrado.com/2026/10/18/gobierno-y-gremios-empresariales-instalan-mesas-de-trabajo-para-impulsar-la-actividad-pesquera/",
-     "domain": "descifrado.com",
-     "seendate": "20261018T143000Z"
-    },
-    {
-     "title": "Campaña Unidos por Venezuela supera su meta al recaudar más de $2 , 3 millones en el Teletón 2026",
-     "url": "https://www.descifrado.com/2026/10/18/campana-unidos-por-venezuela-supera-su-meta-al-recaudar-mas-de-23-millones-en-el-teleton-2026/",
-     "domain": "descifrado.com",
-     "seendate": "20261018T143000Z"
-    },
-    {
-     "title": "9° edición de Gracias de Corazón de McDonald recauda por la salud infantil , alimentos en refugios e inserción sociolaboral de jóvenes con discapacidad",
-     "url": "https://www.descifrado.com/2026/10/15/9-edicion-de-gracias-de-corazon-de-mcdonalds-recauda-por-la-salud-infantil-alimentos-en-refugios-e-insercion-sociolaboral-de-jovenes-con-discapacidad/",
-     "domain": "descifrado.com",
-     "seendate": "20261018T143000Z"
-    },
-    {
-     "title": "Comunas de Lara se movilizan desde temprano en la Segunda Consulta Popular Nacional",
-     "url": "https://rnv.gob.ve/comunas-de-lara-se-movilizan-desde-temprano-en-la-segunda-consulta-popular-nacional/",
-     "domain": "rnv.gob.ve",
-     "seendate": "20261018T143000Z"
-    },
-    {
-     "title": "Embajador de Venezuela en Colombia propone habilitar la frontera las 24 horas del día para impulsar el comercio",
-     "url": "https://www.descifrado.com/2026/10/18/embajador-de-venezuela-en-colombia-propone-habilitar-la-frontera-las-24-horas-del-dia-para-impulsar-el-comercio/",
-     "domain": "descifrado.com",
-     "seendate": "20261018T143000Z"
-    },
-    {
-     "title": "Venezuela vive jornada histórica de democracia participativa con la II Consulta Nacional Popular ( +Cómo votar ) - Yvke Mundial",
-     "url": "https://radiomundial.com.ve/venezuela-vive-jornada-historica-de-democracia-participativa-con-la-ii-consulta-nacional-popular-como-votar/",
-     "domain": "radiomundial.com.ve",
-     "seendate": "20261018T133000Z"
-    },
-    {
-     "title": "La Consulta Popular Nacional arranca este 18 de octubre - Yvke Mundial",
-     "url": "https://radiomundial.com.ve/la-consulta-popular-nacional-arranca-este-18-de-octubre/",
-     "domain": "radiomundial.com.ve",
-     "seendate": "20261018T133000Z"
-    },
-    {
-     "title": "Segunda Consulta Popular Nacional 2026 : Votación Comunitaria",
-     "url": "https://radiomundial.com.ve/lo-que-debes-saber-de-la-ii-consulta-nacional-popular-2026/",
-     "domain": "radiomundial.com.ve",
-     "seendate": "20261018T133000Z"
-    },
-    {
-     "title": "APURE | Pueblo de Muñoz elige más de 140 proyectos conunitarios ( +Fotos )",
-     "url": "http://www.psuv.org.ve/portada/apure-pueblo-munoz-elige-mas-140-proyectos-conunitarios-fotos/",
-     "domain": "psuv.org.ve",
-     "seendate": "20261018T130000Z"
     }
    ]
   },
   "ECU": {
    "articles": [
+    {
+     "title": "Nuevas obras viales e hidráulicas impulsarán el desarrollo económico y logístico de Tungurahua",
+     "url": "https://eluniverso.com/politica/ejecutivo/nuevas-obras-viales-e-hidraulicas-impulsaran-el-desarrollo-economico-y-logistico-de-tungurahua-nota/",
+     "domain": "El Universo",
+     "seendate": "20261018T193500Z"
+    },
+    {
+     "title": "Cinco procesados por presunto asesinato en Posorja recibieron prisión preventiva",
+     "url": "https://eluniverso.com/politica/seguridad/cinco-procesados-por-presunto-asesinato-en-posorja-recibieron-prision-preventiva-nota/",
+     "domain": "El Universo",
+     "seendate": "20261018T193239Z"
+    },
     {
      "title": "Secretaría de Gestión de Riesgo pide activar protocolos de preparación y respuesta en diez provincias ante el pronóstico de lluvias de este domingo, 18 de octubre",
      "url": "https://eluniverso.com/comunidad/ecuador/secretaria-de-gestion-de-riesgo-pide-activar-protocolos-de-preparacion-y-respuesta-en-diez-provincias-ante-el-pronostico-de-lluvias-de-este-domingo-18-de-octubre-nota/",
@@ -2155,6 +2113,12 @@
   "ARG": {
    "articles": [
     {
+     "title": "La población de una especie de pingüinos cayó a menos de la mitad y encendió alarmas entre científicos",
+     "url": "https://www.lanacion.com.ar/sociedad/la-poblacion-de-una-especie-de-pinguinos-cayo-a-menos-de-la-mitad-y-encendio-alarmas-entre-nid18102026/",
+     "domain": "La Nación",
+     "seendate": "20261018T193000Z"
+    },
+    {
      "title": "Valentín Yan: un duro relato que reinstala el foco en la violencia intrafamiliar y el desafío de escuchar a las víctimas",
      "url": "https://www.lanacion.com.ar/sociedad/valentin-yan-un-duro-relato-que-reinstala-el-foco-en-la-violencia-intrafamiliar-y-el-desafio-de-nid18102026/",
      "domain": "La Nación",
@@ -2267,18 +2231,6 @@
      "url": "https://www.lanacion.com.ar/politica/a-pesar-del-optimismo-de-diego-santilli-el-gobierno-no-logra-aun-los-votos-en-el-senado-para-nid18102026/",
      "domain": "La Nación",
      "seendate": "20261018T110527Z"
-    },
-    {
-     "title": "Con dudas, en Wall Street se preguntan por los dólares para pagar la deuda en el año electoral",
-     "url": "https://www.lanacion.com.ar/economia/con-dudas-en-wall-street-se-preguntan-por-los-dolares-para-pagar-la-deuda-en-el-ano-electoral-nid18102026/",
-     "domain": "La Nación",
-     "seendate": "20261018T105947Z"
-    },
-    {
-     "title": "Activaron la Alerta Sofía por la desaparición de una adolescente de 15 años en el puente Paysandú–Colón",
-     "url": "https://www.lanacion.com.ar/seguridad/activaron-la-alerta-sofia-por-la-desaparicion-de-una-adolescente-de-15-anos-en-el-puente-nid18102026/",
-     "domain": "La Nación",
-     "seendate": "20261018T105236Z"
     }
    ]
   },
@@ -2649,6 +2601,12 @@
   "PRY": {
    "articles": [
     {
+     "title": "Yhú: Ministerio de Defensa verifica refacciones de viviendas y entrega kits de alimentos",
+     "url": "https://www.abc.com.py/nacionales/2026/10/18/yhu-ministerio-de-defensa-verifica-refacciones-de-viviendas-y-entrega-kits-de-alimentos/",
+     "domain": "ABC Color",
+     "seendate": "20261018T192307Z"
+    },
+    {
      "title": "Lima entrega obras para fortalecer los servicios de salud y aguarda equipamiento y personal",
      "url": "https://www.abc.com.py/nacionales/2026/10/18/lima-entrega-obras-para-fortalecer-los-servicios-de-salud-y-aguarda-equipamiento-y-personal/",
      "domain": "ABC Color",
@@ -2677,12 +2635,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/18/tuparenda-obispo-llama-a-vivir-en-libertad-y-humildad-durante-misa/",
      "domain": "ABC Color",
      "seendate": "20261018T153716Z"
-    },
-    {
-     "title": "Título falso de Hernán Rivas: puntos claves de la apelación contra condena a 8 años de cárcel",
-     "url": "https://www.abc.com.py/nacionales/2026/10/18/titulo-falso-de-hernan-rivas-puntos-clave-de-la-apelacion-contra-condena-a-8-anos-de-carcel/",
-     "domain": "ABC Color",
-     "seendate": "20261018T134446Z"
     },
     {
      "title": "Multitudinaria concurrencia marcó la primera noche del Festival de la Raza en Villarrica",
