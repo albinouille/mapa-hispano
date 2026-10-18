@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T16:59:13+00:00",
+ "updated": "2026-10-18T17:25:21+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -46,18 +46,6 @@
      "seendate": "20261018T033001Z"
     },
     {
-     "title": "Un frente de izquierdas y otro de derechas se disputarán a cara de perro el control del Senado",
-     "url": "https://elpais.com/espana/2026-10-18/un-frente-de-izquierdas-y-otro-de-derechas-se-disputaran-a-cara-de-perro-el-control-del-senado.html",
-     "domain": "El País",
-     "seendate": "20261018T033001Z"
-    },
-    {
-     "title": "Los dos grandes creen que la campaña se va colocando donde querían",
-     "url": "https://elpais.com/espana/2026-10-18/los-dos-grandes-creen-que-la-campana-se-va-colocando-donde-querian.html",
-     "domain": "El País",
-     "seendate": "20261018T033001Z"
-    },
-    {
      "title": "La zancadilla de Rufián",
      "url": "https://elpais.com/espana/catalunya/2026-10-18/la-zancadilla-de-rufian.html",
      "domain": "El País",
@@ -72,12 +60,6 @@
     {
      "title": "Ayuso y Vox aparcan de golpe su guerra en Madrid",
      "url": "https://elpais.com/espana/madrid/2026-10-18/ayuso-y-vox-aparcan-de-golpe-su-guerra-en-madrid.html",
-     "domain": "El País",
-     "seendate": "20261018T033001Z"
-    },
-    {
-     "title": "La alta velocidad entre Barcelona y Madrid pierde frecuencias, fiabilidad y rapidez",
-     "url": "https://elpais.com/espana/catalunya/2026-10-18/la-alta-velocidad-entre-barcelona-y-madrid-pierde-frecuencias-fiabilidad-y-rapidez.html",
      "domain": "El País",
      "seendate": "20261018T033001Z"
     },
@@ -121,6 +103,24 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "VIDEO: Captan momento exacto en que tráiler embiste vehículos en Chiapas; accidente dejo dos muertos y 14 heridos",
+     "url": "https://www.eluniversal.com.mx/estados/video-captan-momento-exacto-en-que-trailer-embiste-vehiculos-en-chiapas-accidente-dejo-dos-muertos-y-14-heridos/",
+     "domain": "El Universal",
+     "seendate": "20261018T170600Z"
+    },
+    {
+     "title": "Embajada de EU recrudece amenazas contra caravanas migrantes; “ni lo intentes”, advierte",
+     "url": "https://www.eluniversal.com.mx/nacion/embajada-de-eu-recrudece-amenazas-contra-caravanas-migrantes-ni-lo-intentes-advierte/",
+     "domain": "El Universal",
+     "seendate": "20261018T165738Z"
+    },
+    {
+     "title": "Defensa de soberanía debe estar por encima de diferencias políticas: Higinio Martínez; pide apegarse a principios constitucionales",
+     "url": "https://www.eluniversal.com.mx/nacion/defensa-de-soberania-debe-estar-por-encima-de-diferencias-politicas-higinio-martinez-pide-apegarse-a-principios-constitucionales/",
+     "domain": "El Universal",
+     "seendate": "20261018T165449Z"
+    },
     {
      "title": "Elección de 2027, el gran reto electoral de Morena; Integralia advierte campañas anticipadas e intervención del narco en comicios",
      "url": "https://www.eluniversal.com.mx/nacion/eleccion-de-2027-el-gran-reto-electoral-de-morena-integralia-advierte-campanas-anticipadas-e-intervencion-del-narco-en-comicios/",
@@ -285,6 +285,12 @@
   },
   "HND": {
    "articles": [
+    {
+     "title": "Gobierno aprueba Política Nacional de Vivienda para atender el déficit habitacional",
+     "url": "https://abriendobrecha.tv/nacionales/gobierno-aprueba-politica-nacional-de-vivienda-para-atender-el-deficit-habitacional/",
+     "domain": "abriendobrecha.tv",
+     "seendate": "20261018T164500Z"
+    },
     {
      "title": "Mantienen alerta verde en el Distrito Central y el Lago de Yojoa por lluvias",
      "url": "https://www.elheraldo.hn/honduras/copeco-mantiene-alerta-verde-distrito-central-lago-yojoa-lluvias-EH32353601",
@@ -640,6 +646,18 @@
   "CRI": {
    "articles": [
     {
+     "title": "Asesinan a joven de 24 años dentro de carro en Llorente de Tibás",
+     "url": "https://www.nacion.com/sucesos/asesinan-a-joven-de-24-anos-dentro-de-carro-en/QNGYJRKJNNFUDCUTM2DH67BNH4/story/",
+     "domain": "La Nación",
+     "seendate": "20261018T170737Z"
+    },
+    {
+     "title": "Cinco personas mueren en accidentes de motocicletas durante la noche",
+     "url": "https://www.nacion.com/sucesos/cinco-personas-mueren-en-accidentes-de/UF2Y67QIKJHIFLAICGNXUMKKZU/story/",
+     "domain": "La Nación",
+     "seendate": "20261018T165419Z"
+    },
+    {
      "title": "Cortes de luz en San José y Heredia este martes 20 de octubre",
      "url": "https://www.nacion.com/el-pais/cortes-de-luz-en-san-jose-y-heredia-este-martes-20/GOYEJ5RNYFG75DYMK5INDCELYI/story/",
      "domain": "La Nación",
@@ -746,17 +764,17 @@
      "url": "https://www.nacion.com/sucesos/videos-muestran-a-sospechosa-de-asesinar-a/6SAYAMDPURD5FHQHYT4F6YEU5Y/story/",
      "domain": "La Nación",
      "seendate": "20261017T180026Z"
-    },
-    {
-     "title": "Una jueza penal figura entre los investigados por Asosejud. Fiscalía dice que se habría beneficiado de créditos ‘particularmente favorables’",
-     "url": "https://www.nacion.com/sucesos/una-jueza-penal-figura-entre-los-investigados-por/CM2DJKST7NET5B4753OY4O6H4Y/story/",
-     "domain": "La Nación",
-     "seendate": "20261017T175319Z"
     }
    ]
   },
   "PAN": {
    "articles": [
+    {
+     "title": "‘Este Gobierno no me ha apoyado en nada’: alcalde de Natá reclama fondos y señala a una ‘honorable’",
+     "url": "https://www.prensa.com/politica/este-gobierno-no-me-ha-apoyado-en-nada-alcalde-de-nata-reclama-fondos-y-senala-a-una-honorable/",
+     "domain": "La Prensa",
+     "seendate": "20261018T171227Z"
+    },
     {
      "title": "Lluvias: Extienden aviso de prevención en todo el país por vientos y tormentas eléctricas",
      "url": "https://www.prensa.com/sociedad/lluvias-extienden-aviso-de-prevencion-en-todo-el-pais-por-vientos-y-tormentas-electricas/",
@@ -1027,6 +1045,12 @@
   "COL": {
    "articles": [
     {
+     "title": "Lluvias en Atlántico causan emergencias en Soledad y Galapa: un taxi fue arrastrado y seis sectores reportaron inundaciones tras fuerte aguacero local",
+     "url": "https://www.eltiempo.com/colombia/barranquilla/lluvias-en-atlantico-causan-emergencias-en-soledad-y-galapa-un-taxi-fue-arrastrado-y-seis-sectores-reportaron-inundaciones-tras-fuerte-aguacero-local-3594429",
+     "domain": "El Tiempo",
+     "seendate": "20261018T171143Z"
+    },
+    {
      "title": "¿Quiénes son Girley Ordóñez Bowie, la gobernadora de San Andrés, y la congresista Elizabeth Jay-Pang Díaz, del careo del presidente De La Espriella?",
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/quienes-son-girley-ordonez-bowie-la-gobernadora-de-san-andres-y-la-congresista-elizabeth-jay-pang-diaz-del-careo-del-presidente-de-la-espriella-3594418",
      "domain": "El Tiempo",
@@ -1079,12 +1103,6 @@
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/la-moto-esta-entrando-casi-en-la-canasta-familiar-jose-stalin-rojas-entrevista-reina-3594369",
      "domain": "El Tiempo",
      "seendate": "20261018T044447Z"
-    },
-    {
-     "title": "Conseguir una vivienda en arriendo, un drama para miles de colombianos: precios altos y poca oferta",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/conseguir-una-vivienda-en-arriendo-un-drama-para-miles-de-colombianos-precios-altos-y-poca-oferta-3594336",
-     "domain": "El Tiempo",
-     "seendate": "20261018T040100Z"
     }
    ]
   },
@@ -2203,6 +2221,18 @@
   "ARG": {
    "articles": [
     {
+     "title": "En qué consiste las nuevas formas de medir el colesterol y cómo hay que interpretarlas",
+     "url": "https://www.lanacion.com.ar/sociedad/en-que-consiste-las-nuevas-formas-de-medir-el-colesterol-y-como-hay-que-interpretarlas-nid18102026/",
+     "domain": "La Nación",
+     "seendate": "20261018T170000Z"
+    },
+    {
+     "title": "Un cardiólogo explicó por qué cada vez hay más infartos agudos en personas jóvenes",
+     "url": "https://www.lanacion.com.ar/sociedad/un-cardiologo-explico-por-que-cada-vez-hay-mas-infartos-agudos-en-personas-jovenes-nid18102026/",
+     "domain": "La Nación",
+     "seendate": "20261018T170000Z"
+    },
+    {
      "title": "En medio de los disturbios en Francia, Milei recordó su discurso de 2024 en Davos",
      "url": "https://www.lanacion.com.ar/politica/en-medio-de-los-disturbios-en-francia-milei-recordo-su-discurso-de-2024-en-davos-nid18102026/",
      "domain": "La Nación",
@@ -2297,23 +2327,59 @@
      "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-hoy-a-cuanto-cotiza-este-domingo-18-de-octubre-nid18102026/",
      "domain": "La Nación",
      "seendate": "20261018T100100Z"
-    },
-    {
-     "title": "Se viene un festejo del Día de la Madre con pronóstico muy frío para octubre y chances de que vuelva el sol: las zonas afectadas",
-     "url": "https://www.lanacion.com.ar/sociedad/se-viene-un-festejo-del-dia-de-la-madre-con-pronostico-muy-frio-para-octubre-y-chances-de-que-vuelva-nid18102026/",
-     "domain": "La Nación",
-     "seendate": "20261018T080000Z"
-    },
-    {
-     "title": "Tony Robbins, experto en crecimiento personal: “La razón por la que sufrís: estás enfocado en vos”",
-     "url": "https://www.lanacion.com.ar/sociedad/tony-robbins-experto-en-crecimiento-personal-la-razon-por-la-que-sufris-estas-enfocado-en-vos-nid18102026/",
-     "domain": "La Nación",
-     "seendate": "20261018T080000Z"
     }
    ]
   },
   "URY": {
    "articles": [
+    {
+     "title": "Durazno inaugura el primer barrio cooperativo de vivienda sindical del país con 316 casas para 1 . 000 personas",
+     "url": "https://www.elpais.com.uy/informacion/sociedad/durazno-inaugura-el-primer-barrio-cooperativo-de-vivienda-sindical-del-pais-con-316-casas-para-1-000-personas",
+     "domain": "elpais.com.uy",
+     "seendate": "20261018T154500Z"
+    },
+    {
+     "title": "Última fecha , otra protesta y definición de las series",
+     "url": "https://www.diariocambio.com.uy/ultima-fecha-otra-protesta-y-definicion-de-las-series",
+     "domain": "diariocambio.com.uy",
+     "seendate": "20261018T154500Z"
+    },
+    {
+     "title": "Santiago Urrutia ganó en China y se acerca a la cima del TCR World Tour",
+     "url": "https://espectador.com/noticias/automovilismo/santiago-urrutia-gano-en-china-y-se-acerca-a-la-cima-del-tcr-world-tour",
+     "domain": "espectador.com",
+     "seendate": "20261018T143000Z"
+    },
+    {
+     "title": "Julio Sosa 100 : Las Piedras celebrará el legado del Varón del Tango con un gran concierto",
+     "url": "https://www.carasycaretas.com.uy/sociedad/julio-sosa-100-las-piedras-celebrara-el-legado-del-varon-del-tango-un-gran-concierto-n100262",
+     "domain": "carasycaretas.com.uy",
+     "seendate": "20261018T143000Z"
+    },
+    {
+     "title": "Agotadas tengo : Los Mareados combinan esencia murguera e invitados de primer nivel",
+     "url": "https://www.carasycaretas.com.uy/cultura-y-espectaculos/agotadas-tengo-los-mareados-combinan-esencia-murguera-e-invitados-primer-nivel-n100235",
+     "domain": "carasycaretas.com.uy",
+     "seendate": "20261018T143000Z"
+    },
+    {
+     "title": "Golazo de Brian Rodríguez para la victoria de América en la Liga MX",
+     "url": "https://espectador.com/noticias/futbolinternacional/golazo-de-brian-rodriguez-para-la-victoria-de-america-en-la-liga-mx",
+     "domain": "espectador.com",
+     "seendate": "20261018T143000Z"
+    },
+    {
+     "title": "León XIV recibió el alta médica y su viaje a Uruguay sigue en evaluación",
+     "url": "https://www.carasycaretas.com.uy/sociedad/leon-xiv-recibio-el-alta-medica-y-su-viaje-uruguay-sigue-evaluacion-n100259",
+     "domain": "carasycaretas.com.uy",
+     "seendate": "20261018T134500Z"
+    },
+    {
+     "title": "El récord en el que Joaquín Piquerez superó a Cafú e igualó a Roberto Carlos con la camiseta de Palmeiras",
+     "url": "https://www.elpais.com.uy/ovacion/futbol/el-record-en-el-que-joaquin-piquerez-supero-a-cafu-e-igualo-a-roberto-carlos-con-la-camiseta-de-palmeiras",
+     "domain": "elpais.com.uy",
+     "seendate": "20261018T130000Z"
+    },
     {
      "title": "León XIV fue dado de alta , su cirujano dijo que puede viajar y en Uruguay continúan con los preparativos",
      "url": "https://www.elpais.com.uy/informacion/sociedad/leon-xiv-fue-dado-de-alta-su-cirujano-dijo-que-puede-viajar-y-en-uruguay-continuan-con-los-preparativos",
@@ -2625,59 +2691,23 @@
      "url": "https://www.eltelegrafo.com/2026/10/caminera-local-incauto-casi-100-000-cigarrillos-en-ruta-3-y-ya-habia-decomisado-otros-70-000/",
      "domain": "eltelegrafo.com",
      "seendate": "20261017T053000Z"
-    },
-    {
-     "title": "Por visita del papa León XIV , reforzarán controles fronterizos y restringirán circulación de camiones – Diario El Telégrafo",
-     "url": "https://www.eltelegrafo.com/2026/10/por-visita-del-papa-leon-xiv-reforzaran-controles-fronterizos-y-restringiran-circulacion-de-camiones/",
-     "domain": "eltelegrafo.com",
-     "seendate": "20261017T053000Z"
-    },
-    {
-     "title": "¿ Cómo es Lo dejamos acá , la película de Netflix que reúne a Ricardo Darín y Diego Peretti ?",
-     "url": "https://www.elpais.com.uy/tvshow/cine/como-es-lo-dejamos-aca-la-pelicula-de-netflix-que-reune-a-ricardo-darin-y-diego-peretti",
-     "domain": "elpais.com.uy",
-     "seendate": "20261017T053000Z"
-    },
-    {
-     "title": "El PGC Trébol visita a Ceibos en la capital",
-     "url": "https://www.eltelegrafo.com/2026/10/el-pgc-trebol-visita-a-ceibos-en-la-capital/",
-     "domain": "eltelegrafo.com",
-     "seendate": "20261017T053000Z"
-    },
-    {
-     "title": "Secretario de Estado del Vaticano dijo que visita del papa dependerá de su evolución médica y de las recomendaciones",
-     "url": "https://www.subrayado.com.uy/secretario-estado-del-vaticano-dijo-que-visita-del-papa-dependera-su-evolucion-medica-y-las-recomendaciones-n1021041",
-     "domain": "subrayado.com.uy",
-     "seendate": "20261017T050000Z"
-    },
-    {
-     "title": "Desaparecidos : familiares reclaman una decisión política para conocer la verdad",
-     "url": "https://www.carasycaretas.com.uy/derecho-humanos/desaparecidos-familiares-reclaman-una-decision-politica-conocer-la-verdad-n100240",
-     "domain": "carasycaretas.com.uy",
-     "seendate": "20261017T043000Z"
-    },
-    {
-     "title": "Ministerio de Ganadería declara alerta institucional por El Niño : fijan planes de acción y contingencia",
-     "url": "https://www.elpais.com.uy/informacion/politica/ministerio-de-ganaderia-declara-alerta-institucional-por-el-nino-fijan-planes-de-accion-y-contingencia",
-     "domain": "elpais.com.uy",
-     "seendate": "20261017T001500Z"
-    },
-    {
-     "title": "El Paraíso hizo una gran venta en conjunto con Agromeluy y Manga Vieja : fueron 62 toros en total con US$ 5 . 955 de media",
-     "url": "https://rurales.elpais.com.uy/zafra-de-toros/el-paraiso-hizo-una-gran-venta-en-conjunto-con-agromeluy-y-manga-vieja-fueron-62-toros-en-total-con-us-5-955-de-media",
-     "domain": "rurales.elpais.com.uy",
-     "seendate": "20261017T000000Z"
-    },
-    {
-     "title": "Retiro anticipado a los 60 años : qué dice el proyecto de ley que el Poder Ejecutivo envió al Parlamento",
-     "url": "https://www.elpais.com.uy/informacion/politica/retiro-anticipado-a-los-60-anos-que-dice-el-proyecto-de-ley-que-el-poder-ejecutivo-envio-al-parlamento",
-     "domain": "elpais.com.uy",
-     "seendate": "20261017T000000Z"
     }
    ]
   },
   "PRY": {
    "articles": [
+    {
+     "title": "Peña prometió acelerar el asfaltado Caacupé-Piribebuy, pero ya retiraron las maquinarias",
+     "url": "https://www.abc.com.py/nacionales/2026/10/18/pena-prometio-acelerar-el-asfaltado-caacupe-piribebuy-pero-ya-retiraron-las-maquinarias/",
+     "domain": "ABC Color",
+     "seendate": "20261018T171633Z"
+    },
+    {
+     "title": "“No se puede rezar a San Miguel y justificar la corrupción”, advierte la Iglesia al despedir la espada del Arcángel",
+     "url": "https://www.abc.com.py/nacionales/2026/10/18/no-se-puede-rezar-a-san-miguel-y-justificar-la-corrupcion-advierte-la-iglesia-al-despedir-la-espada-del-arcangel/",
+     "domain": "ABC Color",
+     "seendate": "20261018T170858Z"
+    },
     {
      "title": "Tupãrenda: obispo llama a vivir en libertad y humildad durante misa por el trabajo",
      "url": "https://www.abc.com.py/nacionales/2026/10/18/tuparenda-obispo-llama-a-vivir-en-libertad-y-humildad-durante-misa/",
@@ -2697,18 +2727,6 @@
      "seendate": "20261018T134446Z"
     },
     {
-     "title": "Día mundial de la menopausia: cuáles son los cuidados recomendados por Salud",
-     "url": "https://www.abc.com.py/nacionales/2026/10/18/dia-mundial-de-la-menopausia-cuales-son-los-cuidados-recomendados-por-salud/",
-     "domain": "ABC Color",
-     "seendate": "20261018T132427Z"
-    },
-    {
-     "title": "San Juan Bautista tendrá el primer centro de atención a la primera infancia de Misiones",
-     "url": "https://www.abc.com.py/nacionales/2026/10/18/san-juan-bautista-tendra-el-primer-centro-de-atencion-a-la-primera-infancia-de-misiones/",
-     "domain": "ABC Color",
-     "seendate": "20261018T132323Z"
-    },
-    {
      "title": "Multitudinaria concurrencia marcó la primera noche del Festival de la Raza en Villarrica",
      "url": "https://www.abc.com.py/nacionales/2026/10/18/multitudinaria-concurrencia-marco-la-primera-noche-del-festival-de-la-raza-en-villarrica/",
      "domain": "ABC Color",
@@ -2721,6 +2739,18 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "Flávio na Paulista: 'Vocês verão Jair Messias Bolsonaro colocando a faixa de presidente da República no filho dele'",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/18/voces-verao-jair-messias-bolsonaro-colocando-a-faixa-de-presidente-da-republica-no-filho-dele-fiz-flavio-em-ato-na-paulista.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261018T163124Z"
+    },
+    {
+     "title": "Flávio Bolsonaro vai levar a debate relação de lobista com Lulinha, e Lula argumenta que não há contratos dela com o governo",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/18/flavio-bolsonaro-vai-levar-a-debate-relacao-de-lobista-com-lulinha-e-lula-argumenta-que-nao-ha-contratos-dela-com-o-governo.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261018T162141Z"
+    },
     {
      "title": "Eleições 2026: apenas um local de votação mudou de endereço no RJ para o segundo turno",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/18/eleicoes-2026-apenas-um-local-de-votacao-mudou-de-endereco-no-rj-para-o-segundo-turno.ghtml",
