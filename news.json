@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T22:56:32+00:00",
+ "updated": "2026-10-18T23:21:49+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -324,24 +324,6 @@
      "url": "https://www.eluniversal.com.mx/metropoli/como-estara-este-domingo-la-temperatura-en-la-cdmx-se-mantiene-alerta-amarilla/",
      "domain": "El Universal",
      "seendate": "20261018T155225Z"
-    },
-    {
-     "title": "Estas son las marchas y concentraciones previstas para este 18 de octubre; prevé afectaciones viales",
-     "url": "https://www.eluniversal.com.mx/metropoli/estas-son-las-marchas-y-concentraciones-previstas-para-este-18-de-octubre-preve-afectaciones-viales/",
-     "domain": "El Universal",
-     "seendate": "20261018T144222Z"
-    },
-    {
-     "title": "Asesinan a mujer en Escuinapa; niño de 11 años sufre quemaduras graves por pirotecnia en Ahome",
-     "url": "https://www.eluniversal.com.mx/estados/asesinan-a-mujer-en-escuinapa-nino-de-11-anos-sufre-quemaduras-graves-por-pirotecnia-en-ahome/",
-     "domain": "El Universal",
-     "seendate": "20261018T143033Z"
-    },
-    {
-     "title": "Trudy continúa como huracán categoría 2; provocará lluvias intensas en Jalisco, Colima y Nayarit",
-     "url": "https://www.eluniversal.com.mx/estados/trudy-continua-como-huracan-categoria-2-provocara-lluvias-intensas-en-jalisco-colima-y-nayarit/",
-     "domain": "El Universal",
-     "seendate": "20261018T141416Z"
     },
     {
      "title": "Partidos burlan ley electoral y anticipan campañas en CDMX; figura de “coordinadores”, sin regulación",
@@ -784,6 +766,24 @@
   "CRI": {
    "articles": [
     {
+     "title": "Las lluvias continuarán este lunes en Costa Rica: IMN pronostica aguaceros y tormentas",
+     "url": "https://www.nacion.com/sucesos/las-lluvias-continuaran-este-lunes-en-costa-rica/SNG7ESDLVBEWJJHIYZFAHTDJMY/story/",
+     "domain": "La Nación",
+     "seendate": "20261018T231442Z"
+    },
+    {
+     "title": "MOPT pagará $22 millones a CHEC por reclamos asociados a atrasos en la ampliación de la ruta 32",
+     "url": "https://www.nacion.com/el-pais/mopt-pagara-22-millones-a-chec-por-reclamos/GOKKNQKZFFGGROCZL7OJUJQLZQ/story/",
+     "domain": "La Nación",
+     "seendate": "20261018T231113Z"
+    },
+    {
+     "title": "Fuertes lluvias provocan 37 incidentes en Heredia y San José: estos son los cantones más afectados",
+     "url": "https://www.nacion.com/sucesos/fuertes-lluvias-provocan-37-incidentes-en-heredia/MVLBIO66LREFZHKNLMQRELHWCE/story/",
+     "domain": "La Nación",
+     "seendate": "20261018T230358Z"
+    },
+    {
      "title": "Fuertes lluvias causan inundaciones en Heredia y San José: se reportan personas atrapadas y emergencias en varios sectores",
      "url": "https://www.nacion.com/sucesos/fuertes-lluvias-causan-inundaciones-en-heredia-y/UAO2ZATLPFFX3IWOJEU25GB3C4/story/",
      "domain": "La Nación",
@@ -908,23 +908,17 @@
      "url": "https://www.nacion.com/el-pais/una-propone-modelo-educativo-que-va-mas-alla-de/POZPTOQVTZDSNJ5NUU5ZQLULOU/story/",
      "domain": "La Nación",
      "seendate": "20261018T003901Z"
-    },
-    {
-     "title": "Domingo con lluvias en Costa Rica: IMN prevé aguaceros durante la tarde",
-     "url": "https://www.nacion.com/sucesos/domingo-con-lluvias-en-costa-rica-imn-preve/CBZLP3NWXFBW5DQVKRZAAFJ5SM/story/",
-     "domain": "La Nación",
-     "seendate": "20261018T000759Z"
-    },
-    {
-     "title": "Reglamento para escuelas y colegios privados aún no se conoce pese a que MEP dijo que estaría listo hace 10 meses",
-     "url": "https://www.nacion.com/el-pais/reglamento-para-escuelas-y-colegios-privados-aun/CQDA73T5YFDPBNC23UPVQBF5YA/story/",
-     "domain": "La Nación",
-     "seendate": "20261018T000252Z"
     }
    ]
   },
   "PAN": {
    "articles": [
+    {
+     "title": "Las clases en las escuelas oficiales se reanudarán progresivamente a partir del miércoles",
+     "url": "https://www.prensa.com/politica/las-clases-en-las-escuelas-oficiales-se-reanudaran-progresivamente-a-partir-del-miercoles/",
+     "domain": "La Prensa",
+     "seendate": "20261018T230913Z"
+    },
     {
      "title": "‘Este Gobierno no me ha apoyado en nada’: alcalde de Natá reclama fondos y señala a una ‘honorable’",
      "url": "https://www.prensa.com/politica/este-gobierno-no-me-ha-apoyado-en-nada-alcalde-de-nata-reclama-fondos-y-senala-a-una-honorable/",
@@ -1068,12 +1062,6 @@
      "url": "https://www.prensa.com/politica/cuando-el-paraiso-temblo-torio-y-quebro-afrontan-el-reto-de-reconstruir-sus-vidas-y-el-turismo/",
      "domain": "La Prensa",
      "seendate": "20261015T050800Z"
-    },
-    {
-     "title": "¿Hasta cuándo seguirán las réplicas en Panamá?",
-     "url": "https://www.prensa.com/sociedad/por-que-sigue-temblando-en-panama-experto-explica-cuanto-pueden-durar-las-replicas-del-terremoto/",
-     "domain": "La Prensa",
-     "seendate": "20261015T050100Z"
     }
    ]
   },
@@ -1419,6 +1407,18 @@
   "ECU": {
    "articles": [
     {
+     "title": "Con honores y capilla ardiente despidieron a policía que murió en atentado contra una UPC en Quinindé",
+     "url": "https://eluniverso.com/comunidad/ecuador/con-honores-y-capilla-ardiente-despidieron-a-policia-que-murio-en-atendado-contra-una-upc-en-quininde-nota/",
+     "domain": "El Universo",
+     "seendate": "20261018T230000Z"
+    },
+    {
+     "title": "Retienen 605 galones de combustible y una embarcación sin matrícula en Limones, Esmeraldas",
+     "url": "https://eluniverso.com/politica/seguridad/retienen-605-galones-de-combustible-y-una-embarcacion-sin-matricula-en-esmeraldas-nota/",
+     "domain": "El Universo",
+     "seendate": "20261018T225800Z"
+    },
+    {
      "title": "Ministro John Reimberg advierte que el Estado no cederá ante posibles huelgas de hambre en la cárcel del Encuentro",
      "url": "https://eluniverso.com/politica/seguridad/ministro-john-reimberg-advierte-que-el-estado-no-cedera-ante-posibles-huelgas-de-hambre-en-la-carcel-del-encuentro-nota/",
      "domain": "El Universo",
@@ -1513,10 +1513,10 @@
   "PER": {
    "articles": [
     {
-     "title": "Temblor en Perú hoy, domingo 18 de octubre: lugar exacto y magnitud del sismo",
+     "title": "IGP temblor en Perú hoy, domingo 18 de octubre: lugar exacto y magnitud del sismo",
      "url": "https://elcomercio.pe/peru/ultimo-temblor-en-peru-hoy-epicentro-del-sismo-y-magnitud-ultima-hora-censis-tdpe-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261018T194800Z"
+     "seendate": "20261018T230645Z"
     }
    ]
   },
@@ -2173,6 +2173,18 @@
   "ARG": {
    "articles": [
     {
+     "title": "Los expertos en sueño coinciden: si no dormís a oscuras, tu cerebro empieza a pensar que es de día",
+     "url": "https://www.lanacion.com.ar/sociedad/los-expertos-en-sueno-coinciden-si-no-dormis-a-oscuras-tu-cerebro-empieza-a-pensar-que-es-de-dia-nid18102026/",
+     "domain": "La Nación",
+     "seendate": "20261018T230000Z"
+    },
+    {
+     "title": "Abuso sexual: la Justicia volverá a revisar el sobreseimiento de un exfiscal federal de San Martín",
+     "url": "https://www.lanacion.com.ar/seguridad/abuso-sexual-la-justicia-volvera-a-revisar-el-sobreseimiento-de-un-exfiscal-federal-de-san-martin-nid18102026/",
+     "domain": "La Nación",
+     "seendate": "20261018T225328Z"
+    },
+    {
      "title": "Ante la mejoría de Mirtha Legrand, Martín Llaryora propuso celebrar sus 100 años en el estadio Kempes",
      "url": "https://www.lanacion.com.ar/politica/ante-la-mejoria-de-mirtha-legrand-martin-llaryora-propuso-celebrar-sus-100-anos-en-el-estadio-kempes-nid18102026/",
      "domain": "La Nación",
@@ -2233,7 +2245,7 @@
      "seendate": "20261018T203108Z"
     },
     {
-     "title": "Clínicas privadas anunciaron que suspenderán la atención a afiliados al PAMI y en la obra social dicen que dialogan para evitarlo",
+     "title": "Clínicas privadas anunciaron que suspenderán la atención al PAMI y la obra social dice dialogar para evitarlo",
      "url": "https://www.lanacion.com.ar/economia/clinicas-privadas-suspenden-la-atencion-a-afiliados-al-pami-que-le-reclaman-a-la-obra-social-y-al-nid18102026/",
      "domain": "La Nación",
      "seendate": "20261018T202915Z"
@@ -2695,12 +2707,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/18/asesinato-de-guillermo-moral-fiscalia-pide-sobreseimiento-del-presunto-financista/",
      "domain": "ABC Color",
      "seendate": "20261018T174458Z"
-    },
-    {
-     "title": "“No se puede rezar a San Miguel y justificar la corrupción”, advierte la Iglesia al despedir la espada del arcángel",
-     "url": "https://www.abc.com.py/nacionales/2026/10/18/no-se-puede-rezar-a-san-miguel-y-justificar-la-corrupcion-advierte-la-iglesia-al-despedir-la-espada-del-arcangel/",
-     "domain": "ABC Color",
-     "seendate": "20261018T170858Z"
     }
    ]
   },
@@ -2710,10 +2716,28 @@
   "BRA": {
    "articles": [
     {
-     "title": "Debate presidencial na Band: colunistas do GLOBO comentam o duelo entre Lula e Flávio Bolsonaro",
+     "title": "Debate presidencial na Band: por que está atrasado o confronto entre Lula e Flávio Bolsonaro?",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/18/debate-da-band-entre-flavio-bolsonaro-e-lula-saiba-por-que-encontro-atrasou.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261018T230354Z"
+    },
+    {
+     "title": "Como assistir ao debate da Band entre Flávio Bolsonaro e Lula",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/18/como-assistir-ao-debate-da-band-entre-flavio-e-lula.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261018T225742Z"
+    },
+    {
+     "title": "Flávio Bolsonaro é investigado pela PF por suspeita de lavagem de dinheiro com advogado Willer Tomaz",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/18/flavio-bolsonaro-e-investigado-pela-pf-por-suspeita-de-lavagem-de-dinheiro-com-advogado-willer-tomaz.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261018T223038Z"
+    },
+    {
+     "title": "Debate presidencial na Band: colunistas do GLOBO comentam primeiro encontro entre Lula e Flávio Bolsonaro",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/ao-vivo/debate-presidencial-na-band-colunistas-do-globo-comentam-o-duelo-entre-lula-e-flavio-bolsonaro.ghtml",
      "domain": "O Globo",
-     "seendate": "20261018T213054Z"
+     "seendate": "20261018T221342Z"
     },
     {
      "title": "Que horas é o debate da Band? Veja horário, regras e como assistir ao primeiro confronto entre Lula e Flávio Bolsonaro",
