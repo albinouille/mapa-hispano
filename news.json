@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T03:01:30+00:00",
+ "updated": "2026-10-18T03:31:37+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -121,6 +121,18 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "La caída de César Jáuregui; cronología del proceso al exfiscal de Chihuahua",
+     "url": "https://www.eluniversal.com.mx/estados/la-caida-de-cesar-jauregui-cronologia-del-proceso-al-exfiscal-de-chihuahua/",
+     "domain": "El Universal",
+     "seendate": "20261018T030553Z"
+    },
+    {
+     "title": "Niño muere tras deslave en alcaldía Cuajimalpa; autoridades brindan apoyo a los afectados",
+     "url": "https://www.eluniversal.com.mx/metropoli/nino-muere-tras-deslave-en-alcaldia-cuajimalpa-autoridades-brindan-apoyo-a-los-afectados/",
+     "domain": "El Universal",
+     "seendate": "20261018T030406Z"
+    },
     {
      "title": "Carrera Panamericana en CDMX; miles de personas ovacionan a los pilotos que cruzaron la meta frente a Bellas Artes",
      "url": "https://www.eluniversal.com.mx/metropoli/carrera-panamericana-en-cdmx-miles-de-personas-ovacionan-a-los-pilotos-que-cruzaron-la-meta-frente-a-bellas-artes/",
@@ -778,6 +790,12 @@
   "CRI": {
    "articles": [
     {
+     "title": "Diputada Cindy Murillo borra publicación en alusión a decisión de vecinos de Arenal: ‘Tenían caviar y siguieron comiendo M’",
+     "url": "https://www.nacion.com/politica/diputada-cindy-murillo-borra-publicacion-en/2NDWACARXRGG5DVZCNY4IMAWPI/story/",
+     "domain": "La Nación",
+     "seendate": "20261018T030351Z"
+    },
+    {
      "title": "Mujer de 40 años y niña de 10 halladas sin vida en Liberia",
      "url": "https://www.nacion.com/el-pais/mujer-de-40-anos-y-nina-de-10-halladas-sin-vida-en/CHLIT54AWBFJDEEDKXSQXRHSDM/story/",
      "domain": "La Nación",
@@ -1046,12 +1064,6 @@
      "seendate": "20261016T013104Z"
     },
     {
-     "title": "Suspenden festividades patrias en Las Tablas y Montijo",
-     "url": "https://www.prensa.com/politica/suspenden-festividades-patrias-en-las-tablas-y-montijo/",
-     "domain": "La Prensa",
-     "seendate": "20261016T011056Z"
-    },
-    {
      "title": "Roxana Méndez deja la Autoridad de Descentralización",
      "url": "https://www.prensa.com/politica/roxana-mendez-deja-la-autoridad-de-descentralizacion/",
      "domain": "La Prensa",
@@ -1068,6 +1080,12 @@
      "url": "https://www.prensa.com/sociedad/alcaldia-de-panama-habilita-retiro-de-placas-este-fin-de-semana-conozca-los-horarios/",
      "domain": "La Prensa",
      "seendate": "20261015T170137Z"
+    },
+    {
+     "title": "Cuando el paraíso tembló: Torio y Quebro afrontan el reto de reconstruir sus vidas y el turismo",
+     "url": "https://www.prensa.com/politica/cuando-el-paraiso-temblo-torio-y-quebro-afrontan-el-reto-de-reconstruir-sus-vidas-y-el-turismo/",
+     "domain": "La Prensa",
+     "seendate": "20261015T050800Z"
     },
     {
      "title": "Terremoto en Panamá: quién controlará los fondos públicos y las donaciones privadas",
@@ -2401,6 +2419,48 @@
   "ARG": {
    "articles": [
     {
+     "title": "Por qué hay que bajar el ritmo de compra de reservas",
+     "url": "https://www.lanacion.com.ar/economia/por-que-hay-que-bajar-el-ritmo-de-compra-de-reservas-nid18102026/",
+     "domain": "La Nación",
+     "seendate": "20261018T030100Z"
+    },
+    {
+     "title": "El futuro de Milei",
+     "url": "https://www.lanacion.com.ar/politica/el-futuro-de-milei-nid18102026/",
+     "domain": "La Nación",
+     "seendate": "20261018T030100Z"
+    },
+    {
+     "title": "Economía del comportamiento: cuando los agentes moderan sesgos y van por “la renta de la inercia”",
+     "url": "https://www.lanacion.com.ar/economia/economia-del-comportamiento-cuando-los-agentes-moderan-sesgos-y-van-por-la-renta-de-la-inercia-nid18102026/",
+     "domain": "La Nación",
+     "seendate": "20261018T030100Z"
+    },
+    {
+     "title": "El pronóstico del tiempo para este domingo 18 de octubre en todo el país: cómo estará el clima en el Día de la Madre",
+     "url": "https://www.lanacion.com.ar/sociedad/el-pronostico-del-tiempo-para-este-domingo-18-en-todo-el-pais-como-estara-el-clima-en-el-dia-de-la-nid18102026/",
+     "domain": "La Nación",
+     "seendate": "20261018T030100Z"
+    },
+    {
+     "title": "Federico Moll: “Incluso si la economía no para de crecer, el consumo masivo tal vez no recupere los niveles de 2023 por mucho tiempo”",
+     "url": "https://www.lanacion.com.ar/economia/federico-moll-incluso-si-la-economia-no-para-de-crecer-el-consumo-masivo-tal-vez-no-recupere-los-nid18102026/",
+     "domain": "La Nación",
+     "seendate": "20261018T030100Z"
+    },
+    {
+     "title": "Stefano Volpetti: “Los productos libres de humo ya funcionan en el mundo y va a pasar lo mismo en la Argentina”",
+     "url": "https://www.lanacion.com.ar/economia/los-productos-libres-de-humo-ya-funcionan-en-el-mundo-y-va-a-pasar-lo-mismo-en-la-argentina-nid18102026/",
+     "domain": "La Nación",
+     "seendate": "20261018T030100Z"
+    },
+    {
+     "title": "Finanzas: contexto externo desafiante y riesgo país en alza",
+     "url": "https://www.lanacion.com.ar/economia/finanzas-contexto-externo-desafiante-y-riesgo-pais-en-alza-nid18102026/",
+     "domain": "La Nación",
+     "seendate": "20261018T030100Z"
+    },
+    {
      "title": "Una profecía inconclusa en la capital del poder",
      "url": "https://www.lanacion.com.ar/politica/una-profecia-inconclusa-en-la-capital-del-poder-nid17102026/",
      "domain": "La Nación",
@@ -2513,18 +2573,6 @@
      "url": "https://www.lanacion.com.ar/politica/dia-de-la-lealtad-el-pj-pidio-por-la-libertad-de-cristina-kirchner-y-el-fin-de-su-proscripcion-nid17102026/",
      "domain": "La Nación",
      "seendate": "20261017T202257Z"
-    },
-    {
-     "title": "Esta es la principal causa de muerte en menores de 5 años y se puede prevenir",
-     "url": "https://www.lanacion.com.ar/sociedad/esta-es-la-principal-causa-de-muerte-en-menores-de-5-anos-y-se-puede-prevenir-nid17102026/",
-     "domain": "La Nación",
-     "seendate": "20261017T200000Z"
-    },
-    {
-     "title": "El Merval cambia este lunes: qué se sabe sobre el nuevo índice de MSCI",
-     "url": "https://www.lanacion.com.ar/economia/el-merval-cambia-este-lunes-que-se-sabe-sobre-el-nuevo-indice-de-msci-nid17102026/",
-     "domain": "La Nación",
-     "seendate": "20261017T191850Z"
     }
    ]
   },
@@ -2895,6 +2943,12 @@
   "PRY": {
    "articles": [
     {
+     "title": "Octubre Rosa: los desafíos de pacientes con cáncer y profesionales en el sistema de salud",
+     "url": "https://www.abc.com.py/nacionales/2026/10/18/octubre-rosa-los-desafios-de-pacientes-con-cancer-y-profesionales-en-el-sistema-de-salud/",
+     "domain": "ABC Color",
+     "seendate": "20261018T032346Z"
+    },
+    {
      "title": "Megaorquesta de Sonidos de la Tierra cautiva a Pedro Juan Caballero",
      "url": "https://www.abc.com.py/nacionales/2026/10/17/megaorquesta-de-sonidos-de-la-tierra-cautiva-a-pedro-juan-caballero/",
      "domain": "ABC Color",
@@ -3014,12 +3068,6 @@
      "url": "https://oglobo.globo.com/brasil/noticia/2026/10/17/governo-do-parana-lamenta-morte-de-reitor-da-puc-pr-em-acidente-durante-viagem-de-trabalho-nos-eua.ghtml",
      "domain": "O Globo",
      "seendate": "20261017T120732Z"
-    },
-    {
-     "title": "Advogado denuncia 'violação' após porteiro ser detido pela PM durante panelaço contra Flávio Bolsonaro em Maceió (AL)",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/17/advogado-denuncia-violacao-apos-porteiro-ser-detido-pela-pm-durante-panelaco-contra-flavio-bolsonaro-em-maceio-al.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261017T102044Z"
     }
    ]
   }
