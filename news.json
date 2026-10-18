@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T16:26:01+00:00",
+ "updated": "2026-10-18T16:59:13+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -121,6 +121,12 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Elección de 2027, el gran reto electoral de Morena; Integralia advierte campañas anticipadas e intervención del narco en comicios",
+     "url": "https://www.eluniversal.com.mx/nacion/eleccion-de-2027-el-gran-reto-electoral-de-morena-integralia-advierte-campanas-anticipadas-e-intervencion-del-narco-en-comicios/",
+     "domain": "El Universal",
+     "seendate": "20261018T163210Z"
+    },
     {
      "title": "Metrobús modifica servicio por Marcha Zombie; habrá cierres en las líneas 3, 4 y 7",
      "url": "https://www.eluniversal.com.mx/metropoli/metrobus-modifica-servicio-por-marcha-zombie-habra-cierres-en-las-lineas-3-4-y-7/",
@@ -634,6 +640,12 @@
   "CRI": {
    "articles": [
     {
+     "title": "Cortes de luz en San José y Heredia este martes 20 de octubre",
+     "url": "https://www.nacion.com/el-pais/cortes-de-luz-en-san-jose-y-heredia-este-martes-20/GOYEJ5RNYFG75DYMK5INDCELYI/story/",
+     "domain": "La Nación",
+     "seendate": "20261018T165200Z"
+    },
+    {
      "title": "Juez advierte riesgo de amedrentamiento de testigos sobre millonaria inversión de Asosejud en concierto de Snoop Dogg",
      "url": "https://www.nacion.com/sucesos/juez-advierte-riesgo-de-amedrentamiento-de/R7FKCQGPG5EINMP57FZD2EBSKY/story/",
      "domain": "La Nación",
@@ -740,17 +752,17 @@
      "url": "https://www.nacion.com/sucesos/una-jueza-penal-figura-entre-los-investigados-por/CM2DJKST7NET5B4753OY4O6H4Y/story/",
      "domain": "La Nación",
      "seendate": "20261017T175319Z"
-    },
-    {
-     "title": "Usan ‘candado chino’ para someter a neerlandés y robarle el celular en el centro de San José",
-     "url": "https://www.nacion.com/sucesos/usan-candado-chino-para-someter-a-neerlandes-y/4QMIRFFMYFAVZMJXNGFQX6BJ6I/story/",
-     "domain": "La Nación",
-     "seendate": "20261017T162512Z"
     }
    ]
   },
   "PAN": {
    "articles": [
+    {
+     "title": "Lluvias: Extienden aviso de prevención en todo el país por vientos y tormentas eléctricas",
+     "url": "https://www.prensa.com/sociedad/lluvias-extienden-aviso-de-prevencion-en-todo-el-pais-por-vientos-y-tormentas-electricas/",
+     "domain": "La Prensa",
+     "seendate": "20261018T165127Z"
+    },
     {
      "title": "Lotería: sorteo dominical cambia de hora por eventos sísmicos",
      "url": "https://www.prensa.com/sociedad/loteria-sorteo-dominical-cambia-de-hora-por-eventos-sismicos/",
@@ -876,12 +888,6 @@
      "url": "https://www.prensa.com/sociedad/746-replicas-tras-el-terremoto-en-panama-que-se-sabe-sobre-las-costas-las-aguas-y-las-fallas/",
      "domain": "La Prensa",
      "seendate": "20261016T163913Z"
-    },
-    {
-     "title": "Diputados piden $199.1 millones más para el presupuesto de 2027; $23 millones irían a la Asamblea",
-     "url": "https://www.prensa.com/politica/diputados-piden-1991-millones-mas-para-el-presupuesto-de-2027-23-millones-irian-a-la-asamblea/",
-     "domain": "La Prensa",
-     "seendate": "20261016T050400Z"
     },
     {
      "title": "La catedral San Juan Bautista pierde una torre y el mercado, su ritmo habitual",
@@ -1021,6 +1027,18 @@
   "COL": {
    "articles": [
     {
+     "title": "¿Quiénes son Girley Ordóñez Bowie, la gobernadora de San Andrés, y la congresista Elizabeth Jay-Pang Díaz, del careo del presidente De La Espriella?",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/quienes-son-girley-ordonez-bowie-la-gobernadora-de-san-andres-y-la-congresista-elizabeth-jay-pang-diaz-del-careo-del-presidente-de-la-espriella-3594418",
+     "domain": "El Tiempo",
+     "seendate": "20261018T163715Z"
+    },
+    {
+     "title": "'Estoy enterado de negocios de su marido y no lo voy a permitir': duro careo de presidente De La Espriella a Representante y Gobernadora de San Andrés",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/estoy-enterado-de-negocios-de-su-marido-y-no-lo-voy-a-permitir-duro-careo-de-presidente-de-la-espriella-a-representante-y-gobernadora-de-san-andres-3594412",
+     "domain": "El Tiempo",
+     "seendate": "20261018T162418Z"
+    },
+    {
      "title": "Aeropuerto Ernesto Cortissoz: así avanzan las obras en las salas internacionales que ya buscan agilizar Migración antes de la final de la Sudamericana",
      "url": "https://www.eltiempo.com/colombia/barranquilla/aeropuerto-ernesto-cortissoz-asi-avanzan-las-obras-en-las-salas-internacionales-que-ya-buscan-agilizar-migracion-antes-de-la-final-de-la-sudamericana-3594416",
      "domain": "El Tiempo",
@@ -1031,12 +1049,6 @@
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-ejercito-frustra-un-atentado-del-eln-contra-la-via-ferrea-de-el-cerrejon-en-la-guajira-desactivo-un-explosivo-en-una-zona-del-municipio-de-maicao-3594409",
      "domain": "El Tiempo",
      "seendate": "20261018T153132Z"
-    },
-    {
-     "title": "'Estoy enterado de negocios de su marido y no lo voy a permitir': duro careo de presidente De La Espriella a Representante y Gobernadora de San Andrés",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/estoy-enterado-de-negocios-de-su-marido-y-no-lo-voy-a-permitir-duro-careo-de-presidente-de-la-espriella-a-representante-y-gobernadora-de-san-andres-3594412",
-     "domain": "El Tiempo",
-     "seendate": "20261018T151915Z"
     },
     {
      "title": "A dos meses del terremoto, Cali sin recursos del PAE ni Fondo Milagro: solo se atenderá al 10 por ciento de los negocios afectados",
@@ -1073,12 +1085,6 @@
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/conseguir-una-vivienda-en-arriendo-un-drama-para-miles-de-colombianos-precios-altos-y-poca-oferta-3594336",
      "domain": "El Tiempo",
      "seendate": "20261018T040100Z"
-    },
-    {
-     "title": "Así protegerá Cartagena a sus corales de Varadero, el secreto mejor guardado de la ciencia en el Caribe",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/asi-protegera-cartagena-a-sus-corales-de-varadero-el-secreto-mejor-guardado-de-la-ciencia-en-el-caribe-3594180",
-     "domain": "El Tiempo",
-     "seendate": "20261018T000100Z"
     }
    ]
   },
@@ -1389,6 +1395,12 @@
   "ECU": {
    "articles": [
     {
+     "title": "Asamblea analizará cambios a las multas por no declarar activos en el exterior",
+     "url": "https://eluniverso.com/politica/asamblea-nacional/asamblea-nacional-analizara-cambios-a-multas-por-no-declarar-activos-en-exterior-nota/",
+     "domain": "El Universo",
+     "seendate": "20261018T163844Z"
+    },
+    {
      "title": "Policía incauta 382 kilos de cocaína en dos vehículos en Quinindé",
      "url": "https://eluniverso.com/politica/seguridad/policia-incauta-382-kilos-de-cocaina-en-dos-vehiculos-en-quininde-nota/",
      "domain": "El Universo",
@@ -1461,18 +1473,6 @@
      "seendate": "20261017T193000Z"
     },
     {
-     "title": "Policía aprehende a presunto vinculado a ‘Los Lobos’ y recupera un vehículo robado en Huaquillas",
-     "url": "https://eluniverso.com/politica/seguridad/policia-aprehende-a-presunto-vinculado-a-los-lobos-y-recupera-un-vehiculo-robado-en-huaquillas-nota/",
-     "domain": "El Universo",
-     "seendate": "20261017T182601Z"
-    },
-    {
-     "title": "Ministerio del Interior reporta incautación de cocaína en Esmeraldas y destrucción de 6,2 toneladas de droga",
-     "url": "https://eluniverso.com/politica/seguridad/ministerio-del-interior-reporta-incautacion-de-cocaina-en-esmeraldas-y-destruccion-de-62-toneladas-de-droga-nota/",
-     "domain": "El Universo",
-     "seendate": "20261017T173904Z"
-    },
-    {
      "title": "Naufragio de barco pesquero frente a Santa Elena deja seis rescatados y catorce desaparecidos",
      "url": "https://eluniverso.com/politica/seguridad/naufragio-de-barco-pesquero-frente-a-santa-elena-deja-seis-rescatados-y-14-desaparecidos-nota/",
      "domain": "El Universo",
@@ -1495,6 +1495,12 @@
   "PER": {
    "articles": [
     {
+     "title": "Temblor en Perú hoy, domingo 18 de octubre: lugar exacto y magnitud del sismo",
+     "url": "https://elcomercio.pe/peru/ultimo-temblor-en-peru-hoy-epicentro-del-sismo-y-magnitud-ultima-hora-censis-tdpe-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261018T164817Z"
+    },
+    {
      "title": "Aprueban protocolo para el manejo de restos humanos en emergencias y desastres",
      "url": "https://elcomercio.pe/peru/pcm-aprueba-protocolo-para-el-manejo-de-restos-humanos-en-emergencias-y-desastres-noticia/",
      "domain": "El Comercio",
@@ -1510,6 +1516,144 @@
   },
   "BOL": {
    "articles": [
+    {
+     "title": "Bolivia : cuatro años de recesión",
+     "url": "https://eldeber.com.bo/opinion/bolivia-cuatro-anos-recesion_1792323197",
+     "domain": "eldeber.com.bo",
+     "seendate": "20261018T154500Z"
+    },
+    {
+     "title": "Presidentes en este siglo , fiscales en el otro",
+     "url": "https://eldeber.com.bo/opinion/presidentes-este-siglo-fiscales-otro_1792288156",
+     "domain": "eldeber.com.bo",
+     "seendate": "20261018T154500Z"
+    },
+    {
+     "title": "El problema no es del bisturí",
+     "url": "https://eldeber.com.bo/opinion/problema-no-bisturi_1792287905",
+     "domain": "eldeber.com.bo",
+     "seendate": "20261018T154500Z"
+    },
+    {
+     "title": "Pensamiento político en el Oriente boliviano",
+     "url": "https://eldeber.com.bo/opinion/pensamiento-politico-oriente-boliviano_1792288241",
+     "domain": "eldeber.com.bo",
+     "seendate": "20261018T154500Z"
+    },
+    {
+     "title": "La fiesta de la burocracia dorada",
+     "url": "https://eldeber.com.bo/opinion/fiesta-burocracia-dorada_1792287989",
+     "domain": "eldeber.com.bo",
+     "seendate": "20261018T154500Z"
+    },
+    {
+     "title": "Evalúan opciones para cambiar al satélite Túpac Katari antes de 2030",
+     "url": "https://eldeber.com.bo/economia/evaluan-opciones-cambiar-satelite-tupac-katari-antes-2030_1792277018",
+     "domain": "eldeber.com.bo",
+     "seendate": "20261018T154500Z"
+    },
+    {
+     "title": "El periodismo despide con profundo pesar a Chepe Gutiérrez , referente del fotoperiodismo boliviano",
+     "url": "https://eldeber.com.bo/pais/periodismo-despide-profundo-pesar-chepe-gutierrez-referente-fotoperiodismo-boliviano_1792333406",
+     "domain": "eldeber.com.bo",
+     "seendate": "20261018T154500Z"
+    },
+    {
+     "title": "Cáncer de mama : afecta a mujeres cada vez más jóvenes y preocupan los diagnósticos tardíos",
+     "url": "https://eldeber.com.bo/santa-cruz/cancer-mama-afecta-mujeres-cada-vez-jovenes-preocupan-diagnosticos-tardios_1792279951",
+     "domain": "eldeber.com.bo",
+     "seendate": "20261018T154500Z"
+    },
+    {
+     "title": "Caso Roma : Secuestran 43 vehículos de alta gama y Oviedo anuncia que los operativos continuarán",
+     "url": "https://eldeber.com.bo/pais/caso-roma-secuestran-43-vehiculos-alta-gama-oviedo-anuncia-operativos-continuaran_1792277847",
+     "domain": "eldeber.com.bo",
+     "seendate": "20261018T154500Z"
+    },
+    {
+     "title": "Octubre y el otro intento de golpe de Estado",
+     "url": "https://eldeber.com.bo/opinion/octubre-otro-intento-golpe-estado_1792323039",
+     "domain": "eldeber.com.bo",
+     "seendate": "20261018T154500Z"
+    },
+    {
+     "title": "Amanda Miguel : Estoy en una época de coronación de mi carrera",
+     "url": "https://eldeber.com.bo/sociales/amanda-miguel-estoy-epoca-coronacion-carrera_1792272212",
+     "domain": "eldeber.com.bo",
+     "seendate": "20261018T154500Z"
+    },
+    {
+     "title": "Los Pozos : Alcaldía no baja la guardia y sostiene los operativos para mantener el orden",
+     "url": "https://eldeber.com.bo/santa-cruz/pozos-alcaldia-no-baja-guardia-sostiene-operativos-mantener-orden_1792329973",
+     "domain": "eldeber.com.bo",
+     "seendate": "20261018T154500Z"
+    },
+    {
+     "title": "Kast y Paz reabren la ruta diplomática y fijan una agenda de integración",
+     "url": "https://eldeber.com.bo/pais/kast-paz-reabren-ruta-diplomatica-fijan-agenda-integracion_1792277855",
+     "domain": "eldeber.com.bo",
+     "seendate": "20261018T154500Z"
+    },
+    {
+     "title": "El Estado paga ocho bonos a cuatro grupos vulnerables y este 2026 se sumaron tres",
+     "url": "https://eldeber.com.bo/economia/estado-paga-ocho-bonos-cuatro-grupos-vulnerables-este-2026-sumaron-tres_1792276695",
+     "domain": "eldeber.com.bo",
+     "seendate": "20261018T154500Z"
+    },
+    {
+     "title": "Amplían operativos en caso Mariaca y Naciones Unidas alerta infiltración criminal",
+     "url": "https://eldeber.com.bo/santa-cruz/amplian-operativos-caso-mariaca-naciones-unidas-alerta-infiltracion-criminal_1792323959",
+     "domain": "eldeber.com.bo",
+     "seendate": "20261018T154500Z"
+    },
+    {
+     "title": "Más de 50 obras viales se financiarán con $us 75 millones de crédito de Fonplata",
+     "url": "https://eldeber.com.bo/economia/50-obras-viales-financiaran-us-75-millones-credito-fonplata_1792333119",
+     "domain": "eldeber.com.bo",
+     "seendate": "20261018T154500Z"
+    },
+    {
+     "title": "Monseñor Leigue alienta a buscar salidas dialogas a los problemas del país",
+     "url": "https://eldeber.com.bo/santa-cruz/monsenor-leigue-alienta-buscar-salidas-dialogas-problemas-pais_1792330360",
+     "domain": "eldeber.com.bo",
+     "seendate": "20261018T154500Z"
+    },
+    {
+     "title": "Se fue Armando Terceros , la voz que convirtió el amor por Santa Cruz en canciones",
+     "url": "https://eldeber.com.bo/sociales/fue-armando-terceros-voz-convirtio-amor-santa-cruz-canciones_1792278983",
+     "domain": "eldeber.com.bo",
+     "seendate": "20261018T154500Z"
+    },
+    {
+     "title": "Recuperación del ferrocarril Arica – La Paz como vía para incrementar el movimiento de carga boliviana",
+     "url": "https://eldeber.com.bo/pais/recuperacion-ferrocarril-arica-paz-via-incrementar-movimiento-carga-boliviana_1792334249",
+     "domain": "eldeber.com.bo",
+     "seendate": "20261018T154500Z"
+    },
+    {
+     "title": "El auge de la tecnología de consumo rápido eleva el desafío de gestionar desechos electrónicos",
+     "url": "https://eldeber.com.bo/sostenibilidad-y-negocios/auge-tecnologia-consumo-rapido-eleva-desafio-gestionar-desechos-electronicos_1792275717",
+     "domain": "eldeber.com.bo",
+     "seendate": "20261018T154500Z"
+    },
+    {
+     "title": "Bolivia busca que el laboratorio más alto del mundo sea patrimonio de la humanidad",
+     "url": "https://eldeber.com.bo/pais/bolivia-busca-laboratorio-alto-mundo-sea-patrimonio-humanidad_1792334900",
+     "domain": "eldeber.com.bo",
+     "seendate": "20261018T154500Z"
+    },
+    {
+     "title": "Pedro Rivero Mercado : una vida dedicada al periodismo , la literatura y el pensamiento",
+     "url": "https://eldeber.com.bo/sociales/pedro-rivero-mercado-vida-dedicada-periodismo-literatura-pensamiento_1792275022",
+     "domain": "eldeber.com.bo",
+     "seendate": "20261018T154500Z"
+    },
+    {
+     "title": "Iglesia pide mejorar el sistema sanitaria antes de pensar en la eutanasia",
+     "url": "https://eldeber.com.bo/pais/iglesia-pide-mejorar-sistema-sanitaria-antes-pensar-eutanasia_1792328726",
+     "domain": "eldeber.com.bo",
+     "seendate": "20261018T154500Z"
+    },
     {
      "title": "Sacaba vive hoy la Primera Promesa rumbo a la festividad de la Virgen del Amparo",
      "url": "https://www.opinion.com.bo/cochabamba/sacaba-vive-hoy-primera-promesa-rumbo-festividad-virgen-amparo/20261018080831997788.html",
@@ -1689,132 +1833,6 @@
      "url": "https://eldeber.com.bo/cultura-y-entretenimiento/voces-unidas-venezuela-iniciativa-une-formacion-solidaridad-latinoamericana_1792237674",
      "domain": "eldeber.com.bo",
      "seendate": "20261017T133000Z"
-    },
-    {
-     "title": "Chile y Bolivia acuerdan reactivar el grupo de trabajo para revisar la situación del tránsito de la carga boliviana en medio del caso maderas",
-     "url": "https://eju.tv/2026/10/chile-y-bolivia-acuerdan-reactivar-el-grupo-de-trabajo-para-revisar-la-situacion-del-transito-de-la-carga-boliviana-en-medio-del-caso-maderas/",
-     "domain": "eju.tv",
-     "seendate": "20261017T130000Z"
-    },
-    {
-     "title": "Exembajador afirma que Bolivia no aprovechó el momento histórico con Chile",
-     "url": "https://eju.tv/2026/10/exembajador-afirma-que-bolivia-no-aprovecho-el-momento-historico-con-chile/",
-     "domain": "eju.tv",
-     "seendate": "20261017T130000Z"
-    },
-    {
-     "title": "Kast y Paz ponen a prueba una nueva etapa entre Bolivia y Chile con acuerdos en comercio , energía y seguridad",
-     "url": "https://eju.tv/2026/10/kast-y-paz-ponen-a-prueba-una-nueva-etapa-entre-bolivia-y-chile-con-acuerdos-en-comercio-energia-y-seguridad/",
-     "domain": "eju.tv",
-     "seendate": "20261017T130000Z"
-    },
-    {
-     "title": "Ministro explica ruta tras visita de Kast : minería , energía , internet y tránsito",
-     "url": "https://eju.tv/2026/10/ministro-explica-ruta-tras-visita-de-kast-mineria-energia-internet-y-transito-2/",
-     "domain": "eju.tv",
-     "seendate": "20261017T130000Z"
-    },
-    {
-     "title": "El presidente de Bolivia visitará Chile en 2027 : Respeto mutuo , confianza , diálogo e integración marcan la « nueva etapa » de sus relaciones",
-     "url": "https://eju.tv/2026/10/el-presidente-de-bolivia-visitara-chile-en-2027-respeto-mutuo-confianza-dialogo-e-integracion-marcan-la-nueva-etapa-de-sus-relaciones/",
-     "domain": "eju.tv",
-     "seendate": "20261017T130000Z"
-    },
-    {
-     "title": "Cuestionan que Evo Morales se refiera a la demanda marítima",
-     "url": "https://eju.tv/2026/10/cuestionan-que-evo-morales-se-refiera-a-la-demanda-maritima/",
-     "domain": "eju.tv",
-     "seendate": "20261017T130000Z"
-    },
-    {
-     "title": "Agenda informativa : la Fiscalía prepara la imputación del exfiscal de La Paz Luis Carlos Tórrez",
-     "url": "https://eju.tv/2026/10/agenda-informativa-la-fiscalia-prepara-la-imputacion-del-exfiscal-de-la-paz-luis-carlos-torrez/",
-     "domain": "eju.tv",
-     "seendate": "20261017T130000Z"
-    },
-    {
-     "title": "Bolivia jugará amistoso contra Perú en Cobija",
-     "url": "https://www.erbol.com.bo/deporte/bolivia-jugar%C3%A1-amistoso-contra-per%C3%BA-en-cobija",
-     "domain": "erbol.com.bo",
-     "seendate": "20261017T120000Z"
-    },
-    {
-     "title": "Petacas ya cuenta con señal de Entel y mejora la seguridad en la ruta …",
-     "url": "https://fmbolivia.com.bo/sociedad/petacas-ya-cuenta-con-senal-de-entel-y-mejora-la-seguridad-en-la-ruta-a-los-valles-crucenos-21416",
-     "domain": "fmbolivia.com.bo",
-     "seendate": "20261017T094500Z"
-    },
-    {
-     "title": "Kast dice que demanda marítima fue zanjada ; un excanciller acusa a Evo Morales",
-     "url": "https://eldeber.com.bo/pais/kast-dice-demanda-maritima-fue-zanjada-excanciller-acusa-evo-morales_1792203814",
-     "domain": "eldeber.com.bo",
-     "seendate": "20261017T054500Z"
-    },
-    {
-     "title": "Bolivia acumula un déficit comercial de casi $us 8 . 000 millones con Chile desde el año 2000",
-     "url": "https://eldeber.com.bo/economia/bolivia-acumula-deficit-comercial-casi-us-8-000-millones-chile-ano-2000_1792205417",
-     "domain": "eldeber.com.bo",
-     "seendate": "20261017T054500Z"
-    },
-    {
-     "title": "La llegada de Kast marca un cambio de ciclo en las relaciones entre Bolivia y Chile",
-     "url": "https://eju.tv/2026/10/la-llegada-de-kast-marca-un-cambio-de-ciclo-en-las-relaciones-entre-bolivia-y-chile/",
-     "domain": "eju.tv",
-     "seendate": "20261017T041500Z"
-    },
-    {
-     "title": "Gobernadora de Pando confirma la llegada de la Verde y se compromete a mejorar el estadio Roberto Jordán",
-     "url": "https://eju.tv/2026/10/gobernadora-de-pando-confirma-la-llegada-de-la-verde-y-se-compromete-a-mejorar-el-estadio-roberto-jordan/",
-     "domain": "eju.tv",
-     "seendate": "20261017T041500Z"
-    },
-    {
-     "title": "El dólar oficial sube un centavo y se cotiza en Bs 11 , 69 para este fin de semana y el lunes",
-     "url": "https://eju.tv/2026/10/el-dolar-oficial-sube-un-centavo-y-se-cotiza-en-bs-1169-para-este-fin-de-semana-y-el-lunes/",
-     "domain": "eju.tv",
-     "seendate": "20261017T041500Z"
-    },
-    {
-     "title": "Histórico : Cobija recibirá por primera vez a la Selección boliviana en un amistoso con Perú",
-     "url": "https://eju.tv/2026/10/historico-cobija-recibira-por-primera-vez-a-la-seleccion-boliviana-en-un-amistoso-con-peru/",
-     "domain": "eju.tv",
-     "seendate": "20261017T041500Z"
-    },
-    {
-     "title": "Kast asegura que con Bolivia hay « legítimas diferencias » que no impiden mirar el futuro con esperanza",
-     "url": "https://eju.tv/2026/10/kast-asegura-que-con-bolivia-hay-legitimas-diferencias-que-no-impiden-mirar-el-futuro-con-esperanza/",
-     "domain": "eju.tv",
-     "seendate": "20261017T041500Z"
-    },
-    {
-     "title": "Envían a Palmasola a colombiano hallado con armas , oro y medio millón de dólares",
-     "url": "https://eju.tv/2026/10/envian-a-palmasola-a-colombiano-hallado-con-armas-oro-y-medio-millon-de-dolares/",
-     "domain": "eju.tv",
-     "seendate": "20261017T041500Z"
-    },
-    {
-     "title": "Hugo Dellien supera a Guto Miguel y se clasifica a las semifinales del Bolivia Open",
-     "url": "https://eju.tv/2026/10/hugo-dellien-supera-a-guto-miguel-y-se-clasifica-a-las-semifinales-del-bolivia-open/",
-     "domain": "eju.tv",
-     "seendate": "20261017T041500Z"
-    },
-    {
-     "title": "Presidente Paz abordó caso maderas con Chile y pidió colaborar en las gestiones",
-     "url": "https://www.erbol.com.bo/nacional/presidente-paz-abord%C3%B3-caso-%E2%80%9Cmaderas%E2%80%9D-con-chile-y-pidi%C3%B3-colaborar-en-las-gestiones",
-     "domain": "erbol.com.bo",
-     "seendate": "20261017T023000Z"
-    },
-    {
-     "title": "Always le dice adiós a Villa Ingenio",
-     "url": "https://www.erbol.com.bo/deporte/always-le-dice-adi%C3%B3s-villa-ingenio",
-     "domain": "erbol.com.bo",
-     "seendate": "20261017T023000Z"
-    },
-    {
-     "title": "Marisel Mamani defendió su tesis doctoral en Suecia vistiendo pollera …",
-     "url": "https://fmbolivia.com.bo/los-yungas/marisel-mamani-defendio-su-tesis-doctoral-en-suecia-vistiendo-pollera-y-dedica-el-logro-a-sus-padres-21414",
-     "domain": "fmbolivia.com.bo",
-     "seendate": "20261017T001500Z"
     }
    ]
   },
@@ -2184,6 +2202,12 @@
   },
   "ARG": {
    "articles": [
+    {
+     "title": "En medio de los disturbios en Francia, Milei recordó su discurso de 2024 en Davos",
+     "url": "https://www.lanacion.com.ar/politica/en-medio-de-los-disturbios-en-francia-milei-recordo-su-discurso-de-2024-en-davos-nid18102026/",
+     "domain": "La Nación",
+     "seendate": "20261018T163442Z"
+    },
     {
      "title": "Moratoria en Buenos Aires: lanzan un plan de pagos con descuentos de hasta el 40%",
      "url": "https://www.lanacion.com.ar/economia/moratoria-en-buenos-aires-lanzan-un-plan-de-pagos-con-descuentos-de-hasta-el-40-nid18102026/",
