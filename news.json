@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T11:57:46+00:00",
+ "updated": "2026-10-18T12:28:45+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -58,12 +58,6 @@
      "seendate": "20261018T033001Z"
     },
     {
-     "title": "El todopoderoso alcalde que llevó al PP a una crisis anunciada en Algeciras",
-     "url": "https://elpais.com/espana/2026-10-18/el-todopoderoso-alcalde-que-llevo-al-pp-a-una-crisis-anunciada-en-algeciras.html",
-     "domain": "El País",
-     "seendate": "20261018T033001Z"
-    },
-    {
      "title": "Las vacaciones familiares en Bélgica que terminaron con el arresto de un sicario huido de la justicia",
      "url": "https://elpais.com/espana/2026-10-18/las-vacaciones-familiares-en-belgica-que-terminaron-con-el-arresto-de-un-sicario-huido-de-la-justicia.html",
      "domain": "El País",
@@ -88,6 +82,12 @@
      "seendate": "20261018T033001Z"
     },
     {
+     "title": "El todopoderoso alcalde que llevó al PP a una crisis anunciada en Algeciras",
+     "url": "https://elpais.com/espana/2026-10-18/el-todopoderoso-alcalde-que-llevo-al-pp-a-una-crisis-anunciada-en-algeciras.html",
+     "domain": "El País",
+     "seendate": "20261018T033001Z"
+    },
+    {
      "title": "Los últimos pasos del final del terrorismo etarra",
      "url": "https://elpais.com/espana/2026-10-18/los-ultimos-pasos-del-final-del-terrorismo-etarra.html",
      "domain": "El País",
@@ -104,12 +104,6 @@
      "url": "https://elpais.com/espana/andalucia/2026-10-17/queremos-un-rio-que-no-se-envenene-centenares-de-personas-marchan-en-sevilla-contra-la-contaminacion-del-guadalquivir.html",
      "domain": "El País",
      "seendate": "20261017T125424Z"
-    },
-    {
-     "title": "Sánchez mete a Begoña Gómez en campaña: “Nos han intentado quebrar y estamos más fuertes. Te quiero”",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-10-17/sanchez-mete-a-begona-gomez-en-campana-nos-han-intentado-quebrar-y-estamos-mas-fuertes-te-quiero.html",
-     "domain": "El País",
-     "seendate": "20261017T123508Z"
     },
     {
      "title": "Desaparece misteriosamente y en cuestión de horas ‘el altar’ de Maricarmen de su calle",
@@ -966,6 +960,12 @@
   "CUB": {
    "articles": [
     {
+     "title": "En Guantánamo, tener dinero en el banco no significa poder comprar",
+     "url": "https://www.14ymedio.com/cuba/guantanamo-dinero-banco-no-significa_1_1132092.html",
+     "domain": "14ymedio",
+     "seendate": "20261018T120153Z"
+    },
+    {
      "title": "La Habana protesta porque EE UU utilizará la ONU para denunciar la represión en la Isla",
      "url": "https://www.14ymedio.com/cuba/habana-protesta-ee-uu-utilizara_1_1132090.html",
      "domain": "14ymedio",
@@ -1144,6 +1144,66 @@
   },
   "VEN": {
    "articles": [
+    {
+     "title": "Defensores póstumos de Bolívar",
+     "url": "https://larazon.net/2026/10/defensores-postumos-de-bolivar/",
+     "domain": "larazon.net",
+     "seendate": "20261018T100000Z"
+    },
+    {
+     "title": "Entre el cronograma de Washington y la viscosa incertidumbre",
+     "url": "https://larazon.net/2026/10/entre-el-cronograma-de-washington-y-la-viscosa-incertidumbre/",
+     "domain": "larazon.net",
+     "seendate": "20261018T100000Z"
+    },
+    {
+     "title": "Trump y los cipayos no quieren elecciones presidenciales en Venezuela",
+     "url": "https://larazon.net/2026/10/trump-y-los-cipayos-no-quieren-elecciones-presidenciales-en-venezuela/",
+     "domain": "larazon.net",
+     "seendate": "20261018T100000Z"
+    },
+    {
+     "title": "Elecciones limpias , imparciales y transparentes",
+     "url": "https://larazon.net/2026/10/elecciones-limpias-imparciales-y-transparentes/",
+     "domain": "larazon.net",
+     "seendate": "20261018T100000Z"
+    },
+    {
+     "title": "INTELIGENCIA , VALENTÍA Y PATRIOTISMO",
+     "url": "https://larazon.net/2026/10/inteligencia-valentia-y-patriotismo/",
+     "domain": "larazon.net",
+     "seendate": "20261018T100000Z"
+    },
+    {
+     "title": "EE . UU . reactiva Cuerpo de Marines en su embajada en Venezuela",
+     "url": "https://confirmado.com.ve/ee-uu-reactiva-cuerpo-de-marines-en-su-embajada-en-venezuela/",
+     "domain": "confirmado.com.ve",
+     "seendate": "20261018T094500Z"
+    },
+    {
+     "title": "Ataque armado a autobús en Colombia deja cinco venezolanos muertos y 64 heridos",
+     "url": "https://eldiariodeguayana.com.ve/ataque-armado-a-autobus-en-colombia-deja-cinco-venezolanos-muertos-y-64-heridos/",
+     "domain": "eldiariodeguayana.com.ve",
+     "seendate": "20261018T093000Z"
+    },
+    {
+     "title": "Reactivan el Destacamento de Seguridad de Marines en la Embajada de EEUU en Caracas",
+     "url": "https://eldiariodeguayana.com.ve/reactivan-el-destacamento-de-seguridad-de-marines-en-la-embajada-de-eeuu-en-caracas/",
+     "domain": "eldiariodeguayana.com.ve",
+     "seendate": "20261018T093000Z"
+    },
+    {
+     "title": "EL COSTO ECONÓMICO DEL SOCIALISMO DEL SIGLO XXI - El Diario de Guayana",
+     "url": "https://eldiariodeguayana.com.ve/el-costo-economico-del-socialismo-del-siglo-xxi/",
+     "domain": "eldiariodeguayana.com.ve",
+     "seendate": "20261018T093000Z"
+    },
+    {
+     "title": "Preparan actividades para el aniversario de canonización de los santos venezolanos",
+     "url": "https://eldiariodeguayana.com.ve/preparan-actividades-para-el-aniversario-de-canonizacion-de-los-santos-venezolanos/",
+     "domain": "eldiariodeguayana.com.ve",
+     "seendate": "20261018T093000Z"
+    },
     {
      "title": "El Concurso Carabobo elegirá a sus representantes para Miss Grand y Miss Cosmo Venezuela",
      "url": "https://www.el-carabobeno.com/el-concurso-carabobo-miss-grand-miss-cosmo-venezuela-2026/",
@@ -1395,42 +1455,6 @@
      "url": "https://correodelcaroni.com/sociedad/actual/teleton-busca-recaudar-15-millones-de-dolares-para-afectados-por-sismos-en-venezuela/",
      "domain": "correodelcaroni.com",
      "seendate": "20261018T000000Z"
-    },
-    {
-     "title": "La gobernadora de Puerto Rico firma una resolución para solicitar la anexión a EE . UU .",
-     "url": "https://confirmado.com.ve/la-gobernadora-de-puerto-rico-firma-una-resolucion-para-solicitar-la-anexion-a-ee-uu/",
-     "domain": "confirmado.com.ve",
-     "seendate": "20261018T000000Z"
-    },
-    {
-     "title": "Autoridades consolidan estrategia nacional para reducir accidentes viales en Venezuela",
-     "url": "https://confirmado.com.ve/autoridades-consolidan-estrategia-nacional-para-reducir-accidentes-viales-en-venezuela/",
-     "domain": "confirmado.com.ve",
-     "seendate": "20261018T000000Z"
-    },
-    {
-     "title": "Funvisis ha registrado más de 2 . 220 sismos desde los devastadores terremotos del 24 de junio",
-     "url": "https://confirmado.com.ve/funvisis-ha-registrado-mas-de-2-220-sismos-desde-los-devastadores-terremotos-del-24-de-junio/",
-     "domain": "confirmado.com.ve",
-     "seendate": "20261018T000000Z"
-    },
-    {
-     "title": "Trabajadores de Guayana denuncian plan para eliminar prestaciones sociales y normativas de trabajo vigentes – Correo del Caroní",
-     "url": "https://correodelcaroni.com/laboral-economia/trabajadores-de-guayana-denuncian-plan-para-eliminar-prestaciones-sociales-y-normativas-de-trabajo-vigentes/",
-     "domain": "correodelcaroni.com",
-     "seendate": "20261018T000000Z"
-    },
-    {
-     "title": "Venezolanos en Colombia sobre María Corina Machado : Es absurdo que le impidan el derecho de volver a su patria",
-     "url": "https://www.ntn24.com/noticias-actualidad/venezolanos-en-colombia-sobre-maria-corina-machado-es-absurdo-que-le-impidan-el-derecho-de-volver-a-su-patria-659120",
-     "domain": "ntn24.com",
-     "seendate": "20261018T000000Z"
-    },
-    {
-     "title": "Banco Mundial evalúa otorgar hasta 5 millardos de dólares a Venezuela en dos años – Correo del Caroní",
-     "url": "https://correodelcaroni.com/laboral-economia/banco-mundial-evalua-otorgar-hasta-5-millardos-de-dolares-a-venezuela-en-dos-anos/",
-     "domain": "correodelcaroni.com",
-     "seendate": "20261018T000000Z"
     }
    ]
   },
@@ -1531,30 +1555,6 @@
      "url": "https://eluniverso.com/comunidad/ecuador/paquetes-de-ayuda-humanitaria-llegan-a-312-familias-afectadas-por-las-lluvias-en-cinco-provincias-nota/",
      "domain": "El Universo",
      "seendate": "20261017T140150Z"
-    },
-    {
-     "title": "Andrés Roche, candidato a la Alcaldía por la lista 6: “Es importante entrar ya, ciudadanía y Municipio, en una política de reciclaje en Guayaquil”",
-     "url": "https://eluniverso.com/politica/elecciones/andres-roche-candidato-a-la-alcaldia-por-la-lista-6-es-importante-entrar-ya-ciudadania-y-municipio-en-una-politica-de-reciclaje-en-guayaquil-nota/",
-     "domain": "El Universo",
-     "seendate": "20261017T130000Z"
-    },
-    {
-     "title": "Sismo de magnitud 4,2 se registró esta madrugada en Zamora Chinchipe",
-     "url": "https://eluniverso.com/comunidad/ecuador/sismo-de-42-se-registro-esta-madrugada-en-zamora-chinchipe-nota/",
-     "domain": "El Universo",
-     "seendate": "20261017T113130Z"
-    },
-    {
-     "title": "Horarios de mantenimiento eléctrico en Tungurahua, Napo y Cotopaxi este sábado 17 de octubre de 2026",
-     "url": "https://eluniverso.com/comunidad/ecuador/horarios-de-mantenimiento-electrico-en-tungurahua-napo-y-cotopaxi-este-sabado-17-de-octubre-de-2026-nota/",
-     "domain": "El Universo",
-     "seendate": "20261017T031911Z"
-    },
-    {
-     "title": "Horarios de mantenimiento eléctrico en Morona Santiago este sábado 17 de octubre de 2026",
-     "url": "https://eluniverso.com/comunidad/ecuador/horarios-y-sectores-con-mantenimiento-electrico-en-morona-santiago-este-sabado-17-de-octubre-de-2026-nota/",
-     "domain": "El Universo",
-     "seendate": "20261017T023757Z"
     },
     {
      "title": "Entre lluvia y aplausos, Portoviejo celebra el regreso de Shyare Andrade",
@@ -1899,6 +1899,126 @@
   "CHL": {
    "articles": [
     {
+     "title": "Récord de exportaciones impulsa mayor superávit comercial de la historia de Chile – Diario Chañarcillo",
+     "url": "https://www.chanarcillo.cl/record-de-exportaciones-impulsa-mayor-superavit-comercial-de-la-historia-de-chile/",
+     "domain": "chanarcillo.cl",
+     "seendate": "20261018T103000Z"
+    },
+    {
+     "title": "Los negocios de los cuatro aspirantes a la presidencia de la CPC",
+     "url": "https://www.latercera.com/pulso/noticia/los-negocios-de-los-cuatro-aspirantes-a-la-presidencia-de-la-cpc/",
+     "domain": "latercera.com",
+     "seendate": "20261018T103000Z"
+    },
+    {
+     "title": "Fondo E de las AFP : Historia de una caída",
+     "url": "https://www.latercera.com/pulso/noticia/fondo-e-de-las-afp-historia-de-una-caida/",
+     "domain": "latercera.com",
+     "seendate": "20261018T103000Z"
+    },
+    {
+     "title": "Los dolores de cabeza que tienen en alerta a Hacienda",
+     "url": "https://www.latercera.com/pulso/noticia/los-dolores-de-cabeza-que-tienen-en-alerta-a-hacienda/",
+     "domain": "latercera.com",
+     "seendate": "20261018T103000Z"
+    },
+    {
+     "title": "PriceSmart pone a prueba su modelo y adelanta los precios de sus membrecías : Todo lo nuevo toma tiempo",
+     "url": "https://www.latercera.com/pulso/noticia/pricesmart-pone-a-prueba-su-modelo-de-membrecias-es-un-desafio-porque-es-nuevo-y-todo-lo-nuevo-toma-tiempo/",
+     "domain": "latercera.com",
+     "seendate": "20261018T103000Z"
+    },
+    {
+     "title": "León Fernández de Castro : Aquí no se han hecho locuras ni cosas fuera de la norma ni de la ley",
+     "url": "https://www.latercera.com/pulso/noticia/leon-fernandez-de-castro-aqui-no-se-han-hecho-locuras-no-se-han-hecho-cosas-fuera-de-la-norma/",
+     "domain": "latercera.com",
+     "seendate": "20261018T103000Z"
+    },
+    {
+     "title": "COLUMNA DE OPINIÓN | OTRA LOCURA : ¡ LA PENA DE MUERTE COMO ESPECTÁCULO !",
+     "url": "https://www.radiopolar.com/columna-opinion-locura-la-pena-muerte-espectaculo",
+     "domain": "radiopolar.com",
+     "seendate": "20261018T100000Z"
+    },
+    {
+     "title": "Video - Al menos cuatro personas fallecidas y cuatro heridas tras avalancha en Portillo",
+     "url": "https://www.portalnet.cl/temas/al-menos-cuatro-personas-fallecidas-y-cuatro-heridas-tras-avalancha-en-portillo.1571183/",
+     "domain": "portalnet.cl",
+     "seendate": "20261018T100000Z"
+    },
+    {
+     "title": "EXPORTACIONES CHILENAS SUPERAN LOS US$ 93 MIL MILLONES Y MARCAN RÉCORD HISTÓRICO",
+     "url": "https://www.radiopolar.com/exportaciones-chilenas-superan-us-93-mil-millones-marcan-record-historico",
+     "domain": "radiopolar.com",
+     "seendate": "20261018T100000Z"
+    },
+    {
+     "title": "Lo decidieron en pleno show : La conversación en coreano con la que BTS sorprendió a las ARMYs chilenas",
+     "url": "https://www.t13.cl/noticia/espectaculos/lo-decidieron-pleno-show-conversacion-coreano-bts-sorprendio-las-armys-chilenas-18-10-2026",
+     "domain": "t13.cl",
+     "seendate": "20261018T100000Z"
+    },
+    {
+     "title": "Deporte y salud mental : beneficios del ejercicio",
+     "url": "https://www.elmostrador.cl/agenda-pais/2026/10/18/los-beneficios-del-deporte-para-la-salud-mental-como-ayuda-a-reducir-el-estres-y-la-ansiedad/",
+     "domain": "elmostrador.cl",
+     "seendate": "20261018T094500Z"
+    },
+    {
+     "title": "Conversaciones democráticas ( parte II ): Patricio Aylwin y el significado de recuperar la democracia",
+     "url": "https://www.elmostrador.cl/noticias/pais/2026/10/18/conversaciones-democraticas-parte-ii-patricio-aylwin-y-el-significado-de-recuperar-la-democracia/",
+     "domain": "elmostrador.cl",
+     "seendate": "20261018T094500Z"
+    },
+    {
+     "title": "Cáncer de mama : por qué también hay que cuidar el corazón",
+     "url": "https://www.elmostrador.cl/braga/2026/10/18/cancer-de-mama-y-salud-cardiovascular-por-que-cuidar-el-corazon-tambien-es-parte-del-tratamiento/",
+     "domain": "elmostrador.cl",
+     "seendate": "20261018T094500Z"
+    },
+    {
+     "title": "FICValdivia 2026 : Hijas únikas es elegida mejor película chilena",
+     "url": "https://www.24horas.cl/tendencias/peliculas/ficvaldivia-2026-hijas-unikas-es-elegida-mejor-pelicula-chilena",
+     "domain": "24horas.cl",
+     "seendate": "20261018T091500Z"
+    },
+    {
+     "title": "¿ Quién es Timothy Dhalleine ? El fotógrafo francés con el que Pancho descubrió una de las vistas más espectaculares de la Patagonia",
+     "url": "https://www.13.cl/programas/lugares-que-hablan/momentos/quien-es-timothy-dhalleine-el-fotografo-frances-con-el-que",
+     "domain": "13.cl",
+     "seendate": "20261018T083000Z"
+    },
+    {
+     "title": "Si te lo perdiste : en esta plataforma puedes ver los capítulos de Siempre hay un chileno",
+     "url": "https://www.13.cl/programas/siempre-hay-un-chileno/noticias/si-te-lo-perdiste-en-esta-plataforma-puedes-ver-los",
+     "domain": "13.cl",
+     "seendate": "20261018T083000Z"
+    },
+    {
+     "title": "¡ Emocionante ! Pancho conoció la devoción de la gente de Villa Dorotea por el Gauchito Gil",
+     "url": "https://www.13.cl/programas/lugares-que-hablan/momentos/emocionante-pancho-conocio-la-devocion-de-la-gente-de-villa",
+     "domain": "13.cl",
+     "seendate": "20261018T083000Z"
+    },
+    {
+     "title": "Cuarto Congreso Internacional Femenino De Ufología Paranormal Y Misterio 2026",
+     "url": "https://diariolongino.cl/cuarto-congreso-internacional-femenino-de-ufologia-paranormal-y-misterio-2026/",
+     "domain": "diariolongino.cl",
+     "seendate": "20261018T063000Z"
+    },
+    {
+     "title": "Papa León XIV Supera Operación Por Cáncer Pulmonar Y Recibe Alta Médica Tras Cinco Días Hospitalizado En Roma",
+     "url": "https://diariolongino.cl/papa-leon-xiv-supera-operacion-por-cancer-pulmonar-y-recibe-alta-medica-tras-cinco-dias-hospitalizado-en-roma/",
+     "domain": "diariolongino.cl",
+     "seendate": "20261018T063000Z"
+    },
+    {
+     "title": "Perú Abre La Casa De La Cultura En Iquique Y Fortalece Los Lazos Históricos De Hermandad Con Tarapacá",
+     "url": "https://diariolongino.cl/peru-abre-la-casa-de-la-cultura-en-iquique-y-fortalece-los-lazos-historicos-de-hermandad-con-tarapaca/",
+     "domain": "diariolongino.cl",
+     "seendate": "20261018T063000Z"
+    },
+    {
      "title": "La historia , los negocios y la crisis de Comfrut , la exportadora chilena que retiró sus berries de tres supermercados de EEUU",
      "url": "https://www.df.cl/df-mas/por-dentro/la-historia-los-negocios-y-la-crisis-de-comfrut-la-exportadora-chilena",
      "domain": "df.cl",
@@ -2137,131 +2257,23 @@
      "url": "https://www.latercera.com/mundo/noticia/diputados-argentinos-piden-citar-a-embajador-chileno-por-futura-ruta-maritima-entre-punta-arenas-y-malvinas/",
      "domain": "latercera.com",
      "seendate": "20261017T161500Z"
-    },
-    {
-     "title": "Nos volaron la raja porque eran mejores : La eterna disputa entre Los Prisioneros y Soda Stereo que revivió en redes sociales",
-     "url": "https://www.theclinic.cl/2026/10/17/nos-volaron-la-raja-porque-eran-mejores-la-eterna-disputa-entre-los-prisioneros-y-soda-stereo-que-revivio-en-redes-sociales/",
-     "domain": "theclinic.cl",
-     "seendate": "20261017T153000Z"
-    },
-    {
-     "title": "Pellegrini vive su mejor momento en el Betis : los contundentes elogios en España en la antesala del Betis - Barcelona que complican el sueño de verlo dirigir a la Roja",
-     "url": "https://www.theclinic.cl/2026/10/17/pellegrini-vive-su-mejor-momento-en-el-betis-los-contundentes-elogios-en-espana-en-la-antesala-del-betis-barcelona-que-complican-el-sueno-de-verlo-dirigir-a-la-roja/",
-     "domain": "theclinic.cl",
-     "seendate": "20261017T153000Z"
-    },
-    {
-     "title": "PDI detiene a sujeto por homicidio ocurrido en Macul : Víctima recibió múltiples disparos",
-     "url": "https://www.radioagricultura.cl/noticias/nacional/pdi-detiene-a-sujeto-por-homicidio-ocurrido-en-macul-victima-recibio-multiples-disparos_20261017/",
-     "domain": "radioagricultura.cl",
-     "seendate": "20261017T153000Z"
-    },
-    {
-     "title": "Detienen a dos chilenos en Indonesia por presunto tráfico de cocaína : Arriesgan cadena perpetua",
-     "url": "https://www.radioagricultura.cl/noticias/nacional/detienen-a-dos-chilenos-en-indonesia-por-presunto-trafico-de-cocaina-arriesgan-cadena-perpetua_20261017/",
-     "domain": "radioagricultura.cl",
-     "seendate": "20261017T153000Z"
-    },
-    {
-     "title": "Yolanda Pizarro aborda el apoyo de ProChile a pequeñas empresas y oportunidades de la industria alimentaria",
-     "url": "https://www.radioagricultura.cl/noticias/nacional/yolanda-pizarro-aborda-el-apoyo-de-prochile-a-pequenas-empresas-y-oportunidades-de-la-industria-alimentaria_20261017/",
-     "domain": "radioagricultura.cl",
-     "seendate": "20261017T153000Z"
-    },
-    {
-     "title": "Chile mejora sus cifras del Visa Waiver : exceso de estadía cae a su nivel más bajo en seis años",
-     "url": "https://www.latercera.com/nacional/noticia/chile-mejora-sus-cifras-del-visa-waiver-exceso-de-estadia-cae-a-su-nivel-mas-bajo-en-seis-anos/",
-     "domain": "latercera.com",
-     "seendate": "20261017T150000Z"
-    },
-    {
-     "title": "Científicos chilenos resuelven enigma de más de 400 años con hueso que vincula a aves y dinosaurios | Ciencia y Tecnología",
-     "url": "https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/ciencia/2026/10/17/cientificos-chilenos-resuelven-enigma-de-mas-de-400-anos-con-hueso-que-vincula-a-aves-y-dinosaurios.shtml",
-     "domain": "biobiochile.cl",
-     "seendate": "20261017T144500Z"
-    },
-    {
-     "title": "No hubo un día sin temer por mi vida : el brasileño que se hizo mujer trans y volvió atrás | Sociedad",
-     "url": "https://www.biobiochile.cl/noticias/sociedad/debate/2026/10/17/no-hubo-un-dia-sin-temer-por-mi-vida-el-brasileno-que-se-hizo-mujer-trans-y-volvio-atras.shtml",
-     "domain": "biobiochile.cl",
-     "seendate": "20261017T144500Z"
-    },
-    {
-     "title": "Kast por mar para Bolivia : Cada nación tiene sus reivindicaciones , no impide que trabajemos juntos | Nacional",
-     "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/10/17/kast-por-mar-para-bolivia-cada-nacion-tiene-sus-reivindicaciones-no-impide-que-trabajemos-juntos.shtml",
-     "domain": "biobiochile.cl",
-     "seendate": "20261017T144500Z"
-    },
-    {
-     "title": "La minería no puede seguir costando vidas | Opinión",
-     "url": "https://www.biobiochile.cl/noticias/opinion/columnas-bbcl/2026/10/17/la-mineria-no-puede-seguir-costando-vidas.shtml",
-     "domain": "biobiochile.cl",
-     "seendate": "20261017T144500Z"
-    },
-    {
-     "title": "Lío en Federación de Tenis : dan ultimátum por ocupación de sede y Kegevic amenaza con querella | Deportes",
-     "url": "https://www.biobiochile.cl/noticias/deportes/tenis/2026/10/17/lio-en-federacion-de-tenis-dan-ultimatum-por-ocupacion-de-sede-y-kegevic-amenaza-con-querella.shtml",
-     "domain": "biobiochile.cl",
-     "seendate": "20261017T144500Z"
-    },
-    {
-     "title": "Santiago será sede del Mundial Junior de Natación Artística 2028",
-     "url": "https://www.latercera.com/el-deportivo/noticia/santiago-sera-sede-del-mundial-junior-de-natacion-artistica-2028/",
-     "domain": "latercera.com",
-     "seendate": "20261017T144500Z"
-    },
-    {
-     "title": "El chileno que habla chino mandarín : revela cómo es China y su secreto para aprender el idioma | Sociedad",
-     "url": "https://www.biobiochile.cl/noticias/sociedad/historia/2026/10/17/el-chileno-que-habla-chino-mandarin-revela-como-es-china-y-su-secreto-para-aprender-el-idioma.shtml",
-     "domain": "biobiochile.cl",
-     "seendate": "20261017T144500Z"
-    },
-    {
-     "title": "Diego Vásquez , el chileno que se enamoró de las nubes : Soy un vigilante del cielo",
-     "url": "https://www.eldinamo.cl/sociedad/2026/10/17/diego-vasquez-el-chileno-que-se-enamoro-de-las-nubes-soy-un-vigilante-del-cielo/",
-     "domain": "eldinamo.cl",
-     "seendate": "20261017T140000Z"
-    },
-    {
-     "title": "Dos chilenos fueron detenidos en Bali tras hallazgo de más de 4 , 5 kilos de cocaína en sus mochilas",
-     "url": "https://www.latercera.com/mundo/noticia/dos-chilenos-fueron-detenidos-en-bali-tras-hallazgo-de-mas-de-45-kilos-de-cocaina-en-sus-mochilas/",
-     "domain": "latercera.com",
-     "seendate": "20261017T134500Z"
-    },
-    {
-     "title": "Chile y Bolivia impulsan corredor de fibra óptica para conectar el Pacífico con el Atlántico",
-     "url": "https://www.cnnchile.com/pais/chile-y-bolivia-impulsan-corredor-de-fibra-optica-para-conectar-el-pacifico-con-el-atlantico/",
-     "domain": "cnnchile.com",
-     "seendate": "20261017T130000Z"
-    },
-    {
-     "title": "Prisión preventiva para conductor de taxi imputado por homicidio con 16 disparos en Macul",
-     "url": "https://www.cnnchile.com/pais/prision-preventiva-para-conductor-de-taxi-imputado-por-homicidio-con-16-disparos-en-macul/",
-     "domain": "cnnchile.com",
-     "seendate": "20261017T130000Z"
-    },
-    {
-     "title": "Paty López y su regreso al cine tras 15 años : Somos un sector siempre empobrecido y el último eslabón de importancia en todos los gobiernos",
-     "url": "https://www.theclinic.cl/2026/10/17/el-regreso-de-patricia-lopez-al-cine-tras-15-anos-y-su-decision-de-alejarse-de-la-industria-para-ser-madre-no-estoy-intentando-volver-volvi-estoy-aca-ya-volvi-a-la-industria/",
-     "domain": "theclinic.cl",
-     "seendate": "20261017T124500Z"
-    },
-    {
-     "title": "El angustiante relato de la generación que no duerme : el insomnio alcanza su mayor nivel desde la pandemia y afecta al 14 , 3 % de los chilenos",
-     "url": "https://www.theclinic.cl/2026/10/17/el-angustiante-relato-de-la-generacion-que-no-duerme-el-insomnio-alcanza-su-mayor-nivel-desde-la-pandemia-y-afecta-al-143-de-los-chilenos/",
-     "domain": "theclinic.cl",
-     "seendate": "20261017T124500Z"
-    },
-    {
-     "title": "Newsletter Poder : Bachelet despeja a Boric el 2029",
-     "url": "https://www.theclinic.cl/2026/10/17/newsletter-poder-bachelet-despeja-a-boric-el-2029/",
-     "domain": "theclinic.cl",
-     "seendate": "20261017T124500Z"
     }
    ]
   },
   "ARG": {
    "articles": [
+    {
+     "title": "Día de la Madre: las mejores frases para enviar a mamá por WhatsApp en su día",
+     "url": "https://www.lanacion.com.ar/sociedad/dia-de-la-madre-las-mejores-frases-para-enviar-a-mama-por-whatsapp-en-su-dia-nid18102026/",
+     "domain": "La Nación",
+     "seendate": "20261018T121558Z"
+    },
+    {
+     "title": "Día de la madre: 10 frases de escritores famosos para dedicarle a una mamá",
+     "url": "https://www.lanacion.com.ar/sociedad/dia-de-la-madre-10-frases-de-escritores-famosos-para-dedicarle-a-una-mama-nid18102026/",
+     "domain": "La Nación",
+     "seendate": "20261018T120300Z"
+    },
     {
      "title": "El pronóstico del tiempo para este domingo 18 de octubre en todo el país: cómo estará el tiempo en el Día de la Madre",
      "url": "https://www.lanacion.com.ar/sociedad/el-pronostico-del-tiempo-para-este-domingo-18-en-todo-el-pais-como-estara-el-clima-en-el-dia-de-la-nid18102026/",
@@ -2303,12 +2315,6 @@
      "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-hoy-a-cuanto-cotiza-este-domingo-18-de-octubre-nid18102026/",
      "domain": "La Nación",
      "seendate": "20261018T100100Z"
-    },
-    {
-     "title": "Día de la Madre: las mejores frases para enviar a mamá por WhatsApp en su día",
-     "url": "https://www.lanacion.com.ar/sociedad/dia-de-la-madre-las-mejores-frases-para-enviar-a-mama-por-whatsapp-en-su-dia-nid18102026/",
-     "domain": "La Nación",
-     "seendate": "20261018T093600Z"
     },
     {
      "title": "El costo de producir granos en la Argentina se acerca al de sus competidores",
@@ -2367,24 +2373,6 @@
     {
      "title": "El futuro de Milei",
      "url": "https://www.lanacion.com.ar/politica/el-futuro-de-milei-nid18102026/",
-     "domain": "La Nación",
-     "seendate": "20261018T030100Z"
-    },
-    {
-     "title": "Economía del comportamiento: cuando los agentes moderan sesgos y van por “la renta de la inercia”",
-     "url": "https://www.lanacion.com.ar/economia/economia-del-comportamiento-cuando-los-agentes-moderan-sesgos-y-van-por-la-renta-de-la-inercia-nid18102026/",
-     "domain": "La Nación",
-     "seendate": "20261018T030100Z"
-    },
-    {
-     "title": "Stefano Volpetti: “Los productos libres de humo ya funcionan en el mundo y va a pasar lo mismo en la Argentina”",
-     "url": "https://www.lanacion.com.ar/economia/los-productos-libres-de-humo-ya-funcionan-en-el-mundo-y-va-a-pasar-lo-mismo-en-la-argentina-nid18102026/",
-     "domain": "La Nación",
-     "seendate": "20261018T030100Z"
-    },
-    {
-     "title": "Finanzas: contexto externo desafiante y riesgo país en alza",
-     "url": "https://www.lanacion.com.ar/economia/finanzas-contexto-externo-desafiante-y-riesgo-pais-en-alza-nid18102026/",
      "domain": "La Nación",
      "seendate": "20261018T030100Z"
     },
@@ -2763,10 +2751,22 @@
   "PRY": {
    "articles": [
     {
-     "title": "Tupãrenda celebra 45 años de fe junto a la Virgen de Schoenstatt",
-     "url": "https://www.abc.com.py/nacionales/2026/10/18/tuparenda-celebra-45-anos-de-fe-junto-a-la-virgen-de-schoenstatt/",
+     "title": "Multitudinaria concurrencia marcó la primera noche del Festival de la Raza en Villarrica",
+     "url": "https://www.abc.com.py/nacionales/2026/10/18/multitudinaria-concurrencia-marco-la-primera-noche-del-festival-de-la-raza-en-villarrica/",
      "domain": "ABC Color",
-     "seendate": "20261018T040001Z"
+     "seendate": "20261018T121514Z"
+    },
+    {
+     "title": "¿Sin luz en casa? Estas son las zonas con cortes programados de ANDE",
+     "url": "https://www.abc.com.py/nacionales/2026/10/18/sin-luz-en-casa-estas-son-las-zonas-con-cortes-programados-de-ande/",
+     "domain": "ABC Color",
+     "seendate": "20261018T120016Z"
+    },
+    {
+     "title": "Discurso vs. realidad: Cuánto cuestan los funcionarios que metió Luis Bello a la Municipalidad de Asunción",
+     "url": "https://www.abc.com.py/nacionales/2026/10/18/discurso-vs-realidad-cuanto-cuestan-los-funcionarios-que-metio-luis-bello-a-la-municipalidad-de-asuncion/",
+     "domain": "ABC Color",
+     "seendate": "20261018T120000Z"
     }
    ]
   },
@@ -2776,58 +2776,16 @@
   "BRA": {
    "articles": [
     {
-     "title": "Horário do debate da band: veja como assistir debate entre Lula e Flávio ao vivo",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/18/horario-do-debate-da-band-veja-como-assistir-debate-entre-lula-e-flavio-ao-vivo.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261018T102559Z"
+     "title": "O Brasil é nosso ? | Papo das 9 # 966",
+     "url": "https://mundosustentavel.com.br/papo-das-9-966-o-brasil-e-nosso-2/",
+     "domain": "mundosustentavel.com.br",
+     "seendate": "20261017T043000Z"
     },
     {
-     "title": "Jogo Político: 'Evangélico continua tratado como charlatão ou coitadinho pela esquerda intelectual', diz antropólogo",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/18/jogo-politico-evangelico-continua-tratado-como-charlatao-ou-coitadinho-pela-esquerda-intelectual-diz-antropologo.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261018T063000Z"
-    },
-    {
-     "title": "Aval popular guia propostas para reduzir maioridade penal",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/18/aval-popular-guia-propostas-para-reduzir-maioridade-penal.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261018T063000Z"
-    },
-    {
-     "title": "Abstenção de idosos em cidades-chave e risco de desmobilização desafiam Lula e Flávio Bolsonaro",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/18/abstencao-de-idosos-em-cidades-chave-e-risco-de-desmobilizacao-desafiam-lula-e-flavio-bolsonaro.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261018T063000Z"
-    },
-    {
-     "title": "Conselho Federal de Medicina terá mais poder na prova que decidirá exercício da profissão",
-     "url": "https://oglobo.globo.com/brasil/educacao/noticia/2026/10/18/conselho-federal-de-medicina-tera-mais-poder-na-prova-que-decidira-exercicio-da-profissao.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261018T063000Z"
-    },
-    {
-     "title": "Atuação de irmãos de Flávio Bolsonaro em eventual gestão preocupa aliados",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/18/atuacao-de-irmaos-de-flavio-bolsonaro-em-eventual-gestao-preocupa-aliados.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261018T063000Z"
-    },
-    {
-     "title": "Lula 'importa' estrategistas de aliados e monta frente ampla com marqueteiros no segundo turno",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/18/lula-importa-estrategistas-de-aliados-e-monta-frente-ampla-com-marqueteiros-no-segundo-turno.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261018T063000Z"
-    },
-    {
-     "title": "Em Rio e São Paulo, taxa de faltosos tem diferença de até dez pontos entre bairros",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/18/em-rio-e-sao-paulo-taxa-de-faltosos-tem-diferenca-de-ate-dez-pontos-entre-bairros.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261018T063000Z"
-    },
-    {
-     "title": "No rastro do céu: o fascínio que move os caçadores de tempestades do Sul do Brasil",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/18/no-rastro-do-ceu-o-fascinio-que-move-os-cacadores-de-tempestades-do-sul-do-brasil.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261018T063000Z"
+     "title": "Guerra híbrida dos EUA contra o Brasil exige resposta na Justiça Internacional – Durval de Noronha Goyos Filho – Brasil 247",
+     "url": "https://www.brasil247.com/blog/guerra-hibrida-dos-eua-contra-o-brasil-exige-resposta-na-justica-internacional/",
+     "domain": "brasil247.com",
+     "seendate": "20261015T204500Z"
     }
    ]
   }
