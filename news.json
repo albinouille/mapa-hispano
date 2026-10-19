@@ -1,10 +1,34 @@
 {
- "updated": "2026-10-19T13:21:22+00:00",
+ "updated": "2026-10-19T14:16:41+00:00",
  "countries": {
   "ESP": {
    "articles": [
     {
-     "title": "La Generalitat manda a la población de las comarcas de Gandia y Dénia que se confine en casa por las lluvias torrenciales e inundaciones",
+     "title": "La policía carga contra un grupo de profesores de Madrid que bloqueaba la entrada a un acto de Ayuso",
+     "url": "https://elpais.com/espana/madrid/2026-10-19/cancelado-el-acto-de-la-consejera-de-educacion-de-madrid-mercedes-zarzalejo-en-un-centro-de-fp-por-la-presencia-de-manifestantes.html",
+     "domain": "El País",
+     "seendate": "20261019T140154Z"
+    },
+    {
+     "title": "El juez inadmite la querella que presentó Vito Quiles contra Begoña Gómez por denuncia falsa",
+     "url": "https://elpais.com/espana/2026-10-19/el-juez-inadmite-la-querella-que-presento-vito-quiles-contra-begona-gomez-por-denuncia-falsa.html",
+     "domain": "El País",
+     "seendate": "20261019T133508Z"
+    },
+    {
+     "title": "Mapas y gráficos de las inundaciones en Valencia y hacia dónde se dirige la tormenta",
+     "url": "https://elpais.com/espana/comunidad-valenciana/2026-10-19/mapas-y-graficos-de-las-inundaciones-en-valencia-y-hacia-donde-se-dirige-la-tormenta.html",
+     "domain": "El País",
+     "seendate": "20261019T133047Z"
+    },
+    {
+     "title": "El Supremo establece que los centros de acogida no pueden expulsar a los inmigrantes sin permiso de la Administración",
+     "url": "https://elpais.com/espana/2026-10-19/el-supremo-establece-que-los-centros-de-acogida-no-pueden-expulsar-a-los-inmigrantes-sin-permiso-de-la-administracion.html",
+     "domain": "El País",
+     "seendate": "20261019T133025Z"
+    },
+    {
+     "title": "La Generalitat mantiene el confinamiento en ocho municipios de Valencia y Alicante por las lluvias torrenciales e inundaciones",
      "url": "https://elpais.com/espana/comunidad-valenciana/2026-10-19/maxima-alerta-en-gandia-y-denia-por-las-lluvias-torrenciales-y-las-inundaciones-que-activa-a-la-ume.html",
      "domain": "El País",
      "seendate": "20261019T124841Z"
@@ -26,12 +50,6 @@
      "url": "https://elpais.com/espana/2026-10-19/el-supuesto-colaborador-de-leire-diez-niega-el-seguimiento-en-coche-a-la-jueza-biedma-estaba-a-unos-450-kilometros.html",
      "domain": "El País",
      "seendate": "20261019T122712Z"
-    },
-    {
-     "title": "La policía carga contra un grupo de profesores de Madrid que bloqueaba la entrada a un acto de Ayuso",
-     "url": "https://elpais.com/espana/madrid/2026-10-19/cancelado-el-acto-de-la-consejera-de-educacion-de-madrid-mercedes-zarzalejo-en-un-centro-de-fp-por-la-presencia-de-manifestantes.html",
-     "domain": "El País",
-     "seendate": "20261019T122536Z"
     },
     {
      "title": "Ayuso vincula las protestas de París a las de Madrid: “La izquierda antidemocrática solo quiere la violencia y el acoso”",
@@ -106,12 +124,6 @@
      "seendate": "20261019T033001Z"
     },
     {
-     "title": "El Gobierno arranca los “martes sociales” con un decreto para mejorar las prestaciones por viudedad, incapacidad, para víctimas del terrorismo y de violencia de género",
-     "url": "https://elpais.com/espana/2026-10-19/el-gobierno-arranca-los-martes-sociales-con-un-decreto-para-mejorar-las-prestaciones-por-viudedad-incapacidad-para-victimas-del-terrorismo-y-de-violencia-de-genero.html",
-     "domain": "El País",
-     "seendate": "20261019T033001Z"
-    },
-    {
      "title": "Pikabea: “Escuchaba llorar al secuestrado. Es inhumano tener a una persona en un agujero”",
      "url": "https://elpais.com/espana/2026-10-19/pikabea-escuchaba-llorar-al-secuestrado-es-inhumano-tener-a-una-persona-en-un-agujero.html",
      "domain": "El País",
@@ -154,12 +166,6 @@
      "seendate": "20261019T033001Z"
     },
     {
-     "title": "El turismo de nieve busca trabajadores en un Pirineo con viviendas cada vez más caras",
-     "url": "https://elpais.com/espana/catalunya/2026-10-19/el-turismo-de-nieve-busca-trabajadores-en-un-pirineo-con-la-vivienda-cada-vez-mas-tensionada.html",
-     "domain": "El País",
-     "seendate": "20261019T033001Z"
-    },
-    {
      "title": "Conspiración en Badajoz",
      "url": "https://elpais.com/espana/2026-10-19/conspiracion-en-badajoz.html",
      "domain": "El País",
@@ -193,6 +199,24 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Tormenta tropical Trudy provoca lluvias y oleaje elevado en el Pacífico; alertan por riesgos en Jalisco y Baja California Sur",
+     "url": "https://www.eluniversal.com.mx/estados/tormenta-tropical-trudy-provoca-lluvias-y-oleaje-elevado-en-el-pacifico-alertan-por-riesgos-en-jalisco-y-baja-california-sur/",
+     "domain": "El Universal",
+     "seendate": "20261019T140242Z"
+    },
+    {
+     "title": "La mañanera de Sheinbaum, 19 de octubre, minuto a minuto",
+     "url": "https://www.eluniversal.com.mx/nacion/la-mananera-de-sheinbaum-19-de-octubre-minuto-a-minuto/",
+     "domain": "El Universal",
+     "seendate": "20261019T132623Z"
+    },
+    {
+     "title": "FGR detiene a exfiscal César Jáuregui, tras obtener su libertad en Chihuahua; ingresará a El Altiplano",
+     "url": "https://www.eluniversal.com.mx/estados/detienen-de-nuevo-a-cesar-jauregui-tras-quedar-en-libertad-en-chihuahua-fgr-lo-traslada-a-la-ciudad-de-mexico/",
+     "domain": "El Universal",
+     "seendate": "20261019T132449Z"
+    },
     {
      "title": "Situación de exfiscal se define el jueves",
      "url": "https://www.eluniversal.com.mx/nacion/situacion-de-exfiscal-se-define-el-jueves/",
@@ -416,28 +440,10 @@
      "seendate": "20261018T223737Z"
     },
     {
-     "title": "Marcha Zombie 2026; así se preparan los muertos vivientes para infestar la CDMX",
-     "url": "https://www.eluniversal.com.mx/metropoli/marcha-zombie-2026-asi-se-preparan-los-muertos-vivientes-para-infestar-la-cdmx/",
-     "domain": "El Universal",
-     "seendate": "20261018T213013Z"
-    },
-    {
      "title": "Marcha Zombie recorre las calles del Centro de la CDMX; sigue EN VIVO la ruta y los detalles",
      "url": "https://www.eluniversal.com.mx/metropoli/en-vivo-marcha-zombie-recorrera-el-centro-historico-de-cdmx-conoce-la-ruta-y-las-alternativas-viales/",
      "domain": "El Universal",
      "seendate": "20261018T211802Z"
-    },
-    {
-     "title": "Saúl Monreal se registra para buscar la alcaldía de Fresnillo en 2027; mantiene aspiración de gobernar Zacatecas",
-     "url": "https://www.eluniversal.com.mx/estados/saul-monreal-se-registra-para-buscar-la-alcaldia-de-fresnillo-en-2027-mantiene-aspiracion-de-gobernar-zacatecas/",
-     "domain": "El Universal",
-     "seendate": "20261018T204545Z"
-    },
-    {
-     "title": "Colectivas feministas alistan manifestaciones ante San Lázaro y la SCJN; exigirán respaldo a reforma de paridad",
-     "url": "https://www.eluniversal.com.mx/nacion/colectivas-feministas-alistan-manifestaciones-ante-san-lazaro-y-la-scjn-exigiran-respaldo-a-reforma-de-paridad/",
-     "domain": "El Universal",
-     "seendate": "20261018T203747Z"
     },
     {
      "title": "Garantiza Sheinbaum modernizar todo el sistema de salud y resolver desabasto; \"ya lo voy a atender yo\", promete",
@@ -886,16 +892,28 @@
   "CRI": {
    "articles": [
     {
+     "title": "Corte Plena discute reelección de Carlo Díaz como fiscal general",
+     "url": "https://www.nacion.com/sucesos/corte-plena-discute-reeleccion-de-carlo-diaz-como/5NUJ2J3GNZG4LJGBN6EOXMEZHE/story/",
+     "domain": "La Nación",
+     "seendate": "20261019T135002Z"
+    },
+    {
+     "title": "Hallan cuerpo de menor que había sido reportado como desaparecido en Puntarenas",
+     "url": "https://www.nacion.com/sucesos/hallan-cuerpo-de-menor-que-habia-sido-reportado/M6G4X6OP5JEZBPW6LFI6OB4S3Q/story/",
+     "domain": "La Nación",
+     "seendate": "20261019T132349Z"
+    },
+    {
+     "title": "ICE suprimió instancia que sugirió pedir criterio jurídico antes de contratar servicio para conocer datos personales de costarricenses",
+     "url": "https://www.nacion.com/el-pais/ice-suprimio-instancia-que-sugirio-pedir-criterio/USFZ2LPTJRDPVOLC6M4J44GLOE/story/",
+     "domain": "La Nación",
+     "seendate": "20261019T132239Z"
+    },
+    {
      "title": "Mueren dos adultos en Alajuela por choque entre carro y motocicleta",
      "url": "https://www.nacion.com/sucesos/mueren-dos-adultos-en-alajuela-por-choque-entre/RXIDXDAT5ZANVB6CMAES4DKJHA/story/",
      "domain": "La Nación",
      "seendate": "20261019T122934Z"
-    },
-    {
-     "title": "ICE suprimió instancia que sugirió pedir criterio jurídico antes de contratar servicio para acceder a ingresos, fotos y procesos judiciales de costarricenses",
-     "url": "https://www.nacion.com/el-pais/ice-suprimio-instancia-que-sugirio-pedir-criterio/USFZ2LPTJRDPVOLC6M4J44GLOE/story/",
-     "domain": "La Nación",
-     "seendate": "20261019T103000Z"
     },
     {
      "title": "Carlo Díaz se juega hoy su reelección como fiscal general: quiénes lo apoyan y cuáles tensiones rodean la votación",
@@ -1188,6 +1206,12 @@
   "CUB": {
    "articles": [
     {
+     "title": "Cuba recibió mucho menos combustible de lo anunciado: EE UU confundió litros con barriles",
+     "url": "https://www.14ymedio.com/cuba/cuba-recibio-combustible-anunciado-ee_1_1132143.html",
+     "domain": "14ymedio",
+     "seendate": "20261019T135129Z"
+    },
+    {
      "title": "Cienfuegos busca capital privado nacional y extranjero para rescatar sus instalaciones turísticas",
      "url": "https://www.14ymedio.com/cuba/cienfuegos-busca-capital-privado-nacional_1_1132120.html",
      "domain": "14ymedio",
@@ -1266,12 +1290,6 @@
      "seendate": "20261016T140739Z"
     },
     {
-     "title": "Grave incendio en la termoeléctrica cubana de Santa Cruz del Norte",
-     "url": "https://www.14ymedio.com/cuba/grave-incendio-termoelectrica-cubana-santa_1_1132017.html",
-     "domain": "14ymedio",
-     "seendate": "20261016T120937Z"
-    },
-    {
      "title": "El trumpista Vic Mellor explica por qué es \"agente\" del Ministerio del Interior y habla con 'El Cangrejo'",
      "url": "https://www.14ymedio.com/cuba/trumpista-vic-mellor-explica-agente_1_1132010.html",
      "domain": "14ymedio",
@@ -1290,6 +1308,18 @@
   },
   "COL": {
    "articles": [
+    {
+     "title": "¿Dónde está María Alejandra Molina Solano, tras haber salido de Bogotá con rumbo a Cali por un trabajo? Envió una foto de su llegada al Valle",
+     "url": "https://www.eltiempo.com/colombia/cali/donde-esta-maria-alejandra-molina-solano-tras-haber-salido-de-bogota-con-rumbo-a-cali-por-un-trabajo-envio-una-foto-de-su-llegada-al-valle-3594549",
+     "domain": "El Tiempo",
+     "seendate": "20261019T133731Z"
+    },
+    {
+     "title": "'Ahorro de energía sí, penalización no': alertan que cobros adicionales al recibo de luz afectarían a 758.000 usuarios del Caribe colombiano",
+     "url": "https://www.eltiempo.com/colombia/barranquilla/ahorro-de-energia-si-penalizacion-no-alertan-que-cobros-adicionales-al-recibo-de-luz-afectarian-a-758-000-usuarios-del-caribe-colombiano-3594554",
+     "domain": "El Tiempo",
+     "seendate": "20261019T133647Z"
+    },
     {
      "title": "En Cartagena presentan las fechas para la Audiencia Pública Ambiental frente a la ampliación del Aeropuerto Internacional Rafael Núñez",
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/en-cartagena-presentan-las-fechas-para-la-audiencia-publica-ambiental-frente-a-la-ampliacion-del-aeropuerto-rafael-nunez-3594546",
@@ -1337,18 +1367,6 @@
      "url": "https://www.eltiempo.com/colombia/medellin/no-vine-a-congraciarme-con-quienes-hacen-mal-las-cosas-alcalde-federico-gutierrez-defiende-intervencion-en-el-parque-lleras-3594476",
      "domain": "El Tiempo",
      "seendate": "20261019T031041Z"
-    },
-    {
-     "title": "A un adulto mayor le negaron subirse a un bus con su perro en El Santuario, Antioquia; empresa se pronunció y ofreció disculpas",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/a-un-adulto-mayor-le-negaron-subirse-a-un-bus-con-su-perro-en-el-santuario-antioquia-empresa-se-pronuncio-y-ofrecio-disculpas-3594461",
-     "domain": "El Tiempo",
-     "seendate": "20261018T231441Z"
-    },
-    {
-     "title": "Medellín impulsa el turismo del futuro: más de 9.000 prestadores le apuestan a la formalidad y la inteligencia artificial",
-     "url": "https://www.eltiempo.com/colombia/medellin/medellin-impulsa-el-turismo-del-futuro-mas-de-9-000-prestadores-le-apuestan-a-la-formalidad-y-la-inteligencia-artificial-3594447",
-     "domain": "El Tiempo",
-     "seendate": "20261018T210710Z"
     }
    ]
   },
@@ -1580,6 +1598,12 @@
   },
   "ECU": {
    "articles": [
+    {
+     "title": "Lluvias anegan sectores de Durán y complican los traslados de trabajadores hacia Guayaquil",
+     "url": "https://eluniverso.com/comunidad/ecuador/lluvias-anegan-sectores-de-duran-y-complican-los-traslados-de-trabajadores-hacia-guayaquil-nota/",
+     "domain": "El Universo",
+     "seendate": "20261019T133448Z"
+    },
     {
      "title": "Cynthia Viteri, candidata de ADN a la Alcaldía de Guayaquil: “La ciudad necesita orden, libertad y obras y servicios con visión humana”",
      "url": "https://eluniverso.com/politica/elecciones/cynthia-viteri-candidata-de-adn-a-la-alcaldia-de-guayaquil-la-ciudad-necesita-orden-libertad-y-obras-y-servicios-con-vision-humana-nota/",
@@ -2353,6 +2377,72 @@
   "ARG": {
    "articles": [
     {
+     "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este lunes 19 de octubre, minuto a minuto",
+     "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid19102026/",
+     "domain": "La Nación",
+     "seendate": "20261019T141000Z"
+    },
+    {
+     "title": "Los gobernadores de la UCR apoyan la suspensión de las PASO, pero surgen diferencias por una posible alianza con Milei",
+     "url": "https://www.lanacion.com.ar/politica/los-gobernadores-de-la-ucr-apoyan-la-suspension-de-las-paso-pero-surgen-diferencias-por-una-posible-nid19102026/",
+     "domain": "La Nación",
+     "seendate": "20261019T140733Z"
+    },
+    {
+     "title": "Federico Moll: “Incluso si la economía no para de crecer, el consumo masivo tal vez no recupere los niveles de 2023 por mucho tiempo”",
+     "url": "https://www.lanacion.com.ar/economia/federico-moll-incluso-si-la-economia-no-para-de-crecer-el-consumo-masivo-tal-vez-no-recupere-los-nid18102026/",
+     "domain": "La Nación",
+     "seendate": "20261019T140628Z"
+    },
+    {
+     "title": "Karina Milei recordó que su familia vivió en Devoto y celebró el traslado de la cárcel",
+     "url": "https://www.lanacion.com.ar/politica/karina-milei-recordo-que-su-familia-vivio-en-devoto-y-celebro-el-traslado-de-la-carcel-nid19102026/",
+     "domain": "La Nación",
+     "seendate": "20261019T140052Z"
+    },
+    {
+     "title": "El CEO de LATAM destacó la señal de apertura del gobierno argentino y dijo que analizan oportunidades en el mercado",
+     "url": "https://www.lanacion.com.ar/economia/el-ceo-de-latam-destaco-la-senal-de-apertura-del-gobierno-argentino-y-dijo-que-analizan-nid19102026/",
+     "domain": "La Nación",
+     "seendate": "20261019T135528Z"
+    },
+    {
+     "title": "Cierran, pero siguen: la Argentina que se esconde para sobrevivir",
+     "url": "https://www.lanacion.com.ar/economia/cierran-pero-siguen-la-argentina-que-se-esconde-para-sobrevivir-nid19102026/",
+     "domain": "La Nación",
+     "seendate": "20261019T135038Z"
+    },
+    {
+     "title": "Javier Milei y sus medidas, EN VIVO: “La casta, la alta política, los empresaurios y los periodistas no son muy distintos”",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-casta-la-alta-politica-los-empresaurios-y-los-periodistas-no-nid19102026/",
+     "domain": "La Nación",
+     "seendate": "20261019T134600Z"
+    },
+    {
+     "title": "De la convivencia con la cárcel a la expectativa por el futuro del predio: qué quieren los vecinos de Villa Devoto",
+     "url": "https://www.lanacion.com.ar/sociedad/de-la-convivencia-con-la-carcel-a-la-expectativa-por-el-futuro-del-predio-que-quieren-los-vecinos-de-nid19102026/",
+     "domain": "La Nación",
+     "seendate": "20261019T134600Z"
+    },
+    {
+     "title": "PNC de Anses: cuál es el monto de las Pensiones No Contributivas en noviembre de 2026",
+     "url": "https://www.lanacion.com.ar/economia/pnc-de-anses-cual-es-el-monto-de-las-pensiones-no-contributivas-en-noviembre-de-2026-nid19102026/",
+     "domain": "La Nación",
+     "seendate": "20261019T134506Z"
+    },
+    {
+     "title": "Estados Unidos propuso disolver el comité de la ONU en el que la Argentina sostiene su reclamo por las Malvinas",
+     "url": "https://www.lanacion.com.ar/politica/estados-unidos-propuso-disolver-el-comite-de-la-onu-en-el-que-la-argentina-sostiene-su-reclamo-por-nid19102026/",
+     "domain": "La Nación",
+     "seendate": "20261019T133613Z"
+    },
+    {
+     "title": "Más de 100 líneas de colectivo reducirán su frecuencia nocturna “por falta de pago”",
+     "url": "https://www.lanacion.com.ar/sociedad/mas-de-100-lineas-de-colectivo-reduciran-su-frecuencia-nocturna-por-falta-de-pago-nid19102026/",
+     "domain": "La Nación",
+     "seendate": "20261019T132835Z"
+    },
+    {
      "title": "Negocio para la Argentina: los cinco gigantes de Asia que buscan más alimentos por millones de dólares",
      "url": "https://www.lanacion.com.ar/economia/campo/negocio-para-la-argentina-los-cinco-gigantes-de-asia-que-buscan-mas-alimentos-por-millones-de-nid19102026/",
      "domain": "La Nación",
@@ -2425,12 +2515,6 @@
      "seendate": "20261019T130644Z"
     },
     {
-     "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este lunes 19 de octubre, minuto a minuto",
-     "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid19102026/",
-     "domain": "La Nación",
-     "seendate": "20261019T130034Z"
-    },
-    {
      "title": "Alta demanda: ya se venden los pasajes para un viaje de 800 km a través de paisajes únicos",
      "url": "https://www.lanacion.com.ar/sociedad/alta-demanda-ya-se-venden-los-pasajes-para-un-viaje-de-800-km-a-traves-de-paisajes-unicos-nid18102026/",
      "domain": "La Nación",
@@ -2441,12 +2525,6 @@
      "url": "https://www.lanacion.com.ar/economia/campo/por-decreto-el-gobierno-prorrogo-por-un-ano-el-regimen-que-permite-compatibilizar-planes-sociales-nid19102026/",
      "domain": "La Nación",
      "seendate": "20261019T123613Z"
-    },
-    {
-     "title": "Javier Milei y sus medidas, EN VIVO: “La casta, la alta política, los empresaurios y los periodistas no son muy distintos”",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-casta-la-alta-politica-los-empresaurios-y-los-periodistas-no-nid19102026/",
-     "domain": "La Nación",
-     "seendate": "20261019T123000Z"
     },
     {
      "title": "Hay alerta amarilla por lluvias, nevadas y vientos para este lunes 19 de octubre: las provincias afectadas",
@@ -2519,155 +2597,29 @@
      "url": "https://www.lanacion.com.ar/politica/cuando-se-vota-presidente-en-la-argentina-todo-sobre-las-elecciones-2027-nid01092026/",
      "domain": "La Nación",
      "seendate": "20261019T105638Z"
-    },
-    {
-     "title": "Elecciones 2027: cuándo se vota para presidente en la Argentina",
-     "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-para-presidente-en-la-argentina-nid03082026/",
-     "domain": "La Nación",
-     "seendate": "20261019T105636Z"
-    },
-    {
-     "title": "Monto de la Asignación Universal por Hijo: de cuánto es la AUH en noviembre 2026, con el aumento oficial",
-     "url": "https://www.lanacion.com.ar/economia/monto-de-la-asignacion-universal-por-hijo-de-cuanto-es-la-auh-en-noviembre-2026-con-el-aumento-nid15102026/",
-     "domain": "La Nación",
-     "seendate": "20261019T105633Z"
-    },
-    {
-     "title": "Jubilaciones de Anses: cuánto cobro en noviembre 2026, con el bono oficial y el aumento confirmado",
-     "url": "https://www.lanacion.com.ar/economia/jubilaciones-de-anses-cuanto-cobro-en-noviembre-2026-con-el-bono-oficial-y-el-aumento-confirmado-nid14102026/",
-     "domain": "La Nación",
-     "seendate": "20261019T105631Z"
-    },
-    {
-     "title": "Calendario de pagos de Anses: cuándo se cobra la PUAM de octubre de 2026",
-     "url": "https://www.lanacion.com.ar/economia/calendario-de-pagos-de-anses-cuando-se-cobra-la-puam-de-octubre-de-2026-nid09102026/",
-     "domain": "La Nación",
-     "seendate": "20261019T105628Z"
-    },
-    {
-     "title": "Calendario PNC de la Anses: cuándo se cobran las Pensiones no Contributivas de octubre 2026",
-     "url": "https://www.lanacion.com.ar/economia/calendario-pnc-de-la-anses-cuando-se-cobran-las-pensiones-no-contributivas-de-octubre-2026-nid08102026/",
-     "domain": "La Nación",
-     "seendate": "20261019T105627Z"
-    },
-    {
-     "title": "Calendario Anses: cuándo se cobra la AUH en octubre 2026",
-     "url": "https://www.lanacion.com.ar/economia/calendario-anses-cuando-se-cobra-la-auh-en-octubre-2026-nid02102026/",
-     "domain": "La Nación",
-     "seendate": "20261019T105624Z"
-    },
-    {
-     "title": "Calendario de jubilaciones de la Anses: cuándo se cobran en octubre 2026 con el bono oficial y el aumento confirmado",
-     "url": "https://www.lanacion.com.ar/economia/calendario-de-jubilaciones-de-la-anses-cuando-se-cobran-en-octubre-2026-con-el-bono-oficial-y-el-nid01102026/",
-     "domain": "La Nación",
-     "seendate": "20261019T105622Z"
-    },
-    {
-     "title": "Cuánto cobran los jubilados en octubre de 2026 con el nuevo bono confirmado",
-     "url": "https://www.lanacion.com.ar/economia/cuanto-cobran-los-jubilados-en-octubre-de-2026-con-el-nuevo-bono-confirmado-nid29092026/",
-     "domain": "La Nación",
-     "seendate": "20261019T105620Z"
-    },
-    {
-     "title": "Con bono oficial y aumento confirmado: este es el monto que cobran los jubilados de la Anses en octubre 2026",
-     "url": "https://www.lanacion.com.ar/economia/con-bono-oficial-y-aumento-confirmado-este-es-el-monto-que-cobran-los-jubilados-de-la-anses-en-nid28092026/",
-     "domain": "La Nación",
-     "seendate": "20261019T105618Z"
-    },
-    {
-     "title": "Cuánto cobran de mínima los jubilados de la Anses en octubre 2026 con el aumento oficial",
-     "url": "https://www.lanacion.com.ar/economia/cuanto-cobran-de-minima-los-jubilados-de-la-anses-en-octubre-2026-con-el-aumento-oficial-nid23092026/",
-     "domain": "La Nación",
-     "seendate": "20261019T105615Z"
-    },
-    {
-     "title": "Cambios en la Libreta AUH: las acreditaciones de la Asignación Universal serán automáticas y ya no habrá que presentar certificados",
-     "url": "https://www.lanacion.com.ar/economia/cambios-en-la-libreta-auh-las-acreditaciones-de-la-asignacion-universal-seran-automaticas-y-ya-no-nid17092026/",
-     "domain": "La Nación",
-     "seendate": "20261019T105612Z"
-    },
-    {
-     "title": "Pagos Anses: a cuánto llega la PUAM en octubre de 2026 con el aumento confirmado",
-     "url": "https://www.lanacion.com.ar/economia/pagos-anses-a-cuanto-llega-la-puam-en-octubre-de-2026-con-el-aumento-confirmado-nid17092026/",
-     "domain": "La Nación",
-     "seendate": "20261019T105609Z"
-    },
-    {
-     "title": "Calendario PNC de la Anses: cuál es el monto de las Pensiones no Contributivas en octubre de 2026",
-     "url": "https://www.lanacion.com.ar/economia/calendario-pnc-de-la-anses-cual-es-el-monto-de-las-pensiones-no-contributivas-en-octubre-de-2026-nid16092026/",
-     "domain": "La Nación",
-     "seendate": "20261019T105607Z"
-    },
-    {
-     "title": "Asignación Universal por Hijo de Anses: de cuánto es la AUH en octubre, con el aumento confirmado",
-     "url": "https://www.lanacion.com.ar/economia/asignacion-universal-por-hijo-de-anses-de-cuanto-es-la-auh-en-octubre-con-el-aumento-confirmado-nid15092026/",
-     "domain": "La Nación",
-     "seendate": "20261019T105605Z"
-    },
-    {
-     "title": "Jubilaciones de Anses: cuánto se cobra en octubre 2026, con el bono y el aumento confirmado",
-     "url": "https://www.lanacion.com.ar/economia/jubilaciones-de-anses-cuanto-se-cobra-en-octubre-2026-con-el-bono-y-el-aumento-confirmado-nid14092026/",
-     "domain": "La Nación",
-     "seendate": "20261019T105602Z"
-    },
-    {
-     "title": "Cuándo cobro Anses: el calendario completo de octubre 2026",
-     "url": "https://www.lanacion.com.ar/economia/cuando-cobro-anses-el-calendario-completo-de-octubre-2026-nid30092026/",
-     "domain": "La Nación",
-     "seendate": "20261019T105559Z"
-    },
-    {
-     "title": "Miden 13 cm y pesan casi un kilo: Gendarmería recuperó seis huevos de ñandú que iban escondidos de forma ilegal debajo del asiento de un auto en la Patagonia",
-     "url": "https://www.lanacion.com.ar/sociedad/miden-13-cm-y-pesan-casi-un-kilo-gendarmeria-recupero-seis-huevos-de-nandu-que-iban-escondidos-de-nid08102026/",
-     "domain": "La Nación",
-     "seendate": "20261019T105539Z"
-    },
-    {
-     "title": "Cardenales, jilgueros y reinamoras: recuperaron 88 aves del tráfico clandestino, los rehabilitaron e hicieron una liberación masiva en Zárate",
-     "url": "https://www.lanacion.com.ar/sociedad/cardenales-jilgueros-y-reinamoras-recuperaron-88-aves-del-trafico-clandestino-los-rehabilitaron-e-nid07102026/",
-     "domain": "La Nación",
-     "seendate": "20261019T105451Z"
-    },
-    {
-     "title": "Cuánto gana el personal de Gendarmería Nacional Argentina en octubre de 2026",
-     "url": "https://www.lanacion.com.ar/economia/cuanto-gana-el-personal-de-gendarmeria-nacional-argentina-en-octubre-de-2026-nid19102026/",
-     "domain": "La Nación",
-     "seendate": "20261019T105442Z"
-    },
-    {
-     "title": "Paritaria con aumento: cuánto cobran las niñeras y cuidadores de adultos en octubre de 2026",
-     "url": "https://www.lanacion.com.ar/economia/paritaria-con-aumento-cuanto-cobran-las-nineras-y-cuidadores-de-adultos-en-octubre-de-2026-nid14102026/",
-     "domain": "La Nación",
-     "seendate": "20261019T105438Z"
-    },
-    {
-     "title": "Paritaria para vigiladores: cuánto ganan los trabajadores de seguridad privada en octubre 2026 con el aumento confirmado",
-     "url": "https://www.lanacion.com.ar/economia/paritaria-para-vigiladores-cuanto-ganan-los-trabajadores-de-seguridad-privada-en-octubre-2026-con-el-nid13102026/",
-     "domain": "La Nación",
-     "seendate": "20261019T105434Z"
-    },
-    {
-     "title": "Sueldo oficial: cuánto ganan los miembros de las Fuerzas Armadas en octubre de 2026 con el aumento confirmado",
-     "url": "https://www.lanacion.com.ar/economia/sueldo-oficial-cuanto-ganan-los-miembros-de-las-fuerzas-armadas-en-octubre-de-2026-con-el-aumento-nid08102026/",
-     "domain": "La Nación",
-     "seendate": "20261019T105430Z"
-    },
-    {
-     "title": "Paritaria oficial: cuánto ganan los camioneros en octubre 2026 tras el aumento confirmado",
-     "url": "https://www.lanacion.com.ar/economia/paritaria-oficial-cuanto-ganan-los-camioneros-en-octubre-2026-tras-el-aumento-confirmado-nid07102026/",
-     "domain": "La Nación",
-     "seendate": "20261019T105428Z"
-    },
-    {
-     "title": "Paritaria con aumento: cuánto gana el personal de la Policía Federal Argentina en octubre 2026",
-     "url": "https://www.lanacion.com.ar/economia/paritaria-con-aumento-cuanto-gana-el-personal-de-la-policia-federal-argentina-en-octubre-2026-nid07102026/",
-     "domain": "La Nación",
-     "seendate": "20261019T105426Z"
     }
    ]
   },
   "URY": {
    "articles": [
+    {
+     "title": "El Frente Amplio comenzará a debatir la posibilidad de crear el impuesto al 1 % más rico",
+     "url": "https://www.subrayado.com.uy/el-frente-amplio-comenzara-debatir-la-posibilidad-crear-el-impuesto-al-1-mas-rico-n1021168",
+     "domain": "subrayado.com.uy",
+     "seendate": "20261019T134500Z"
+    },
+    {
+     "title": "Clima en Uruguay hoy : lo que hay que saber , según Inumet , para este lunes 19 de octubre",
+     "url": "https://www.elobservador.com.uy/nacional/clima-uruguay-hoy-lo-que-hay-que-saber-segun-inumet-este-lunes-19-octubre-n6060907",
+     "domain": "elobservador.com.uy",
+     "seendate": "20261019T131500Z"
+    },
+    {
+     "title": "Feriado no laborable del lunes 19 de octubre : ¿ Quiénes tienen fin de semana largo en Uruguay ?",
+     "url": "https://www.elobservador.com.uy/nacional/feriado-no-laborable-del-lunes-19-octubre-quienes-tienen-fin-semana-largo-uruguay-n6060641",
+     "domain": "elobservador.com.uy",
+     "seendate": "20261019T131500Z"
+    },
     {
      "title": "Saturación de autos en el puerto lleva a la ANP a usar predio de AFE",
      "url": "https://www.elpais.com.uy/maritimas/saturacion-de-autos-en-el-puerto-lleva-a-la-anp-a-usar-predio-de-afe",
@@ -3009,40 +2961,28 @@
      "url": "https://www.elpais.com.uy/opinion/columnistas/la-propuesta-y-la-encuesta",
      "domain": "elpais.com.uy",
      "seendate": "20261018T064500Z"
-    },
-    {
-     "title": "Nada de extremos",
-     "url": "https://www.elpais.com.uy/opinion/columnistas/nada-de-extremos",
-     "domain": "elpais.com.uy",
-     "seendate": "20261018T064500Z"
-    },
-    {
-     "title": "Los hermanos Azambuja sean unidos : son de Salto , Danubio les dio la chance y el fútbol los hace soñar en grande",
-     "url": "https://www.elpais.com.uy/ovacion/futbol/los-hermanos-azambuja-sean-unidos-son-de-salto-danubio-les-dio-la-chance-y-el-futbol-los-hace-sonar-en-grande",
-     "domain": "elpais.com.uy",
-     "seendate": "20261018T064500Z"
-    },
-    {
-     "title": "Uruguay y Argentina jugarán un amistoso el 13 de noviembre",
-     "url": "https://www.diariocambio.com.uy/uruguay-y-argentina-jugaran-un-amistoso-el-13-de-noviembre",
-     "domain": "diariocambio.com.uy",
-     "seendate": "20261018T030000Z"
     }
    ]
   },
   "PRY": {
    "articles": [
     {
-     "title": "Mujeres indígenas reclaman tierras y derechos en Paraguay",
-     "url": "https://www.abc.com.py/nacionales/2026/10/19/mujeres-indigenas-reclaman-tierras-y-derechos-en-paraguay/",
+     "title": "Título falso de Hernán Rivas: imputan al exrector de la Universidad Sudamericana",
+     "url": "https://www.abc.com.py/nacionales/2026/10/19/titulo-falso-de-hernan-rivas-imputan-a-exrector-de-la-universidad-sudamericana/",
      "domain": "ABC Color",
-     "seendate": "20261019T115355Z"
+     "seendate": "20261019T135857Z"
     },
     {
-     "title": "Asesinato de Guillermo Moral: Fiscalía pide sobreseimiento del presunto financista",
-     "url": "https://www.abc.com.py/nacionales/2026/10/18/asesinato-de-guillermo-moral-fiscalia-pide-sobreseimiento-del-presunto-financista/",
+     "title": "Yamil Esgaib ratifica su permanencia en Honor Colorado pero no descarta alianzas independientes",
+     "url": "https://www.abc.com.py/nacionales/2026/10/19/yamil-esgaib-ratifica-su-permanencia-en-honor-colorado-pero-no-descarta-alianzas-independientes/",
      "domain": "ABC Color",
-     "seendate": "20261018T174458Z"
+     "seendate": "20261019T134009Z"
+    },
+    {
+     "title": "Especial Octubre Rosa: historias de resistencia, duelo y abandono estatal",
+     "url": "https://www.abc.com.py/nacionales/2026/10/19/especial-octubre-rosa-historias-de-resistencia-duelo-y-abandono-estatal/",
+     "domain": "ABC Color",
+     "seendate": "20261019T090000Z"
     }
    ]
   },
@@ -3051,6 +2991,96 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "Janones é internado em SP com arritmia cardíaca",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/19/janones-e-internado-em-sp-com-arritmia-cardiaca.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261019T140132Z"
+    },
+    {
+     "title": "PF faz operação que mira em ex-servidor do STJ suspeito de passar informações a advogado amigo de Flávio Bolsonaro",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/19/pf-faz-operacao-que-mira-em-ex-servidor-do-stj-suspeito-de-passar-informacoes-a-advogado-amigo-de-flavio-bolsonaro.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261019T134746Z"
+    },
+    {
+     "title": "Criança de 8 anos atacada por onça em terra indígena no Pará está em estado grave; animal foi sacrificado",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/19/crianca-de-8-anos-atacada-por-onca-em-terra-indigena-no-para-esta-em-estado-grave-animal-foi-sacrificado.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261019T133301Z"
+    },
+    {
+     "title": "Jornal argentino repercute debate entre Lula e Flávio Bolsonaro, com troca de acusações e provocações sobre Milei",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/19/jornal-argentino-repercute-debate-entre-lula-e-flavio-bolsonaro-com-troca-de-acusacoes-e-provocacoes-sobre-milei.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261019T133231Z"
+    },
+    {
+     "title": "Na última semana de campanha, Lula e Flávio percorrem o país e concentram últimos atos em SP, MG e RJ",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/19/na-ultima-semana-de-campanha-lula-e-flavio-percorrem-o-pais-e-concentram-ultimos-atos-em-sp-mg-e-rj.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261019T131912Z"
+    },
+    {
+     "title": "Lula foi mais votado em primeiro turno na maioria das seções eleitorais que TSE mudou de endereço para o segundo turno",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/19/lula-foi-mais-votado-em-primeiro-turno-na-maioria-das-secoes-eleitorais-que-tse-mudou-de-endereco-para-o-segundo-turno.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261019T131334Z"
+    },
+    {
+     "title": "Campanha de Flávio vê postura agressiva como ponto negativo em debate; equipe de Lula aponta falta de propostas e aspecto de 'cansado' do petista",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/19/campanha-de-flavio-ve-postura-agressiva-como-ponto-negativo-em-debate-equipe-de-lula-aponta-falta-de-propostas-e-aspecto-de-cansado-do-petista.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261019T130425Z"
+    },
+    {
+     "title": "Onze pessoas são presas por crimes ambientais envolvendo queimadas no AM",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/19/onze-pessoas-sao-presas-por-crimes-ambientais-envolvendo-queimadas-no-am.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261019T125809Z"
+    },
+    {
+     "title": "Roberta Luchsinger rebate Lula após ser citada durante debate com Flávio Bolsonaro: 'Mentiroso é você'",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/19/roberta-luchsinger-rebate-lula-apos-ser-citada-durante-debate-com-flavio-bolsonaro-mentiroso-e-voce.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261019T125335Z"
+    },
+    {
+     "title": "Quando Felca fará nova publicação? Influenciador anuncia novidade para terça-feira",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/19/quando-felca-fara-nova-publicacao-influenciador-anuncia-novidade-para-terca-feira.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261019T125305Z"
+    },
+    {
+     "title": "Ministro do TSE veta novas postagens de Nikolas e Marçal sobre conteúdos já vetados pela Justiça Eleitoral",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/19/ministro-do-tse-veta-novas-postagens-de-nikolas-e-marcal-sobre-conteudos-ja-vetados-pela-justica-eleitoral.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261019T123210Z"
+    },
+    {
+     "title": "Quem foi melhor no debate da Band: Lula ou Flávio Bolsonaro? Veja notas e avalições dos colunistas do GLOBO",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/19/quem-foi-melhor-no-debate-da-band-lula-ou-flavio-bolsonaro-veja-notas-e-avalicoes-dos-colunistas-do-globo.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261019T122014Z"
+    },
+    {
+     "title": "Ainda dá para assistir ao debate da Band? Veja confronto entre Lula e Flávio Bolsonaro na íntegra",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/19/ainda-da-para-assistir-ao-debate-da-band-veja-confronto-entre-lula-e-flavio-bolsonaro-na-integra.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261019T121751Z"
+    },
+    {
+     "title": "O primeiro duelo",
+     "url": "https://oglobo.globo.com/politica/thomas-traumann/coluna/2026/10/o-primeiro-duelo.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261019T120000Z"
+    },
+    {
+     "title": "Quem é Marcelo Aguiar, deputado do PL e cantor sertanejo gospel detido após disparo de arma em SP",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/19/quem-e-marcelo-aguiar-deputado-e-cantor-sertanejo-gospel-levado-a-delegacia-apos-disparo-de-arma-em-sp.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261019T115907Z"
+    },
     {
      "title": "'Bolsonaro, vote em mim', diz Lula no debate da Band: preso, o ex-presidente pode votar?",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/19/bolsonaro-vote-em-mim-diz-lula-no-debate-da-band-preso-o-ex-presidente-pode-votar.ghtml",
@@ -3064,7 +3094,7 @@
      "seendate": "20261019T113923Z"
     },
     {
-     "title": "TSE dá 24 horas para Meta comprovar que não há favorecimento a candidatos",
+     "title": "TSE dá 24 horas pra Meta comprovar medidas para garantir igualdade entre campanhas de Lula e Flávio",
      "url": "https://oglobo.globo.com/politica/noticia/2026/10/19/tse-da-24-horas-para-meta-comprovar-que-nao-ha-favorecimento-a-candidatos.ghtml",
      "domain": "O Globo",
      "seendate": "20261019T113705Z"
@@ -3104,66 +3134,6 @@
      "url": "https://oglobo.globo.com/brasil/guia/turista-alemao-de-66-anos-morre-afogado-na-praia-do-porto-da-barra-em-salvador.ghtml",
      "domain": "O Globo",
      "seendate": "20261019T094908Z"
-    },
-    {
-     "title": "Cortes, hashtags e trends: 'Exército do Lula' e 'Tropa do Flávio' norteiam atuação de apoiadores durante debate da Band",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/19/cortes-hashtags-e-trends-exercito-do-lula-e-tropa-do-flavio-norteiam-atuacao-de-apoiadores-durante-debate-da-band.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261019T090044Z"
-    },
-    {
-     "title": "Flávio vai manter foco sobre ‘amiga do Lulinha’ para desgastar Lula, que aposta em ‘tesouraço’ em resposta a adversário",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/19/flavio-vai-manter-foco-sobre-amiga-do-lulinha-para-desgastar-lula-que-aposta-em-tesouraco-em-resposta-a-adversario.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261019T090001Z"
-    },
-    {
-     "title": "Felca anuncia retorno às redes sociais após sete meses afastado: 'Me escondi por tempo demais'",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/19/felca-anuncia-retorno-as-redes-sociais-apos-sete-meses-afastado-me-escondi-por-tempo-demais.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261019T070000Z"
-    },
-    {
-     "title": "Lula e Flávio tentam ocupar terreno do adversário em debate com confrontos sobre endividamento, direitos trabalhistas e segurança",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/19/lula-e-flavio-tentam-ocupar-terreno-do-adversario-em-debate-com-confrontos-sobre-endividamento-direitos-trabalhistas-e-seguranca.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261019T063001Z"
-    },
-    {
-     "title": "Debate da Band: Flávio treinou aparições atrás de Lula com marqueteiro para produzir cortes para as redes",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/19/debate-da-band-flavio-treinou-aparicoes-atras-de-lula-com-marqueteiro-para-produzir-cortes-para-as-redes.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261019T063001Z"
-    },
-    {
-     "title": "Da irritação de Sidônio com Flávio à camisa 'eu prendi o Lula' de Deltan: os detalhes do debate da Band que você não viu",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/19/da-irritacao-de-sidonio-com-flavio-a-camisa-eu-prendi-o-lula-de-deltan-os-detalhes-do-debate-da-band-que-voce-nao-viu.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261019T063000Z"
-    },
-    {
-     "title": "Códigos de socorro: especialistas defendem ensino de sinais de ajuda desde a primeira infância e preparo da sociedade",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/19/codigos-de-socorro-especialistas-defendem-ensino-de-sinais-de-ajuda-desde-a-primeira-infancia-e-preparo-da-sociedade.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261019T063000Z"
-    },
-    {
-     "title": "Vorcaro, fraude no INSS, 'sinais de mentira': o debate entre Flávio Bolsonaro e Lula na Band em cinco pontos",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/19/vorcaro-fraude-no-inss-sinais-de-mentira-o-debate-entre-flavio-bolsonaro-e-lula-na-band-em-cinco-pontos.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261019T063000Z"
-    },
-    {
-     "title": "Saldo democrático",
-     "url": "https://oglobo.globo.com/brasil/antonio-gois/coluna/2026/10/saldo-democratico.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261019T063000Z"
-    },
-    {
-     "title": "Debate esvaziado de propostas reforça tom de campanha marcada por troca de acusações entre Flávio e Lula",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/19/debate-esvaziado-de-propostas-reforca-tom-de-campanha-marcada-por-troca-de-acusacoes-entre-flavio-e-lula.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261019T040000Z"
     }
    ]
   }
