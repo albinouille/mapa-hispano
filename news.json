@@ -1,13 +1,19 @@
 {
- "updated": "2026-10-19T06:05:54+00:00",
+ "updated": "2026-10-19T07:27:28+00:00",
  "countries": {
   "ESP": {
    "articles": [
     {
-     "title": "La máxima alerta en Gandia y Dénia por las lluvias torrenciales y las inundaciones activa a la UME",
+     "title": "La Generalitat pide a la población de las comarcas de Gandia y Dénia que se confine en casa por las lluvias torrenciales e inundaciones",
      "url": "https://elpais.com/espana/comunidad-valenciana/2026-10-19/maxima-alerta-en-gandia-y-denia-por-las-lluvias-torrenciales-y-las-inundaciones-que-activa-a-la-ume.html",
      "domain": "El País",
-     "seendate": "20261019T054309Z"
+     "seendate": "20261019T065408Z"
+    },
+    {
+     "title": "El dueño de Plus Ultra, ante el juez sobre la supuesta comisión a Zapatero: “Pagamos el 1% ante la duda”",
+     "url": "https://elpais.com/espana/2026-10-19/el-dueno-de-plus-ultra-dice-al-juez-que-pagaron-al-grupo-zapatero-antes-de-saber-si-les-ayudarian.html",
+     "domain": "El País",
+     "seendate": "20261019T061312Z"
     },
     {
      "title": "El Gobierno arranca los “martes sociales” con un decreto para mejorar las prestaciones por viudedad, incapacidad, para víctimas del terrorismo y de violencia de género",
@@ -22,14 +28,14 @@
      "seendate": "20261019T033001Z"
     },
     {
-     "title": "El hospital de Ceuta remite al juez una veintena de partes de lesiones de inmigrantes que dicen haber sido agredidos por militares",
-     "url": "https://elpais.com/espana/2026-10-19/el-hospital-de-ceuta-remite-al-juez-una-veintena-de-partes-de-lesiones-de-inmigrantes-que-dicen-haber-sido-agredidos-por-militares.html",
+     "title": "Las izquierdas buscan impedir la reforma de la Constitución",
+     "url": "https://elpais.com/espana/2026-10-19/las-izquierdas-buscan-impedir-la-reforma-de-la-constitucion.html",
      "domain": "El País",
      "seendate": "20261019T033001Z"
     },
     {
-     "title": "El dueño de Plus Ultra dice al juez que pagaron al “grupo Zapatero” antes de saber si les ayudarían",
-     "url": "https://elpais.com/espana/2026-10-19/el-dueno-de-plus-ultra-dice-al-juez-que-pagaron-al-grupo-zapatero-antes-de-saber-si-les-ayudarian.html",
+     "title": "El hospital de Ceuta remite al juez una veintena de partes de lesiones de inmigrantes que dicen haber sido agredidos por militares",
+     "url": "https://elpais.com/espana/2026-10-19/el-hospital-de-ceuta-remite-al-juez-una-veintena-de-partes-de-lesiones-de-inmigrantes-que-dicen-haber-sido-agredidos-por-militares.html",
      "domain": "El País",
      "seendate": "20261019T033001Z"
     },
@@ -46,8 +52,8 @@
      "seendate": "20261019T033001Z"
     },
     {
-     "title": "Las izquierdas buscan impedir la reforma de la Constitución",
-     "url": "https://elpais.com/espana/2026-10-19/las-izquierdas-buscan-impedir-la-reforma-de-la-constitucion.html",
+     "title": "La desaparición del centro",
+     "url": "https://elpais.com/espana/catalunya/2026-10-19/la-desaparicion-del-centro.html",
      "domain": "El País",
      "seendate": "20261019T033001Z"
     },
@@ -82,6 +88,12 @@
      "seendate": "20261019T033001Z"
     },
     {
+     "title": "¿Una obra de arte o una ruina contemporánea?",
+     "url": "https://elpais.com/espana/madrid/2026-10-19/una-obra-de-arte-o-una-ruina-contemporanea.html",
+     "domain": "El País",
+     "seendate": "20261019T033001Z"
+    },
+    {
      "title": "El turismo de nieve busca trabajadores en un Pirineo con viviendas cada vez más caras",
      "url": "https://elpais.com/espana/catalunya/2026-10-19/el-turismo-de-nieve-busca-trabajadores-en-un-pirineo-con-la-vivienda-cada-vez-mas-tensionada.html",
      "domain": "El País",
@@ -90,12 +102,6 @@
     {
      "title": "Profesores de secundaria: “Se está regalando el C1 de catalán a alumnos que no tienen el nivel”",
      "url": "https://elpais.com/espana/catalunya/2026-10-19/profesores-de-secundaria-se-esta-regalando-el-c1-de-catalan-a-alumnos-que-no-tienen-el-nivel.html",
-     "domain": "El País",
-     "seendate": "20261019T033001Z"
-    },
-    {
-     "title": "¿Una obra de arte o una ruina contemporánea?",
-     "url": "https://elpais.com/espana/madrid/2026-10-19/una-obra-de-arte-o-una-ruina-contemporanea.html",
      "domain": "El País",
      "seendate": "20261019T033001Z"
     },
@@ -124,12 +130,6 @@
      "seendate": "20261018T110000Z"
     },
     {
-     "title": "Ayuso y Vox aparcan de golpe su guerra en Madrid",
-     "url": "https://elpais.com/espana/madrid/2026-10-18/ayuso-y-vox-aparcan-de-golpe-su-guerra-en-madrid.html",
-     "domain": "El País",
-     "seendate": "20261018T033001Z"
-    },
-    {
      "title": "Aitor Esteban: “Nadie ha demostrado más con hechos que no queremos a Vox”",
      "url": "https://elpais.com/espana/elecciones-generales/2026-10-18/aitor-esteban-nadie-ha-demostrado-mas-con-hechos-que-no-queremos-a-vox.html",
      "domain": "El País",
@@ -145,6 +145,48 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "No somos un problema de seguridad nacional: musulmanas",
+     "url": "https://www.eluniversal.com.mx/nacion/no-somos-un-problema-de-seguridad-nacional-musulmanas/",
+     "domain": "El Universal",
+     "seendate": "20261019T071000Z"
+    },
+    {
+     "title": "Agentes de la CIA “operaron armados en Chihuahua”; expediente señala que participaron en despliegue táctico",
+     "url": "https://www.eluniversal.com.mx/nacion/agentes-de-la-cia-operaron-armados-en-chihuahua-expediente-senala-que-participaron-en-despliegue-tactico/",
+     "domain": "El Universal",
+     "seendate": "20261019T070000Z"
+    },
+    {
+     "title": "Extorsión, un delito que no se logra disminuir; especialistas alertan que persiste desde las cárceles",
+     "url": "https://www.eluniversal.com.mx/nacion/extorsion-un-delito-que-no-se-logra-disminuir-especialistas-alertan-que-persiste-desde-las-carceles/",
+     "domain": "El Universal",
+     "seendate": "20261019T070000Z"
+    },
+    {
+     "title": "Mujeres marchan en defensa de la paridad",
+     "url": "https://www.eluniversal.com.mx/estados/mujeres-marchan-en-defensa-de-la-paridad/",
+     "domain": "El Universal",
+     "seendate": "20261019T065604Z"
+    },
+    {
+     "title": "Capullos Renace redefine la atención a la infancia",
+     "url": "https://www.eluniversal.com.mx/estados/capullos-renace-redefine-la-atencion-a-la-infancia/",
+     "domain": "El Universal",
+     "seendate": "20261019T064641Z"
+    },
+    {
+     "title": "Asesinan a aspirante de Morena a la alcaldía de Cuajinicuilapa",
+     "url": "https://www.eluniversal.com.mx/estados/asesinan-a-aspirante-de-morena-a-la-alcaldia-de-cuajinicuilapa/",
+     "domain": "El Universal",
+     "seendate": "20261019T063313Z"
+    },
+    {
+     "title": "Salen miles, de nuevo, a exigir agua limpia",
+     "url": "https://www.eluniversal.com.mx/estados/salen-miles-de-nuevo-a-exigir-agua-limpia/",
+     "domain": "El Universal",
+     "seendate": "20261019T062518Z"
+    },
     {
      "title": "Huracán Trudy se debilita a categoría 1 frente al Pacífico mexicano; mantiene riesgo de lluvias fuertes en 3 estados",
      "url": "https://www.eluniversal.com.mx/estados/huracan-trudy-se-debilita-a-categoria-1-frente-al-pacifico-mexicano-mantiene-riesgo-de-lluvias-fuertes-en-3-estados/",
@@ -344,64 +386,10 @@
      "seendate": "20261018T195517Z"
     },
     {
-     "title": "Anticorrupción da golpe a factureras; va contra siete proveedores de certificación de operaciones simuladas",
-     "url": "https://www.eluniversal.com.mx/nacion/anticorrupcion-da-golpe-a-factureras-va-contra-siete-proveedores-de-certificacion-de-operaciones-simuladas/",
-     "domain": "El Universal",
-     "seendate": "20261018T194103Z"
-    },
-    {
      "title": "Detienen a dos personas por presunto fraude con créditos de tiendas departamentales; operaban en seis entidades, reportan",
      "url": "https://www.eluniversal.com.mx/metropoli/detienen-a-dos-personas-por-presunto-fraude-con-creditos-de-tiendas-departamentales-operaban-en-seis-entidades/",
      "domain": "El Universal",
      "seendate": "20261018T193814Z"
-    },
-    {
-     "title": "Suspenden tres fiestas clandestinas en Coyoacán; alcaldía detecta presencia de menores de edad",
-     "url": "https://www.eluniversal.com.mx/metropoli/desalojan-a-jovenes-de-tres-fiestas-clandestinas-en-coyoacan-detectan-presencia-de-menores-y-falta-de-permisos/",
-     "domain": "El Universal",
-     "seendate": "20261018T191709Z"
-    },
-    {
-     "title": "Vinculan a proceso a Hugo Gabriel “N”; es acusado de participar en extorsión agravada",
-     "url": "https://www.eluniversal.com.mx/metropoli/vinculan-a-proceso-a-hugo-gabriel-n-es-acusado-de-participar-en-extorsion-agravada/",
-     "domain": "El Universal",
-     "seendate": "20261018T190305Z"
-    },
-    {
-     "title": "Legado conquista la Feria del Alfeñique 2026 en Toluca; L&G Entertainment presenta el sencillo “Sinvergüenza”",
-     "url": "https://www.eluniversal.com.mx/metropoli/legado-conquista-la-feria-del-alfenique-2026-en-toluca-lg-entertainment-presenta-el-sencillo-sinverguenza/",
-     "domain": "El Universal",
-     "seendate": "20261018T185016Z"
-    },
-    {
-     "title": "Llama Iglesia a fomentar respeto en redes sociales; \"la fe no necesita del odio para ser defendida\", expresa",
-     "url": "https://www.eluniversal.com.mx/nacion/llama-iglesia-a-fomentar-respeto-en-redes-sociales-la-fe-no-necesita-del-odio-para-ser-defendida-expresa/",
-     "domain": "El Universal",
-     "seendate": "20261018T184718Z"
-    },
-    {
-     "title": "Petardos y disturbios frenan marcha por el agua limpia en Guadalajara; manifestantes exigen una protesta pacífica",
-     "url": "https://www.eluniversal.com.mx/estados/petardos-y-disturbios-frenan-marcha-por-el-agua-limpia-en-guadalajara-manifestantes-exigen-una-protesta-pacifica/",
-     "domain": "El Universal",
-     "seendate": "20261018T184210Z"
-    },
-    {
-     "title": "Caso AXE Ceremonia: piden vincular a proceso a tres empresas y siete personas por muerte de Miguel Ángel; familia denuncia presiones para aceptar acuerdo",
-     "url": "https://www.eluniversal.com.mx/metropoli/caso-axe-ceremonia-buscan-vincular-a-proceso-a-tres-empresas-y-siete-personas-por-muerte-de-miguel-angel-familia-denuncia-presiones-para-aceptar-acuerdo/",
-     "domain": "El Universal",
-     "seendate": "20261018T183107Z"
-    },
-    {
-     "title": "Además de César Jáuregui, ¿quién es el otro señalado por el caso de la CIA?; está prófugo por falsedad ante autoridades",
-     "url": "https://www.eluniversal.com.mx/nacion/ademas-de-cesar-jauregui-quien-es-el-otro-senalado-por-el-caso-de-la-cia-esta-profugo-por-falsedad-ante-autoridades/",
-     "domain": "El Universal",
-     "seendate": "20261018T180528Z"
-    },
-    {
-     "title": "Partidos burlan ley electoral y anticipan campañas en CDMX; figura de “coordinadores”, sin regulación",
-     "url": "https://www.eluniversal.com.mx/metropoli/partidos-burlan-ley-electoral-y-anticipan-campanas/",
-     "domain": "El Universal",
-     "seendate": "20261018T094546Z"
     },
     {
      "title": "“BTS en Palacio Nacional fue una herramienta de diplomacia cultural”: Lucía Sánchez; politóloga estudia el “poder suave” de Corea",
@@ -838,6 +826,12 @@
   "CRI": {
    "articles": [
     {
+     "title": "CCSS evalúa utilizar las terapias GLP-1 para tratar la obesidad. Conozca cómo funcionan estos medicamentos y cuánto peso se puede perder",
+     "url": "https://www.nacion.com/el-pais/ccss-evalua-utilizar-las-terapias-glp-1-para/OLF3JU4VJVGG5GDSDG3YEFW4JE/story/",
+     "domain": "La Nación",
+     "seendate": "20261019T070000Z"
+    },
+    {
      "title": "Lotería Nacional de Costa Rica: Esta es la lista completa de ganadores y premios del sorteo N.º 4.923 de este domingo 18 de octubre",
      "url": "https://www.nacion.com/el-pais/loteria-nacional-de-costa-rica-esta-es-la-lista/4ZC6LHRWARCSPNMASZGN755B2I/story/",
      "domain": "La Nación",
@@ -992,12 +986,6 @@
      "url": "https://www.nacion.com/sucesos/la-cahuita-que-quedo-tras-la-caida-de-pecho-de/5V7HICK6ZRHFVNW3SXR6F2RUQQ/story/",
      "domain": "La Nación",
      "seendate": "20261018T070000Z"
-    },
-    {
-     "title": "Femicidio de madre e hija en Liberia: vecina narra que antes de cometer el crímen sospechoso habría pagado para que las asesinaran",
-     "url": "https://www.nacion.com/sucesos/femicidio-de-madre-e-hija-en-liberia-vecina-narra/KMVGPDGN6VBJDLVSSICQH5GWR4/story/",
-     "domain": "La Nación",
-     "seendate": "20261018T043808Z"
     }
    ]
   },
@@ -1319,16 +1307,40 @@
   "VEN": {
    "articles": [
     {
-     "title": "Plataforma Unitaria presentó el Acuerdo Nacional para la transición y recuperación de Venezuela",
-     "url": "https://lapatilla.com/2026/10/18/plataforma-unitaria-presento-el-acuerdo-nacional-para-la-transicion-y-recuperacion-de-venezuela/",
-     "domain": "lapatilla.com",
-     "seendate": "20261019T044500Z"
+     "title": "Portuguesa destacó masiva participación en segunda Consulta Nacional",
+     "url": "https://www.globovision.com/sociedad/63324/con-masiva-participacion-y-alegria-comunal-portuguesa-destaco-en-la-segunda-consulta-popular",
+     "domain": "globovision.com",
+     "seendate": "20261019T061500Z"
     },
     {
      "title": "Inicio | Periódico CiudadCCS",
-     "url": "https://www.ciudadccs.info/publicacion/52159-magallanes-en-plena-debacle-persigue-el-record-negativo-de-aragua",
+     "url": "http://www.ciudadccs.info/publicacion/52160-presidenta-felicita-al-pueblo-por-participacion-en-la-consulta-popular",
      "domain": "ciudadccs.info",
-     "seendate": "20261019T044500Z"
+     "seendate": "20261019T061500Z"
+    },
+    {
+     "title": "Delcy Rodríguez destaca participación en Consulta Popular 2026",
+     "url": "https://rnv.gob.ve/delcy-rodriguez-consulta-popular-nacional-2026/",
+     "domain": "rnv.gob.ve",
+     "seendate": "20261019T060000Z"
+    },
+    {
+     "title": "Ministro de la Comuna califica como",
+     "url": "https://www.eluniversal.com/politica/243510/ministro-de-la-comuna-califica-como-exitosa-la-consulta-popular-del-domingo",
+     "domain": "eluniversal.com",
+     "seendate": "20261019T054500Z"
+    },
+    {
+     "title": "Presidenta garantiza fondos para proyectos tras masiva participación ciudadana en consulta nacional",
+     "url": "https://avn.info.ve/presidenta-garantiza-fondos-para-proyectos-tras-masiva-participacion-ciudadana-en-consulta-nacional/",
+     "domain": "avn.info.ve",
+     "seendate": "20261019T054500Z"
+    },
+    {
+     "title": "Asunto principal : N° FP11 - M - 2026 - 000010 – Correo del Caroní",
+     "url": "https://correodelcaroni.com/anuncios/publicidad/asunto-principal-n-fp11-m-2026-000010/",
+     "domain": "correodelcaroni.com",
+     "seendate": "20261019T054500Z"
     },
     {
      "title": "El entramado de Jorge Giménez , el protegido de Delcy Rodríguez",
@@ -1351,6 +1363,12 @@
     {
      "title": "María Corina Machado calificó de histórico el Acuerdo Nacional para la reconstrucción de Venezuela",
      "url": "https://lapatilla.com/2026/10/18/maria-corina-machado-califico-de-historico-el-acuerdo-nacional-para-la-reconstruccion-de-venezuela/",
+     "domain": "lapatilla.com",
+     "seendate": "20261019T044500Z"
+    },
+    {
+     "title": "Plataforma Unitaria presentó el Acuerdo Nacional para la transición y recuperación de Venezuela",
+     "url": "https://lapatilla.com/2026/10/18/plataforma-unitaria-presento-el-acuerdo-nacional-para-la-transicion-y-recuperacion-de-venezuela/",
      "domain": "lapatilla.com",
      "seendate": "20261019T044500Z"
     },
@@ -1495,18 +1513,6 @@
     {
      "title": "Hallan sin vida al cantante y compositor venezolano Gus Ormo",
      "url": "https://www.el-carabobeno.com/hallan-sin-vida-al-cantante-y-compositor-venezolano-gus-ormo/",
-     "domain": "el-carabobeno.com",
-     "seendate": "20261018T204500Z"
-    },
-    {
-     "title": "Bancamiga culmina 2 . ª edición de creativo programa La Imagen y La Palabra",
-     "url": "https://www.informe21.com/post/bancamiga-culmina-2-%C2%AA-edici%C3%B3n-de-creativo-programa-la-imagen-y-la-palabra",
-     "domain": "informe21.com",
-     "seendate": "20261018T204500Z"
-    },
-    {
-     "title": "Incendio en Galerías Los Naranjos fue provocado por falla eléctrica",
-     "url": "https://www.el-carabobeno.com/incendio-en-cc-galerias-los-naranjos-fue-provocado-por-una-falla-electrica/",
      "domain": "el-carabobeno.com",
      "seendate": "20261018T204500Z"
     }
@@ -2275,16 +2281,16 @@
   "ARG": {
    "articles": [
     {
+     "title": "Javier Milei y sus medidas, EN VIVO: “La casta, la alta política, los empresaurios y los periodistas no son muy distintos”",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-casta-la-alta-politica-los-empresaurios-y-los-periodistas-no-nid19102026/",
+     "domain": "La Nación",
+     "seendate": "20261019T064510Z"
+    },
+    {
      "title": "Boom a China: anticipan la exportación de 1,7 millones de toneladas de un cultivo argentino que caerá muy fuerte en dos potencias",
      "url": "https://www.lanacion.com.ar/economia/campo/boom-a-china-anticipan-la-exportacion-de-17-millones-de-toneladas-de-un-cultivo-argentino-que-caera-nid19102026/",
      "domain": "La Nación",
      "seendate": "20261019T060000Z"
-    },
-    {
-     "title": "Javier Milei y sus medidas, EN VIVO: “La casta, la alta política, los empresaurios y los periodistas no son muy distintos”",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-casta-la-alta-politica-los-empresaurios-y-los-periodistas-no-nid19102026/",
-     "domain": "La Nación",
-     "seendate": "20261019T054012Z"
     },
     {
      "title": "Cuándo hay que hacerse una mamografía si hay antecedentes familiares de cáncer de mama",
@@ -2299,7 +2305,7 @@
      "seendate": "20261019T044207Z"
     },
     {
-     "title": "Sólo en Off: Patricia Bullrich entrena para mejorar su derecha y apunta directo al gran slam de 2027",
+     "title": "Sólo en Off: Patricia Bullrich entrena para mejorar su derecha y apunta directo al grand slam de 2027",
      "url": "https://www.lanacion.com.ar/politica/solo-en-off-patricia-bullrich-entrena-para-mejorar-su-derecha-y-apunta-directo-al-gran-slam-de-2027-nid19102026/",
      "domain": "La Nación",
      "seendate": "20261019T030500Z"
@@ -2435,18 +2441,6 @@
      "url": "https://www.lanacion.com.ar/politica/el-reino-unido-analiza-bloquear-el-ingreso-argentino-a-la-ocde-y-el-tipat-y-chile-avanza-con-la-ruta-nid18102026/",
      "domain": "La Nación",
      "seendate": "20261018T204443Z"
-    },
-    {
-     "title": "Valentín Yan: un duro relato que reinstala el foco en la violencia intrafamiliar y el desafío de escuchar a las víctimas",
-     "url": "https://www.lanacion.com.ar/sociedad/valentin-yan-un-duro-relato-que-reinstala-el-foco-en-la-violencia-intrafamiliar-y-el-desafio-de-nid18102026/",
-     "domain": "La Nación",
-     "seendate": "20261018T203108Z"
-    },
-    {
-     "title": "Clínicas privadas anunciaron que suspenderán la atención al PAMI y la obra social dice dialogar para evitarlo",
-     "url": "https://www.lanacion.com.ar/economia/clinicas-privadas-suspenden-la-atencion-a-afiliados-al-pami-que-le-reclaman-a-la-obra-social-y-al-nid18102026/",
-     "domain": "La Nación",
-     "seendate": "20261018T202915Z"
     }
    ]
   },
@@ -2821,18 +2815,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/18/tras-hurto-en-gomeria-de-la-colmena-abandonan-auto-durante-persecucion-en-escobar/",
      "domain": "ABC Color",
      "seendate": "20261019T001254Z"
-    },
-    {
-     "title": "Concepción: Río Paraguay sube 9 centímetros, pero no se reportan inundaciones",
-     "url": "https://www.abc.com.py/nacionales/2026/10/18/concepcion-rio-paraguay-sube-9-centimetros-pero-no-se-reportan-inundaciones/",
-     "domain": "ABC Color",
-     "seendate": "20261018T235804Z"
-    },
-    {
-     "title": "Discurso vs. realidad: Cuánto cuestan los funcionarios que metió Luis Bello a la Municipalidad de Asunción",
-     "url": "https://www.abc.com.py/nacionales/2026/10/18/discurso-vs-realidad-cuanto-cuestan-los-funcionarios-que-metio-luis-bello-a-la-municipalidad-de-asuncion/",
-     "domain": "ABC Color",
-     "seendate": "20261018T120000Z"
     }
    ]
   },
