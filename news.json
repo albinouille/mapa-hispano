@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T21:03:50+00:00",
+ "updated": "2026-10-19T21:36:05+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -86,12 +86,6 @@
      "url": "https://elpais.com/espana/comunidad-valenciana/2026-10-19/mapas-y-graficos-de-las-inundaciones-en-valencia-y-hacia-donde-se-dirige-la-tormenta.html",
      "domain": "El País",
      "seendate": "20261019T133047Z"
-    },
-    {
-     "title": "El Supremo establece que los centros de acogida no pueden expulsar a los inmigrantes sin permiso de la Administración",
-     "url": "https://elpais.com/espana/2026-10-19/el-supremo-establece-que-los-centros-de-acogida-no-pueden-expulsar-a-los-inmigrantes-sin-permiso-de-la-administracion.html",
-     "domain": "El País",
-     "seendate": "20261019T133025Z"
     },
     {
      "title": "Tres detenidos en Almería por la muerte de un disparo en la cabeza de un policía belga",
@@ -187,6 +181,12 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "\"Cooperación con otros países es necesaria, pero debe ser con apego a la ley\"; Maru Campos reacciona a detención de Jáuregui",
+     "url": "https://www.eluniversal.com.mx/nacion/maru-campos-sobre-caso-del-exfiscal-cesar-jauregui-la-cooperacion-con-autoridades-de-otros-paises-es-legitima-y-necesaria-pero-debe-darse-con-apego-a-la-ley/",
+     "domain": "El Universal",
+     "seendate": "20261019T205656Z"
+    },
     {
      "title": "IMSS tiene dos médicos por cada mil usuarios, 44% menos que el ISSSTE; especialista alerta por falta de personal e insumos",
      "url": "https://www.eluniversal.com.mx/nacion/imss-tiene-dos-medicos-por-cada-mil-usuarios-44-menos-que-el-issste-especialista-alerta-por-falta-de-personal-e-insumos/",
@@ -434,36 +434,6 @@
      "seendate": "20261019T162109Z"
     },
     {
-     "title": "Ayuntamiento de Veracruz denuncia a Grupo MAS por presunto fraude; señalan cobros por 2 mil 660 mdp",
-     "url": "https://www.eluniversal.com.mx/estados/ayuntamiento-de-veracruz-denuncia-a-grupo-mas-por-presunto-fraude-senalan-cobros-por-2-mil-660-mdp/",
-     "domain": "El Universal",
-     "seendate": "20261019T161433Z"
-    },
-    {
-     "title": "Sheinbaum reconoce trayectoria de Los Tigres del Norte; prepara reconocimiento por los 50 años de la agrupación",
-     "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-reconoce-trayectoria-de-los-tigres-del-norte-prepara-reconocimiento-por-los-50-anos-de-la-agrupacion/",
-     "domain": "El Universal",
-     "seendate": "20261019T160835Z"
-    },
-    {
-     "title": "Becas del Bienestar alcanzan más de 19 millones de estudiantes; apoyo Rita Cetina, la que tiene más beneficiarios",
-     "url": "https://www.eluniversal.com.mx/nacion/becas-del-bienestar-alcanzan-mas-de-19-millones-de-estudiantes-apoyo-rita-cetina-la-que-tiene-mas-beneficiarios/",
-     "domain": "El Universal",
-     "seendate": "20261019T155646Z"
-    },
-    {
-     "title": "CDMX tendrá cinco movilizaciones este lunes; conoce los puntos de concentración y posibles afectaciones viales",
-     "url": "https://www.eluniversal.com.mx/metropoli/cdmx-tendra-cinco-movilizaciones-este-lunes-conoce-los-puntos-de-concentracion-y-posibles-afectaciones-viales/",
-     "domain": "El Universal",
-     "seendate": "20261019T155625Z"
-    },
-    {
-     "title": "Sheinbaum solicitó a Leonel Cota su renuncia como subsecretario de Agricultura; se lo pedí porque su hijo es coordinador de BCS, dice",
-     "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-solicito-a-leonel-cota-su-renuncia-como-subsecretario-de-agricultura-se-lo-pedi-porque-su-hijo-es-coordinador-de-bcs-dice/",
-     "domain": "El Universal",
-     "seendate": "20261019T154521Z"
-    },
-    {
      "title": "Unión Internacional de Magistrados expulsa a la CONATRIB por avalar reforma judicial; ve contrariedad en apoliticidad del estatuto",
      "url": "https://www.eluniversal.com.mx/nacion/union-internacional-de-magistrados-expulsa-a-la-conatrib-por-avalar-reforma-judicial-ve-contrariedad-en-apoliticidad-del-estatuto/",
      "domain": "El Universal",
@@ -567,6 +537,18 @@
   },
   "HND": {
    "articles": [
+    {
+     "title": "Tomás Zambrano anuncia reformas para endurecer penas contra maras y pandillas y construir una nueva cárcel",
+     "url": "https://abriendobrecha.tv/politica/tomas-zambrano-anuncia-reformas-para-endurecer-penas-contra-maras-y-pandillas-y-construir-una-nueva-carcel/",
+     "domain": "abriendobrecha.tv",
+     "seendate": "20261019T204500Z"
+    },
+    {
+     "title": "Gabriela Castellanos advierte que replicar el modelo Bukele en Honduras pone en riesgo la democracia y el Estado de derecho",
+     "url": "https://abriendobrecha.tv/nacionales/gabriela-castellanos-advierte-que-replicar-el-modelo-bukele-en-honduras-pone-en-riesgo-la-democracia-y-el-estado-de-derecho/",
+     "domain": "abriendobrecha.tv",
+     "seendate": "20261019T204500Z"
+    },
     {
      "title": "Reducción de edad punible en Honduras : ¿ está en la agenda de la CSJ ?",
      "url": "https://www.laprensa.hn/honduras/reducir-edad-punible-agenda-corte-suprema-justicia-reformas-penales-HE32366735",
@@ -1042,6 +1024,18 @@
   "CRI": {
    "articles": [
     {
+     "title": "Siete directivos de Asosejud obtuvieron créditos por ¢1.034 millones, la mayoría con tasas ‘ajenas a la realidad’ entre 1,5% y 4%, señala Juzgado",
+     "url": "https://www.nacion.com/sucesos/siete-directivos-de-asosejud-obtuvieron-creditos/M772OBR6OZDVXJ4JZBCME574AA/story/",
+     "domain": "La Nación",
+     "seendate": "20261019T211941Z"
+    },
+    {
+     "title": "Así reaccionó el ministro Rodrigo Chaves a la reelección de Carlo Díaz como fiscal general",
+     "url": "https://www.nacion.com/politica/asi-reacciono-el-ministro-rodrigo-chaves-a-la/LXVT2UVAEVHMHB5JMV4PLI2UOI/story/",
+     "domain": "La Nación",
+     "seendate": "20261019T210726Z"
+    },
+    {
      "title": "¿Quién es Carlo Díaz? Esta es la trayectoria del fiscal general reelecto por 4 años más",
      "url": "https://www.nacion.com/sucesos/quien-es-carlo-diaz-la-trayectoria-del-fiscal/H2Z6UTDOBZCMFCTNLMZPI5QKXU/story/",
      "domain": "La Nación",
@@ -1220,28 +1214,16 @@
      "url": "https://www.nacion.com/politica/frente-amplio-debatio-el-uso-de-los-conceptos/BWV7XNFEZNBDVHK2U72F5W5LLY/story/",
      "domain": "La Nación",
      "seendate": "20261018T210133Z"
-    },
-    {
-     "title": "Frente Amplio reconoce su debilidad en las provincias costeras: ‘Una tarea pendiente es lograr mayor representación’",
-     "url": "https://www.nacion.com/politica/frente-amplio-reconoce-su-debilidad-en-las/PMLNKAVTGJEVVNHT52DE5MYHW4/story/",
-     "domain": "La Nación",
-     "seendate": "20261018T204422Z"
-    },
-    {
-     "title": "Tormentas eléctricas y fuertes lluvias: IMN señala dónde hay mayor afectación este domingo",
-     "url": "https://www.nacion.com/sucesos/tormentas-electricas-y-fuertes-lluvias-imn-senala/H7FMLAN7ZRFMBGW2BNLE5MSLSQ/story/",
-     "domain": "La Nación",
-     "seendate": "20261018T203549Z"
     }
    ]
   },
   "PAN": {
    "articles": [
     {
-     "title": "Minsa confirma que Bebé de dos meses fallece en refugio improvisado en Santiago de Veraguas",
-     "url": "https://www.prensa.com/sociedad/minsa-confirma-que-bebe-de-dos-meses-fallece-en-refugio-improvisado-en-santiago-de-veraguas/",
+     "title": "Confirman caso de hantavirus en Guararé, la paciente está en cuidados intensivos",
+     "url": "https://www.prensa.com/sociedad/confirmado-hantavirus-en-guarare-paciente-esta-en-cuidados-intensivos/",
      "domain": "La Prensa",
-     "seendate": "20261019T203850Z"
+     "seendate": "20261019T211744Z"
     },
     {
      "title": "La fuerza del mar dividió Isla Cañas, así luce ahora",
@@ -1364,18 +1346,6 @@
      "seendate": "20261017T171257Z"
     },
     {
-     "title": "Mina de Remance: estudios advirtieron riesgos antes del derrame",
-     "url": "https://www.prensa.com/sociedad/mina-de-remance-estudios-advirtieron-riesgos-antes-del-derrame/",
-     "domain": "La Prensa",
-     "seendate": "20261017T050500Z"
-    },
-    {
-     "title": "Sin aulas o lejos de casa: las otras heridas del terremoto en Coclé",
-     "url": "https://www.prensa.com/sociedad/sin-aulas-o-lejos-de-casa-las-otras-heridas-del-terremoto-en-cocle/",
-     "domain": "La Prensa",
-     "seendate": "20261017T050000Z"
-    },
-    {
      "title": "Néstor Luque explica por qué siguen las réplicas tras el terremoto en Panamá: qué se sabe sobre las costas, las aguas y las fallas",
      "url": "https://www.prensa.com/sociedad/746-replicas-tras-el-terremoto-en-panama-que-se-sabe-sobre-las-costas-las-aguas-y-las-fallas/",
      "domain": "La Prensa",
@@ -1458,12 +1428,6 @@
      "seendate": "20261017T170807Z"
     },
     {
-     "title": "Llegan a Cuba 750 toneladas de aceite donadas por Rusia, además de alimentos pagados por Japón",
-     "url": "https://www.14ymedio.com/cuba/llegan-cuba-750-toneladas-aceite_1_1132081.html",
-     "domain": "14ymedio",
-     "seendate": "20261017T163859Z"
-    },
-    {
      "title": "La falta de combustible obliga a los tabacaleros holguineros a volver a los bueyes",
      "url": "https://www.14ymedio.com/cuba/falta-combustible-obliga-tabacaleros-holguineros_1_1132078.html",
      "domain": "14ymedio",
@@ -1501,10 +1465,28 @@
   "COL": {
    "articles": [
     {
+     "title": "El rol del exgobernador de San Andrés, Everth Julio Hawkins, en su presunta vinculación con grupo delincuencial 'Las Salsas Mexicanas'",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-rol-del-exgobernador-de-san-andres-everth-julio-hawkins-en-su-presunta-vinculacion-con-grupo-delincuencial-las-salsas-mexicanas-3594701",
+     "domain": "El Tiempo",
+     "seendate": "20261019T210800Z"
+    },
+    {
+     "title": "La CRC llega a Cartagena este jueves 22 de octubre para escuchar a usuarios sobre reformas a reglas en el uso de telefonía, internet y televisión",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/la-crc-llega-a-cartagena-este-jueves-22-de-octubre-para-escuchar-a-usuarios-sobre-reformas-a-reglas-en-el-uso-de-telefonia-internet-y-television-3594720",
+     "domain": "El Tiempo",
+     "seendate": "20261019T210713Z"
+    },
+    {
+     "title": "El desplome de un helicóptero UH-60 Black Hawk del Ejército Nacional en Cauca: reportan el estado preliminar de los 19 ocupantes de la aeronave",
+     "url": "https://www.eltiempo.com/colombia/cali/el-desplome-de-un-helicoptero-black-hawk-del-ejercito-nacional-en-cauca-reportan-estado-preliminar-de-los-19-ocupantes-de-la-aeronave-3594696",
+     "domain": "El Tiempo",
+     "seendate": "20261019T210452Z"
+    },
+    {
      "title": "El alcalde de Inzá pidió ayuda urgente para la atención de los ocupantes del helicóptero UH-60 Black Hawk del Ejército que se cayó en el Cauca",
      "url": "https://www.eltiempo.com/colombia/cali/el-alcalde-de-inza-pidio-ayuda-urgente-para-la-atencion-de-los-ocupantes-del-helicoptero-uh-60-black-hawk-del-ejercito-que-se-cayo-en-el-cauca-3594709",
      "domain": "El Tiempo",
-     "seendate": "20261019T205746Z"
+     "seendate": "20261019T210320Z"
     },
     {
      "title": "Más de 400 personas completan 24 horas confinadas en Linares, Nariño, por enfrentamientos armados: 'Esta es una situación reiterativa'",
@@ -1513,22 +1495,10 @@
      "seendate": "20261019T205431Z"
     },
     {
-     "title": "El rol del exgobernador de San Andrés, Everth Julio Hawkins, en su presunta vinculación con grupo delincuencial 'Las Salsas Mexicanas'",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-rol-del-exgobernador-de-san-andres-everth-julio-hawkins-en-su-presunta-vinculacion-con-grupo-delincuencial-las-salsas-mexicanas-3594701",
-     "domain": "El Tiempo",
-     "seendate": "20261019T205427Z"
-    },
-    {
      "title": "Atención, estudiantes de Bolívar: Prosperidad Social entrega la quinta transferencia de Renta Joven a más de 4.600 beneficiados esta semana",
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/atencion-estudiantes-de-bolivar-prosperidad-social-entrega-la-quinta-transferencia-de-renta-joven-a-mas-de-4-600-beneficiados-esta-semana-3594702",
      "domain": "El Tiempo",
      "seendate": "20261019T204349Z"
-    },
-    {
-     "title": "El desplome de un helicóptero Black Hawk del Ejército Nacional en Cauca: reportan el estado preliminar de los 19 ocupantes de la aeronave",
-     "url": "https://www.eltiempo.com/colombia/cali/el-desplome-de-un-helicoptero-black-hawk-del-ejercito-nacional-en-cauca-reportan-estado-preliminar-de-los-19-ocupantes-de-la-aeronave-3594696",
-     "domain": "El Tiempo",
-     "seendate": "20261019T204036Z"
     },
     {
      "title": "'Las balas van más rápido que las ideas': un senador propone reemplazar el minuto de silencio por un 'abrazo por la vida' en el Congreso",
@@ -1553,12 +1523,6 @@
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/drones-y-ataques-de-disidencias-tienen-atemorizados-a-los-municipios-del-huila-gobernador-pidio-al-gobierno-que-acelere-las-medidas-de-proteccion-3594667",
      "domain": "El Tiempo",
      "seendate": "20261019T184610Z"
-    },
-    {
-     "title": "El Ejército neutraliza la capacidad ofensiva de la 'Jaime Martínez': destruyen depósito con explosivos para drones en Buenaventura",
-     "url": "https://www.eltiempo.com/colombia/cali/el-ejercito-neutraliza-la-capacidad-ofensiva-de-la-jaime-martinez-destruyen-deposito-con-explosivos-para-drones-en-buenaventura-3594668",
-     "domain": "El Tiempo",
-     "seendate": "20261019T183328Z"
     }
    ]
   },
@@ -1893,6 +1857,12 @@
   "ECU": {
    "articles": [
     {
+     "title": "Ejército aprehende a dos ciudadanos y decomisa 110 cartuchos en Morona Santiago",
+     "url": "https://eluniverso.com/politica/seguridad/ejercito-aprehende-a-dos-ciudadanos-y-decomisa-110-cartuchos-en-morona-santiago-nota/",
+     "domain": "El Universo",
+     "seendate": "20261019T213018Z"
+    },
+    {
      "title": "3.427 operaciones contra la minería ilegal dejan un golpe de más de $ 5.000 millones a las mafias",
      "url": "https://eluniverso.com/politica/seguridad/3427-operaciones-contra-la-mineria-ilegal-dejan-un-golpe-de-mas-de-5000-millones-a-las-mafias-nota/",
      "domain": "El Universo",
@@ -1971,52 +1941,16 @@
      "seendate": "20261019T152920Z"
     },
     {
-     "title": "Dos personas fueron aprehendidas por un presunto robo en Cristo del Consuelo, en Guayaquil",
-     "url": "https://eluniverso.com/politica/seguridad/dos-personas-fueron-aprehendidas-por-un-presunto-robo-en-el-cristo-del-consuelo-en-guayaquil-nota/",
-     "domain": "El Universo",
-     "seendate": "20261019T145724Z"
-    },
-    {
      "title": "A cuatro años de iniciado el caso Vocales, en la Corte Nacional se instala el juicio por tráfico de influencias contra Maribel Barreno y Juan José Morillo",
      "url": "https://eluniverso.com/politica/expedientes/a-mas-cuatro-anos-iniciado-caso-vocales-corte-nacional-instala-juicio-trafico-influencias-maribel-barreno-juan-jose-morillo-nota/",
      "domain": "El Universo",
      "seendate": "20261019T145213Z"
     },
     {
-     "title": "Trasladan cuerpo de sacerdote Patricio Sánchez a Cuenca",
-     "url": "https://eluniverso.com/comunidad/ecuador/trasladan-cuerpo-de-sacerdote-patricio-sanchez-a-cuenca-nota/",
-     "domain": "El Universo",
-     "seendate": "20261019T144956Z"
-    },
-    {
-     "title": "Fuerte lluvia deja más de 40 barrios anegados en Machala y complica la movilidad",
-     "url": "https://eluniverso.com/comunidad/ecuador/fuerte-lluvia-deja-mas-de-40-barrios-anegados-en-machala-y-complica-la-movilidad-nota/",
-     "domain": "El Universo",
-     "seendate": "20261019T142854Z"
-    },
-    {
-     "title": "El queso chonero conquista un premio mundial con más de 9.000 votos",
-     "url": "https://eluniverso.com/comunidad/ecuador/queso-chonero-gana-premio-mundial-con-mas-de-9000-votos-nota/",
-     "domain": "El Universo",
-     "seendate": "20261019T142518Z"
-    },
-    {
-     "title": "Lluvias anegan sectores de Durán y complican los traslados de trabajadores a Guayaquil",
-     "url": "https://eluniverso.com/comunidad/ecuador/lluvias-anegan-sectores-de-duran-y-complican-los-traslados-de-trabajadores-hacia-guayaquil-nota/",
-     "domain": "El Universo",
-     "seendate": "20261019T133448Z"
-    },
-    {
      "title": "Cynthia Viteri, candidata de ADN a la Alcaldía de Guayaquil: “La ciudad necesita orden, libertad y obras y servicios con visión humana”",
      "url": "https://eluniverso.com/politica/elecciones/cynthia-viteri-candidata-de-adn-a-la-alcaldia-de-guayaquil-la-ciudad-necesita-orden-libertad-y-obras-y-servicios-con-vision-humana-nota/",
      "domain": "El Universo",
      "seendate": "20261019T130000Z"
-    },
-    {
-     "title": "Cuatro provincias registran once eventos adversos tras fuertes lluvias",
-     "url": "https://eluniverso.com/comunidad/ecuador/cuatro-provincias-registran-11-eventos-adversos-tras-fuertes-lluvias-nota/",
-     "domain": "El Universo",
-     "seendate": "20261019T124518Z"
     },
     {
      "title": "Cinco presuntos integrantes de los Chone Killers fueron aprehendidos en Pascuales",
@@ -2761,6 +2695,54 @@
   "ARG": {
    "articles": [
     {
+     "title": "Rectifican un fallo y condenan a un exintendente salteño por robar rieles y contrabandearlos a Bolivia",
+     "url": "https://www.lanacion.com.ar/politica/rectifican-un-fallo-y-condenan-a-un-exintendente-salteno-por-robar-rieles-y-contrabandearlos-a-nid19102026/",
+     "domain": "La Nación",
+     "seendate": "20261019T212806Z"
+    },
+    {
+     "title": "En Neuquén, Milei destacó el crecimiento de las exportaciones de petróleo y lo adjudicó a las desregulaciones del Gobierno",
+     "url": "https://www.lanacion.com.ar/politica/en-neuquen-milei-destaco-el-crecimiento-de-las-exportaciones-de-petroleo-y-lo-adjudico-a-las-nid19102026/",
+     "domain": "La Nación",
+     "seendate": "20261019T212449Z"
+    },
+    {
+     "title": "La amiga de Karina Milei salpicada por el escándalo de Olivos fue nombrada en el Correo Argentino",
+     "url": "https://www.lanacion.com.ar/politica/la-amiga-de-karina-milei-salpicada-por-el-escandalo-de-olivos-fue-nombrada-en-el-correo-argentino-nid19102026/",
+     "domain": "La Nación",
+     "seendate": "20261019T212210Z"
+    },
+    {
+     "title": "Brutal ataque a una yegua: entraron a un campo, le cortaron la cara y le fracturaron el hocico",
+     "url": "https://www.lanacion.com.ar/economia/campo/brutal-ataque-a-una-yegua-en-un-campo-bonaerense-le-cortaron-la-cara-y-le-fracturaron-el-hocico-nid19102026/",
+     "domain": "La Nación",
+     "seendate": "20261019T212018Z"
+    },
+    {
+     "title": "Javier Milei y sus medidas, EN VIVO: “La casta, la alta política, los empresaurios y los periodistas no son muy distintos”",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-casta-la-alta-politica-los-empresaurios-y-los-periodistas-no-nid19102026/",
+     "domain": "La Nación",
+     "seendate": "20261019T212000Z"
+    },
+    {
+     "title": "Crédito: las cinco medidas que prepara el Gobierno para impulsar los préstamos a familias y empresas",
+     "url": "https://www.lanacion.com.ar/economia/credito-las-cinco-medidas-que-prepara-el-gobierno-para-impulsar-los-prestamos-a-familias-y-empresas-nid19102026/",
+     "domain": "La Nación",
+     "seendate": "20261019T210250Z"
+    },
+    {
+     "title": "El riesgo país alcanzó los 675 puntos y tocó el valor más alto en un año",
+     "url": "https://www.lanacion.com.ar/economia/dolar/el-riesgo-pais-alcanza-los-660-puntos-basicos-y-toca-el-valor-mas-alto-del-ano-nid19102026/",
+     "domain": "La Nación",
+     "seendate": "20261019T210012Z"
+    },
+    {
+     "title": "Qué se sabe de la docente de 52 años desaparecida en Corrientes: hay dos detenidos y su familia cree que la engañaron",
+     "url": "https://www.lanacion.com.ar/seguridad/que-se-sabe-de-la-docente-de-52-anos-desaparecida-en-corrientes-hay-dos-detenidos-y-su-familia-cree-nid19102026/",
+     "domain": "La Nación",
+     "seendate": "20261019T210000Z"
+    },
+    {
      "title": "La Casación confirmó el cierre de la causa contra Mauricio Macri, Luis Caputo y Federico Sturzenegger por el crédito de US$57.100 millones del FMI",
      "url": "https://www.lanacion.com.ar/politica/la-casacion-confirmo-el-cierre-de-la-causa-contra-mauricio-macri-luis-caputo-y-federico-sturzenegger-nid19102026/",
      "domain": "La Nación",
@@ -2771,24 +2753,6 @@
      "url": "https://www.lanacion.com.ar/economia/vaca-muerta-suma-tres-proyectos-al-rigi-por-mas-de-us15400-millones-para-exportar-petroleo-y-gas-nid19102026/",
      "domain": "La Nación",
      "seendate": "20261019T205006Z"
-    },
-    {
-     "title": "El riesgo país alcanzó los 678 puntos y tocó el valor más alto en un año",
-     "url": "https://www.lanacion.com.ar/economia/dolar/el-riesgo-pais-alcanza-los-660-puntos-basicos-y-toca-el-valor-mas-alto-del-ano-nid19102026/",
-     "domain": "La Nación",
-     "seendate": "20261019T204848Z"
-    },
-    {
-     "title": "Qué se sabe de la docente de 52 años desaparecida en Corrientes: hay dos detenidos y su familia cree que la engañaron",
-     "url": "https://www.lanacion.com.ar/seguridad/que-se-sabe-de-la-docente-de-52-anos-desaparecida-en-corrientes-hay-dos-detenidos-y-su-familia-cree-nid19102026/",
-     "domain": "La Nación",
-     "seendate": "20261019T204754Z"
-    },
-    {
-     "title": "Javier Milei y sus medidas, EN VIVO: “La casta, la alta política, los empresaurios y los periodistas no son muy distintos”",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-casta-la-alta-politica-los-empresaurios-y-los-periodistas-no-nid19102026/",
-     "domain": "La Nación",
-     "seendate": "20261019T204632Z"
     },
     {
      "title": "Se viene una semana de contrastes con lluvias y tormentas de “corta duración”, ascenso térmico y una posible ciclogénesis: las zonas afectadas",
@@ -2833,7 +2797,7 @@
      "seendate": "20261019T202136Z"
     },
     {
-     "title": "“Tenemos esperanza”: a una semana de la desaparición del docente jubilado en Tucumán, el rastrillaje toma un nuevo rumbo",
+     "title": "Retrasos en la búsqueda: a una semana de la desaparición del docente jubilado en Tucumán, el rastrillaje toma un nuevo rumbo",
      "url": "https://www.lanacion.com.ar/sociedad/tenemos-esperanza-a-una-semana-de-la-desaparicion-del-docente-jubilado-en-tucuman-el-rastrillaje-nid19102026/",
      "domain": "La Nación",
      "seendate": "20261019T201349Z"
@@ -2945,12 +2909,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/la-psicologia-dice-que-algunas-personas-responden-estoy-bien-cuando-alguien-les-preguntan-como-se-nid19102026/",
      "domain": "La Nación",
      "seendate": "20261019T193331Z"
-    },
-    {
-     "title": "Brutal ataque a una yegua en un campo bonaerense: le cortaron la cara y le fracturaron el hocico",
-     "url": "https://www.lanacion.com.ar/economia/campo/brutal-ataque-a-una-yegua-en-un-campo-bonaerense-le-cortaron-la-cara-y-le-fracturaron-el-hocico-nid19102026/",
-     "domain": "La Nación",
-     "seendate": "20261019T192522Z"
     },
     {
      "title": "La tragedia del gendarme arrastrado por un arroyo: lo hallaron a seis kilómetros del lugar donde cayó",
@@ -3351,6 +3309,12 @@
   "PRY": {
    "articles": [
     {
+     "title": "Funcionarios de Aseo Urbano de Villarrica se declaran con brazos caídos por salarios atrasados",
+     "url": "https://www.abc.com.py/nacionales/2026/10/19/funcionarios-de-aseo-urbano-de-villarrica-se-declaran-con-brazos-caidos-por-salarios-atrasados/",
+     "domain": "ABC Color",
+     "seendate": "20261019T211711Z"
+    },
+    {
      "title": "Nuevas imputaciones en caso título falso de Rivas: esto dice el presidente de la ANEAES",
      "url": "https://www.abc.com.py/nacionales/2026/10/19/nuevas-imputaciones-en-caso-titulo-falso-de-rivas-esto-dice-el-presidente-de-la-aneaes/",
      "domain": "ABC Color",
@@ -3375,24 +3339,6 @@
      "seendate": "20261019T185934Z"
     },
     {
-     "title": "Pacientes oncológicos del IPS denuncian falta de medicamentos e insumos",
-     "url": "https://www.abc.com.py/nacionales/2026/10/19/no-es-fecha-de-celebracion-es-de-recordacion-pacientes-oncologicos-del-ips-denuncian-falta-de-medicamentos-e-insumos/",
-     "domain": "ABC Color",
-     "seendate": "20261019T183433Z"
-    },
-    {
-     "title": "Sitrande anuncia paro nacional en rechazo al recorte presupuestario",
-     "url": "https://www.abc.com.py/nacionales/2026/10/19/sitrande-anuncia-paro-nacional-en-rechazo-al-recorte-presupuestario-y-el-manejo-de-los-recursos-energeticos/",
-     "domain": "ABC Color",
-     "seendate": "20261019T182343Z"
-    },
-    {
-     "title": "Registro Civil prepara gran casamiento comunitario: conocé la fecha y requisitos",
-     "url": "https://www.abc.com.py/nacionales/2026/10/19/registro-civil-prepara-gran-casamiento-comunitario-conoce-la-fecha-y-requisitos/",
-     "domain": "ABC Color",
-     "seendate": "20261019T181000Z"
-    },
-    {
      "title": "Título falso de Hernán Rivas: imputan al exrector de la Universidad Sudamericana",
      "url": "https://www.abc.com.py/nacionales/2026/10/19/titulo-falso-de-hernan-rivas-imputan-a-exrector-de-la-universidad-sudamericana/",
      "domain": "ABC Color",
@@ -3412,7 +3358,19 @@
   "BRA": {
    "articles": [
     {
-     "title": "Lula diz que vai mandar a Nunes Marques sigilos bancário e telefônico dele e dos filhos e cobra Flávio a fazer o mesmo",
+     "title": "Após reunião com organizadas, Boulos reconhece que fim das bets afetou clubes e diz que governo vai 'discutir medidas'",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/19/apos-reuniao-com-organizadas-boulos-reconhece-que-fim-das-bets-afetou-clubes-e-diz-que-governo-discute-medidas.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261019T212245Z"
+    },
+    {
+     "title": "Celulares roubados ou furtados começam a ser devolvidos em São Paulo; programa recuperou mais de 38 mil aparelhos em 15 meses",
+     "url": "https://oglobo.globo.com/brasil/sao-paulo/noticia/2026/10/19/celulares-roubados-ou-furtados-comecam-a-ser-devolvidos-em-sao-paulo-programa-recuperou-mais-de-38-mil-aparelhos-em-15-meses.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261019T210034Z"
+    },
+    {
+     "title": "Lula diz que vai mandar ao presidente do TSE sigilos bancário e telefônico dele e dos filhos e cobra Flávio a fazer o mesmo",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/19/lula-diz-que-vai-mandar-a-nunes-marques-sigilos-bancario-e-telefonico-dele-e-dos-filhos-e-cobra-flavio-a-fazer-o-mesmo.ghtml",
      "domain": "O Globo",
      "seendate": "20261019T205033Z"
@@ -3518,12 +3476,6 @@
      "url": "https://oglobo.globo.com/brasil/noticia/2026/10/19/justica-manda-soltar-motorista-que-atropelou-idoso-durante-ato-pro-lula-em-belo-horizonte.ghtml",
      "domain": "O Globo",
      "seendate": "20261019T173130Z"
-    },
-    {
-     "title": "Deputado do PL é amparado por PMs ao chegar à delegacia após disparo em casa noturna de SP; veja vídeo",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/19/deputado-do-pl-e-amparado-por-pms-ao-chegar-a-delegacia-apos-disparo-em-balada-de-sp-veja-video.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261019T164916Z"
     }
    ]
   }
