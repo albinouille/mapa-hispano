@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T00:35:06+00:00",
+ "updated": "2026-10-19T01:35:42+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -103,6 +103,18 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Caen dos presuntos integrantes de banda dedicada a robo a casas de lujo; grupo delictivo operaba en Aguascalientes",
+     "url": "https://www.eluniversal.com.mx/estados/caen-dos-presuntos-integrantes-de-banda-dedicada-a-robo-a-casas-de-lujo-grupo-delictivo-operaba-en-aguascalientes/",
+     "domain": "El Universal",
+     "seendate": "20261019T012554Z"
+    },
+    {
+     "title": "Al grito de \"fuera Israel de Yucatán\", marchan en apoyo a Palestina en Mérida; rechazan acciones militares en Gaza",
+     "url": "https://www.eluniversal.com.mx/estados/al-grito-de-fuera-israel-de-yucatan-marchan-en-apoyo-a-palestina-en-merida-rechazan-acciones-militares-en-gaza/",
+     "domain": "El Universal",
+     "seendate": "20261019T003959Z"
+    },
     {
      "title": "Caen “El Talibán” y cuatro miembros del Cártel del Pacífico en Sinaloa; los relacionan con secuestros de mineros y turistas",
      "url": "https://www.eluniversal.com.mx/nacion/caen-el-taliban-y-cuatro-miembros-del-cartel-del-pacifico-en-sinaloa-los-relacionan-con-secuestros-de-mineros-y-turistas/",
@@ -336,18 +348,6 @@
      "url": "https://www.eluniversal.com.mx/nacion/eleccion-de-2027-el-gran-reto-electoral-de-morena-integralia-advierte-campanas-anticipadas-e-intervencion-del-narco-en-comicios/",
      "domain": "El Universal",
      "seendate": "20261018T163210Z"
-    },
-    {
-     "title": "Metrobús modifica servicio por Marcha Zombie; habrá cierres en las líneas 3, 4 y 7",
-     "url": "https://www.eluniversal.com.mx/metropoli/metrobus-modifica-servicio-por-marcha-zombie-habra-cierres-en-las-lineas-3-4-y-7/",
-     "domain": "El Universal",
-     "seendate": "20261018T160558Z"
-    },
-    {
-     "title": "¿Cómo estará este domingo la temperatura en la CDMX?; se mantiene alerta amarilla",
-     "url": "https://www.eluniversal.com.mx/metropoli/como-estara-este-domingo-la-temperatura-en-la-cdmx-se-mantiene-alerta-amarilla/",
-     "domain": "El Universal",
-     "seendate": "20261018T155225Z"
     },
     {
      "title": "Partidos burlan ley electoral y anticipan campañas en CDMX; figura de “coordinadores”, sin regulación",
@@ -790,6 +790,12 @@
   "CRI": {
    "articles": [
     {
+     "title": "Deslizamiento en San Pablo de Heredia obliga a evacuar a 18 personas",
+     "url": "https://www.nacion.com/sucesos/deslizamiento-en-san-pablo-de-heredia-obliga-a/IUZ3VXECNZDP7BT23F7HB77EHU/story/",
+     "domain": "La Nación",
+     "seendate": "20261019T003528Z"
+    },
+    {
      "title": "Cruz Roja suspende búsqueda de niño de 10 años arrastrado por una corriente en Puntarenas",
      "url": "https://www.nacion.com/sucesos/nino-de-10-anos-desaparece-tras-ser-arrastrado-por/QRSDWIEENRG3RMOJOZTCVWITSQ/story/",
      "domain": "La Nación",
@@ -926,12 +932,6 @@
      "url": "https://www.nacion.com/politica/diputada-cindy-murillo-borra-publicacion-en/2NDWACARXRGG5DVZCNY4IMAWPI/story/",
      "domain": "La Nación",
      "seendate": "20261018T030351Z"
-    },
-    {
-     "title": "Mujer de 40 años y niña de 10 halladas sin vida en Liberia",
-     "url": "https://www.nacion.com/el-pais/mujer-de-40-anos-y-nina-de-10-halladas-sin-vida-en/CHLIT54AWBFJDEEDKXSQXRHSDM/story/",
-     "domain": "La Nación",
-     "seendate": "20261018T005739Z"
     }
    ]
   },
@@ -944,7 +944,7 @@
      "seendate": "20261018T232332Z"
     },
     {
-     "title": "Las clases en las escuelas oficiales se reanudarán progresivamente a partir del miércoles",
+     "title": "Las clases en las escuelas oficiales se reanudarán el miércoles; este es el listado",
      "url": "https://www.prensa.com/politica/las-clases-en-las-escuelas-oficiales-se-reanudaran-progresivamente-a-partir-del-miercoles/",
      "domain": "La Prensa",
      "seendate": "20261018T230913Z"
@@ -1068,12 +1068,6 @@
      "url": "https://www.prensa.com/politica/diferencias-con-el-contralor-flores-habrian-ocasionado-la-salida-roxana-mendez-de-la-autoridad-de-descentralizacion/",
      "domain": "La Prensa",
      "seendate": "20261017T040000Z"
-    },
-    {
-     "title": "Gobierno reporta 3,000 viviendas afectadas y 92% de vías habilitadas",
-     "url": "https://www.prensa.com/politica/en-vivo-gobierno-presenta-balance-de-la-primera-semana-tras-el-terremoto/",
-     "domain": "La Prensa",
-     "seendate": "20261016T230819Z"
     },
     {
      "title": "La catedral San Juan Bautista pierde una torre y el mercado, su ritmo habitual",
@@ -2197,6 +2191,42 @@
   "ARG": {
    "articles": [
     {
+     "title": "Hotesur y Los Sauces: cómo serán las reglas de un proceso con 19 acusados y 300 testigos",
+     "url": "https://www.lanacion.com.ar/politica/hotesur-y-los-sauces-como-seran-las-reglas-de-un-proceso-con-19-acusados-y-300-testigos-nid18102026/",
+     "domain": "La Nación",
+     "seendate": "20261019T010121Z"
+    },
+    {
+     "title": "Gabriel Rolón, psicoanalista: “En las decisiones, solo estamos cumpliendo mandatos inconscientes”",
+     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-en-las-decisiones-solo-estamos-cumpliendo-mandatos-inconscientes-nid18102026/",
+     "domain": "La Nación",
+     "seendate": "20261019T010000Z"
+    },
+    {
+     "title": "Cambiaban una goma pinchada y los arrolló una camioneta: tres muertos y dos heridos graves",
+     "url": "https://www.lanacion.com.ar/seguridad/cambiaban-una-goma-pinchada-y-los-arrollo-una-camioneta-tres-muertos-y-dos-heridos-graves-nid18102026/",
+     "domain": "La Nación",
+     "seendate": "20261019T005950Z"
+    },
+    {
+     "title": "Diego Santilli, jefe de Gabinete: “Si el domingo que viene hay elecciones, Milei les gana a todos”",
+     "url": "https://www.lanacion.com.ar/politica/diego-santilli-jefe-de-gabinete-si-el-domingo-que-viene-hay-elecciones-milei-les-gana-a-todos-nid18102026/",
+     "domain": "La Nación",
+     "seendate": "20261019T005001Z"
+    },
+    {
+     "title": "Llegó la hora de la sentencia en el juicio contra el exvicegobernador de Córdoba por un choque mortal en Altas Cumbres",
+     "url": "https://www.lanacion.com.ar/seguridad/llego-la-hora-de-la-sentencia-en-el-juicio-contra-el-exvicegobernador-de-cordoba-por-un-choque-nid18102026/",
+     "domain": "La Nación",
+     "seendate": "20261019T004806Z"
+    },
+    {
+     "title": "Un mes crucial para la oposición",
+     "url": "https://www.lanacion.com.ar/politica/un-mes-crucial-para-la-oposicion-nid18102026/",
+     "domain": "La Nación",
+     "seendate": "20261019T004305Z"
+    },
+    {
      "title": "Ciudad: a 55 años de la tragedia del Ballet del Colón, restauraron la fuente que acompaña el homenaje a sus bailarines",
      "url": "https://www.lanacion.com.ar/sociedad/ciudad-a-55-anos-de-la-tragedia-del-ballet-del-colon-restauraron-la-fuente-que-acompana-el-homenaje-nid18102026/",
      "domain": "La Nación",
@@ -2207,12 +2237,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/robin-sharma-experto-crecimiento-personal-un-mal-dia-para-el-ego-es-un-buen-dia-para-el-alma-nid18102026/",
      "domain": "La Nación",
      "seendate": "20261019T000000Z"
-    },
-    {
-     "title": "Diego Santilli, jefe de Gabinete: “Si el domingo que viene hay elecciones, Milei les gana a todos”",
-     "url": "https://www.lanacion.com.ar/politica/diego-santilli-jefe-de-gabinete-si-el-domingo-que-viene-hay-elecciones-milei-les-gana-a-todos-nid18102026/",
-     "domain": "La Nación",
-     "seendate": "20261018T235725Z"
     },
     {
      "title": "Alta demanda: ya se venden los pasajes para un viaje de 800 km a través de paisajes únicos",
@@ -2746,6 +2770,24 @@
   "BRA": {
    "articles": [
     {
+     "title": "Debate presidencial na Band: colunistas do GLOBO comentam primeiro encontro entre Lula e Flávio Bolsonaro",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/ao-vivo/debate-presidencial-na-band-colunistas-do-globo-comentam-o-duelo-entre-lula-e-flavio-bolsonaro.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261019T011842Z"
+    },
+    {
+     "title": "Manifestação de Flávio na Paulista reuniu 72 mil pessoas, e ató pró-Lula no Rio teve 56 mil, aponta monitor da USP",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/18/manifestacao-de-flavio-na-paulista-reuniu-72-mil-pessoas-e-ato-pro-lula-no-rio-teve-56-mil-aponta-monitor-da-usp.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261019T010155Z"
+    },
+    {
+     "title": "Flávio faz 'mea culpa' em debate e admite que governo Bolsonaro 'não teve o melhor resultado' na Saúde",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/18/flavio-faz-mea-culpa-em-debate-e-admite-que-governo-bolsonaro-nao-teve-o-melhor-resultado-na-saude.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261019T003909Z"
+    },
+    {
      "title": "Flávio diz se solidarizar com o Rio após fala de Lula sobre 'malandro carioca', e direita explora tema nas redes",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/18/flavio-diz-se-solidarizar-com-o-rio-apos-fala-de-lula-sobre-malandro-carioca-e-direita-explora-tema-nas-redes.ghtml",
      "domain": "O Globo",
@@ -2756,12 +2798,6 @@
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/18/debate-na-band-sidonio-cobra-flavio-no-intervalo-apos-senador-aparecer-repetidas-vezes-ao-fundo-da-camera-de-lula.ghtml",
      "domain": "O Globo",
      "seendate": "20261019T002402Z"
-    },
-    {
-     "title": "Debate presidencial na Band: colunistas do GLOBO comentam primeiro encontro entre Lula e Flávio Bolsonaro",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/ao-vivo/debate-presidencial-na-band-colunistas-do-globo-comentam-o-duelo-entre-lula-e-flavio-bolsonaro.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261019T002044Z"
     },
     {
      "title": "O que está escrito na mão de Flávio Bolsonaro no debate da Band",
@@ -2776,7 +2812,7 @@
      "seendate": "20261018T234243Z"
     },
     {
-     "title": "Debate na Band: em primeiro embate, Lula pergunta o que Flávio 'tem contra mulheres'; senador responde citando lobista amiga de Lulinha",
+     "title": "Debate da Band: primeiro confronto entre Flávio e Lula tem acusações, embate sobre escândalos e menções a Milei e Trump",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/18/a-uma-semana-do-segundo-turno-lula-e-flavio-bolsonaro-fazem-primeiro-debate-desde-o-inicio-da-campanha.ghtml",
      "domain": "O Globo",
      "seendate": "20261018T231617Z"
