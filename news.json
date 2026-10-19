@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T02:29:15+00:00",
+ "updated": "2026-10-19T03:05:28+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -1533,12 +1533,6 @@
      "seendate": "20261018T135327Z"
     },
     {
-     "title": "Quiénes son los candidatos que buscan llegar al Concejo de Guayaquil en las elecciones seccionales",
-     "url": "https://eluniverso.com/politica/elecciones/quienes-son-los-candidatos-que-buscan-llegar-al-concejo-de-guayaquil-en-las-elecciones-seccionales-nota/",
-     "domain": "El Universo",
-     "seendate": "20261018T130000Z"
-    },
-    {
      "title": "Andrés Roche, candidato a la Alcaldía por la lista 6: “Es importante entrar ya, ciudadanía y Municipio, en una política de reciclaje en Guayaquil”",
      "url": "https://eluniverso.com/politica/elecciones/andres-roche-candidato-a-la-alcaldia-por-la-lista-6-es-importante-entrar-ya-ciudadania-y-municipio-en-una-politica-de-reciclaje-en-guayaquil-nota/",
      "domain": "El Universo",
@@ -1558,6 +1552,12 @@
   },
   "BOL": {
    "articles": [
+    {
+     "title": "Nilton Condori cae por el caso de los 53 días de bloqueos que exigían …",
+     "url": "https://fmbolivia.com.bo/seguridad/nilton-condori-cae-por-el-caso-de-los-53-dias-de-bloqueos-que-exigian-la-renuncia-de-rodrigo-paz-21424",
+     "domain": "fmbolivia.com.bo",
+     "seendate": "20261018T184500Z"
+    },
     {
      "title": "Aprehenden a legislador disidente tras discursos de odio y llamados a eliminar opositores",
      "url": "https://hoybolivia.com/Noticia.php?IdNoticia=374391",
@@ -1831,12 +1831,6 @@
     {
      "title": "Puerto de Arica levanta las restricciones en la terminal",
      "url": "https://eju.tv/2026/10/puerto-de-arica-levanta-las-restricciones-en-la-terminal/",
-     "domain": "eju.tv",
-     "seendate": "20261017T173000Z"
-    },
-    {
-     "title": "Senado aprueba Mi Bolivia Lechera , un proyecto que prevé crear un fondo para el sector – eju . tv",
-     "url": "https://eju.tv/2026/10/senado-aprueba-mi-bolivia-lechera-un-proyecto-que-preve-crear-un-fondo-para-el-sector/",
      "domain": "eju.tv",
      "seendate": "20261017T173000Z"
     }
@@ -2212,7 +2206,7 @@
      "title": "Ante la mejoría de Mirtha Legrand, Martín Llaryora propuso celebrar sus 100 años en el estadio Kempes",
      "url": "https://www.lanacion.com.ar/politica/ante-la-mejoria-de-mirtha-legrand-martin-llaryora-propuso-celebrar-sus-100-anos-en-el-estadio-kempes-nid18102026/",
      "domain": "La Nación",
-     "seendate": "20261019T020418Z"
+     "seendate": "20261019T023910Z"
     },
     {
      "title": "Hotesur y Los Sauces: cómo serán las reglas de un proceso con 19 acusados y 300 testigos",
@@ -2375,12 +2369,6 @@
      "url": "https://www.lanacion.com.ar/politica/en-medio-de-los-disturbios-en-francia-milei-recordo-su-discurso-de-2024-en-davos-nid18102026/",
      "domain": "La Nación",
      "seendate": "20261018T163442Z"
-    },
-    {
-     "title": "Moratoria en Buenos Aires: lanzan un plan de pagos de impuestos con descuentos de hasta el 40%",
-     "url": "https://www.lanacion.com.ar/economia/moratoria-en-buenos-aires-lanzan-un-plan-de-pagos-con-descuentos-de-hasta-el-40-nid18102026/",
-     "domain": "La Nación",
-     "seendate": "20261018T161552Z"
     }
    ]
   },
@@ -2788,7 +2776,19 @@
   "BRA": {
    "articles": [
     {
-     "title": "Esquadrão antibombas analisa pacote encontrado em área próxima ao estúdio da Band após debate entre Flávio e Lula",
+     "title": "Debate presidencial na Band: colunistas do GLOBO comentam primeiro encontro entre Lula e Flávio Bolsonaro",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/ao-vivo/debate-presidencial-na-band-colunistas-do-globo-comentam-o-duelo-entre-lula-e-flavio-bolsonaro.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261019T025331Z"
+    },
+    {
+     "title": "'Hostil e repleto de ataques': imprensa internacional repercute o primeiro debate da campanha entre Flávio e Lula",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/18/hostil-e-repleto-de-ataques-imprensa-internacional-repercute-o-primeiro-debate-da-campanha-entre-flavio-e-lula.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261019T023851Z"
+    },
+    {
+     "title": "Esquadrão descarta presença de bomba em área próxima ao estúdio da Band após debate entre Flávio e Lula",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/18/esquadrao-antibombas-analisa-pacote-encontrado-em-area-proxima-ao-estudio-da-band-apos-debate-entre-flavio-e-lula.ghtml",
      "domain": "O Globo",
      "seendate": "20261019T020911Z"
@@ -2798,12 +2798,6 @@
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/18/debate-da-band-lula-sugere-a-flavio-quebra-de-sigilo-bancario-e-telefonico-de-ambos-e-das-duas-familias.ghtml",
      "domain": "O Globo",
      "seendate": "20261019T014517Z"
-    },
-    {
-     "title": "Debate presidencial na Band: colunistas do GLOBO comentam primeiro encontro entre Lula e Flávio Bolsonaro",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/ao-vivo/debate-presidencial-na-band-colunistas-do-globo-comentam-o-duelo-entre-lula-e-flavio-bolsonaro.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261019T013833Z"
     },
     {
      "title": "Quem ganhou o debate da Band, Flávio Bolsonaro ou Lula? Colunistas do GLOBO dão notas e avaliam",
