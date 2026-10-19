@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T23:52:41+00:00",
+ "updated": "2026-10-19T00:35:06+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -103,6 +103,24 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Caen “El Talibán” y cuatro miembros del Cártel del Pacífico en Sinaloa; los relacionan con secuestros de mineros y turistas",
+     "url": "https://www.eluniversal.com.mx/nacion/caen-el-taliban-y-cuatro-miembros-del-cartel-del-pacifico-en-sinaloa-los-relacionan-con-secuestros-de-mineros-y-turistas/",
+     "domain": "El Universal",
+     "seendate": "20261019T001715Z"
+    },
+    {
+     "title": "Asesinan a tiros a mujer en calles de Culiacán; suman 13 feminicidios en la entidad durante octubre",
+     "url": "https://www.eluniversal.com.mx/estados/asesinan-a-tiros-a-mujer-en-calles-de-culiacan-suman-13-feminicidios-en-la-entidad-durante-octubre/",
+     "domain": "El Universal",
+     "seendate": "20261019T001550Z"
+    },
+    {
+     "title": "Hallan restos humanos con amenazas en 3 municipios de Tabasco; autoridades buscan esclarecer los hechos",
+     "url": "https://www.eluniversal.com.mx/estados/hallan-restos-humanos-con-amenazas-en-3-municipios-de-tabasco-autoridades-buscan-esclarecer-los-hechos/",
+     "domain": "El Universal",
+     "seendate": "20261018T235928Z"
+    },
     {
      "title": "Grupos violentos prenden fuego a la puerta del Congreso de Jalisco tras marcha por el agua; lanzan bombas molotov y petardos",
      "url": "https://www.eluniversal.com.mx/estados/grupos-violentos-prenden-fuego-a-la-puerta-del-congreso-de-jalisco-tras-marcha-por-el-agua-lanzan-bombas-molotov-y-petardos/",
@@ -772,6 +790,18 @@
   "CRI": {
    "articles": [
     {
+     "title": "Cruz Roja suspende búsqueda de niño de 10 años arrastrado por una corriente en Puntarenas",
+     "url": "https://www.nacion.com/sucesos/nino-de-10-anos-desaparece-tras-ser-arrastrado-por/QRSDWIEENRG3RMOJOZTCVWITSQ/story/",
+     "domain": "La Nación",
+     "seendate": "20261019T002721Z"
+    },
+    {
+     "title": "Fuertes lluvias causan inundación en Circunvalación Norte y generan intensas presas",
+     "url": "https://www.nacion.com/sucesos/fuertes-lluvias-causan-inundacion-en/7YI4QFFOGJEP3JLC6E54W2YQLM/story/",
+     "domain": "La Nación",
+     "seendate": "20261018T235221Z"
+    },
+    {
      "title": "Las lluvias continuarán este lunes en Costa Rica: IMN pronostica aguaceros y tormentas",
      "url": "https://www.nacion.com/sucesos/las-lluvias-continuaran-este-lunes-en-costa-rica/SNG7ESDLVBEWJJHIYZFAHTDJMY/story/",
      "domain": "La Nación",
@@ -800,12 +830,6 @@
      "url": "https://www.nacion.com/sucesos/dueno-de-perrita-en-san-ramon-denuncio-presunto/S4BFGRNRVVADTLTCLAMAOC4UE4/story/",
      "domain": "La Nación",
      "seendate": "20261018T213746Z"
-    },
-    {
-     "title": "Niño de 10 años desaparece tras ser arrastrado por una corriente en Puntarenas",
-     "url": "https://www.nacion.com/sucesos/nino-de-10-anos-desaparece-tras-ser-arrastrado-por/QRSDWIEENRG3RMOJOZTCVWITSQ/story/",
-     "domain": "La Nación",
-     "seendate": "20261018T212635Z"
     },
     {
      "title": "Frente Amplio debatió el uso de los conceptos socialismo y democracia dentro de sus objetivos. Así quedó la redacción final",
@@ -1413,6 +1437,12 @@
   "ECU": {
    "articles": [
     {
+     "title": "Lluvias en Ecuador: tres fallecidos y 21.522 afectados se registran desde la alerta roja emitida por la Secretaría de Gestión de Riesgos",
+     "url": "https://eluniverso.com/comunidad/ecuador/lluvias-en-ecuador-tres-fallecidos-y-21522-afectados-se-registran-desde-la-alerta-roja-emitida-por-la-secretaria-de-gestion-de-riesgos-nota/",
+     "domain": "El Universo",
+     "seendate": "20261019T003000Z"
+    },
+    {
      "title": "Con honores y capilla ardiente despidieron a policía que murió en atentado contra una UPC en Quinindé",
      "url": "https://eluniverso.com/comunidad/ecuador/con-honores-y-capilla-ardiente-despidieron-a-policia-que-murio-en-atendado-contra-una-upc-en-quininde-nota/",
      "domain": "El Universo",
@@ -1495,18 +1525,6 @@
      "url": "https://eluniverso.com/politica/elecciones/quienes-son-los-candidatos-que-buscan-llegar-al-concejo-de-guayaquil-en-las-elecciones-seccionales-nota/",
      "domain": "El Universo",
      "seendate": "20261018T130000Z"
-    },
-    {
-     "title": "Reducción del 32 % en los índices delictivos marca el 2026 en la Zona 8, integrada por Guayaquil, Durán y Samborondón",
-     "url": "https://eluniverso.com/politica/seguridad/reduccion-del-32-en-los-indices-delictivos-marca-el-2026-en-la-zona-8-integrada-por-guayaquil-duran-y-samborondon-nota/",
-     "domain": "El Universo",
-     "seendate": "20261018T114000Z"
-    },
-    {
-     "title": "“Por aquí es tranquilo, se puede transitar y comprar”: así se mueve el comercio nocturno en la 38 y Portete y zonas del sur de Guayaquil",
-     "url": "https://eluniverso.com/politica/seguridad/por-aqui-es-tranquilo-se-puede-transitar-y-comprar-asi-se-mueve-el-comercio-nocturno-en-la-38-y-portete-y-zonas-del-sur-de-guayaquil-nota/",
-     "domain": "El Universo",
-     "seendate": "20261018T112000Z"
     },
     {
      "title": "Andrés Roche, candidato a la Alcaldía por la lista 6: “Es importante entrar ya, ciudadanía y Municipio, en una política de reciclaje en Guayaquil”",
@@ -2179,6 +2197,30 @@
   "ARG": {
    "articles": [
     {
+     "title": "Ciudad: a 55 años de la tragedia del Ballet del Colón, restauraron la fuente que acompaña el homenaje a sus bailarines",
+     "url": "https://www.lanacion.com.ar/sociedad/ciudad-a-55-anos-de-la-tragedia-del-ballet-del-colon-restauraron-la-fuente-que-acompana-el-homenaje-nid18102026/",
+     "domain": "La Nación",
+     "seendate": "20261019T002140Z"
+    },
+    {
+     "title": "Robin Sharma, experto crecimiento personal: “Un mal día para el ego es un buen día para el alma”",
+     "url": "https://www.lanacion.com.ar/sociedad/robin-sharma-experto-crecimiento-personal-un-mal-dia-para-el-ego-es-un-buen-dia-para-el-alma-nid18102026/",
+     "domain": "La Nación",
+     "seendate": "20261019T000000Z"
+    },
+    {
+     "title": "Diego Santilli, jefe de Gabinete: “Si el domingo que viene hay elecciones, Milei les gana a todos”",
+     "url": "https://www.lanacion.com.ar/politica/diego-santilli-jefe-de-gabinete-si-el-domingo-que-viene-hay-elecciones-milei-les-gana-a-todos-nid18102026/",
+     "domain": "La Nación",
+     "seendate": "20261018T235725Z"
+    },
+    {
+     "title": "Alta demanda: ya se venden los pasajes para un viaje de 800 km a través de paisajes únicos",
+     "url": "https://www.lanacion.com.ar/sociedad/alta-demanda-ya-se-venden-los-pasajes-para-un-viaje-de-800-km-a-traves-de-paisajes-unicos-nid18102026/",
+     "domain": "La Nación",
+     "seendate": "20261018T234902Z"
+    },
+    {
      "title": "La Justicia espera un peritaje en el caso Chocolate del Senado bonaerense y diez exlegisladores se desligaron",
      "url": "https://www.lanacion.com.ar/politica/la-justicia-espera-un-peritaje-en-el-caso-chocolate-del-senado-bonaerense-y-diez-exlegisladores-se-nid18102026/",
      "domain": "La Nación",
@@ -2297,24 +2339,6 @@
      "url": "https://www.lanacion.com.ar/economia/moratoria-en-buenos-aires-lanzan-un-plan-de-pagos-con-descuentos-de-hasta-el-40-nid18102026/",
      "domain": "La Nación",
      "seendate": "20261018T161552Z"
-    },
-    {
-     "title": "Negociaciones en Washington sobre el futuro de la Argentina",
-     "url": "https://www.lanacion.com.ar/economia/negociaciones-en-washington-sobre-el-futuro-de-la-argentina-nid18102026/",
-     "domain": "La Nación",
-     "seendate": "20261018T141514Z"
-    },
-    {
-     "title": "Alta demanda: ya se venden los pasajes para un viaje de 800 km a través de paisajes únicos",
-     "url": "https://www.lanacion.com.ar/sociedad/alta-demanda-ya-se-venden-los-pasajes-para-un-viaje-de-800-km-a-traves-de-paisajes-unicos-nid18102026/",
-     "domain": "La Nación",
-     "seendate": "20261018T141234Z"
-    },
-    {
-     "title": "“Gran manjar”: las sorpresas que se llevó un viajero inglés en la Argentina",
-     "url": "https://www.lanacion.com.ar/economia/campo/gran-manjar-las-sorpresas-que-se-llevo-un-viajero-ingles-en-la-argentina-nid18102026/",
-     "domain": "La Nación",
-     "seendate": "20261018T140732Z"
     }
    ]
   },
@@ -2685,6 +2709,18 @@
   "PRY": {
    "articles": [
     {
+     "title": "Tras hurto en gomería de La Colmena, abandonan auto durante persecución en Escobar",
+     "url": "https://www.abc.com.py/nacionales/2026/10/18/tras-hurto-en-gomeria-de-la-colmena-abandonan-auto-durante-persecucion-en-escobar/",
+     "domain": "ABC Color",
+     "seendate": "20261019T001254Z"
+    },
+    {
+     "title": "Concepción: Río Paraguay sube 9 centímetros, pero no se reportan inundaciones",
+     "url": "https://www.abc.com.py/nacionales/2026/10/18/concepcion-rio-paraguay-sube-9-centimetros-pero-no-se-reportan-inundaciones/",
+     "domain": "ABC Color",
+     "seendate": "20261018T235804Z"
+    },
+    {
      "title": "El Chaco entra a los Récords Guinness con la carreta más grande del mundo",
      "url": "https://www.abc.com.py/nacionales/chaco/2026/10/18/el-chaco-entra-a-los-records-guinness-con-la-carreta-mas-grande-del-mundo/",
      "domain": "ABC Color",
@@ -2695,18 +2731,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/18/yhu-ministerio-de-defensa-verifica-refacciones-de-viviendas-y-entrega-kits-de-alimentos/",
      "domain": "ABC Color",
      "seendate": "20261018T192307Z"
-    },
-    {
-     "title": "Lima entrega obras para fortalecer los servicios de salud y aguarda equipamiento y personal",
-     "url": "https://www.abc.com.py/nacionales/2026/10/18/lima-entrega-obras-para-fortalecer-los-servicios-de-salud-y-aguarda-equipamiento-y-personal/",
-     "domain": "ABC Color",
-     "seendate": "20261018T174953Z"
-    },
-    {
-     "title": "Asesinato de Guillermo Moral: Fiscalía pide sobreseimiento del presunto financista",
-     "url": "https://www.abc.com.py/nacionales/2026/10/18/asesinato-de-guillermo-moral-fiscalia-pide-sobreseimiento-del-presunto-financista/",
-     "domain": "ABC Color",
-     "seendate": "20261018T174458Z"
     },
     {
      "title": "Discurso vs. realidad: Cuánto cuestan los funcionarios que metió Luis Bello a la Municipalidad de Asunción",
@@ -2722,10 +2746,28 @@
   "BRA": {
    "articles": [
     {
+     "title": "Flávio diz se solidarizar com o Rio após fala de Lula sobre 'malandro carioca', e direita explora tema nas redes",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/18/flavio-diz-se-solidarizar-com-o-rio-apos-fala-de-lula-sobre-malandro-carioca-e-direita-explora-tema-nas-redes.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261019T002721Z"
+    },
+    {
+     "title": "Debate na Band: Sidônio cobra Flávio no intervalo após senador aparecer repetidas vezes ao fundo da câmera de Lula",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/18/debate-na-band-sidonio-cobra-flavio-no-intervalo-apos-senador-aparecer-repetidas-vezes-ao-fundo-da-camera-de-lula.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261019T002402Z"
+    },
+    {
      "title": "Debate presidencial na Band: colunistas do GLOBO comentam primeiro encontro entre Lula e Flávio Bolsonaro",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/ao-vivo/debate-presidencial-na-band-colunistas-do-globo-comentam-o-duelo-entre-lula-e-flavio-bolsonaro.ghtml",
      "domain": "O Globo",
-     "seendate": "20261018T234906Z"
+     "seendate": "20261019T002044Z"
+    },
+    {
+     "title": "O que está escrito na mão de Flávio Bolsonaro no debate da Band",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/18/o-que-esta-escrito-na-mao-de-flavio-bolsonaro-no-debate-da-band.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261018T235040Z"
     },
     {
      "title": "Quem é Roberta Luchsinger, citada por Flávio Bolsonaro em pergunta para Lula no debate da Band",
