@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T18:38:17+00:00",
+ "updated": "2026-10-19T19:34:13+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -22,13 +22,13 @@
      "seendate": "20261019T172204Z"
     },
     {
-     "title": "Aznalcóllar da luz verde a la depuradora de aguas de la mina tras la manifestación ecologista",
+     "title": "Aznalcóllar da luz verde a la depuradora de aguas de la mina tras la manifestación en su contra",
      "url": "https://elpais.com/espana/2026-10-19/aznalcollar-da-luz-verde-a-la-depuradora-de-aguas-de-la-mina-tras-la-manifestacion-ecologista.html",
      "domain": "El País",
      "seendate": "20261019T160804Z"
     },
     {
-     "title": "La Generalitat mantiene el confinamiento en ocho municipios de Valencia y Alicante por las lluvias torrenciales e inundaciones",
+     "title": "La Generalitat levanta el confinamiento en los municipios de Valencia y Alicante afectados por las lluvias torrenciales y las inundaciones",
      "url": "https://elpais.com/espana/comunidad-valenciana/2026-10-19/maxima-alerta-en-gandia-y-denia-por-las-lluvias-torrenciales-y-las-inundaciones-que-activa-a-la-ume.html",
      "domain": "El País",
      "seendate": "20261019T155857Z"
@@ -148,12 +148,6 @@
      "seendate": "20261019T033001Z"
     },
     {
-     "title": "Pikabea: “Escuchaba llorar al secuestrado. Es inhumano tener a una persona en un agujero”",
-     "url": "https://elpais.com/espana/2026-10-19/pikabea-escuchaba-llorar-al-secuestrado-es-inhumano-tener-a-una-persona-en-un-agujero.html",
-     "domain": "El País",
-     "seendate": "20261019T033001Z"
-    },
-    {
      "title": "Juicio a un coronel de la Guardia Civil por falsear el origen de unas armas para realizar una compra de 8.250 fusiles de asalto",
      "url": "https://elpais.com/espana/madrid/2026-10-19/juicio-a-un-coronel-de-la-guardia-civil-por-falsear-el-origen-de-unas-armas-para-realizar-una-compra-de-8250-fusiles-de-asalto.html",
      "domain": "El País",
@@ -172,14 +166,8 @@
      "seendate": "20261019T033001Z"
     },
     {
-     "title": "Extremadura desarrolla un perro robot para vigilar las producciones y mejorar los cultivos agrarios",
-     "url": "https://elpais.com/espana/2026-10-19/extremadura-desarrolla-un-perro-robot-para-vigilar-las-producciones-y-mejorar-los-cultivos-agrarios.html",
-     "domain": "El País",
-     "seendate": "20261019T033001Z"
-    },
-    {
-     "title": "Conspiración en Badajoz",
-     "url": "https://elpais.com/espana/2026-10-19/conspiracion-en-badajoz.html",
+     "title": "Pikabea: “Escuchaba llorar al secuestrado. Es inhumano tener a una persona en un agujero”",
+     "url": "https://elpais.com/espana/2026-10-19/pikabea-escuchaba-llorar-al-secuestrado-es-inhumano-tener-a-una-persona-en-un-agujero.html",
      "domain": "El País",
      "seendate": "20261019T033001Z"
     }
@@ -187,6 +175,78 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "“No se traspapeló”: consejera jurídica sobre retraso de reglas del Invea; pide seguir protocolo en CDMX",
+     "url": "https://www.eluniversal.com.mx/metropoli/no-se-traspapelo-consejera-juridica-sobre-retraso-de-reglas-del-invea-pide-seguir-protocolo-en-cdmx/",
+     "domain": "El Universal",
+     "seendate": "20261019T192651Z"
+    },
+    {
+     "title": "Por primera vez, Comité de la ONU llevará desapariciones en México ante la Asamblea General; pedirá protección para víctimas",
+     "url": "https://www.eluniversal.com.mx/nacion/por-primera-vez-comite-de-la-onu-llevara-desapariciones-en-mexico-ante-la-asamblea-general-pedira-proteccion-para-victimas/",
+     "domain": "El Universal",
+     "seendate": "20261019T192112Z"
+    },
+    {
+     "title": "Corte atrae juicio de la saxofonista María Elena Ríos; es un caso de \"extrema violencia feminicida\", dice ministra Ortiz",
+     "url": "https://www.eluniversal.com.mx/nacion/corte-atrae-juicio-de-la-saxofonista-maria-elena-rios-es-un-caso-de-extrema-violencia-feminicida-dice-ministra-ortiz/",
+     "domain": "El Universal",
+     "seendate": "20261019T191846Z"
+    },
+    {
+     "title": "¿En qué se te va el dinero?; estudiante del IPN crea app con IA que analiza gastos y te ayuda a ahorrar",
+     "url": "https://www.eluniversal.com.mx/nacion/en-que-se-te-va-el-dinero-estudiante-del-ipn-crea-app-con-ia-que-analiza-gastos-y-te-ayuda-a-ahorrar/",
+     "domain": "El Universal",
+     "seendate": "20261019T191141Z"
+    },
+    {
+     "title": "Karina Barrón niega buscar diputación federal por Morena; se dice víctima de suplantación de identidad",
+     "url": "https://www.eluniversal.com.mx/nacion/karina-barron-niega-buscar-diputacion-federal-por-morena-se-dice-victima-de-suplantacion-de-identidad/",
+     "domain": "El Universal",
+     "seendate": "20261019T191046Z"
+    },
+    {
+     "title": "Tribunal de Justicia Administrativa de la CDMX revierte 80% de las suspensiones impuestas por alcaldías; atribuye fallas a errores en el debido proceso",
+     "url": "https://www.eluniversal.com.mx/metropoli/tribunal-de-justicia-administrativa-de-la-cdmx-revierte-80-de-las-suspensiones-impuestas-por-alcaldias-atribuye-fallas-a-errores-en-el-debido-proceso/",
+     "domain": "El Universal",
+     "seendate": "20261019T190935Z"
+    },
+    {
+     "title": "¿De qué acusa la FGR a César Jáuregui, según la orden de aprehensión?; podría pasar de 5 a 40 años en prisión",
+     "url": "https://www.eluniversal.com.mx/nacion/de-que-acusa-la-fgr-a-cesar-jauregui-segun-la-orden-de-aprehension-podria-pasar-de-5-a-40-anos-en-prision/",
+     "domain": "El Universal",
+     "seendate": "20261019T190740Z"
+    },
+    {
+     "title": "Incendio en bodega de carnes moviliza a bomberos en Milpa Alta; no reportan lesionados ni daños a negocios cercanos",
+     "url": "https://www.eluniversal.com.mx/metropoli/incendio-en-bodega-de-carnes-moviliza-a-bomberos-en-milpa-alta-no-reportan-lesionados-ni-danos-a-negocios-cercanos/",
+     "domain": "El Universal",
+     "seendate": "20261019T185749Z"
+    },
+    {
+     "title": "Ordenan aprehensión contra expareja de doctora asesinada en Veracruz; investigan el caso bajo protocolo de feminicidio",
+     "url": "https://www.eluniversal.com.mx/estados/ordenan-aprehension-contra-expareja-de-doctora-asesinada-en-veracruz-investigan-el-caso-bajo-protocolo-de-feminicidio/",
+     "domain": "El Universal",
+     "seendate": "20261019T184630Z"
+    },
+    {
+     "title": "Sheinbaum lamenta muerte de otro mexicano bajo custodia del ICE en Texas; SRE interpondrá denuncia, asegura",
+     "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-lamenta-muerte-de-otro-mexicano-bajo-custodia-del-ice-en-texas-sre-interpondra-denuncia-asegura/",
+     "domain": "El Universal",
+     "seendate": "20261019T183815Z"
+    },
+    {
+     "title": "Tláhuac tendrá ley seca por Día de Muertos 2026; te decimos cuándo y a partir de qué hora",
+     "url": "https://www.eluniversal.com.mx/metropoli/tlahuac-tendra-ley-seca-por-dia-de-muertos-2026-te-decimos-cuando-y-a-partir-de-que-hora/",
+     "domain": "El Universal",
+     "seendate": "20261019T183714Z"
+    },
+    {
+     "title": "Expropian tres inmuebles en CDMX para construir vivienda social; predios presentan deterioro y alto riesgo estructural",
+     "url": "https://www.eluniversal.com.mx/metropoli/expropian-tres-inmuebles-en-cdmx-para-construir-vivienda-social-predios-presentan-deterioro-y-alto-riesgo-estructural/",
+     "domain": "El Universal",
+     "seendate": "20261019T183447Z"
+    },
     {
      "title": "Catean vivienda habitada por la alcaldesa de Puerto Morelos en Cancún; FGR y Marina mantienen hermetismo sobre el operativo",
      "url": "https://www.eluniversal.com.mx/estados/catean-vivienda-habitada-por-la-alcaldesa-de-puerto-morelos-en-cancun-fgr-y-marina-mantienen-hermetismo-sobre-el-operativo/",
@@ -380,64 +440,10 @@
      "seendate": "20261019T101331Z"
     },
     {
-     "title": "Abren juicio a dos por triple homicidio",
-     "url": "https://www.eluniversal.com.mx/metropoli/abren-juicio-a-dos-por-triple-homicidio/",
-     "domain": "El Universal",
-     "seendate": "20261019T090049Z"
-    },
-    {
-     "title": "Buscan desaparecidos en la presa de Lago de Guadalupe",
-     "url": "https://www.eluniversal.com.mx/metropoli/buscan-desaparecidos-en-la-presa-de-lago-de-guadalupe/",
-     "domain": "El Universal",
-     "seendate": "20261019T085216Z"
-    },
-    {
-     "title": "Diputados van por reelección o contender por alcaldía",
-     "url": "https://www.eluniversal.com.mx/metropoli/diputados-van-por-reeleccion-o-contender-por-alcaldia/",
-     "domain": "El Universal",
-     "seendate": "20261019T084332Z"
-    },
-    {
-     "title": "Descartan extender la alerta de género",
-     "url": "https://www.eluniversal.com.mx/metropoli/descartan-extender-la-alerta-de-genero/",
-     "domain": "El Universal",
-     "seendate": "20261019T083752Z"
-    },
-    {
-     "title": "Suman 815 cámaras parásitas retiradas en 4 ayuntamientos",
-     "url": "https://www.eluniversal.com.mx/metropoli/suman-815-camaras-parasitas-retiradas-en-4-ayuntamientos/",
-     "domain": "El Universal",
-     "seendate": "20261019T082229Z"
-    },
-    {
-     "title": "Se han dictaminado 468 casos de despojo: Gobierno",
-     "url": "https://www.eluniversal.com.mx/metropoli/se-han-dictaminado-468-casos-de-despojo-gobierno/",
-     "domain": "El Universal",
-     "seendate": "20261019T081625Z"
-    },
-    {
      "title": "Clara Brugada alcanza 65% de aprobación en la Ciudad de México",
      "url": "https://www.eluniversal.com.mx/metropoli/clara-brugada-tiene-65-de-aprobacion-entre-capitalinos/",
      "domain": "El Universal",
      "seendate": "20261019T080414Z"
-    },
-    {
-     "title": "Tlalpan adjudica directamente 75% de sus contratos",
-     "url": "https://www.eluniversal.com.mx/metropoli/el-75-de-contratos-de-tlalpan-se-han-otorgado-por-adjudicacion-directa/",
-     "domain": "El Universal",
-     "seendate": "20261019T075617Z"
-    },
-    {
-     "title": "“Es ya una tradición disfrazarnos de zombies”; miles toman el Centro",
-     "url": "https://www.eluniversal.com.mx/metropoli/es-ya-una-tradicion-disfrazarnos-de-zombies-miles-toman-el-centro/",
-     "domain": "El Universal",
-     "seendate": "20261019T074847Z"
-    },
-    {
-     "title": "Registran robo de cable en el Tren Felipe Ángeles",
-     "url": "https://www.eluniversal.com.mx/metropoli/registran-robo-de-cable-en-el-tren-felipe-angeles/",
-     "domain": "El Universal",
-     "seendate": "20261019T074438Z"
     },
     {
      "title": "No somos un problema de seguridad nacional: musulmanas",
@@ -450,30 +456,6 @@
      "url": "https://www.eluniversal.com.mx/nacion/extorsion-un-delito-que-no-se-logra-disminuir-especialistas-alertan-que-persiste-desde-las-carceles/",
      "domain": "El Universal",
      "seendate": "20261019T070000Z"
-    },
-    {
-     "title": "Agentes de la CIA “operaron armados en Chihuahua”; expediente señala que participaron en despliegue táctico",
-     "url": "https://www.eluniversal.com.mx/nacion/agentes-de-la-cia-operaron-armados-en-chihuahua-expediente-senala-que-participaron-en-despliegue-tactico/",
-     "domain": "El Universal",
-     "seendate": "20261019T070000Z"
-    },
-    {
-     "title": "Mujeres marchan en defensa de la paridad",
-     "url": "https://www.eluniversal.com.mx/estados/mujeres-marchan-en-defensa-de-la-paridad/",
-     "domain": "El Universal",
-     "seendate": "20261019T065604Z"
-    },
-    {
-     "title": "Capullos Renace redefine la atención a la infancia",
-     "url": "https://www.eluniversal.com.mx/estados/capullos-renace-redefine-la-atencion-a-la-infancia/",
-     "domain": "El Universal",
-     "seendate": "20261019T064641Z"
-    },
-    {
-     "title": "Asesinan a aspirante de Morena a la alcaldía de Cuajinicuilapa",
-     "url": "https://www.eluniversal.com.mx/estados/asesinan-a-aspirante-de-morena-a-la-alcaldia-de-cuajinicuilapa/",
-     "domain": "El Universal",
-     "seendate": "20261019T063313Z"
     },
     {
      "title": "Vuelven miles a las calles por el agua en Jalisco",
@@ -982,10 +964,28 @@
   "CRI": {
    "articles": [
     {
+     "title": "¿Quién es Carlo Díaz? Esta es la trayectoria del fiscal general reelecto por 4 años más",
+     "url": "https://www.nacion.com/sucesos/quien-es-carlo-diaz-la-trayectoria-del-fiscal/H2Z6UTDOBZCMFCTNLMZPI5QKXU/story/",
+     "domain": "La Nación",
+     "seendate": "20261019T185859Z"
+    },
+    {
+     "title": "Diputada de Pueblo Soberano dice que se equivocó al votar contra recorte a universidades públicas y asegura que seguirá la línea oficialista: ‘Cometí un error’",
+     "url": "https://www.nacion.com/politica/diputada-oficialista-dice-haberse-equivocado-al/HZ5RQ7AWMNAPTAHJ5QQ7RXC3HI/story/",
+     "domain": "La Nación",
+     "seendate": "20261019T185124Z"
+    },
+    {
      "title": "Carlo Díaz reelegido como fiscal general por unanimidad",
      "url": "https://www.nacion.com/sucesos/corte-plena-discute-reeleccion-de-carlo-diaz-como/5NUJ2J3GNZG4LJGBN6EOXMEZHE/story/",
      "domain": "La Nación",
-     "seendate": "20261019T182759Z"
+     "seendate": "20261019T184529Z"
+    },
+    {
+     "title": "Cortes de luz de la CNFL afectarán zonas de San José y Heredia este miércoles 21 de octubre: conozca los lugares afectados",
+     "url": "https://www.nacion.com/el-pais/cortes-de-luz-de-la-cnfl-afectaran-zonas-de-san/AJWLWFUWCBC6LKFHCK6TXC4LDM/story/",
+     "domain": "La Nación",
+     "seendate": "20261019T183902Z"
     },
     {
      "title": "Cortes de luz del ICE afectarán localidades de Limón, Alajuela y Cartago este miércoles 21 de octubre",
@@ -1006,7 +1006,7 @@
      "seendate": "20261019T174358Z"
     },
     {
-     "title": "Moción para recortar ¢8.048 millones a universidades públicas en 2027 fracasa por voto disidente en el PPSO",
+     "title": "Moción para recortar ¢8.048 millones a universidades públicas en 2027 fracasa tras voto de diputada oficialista contra la línea del PPSO",
      "url": "https://www.nacion.com/politica/mocion-para-recortar-8048-millones-a-universidades/Y4GJOXVT2VDPBPXP53PVRXNDDQ/story/",
      "domain": "La Nación",
      "seendate": "20261019T170431Z"
@@ -1022,12 +1022,6 @@
      "url": "https://www.nacion.com/politica/siga-aqui-la-votacion-en-vivo-sobre-la-reeleccion/7GJU2L7DMJA7HI5DJTB6CDOGB4/story/",
      "domain": "La Nación",
      "seendate": "20261019T155604Z"
-    },
-    {
-     "title": "¿Quién es Carlo Díaz? La trayectoria del fiscal general que busca cuatro años más al frente del Ministerio Público",
-     "url": "https://www.nacion.com/sucesos/quien-es-carlo-diaz-la-trayectoria-del-fiscal/H2Z6UTDOBZCMFCTNLMZPI5QKXU/story/",
-     "domain": "La Nación",
-     "seendate": "20261019T150232Z"
     },
     {
      "title": "‘El cáncer no hace fila’: Costa Rica podría duplicar los casos para el 2050, ¿cómo prevenirlo?",
@@ -1166,17 +1160,17 @@
      "url": "https://www.nacion.com/sucesos/presidente-de-asosejud-habria-instalado-tv-por/XVFRBSESGFATRDHAVEPYIP64MI/story/",
      "domain": "La Nación",
      "seendate": "20261018T202029Z"
-    },
-    {
-     "title": "Mujer y niña de 9 años habrían sido asesinadas mientras dormían en Liberia, según OIJ",
-     "url": "https://www.nacion.com/sucesos/mujer-y-nina-de-9-anos-habrian-sido-asesinadas/FNFC2AJSZRG4ND3W4FHMPGQZZA/story/",
-     "domain": "La Nación",
-     "seendate": "20261018T194023Z"
     }
    ]
   },
   "PAN": {
    "articles": [
+    {
+     "title": "La fuerza del mar dividió Isla Cañas, así luce ahora",
+     "url": "https://www.prensa.com/sociedad/la-fuerza-del-mar-dividio-isla-canas-asi-luce-ahora/",
+     "domain": "La Prensa",
+     "seendate": "20261019T185723Z"
+    },
     {
      "title": "Panamá registra 917 réplicas tras el terremoto de Azuero; también sismos en Chiriquí y Bocas del Toro",
      "url": "https://www.prensa.com/sociedad/panama-registra-917-replicas-tras-el-terremoto-de-azuero-tambien-sismos-en-chiriqui-y-bocas-del-toro/",
@@ -1429,10 +1423,34 @@
   "COL": {
    "articles": [
     {
+     "title": "Arroceros del Llano afectados por las inundaciones y los bajos precios del grano le insisten al Gobierno Nacional en busca de ayuda",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/arroceros-del-llano-afectados-por-las-inundaciones-y-los-bajos-precios-del-grano-le-insisten-al-gobierno-nacional-en-busca-de-ayuda-3594675",
+     "domain": "El Tiempo",
+     "seendate": "20261019T190637Z"
+    },
+    {
      "title": "Tragedia en Iscuandé, Nariño: un derrumbe en una mina de oro deja al menos nueve muertos en esta región del suroccidente colombiano",
      "url": "https://www.eltiempo.com/colombia/cali/tragedia-en-iscuande-narino-un-derrumbe-en-una-mina-de-oro-deja-al-menos-nueve-muertos-en-esta-region-del-suroccidente-colombiano-3594662",
      "domain": "El Tiempo",
-     "seendate": "20261019T181657Z"
+     "seendate": "20261019T185450Z"
+    },
+    {
+     "title": "Drones y ataques de disidencias tienen atemorizados a los municipios del Huila: gobernador pidió al gobierno que acelere las medidas de protección",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/drones-y-ataques-de-disidencias-tienen-atemorizados-a-los-municipios-del-huila-gobernador-pidio-al-gobierno-que-acelere-las-medidas-de-proteccion-3594667",
+     "domain": "El Tiempo",
+     "seendate": "20261019T184610Z"
+    },
+    {
+     "title": "En videos, escenas desgarradoras por el derrumbe que causó la muerte de por lo menos nueve mineros en Iscuandé, Nariño",
+     "url": "https://www.eltiempo.com/colombia/cali/en-videos-escenas-desgarradoras-por-el-derrumbe-que-causo-la-muerte-de-por-lo-menos-nueve-mineros-en-iscuande-narino-3594666",
+     "domain": "El Tiempo",
+     "seendate": "20261019T184517Z"
+    },
+    {
+     "title": "El Ejército neutraliza la capacidad ofensiva de la 'Jaime Martínez': destruyen depósito con explosivos para drones en Buenaventura",
+     "url": "https://www.eltiempo.com/colombia/cali/el-ejercito-neutraliza-la-capacidad-ofensiva-de-la-jaime-martinez-destruyen-deposito-con-explosivos-para-drones-en-buenaventura-3594668",
+     "domain": "El Tiempo",
+     "seendate": "20261019T183328Z"
     },
     {
      "title": "La dura historia de María, mujer a la que hace 33 años separaron de su madre y a su padre lo asesinaron cuando tenía seis años en Santander",
@@ -1463,30 +1481,6 @@
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/yahir-acuna-fiscalia-archiva-caso-por-487-millones-incautados-en-2015-y-ordena-devolver-los-recursos-3594635",
      "domain": "El Tiempo",
      "seendate": "20261019T170435Z"
-    },
-    {
-     "title": "¿Qué hay detrás de la incineración del camión de aseo en Popayán y los explosivos en la vía Panamericana en Cauca?",
-     "url": "https://www.eltiempo.com/colombia/cali/que-hay-detras-de-la-incineracion-del-camion-de-aseo-en-popayan-y-los-explosivos-en-la-via-panamericana-en-cauca-3594631",
-     "domain": "El Tiempo",
-     "seendate": "20261019T165808Z"
-    },
-    {
-     "title": "'No puede ser que las diferencias se resuelvan con violencia; murió mi amigo': Andrés Felipe Ramírez relató los duros momentos del atentado",
-     "url": "https://www.eltiempo.com/colombia/cali/no-puede-ser-que-las-diferencias-se-resuelvan-con-violencia-murio-mi-amigo-andres-felipe-ramirez-relato-los-duros-momentos-del-atentado-3594588",
-     "domain": "El Tiempo",
-     "seendate": "20261019T162336Z"
-    },
-    {
-     "title": "Mezclas, adulteración y desinformación: las dinámicas y riesgos detrás del consumo de sustancias en festivales de música electrónica en Colombia",
-     "url": "https://www.eltiempo.com/colombia/medellin/mezclas-adulteracion-y-desinformacion-las-dinamicas-y-riesgos-detras-del-consumo-de-sustancias-en-festivales-de-musica-electronica-en-colombia-3594303",
-     "domain": "El Tiempo",
-     "seendate": "20261019T161639Z"
-    },
-    {
-     "title": "Santander despliega fuerte ofensiva militar y ofrece recompensa de 50 millones de pesos tras la quema de un bus en la provincia García Rovira",
-     "url": "https://www.eltiempo.com/colombia/santander/santander-despliega-fuerte-ofensiva-militar-y-ofrece-recompensa-de-50-millones-de-pesos-tras-la-quema-de-un-bus-en-la-provincia-garcia-rovira-3594593",
-     "domain": "El Tiempo",
-     "seendate": "20261019T151541Z"
     }
    ]
   },
@@ -1731,6 +1725,12 @@
   "ECU": {
    "articles": [
     {
+     "title": "Testimonio anticipado de jueza que grabó reunión, la primera prueba que presenta Fiscalía en el caso Vocales",
+     "url": "https://eluniverso.com/politica/expedientes/testimomio-anticipado-jueza-grabo-reunion-primera-prueba-presenta-fiscalia-juicio-caso-vocales-nota/",
+     "domain": "El Universo",
+     "seendate": "20261019T190530Z"
+    },
+    {
      "title": "Elecciones seccionales de 2027: IGM va en el 45 % de impresión de papeletas de candidatos de 16 provincias",
      "url": "https://eluniverso.com/politica/elecciones/elecciones-seccionales-2027-consejo-nacional-electoral-igm-papeletas-electorales-nota/",
      "domain": "El Universo",
@@ -1863,27 +1863,33 @@
      "seendate": "20261019T122308Z"
     },
     {
-     "title": "Aquiles Alvarez, ‘el Jefe’ y sus hermanos Antonio y Xavier, ‘el Loco’ y el ‘Pollo’: así se repartían los roles en el caso Goleada, según Fiscalía",
-     "url": "https://eluniverso.com/politica/expedientes/aquiles-alvarez-el-jefe-y-sus-hermanos-antonio-y-xavier-el-loco-y-el-pollo-asi-se-repartian-los-roles-en-el-caso-goleada-segun-fiscalia-nota/",
-     "domain": "El Universo",
-     "seendate": "20261019T111500Z"
-    },
-    {
      "title": "Suspensión temporal de agua potable en Quinindé por condiciones del río Blanco",
      "url": "https://eluniverso.com/comunidad/ecuador/suspension-temporal-de-agua-potable-en-quininde-por-condiciones-del-rio-blanco-nota/",
      "domain": "El Universo",
      "seendate": "20261019T034007Z"
-    },
-    {
-     "title": "Lluvias en Ecuador: tres fallecidos y 21.522 afectados se registran desde la alerta roja emitida por la Secretaría de Gestión de Riesgos",
-     "url": "https://eluniverso.com/comunidad/ecuador/lluvias-en-ecuador-tres-fallecidos-y-21522-afectados-se-registran-desde-la-alerta-roja-emitida-por-la-secretaria-de-gestion-de-riesgos-nota/",
-     "domain": "El Universo",
-     "seendate": "20261019T003000Z"
     }
    ]
   },
   "PER": {
    "articles": [
+    {
+     "title": "¿Tienes una línea de crédito que nunca usas? Conoce si conviene cerrarla antes de pedir otro crédito",
+     "url": "https://elcomercio.pe/economia/peru/tienes-una-linea-de-credito-que-nunca-usas-conoce-si-conviene-cerrarla-antes-de-pedir-otro-credito-l-ultimas-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261019T191903Z"
+    },
+    {
+     "title": "Rextie se prepara para su primer salto internacional: ¿a qué mercados mira la fintech de cambio de dólares y otras divisas?",
+     "url": "https://elcomercio.pe/economia/peru/rextie-se-prepara-para-su-primer-salto-internacional-a-que-mercado-se-mueve-la-fintech-de-cambio-de-divisas-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261019T190107Z"
+    },
+    {
+     "title": "PBI se desacelera en agosto: ¿qué frenó el crecimiento y cuáles son los riesgos para el cierre del año?",
+     "url": "https://elcomercio.pe/economia/peru/pbi-se-desacelera-en-agosto-que-freno-el-crecimiento-y-cuales-son-los-riesgos-para-el-cierre-del-ano-economia-peruana-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261019T184448Z"
+    },
     {
      "title": "Moody’s Local Perú: solvencia del sistema financiero peruano se mantendría sólida para el cierre de 2026",
      "url": "https://elcomercio.pe/economia/peru/moodys-local-peru-solvencia-del-sistema-financiero-peruano-se-mantendria-solida-para-el-cierre-de-2026-l-ultimas-noticia/",
@@ -1891,28 +1897,10 @@
      "seendate": "20261019T181719Z"
     },
     {
-     "title": "Rextie se prepara para su primer salto internacional: ¿a qué mercados mira la fintech de cambio de dólares y otras divisas?",
-     "url": "https://elcomercio.pe/economia/peru/rextie-se-prepara-para-su-primer-salto-internacional-a-que-mercado-se-mueve-la-fintech-de-cambio-de-divisas-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261019T173941Z"
-    },
-    {
      "title": "SBS pone en consulta pública el segundo bloque normativo del Sistema de Finanzas Abiertas",
      "url": "https://elcomercio.pe/economia/peru/sbs-pone-en-consulta-publica-el-segundo-bloque-normativo-del-sistema-de-finanzas-abiertas-l-ultimas-noticia/",
      "domain": "El Comercio",
      "seendate": "20261019T171949Z"
-    },
-    {
-     "title": "María Julia Caffaro: “La innovación va a tener valor si llega al paciente”",
-     "url": "https://elcomercio.pe/peru/maria-julia-caffaro-la-innovacion-va-a-tener-valor-si-llega-al-paciente-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261019T171224Z"
-    },
-    {
-     "title": "PBI se desacelera en agosto: ¿qué frenó el crecimiento y cuáles son los riesgos para el cierre del año?",
-     "url": "https://elcomercio.pe/economia/peru/pbi-se-desacelera-en-agosto-que-freno-el-crecimiento-y-cuales-son-los-riesgos-para-el-cierre-del-ano-economia-peruana-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261019T170905Z"
     },
     {
      "title": "Tipo de cambio al 19 de octubre: sol peruano gana terreno frente al dólar en medio de la incertidumbre internacional",
@@ -1955,6 +1943,180 @@
   "BOL": {
    "articles": [
     {
+     "title": "Observatorio : denuncian tres casos diarios de trata de personas en el país",
+     "url": "https://www.lostiempos.com/actualidad/pais/20261019/observatorio-denuncian-tres-casos-diarios-trata-personas-pais",
+     "domain": "lostiempos.com",
+     "seendate": "20261019T190000Z"
+    },
+    {
+     "title": "La corrupción que toleramos",
+     "url": "https://eju.tv/2026/10/la-corrupcion-que-toleramos/",
+     "domain": "eju.tv",
+     "seendate": "20261019T174500Z"
+    },
+    {
+     "title": "Ajedrez : Santa Cruz corona a los ganadores de la sexta Olimpiada Nacional Escolar",
+     "url": "https://eju.tv/2026/10/ajedrez-santa-cruz-corona-a-los-ganadores-de-la-sexta-olimpiada-nacional-escolar/",
+     "domain": "eju.tv",
+     "seendate": "20261019T174500Z"
+    },
+    {
+     "title": "Zamora califica de ciencia ficción el audio sobre un supuesto operativo para capturar a Evo Morales – eju . tv",
+     "url": "https://eju.tv/2026/10/zamora-califica-de-ciencia-ficcion-el-audio-sobre-un-supuesto-operativo-para-capturar-a-evo-morales/",
+     "domain": "eju.tv",
+     "seendate": "20261019T174500Z"
+    },
+    {
+     "title": "Go Airlines espera volar en 45 días y Cruzair prevé ingresar con ocho aviones",
+     "url": "https://eju.tv/2026/10/go-airlines-espera-volar-en-45-dias-y-cruzair-preve-ingresar-con-ocho-aviones/",
+     "domain": "eju.tv",
+     "seendate": "20261019T174500Z"
+    },
+    {
+     "title": "¿ Quién es Jimmy Fernando López ? nuevo fiscal de Santa Cruz",
+     "url": "https://eju.tv/2026/10/quien-es-jimi-fernando-lopez-nuevo-fiscal-de-santa-cruz/",
+     "domain": "eju.tv",
+     "seendate": "20261019T174500Z"
+    },
+    {
+     "title": "Paz revela gestiones de financiamiento para una gran reforma judicial desde enero de 2027",
+     "url": "https://eju.tv/2026/10/paz-revela-gestiones-de-financiamiento-para-una-gran-reforma-judicial-desde-enero-de-2027/",
+     "domain": "eju.tv",
+     "seendate": "20261019T174500Z"
+    },
+    {
+     "title": "Alicorp consolida su liderazgo en sostenibilidad tras ser galardonada en Industrias con Impacto",
+     "url": "https://eju.tv/2026/10/alicorp-consolida-su-liderazgo-en-sostenibilidad-tras-ser-galardonada-en-industrias-con-impacto/",
+     "domain": "eju.tv",
+     "seendate": "20261019T174500Z"
+    },
+    {
+     "title": "Lara : « No importa quién haya recomendado al fiscal , está dando señales de que la Fiscalía va a cambiar »",
+     "url": "https://eju.tv/2026/10/lara-no-importa-quien-haya-recomendado-al-fiscal-esta-dando-senales-de-que-la-fiscalia-va-a-cambiar/",
+     "domain": "eju.tv",
+     "seendate": "20261019T174500Z"
+    },
+    {
+     "title": "Estudiar en un país y ejercer en otro : ¿ cómo se reconocen los títulos y las competencias profesionales ?",
+     "url": "https://www.opinion.com.bo/innovacion-educativa/estudiar-pais-ejercer-como-reconocen-titulos-competencias-profesionales/20261019100922997825.html",
+     "domain": "opinion.com.bo",
+     "seendate": "20261019T164500Z"
+    },
+    {
+     "title": "Denuncia de diputado activa investigación contra el senador Condori , Evo y otras dos personas",
+     "url": "https://www.opinion.com.bo/pais/denuncia-diputado-activa-investigacion-senador-condori-evo-otras-dos-personas/20261019082405997815.html",
+     "domain": "opinion.com.bo",
+     "seendate": "20261019T164500Z"
+    },
+    {
+     "title": "Aulas que incluyen : cómo transformar las prácticas docentes para reducir las brechas de género en la educación",
+     "url": "https://www.opinion.com.bo/innovacion-educativa/aulas-que-incluyen-como-transformar-practicas-docentes-reducir-brechas-genero-educacion/20261019100424997823.html",
+     "domain": "opinion.com.bo",
+     "seendate": "20261019T164500Z"
+    },
+    {
+     "title": "Nilton Condori se acoge al silencio y aguarda su audiencia cautelar",
+     "url": "https://www.opinion.com.bo/pais/nilton-condori-acoge-silencio-aguarda-audiencia-cautelar/20261019085322997817.html",
+     "domain": "opinion.com.bo",
+     "seendate": "20261019T164500Z"
+    },
+    {
+     "title": "La Paz - Chuquiagomarka , ciudad interplurimulti",
+     "url": "https://www.erbol.com.bo/opinion/la-paz-chuquiagomarka-ciudad-interplurimulti",
+     "domain": "erbol.com.bo",
+     "seendate": "20261019T163000Z"
+    },
+    {
+     "title": "Estamos muy preocupados : muerte trágica pone al descubierto la precariedad del sector fabril",
+     "url": "https://www.erbol.com.bo/gente/%E2%80%9Cestamos-muy-preocupados%E2%80%9D-muerte-tr%C3%A1gica-pone-al-descubierto-la-precariedad-del-sector-fabril",
+     "domain": "erbol.com.bo",
+     "seendate": "20261019T163000Z"
+    },
+    {
+     "title": "Magistratura aún revisa expedientes de jueces presuntamente vinculad",
+     "url": "http://radiofides.com/seguridad/magistratura-aun-revisa-expedientes-de-jueces-presuntamente-vinculados-con-la-proteccion-al-crimen-organizado",
+     "domain": "radiofides.com",
+     "seendate": "20261019T161500Z"
+    },
+    {
+     "title": "Bolivia y Chile : del diálogo a los resultados",
+     "url": "https://eldeber.com.bo/opinion/bolivia-chile-dialogo-resultados_1792367731",
+     "domain": "eldeber.com.bo",
+     "seendate": "20261019T151500Z"
+    },
+    {
+     "title": "El autogobierno cruceño , el ideal histórico que hoy se expresa en la autonomía",
+     "url": "https://eldeber.com.bo/pais/autogobierno-cruceno-ideal-historico-hoy-expresa-autonomia_1792368681",
+     "domain": "eldeber.com.bo",
+     "seendate": "20261019T151500Z"
+    },
+    {
+     "title": "El crédito del FMI no compra capacidad de ejecución",
+     "url": "https://eldeber.com.bo/opinion/credito-fmi-no-compra-capacidad-ejecucion_1792367101",
+     "domain": "eldeber.com.bo",
+     "seendate": "20261019T151500Z"
+    },
+    {
+     "title": "La amenaza de fusilar a autoridades deriva en la aprehensión de Condori",
+     "url": "https://eldeber.com.bo/pais/amenaza-fusilar-autoridades-deriva-aprehension-condori_1792371169",
+     "domain": "eldeber.com.bo",
+     "seendate": "20261019T151500Z"
+    },
+    {
+     "title": "No estamos ni en puertas del Súper Niño , esto recién comienza , alerta un viceministro",
+     "url": "https://eldeber.com.bo/pais/no-estamos-puertas-super-nino-esto-recien-comienza-alerta-viceministro_1792415319",
+     "domain": "eldeber.com.bo",
+     "seendate": "20261019T151500Z"
+    },
+    {
+     "title": "¿ Reconciliación con Chile ?",
+     "url": "https://eldeber.com.bo/opinion/reconciliacion-chile_1792367327",
+     "domain": "eldeber.com.bo",
+     "seendate": "20261019T151500Z"
+    },
+    {
+     "title": "El Sarao busca reavivar la identidad cruceña",
+     "url": "https://eldeber.com.bo/santa-cruz/sarao-busca-reavivar-identidad-crucena_1792363961",
+     "domain": "eldeber.com.bo",
+     "seendate": "20261019T151500Z"
+    },
+    {
+     "title": "EL DÍA - Noticias de Bolivia para el mundo",
+     "url": "https://www.eldia.com.bo/2026-10-19/opinion/tribuna/presidente-paz-otra-vez-el-gas.html",
+     "domain": "eldia.com.bo",
+     "seendate": "20261019T134500Z"
+    },
+    {
+     "title": "Evistas convocan a movilizaciones para este lunes y critican a la COB",
+     "url": "https://eju.tv/2026/10/evistas-convocan-a-movilizaciones-para-este-lunes-y-critican-a-la-cob/",
+     "domain": "eju.tv",
+     "seendate": "20261019T073000Z"
+    },
+    {
+     "title": "Captura de Nilton Condori activa amenaza de « levantamiento nacional » y sube la tensión social",
+     "url": "https://eju.tv/2026/10/captura-de-nilton-condori-activa-amenaza-de-levantamiento-nacional-y-sube-la-tension-social/",
+     "domain": "eju.tv",
+     "seendate": "20261019T073000Z"
+    },
+    {
+     "title": "La academia venció con lo justo a Nacional Potosí 1 a 0 , en la Villa Imperial",
+     "url": "https://www.erbol.com.bo/deporte/la-academia-venci%C3%B3-con-lo-justo-nacional-potos%C3%AD-1-0-en-la-villa-imperial",
+     "domain": "erbol.com.bo",
+     "seendate": "20261019T071500Z"
+    },
+    {
+     "title": "BIOGRAFÍA PADRE EDUARDO PÉREZ IRIBARNE",
+     "url": "http://radiofides.com/nacional/biografia-del-p-eduardo-perez-iribarne",
+     "domain": "radiofides.com",
+     "seendate": "20261019T063000Z"
+    },
+    {
+     "title": "INE : cae la producción de carne de res , pero crece exportación a varios países",
+     "url": "https://www.lostiempos.com/actualidad/economia/20261018/ine-cae-produccion-carne-res-pero-crece-exportacion-varios-paises",
+     "domain": "lostiempos.com",
+     "seendate": "20261019T051500Z"
+    },
+    {
      "title": "Nilton Condori cae por el caso de los 53 días de bloqueos que exigían …",
      "url": "https://fmbolivia.com.bo/seguridad/nilton-condori-cae-por-el-caso-de-los-53-dias-de-bloqueos-que-exigian-la-renuncia-de-rodrigo-paz-21424",
      "domain": "fmbolivia.com.bo",
@@ -1965,12 +2127,6 @@
      "url": "https://hoybolivia.com/Noticia.php?IdNoticia=374391",
      "domain": "hoybolivia.com",
      "seendate": "20261018T183000Z"
-    },
-    {
-     "title": "EL DÍA - Noticias de Bolivia para el mundo",
-     "url": "https://www.eldia.com.bo/2026-10-18/politica/paz-llega-a-su-primer-ano-con-un-solo-embajador-y-criticas-por-designaciones-diplomaticas.html",
-     "domain": "eldia.com.bo",
-     "seendate": "20261018T181500Z"
     },
     {
      "title": "Monseñor Leigue alienta a buscar salidas dialogas a los problemas del país",
@@ -2049,192 +2205,6 @@
      "url": "https://eldeber.com.bo/sociales/fue-armando-terceros-voz-convirtio-amor-santa-cruz-canciones_1792278983",
      "domain": "eldeber.com.bo",
      "seendate": "20261018T154500Z"
-    },
-    {
-     "title": "Recuperación del ferrocarril Arica – La Paz como vía para incrementar el movimiento de carga boliviana",
-     "url": "https://eldeber.com.bo/pais/recuperacion-ferrocarril-arica-paz-via-incrementar-movimiento-carga-boliviana_1792334249",
-     "domain": "eldeber.com.bo",
-     "seendate": "20261018T154500Z"
-    },
-    {
-     "title": "El auge de la tecnología de consumo rápido eleva el desafío de gestionar desechos electrónicos",
-     "url": "https://eldeber.com.bo/sostenibilidad-y-negocios/auge-tecnologia-consumo-rapido-eleva-desafio-gestionar-desechos-electronicos_1792275717",
-     "domain": "eldeber.com.bo",
-     "seendate": "20261018T154500Z"
-    },
-    {
-     "title": "Bolivia busca que el laboratorio más alto del mundo sea patrimonio de la humanidad",
-     "url": "https://eldeber.com.bo/pais/bolivia-busca-laboratorio-alto-mundo-sea-patrimonio-humanidad_1792334900",
-     "domain": "eldeber.com.bo",
-     "seendate": "20261018T154500Z"
-    },
-    {
-     "title": "Pedro Rivero Mercado : una vida dedicada al periodismo , la literatura y el pensamiento",
-     "url": "https://eldeber.com.bo/sociales/pedro-rivero-mercado-vida-dedicada-periodismo-literatura-pensamiento_1792275022",
-     "domain": "eldeber.com.bo",
-     "seendate": "20261018T154500Z"
-    },
-    {
-     "title": "Iglesia pide mejorar el sistema sanitaria antes de pensar en la eutanasia",
-     "url": "https://eldeber.com.bo/pais/iglesia-pide-mejorar-sistema-sanitaria-antes-pensar-eutanasia_1792328726",
-     "domain": "eldeber.com.bo",
-     "seendate": "20261018T154500Z"
-    },
-    {
-     "title": "Amanda Miguel : Estoy en una época de coronación de mi carrera",
-     "url": "https://eldeber.com.bo/sociales/amanda-miguel-estoy-epoca-coronacion-carrera_1792272212",
-     "domain": "eldeber.com.bo",
-     "seendate": "20261018T154500Z"
-    },
-    {
-     "title": "Los Pozos : Alcaldía no baja la guardia y sostiene los operativos para mantener el orden",
-     "url": "https://eldeber.com.bo/santa-cruz/pozos-alcaldia-no-baja-guardia-sostiene-operativos-mantener-orden_1792329973",
-     "domain": "eldeber.com.bo",
-     "seendate": "20261018T154500Z"
-    },
-    {
-     "title": "Kast y Paz reabren la ruta diplomática y fijan una agenda de integración",
-     "url": "https://eldeber.com.bo/pais/kast-paz-reabren-ruta-diplomatica-fijan-agenda-integracion_1792277855",
-     "domain": "eldeber.com.bo",
-     "seendate": "20261018T154500Z"
-    },
-    {
-     "title": "El Estado paga ocho bonos a cuatro grupos vulnerables y este 2026 se sumaron tres",
-     "url": "https://eldeber.com.bo/economia/estado-paga-ocho-bonos-cuatro-grupos-vulnerables-este-2026-sumaron-tres_1792276695",
-     "domain": "eldeber.com.bo",
-     "seendate": "20261018T154500Z"
-    },
-    {
-     "title": "Amplían operativos en caso Mariaca y Naciones Unidas alerta infiltración criminal",
-     "url": "https://eldeber.com.bo/santa-cruz/amplian-operativos-caso-mariaca-naciones-unidas-alerta-infiltracion-criminal_1792323959",
-     "domain": "eldeber.com.bo",
-     "seendate": "20261018T154500Z"
-    },
-    {
-     "title": "Más de 50 obras viales se financiarán con $us 75 millones de crédito de Fonplata",
-     "url": "https://eldeber.com.bo/economia/50-obras-viales-financiaran-us-75-millones-credito-fonplata_1792333119",
-     "domain": "eldeber.com.bo",
-     "seendate": "20261018T154500Z"
-    },
-    {
-     "title": "Bolivia : cuatro años de recesión",
-     "url": "https://eldeber.com.bo/opinion/bolivia-cuatro-anos-recesion_1792323197",
-     "domain": "eldeber.com.bo",
-     "seendate": "20261018T154500Z"
-    },
-    {
-     "title": "Presidentes en este siglo , fiscales en el otro",
-     "url": "https://eldeber.com.bo/opinion/presidentes-este-siglo-fiscales-otro_1792288156",
-     "domain": "eldeber.com.bo",
-     "seendate": "20261018T154500Z"
-    },
-    {
-     "title": "El problema no es del bisturí",
-     "url": "https://eldeber.com.bo/opinion/problema-no-bisturi_1792287905",
-     "domain": "eldeber.com.bo",
-     "seendate": "20261018T154500Z"
-    },
-    {
-     "title": "Pensamiento político en el Oriente boliviano",
-     "url": "https://eldeber.com.bo/opinion/pensamiento-politico-oriente-boliviano_1792288241",
-     "domain": "eldeber.com.bo",
-     "seendate": "20261018T154500Z"
-    },
-    {
-     "title": "Sacaba vive hoy la Primera Promesa rumbo a la festividad de la Virgen del Amparo",
-     "url": "https://www.opinion.com.bo/cochabamba/sacaba-vive-hoy-primera-promesa-rumbo-festividad-virgen-amparo/20261018080831997788.html",
-     "domain": "opinion.com.bo",
-     "seendate": "20261018T124500Z"
-    },
-    {
-     "title": "Bolívar visita a Nacional Potosí este domingo",
-     "url": "https://www.erbol.com.bo/deporte/bol%C3%ADvar-visita-nacional-potos%C3%AD-este-domingo",
-     "domain": "erbol.com.bo",
-     "seendate": "20261018T070000Z"
-    },
-    {
-     "title": "Sube a cinco el número de fallecidos por conflictos en el país",
-     "url": "http://radiofides.com/seguridad/sube-a-cinco-el-numero-de-fallecidos-por-conflictos-en-el-pais",
-     "domain": "radiofides.com",
-     "seendate": "20261018T064500Z"
-    },
-    {
-     "title": "El Banco Central descarta nuevos corralitos en dólares y el empeño de las reservas de oro",
-     "url": "https://hoybolivia.com/Noticia.php?IdNoticia=374387",
-     "domain": "hoybolivia.com",
-     "seendate": "20261018T041500Z"
-    },
-    {
-     "title": "Bolivia es centro de las operaciones de cárteles transnacionales",
-     "url": "https://hoybolivia.com/Noticia.php?IdNoticia=374388",
-     "domain": "hoybolivia.com",
-     "seendate": "20261018T041500Z"
-    },
-    {
-     "title": "Secretario de Gobernación de Santa Cruz ve afanes golpistas en las movilizaciones de evistas",
-     "url": "https://www.opinion.com.bo/pais/secretario-gobernacion-santa-cruz-ve-afanes-golpistas-movilizaciones-evistas/20261017190200997764.html",
-     "domain": "opinion.com.bo",
-     "seendate": "20261018T030000Z"
-    },
-    {
-     "title": "Fallece el padre del expresidente Jorge Tuto Quiroga",
-     "url": "https://www.opinion.com.bo/pais/fallece-padre-expresidente-jorge-tuto-quiroga/20261017224500997784.html",
-     "domain": "opinion.com.bo",
-     "seendate": "20261018T030000Z"
-    },
-    {
-     "title": "Trágica muerte enluta a los obreros : la COB denuncia asesinato social y declara alerta",
-     "url": "https://www.opinion.com.bo/pais/tragica-muerte-enluta-obreros-cob-denuncia-asesinato-social-declara-alerta/20261017195403997774.html",
-     "domain": "opinion.com.bo",
-     "seendate": "20261018T030000Z"
-    },
-    {
-     "title": "Senado aprueba Mi Bolivia Lechera , un proyecto que prevé crear un fondo para el sector",
-     "url": "https://www.opinion.com.bo/pais/senado-aprueba-bolivia-lechera-proyecto-que-preve-crear-fondo-sector/20261017111425997740.html",
-     "domain": "opinion.com.bo",
-     "seendate": "20261018T030000Z"
-    },
-    {
-     "title": "Fallece Armando Terceros , fundador de Los Cambitas , a los 82 años",
-     "url": "https://eldeber.com.bo/santa-cruz/fallece-armando-terceros-fundador-cambitas-82-anos_1792244465",
-     "domain": "eldeber.com.bo",
-     "seendate": "20261017T174500Z"
-    },
-    {
-     "title": "Vidas reúne a más de 200 mujeres del agro y abre espacio a la pitahaya boliviana",
-     "url": "https://eldeber.com.bo/santa-cruz/vidas-reune-200-mujeres-agro-abre-espacio-pitahaya-boliviana_1792250067",
-     "domain": "eldeber.com.bo",
-     "seendate": "20261017T174500Z"
-    },
-    {
-     "title": "Decomisan unas 300 garrafas de GLP cerca de la terminal interprovincial de El Alto",
-     "url": "https://eldeber.com.bo/pais/decomisan-300-garrafas-glp-cerca-terminal-interprovincial-alto_1792247741",
-     "domain": "eldeber.com.bo",
-     "seendate": "20261017T174500Z"
-    },
-    {
-     "title": "Solis y Chang se consagran campeones de dobles en el Cóndor de Plata de La Paz y Cochabamba",
-     "url": "https://eju.tv/2026/10/solis-y-chang-se-consagran-campeones-de-dobles-en-el-condor-de-plata-de-la-paz-y-cochabamba/",
-     "domain": "eju.tv",
-     "seendate": "20261017T173000Z"
-    },
-    {
-     "title": "Bolivia y la FAO acuerdan una agenda de cooperación con cinco ejes estratégicos",
-     "url": "https://eju.tv/2026/10/bolivia-y-la-fao-acuerdan-una-agenda-de-cooperacion-con-cinco-ejes-estrategicos/",
-     "domain": "eju.tv",
-     "seendate": "20261017T173000Z"
-    },
-    {
-     "title": "« Evo fué el que perdió una valiosa oportunidad de salida soberana al mar , al margen de la diplomacia y el diálogo »",
-     "url": "https://eju.tv/2026/10/evo-fue-el-que-perdio-una-valiosa-oportunidad-de-salida-soberana-al-mar-al-margen-de-la-diplomacia-y-el-dialogo/",
-     "domain": "eju.tv",
-     "seendate": "20261017T173000Z"
-    },
-    {
-     "title": "Puerto de Arica levanta las restricciones en la terminal",
-     "url": "https://eju.tv/2026/10/puerto-de-arica-levanta-las-restricciones-en-la-terminal/",
-     "domain": "eju.tv",
-     "seendate": "20261017T173000Z"
     }
    ]
   },
@@ -2599,22 +2569,70 @@
   "ARG": {
    "articles": [
     {
+     "title": "Brutal ataque a una yegua en un campo bonaerense: le cortaron la cara y le fracturaron el hocico",
+     "url": "https://www.lanacion.com.ar/economia/campo/brutal-ataque-a-una-yegua-en-un-campo-bonaerense-le-cortaron-la-cara-y-le-fracturaron-el-hocico-nid19102026/",
+     "domain": "La Nación",
+     "seendate": "20261019T192522Z"
+    },
+    {
+     "title": "Para el Gobierno, la suba del riesgo país obedece a la “incertidumbre global”",
+     "url": "https://www.lanacion.com.ar/politica/para-el-gobierno-la-suba-del-riesgo-pais-obedece-a-la-incertidumbre-global-nid19102026/",
+     "domain": "La Nación",
+     "seendate": "20261019T192110Z"
+    },
+    {
      "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este lunes 19 de octubre, minuto a minuto",
      "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid19102026/",
      "domain": "La Nación",
-     "seendate": "20261019T183000Z"
+     "seendate": "20261019T192000Z"
+    },
+    {
+     "title": "La tragedia del gendarme arrastrado por un arroyo: lo hallaron a seis kilómetros del lugar donde cayó",
+     "url": "https://www.lanacion.com.ar/sociedad/la-tragedia-del-gendarme-arrastrado-por-un-arroyo-lo-hallaron-a-seis-kilometros-del-lugar-donde-cayo-nid19102026/",
+     "domain": "La Nación",
+     "seendate": "20261019T191338Z"
+    },
+    {
+     "title": "Cómo está cambiando la política de beneficios corporativos",
+     "url": "https://www.lanacion.com.ar/economia/negocios/como-esta-cambiando-la-politica-de-beneficios-corporativos-nid19102026/",
+     "domain": "La Nación",
+     "seendate": "20261019T191117Z"
+    },
+    {
+     "title": "Javier Milei y sus medidas, EN VIVO: “La casta, la alta política, los empresaurios y los periodistas no son muy distintos”",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-casta-la-alta-politica-los-empresaurios-y-los-periodistas-no-nid19102026/",
+     "domain": "La Nación",
+     "seendate": "20261019T190603Z"
+    },
+    {
+     "title": "Jorge Tartaglione, médico, sobre el consumo del café: “Tomar más de cuatro tazas por día podría aumentar los problemas cardíacos”",
+     "url": "https://www.lanacion.com.ar/sociedad/jorge-tartaglione-medico-sobre-el-consumo-del-cafe-tomar-mas-de-cuatro-tazas-por-dia-podria-aumentar-nid19102026/",
+     "domain": "La Nación",
+     "seendate": "20261019T190000Z"
+    },
+    {
+     "title": "Exploran el armado de un frente opositor en la Capital, pero La Cámpora asoma como un “problema”",
+     "url": "https://www.lanacion.com.ar/politica/exploran-el-armado-de-un-frente-opositor-en-la-capital-pero-la-campora-asoma-como-un-problema-nid19102026/",
+     "domain": "La Nación",
+     "seendate": "20261019T185737Z"
+    },
+    {
+     "title": "La Justicia rechazó la oferta de $150 millones y Matías Morla irá a juicio por administración fraudulenta",
+     "url": "https://www.lanacion.com.ar/seguridad/la-justicia-rechazo-la-oferta-de-150-millones-y-matias-morla-ira-a-juicio-por-administracion-nid19102026/",
+     "domain": "La Nación",
+     "seendate": "20261019T184428Z"
+    },
+    {
+     "title": "Qué se sabe de la docente de 52 años desaparecida en Corrientes: hay dos detenidos y su familia cree que la engañaron",
+     "url": "https://www.lanacion.com.ar/seguridad/que-se-sabe-de-la-docente-de-52-anos-desaparecida-en-corrientes-hay-dos-detenidos-y-su-familia-cree-nid19102026/",
+     "domain": "La Nación",
+     "seendate": "20261019T183702Z"
     },
     {
      "title": "Pasajes aéreos: el ranking de los países que más impuestos cobran y dónde quedó la Argentina",
      "url": "https://www.lanacion.com.ar/economia/pasajes-aereos-el-ranking-de-los-paises-que-mas-impuestos-cobran-y-donde-quedo-la-argentina-nid19102026/",
      "domain": "La Nación",
      "seendate": "20261019T182226Z"
-    },
-    {
-     "title": "Qué se sabe de la docente de 52 años desaparecida en Corrientes: hay dos detenidos y su familia cree que la engañaron",
-     "url": "https://www.lanacion.com.ar/seguridad/que-se-sabe-de-la-docente-de-52-anos-desaparecida-en-corrientes-hay-dos-detenidos-y-su-familia-cree-nid19102026/",
-     "domain": "La Nación",
-     "seendate": "20261019T181847Z"
     },
     {
      "title": "Súper Niño: qué se sabe sobre los efectos que tendrá el fenómeno en la Argentina y cuándo impactará con más fuerza",
@@ -2689,12 +2707,6 @@
      "seendate": "20261019T181554Z"
     },
     {
-     "title": "Javier Milei y sus medidas, EN VIVO: “La casta, la alta política, los empresaurios y los periodistas no son muy distintos”",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-casta-la-alta-politica-los-empresaurios-y-los-periodistas-no-nid19102026/",
-     "domain": "La Nación",
-     "seendate": "20261019T180648Z"
-    },
-    {
      "title": "El Gobierno habilitó la compra de nuevo equipamiento para las Fuerzas Armadas bajo secreto militar",
      "url": "https://www.lanacion.com.ar/politica/el-gobierno-compro-nuevo-equipamiento-para-las-fuerzas-armadas-bajo-secreto-militar-nid19102026/",
      "domain": "La Nación",
@@ -2705,12 +2717,6 @@
      "url": "https://www.lanacion.com.ar/economia/campo/boom-a-china-anticipan-la-exportacion-de-17-millones-de-toneladas-de-un-cultivo-argentino-que-caera-nid19102026/",
      "domain": "La Nación",
      "seendate": "20261019T175157Z"
-    },
-    {
-     "title": "La Justicia rechazó la oferta de $150 millones y Matías Morla irá a juicio por administración fraudulenta",
-     "url": "https://www.lanacion.com.ar/seguridad/la-justicia-rechazo-la-oferta-de-150-millones-y-matias-morla-ira-a-juicio-por-administracion-nid19102026/",
-     "domain": "La Nación",
-     "seendate": "20261019T174911Z"
     },
     {
      "title": "Crecida del Paraná: preparan el retiro de 15.000 vacas para que no se las lleve el agua",
@@ -2753,71 +2759,77 @@
      "url": "https://www.lanacion.com.ar/sociedad/mel-robbins-experta-en-crecimiento-personal-si-pensas-en-algo-que-tenes-que-hacer-durante-mas-de-5-nid19102026/",
      "domain": "La Nación",
      "seendate": "20261019T170000Z"
-    },
-    {
-     "title": "Misterio en Corrientes: cuadernos, un equipo de mate y otros enigmas de la investigación de la docente desaparecida",
-     "url": "https://www.lanacion.com.ar/seguridad/misterio-en-corrientes-cuadernos-un-equipo-de-mate-y-otros-enigmas-de-la-investigacion-de-la-docente-nid19102026/",
-     "domain": "La Nación",
-     "seendate": "20261019T165757Z"
-    },
-    {
-     "title": "Es argentino, está entre los número uno de una empresa a nivel global y muestra cómo la IA transforma su negocio",
-     "url": "https://www.lanacion.com.ar/economia/IA/es-argentino-esta-entre-los-numero-uno-de-una-empresa-a-nivel-global-y-muestra-como-la-ia-transforma-nid19102026/",
-     "domain": "La Nación",
-     "seendate": "20261019T164655Z"
-    },
-    {
-     "title": "Hallaron cuchillos y ropa con manchas rojas en la casa de un sospechoso preso por la desaparición de la docente Nanci Godoy",
-     "url": "https://www.lanacion.com.ar/seguridad/hallaron-cuchillos-y-ropa-con-manchas-rojas-en-la-casa-de-un-sospechoso-preso-por-la-desaparicion-de-nid19102026/",
-     "domain": "La Nación",
-     "seendate": "20261019T163504Z"
-    },
-    {
-     "title": "Llega a la Corte el caso de los exfuncionarios kirchneristas sobreseídos por el derrame en la mina de Barrick",
-     "url": "https://www.lanacion.com.ar/politica/llega-a-la-corte-el-caso-de-los-exfuncionarios-kirchneristas-sobreseidos-por-el-derrame-en-la-mina-nid19102026/",
-     "domain": "La Nación",
-     "seendate": "20261019T163322Z"
-    },
-    {
-     "title": "“No hay evidencia”: qué dice la Sociedad Argentina de la Inteligencia Artificial sobre el peligro de esta tecnología para la humanidad",
-     "url": "https://www.lanacion.com.ar/economia/IA/no-hay-evidencia-que-dice-la-sociedad-argentina-de-la-inteligencia-artificial-sobre-el-peligro-de-nid19102026/",
-     "domain": "La Nación",
-     "seendate": "20261019T163303Z"
-    },
-    {
-     "title": "Por una obra clave de AySA, 15 barrios podrían sufrir baja presión o interrupciones en el suministro de agua",
-     "url": "https://www.lanacion.com.ar/sociedad/por-una-obra-clave-de-aysa-15-barrios-podrian-sufrir-baja-presion-o-interrupciones-en-el-suministro-nid19102026/",
-     "domain": "La Nación",
-     "seendate": "20261019T163213Z"
-    },
-    {
-     "title": "Los nombres que evalúa Milei para explorar un acuerdo electoral con los gobernadores",
-     "url": "https://www.lanacion.com.ar/politica/los-nombres-que-evalua-milei-para-explorar-un-acuerdo-electoral-con-los-gobernadores-nid19102026/",
-     "domain": "La Nación",
-     "seendate": "20261019T160334Z"
-    },
-    {
-     "title": "Oil Combustibles: la Corte planea revisar antes de fin de año la condena de Echegaray y las absoluciones de López y De Sousa",
-     "url": "https://www.lanacion.com.ar/politica/oil-combustibles-la-corte-planea-revisar-antes-de-fin-de-ano-la-condena-de-echegaray-y-las-nid19102026/",
-     "domain": "La Nación",
-     "seendate": "20261019T154612Z"
-    },
-    {
-     "title": "El riesgo país alcanza los 675 puntos y toca el valor más alto del año",
-     "url": "https://www.lanacion.com.ar/economia/dolar/el-riesgo-pais-alcanza-los-660-puntos-basicos-y-toca-el-valor-mas-alto-del-ano-nid19102026/",
-     "domain": "La Nación",
-     "seendate": "20261019T153758Z"
-    },
-    {
-     "title": "ARBA lanza un plan de pagos de impuestos con descuentos de hasta el 40%",
-     "url": "https://www.lanacion.com.ar/economia/moratoria-en-buenos-aires-lanzan-un-plan-de-pagos-con-descuentos-de-hasta-el-40-nid18102026/",
-     "domain": "La Nación",
-     "seendate": "20261019T153030Z"
     }
    ]
   },
   "URY": {
    "articles": [
+    {
+     "title": "Conaprole presente en Sial : El objetivo es mantener todas las puertas abiertas , dijo Valdéz",
+     "url": "https://rurales.elpais.com.uy/valor-agregado/conaprole-presente-en-sial-el-objetivo-es-mantener-todas-las-puertas-abiertas-dijo-valdez",
+     "domain": "rurales.elpais.com.uy",
+     "seendate": "20261019T174500Z"
+    },
+    {
+     "title": "Estaba en Campana : así fue el operativo conjunto entre Uruguay y Argentina que permitió ubicar a Camila",
+     "url": "https://www.elpais.com.uy/informacion/policiales/estaba-en-campana-asi-fue-el-operativo-conjunto-entre-uruguay-y-argentina-que-permitio-ubicar-a-camila",
+     "domain": "elpais.com.uy",
+     "seendate": "20261019T173000Z"
+    },
+    {
+     "title": "Atrapan a dos brasileñas con 11 kilos de cocaína en Aeropuerto de Carrasco : vuelo tenía como destino Hong Kong",
+     "url": "https://www.elpais.com.uy/mundo/atrapan-a-dos-brasilenas-con-11-kilos-de-cocaina-en-aeropuerto-de-carrasco-vuelo-tenia-como-destino-hong-kong",
+     "domain": "elpais.com.uy",
+     "seendate": "20261019T164500Z"
+    },
+    {
+     "title": "El dolor de Chris Namús por una pérdida familiar a semanas de su casamiento : Te voy a extrañar siempre",
+     "url": "https://www.elpais.com.uy/tvshow/personajes/el-dolor-de-chris-namus-por-una-perdida-familiar-a-semanas-de-su-casamiento-te-voy-a-extranar-siempre",
+     "domain": "elpais.com.uy",
+     "seendate": "20261019T163000Z"
+    },
+    {
+     "title": "Gobierno comenzará a pagar la Asignación Única para la Infancia en enero 2027 : beneficiarios y montos a cobrar",
+     "url": "https://www.elpais.com.uy/negocios/noticias/gobierno-comenzara-a-pagar-la-asignacion-unica-para-la-infancia-en-enero-2027-beneficiarios-y-montos-a-cobrar",
+     "domain": "elpais.com.uy",
+     "seendate": "20261019T151500Z"
+    },
+    {
+     "title": "OSE abrió un llamado laboral para 225 cargos con sueldos de $ 49 . 113 y bajos requisitos para postularse",
+     "url": "https://www.elpais.com.uy/informacion/servicios/ose-abrio-un-llamado-laboral-para-225-cargos-con-sueldos-de-49-113-y-bajos-requisitos-para-postularse",
+     "domain": "elpais.com.uy",
+     "seendate": "20261019T151500Z"
+    },
+    {
+     "title": "¿ Riesgo para Uruguay ? Qué impacto tendría en el gobierno de Orsi un triunfo de Bolsonaro , según Bettiana Díaz",
+     "url": "https://www.elpais.com.uy/informacion/politica/riesgo-para-uruguay-que-impacto-tendria-en-el-gobierno-de-orsi-un-triunfo-de-bolsonaro-segun-bettiana-diaz",
+     "domain": "elpais.com.uy",
+     "seendate": "20261019T151500Z"
+    },
+    {
+     "title": "Durazno completó el primer barrio cooperativo sindical del país : 316 viviendas",
+     "url": "https://elacontecer.com.uy/sociedad/durazno-primer-barrio-cooperativo-sindical-316-viviendas/",
+     "domain": "elacontecer.com.uy",
+     "seendate": "20261019T150000Z"
+    },
+    {
+     "title": "Nacional recibe a Deportivo Maldonado",
+     "url": "https://www.radiomontecarlo.com.uy/2026/10/19/deporte/nacional-recibe-a-deportivo-maldonado/",
+     "domain": "radiomontecarlo.com.uy",
+     "seendate": "20261019T144500Z"
+    },
+    {
+     "title": "La Roca te bautizó : las bromas de Sergio Puglia y su esposo por la caída que sufrió el cámara del reality",
+     "url": "https://www.elpais.com.uy/tvshow/series/la-roca-te-bautizo-las-bromas-de-sergio-puglia-y-su-esposo-por-la-caida-que-sufrio-el-camara-del-reality",
+     "domain": "elpais.com.uy",
+     "seendate": "20261019T141500Z"
+    },
+    {
+     "title": "Francia decreta toques de queda tras protestas por el costo de vida : las medidas de Emmanuel Macron",
+     "url": "https://www.elpais.com.uy/mundo/francia-decreta-toques-de-queda-tras-protestas-por-el-costo-de-vida-las-medidas-de-emmanuel-macron",
+     "domain": "elpais.com.uy",
+     "seendate": "20261019T141500Z"
+    },
     {
      "title": "El Frente Amplio comenzará a debatir la posibilidad de crear el impuesto al 1 % más rico",
      "url": "https://www.subrayado.com.uy/el-frente-amplio-comenzara-debatir-la-posibilidad-crear-el-impuesto-al-1-mas-rico-n1021168",
@@ -2847,24 +2859,6 @@
      "url": "https://www.elpais.com.uy/ovacion/futbol/nacional-vs-deportivo-maldonado-por-el-torneo-clausura-hora-probables-formaciones-y-donde-verlo-en-vivo",
      "domain": "elpais.com.uy",
      "seendate": "20261019T093000Z"
-    },
-    {
-     "title": "Algunos corren , todos ganan : la cuarta edición de la 5K de Enfoque y Bimbo volvió a revolucionar Parque Battle",
-     "url": "https://www.elpais.com.uy/ovacion/futbol/algunos-corren-todos-ganan-la-cuarta-edicion-de-la-5k-de-enfoque-y-bimbo-volvio-a-revolucionar-parque-battle",
-     "domain": "elpais.com.uy",
-     "seendate": "20261019T073000Z"
-    },
-    {
-     "title": "Néstor Hugo Santos : El precio del ganado llegó para quedarse , pero no hay que soñar con mucho más - Rurales",
-     "url": "https://rurales.elpais.com.uy/hablemos-de-agro/nestor-hugo-santos-el-precio-del-ganado-llego-para-quedarse-pero-no-hay-que-sonar-con-mucho-mas",
-     "domain": "rurales.elpais.com.uy",
-     "seendate": "20261019T073000Z"
-    },
-    {
-     "title": "¿ Un mate con forma de ñandú ? Las piezas más curiosas de un museo dedicado a la historia de esta infusión popular",
-     "url": "https://www.elpais.com.uy/domingo/un-mate-con-forma-de-nandu-las-piezas-mas-curiosas-de-un-museo-dedicado-a-la-historia-de-esta-infusion-popular",
-     "domain": "elpais.com.uy",
-     "seendate": "20261019T073000Z"
     },
     {
      "title": "¿ Dónde estarán las próximas grandes inversiones de Uruguay ?.",
@@ -2912,6 +2906,24 @@
      "title": "Edad jubilatoria",
      "url": "https://www.elpais.com.uy/opinion/ecos/edad-jubilatoria-15-10",
      "domain": "elpais.com.uy",
+     "seendate": "20261019T073000Z"
+    },
+    {
+     "title": "¿ Un mate con forma de ñandú ? Las piezas más curiosas de un museo dedicado a la historia de esta infusión popular",
+     "url": "https://www.elpais.com.uy/domingo/un-mate-con-forma-de-nandu-las-piezas-mas-curiosas-de-un-museo-dedicado-a-la-historia-de-esta-infusion-popular",
+     "domain": "elpais.com.uy",
+     "seendate": "20261019T073000Z"
+    },
+    {
+     "title": "Algunos corren , todos ganan : la cuarta edición de la 5K de Enfoque y Bimbo volvió a revolucionar Parque Battle",
+     "url": "https://www.elpais.com.uy/ovacion/futbol/algunos-corren-todos-ganan-la-cuarta-edicion-de-la-5k-de-enfoque-y-bimbo-volvio-a-revolucionar-parque-battle",
+     "domain": "elpais.com.uy",
+     "seendate": "20261019T073000Z"
+    },
+    {
+     "title": "Néstor Hugo Santos : El precio del ganado llegó para quedarse , pero no hay que soñar con mucho más - Rurales",
+     "url": "https://rurales.elpais.com.uy/hablemos-de-agro/nestor-hugo-santos-el-precio-del-ganado-llego-para-quedarse-pero-no-hay-que-sonar-con-mucho-mas",
+     "domain": "rurales.elpais.com.uy",
      "seendate": "20261019T073000Z"
     },
     {
@@ -3111,77 +3123,23 @@
      "url": "https://www.eltelegrafo.com/2026/10/el-cirujano-del-papa-descarto-impedimentos-clinicos-para-viajar/",
      "domain": "eltelegrafo.com",
      "seendate": "20261018T091500Z"
-    },
-    {
-     "title": "OPP analiza prórroga y nueva edición de Uruguay Impulsa",
-     "url": "https://www.eltelegrafo.com/2026/10/opp-analiza-prorroga-y-nueva-edicion-de-uruguay-impulsa/",
-     "domain": "eltelegrafo.com",
-     "seendate": "20261018T091500Z"
-    },
-    {
-     "title": "El plan de una pareja para recuperar un cerro de Lavalleja y convertirlo en un parque abierto a los visitantes",
-     "url": "https://www.elpais.com.uy/domingo/el-plan-de-una-pareja-para-recuperar-un-cerro-de-lavalleja-y-convertirlo-en-un-parque-abierto-a-los-visitantes",
-     "domain": "elpais.com.uy",
-     "seendate": "20261018T070000Z"
-    },
-    {
-     "title": "La hermana Teresita , una de las pocas monjas de clausura que quedan en Uruguay : Soy prisionera por amor a Jesús",
-     "url": "https://www.elpais.com.uy/que-pasa/la-hermana-teresita-una-de-las-pocas-monjas-de-clausura-que-quedan-en-uruguay-soy-prisionera-por-amor-a-jesus",
-     "domain": "elpais.com.uy",
-     "seendate": "20261018T070000Z"
-    },
-    {
-     "title": "Nico Furtado : el crecimiento como actor , la comedia que filmó en Uruguay y el elogio a Maxi de la Cruz",
-     "url": "https://www.elpais.com.uy/tvshow/cine/nico-furtado-el-crecimiento-como-actor-la-comedia-que-filmo-en-uruguay-y-el-elogio-a-maxi-de-la-cruz",
-     "domain": "elpais.com.uy",
-     "seendate": "20261018T064500Z"
-    },
-    {
-     "title": "Autos eléctricos : el 47 % de los usuarios reporta fallas o esperas en los cargadores públicos de UTE",
-     "url": "https://www.elpais.com.uy/negocios/noticias/autos-electricos-el-47-de-los-usuarios-reporta-fallas-o-esperas-en-los-cargadores-publicos-de-ute",
-     "domain": "elpais.com.uy",
-     "seendate": "20261018T064500Z"
-    },
-    {
-     "title": "La sucursal oficialista",
-     "url": "https://www.elpais.com.uy/opinion/editorial/la-sucursal-oficialista",
-     "domain": "elpais.com.uy",
-     "seendate": "20261018T064500Z"
-    },
-    {
-     "title": "Aquel álbum instrumental olvidado de Los Iracundos , la banda uruguaya más popular de todos los tiempos",
-     "url": "https://www.elpais.com.uy/cultural/aquel-album-instrumental-olvidado-de-los-iracundos-la-banda-uruguaya-mas-popular-de-todos-los-tiempos",
-     "domain": "elpais.com.uy",
-     "seendate": "20261018T064500Z"
-    },
-    {
-     "title": "Que valga la pena",
-     "url": "https://www.elpais.com.uy/opinion/columnistas/que-valga-la-pena-2026",
-     "domain": "elpais.com.uy",
-     "seendate": "20261018T064500Z"
-    },
-    {
-     "title": "Charrúas : la etnia que era minoritaria , no originaria , y la polémica por la matanza de Salsipuedes",
-     "url": "https://www.elpais.com.uy/domingo/charruas-la-etnia-que-era-minoritaria-no-originaria-y-la-polemica-por-la-matanza-de-salsipuedes",
-     "domain": "elpais.com.uy",
-     "seendate": "20261018T064500Z"
-    },
-    {
-     "title": "Lavado de activos en la mira : Secretaría Antilavado advierte riesgos emergentes y subagencias de pago en el país",
-     "url": "https://www.elpais.com.uy/negocios/noticias/lavado-de-activos-en-la-mira-secretaria-antilavado-advierte-riesgos-emergentes-y-subagencias-de-pago-en-el-pais",
-     "domain": "elpais.com.uy",
-     "seendate": "20261018T064500Z"
-    },
-    {
-     "title": "La propuesta y la encuesta",
-     "url": "https://www.elpais.com.uy/opinion/columnistas/la-propuesta-y-la-encuesta",
-     "domain": "elpais.com.uy",
-     "seendate": "20261018T064500Z"
     }
    ]
   },
   "PRY": {
    "articles": [
+    {
+     "title": "Caso Conmebol: “Es una canallada y una distorsión maliciosa”, afirma abogado Yódice",
+     "url": "https://www.abc.com.py/nacionales/2026/10/19/es-una-canallada-y-una-distorsion-maliciosa-afirma-abogado-yodice/",
+     "domain": "ABC Color",
+     "seendate": "20261019T185934Z"
+    },
+    {
+     "title": "Pacientes oncológicos del IPS denuncian falta de medicamentos e insumos",
+     "url": "https://www.abc.com.py/nacionales/2026/10/19/no-es-fecha-de-celebracion-es-de-recordacion-pacientes-oncologicos-del-ips-denuncian-falta-de-medicamentos-e-insumos/",
+     "domain": "ABC Color",
+     "seendate": "20261019T183433Z"
+    },
     {
      "title": "Sitrande anuncia paro nacional en rechazo al recorte presupuestario",
      "url": "https://www.abc.com.py/nacionales/2026/10/19/sitrande-anuncia-paro-nacional-en-rechazo-al-recorte-presupuestario-y-el-manejo-de-los-recursos-energeticos/",
@@ -3217,12 +3175,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/19/bomberos-azules-exigen-avances-en-la-justicia-por-supuesta-lesion-de-confianza-y-la-directiva-responde/",
      "domain": "ABC Color",
      "seendate": "20261019T175345Z"
-    },
-    {
-     "title": "Alerta sanitaria por influenza aviar: Senacsa insta a reportar mortandad o síntomas sospechosos en aves",
-     "url": "https://www.abc.com.py/nacionales/2026/10/19/alerta-sanitaria-por-influenza-aviar-senacsa-insta-a-reportar-mortandad-o-sintomas-sospechosos-en-aves/",
-     "domain": "ABC Color",
-     "seendate": "20261019T164603Z"
     }
    ]
   },
@@ -3231,6 +3183,36 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "Janones está estável e deverá ter alta em 48 horas, diz boletim médico",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/19/janones-esta-estavel-e-devera-ter-alta-em-48-horas-diz-boletim-medico.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261019T191753Z"
+    },
+    {
+     "title": "Janones tem 'evolução clínica favorável' e deve ter alta em 48 horas, diz boletim médico",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/19/janones-tem-evolucao-clinica-favoravel-e-deve-ter-alta-em-48-horas-diz-boletim-medico.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261019T191255Z"
+    },
+    {
+     "title": "Fumaça de queimadas encobre Alter do Chão (PA) e qualidade do ar no famoso destino turístico fica 'muito insalubre'; vídeo",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/19/fumaca-de-queimadas-encobre-alter-do-chao-pa-e-qualidade-do-ar-no-famoso-destino-turistico-fica-muito-insalubre.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261019T185629Z"
+    },
+    {
+     "title": "Alcolumbre adia votação da PEC da Segurança para depois da eleição, após impasse no governo Lula sobre maioridade penal",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/19/alcolumbre-adia-votacao-da-pec-da-seguranca-para-depois-da-eleicao-apos-impasse-no-governo-lula-sobre-maioridade-penal.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261019T185345Z"
+    },
+    {
+     "title": "Debate da Globo: veja data, horário e onde assistir",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/19/debate-da-globo-veja-data-horario-e-onde-assistir.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261019T183014Z"
+    },
     {
      "title": "Zanin, do STF, pede informações ao TSE em ação que o PSD contesta eleição de Douglas Ruas ao governo do Rio",
      "url": "https://oglobo.globo.com/politica/noticia/2026/10/19/zanin-do-stf-pede-informacoes-ao-tse-em-acao-que-o-psd-contesta-eleicao-de-douglas-ruas-ao-governo-do-rio.ghtml",
@@ -3284,60 +3266,6 @@
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/guia/tse-muda-mais-de-4-mil-secoes-eleitorais-veja-como-consultar-seu-local-de-votacao.ghtml",
      "domain": "O Globo",
      "seendate": "20261019T152537Z"
-    },
-    {
-     "title": "Deputada eleita aciona TRE-RJ e cobra 'campanha massiva' para divulgar locais de votação no segundo turno",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/19/deputada-eleita-aciona-tre-rj-e-cobra-campanha-massiva-para-divulgar-locais-de-votacao-no-segundo-turno.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261019T145227Z"
-    },
-    {
-     "title": "As perguntas que ficaram sem resposta no primeiro debate entre Flávio Bolsonaro e Lula",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/19/as-perguntas-que-ficaram-sem-resposta-no-primeiro-debate-entre-flavio-bolsonaro-e-lula.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261019T145208Z"
-    },
-    {
-     "title": "Voto em trânsito no segundo turno: ainda dá tempo de solicitar?",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/19/voto-em-transito-no-segundo-turno-ainda-da-tempo-de-solicitar.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261019T145031Z"
-    },
-    {
-     "title": "Quem tem prioridade na fila de votação no segundo turno?",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/guia/quem-tem-prioridade-na-fila-de-votacao-no-segundo-turno.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261019T143619Z"
-    },
-    {
-     "title": "Quando será o segundo turno das Eleições 2026? Veja data",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/guia/quando-sera-o-segundo-turno-das-eleicoes-2026-veja-data-2.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261019T142352Z"
-    },
-    {
-     "title": "Guia Eleições 2026: confira o que levar, horário, local e ordem de votação e como justificar o voto",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/guia/guia-eleicoes-2026-confira-o-que-levar-horario-local-e-ordem-de-votacao-e-como-justificar-o-voto-3.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261019T141939Z"
-    },
-    {
-     "title": "'Flávio Bolsonaro estava jogando pelo empate', analisa Thomas Traumann em live com Vera Magalhães sobre o debate da Band",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/19/contagem-regressiva-acompanhe-a-live-de-vera-magalhaes-com-thomas-traumann.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261019T141019Z"
-    },
-    {
-     "title": "Janones é internado em UTI de SP com arritmia cardíaca",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/19/janones-e-internado-em-sp-com-arritmia-cardiaca.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261019T140132Z"
-    },
-    {
-     "title": "PF faz operação que mira em ex-servidor do STJ suspeito de passar informações a advogado amigo de Flávio Bolsonaro",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/19/pf-faz-operacao-que-mira-em-ex-servidor-do-stj-suspeito-de-passar-informacoes-a-advogado-amigo-de-flavio-bolsonaro.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261019T134746Z"
     }
    ]
   }
