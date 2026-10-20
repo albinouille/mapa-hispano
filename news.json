@@ -1,19 +1,37 @@
 {
- "updated": "2026-10-20T10:05:53+00:00",
+ "updated": "2026-10-20T11:04:35+00:00",
  "countries": {
   "ESP": {
    "articles": [
+    {
+     "title": "Última hora de la actualidad política, en directo | El Gobierno aprueba un paquete para mejorar prestaciones sociales",
+     "url": "https://elpais.com/espana/2026-10-20/ultima-hora-de-la-actualidad-politica-en-directo.html",
+     "domain": "El País",
+     "seendate": "20261020T105544Z"
+    },
+    {
+     "title": "Ayuso retrasa su decisión sobre reunirse con Milei en Madrid: “No lo tenemos cerrado en agenda”",
+     "url": "https://elpais.com/espana/madrid/2026-10-20/ayuso-retrasa-su-decision-sobre-reunirse-con-milei-en-madrid-no-lo-tenemos-cerrado-en-agenda.html",
+     "domain": "El País",
+     "seendate": "20261020T105254Z"
+    },
+    {
+     "title": "El Supremo asume la doctrina del Constitucional y amnistía la malversación a Junqueras y tres exconsejeros",
+     "url": "https://elpais.com/espana/2026-10-20/el-supremo-asume-la-doctrina-del-constitucional-y-amnistia-a-junqueras-y-tres-exconsejeros.html",
+     "domain": "El País",
+     "seendate": "20261020T105049Z"
+    },
+    {
+     "title": "El juez paraliza el desahucio de la hermana del cantante de Els Pets. “No somos morosos”",
+     "url": "https://elpais.com/espana/catalunya/2026-10-20/el-juez-paraliza-el-desahucio-de-la-hermana-del-cantante-de-els-pets-no-somos-morosos.html",
+     "domain": "El País",
+     "seendate": "20261020T102607Z"
+    },
     {
      "title": "La lección aprendida de la dana de 2024: las alertas masivas y la prevención son clave para salvar vidas",
      "url": "https://elpais.com/espana/2026-10-20/la-leccion-aprendida-de-la-dana-de-2024-las-alertas-masivas-y-la-prevencion-son-clave-para-salvar-vidas.html",
      "domain": "El País",
      "seendate": "20261020T084315Z"
-    },
-    {
-     "title": "Ayuso trasladará su despacho “por seguridad” debido a la acampada en Sol, pero todavía no sabe dónde",
-     "url": "https://elpais.com/espana/madrid/2026-10-20/ayuso-trasladara-su-despacho-por-seguridad-debido-a-la-acampada-en-sol-pero-todavia-no-sabe-donde.html",
-     "domain": "El País",
-     "seendate": "20261020T083826Z"
     },
     {
      "title": "Mónica García renuncia a la lista del Frente Amplio: “Siempre he antepuesto el bien común al personal”",
@@ -28,12 +46,6 @@
      "seendate": "20261020T082806Z"
     },
     {
-     "title": "Hallado muerto un agricultor en la marjal de Pego-Oliva tras las inundaciones de la dana",
-     "url": "https://elpais.com/espana/comunidad-valenciana/2026-10-20/hallado-muerto-un-agricultor-en-la-marjal-de-pego-oliva-tras-las-inundaciones-de-la-dana.html",
-     "domain": "El País",
-     "seendate": "20261020T081635Z"
-    },
-    {
      "title": "Atraco exprés a un Tesla ante un colegio privado de Majadahonda",
      "url": "https://elpais.com/espana/madrid/2026-10-20/atraco-expres-a-un-tesla-ante-un-colegio-privado-de-majadahonda.html",
      "domain": "El País",
@@ -46,20 +58,8 @@
      "seendate": "20261020T045306Z"
     },
     {
-     "title": "Aldama tasa los coches que se le incautaron en 760.000 euros y lucha en la Audiencia Nacional para que le dejen venderlos",
-     "url": "https://elpais.com/espana/2026-10-20/aldama-tasa-los-coches-que-se-le-incautaron-en-760000-euros-y-lucha-en-la-audiencia-nacional-para-que-le-dejen-venderlos.html",
-     "domain": "El País",
-     "seendate": "20261020T033001Z"
-    },
-    {
      "title": "“ETA está en el poder” y “no mata porque no le hace falta”: el PP y Vox aún hablan en presente de la banda que dejó las armas en 2011",
      "url": "https://elpais.com/espana/2026-10-20/eta-esta-en-el-poder-y-no-mata-porque-no-le-hace-falta-el-pp-y-vox-aun-hablan-en-presente-de-la-banda-que-dejo-las-armas-en-2011.html",
-     "domain": "El País",
-     "seendate": "20261020T033001Z"
-    },
-    {
-     "title": "El Constitucional empieza a aplicar la amnistía a los últimos seis líderes del ‘procés’ pendientes",
-     "url": "https://elpais.com/espana/2026-10-20/el-constitucional-empieza-a-aplicar-la-amnistia-a-los-ultimos-seis-lideres-del-proces-pendientes.html",
      "domain": "El País",
      "seendate": "20261020T033001Z"
     },
@@ -100,12 +100,6 @@
      "seendate": "20261020T031500Z"
     },
     {
-     "title": "El hecho diferencial catalán",
-     "url": "https://elpais.com/espana/catalunya/2026-10-20/el-hecho-diferencial-catalan.html",
-     "domain": "El País",
-     "seendate": "20261020T031500Z"
-    },
-    {
      "title": "Vito Quiles fracasa en su intento de acceder a la UAB por el blindaje de los Mossos y acaba en un Ikea",
      "url": "https://elpais.com/espana/catalunya/2026-10-19/vito-quiles-fracasa-en-su-intento-de-acceder-a-la-uab-por-el-blindaje-de-los-mossos-y-acaba-en-un-ikea.html",
      "domain": "El País",
@@ -127,6 +121,30 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Naucalpan: sube robo a negocio",
+     "url": "https://www.eluniversal.com.mx/metropoli/naucalpan-sube-robo-a-negocio/",
+     "domain": "El Universal",
+     "seendate": "20261020T103326Z"
+    },
+    {
+     "title": "Vinculan a proceso a adolescente por extorsión",
+     "url": "https://www.eluniversal.com.mx/metropoli/vinculan-a-proceso-a-adolescente-por-extorsion/",
+     "domain": "El Universal",
+     "seendate": "20261020T102633Z"
+    },
+    {
+     "title": "Peatones ven menos vendedores informales",
+     "url": "https://www.eluniversal.com.mx/metropoli/peatones-ven-menos-vendedores-informales/",
+     "domain": "El Universal",
+     "seendate": "20261020T101308Z"
+    },
+    {
+     "title": "Se reordenaron 32 zonas de ambulantes: Gobierno",
+     "url": "https://www.eluniversal.com.mx/metropoli/se-reordenaron-32-zonas-de-ambulantes-gobierno/",
+     "domain": "El Universal",
+     "seendate": "20261020T101236Z"
+    },
     {
      "title": "Iniciativa incluye una excepción para subir la renta por arriba de la inflación",
      "url": "https://www.eluniversal.com.mx/metropoli/iniciativa-incluye-una-excepcion-para-subir-la-renta-por-arriba-de-la-inflacion/",
@@ -192,18 +210,6 @@
      "url": "https://www.eluniversal.com.mx/estados/detienen-a-hombre-estadounidense-en-el-aeropuerto-de-oaxaca-viajaba-con-mas-de-365-mil-dolares-en-efectivo/",
      "domain": "El Universal",
      "seendate": "20261020T062518Z"
-    },
-    {
-     "title": "Violencia en Juchitán, Oaxaca, deja dos muertos y 3 heridos de bala; entre los heridos hay un menor de 3 años",
-     "url": "https://www.eluniversal.com.mx/estados/violencia-en-juchitan-oaxaca-deja-dos-muertos-y-3-heridos-de-bala-entre-los-heridos-hay-un-menor-de-3-anos/",
-     "domain": "El Universal",
-     "seendate": "20261020T055056Z"
-    },
-    {
-     "title": "Suspenden clases en 10 municipios de Veracruz por frente frío número 2; intensas lluvias provocan desbordamiento de ríos",
-     "url": "https://www.eluniversal.com.mx/estados/suspenden-clases-en-10-municipios-de-veracruz-por-frente-frio-numero-2-intensas-lluvias-provocan-desbordamiento-de-rios/",
-     "domain": "El Universal",
-     "seendate": "20261020T043041Z"
     }
    ]
   },
@@ -273,6 +279,54 @@
   },
   "HND": {
    "articles": [
+    {
+     "title": "¿ Modelo Bukele en Honduras ?",
+     "url": "https://www.elheraldo.hn/opinion/editorial/modelo-bukele-en-honduras-IF32378527",
+     "domain": "elheraldo.hn",
+     "seendate": "20261020T071500Z"
+    },
+    {
+     "title": "Identidad propia",
+     "url": "https://www.elheraldo.hn/opinion/cartasaleditor/identidad-propia-KF32378637",
+     "domain": "elheraldo.hn",
+     "seendate": "20261020T071500Z"
+    },
+    {
+     "title": "Patriotismo , turismo y responsabilidad ciudadana",
+     "url": "https://www.elheraldo.hn/opinion/columnas/patriotismo-turismo-y-responsabilidad-ciudadana-HF32378719",
+     "domain": "elheraldo.hn",
+     "seendate": "20261020T071500Z"
+    },
+    {
+     "title": "Democracia infantil en marcha : Congreso Nacional alista operativo de seguridad y logística para recibir a los diputados del Congreso Infantil 2026",
+     "url": "https://abriendobrecha.tv/politica/democracia-infantil-en-marcha-congreso-nacional-alista-operativo-de-seguridad-y-logistica-para-recibir-a-los-diputados-del-congreso-infantil-2026/",
+     "domain": "abriendobrecha.tv",
+     "seendate": "20261020T060000Z"
+    },
+    {
+     "title": "Policía Nacional mantiene ofensiva contra el crimen y reporta 52 capturas por presunta vinculación con asociaciones terroristas",
+     "url": "https://abriendobrecha.tv/nacionales/policia-nacional-mantiene-ofensiva-contra-el-crimen-y-reporta-52-capturas-por-presunta-vinculacion-con-asociaciones-terroristas/",
+     "domain": "abriendobrecha.tv",
+     "seendate": "20261020T060000Z"
+    },
+    {
+     "title": "Honduras y El Salvador suscribirán histórico acuerdo legislativo para analizar modelos de control penitenciario y combate a las pandillas",
+     "url": "https://abriendobrecha.tv/politica/honduras-y-el-salvador-suscribiran-historico-acuerdo-legislativo-para-analizar-modelos-de-control-penitenciario-y-combate-a-las-pandillas/",
+     "domain": "abriendobrecha.tv",
+     "seendate": "20261020T060000Z"
+    },
+    {
+     "title": "Nueva esperanza de vida : Inician cirugías de corazón para diez niños hondureños en el IHSS",
+     "url": "https://abriendobrecha.tv/salud/nueva-esperanza-de-vida-inician-cirugias-de-corazon-para-diez-ninos-hondurenos-en-el-ihss/",
+     "domain": "abriendobrecha.tv",
+     "seendate": "20261020T060000Z"
+    },
+    {
+     "title": "Honduras se prepara para la sexta revisión del acuerdo con el FMI y busca acceder a $120 millones",
+     "url": "https://abriendobrecha.tv/economia/honduras-se-prepara-para-la-sexta-revision-del-acuerdo-con-el-fmi-y-busca-acceder-a-120-millones/",
+     "domain": "abriendobrecha.tv",
+     "seendate": "20261020T060000Z"
+    },
     {
      "title": "Hondureño gana el KIA Tasman de la promoción Ahorrá y Ganá de Puma Energy",
      "url": "https://www.elheraldo.hn/brandedcontent/deinteres/honduras-puma-energy-cierra-promocion-entrega-kia-tasman-tegucigalpa-BG32346502",
@@ -584,54 +638,6 @@
      "url": "https://abriendobrecha.tv/salud/epidemiologia-en-honduras-sesal-reporta-457-nuevos-diagnosticos-de-vih-en-2026-con-mayor-incidencia-en-jovenes-y-zonas-urbanas/",
      "domain": "abriendobrecha.tv",
      "seendate": "20261016T040000Z"
-    },
-    {
-     "title": "Honduras prepara plan para impulsar el turismo nacional durante Navidad y Semana Santa de 2027",
-     "url": "https://abriendobrecha.tv/nacionales/honduras-prepara-plan-para-impulsar-el-turismo-nacional-durante-navidad-y-semana-santa-de-2027/",
-     "domain": "abriendobrecha.tv",
-     "seendate": "20261016T040000Z"
-    },
-    {
-     "title": "REORDENAR EL SECTOR PÚBLICO - ABRIENDO BRECHA",
-     "url": "https://abriendobrecha.tv/editorial/reordenar-el-sector-publico/",
-     "domain": "abriendobrecha.tv",
-     "seendate": "20261016T040000Z"
-    },
-    {
-     "title": "Melvin Cevallos enfrentará en libertad proceso judicial por presunta coacción y amenaza electoral",
-     "url": "https://abriendobrecha.tv/nacionales/melvin-cevallos-enfrentara-en-libertad-proceso-judicial-por-presunta-coaccion-y-amenaza-electoral/",
-     "domain": "abriendobrecha.tv",
-     "seendate": "20261016T040000Z"
-    },
-    {
-     "title": "Salud reporta avances del 97 % en el pago a médicos interinos y llama a normalizar la atención hospitalaria",
-     "url": "https://abriendobrecha.tv/nacionales/salud-reporta-avances-del-97-en-el-pago-a-medicos-interinos-y-llama-a-normalizar-la-atencion-hospitalaria/",
-     "domain": "abriendobrecha.tv",
-     "seendate": "20261016T040000Z"
-    },
-    {
-     "title": "Capturan a alias Casper y Yan , vinculados presuntamente a la Banda del Mudo en el Valle de Sula",
-     "url": "https://abriendobrecha.tv/sucesos/capturan-a-alias-casper-y-yan-vinculados-presuntamente-a-la-banda-del-mudo-en-el-valle-de-sula/",
-     "domain": "abriendobrecha.tv",
-     "seendate": "20261015T230000Z"
-    },
-    {
-     "title": "Leverkusen golea al Lech Poznań de Luis Palma en Europa League",
-     "url": "https://www.elheraldo.hn/deportes/leverkusen-golea-lech-pozna-luis-palma-uefa-europa-league-EB32334527",
-     "domain": "elheraldo.hn",
-     "seendate": "20261015T221500Z"
-    },
-    {
-     "title": "San Juan , una sentencia que no protege de la violencia y la usurpación de las tierras garífunas",
-     "url": "https://www.radioprogresohn.net/aplicacion-movil/san-juan-una-sentencia-que-no-protege-de-la-violencia-y-la-usurpacion-de-las-tierras-garifunas/",
-     "domain": "radioprogresohn.net",
-     "seendate": "20261015T211500Z"
-    },
-    {
-     "title": "Salud llama a médicos a retomar labores en Honduras",
-     "url": "http://www.laprensa.hn/honduras/tegucigalpa-secretaria-salud-llama-medicos-retomar-labores-BB32335545",
-     "domain": "laprensa.hn",
-     "seendate": "20261015T211500Z"
     }
    ]
   },
@@ -849,6 +855,12 @@
   },
   "CRI": {
    "articles": [
+    {
+     "title": "Caso Laden: OIJ busca a sospechosos de liderar grupo que cobraba hasta ¢40 millones semanales en créditos gota a gota",
+     "url": "https://www.nacion.com/sucesos/caso-laden-oij-busca-a-sospechosos-de-liderar/YDLZILMUKRFFVJXKMZKJKJIISI/story/",
+     "domain": "La Nación",
+     "seendate": "20261020T104027Z"
+    },
     {
      "title": "Cortes de agua en Heredia afectarán a más de 51.900 personas esta semana: estas son las comunidades y los horarios",
      "url": "https://www.nacion.com/el-pais/cortes-de-agua-en-heredia-afectaran-a-mas-de-51900/6NJ2N6QLNBBP3LIW6I7WGOSSLM/story/",
@@ -1152,6 +1164,12 @@
   "CUB": {
    "articles": [
     {
+     "title": "Cafecito informativo del martes 20 de octubre de 2026",
+     "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-martes-20-octubre_7_1132176.html",
+     "domain": "14ymedio",
+     "seendate": "20261020T105239Z"
+    },
+    {
      "title": "La inseguridad se adueña de la Plaza de la Vigía, en el corazón de Matanzas",
      "url": "https://www.14ymedio.com/cuba/inseguridad-aduena-plaza-vigia-corazon_1_1132172.html",
      "domain": "14ymedio",
@@ -1234,12 +1252,6 @@
      "url": "https://www.14ymedio.com/cuba/trumpista-vic-mellor-explica-agente_1_1132010.html",
      "domain": "14ymedio",
      "seendate": "20261016T105959Z"
-    },
-    {
-     "title": "Una candidata demócrata en Florida estima que 13.000 cubanos fueron deportados en los dos mandatos de Trump",
-     "url": "https://www.14ymedio.com/cuba/candidata-democrata-florida-estima-13_1_1131891.html",
-     "domain": "14ymedio",
-     "seendate": "20261013T100658Z"
     }
    ]
   },
@@ -2419,16 +2431,220 @@
   "ARG": {
    "articles": [
     {
-     "title": "La peperina, la popular hierba nativa argentina, logró el sello de Indicación Geográfica",
-     "url": "https://www.lanacion.com.ar/economia/campo/de-uso-medicinal-y-culinario-la-peperina-la-popular-hierba-nativa-argentina-logro-el-sello-de-nid20102026/",
+     "title": "El Gobierno postergó hasta diciembre la puesta en marcha de los Fondos de Asistencia Laboral",
+     "url": "https://www.lanacion.com.ar/sociedad/el-gobierno-postergo-hasta-diciembre-la-puesta-en-marcha-de-los-fondos-de-asistencia-laboral-nid20102026/",
      "domain": "La Nación",
-     "seendate": "20261020T100000Z"
+     "seendate": "20261020T105427Z"
+    },
+    {
+     "title": "Hay alerta naranja y amarilla por tormentas, nevadas y vientos para este martes 20 de octubre: las provincias afectadas",
+     "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-naranja-y-amarilla-por-tormentas-nevadas-y-zonda-para-este-martes-20-de-octubre-las-nid19102026/",
+     "domain": "La Nación",
+     "seendate": "20261020T104631Z"
+    },
+    {
+     "title": "La psicología dice que algunas personas responden “estoy bien” cuando alguien les preguntan cómo se sienten aunque atraviesen momentos difíciles",
+     "url": "https://www.lanacion.com.ar/sociedad/la-psicologia-dice-que-algunas-personas-responden-estoy-bien-cuando-alguien-les-preguntan-como-se-nid19102026/",
+     "domain": "La Nación",
+     "seendate": "20261020T104452Z"
     },
     {
      "title": "Javier Milei y sus medidas, en vivo: el mandatario se refirió al crecimiento energético y habló de una “revancha histórica”",
      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-mandatario-se-refirio-al-crecimiento-energetico-y-hablo-de-una-nid20102026/",
      "domain": "La Nación",
-     "seendate": "20261020T092041Z"
+     "seendate": "20261020T104322Z"
+    },
+    {
+     "title": "Día del Pediatra: por qué se celebra hoy y las mejores frases para enviar por WhatsApp",
+     "url": "https://www.lanacion.com.ar/sociedad/dia-del-pediatra-por-que-se-celebra-hoy-y-las-mejores-frases-para-enviar-por-whatsapp-nid20102026/",
+     "domain": "La Nación",
+     "seendate": "20261020T102740Z"
+    },
+    {
+     "title": "Cierra el Sweetys Kindergarten, un reconocido jardín de infantes de Recoleta",
+     "url": "https://www.lanacion.com.ar/sociedad/cierra-el-sweetys-kindergarten-un-reconocido-jardin-de-infantes-de-recoleta-nid20102026/",
+     "domain": "La Nación",
+     "seendate": "20261020T102045Z"
+    },
+    {
+     "title": "¿Cuándo son las elecciones 2027 en la Argentina? Todas las fechas clave",
+     "url": "https://www.lanacion.com.ar/politica/cuando-son-las-elecciones-2027-en-la-argentina-todas-las-fechas-clave-nid08102026/",
+     "domain": "La Nación",
+     "seendate": "20261020T102029Z"
+    },
+    {
+     "title": "Elecciones en la Argentina 2027: fechas, cargos que se renuevan y todo lo que hay que saber",
+     "url": "https://www.lanacion.com.ar/politica/elecciones-en-la-argentina-2027-fechas-cargos-que-se-renuevan-y-todo-lo-que-hay-que-saber-nid23092026/",
+     "domain": "La Nación",
+     "seendate": "20261020T102027Z"
+    },
+    {
+     "title": "Elecciones 2027: ¿cuándo son las próximas elecciones presidenciales en la Argentina?",
+     "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-en-la-argentina-y-que-se-elige-nid25082026/",
+     "domain": "La Nación",
+     "seendate": "20261020T102025Z"
+    },
+    {
+     "title": "¿Cuándo se vota presidente en la Argentina? Todo sobre las elecciones 2027",
+     "url": "https://www.lanacion.com.ar/politica/cuando-se-vota-presidente-en-la-argentina-todo-sobre-las-elecciones-2027-nid01092026/",
+     "domain": "La Nación",
+     "seendate": "20261020T101936Z"
+    },
+    {
+     "title": "PNC de Anses: cuál es el monto de las Pensiones No Contributivas en noviembre de 2026",
+     "url": "https://www.lanacion.com.ar/economia/pnc-de-anses-cual-es-el-monto-de-las-pensiones-no-contributivas-en-noviembre-de-2026-nid19102026/",
+     "domain": "La Nación",
+     "seendate": "20261020T101924Z"
+    },
+    {
+     "title": "Monto de la Asignación Universal por Hijo: de cuánto es la AUH en noviembre 2026, con el aumento oficial",
+     "url": "https://www.lanacion.com.ar/economia/monto-de-la-asignacion-universal-por-hijo-de-cuanto-es-la-auh-en-noviembre-2026-con-el-aumento-nid15102026/",
+     "domain": "La Nación",
+     "seendate": "20261020T101921Z"
+    },
+    {
+     "title": "Jubilaciones de Anses: cuánto cobro en noviembre 2026, con el bono oficial y el aumento confirmado",
+     "url": "https://www.lanacion.com.ar/economia/jubilaciones-de-anses-cuanto-cobro-en-noviembre-2026-con-el-bono-oficial-y-el-aumento-confirmado-nid14102026/",
+     "domain": "La Nación",
+     "seendate": "20261020T101918Z"
+    },
+    {
+     "title": "Cuándo cobro Anses: el calendario completo de octubre 2026",
+     "url": "https://www.lanacion.com.ar/economia/cuando-cobro-anses-el-calendario-completo-de-octubre-2026-nid30092026/",
+     "domain": "La Nación",
+     "seendate": "20261020T101915Z"
+    },
+    {
+     "title": "Miden 13 cm y pesan casi un kilo: Gendarmería recuperó seis huevos de ñandú que iban escondidos de forma ilegal debajo del asiento de un auto en la Patagonia",
+     "url": "https://www.lanacion.com.ar/sociedad/miden-13-cm-y-pesan-casi-un-kilo-gendarmeria-recupero-seis-huevos-de-nandu-que-iban-escondidos-de-nid08102026/",
+     "domain": "La Nación",
+     "seendate": "20261020T101913Z"
+    },
+    {
+     "title": "Cardenales, jilgueros y reinamoras: recuperaron 88 aves del tráfico clandestino, los rehabilitaron e hicieron una liberación masiva en Zárate",
+     "url": "https://www.lanacion.com.ar/sociedad/cardenales-jilgueros-y-reinamoras-recuperaron-88-aves-del-trafico-clandestino-los-rehabilitaron-e-nid07102026/",
+     "domain": "La Nación",
+     "seendate": "20261020T101910Z"
+    },
+    {
+     "title": "Cuánto gana el personal de Gendarmería Nacional Argentina en octubre de 2026",
+     "url": "https://www.lanacion.com.ar/economia/cuanto-gana-el-personal-de-gendarmeria-nacional-argentina-en-octubre-de-2026-nid19102026/",
+     "domain": "La Nación",
+     "seendate": "20261020T101850Z"
+    },
+    {
+     "title": "Paritaria con aumento: cuánto cobran las niñeras y cuidadores de adultos en octubre de 2026",
+     "url": "https://www.lanacion.com.ar/economia/paritaria-con-aumento-cuanto-cobran-las-nineras-y-cuidadores-de-adultos-en-octubre-de-2026-nid14102026/",
+     "domain": "La Nación",
+     "seendate": "20261020T101847Z"
+    },
+    {
+     "title": "Paritaria para vigiladores: cuánto ganan los trabajadores de seguridad privada en octubre 2026 con el aumento confirmado",
+     "url": "https://www.lanacion.com.ar/economia/paritaria-para-vigiladores-cuanto-ganan-los-trabajadores-de-seguridad-privada-en-octubre-2026-con-el-nid13102026/",
+     "domain": "La Nación",
+     "seendate": "20261020T101837Z"
+    },
+    {
+     "title": "Sueldo oficial: cuánto ganan los miembros de las Fuerzas Armadas en octubre de 2026 con el aumento confirmado",
+     "url": "https://www.lanacion.com.ar/economia/sueldo-oficial-cuanto-ganan-los-miembros-de-las-fuerzas-armadas-en-octubre-de-2026-con-el-aumento-nid08102026/",
+     "domain": "La Nación",
+     "seendate": "20261020T101835Z"
+    },
+    {
+     "title": "Paritaria oficial: cuánto ganan los camioneros en octubre 2026 tras el aumento confirmado",
+     "url": "https://www.lanacion.com.ar/economia/paritaria-oficial-cuanto-ganan-los-camioneros-en-octubre-2026-tras-el-aumento-confirmado-nid07102026/",
+     "domain": "La Nación",
+     "seendate": "20261020T101831Z"
+    },
+    {
+     "title": "Paritaria con aumento: cuánto gana el personal de la Policía Federal Argentina en octubre 2026",
+     "url": "https://www.lanacion.com.ar/economia/paritaria-con-aumento-cuanto-gana-el-personal-de-la-policia-federal-argentina-en-octubre-2026-nid07102026/",
+     "domain": "La Nación",
+     "seendate": "20261020T101829Z"
+    },
+    {
+     "title": "Paritaria confirmada: cuánto cobran las empleadas domésticas en octubre de 2026 con el aumento oficial",
+     "url": "https://www.lanacion.com.ar/economia/paritaria-confirmada-cuanto-cobran-las-empleadas-domesticas-en-octubre-de-2026-con-el-aumento-nid06102026/",
+     "domain": "La Nación",
+     "seendate": "20261020T101827Z"
+    },
+    {
+     "title": "Nueva paritaria de la construcción: cuánto cobra un albañil en octubre 2026 con el aumento confirmado por la Uocra",
+     "url": "https://www.lanacion.com.ar/economia/nueva-paritaria-de-la-construccion-cuanto-cobra-un-albanil-en-octubre-2026-con-el-aumento-confirmado-nid01102026/",
+     "domain": "La Nación",
+     "seendate": "20261020T101812Z"
+    },
+    {
+     "title": "Calendario escolar: cuándo terminan las clases en Santa Fe 2026",
+     "url": "https://www.lanacion.com.ar/sociedad/calendario-escolar-cuando-terminan-las-clases-en-santa-fe-2026-nid15102026/",
+     "domain": "La Nación",
+     "seendate": "20261020T101808Z"
+    },
+    {
+     "title": "Calendario escolar: cuándo terminan las clases en Córdoba",
+     "url": "https://www.lanacion.com.ar/sociedad/calendario-escolar-cuando-terminan-las-clases-en-cordoba-nid07102026/",
+     "domain": "La Nación",
+     "seendate": "20261020T101806Z"
+    },
+    {
+     "title": "Calendario escolar: cuándo terminan las clases en CABA",
+     "url": "https://www.lanacion.com.ar/sociedad/calendario-escolar-cuando-terminan-las-clases-en-caba-nid30092026/",
+     "domain": "La Nación",
+     "seendate": "20261020T101743Z"
+    },
+    {
+     "title": "Calendario escolar: cuándo terminan las clases en la provincia de Buenos Aires",
+     "url": "https://www.lanacion.com.ar/sociedad/calendario-escolar-cuando-terminan-las-clases-en-la-provincia-de-buenos-aires-nid29092026/",
+     "domain": "La Nación",
+     "seendate": "20261020T101724Z"
+    },
+    {
+     "title": "Cuándo terminan las clases en la Argentina 2026, provincia por provincia",
+     "url": "https://www.lanacion.com.ar/sociedad/cuando-terminan-las-clases-en-la-argentina-2026-provincia-por-provincia-nid22092026/",
+     "domain": "La Nación",
+     "seendate": "20261020T101723Z"
+    },
+    {
+     "title": "Cyber Monday 2026 en la Argentina: fechas y marcas que participan en esta edición",
+     "url": "https://www.lanacion.com.ar/economia/cyber-monday-2026-en-la-argentina-fechas-y-marcas-que-participan-en-esta-edicion-nid14102026/",
+     "domain": "La Nación",
+     "seendate": "20261020T101650Z"
+    },
+    {
+     "title": "Cuándo es el Cyber Monday 2026 en la Argentina",
+     "url": "https://www.lanacion.com.ar/economia/cuando-es-el-cyber-monday-2026-en-la-argentina-nid14102026/",
+     "domain": "La Nación",
+     "seendate": "20261020T101644Z"
+    },
+    {
+     "title": "Cuándo se festeja Halloween 2026 en la Argentina",
+     "url": "https://www.lanacion.com.ar/sociedad/cuando-se-festeja-halloween-2026-en-la-argentina-nid07102026/",
+     "domain": "La Nación",
+     "seendate": "20261020T101636Z"
+    },
+    {
+     "title": "Cuándo es Halloween en la Argentina 2026",
+     "url": "https://www.lanacion.com.ar/sociedad/cuando-es-halloween-en-la-argentina-2026-nid24092026/",
+     "domain": "La Nación",
+     "seendate": "20261020T101634Z"
+    },
+    {
+     "title": "Siguen los cortocircuitos entre Milei y sus diputados por el proyecto de discapacidad que se consensuó con los aliados",
+     "url": "https://www.lanacion.com.ar/politica/siguen-los-cortocircuitos-entre-milei-y-sus-diputados-por-el-proyecto-de-discapacidad-que-se-nid20102026/",
+     "domain": "La Nación",
+     "seendate": "20261020T101248Z"
+    },
+    {
+     "title": "Fecha de cobro de Anses: el cronograma de pagos para este martes 20 de octubre",
+     "url": "https://www.lanacion.com.ar/economia/fecha-de-cobro-de-anses-el-cronograma-de-pagos-para-este-martes-20-de-octubre-nid20102026/",
+     "domain": "La Nación",
+     "seendate": "20261020T100227Z"
+    },
+    {
+     "title": "La peperina, la popular hierba nativa argentina, logró el sello de Indicación Geográfica",
+     "url": "https://www.lanacion.com.ar/economia/campo/de-uso-medicinal-y-culinario-la-peperina-la-popular-hierba-nativa-argentina-logro-el-sello-de-nid20102026/",
+     "domain": "La Nación",
+     "seendate": "20261020T100000Z"
     },
     {
      "title": "La triste realidad del ahorrista conservador en dólares: cómo dejar de perder sin arriesgar de más",
@@ -2473,87 +2689,213 @@
      "seendate": "20261020T063846Z"
     },
     {
-     "title": "Cierra el Sweetys Kindergarten, un reconocido jardín de infantes de Recoleta",
-     "url": "https://www.lanacion.com.ar/sociedad/cierra-el-sweetys-kindergarten-un-reconocido-jardin-de-infantes-de-recoleta-nid20102026/",
-     "domain": "La Nación",
-     "seendate": "20261020T061149Z"
-    },
-    {
      "title": "Conrado Estol, neurólogo: “El sobrepeso no es más una cosa estética, es una enfermedad seria”",
      "url": "https://www.lanacion.com.ar/sociedad/conrado-estol-neurologo-el-sobrepeso-no-es-mas-una-cosa-estetica-es-una-enfermedad-seria-nid20102026/",
      "domain": "La Nación",
      "seendate": "20261020T060000Z"
-    },
-    {
-     "title": "Un fallo de la jueza Preska acerca el cierre del juicio por YPF y la caída del reclamo por US$16.000 millones",
-     "url": "https://www.lanacion.com.ar/economia/un-fallo-de-la-jueza-preska-acerca-el-cierre-del-juicio-por-ypf-y-la-caida-del-reclamo-por-us16000-nid20102026/",
-     "domain": "La Nación",
-     "seendate": "20261020T054848Z"
-    },
-    {
-     "title": "El Gobierno postergó hasta diciembre la puesta en marcha de los Fondos de Asistencia Laboral",
-     "url": "https://www.lanacion.com.ar/sociedad/el-gobierno-postergo-hasta-diciembre-la-puesta-en-marcha-de-los-fondos-de-asistencia-laboral-nid20102026/",
-     "domain": "La Nación",
-     "seendate": "20261020T044523Z"
-    },
-    {
-     "title": "¿Dónde está el sol? Qué muestran las estadísticas sobre la llamativa nubosidad de los últimos meses en la ciudad",
-     "url": "https://www.lanacion.com.ar/sociedad/los-dias-grises-del-super-nino-tras-un-octubre-peculiar-que-se-espera-para-el-resto-de-la-primavera-nid19102026/",
-     "domain": "La Nación",
-     "seendate": "20261020T034544Z"
-    },
-    {
-     "title": "Base naval en Ushuaia: la anunció Milei, pero comenzó hace 4 años y apenas tiene un galpón sin terminar",
-     "url": "https://www.lanacion.com.ar/sociedad/base-naval-en-ushuaia-la-anuncio-milei-pero-comenzo-hace-4-anos-y-apenas-tiene-un-galpon-sin-nid20102026/",
-     "domain": "La Nación",
-     "seendate": "20261020T031200Z"
-    },
-    {
-     "title": "Argentina celebró un acuerdo con Japón para impulsar inversiones estratégicas",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-casta-la-alta-politica-los-empresaurios-y-los-periodistas-no-nid19102026/",
-     "domain": "La Nación",
-     "seendate": "20261020T031008Z"
-    },
-    {
-     "title": "Brutal ataque a una yegua: entraron a un campo, le cortaron la cara y le fracturaron el hocico",
-     "url": "https://www.lanacion.com.ar/economia/campo/brutal-ataque-a-una-yegua-en-un-campo-bonaerense-le-cortaron-la-cara-y-le-fracturaron-el-hocico-nid19102026/",
-     "domain": "La Nación",
-     "seendate": "20261020T030917Z"
-    },
-    {
-     "title": "Hay alerta naranja y amarilla por tormentas, nevadas y Zonda para este martes 20 de octubre: las provincias afectadas",
-     "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-naranja-y-amarilla-por-tormentas-nevadas-y-zonda-para-este-martes-20-de-octubre-las-nid19102026/",
-     "domain": "La Nación",
-     "seendate": "20261020T030100Z"
-    },
-    {
-     "title": "Joseph Pilates: “La felicidad está subordinada al bienestar físico por encima del nivel social o económico”",
-     "url": "https://www.lanacion.com.ar/sociedad/joseph-pilates-la-felicidad-esta-subordinada-al-bienestar-fisico-por-encima-del-nivel-social-o-nid18102026/",
-     "domain": "La Nación",
-     "seendate": "20261020T024400Z"
-    },
-    {
-     "title": "Daniel López Rosetti, médico especializado en estrés: “No hay que ser mejor que otros; la competencia es con uno mismo”",
-     "url": "https://www.lanacion.com.ar/sociedad/daniel-lopez-rosetti-el-dia-es-una-tanza-de-pesca-con-muchos-anzuelos-el-estresado-se-especializa-en-nid19102026/",
-     "domain": "La Nación",
-     "seendate": "20261020T014500Z"
-    },
-    {
-     "title": "Malvinas: exhiben actos de vandalismo contra placas y ofrendas argentinas en el cementerio de Darwin",
-     "url": "https://www.lanacion.com.ar/politica/malvinas-exhiben-actos-de-vandalismo-hacia-placas-y-ofrendas-argentinas-en-el-cementerio-de-darwin-nid19102026/",
-     "domain": "La Nación",
-     "seendate": "20261020T013135Z"
-    },
-    {
-     "title": "Identificaron a tres alumnos acusados de difundir imágenes íntimas de una docente en Mendoza",
-     "url": "https://www.lanacion.com.ar/sociedad/identificaron-a-tres-alumnos-acusados-de-difundir-imagenes-intimas-de-una-docente-en-mendoza-nid19102026/",
-     "domain": "La Nación",
-     "seendate": "20261020T012507Z"
     }
    ]
   },
   "URY": {
    "articles": [
+    {
+     "title": "La Liga Uruguaya de Básquetbol sigue la primera fecha con un estelar Nacional vs . Aguada : hora y dónde ver",
+     "url": "https://www.elpais.com.uy/ovacion/basquetbol/la-liga-uruguaya-de-basquetbol-sigue-la-primera-fecha-con-un-estelar-nacional-vs-aguada-hora-y-donde-ver",
+     "domain": "elpais.com.uy",
+     "seendate": "20261020T074500Z"
+    },
+    {
+     "title": "Polanco con nuevas tiendas en Tres Cruces y Portones , mientras se hace fuerte en Brasil",
+     "url": "https://www.elpais.com.uy/negocios/empresas/polanco-con-nuevas-tiendas-en-tres-cruces-y-portones-mientras-se-hace-fuerte-en-brasil",
+     "domain": "elpais.com.uy",
+     "seendate": "20261020T074500Z"
+    },
+    {
+     "title": "Mercado de haciendas firme en precios , poca oferta disponible de ganado terminado",
+     "url": "https://rurales.elpais.com.uy/ganaderia/mercado-de-haciendas-firme-en-precios-poca-oferta-disponible-de-ganado-terminado",
+     "domain": "rurales.elpais.com.uy",
+     "seendate": "20261020T074500Z"
+    },
+    {
+     "title": "Partidos se encaminan a renovar la integración del TCR y Corte Electoral : FA quitó la Fiscalía de la negociación",
+     "url": "https://www.elpais.com.uy/informacion/politica/partidos-se-encaminan-a-renovar-la-integracion-del-tcr-y-corte-electoral-fa-quito-la-fiscalia-de-la-negociacion",
+     "domain": "elpais.com.uy",
+     "seendate": "20261020T074500Z"
+    },
+    {
+     "title": "Detalles del informe jurídico en que se basa el PN para arremeter contra las autoridades del FA en la Jutep",
+     "url": "https://www.elpais.com.uy/informacion/politica/detalles-del-informe-juridico-en-que-se-basa-el-pn-para-arremeter-contra-las-autoridades-del-fa-en-la-jutep",
+     "domain": "elpais.com.uy",
+     "seendate": "20261020T074500Z"
+    },
+    {
+     "title": "Pantalla Uruguay ofrecerá 9 . 701 vacunos entre el miércoles y el jueves - Rurales",
+     "url": "https://rurales.elpais.com.uy/mercados/pantalla-uruguay-ofrecera-9-701-vacunos-entre-el-miercoles-y-el-jueves",
+     "domain": "rurales.elpais.com.uy",
+     "seendate": "20261020T074500Z"
+    },
+    {
+     "title": "En Paysandú empiezan a montar el techo del escenario donde se hará la misa papal del 7 de noviembre",
+     "url": "https://www.elpais.com.uy/informacion/politica/en-paysandu-empiezan-a-montar-el-techo-del-escenario-donde-se-hara-la-misa-papal-del-7-de-noviembre",
+     "domain": "elpais.com.uy",
+     "seendate": "20261020T074500Z"
+    },
+    {
+     "title": "La arquitectura uruguaya vuelve a ganar lugar en el escenario internacional",
+     "url": "https://www.elpais.com.uy/vida-actual/la-arquitectura-uruguaya-vuelve-a-ganar-lugar-en-el-escenario-internacional",
+     "domain": "elpais.com.uy",
+     "seendate": "20261020T074500Z"
+    },
+    {
+     "title": "Shorthorn tendrá su remate anual este miércoles en Durazno",
+     "url": "https://rurales.elpais.com.uy/zafra-de-toros/shorthorn-tendra-su-remate-anual-este-miercoles-en-durazno",
+     "domain": "rurales.elpais.com.uy",
+     "seendate": "20261020T074500Z"
+    },
+    {
+     "title": "La industria descremada ( y no es la láctea )",
+     "url": "https://www.elpais.com.uy/economia-y-mercado/la-industria-descremada-y-no-es-la-lactea",
+     "domain": "elpais.com.uy",
+     "seendate": "20261020T074500Z"
+    },
+    {
+     "title": "Datos sobre la pobreza",
+     "url": "https://www.elpais.com.uy/opinion/ecos/datos-sobre-la-pobreza-19-10",
+     "domain": "elpais.com.uy",
+     "seendate": "20261020T074500Z"
+    },
+    {
+     "title": "El desafío de 70 estudiantes uruguayos que quieren construir un auto de competición impulsado por hidrógeno",
+     "url": "https://www.elpais.com.uy/domingo/el-desafio-de-70-estudiantes-uruguayos-que-quieren-construir-un-auto-de-competicion-impulsado-por-hidrogeno",
+     "domain": "elpais.com.uy",
+     "seendate": "20261020T074500Z"
+    },
+    {
+     "title": "El dólar en Uruguay inicia la semana con un alza mínima y corta una racha de dos caídas consecutivas",
+     "url": "https://www.elpais.com.uy/negocios/finanzas/el-dolar-en-uruguay-incia-la-semana-con-un-alza-minima-y-corta-una-racha-de-dos-caidas-consecutivas",
+     "domain": "elpais.com.uy",
+     "seendate": "20261020T063000Z"
+    },
+    {
+     "title": "Colectivos impulsan una ley para proteger el patrimonio cultural indígena de Uruguay",
+     "url": "https://ladiaria.com.uy/cotidiana/articulo/2026/10/colectivos-impulsan-una-ley-para-proteger-el-patrimonio-cultural-indigena-de-uruguay/",
+     "domain": "ladiaria.com.uy",
+     "seendate": "20261020T051500Z"
+    },
+    {
+     "title": "Los 34 toros de San Rafael promediaron U$S 4 . 009",
+     "url": "https://www.eltelegrafo.com/2026/10/los-34-toros-de-san-rafael-promediaron-us-4-009/",
+     "domain": "eltelegrafo.com",
+     "seendate": "20261020T044500Z"
+    },
+    {
+     "title": "Explicaron cómo la investigación permitió localizar a la adolescente que se ausentó de su casa con un hombre",
+     "url": "https://www.eltelegrafo.com/2026/10/explicaron-como-la-investigacion-permitio-localizar-a-la-adolescente-que-se-ausento-de-su-casa-con-un-hombre/",
+     "domain": "eltelegrafo.com",
+     "seendate": "20261020T044500Z"
+    },
+    {
+     "title": "¿ Quién se fue de Gran Hermano Uruguay ? Una de las figuras más polémicas quedó eliminada con porcentaje récord",
+     "url": "https://www.elpais.com.uy/tvshow/tv-y-radio/quien-se-fue-de-gran-hermano-uruguay-una-de-las-figuras-mas-polemicas-fue-eliminada-con-porcentaje-record",
+     "domain": "elpais.com.uy",
+     "seendate": "20261020T044500Z"
+    },
+    {
+     "title": "Si interpretaron mal , les pido disculpas : el detonante de los líos tras Nacional y Depor con Carreño en el medio",
+     "url": "https://www.elpais.com.uy/ovacion/futbol/si-interpretaron-mal-les-pido-disculpas-el-detonante-de-los-lios-tras-nacional-y-depor-con-carreno-en-el-medio",
+     "domain": "elpais.com.uy",
+     "seendate": "20261020T044500Z"
+    },
+    {
+     "title": "Jubilación anticipada a los 60 años : Gobierno defiende el proyecto y asegura estabilidad fiscal",
+     "url": "https://www.carasycaretas.com.uy/politica/jubilacion-anticipada-los-60-anos-gobierno-defiende-el-proyecto-y-asegura-estabilidad-fiscal-n100314",
+     "domain": "carasycaretas.com.uy",
+     "seendate": "20261020T044500Z"
+    },
+    {
+     "title": "MGAP declaró estado de Alerta Institucional por El Niño",
+     "url": "https://www.eltelegrafo.com/2026/10/mgap-declaro-estado-de-alerta-institucional-por-el-nino/",
+     "domain": "eltelegrafo.com",
+     "seendate": "20261020T044500Z"
+    },
+    {
+     "title": "A los 14 años , tres atletas de Durazno vestirán la celeste en Guayaquil",
+     "url": "https://elacontecer.com.uy/deporte/tres-atletas-durazno-sudamericano-guayaquil-2026/",
+     "domain": "elacontecer.com.uy",
+     "seendate": "20261020T043000Z"
+    },
+    {
+     "title": "Cámara Nórdica celebró 20 años en UY ( nuevas oportunidades de comercio e inversión )",
+     "url": "https://infonegocios.biz/y-ademas/camara-nordica-celebro-20-anos-en-uy-nuevas-oportunidades-de-comercio-e-inversion",
+     "domain": "infonegocios.biz",
+     "seendate": "20261020T043000Z"
+    },
+    {
+     "title": "Valentino Merlo : las críticas por los cambios en su voz y el nuevo tema que quiere hacer con un conjunto uruguayo",
+     "url": "https://www.elpais.com.uy/tvshow/personajes/valentino-merlo-las-criticas-por-los-cambios-en-su-voz-y-el-nuevo-tema-que-quiere-hacer-con-un-conjunto-uruguayo",
+     "domain": "elpais.com.uy",
+     "seendate": "20261020T031500Z"
+    },
+    {
+     "title": "Reubicaciones , producción y reducción horaria : el martes se firma preacuerdo entre FNC y el sindicato",
+     "url": "https://www.subrayado.com.uy/reubicaciones-produccion-y-reduccion-horaria-el-martes-se-firma-preacuerdo-fnc-y-el-sindicato-n1021246",
+     "domain": "subrayado.com.uy",
+     "seendate": "20261020T010000Z"
+    },
+    {
+     "title": "San Rafael colocó la totalidad de su oferta a US$ 4 . 028 de promedio",
+     "url": "https://rurales.elpais.com.uy/zafra-de-toros/san-rafael-coloco-la-totalidad-de-su-oferta-a-us-4-009-de-promedio",
+     "domain": "rurales.elpais.com.uy",
+     "seendate": "20261020T010000Z"
+    },
+    {
+     "title": "Amar nuestro mar : artistas uruguayos crearon una canción en la que piden proteger uno de nuestros principales ecosistemas | la diaria",
+     "url": "https://ladiaria.com.uy/ambiente/articulo/2026/10/amar-nuestro-mar-artistas-uruguayos-crearon-una-cancion-en-la-que-piden-proteger-uno-de-nuestros-principales-ecosistemas/",
+     "domain": "ladiaria.com.uy",
+     "seendate": "20261020T004500Z"
+    },
+    {
+     "title": "Orsi expresó su deseo de crear un Ministerio de Justicia y llamó a cuidar el Poder Judicial que en c",
+     "url": "https://www.radiomontecarlo.com.uy/2026/10/19/nacionales/orsi-expreso-su-deseo-de-crear-un-ministerio-de-justicia-y-llamo-a-cuidad-el-poder-judicial-que-en-comparacion-a-la-region-es-un-lujo/",
+     "domain": "radiomontecarlo.com.uy",
+     "seendate": "20261020T003000Z"
+    },
+    {
+     "title": "Proyecto para que ciudadanos legales sean reconocidos como nacionales uruguayos genera posiciones encontradas en la oposición",
+     "url": "https://ladiaria.com.uy/politica/articulo/2026/10/proyecto-para-que-ciudadanos-legales-sean-reconocidos-como-nacionales-uruguayos-genera-posiciones-encontradas-en-la-oposicion/",
+     "domain": "ladiaria.com.uy",
+     "seendate": "20261020T003000Z"
+    },
+    {
+     "title": "Confirmados los octavos de final de la Copa AUF Uruguay : todos los cruces",
+     "url": "https://ladiaria.com.uy/deporte/articulo/2026/10/confirmados-los-octavos-de-final-de-la-copa-auf-uruguay-todos-los-cruces/",
+     "domain": "ladiaria.com.uy",
+     "seendate": "20261020T003000Z"
+    },
+    {
+     "title": "Ganadores de la edición 2026 del Premio de Periodismo Julio Castro",
+     "url": "https://ladiaria.com.uy/cultura/articulo/2026/10/ganadores-de-la-edicion-2026-del-premio-de-periodismo-julio-castro/",
+     "domain": "ladiaria.com.uy",
+     "seendate": "20261020T003000Z"
+    },
+    {
+     "title": "El Hospital de Clínicas contará un nodo de Inteligencia Artificial para el diagnóstico de mamografía",
+     "url": "https://www.radiomontecarlo.com.uy/2026/10/19/nacionales/el-hospital-de-clinicas-contara-un-nodo-de-inteligencia-artificial-para-el-diagnostico-de-mamografias/",
+     "domain": "radiomontecarlo.com.uy",
+     "seendate": "20261020T001500Z"
+    },
+    {
+     "title": "En el Día de la Construcción destacaron impacto de la industria en la economía del país",
+     "url": "https://www.carasycaretas.com.uy/politica/en-el-dia-la-construccion-destacaron-impacto-la-industria-la-economia-del-pais-n100304",
+     "domain": "carasycaretas.com.uy",
+     "seendate": "20261019T234500Z"
+    },
+    {
+     "title": "De 3 a 18 : los pases en comisión se sextuplicaron en la Intendencia de Durazno",
+     "url": "https://elacontecer.com.uy/politica/pases-en-comision-intendencia-durazno-3-a-18/",
+     "domain": "elacontecer.com.uy",
+     "seendate": "20261019T234500Z"
+    },
     {
      "title": "Diputado Pérez propone recuperar el parque de La Radial y denominarlo José Batlle y Ordez",
      "url": "https://primerahora.com.uy/politica/diputado-perez-propone-recuperar-el-parque-de-la-radial-y-denominarlo-jose-batlle-y-ordonez",
@@ -2715,214 +3057,16 @@
      "url": "https://www.elpais.com.uy/economia-y-mercado/uruguay-debe-embarcarse-en-un-proceso-de-desregulacion-como-en-argentina-de-la-mano-de-sturzenegger-afirma-claudio-porcel-ceo-de-balanz",
      "domain": "elpais.com.uy",
      "seendate": "20261019T073000Z"
-    },
-    {
-     "title": "Los 30 años de Economía & Mercado",
-     "url": "https://www.elpais.com.uy/economia-y-mercado/los-30-anos-de-economia-mercado",
-     "domain": "elpais.com.uy",
-     "seendate": "20261019T073000Z"
-    },
-    {
-     "title": "Construcción : la actividad busca recuperar el impulso con un aumento de la inversión en infraestructura y vivienda",
-     "url": "https://www.elpais.com.uy/suplementos-especiales/construccion-la-actividad-busca-recuperar-el-impulso-con-un-aumento-de-la-inversion-en-infraestructura-y-vivienda",
-     "domain": "elpais.com.uy",
-     "seendate": "20261019T073000Z"
-    },
-    {
-     "title": "Los Nietitos lanzó Mocaccino , un nuevo dulce de leche que combina café y chocolate",
-     "url": "https://www.elpais.com.uy/negocios/empresas/los-nietitos-lanzo-mocaccino-un-nuevo-dulce-de-leche-que-combina-cafe-y-chocolate",
-     "domain": "elpais.com.uy",
-     "seendate": "20261019T073000Z"
-    },
-    {
-     "title": "La seguridad no tiene color político",
-     "url": "https://www.elpais.com.uy/opinion/ecos/la-seguridad-no-tiene-color-politico-15-10",
-     "domain": "elpais.com.uy",
-     "seendate": "20261019T073000Z"
-    },
-    {
-     "title": "Edad jubilatoria",
-     "url": "https://www.elpais.com.uy/opinion/ecos/edad-jubilatoria-15-10",
-     "domain": "elpais.com.uy",
-     "seendate": "20261019T073000Z"
-    },
-    {
-     "title": "¿ Un mate con forma de ñandú ? Las piezas más curiosas de un museo dedicado a la historia de esta infusión popular",
-     "url": "https://www.elpais.com.uy/domingo/un-mate-con-forma-de-nandu-las-piezas-mas-curiosas-de-un-museo-dedicado-a-la-historia-de-esta-infusion-popular",
-     "domain": "elpais.com.uy",
-     "seendate": "20261019T073000Z"
-    },
-    {
-     "title": "Algunos corren , todos ganan : la cuarta edición de la 5K de Enfoque y Bimbo volvió a revolucionar Parque Battle",
-     "url": "https://www.elpais.com.uy/ovacion/futbol/algunos-corren-todos-ganan-la-cuarta-edicion-de-la-5k-de-enfoque-y-bimbo-volvio-a-revolucionar-parque-battle",
-     "domain": "elpais.com.uy",
-     "seendate": "20261019T073000Z"
-    },
-    {
-     "title": "Néstor Hugo Santos : El precio del ganado llegó para quedarse , pero no hay que soñar con mucho más - Rurales",
-     "url": "https://rurales.elpais.com.uy/hablemos-de-agro/nestor-hugo-santos-el-precio-del-ganado-llego-para-quedarse-pero-no-hay-que-sonar-con-mucho-mas",
-     "domain": "rurales.elpais.com.uy",
-     "seendate": "20261019T073000Z"
-    },
-    {
-     "title": "Crónica de Luana en el Antel Arena : volar por los aires , poner la fe en Uruguay y coronar una noche histórica",
-     "url": "https://www.elpais.com.uy/tvshow/musica/cronica-de-luana-en-el-antel-arena-volar-por-los-aires-poner-la-fe-en-uruguay-y-coronar-una-noche-historica",
-     "domain": "elpais.com.uy",
-     "seendate": "20261019T060000Z"
-    },
-    {
-     "title": "Con multitudinaria asistencia de público culminó la 80 . ª Exposición de Paysandú",
-     "url": "https://www.eltelegrafo.com/2026/10/con-multitudinaria-asistencia-de-publico-culmino-la-80-a-exposicion-de-paysandu/",
-     "domain": "eltelegrafo.com",
-     "seendate": "20261019T044500Z"
-    },
-    {
-     "title": "Manuela Rotundo es bicampeona sudamericana U23",
-     "url": "https://www.eltelegrafo.com/2026/10/manuela-rotundo-es-bicampeona-sudamericana-u23/",
-     "domain": "eltelegrafo.com",
-     "seendate": "20261019T044500Z"
-    },
-    {
-     "title": "Punta del Este , la anfitriona ( Uruguay será sede del Mundial de Polo 2027 )",
-     "url": "https://infonegocios.biz/plus/punta-del-este-la-anfitriona-uruguay-sera-sede-del-mundial-de-polo-2027",
-     "domain": "infonegocios.biz",
-     "seendate": "20261019T044500Z"
-    },
-    {
-     "title": "Adiós intermediarios : Nexo lanza un buscador global con 7 millones de referencias en repuestos para maquinaria pesada",
-     "url": "https://infonegocios.biz/plus/adios-intermediarios-nexo-lanza-un-buscador-global-con-7-millones-de-referencias-en-repuestos-para-maquinaria-pesada",
-     "domain": "infonegocios.biz",
-     "seendate": "20261019T044500Z"
-    },
-    {
-     "title": "GADOR celebra 45 años en Uruguay y proyecta una nueva etapa de crecimiento",
-     "url": "https://infonegocios.biz/plus/gador-celebra-45-anos-en-uruguay-y-proyecta-una-nueva-etapa-de-crecimiento",
-     "domain": "infonegocios.biz",
-     "seendate": "20261019T044500Z"
-    },
-    {
-     "title": "Presentaron la Agenda de las Mujeres Rurales +1 – Diario El Telégrafo",
-     "url": "https://www.eltelegrafo.com/2026/10/presentaron-la-agenda-de-las-mujeres-rurales-1/",
-     "domain": "eltelegrafo.com",
-     "seendate": "20261019T044500Z"
-    },
-    {
-     "title": "Mario Rivero hizo realidad su sueño de ser campeón mundial",
-     "url": "https://www.eltelegrafo.com/2026/10/mario-rivero-hizo-realidad-su-sueno-de-ser-campeon-mundial/",
-     "domain": "eltelegrafo.com",
-     "seendate": "20261019T044500Z"
-    },
-    {
-     "title": "¿ Qué dice de los trabajadores UY el nuevo Índice de Felicidad Laboral ? ( más estresados pero más estables )",
-     "url": "https://infonegocios.biz/plus/que-dice-de-los-trabajadores-uy-el-nuevo-indice-de-felicidad-laboral-mas-estresados-pero-mas-estables",
-     "domain": "infonegocios.biz",
-     "seendate": "20261019T044500Z"
-    },
-    {
-     "title": "Mercado Libre Experience reunió a 2 . 000 personas para conversar sobre el futuro del comercio digital",
-     "url": "https://infonegocios.biz/y-ademas/mercado-libre-experience-reunio-a-2-000-personas-para-conversar-sobre-el-futuro-del-comercio-digital",
-     "domain": "infonegocios.biz",
-     "seendate": "20261019T044500Z"
-    },
-    {
-     "title": "Fortaleciendo negocios ( el resultado de la 6ª edición de Despegate )",
-     "url": "https://infonegocios.biz/y-ademas/fortaleciendo-negocios-el-resultado-de-la-6a-edicion-de-despegate",
-     "domain": "infonegocios.biz",
-     "seendate": "20261019T044500Z"
-    },
-    {
-     "title": "Unilever en Uruguay tiene nuevo country manager : Raúl Arce",
-     "url": "https://infonegocios.biz/infogerentes/unilever-en-uruguay-tiene-nuevo-country-manager-raul-arce",
-     "domain": "infonegocios.biz",
-     "seendate": "20261019T044500Z"
-    },
-    {
-     "title": "HIF Global muy cerca de un acuerdo con gobierno de Uruguay para instalar la planta en Paysandú – Diario El Telégrafo",
-     "url": "https://www.eltelegrafo.com/2026/10/hif-global-muy-cerca-de-un-acuerdo-con-gobierno-de-uruguay-para-instalar-la-planta-en-paysandu/",
-     "domain": "eltelegrafo.com",
-     "seendate": "20261019T044500Z"
-    },
-    {
-     "title": "Para una empresa que crece al ritmo que estamos creciendo , profesionalizar la operación no era opcional ( Santiago Pereira , director ejecutivo de Solyal S . A .)",
-     "url": "https://infonegocios.biz/te-invito-a-comer/para-una-empresa-que-crece-al-ritmo-que-estamos-creciendo-profesionalizar-la-operacion-no-era-opcional-santiago-pereira-director-ejecutivo-de-solyal-s-a",
-     "domain": "infonegocios.biz",
-     "seendate": "20261019T044500Z"
-    },
-    {
-     "title": "Comienza hoy la temporada 2026 - 27 de la LUB",
-     "url": "https://www.eltelegrafo.com/2026/10/comienza-hoy-la-temporada-2026-27-de-la-lub/",
-     "domain": "eltelegrafo.com",
-     "seendate": "20261019T044500Z"
-    },
-    {
-     "title": "Donde todavía no hay manual , nosotros construimos el camino : el equipo de Eve Move que impulsa la carga eléctrica en Uruguay",
-     "url": "https://infonegocios.biz/hay-equipo/donde-todavia-no-hay-manual-nosotros-construimos-el-camino-el-equipo-de-eve-move-que-impulsa-la-carga-electrica-en-uruguay",
-     "domain": "infonegocios.biz",
-     "seendate": "20261019T044500Z"
-    },
-    {
-     "title": "Congreso Pepe Mujica con la mirada puesta en la reducción de la desigualdad y nuevo ciclo de transformaciones",
-     "url": "https://www.carasycaretas.com.uy/politica/congreso-pepe-mujica-la-mirada-puesta-la-reduccion-la-desigualdad-y-nuevo-ciclo-transformaciones-n100265",
-     "domain": "carasycaretas.com.uy",
-     "seendate": "20261018T191500Z"
-    },
-    {
-     "title": "Hallaron en Buenos Aires a Camila Rodríguez ; detuvieron a un hombre",
-     "url": "https://www.eltelegrafo.com/2026/10/hallaron-en-buenos-aires-a-camila-rodriguez-detuvieron-a-un-hombre/",
-     "domain": "eltelegrafo.com",
-     "seendate": "20261018T190000Z"
-    },
-    {
-     "title": "Academia Nacional de Medicina recomienda prohibir razas de perros particularmente agresoras en Uruguay",
-     "url": "https://www.subrayado.com.uy/academia-nacional-medicina-recomienda-prohibir-razas-perros-particularmente-agresoras-uruguay-n1021124",
-     "domain": "subrayado.com.uy",
-     "seendate": "20261018T183000Z"
-    },
-    {
-     "title": "Danubio vs . Central Español en vivo por el Clausura : la Franja y el palermitano se juegan puntos vitales",
-     "url": "https://www.elpais.com.uy/ovacion/futbol/danubio-vs-central-espanol-en-vivo-por-el-clausura-la-franja-y-el-palermitano-se-juegan-puntos-vitales",
-     "domain": "elpais.com.uy",
-     "seendate": "20261018T180000Z"
-    },
-    {
-     "title": "Crónica del show de David Bisbal en el Antel Arena : el crooner andaluz que volverá a cantar en Uruguay en 2027",
-     "url": "https://www.elpais.com.uy/tvshow/musica/cronica-del-show-de-david-bisbal-en-el-antel-arena-el-crooner-andaluz-que-volvera-a-cantar-en-uruguay-en-2027",
-     "domain": "elpais.com.uy",
-     "seendate": "20261018T180000Z"
-    },
-    {
-     "title": "Última fecha , otra protesta y definición de las series",
-     "url": "https://www.diariocambio.com.uy/ultima-fecha-otra-protesta-y-definicion-de-las-series",
-     "domain": "diariocambio.com.uy",
-     "seendate": "20261018T154500Z"
-    },
-    {
-     "title": "Durazno inaugura el primer barrio cooperativo de vivienda sindical del país con 316 casas para 1 . 000 personas",
-     "url": "https://www.elpais.com.uy/informacion/sociedad/durazno-inaugura-el-primer-barrio-cooperativo-de-vivienda-sindical-del-pais-con-316-casas-para-1-000-personas",
-     "domain": "elpais.com.uy",
-     "seendate": "20261018T154500Z"
-    },
-    {
-     "title": "Santiago Urrutia ganó en China y se acerca a la cima del TCR World Tour",
-     "url": "https://espectador.com/noticias/automovilismo/santiago-urrutia-gano-en-china-y-se-acerca-a-la-cima-del-tcr-world-tour",
-     "domain": "espectador.com",
-     "seendate": "20261018T143000Z"
-    },
-    {
-     "title": "Julio Sosa 100 : Las Piedras celebrará el legado del Varón del Tango con un gran concierto",
-     "url": "https://www.carasycaretas.com.uy/sociedad/julio-sosa-100-las-piedras-celebrara-el-legado-del-varon-del-tango-un-gran-concierto-n100262",
-     "domain": "carasycaretas.com.uy",
-     "seendate": "20261018T143000Z"
     }
    ]
   },
   "PRY": {
    "articles": [
     {
-     "title": "Misa, brindis y donación de libros cierran mes de aniversario del CVP",
-     "url": "https://www.abc.com.py/nacionales/2026/10/19/misa-brindis-y-donacion-de-libros-cierran-mes-de-aniversario-del-cvp/",
+     "title": "Mientras gobierno y transportistas negocian por la compensación, usuarios sufren de reguladas",
+     "url": "https://www.abc.com.py/nacionales/2026/10/20/mientras-gobierno-y-transportistas-negocian-por-la-compensacion-usuarios-sufren-de-reguladas/",
      "domain": "ABC Color",
-     "seendate": "20261020T010051Z"
+     "seendate": "20261020T103436Z"
     }
    ]
   },
@@ -2931,6 +3075,18 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "Rio de Janeiro, Florianópolis e São Paulo se destacam no ‘Oscar do turismo’; veja os vencedores brasileiros e sul-americanos",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/20/rio-de-janeiro-florianopolis-e-sao-paulo-se-destacam-no-oscar-do-turismo-veja-os-vencedores-brasileiros-e-sul-americanos.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261020T104251Z"
+    },
+    {
+     "title": "‘Gag’, ‘slay’ e ‘serve’: entenda as gírias das redes que caíram na prova de inglês da Unicamp; leia a questão na íntegra",
+     "url": "https://oglobo.globo.com/brasil/sao-paulo/noticia/2026/10/20/gag-slay-e-serve-entenda-as-girias-das-redes-que-cairam-na-prova-da-unicamp-leia-a-questao-na-integra.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261020T101625Z"
+    },
     {
      "title": "Mãe Senhora de Ewá, referência do candomblé no Brasil, morre aos 104 anos em Salvador",
      "url": "https://oglobo.globo.com/brasil/noticia/2026/10/20/mae-senhora-de-ewa-referencia-do-candomble-no-brasil-morre-aos-104-anos-em-salvador.ghtml",
@@ -3026,12 +3182,6 @@
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/20/entrevista-nao-conseguimos-encontrar-ainda-uma-formula-adequada-para-enfraquecer-a-extrema-direita-diz-jones-manoel.ghtml",
      "domain": "O Globo",
      "seendate": "20261020T063000Z"
-    },
-    {
-     "title": "O que diz o novo vídeo de Felca após hiato das redes",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/20/o-que-diz-o-novo-video-de-felca-apos-hiato-das-redes.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261020T033514Z"
     }
    ]
   }
