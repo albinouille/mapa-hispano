@@ -1,8 +1,20 @@
 {
- "updated": "2026-10-20T14:33:14+00:00",
+ "updated": "2026-10-20T15:13:43+00:00",
  "countries": {
   "ESP": {
    "articles": [
+    {
+     "title": "El empresario Julio Martínez asegura ante el juez Calama que iba “informando a Zapatero de las necesidades de Plus Ultra”",
+     "url": "https://elpais.com/espana/2026-10-20/el-empresario-julio-martinez-ante-el-juez-calama-voy-informando-a-zapatero-de-las-necesidades-de-plus-ultra.html",
+     "domain": "El País",
+     "seendate": "20261020T150410Z"
+    },
+    {
+     "title": "Cataluña incluye la rehabilitación en los préstamos sin intereses para la primera vivienda",
+     "url": "https://elpais.com/espana/catalunya/2026-10-20/cataluna-incluye-la-rehabilitacion-en-los-prestamos-sin-intereses-para-la-primera-vivienda.html",
+     "domain": "El País",
+     "seendate": "20261020T143712Z"
+    },
     {
      "title": "Choque entre el Gobierno de Ceuta y La Moncloa por la devolución de migrantes pendiente",
      "url": "https://elpais.com/espana/2026-10-20/choque-entre-el-gobierno-de-ceuta-y-la-moncloa-por-la-devolucion-de-migrantes-pendiente.html",
@@ -14,12 +26,6 @@
      "url": "https://elpais.com/espana/madrid/2026-10-20/ugt-detecta-mas-de-300000-personas-bajo-el-umbral-de-la-pobreza-en-madrid-que-la-estadistica-oficial-no-contabiliza.html",
      "domain": "El País",
      "seendate": "20261020T135752Z"
-    },
-    {
-     "title": "El empresario Julio Martínez asegura ante el juez Calama que iba “informando a Zapatero de las necesidades de Plus Ultra”",
-     "url": "https://elpais.com/espana/2026-10-20/el-empresario-julio-martinez-ante-el-juez-calama-voy-informando-a-zapatero-de-las-necesidades-de-plus-ultra.html",
-     "domain": "El País",
-     "seendate": "20261020T133105Z"
     },
     {
      "title": "El Congreso otorga el nombre Pérez Rubalcaba a una sala de trabajo de la prensa en el 15º aniversario del fin de ETA",
@@ -130,12 +136,6 @@
      "seendate": "20261020T031500Z"
     },
     {
-     "title": "El Macba dedicará una exposición al plan de Narcís Serra y Pasqual Maragall que transformó el Raval",
-     "url": "https://elpais.com/espana/catalunya/2026-10-20/el-macba-dedicara-una-exposicion-al-plan-de-narcis-serra-y-pasqual-maragall-que-transformo-el-raval.html",
-     "domain": "El País",
-     "seendate": "20261020T031500Z"
-    },
-    {
      "title": "Aznalcóllar da luz verde a la depuradora de aguas de la mina tras la manifestación en su contra",
      "url": "https://elpais.com/espana/2026-10-19/aznalcollar-da-luz-verde-a-la-depuradora-de-aguas-de-la-mina-tras-la-manifestacion-ecologista.html",
      "domain": "El País",
@@ -151,6 +151,36 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Eduardo Clark reporta ahorro de 70 mil mdp en compra de medicamentos; garantiza abasto para 2027",
+     "url": "https://www.eluniversal.com.mx/nacion/eduardo-clark-reporta-ahorro-de-70-mil-mdp-en-compra-de-medicamentos-garantiza-abasto-para-2027/",
+     "domain": "El Universal",
+     "seendate": "20261020T150439Z"
+    },
+    {
+     "title": "Vuelca tráiler con cemento en la México-Puebla; mueren dos personas y tres resultan heridas",
+     "url": "https://www.eluniversal.com.mx/metropoli/vuelca-trailer-con-cemento-en-la-mexico-puebla-mueren-dos-personas-y-tres-resultan-heridas/",
+     "domain": "El Universal",
+     "seendate": "20261020T145953Z"
+    },
+    {
+     "title": "Investigador de la UNAM advierte vacíos en programa de ordenamiento metropolitano; señala falta de mando, coordinación y financiamiento",
+     "url": "https://www.eluniversal.com.mx/metropoli/investigador-de-la-unam-advierte-vacios-en-programa-de-ordenamiento-metropolitano-senala-falta-de-mando-coordinacion-y-financiamiento/",
+     "domain": "El Universal",
+     "seendate": "20261020T144139Z"
+    },
+    {
+     "title": "Busca Sheinbaum replicar modelo de atención al cáncer de mama en La Pastora; \"ejemplo internacional\", dice",
+     "url": "https://www.eluniversal.com.mx/nacion/busca-sheinbaum-replicar-modelo-de-atencion-al-cancer-de-mama-en-la-pastora-ejemplo-internacional-dice/",
+     "domain": "El Universal",
+     "seendate": "20261020T143904Z"
+    },
+    {
+     "title": "Sheinbaum rechaza acuerdo con Maru Campos por caso CIA en Chihuahua; \"no hacemos pactos políticos con la justicia\", afirma",
+     "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-rechaza-acuerdo-con-maru-campos-por-caso-cia-en-chihuahua-no-hacemos-pactos-politicos-con-la-justicia-afirma/",
+     "domain": "El Universal",
+     "seendate": "20261020T142829Z"
+    },
     {
      "title": "¿Cuál es el clima hoy en CDMX?; mantienen activa alerta amarilla",
      "url": "https://www.eluniversal.com.mx/metropoli/cual-es-el-clima-hoy-en-cdmx-mantienen-activa-alerta-amarilla/",
@@ -816,12 +846,6 @@
   "NIC": {
    "articles": [
     {
-     "title": "Clima en Nicaragua : lluvias dispersas y temperaturas de hasta 36 grados esta semana",
-     "url": "https://nuevaya.com.ni/nacionales/clima-en-nicaragua-lluvias-dispersas-y-temperaturas-de-hasta-36-grados-esta-semana/",
-     "domain": "nuevaya.com.ni",
-     "seendate": "20261019T173000Z"
-    },
-    {
      "title": "Nicaragua gana 36 medallas en el Pan American Series PATU 12 en Honduras",
      "url": "https://nuevaya.com.ni/deportes-ya/nicaragua-gana-36-medallas-en-el-pan-american-series-patu-12-en-honduras/",
      "domain": "nuevaya.com.ni",
@@ -836,6 +860,12 @@
     {
      "title": "Costa Rica campeón del Final Four femenino en Managua",
      "url": "https://nuevaya.com.ni/deportes-ya/costa-rica-campeon-del-final-four-femenino-en-managua/",
+     "domain": "nuevaya.com.ni",
+     "seendate": "20261019T173000Z"
+    },
+    {
+     "title": "Clima en Nicaragua : lluvias dispersas y temperaturas de hasta 36 grados esta semana",
+     "url": "https://nuevaya.com.ni/nacionales/clima-en-nicaragua-lluvias-dispersas-y-temperaturas-de-hasta-36-grados-esta-semana/",
      "domain": "nuevaya.com.ni",
      "seendate": "20261019T173000Z"
     },
@@ -910,10 +940,16 @@
   "CRI": {
    "articles": [
     {
-     "title": "Marcha nacional: universidades, estudiantes y sindicatos protestan por recortes presupuestarios",
+     "title": "Enfrentamientos armados precedieron detención de sospechosos con 300 kilos de cocaína en vivienda en Osa",
+     "url": "https://www.nacion.com/sucesos/enfrentamientos-armados-precedieron-detencion-de/WVKDBAUHCZHAVOWID772LACGAA/story/",
+     "domain": "La Nación",
+     "seendate": "20261020T150102Z"
+    },
+    {
+     "title": "Marcha: universidades, estudiantes y sindicatos protestan por recortes presupuestarios",
      "url": "https://www.nacion.com/el-pais/marcha-nacional-universidades-estudiantes-y/SPSCBZEGBFEHVDLJUX4RULBB4I/story/",
      "domain": "La Nación",
-     "seendate": "20261020T141236Z"
+     "seendate": "20261020T143836Z"
     },
     {
      "title": "Fiscalía y OIJ allanan casa del hijo del alcalde de Santa Cruz de Guanacaste",
@@ -1012,7 +1048,7 @@
      "seendate": "20261019T225051Z"
     },
     {
-     "title": "Rectores de U públicas convocan a marcha nacional: ‘Es un acto para defender el presupuesto universitario y todo el de educación’",
+     "title": "Rectores de U públicas convocan a la marcha este 20 de octubre: ‘Es un acto para defender el presupuesto universitario y todo el de educación’",
      "url": "https://www.nacion.com/el-pais/rectores-de-u-publicas-convocan-a-marcha-nacional/DXSFFBGKANGYZEEOFIHSS25IYE/story/",
      "domain": "La Nación",
      "seendate": "20261019T224428Z"
@@ -1088,12 +1124,6 @@
      "url": "https://www.nacion.com/el-pais/hospital-de-liberia-atribuye-a-infraestructura-y/CDE27ALY6RCGNHTB34JOPXDXIM/story/",
      "domain": "La Nación",
      "seendate": "20261019T174358Z"
-    },
-    {
-     "title": "Moción para recortar ¢8.048 millones a universidades públicas en 2027 fracasa tras voto de diputada oficialista contra la línea del PPSO",
-     "url": "https://www.nacion.com/politica/mocion-para-recortar-8048-millones-a-universidades/Y4GJOXVT2VDPBPXP53PVRXNDDQ/story/",
-     "domain": "La Nación",
-     "seendate": "20261019T170431Z"
     }
    ]
   },
@@ -1196,6 +1226,12 @@
      "seendate": "20261018T050200Z"
     },
     {
+     "title": "‘¿Dónde voy a conseguir un terreno si no hay?’; la incertidumbre de las familias afectadas por el terremoto",
+     "url": "https://www.prensa.com/sociedad/donde-voy-a-conseguir-un-terreno-si-no-hay-la-incertidumbre-de-las-familias-afectadas-por-el-terremoto/",
+     "domain": "La Prensa",
+     "seendate": "20261018T050100Z"
+    },
+    {
      "title": "Néstor Luque explica por qué siguen las réplicas tras el terremoto en Panamá: qué se sabe sobre las costas, las aguas y las fallas",
      "url": "https://www.prensa.com/sociedad/746-replicas-tras-el-terremoto-en-panama-que-se-sabe-sobre-las-costas-las-aguas-y-las-fallas/",
      "domain": "La Prensa",
@@ -1206,7 +1242,7 @@
   "CUB": {
    "articles": [
     {
-     "title": "Air China saca de Cuba a pasajeros varados en un vuelo chárter tras ola de cancelaciones",
+     "title": "Air China saca de Cuba a pasajeros varados en un vuelo chárter tras una ola de cancelaciones",
      "url": "https://www.14ymedio.com/cuba/air-china-saca-cuba-pasajeros_1_1132181.html",
      "domain": "14ymedio",
      "seendate": "20261020T141722Z"
@@ -1315,6 +1351,24 @@
   "COL": {
    "articles": [
     {
+     "title": "La nueva polémica en Santander | Gobernador asegura que proceso de elegir rector de las UTS está 'viciado': Omar Lengerke respondió ante las críticas",
+     "url": "https://www.eltiempo.com/colombia/santander/la-nueva-polemica-en-santander-gobernador-asegura-que-proceso-de-elegir-rector-de-las-uts-esta-viciado-omar-lengerke-respondio-ante-las-criticas-3594880",
+     "domain": "El Tiempo",
+     "seendate": "20261020T145031Z"
+    },
+    {
+     "title": "Un puertorriqueño habría sido asesinado en su hotel de Medellín tras salir de fiesta la noche anterior: esto se sabe",
+     "url": "https://www.eltiempo.com/colombia/medellin/un-puertorriqueno-habria-sido-asesinado-en-su-hotel-de-medellin-tras-salir-de-fiesta-la-noche-anterior-esto-se-sabe-3594893",
+     "domain": "El Tiempo",
+     "seendate": "20261020T144349Z"
+    },
+    {
+     "title": "Expertos mundiales del sector marítimo-portuario se dan cita en Cartagena para el TOC Américas 2026",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/expertos-mundiales-del-sector-maritimo-portuario-se-dan-cita-en-cartagena-para-el-toc-americas-3594870",
+     "domain": "El Tiempo",
+     "seendate": "20261020T141711Z"
+    },
+    {
      "title": "En Floridablanca cayó un hombre que tenía circular azul de la Interpol y era buscado en Bogotá: este es su perfil y lo que revelan las autoridades",
      "url": "https://www.eltiempo.com/colombia/santander/en-floridablanca-cayo-un-hombre-que-tenia-circular-azul-de-la-interpol-y-era-buscado-en-bogota-este-es-su-perfil-y-lo-que-revelan-las-autoridades-3594866",
      "domain": "El Tiempo",
@@ -1355,34 +1409,106 @@
      "url": "https://www.eltiempo.com/colombia/barranquilla/sigue-sin-agua-triple-a-confirma-12-barrios-afectados-por-fuga-en-tuberia-de-24-pulgadas-en-barranquilla-y-soledad-3594839",
      "domain": "El Tiempo",
      "seendate": "20261020T121613Z"
-    },
-    {
-     "title": "Habló amiga de turista española que murió tras volcamiento de lancha en el Parque Tayrona, en Santa Marta: 'No hubo atención alguna'",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/hablo-amiga-de-turista-espanola-que-murio-tras-volcamiento-de-lancha-en-el-parque-tayrona-santa-marta-no-hubo-ni-atencion-alguna-3594799",
-     "domain": "El Tiempo",
-     "seendate": "20261020T093000Z"
-    },
-    {
-     "title": "¡Atención, conductores! Pico y placa en Bucaramanga para el martes 20 de octubre de 2026: estas son las placas restringidas",
-     "url": "https://www.eltiempo.com/colombia/santander/atencion-conductores-pico-y-placa-en-bucaramanga-para-el-martes-20-de-octubre-de-2026-estas-son-las-placas-restringidas-3594792",
-     "domain": "El Tiempo",
-     "seendate": "20261020T081500Z"
-    },
-    {
-     "title": "¡Ojo, conductor! Pico y placa en Cali para el martes 20 de octubre de 2026: estas placas tendrán restricción",
-     "url": "https://www.eltiempo.com/colombia/cali/ojo-conductor-pico-y-placa-en-cali-para-el-martes-20-de-octubre-de-2026-estas-placas-tendran-restriccion-3594686",
-     "domain": "El Tiempo",
-     "seendate": "20261020T073300Z"
     }
    ]
   },
   "VEN": {
    "articles": [
     {
+     "title": "Actualización del Cronograma Original de Pensiones IVSS 20 / 10 / 26",
+     "url": "https://notiactual.com/actualizacion-del-cronograma-original-de-pensiones-ivss-20-10-26/",
+     "domain": "notiactual.com",
+     "seendate": "20261020T143000Z"
+    },
+    {
+     "title": "La producción petrolera venezolana podría cerrar 2026 en 1 . 300 . 000 barriles diarios , proyecta especialista",
+     "url": "https://www.globovision.com/economia/63375/la-produccion-petrolera-nacional-podria-alcanzar-1300000-barriles-diarios-para-diciembre-de-2026",
+     "domain": "globovision.com",
+     "seendate": "20261020T141500Z"
+    },
+    {
+     "title": "Gobierno Bolivariano entrega primera fase de rehabilitación del Museo Madre Carmen Rendiles en Los Palos Grandes – Correo del Orinoco | La Artillería del Pensamiento",
+     "url": "http://www.correodelorinoco.gob.ve/gobierno-bolivariano-entrega-primera-fase-de-rehabilitacion-del-museo-madre-carmen-rendiles-en-los-palos-grandes/",
+     "domain": "correodelorinoco.gob.ve",
+     "seendate": "20261020T141500Z"
+    },
+    {
+     "title": "Caracas presentó su candidatura para los Juegos Centroamericanos",
+     "url": "https://www.liderendeportes.com/mas-deportes/ciclo-olimpico/caracas-presento-su-candidatura-para-los-juegos-centroamericanos/",
+     "domain": "liderendeportes.com",
+     "seendate": "20261020T140000Z"
+    },
+    {
+     "title": "Capriles ganó dos y tomó la punta del campeonato",
+     "url": "https://www.liderendeportes.com/hipismo/capriles-gano-dos-y-tomo-la-punta-del-campeonato/",
+     "domain": "liderendeportes.com",
+     "seendate": "20261020T140000Z"
+    },
+    {
+     "title": "Doce finasangre con miras a competir en el Simón Bolívar",
+     "url": "https://www.liderendeportes.com/hipismo/doce-finasangre-con-miras-a-competir-en-el-simon-bolivar/",
+     "domain": "liderendeportes.com",
+     "seendate": "20261020T140000Z"
+    },
+    {
+     "title": "Johanis Aranguren sumó tres",
+     "url": "https://www.liderendeportes.com/hipismo/johanis-aranguren-sumo-tres/",
+     "domain": "liderendeportes.com",
+     "seendate": "20261020T140000Z"
+    },
+    {
+     "title": "Delcy Rodríguez se reunió con Fedecámaras , Fedeindustria y sindicatos para evaluar temas salariales",
+     "url": "https://www.descifrado.com/2026/10/20/delcy-rodriguez-se-reunio-con-fedecamaras-fedeindustria-y-sindicatos-para-evaluar-temas-salariales/",
+     "domain": "descifrado.com",
+     "seendate": "20261020T140000Z"
+    },
+    {
+     "title": "Embajada de Francia en Venezuela reactiva el servicio de visado con atención temporal en La Carlota",
+     "url": "https://www.descifrado.com/2026/10/20/embajada-de-francia-en-venezuela-reactiva-el-servicio-de-visado-con-atencion-temporal-en-la-carlota/",
+     "domain": "descifrado.com",
+     "seendate": "20261020T140000Z"
+    },
+    {
+     "title": "Cuatro criollos debutanen el Clásico de Octubre",
+     "url": "https://www.liderendeportes.com/venezolanos-mlb/cuatro-criollos-debutanen-el-clasico-de-octubre/",
+     "domain": "liderendeportes.com",
+     "seendate": "20261020T140000Z"
+    },
+    {
      "title": "Inicio | Periódico CiudadCCS",
-     "url": "https://ciudadccs.info/publicacion/52215-obelisco-ilumina-de-rosado-el-dia-de-la-lucha-contra-el-cancer-de-mama",
+     "url": "https://ciudadccs.info/publicacion/52222-venezuela-preve-enviar-13-millones-de-barriles-de-petroleo-a-india",
      "domain": "ciudadccs.info",
-     "seendate": "20261020T080000Z"
+     "seendate": "20261020T133000Z"
+    },
+    {
+     "title": "Caroní cumplió su compromiso en la Gran Consulta Popular",
+     "url": "https://eldiariodeguayana.com.ve/caroni-cumplio-su-compromiso-en-la-gran-consulta-popular/",
+     "domain": "eldiariodeguayana.com.ve",
+     "seendate": "20261020T131500Z"
+    },
+    {
+     "title": "Polvo de escombros enferma en La Guaira , pero no hay medición de aire ni boletines claros",
+     "url": "https://talcualdigital.com/a-fondo/polvo-de-escombros-enferma-en-la-guaira-pero-no-hay-medicion-de-aire-ni-boletines-claros/",
+     "domain": "talcualdigital.com",
+     "seendate": "20261020T121500Z"
+    },
+    {
+     "title": "César Pérez Vivas : Dos veces con la misma piedra",
+     "url": "https://confirmado.com.ve/cesar-perez-vivas-dos-veces-con-la-misma-piedra/",
+     "domain": "confirmado.com.ve",
+     "seendate": "20261020T121500Z"
+    },
+    {
+     "title": "Con el respaldo de Adriana Cisneros , Nueve Once Impulsa su expansión como holding de salud",
+     "url": "https://confirmado.com.ve/con-el-respaldo-de-adriana-cisneros-nueve-once-impulsa-su-expansion-como-holding-de-salud/",
+     "domain": "confirmado.com.ve",
+     "seendate": "20261020T121500Z"
+    },
+    {
+     "title": "Tiburón 1 ordenó el ataque armado el 11 de abril de 2002",
+     "url": "https://www.informe21.com/post/tibur%C3%B3n-1-orden%C3%B3-el-ataque-armado-el-11-de-abril-de-2002",
+     "domain": "informe21.com",
+     "seendate": "20261020T114500Z"
     },
     {
      "title": "Los antojos de Mr . Trump",
@@ -1547,42 +1673,6 @@
      "seendate": "20261020T033000Z"
     },
     {
-     "title": "Familias de Naguanagua celebraron Macroensayo Gaitero FIGA 2026 con concierto benéfico - Yvke Mundial",
-     "url": "https://radiomundial.com.ve/familias-de-naguanagua-celebraron-macroensayo-gaitero-figa-2026-con-concierto-benefico/",
-     "domain": "radiomundial.com.ve",
-     "seendate": "20261020T031500Z"
-    },
-    {
-     "title": "Táchira desplegó jornada de salud para la mujer en Puente Real",
-     "url": "https://radiomundial.com.ve/en-tachira-se-realizo-jornada-de-atencion-integral-a-la-mujer-en-san-cristobal/",
-     "domain": "radiomundial.com.ve",
-     "seendate": "20261020T031500Z"
-    },
-    {
-     "title": "Diosdado Cabello ratifica llamado al diálogo nacional",
-     "url": "https://radiomundial.com.ve/diosdado-cabello-ratifica-convocatoria-dialogo-asamblea-nacional-2015/",
-     "domain": "radiomundial.com.ve",
-     "seendate": "20261020T031500Z"
-    },
-    {
-     "title": "Venezuela y la UNCTAD impulsan estrategia para diversificar exportaciones - Yvke Mundial",
-     "url": "https://radiomundial.com.ve/venezuela-y-la-unctad-impulsan-estrategia-para-diversificar-exportaciones/",
-     "domain": "radiomundial.com.ve",
-     "seendate": "20261020T031500Z"
-    },
-    {
-     "title": "Gran Misión Venezuela Mujer atiende a más de 2 millones",
-     "url": "https://radiomundial.com.ve/gran-mision-venezuela-mujer-atiende-dos-millones-aniversario/",
-     "domain": "radiomundial.com.ve",
-     "seendate": "20261020T031500Z"
-    },
-    {
-     "title": "Héctor Rodríguez presenta orientaciones para Feria de Identidad",
-     "url": "https://radiomundial.com.ve/hector-rodriguez-orientaciones-feria-identidad-pueblos-originarios-2026/",
-     "domain": "radiomundial.com.ve",
-     "seendate": "20261020T031500Z"
-    },
-    {
      "title": "Delcy Rodríguez conmemora primer año de santos venezolanos",
      "url": "https://radiomundial.com.ve/delcy-rodriguez-primer-aniversario-canonizacion-santos-venezolanos/",
      "domain": "radiomundial.com.ve",
@@ -1599,77 +1689,17 @@
      "url": "https://radiomundial.com.ve/psuv-convoca-marcha-mujeres-caracas-mes-rosa-cancer-de-mama/",
      "domain": "radiomundial.com.ve",
      "seendate": "20261020T031500Z"
-    },
-    {
-     "title": "Zulia activa mesa técnica de educación e inclusión con arte",
-     "url": "https://radiomundial.com.ve/en-zulia-instalaron-mesa-tecnica-educativa-para-impulsar-la-inclusion-a-traves-del-arte/",
-     "domain": "radiomundial.com.ve",
-     "seendate": "20261020T031500Z"
-    },
-    {
-     "title": "Consulados de Chile en Venezuela reinician operaciones",
-     "url": "https://radiomundial.com.ve/consulados-chile-venezuela-reabren-caracas-puerto-ordaz/",
-     "domain": "radiomundial.com.ve",
-     "seendate": "20261020T031500Z"
-    },
-    {
-     "title": "Fieles conmemoran un año de la canonización de los santos patrios",
-     "url": "https://rnv.gob.ve/fieles-conmemoran-ano-canonizacion-santos-patrios/",
-     "domain": "rnv.gob.ve",
-     "seendate": "20261020T013000Z"
-    },
-    {
-     "title": "Parque +Ciencia presenta proyectos en la CIGED 2026",
-     "url": "https://rnv.gob.ve/parque-ciencia-presenta-proyectos-ciged-2026/",
-     "domain": "rnv.gob.ve",
-     "seendate": "20261020T013000Z"
-    },
-    {
-     "title": "Venezuela e India fortalecen cooperación energética",
-     "url": "https://rnv.gob.ve/venezuela-e-india-diplomatico-cooperacion-energetica/",
-     "domain": "rnv.gob.ve",
-     "seendate": "20261020T013000Z"
-    },
-    {
-     "title": "Daniela García gana bronce en el Mundial Juvenil de Karate",
-     "url": "https://rnv.gob.ve/daniela-garcia-gana-bronce-mundial-juvenil-karate/",
-     "domain": "rnv.gob.ve",
-     "seendate": "20261020T013000Z"
-    },
-    {
-     "title": "Enrique Márquez aboga por priorizar las instituciones en el diálogo y prevé un nuevo TSJ a finales de año",
-     "url": "https://www.globovision.com/politica/63360/enrique-marquez-asegura-que-el-nuevo-tsj-se-encargara-de-la-depuracion-y-renovacion-del-sistema",
-     "domain": "globovision.com",
-     "seendate": "20261020T011500Z"
-    },
-    {
-     "title": "Reabren Ciudad Hospitalaria Dr . San José Gregorio Hernández en Tumeremo - Agencia Venezolana de Noticias",
-     "url": "https://avn.info.ve/reabren-ciudad-hospitalaria-dr-san-jose-gregorio-hernandez-en-tumeremo/",
-     "domain": "avn.info.ve",
-     "seendate": "20261020T010000Z"
-    },
-    {
-     "title": "Venezuela reafirma ante la FAO compromiso con erradicación del hambre para 2030",
-     "url": "https://avn.info.ve/venezuela-reafirman-ante-la-fao-compromiso-con-erradicacion-del-hambre-para-2030/",
-     "domain": "avn.info.ve",
-     "seendate": "20261020T010000Z"
-    },
-    {
-     "title": "Psuv ratifica confianza en delegación del Gobierno para mesa de diálogo con AN 2015",
-     "url": "https://avn.info.ve/psuv-ratifica-confianza-en-delegacion-del-gobierno-para-mesa-de-dialogo-con-an-2015/",
-     "domain": "avn.info.ve",
-     "seendate": "20261020T010000Z"
-    },
-    {
-     "title": "De la Espriella activa ofensiva contra los miserables narcoterroristas del ELN y disidencias de las FARC",
-     "url": "https://panampost.com/efe-panampost/2026/10/19/de-la-espriella-activa-ofensiva-contra-los-miserables-narcoterroristas-del-eln-y-disidencias-de-las-farc/",
-     "domain": "panampost.com",
-     "seendate": "20261020T010000Z"
     }
    ]
   },
   "ECU": {
    "articles": [
+    {
+     "title": "En el segundo día del juicio en el caso Vocales, la Fiscalía continúa presentando su prueba contra Maribel Barreno y Juan José Morillo",
+     "url": "https://eluniverso.com/politica/expedientes/en-el-segundo-dia-del-juicio-en-el-caso-vocales-la-fiscalia-continua-presentando-su-prueba-contra-maribel-barreno-y-juan-jose-morillo-nota/",
+     "domain": "El Universo",
+     "seendate": "20261020T143205Z"
+    },
     {
      "title": "Cronograma fija hasta mediados de noviembre próximo para la designación y posesión de jueces temporales",
      "url": "https://eluniverso.com/politica/expedientes/cronograma-fija-hasta-mediados-noviembre-proximo-designacion-posesion-jueces-temporales-nota/",
@@ -1800,6 +1830,12 @@
   },
   "PER": {
    "articles": [
+    {
+     "title": "Ministerio de la Producción autoriza a Imarpe ejecución de pesca exploratoria de anchoveta",
+     "url": "https://elcomercio.pe/economia/peru/ministerio-de-la-produccion-autoriza-a-imarpe-ejecucion-de-pesca-exploratoria-de-anchoveta-l-ultimas-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261020T144148Z"
+    },
     {
      "title": "El 29% de los peruanos ya alcanza el nivel más alto de inclusión financiera, según Credicorp",
      "url": "https://elcomercio.pe/economia/peru/el-29-de-los-peruanos-ya-alcanza-el-nivel-mas-alto-de-inclusion-financiera-segun-credicorp-l-ultimas-noticia/",
@@ -2073,6 +2109,114 @@
   "CHL": {
    "articles": [
     {
+     "title": "Ridícula multa de Portugal a Cristiano Ronaldo : la paga en 39 segundos",
+     "url": "https://www.biobiochile.cl/noticias/deportes/futbol-internacional/notas-futbol-internacional/2026/10/20/una-ridicula-sancion-aseguran-que-cristiano-ronaldo-demora-39-segundos-en-recuperar-multa-de-portugal.shtml",
+     "domain": "biobiochile.cl",
+     "seendate": "20261020T141500Z"
+    },
+    {
+     "title": "Bci respalda mecanismo de primera pérdida del Fonavi , pero pide ajustarlo al riesgo de cada cartera hipotecaria",
+     "url": "https://www.df.cl/mercados/banca-fintech/bci-respalda-mecanismo-de-primera-perdida-del-fonavi-pero-pide-ajustarlo",
+     "domain": "df.cl",
+     "seendate": "20261020T140000Z"
+    },
+    {
+     "title": "Incluye rebaja de contribuciones : Impuestos Internos entregará alivios para propietarios de viviendas afectadas por los últimos eventos climáticos",
+     "url": "https://www.df.cl/economia-y-politica/df-tax/incluye-rebaja-de-contribuciones-impuestos-internos-entregara-alivios-para",
+     "domain": "df.cl",
+     "seendate": "20261020T140000Z"
+    },
+    {
+     "title": "Planeta No presentará su nuevo disco con una gira por Chile",
+     "url": "https://www.latercera.com/culto/noticia/planeta-no-presentara-su-nuevo-disco-con-una-gira-por-chile/",
+     "domain": "latercera.com",
+     "seendate": "20261020T134500Z"
+    },
+    {
+     "title": "El espacio de Acá : actriz palestina y actriz judía comparten escena en obra que cruza memoria , mito y relato presente",
+     "url": "https://www.latercera.com/culto/noticia/el-espacio-de-aca-actriz-palestina-y-actriz-judia-comparten-escena-en-obra-que-cruza-memoria-mito-y-relato-presente/",
+     "domain": "latercera.com",
+     "seendate": "20261020T133000Z"
+    },
+    {
+     "title": "Vértigo Extremo definió a sus cuatro finalistas para este jueves en el espacio estelar",
+     "url": "https://www.t13.cl/noticia/espectaculos/vertigo-extremo-definio-cuatro-finalistas-este-jueves-estelar-20-10-2026",
+     "domain": "t13.cl",
+     "seendate": "20261020T133000Z"
+    },
+    {
+     "title": "Investigador de Clapes UC : El problema va más allá del Fondo E y se repetirá con los fondos generacionales",
+     "url": "https://www.cooperativa.cl/noticias/economia/sistema-previsional/investigador-de-clapes-uc-el-problema-va-mas-alla-del-fondo-e-y-se/2026-10-20/083246.html",
+     "domain": "cooperativa.cl",
+     "seendate": "20261020T124500Z"
+    },
+    {
+     "title": "Copa de la Liga : ANFP confirma fecha para final OHiggins vs Coquimbo",
+     "url": "https://redgol.cl/chile/ahora-si-que-si-anfp-confirma-nueva-fecha-para-la-final-de-la-copa-de-la-liga-entre-ohiggins-y-coquimbo-unido",
+     "domain": "redgol.cl",
+     "seendate": "20261020T124500Z"
+    },
+    {
+     "title": "Exclusivo : reconocido rostro de la televisión chilena dará el salto al cine de terror",
+     "url": "https://www.lacuarta.com/espectaculos/noticia/exclusivo-reconocido-rostro-de-la-television-chilena-dara-el-salto-al-cine-de-terror/",
+     "domain": "lacuarta.com",
+     "seendate": "20261020T114500Z"
+    },
+    {
+     "title": "Ministro Mas respalda acciones de Joaquín Cortez ante caída del Fondo E : Ha ido absolutamente la línea de lo que queremos",
+     "url": "https://www.latercera.com/pulso/noticia/ministro-mas-respalda-acciones-de-joaquin-cortez-ante-caida-del-fondo-e-ha-ido-absolutamente-la-linea-de-lo-que-queremos/",
+     "domain": "latercera.com",
+     "seendate": "20261020T114500Z"
+    },
+    {
+     "title": "PDI abre proceso extraordinario para incorporar a más agentes policiales – Diario Chañarcillo",
+     "url": "https://www.chanarcillo.cl/pdi-abre-proceso-extraordinario-para-incorporar-a-mas-agentes-policiales/",
+     "domain": "chanarcillo.cl",
+     "seendate": "20261020T110000Z"
+    },
+    {
+     "title": "Infraestructura digital crítica , una tarea pendiente para Chile",
+     "url": "https://mundoenlinea.cl/2026/10/20/infraestructura-digital-critica-una-tarea-pendiente-para-chile/",
+     "domain": "mundoenlinea.cl",
+     "seendate": "20261020T090000Z"
+    },
+    {
+     "title": "Chile mantiene liderazgo regional en IA , pero enfrenta brechas en cómputo y talento",
+     "url": "https://www.df.cl/df-lab/tech-empresas/chile-mantiene-liderazgo-regional-en-ia-pero-enfrenta-brechas-en-computo-y",
+     "domain": "df.cl",
+     "seendate": "20261020T090000Z"
+    },
+    {
+     "title": "Ad portas del debut de la Ley de Reconstrucción , Chile sigue en la parte baja de los sistemas tributarios más competitivos",
+     "url": "https://www.df.cl/economia-y-politica/df-tax/ad-portas-del-debut-de-la-ley-de-reconstruccion-chile-sigue-en-la-parte",
+     "domain": "df.cl",
+     "seendate": "20261020T090000Z"
+    },
+    {
+     "title": "Te lo dejo a ti , que lo haces tan bien | Diario Financiero",
+     "url": "https://www.df.cl/opinion/cartas/te-lo-dejo-a-ti-que-lo-haces-tan-bien",
+     "domain": "df.cl",
+     "seendate": "20261020T090000Z"
+    },
+    {
+     "title": "Dos románticos en escena : Eva Gómez y Pablo Herrera cautivaron al público de Fiebre de Canto con Tengo un amor",
+     "url": "https://www.chilevision.cl/programas/fiebre-de-canto/dos-romanticos-en-escena-eva-gomez-y-pablo-herrera-cautivaron-al-publico-de-fiebre-de-canto-con-tengo-un-amor/",
+     "domain": "chilevision.cl",
+     "seendate": "20261020T071500Z"
+    },
+    {
+     "title": "Después de seis meses sin competir : Nicolás Jarry vuelve al circuito con un triunfo sobre Tomás Barrios",
+     "url": "https://www.latercera.com/el-deportivo/noticia/despues-de-seis-meses-sin-competir-nicolas-jarry-vuelve-al-circuito-con-un-triunfo-sobre-tomas-barrios/",
+     "domain": "latercera.com",
+     "seendate": "20261020T060000Z"
+    },
+    {
+     "title": "Ciudadanos de Magallanes expresan descontento por nueva alza en las cuentas de luz",
+     "url": "https://www.elpinguino.com/cronica/ciudadanos-de-magallanes-expresan-descontento-por-nueva-alza-en-las-cuentas-de-luz-seremi-de-energia-explica-los-motivos/",
+     "domain": "elpinguino.com",
+     "seendate": "20261020T054500Z"
+    },
+    {
      "title": "Maximiliano Gutiérrez festejó con Dinamo de Moscú en el clásico ante CSKA y sigue líder en Rusia",
      "url": "https://www.todofutbol.cl/chilenos-en-el-mundo/maximiliano-gutierrez-festejo-con-dinamo-de-moscu-en-el-clasico-ante-cska-y-sigue-lider-en-rusia/",
      "domain": "todofutbol.cl",
@@ -2091,16 +2235,22 @@
      "seendate": "20261020T051500Z"
     },
     {
+     "title": "Salió en la lancha y nunca regresó : cortometraje chileno sobre pesca artesanal compite en España",
+     "url": "https://www.elmostrador.cl/cultura/2026/10/20/salio-en-la-lancha-y-nunca-regreso-cortometraje-chileno-sobre-pesca-artesanal-compite-en-espana/",
+     "domain": "elmostrador.cl",
+     "seendate": "20261020T050000Z"
+    },
+    {
      "title": "El segundo tiempo después de los 50 y más años",
      "url": "https://www.elmostrador.cl/agenda-pais/agenda-social/2026/10/20/el-segundo-tiempo-despues-de-los-50-y-mas-anos/",
      "domain": "elmostrador.cl",
      "seendate": "20261020T050000Z"
     },
     {
-     "title": "Salió en la lancha y nunca regresó : cortometraje chileno sobre pesca artesanal compite en España",
-     "url": "https://www.elmostrador.cl/cultura/2026/10/20/salio-en-la-lancha-y-nunca-regreso-cortometraje-chileno-sobre-pesca-artesanal-compite-en-espana/",
-     "domain": "elmostrador.cl",
-     "seendate": "20261020T050000Z"
+     "title": "Enap realiza una de las mayores inversiones de su historia y adquiere operación petrolera en Ecuador",
+     "url": "https://www.eldinamo.cl/economia/negocios-economia/2026/10/19/enap-realiza-una-de-las-mayores-inversiones-de-su-historia-y-adquiere-operacion-petrolera-en-ecuador/",
+     "domain": "eldinamo.cl",
+     "seendate": "20261020T044500Z"
     },
     {
      "title": "El avance de la electromovilidad abre nuevos desafíos para la infraestructura de carga en Chile",
@@ -2111,12 +2261,6 @@
     {
      "title": "Caída del Fondo E llega a La Moneda : Gobierno apunta a Boric , mira a las AFP y evita comprometer sanciones",
      "url": "https://www.eldinamo.cl/politica/2026/10/19/fondo-e-gobierno-apunta-a-boric-y-evita-comprometer-sanciones/",
-     "domain": "eldinamo.cl",
-     "seendate": "20261020T044500Z"
-    },
-    {
-     "title": "Enap realiza una de las mayores inversiones de su historia y adquiere operación petrolera en Ecuador",
-     "url": "https://www.eldinamo.cl/economia/negocios-economia/2026/10/19/enap-realiza-una-de-las-mayores-inversiones-de-su-historia-y-adquiere-operacion-petrolera-en-ecuador/",
      "domain": "eldinamo.cl",
      "seendate": "20261020T044500Z"
     },
@@ -2317,124 +2461,124 @@
      "url": "https://redgol.cl/chile/portero-de-san-felipe-confia-en-mantener-la-categoria-en-la-primera-b-rangers-tiene-el-camino-mas-dificil",
      "domain": "redgol.cl",
      "seendate": "20261019T231500Z"
-    },
-    {
-     "title": "Manuel Monsalve vuelve al arresto domiciliario total tras decisión de la Corte de Apelaciones",
-     "url": "https://www.t13.cl/noticia/nacional/manuel-monsalve-vuelve-al-arresto-domiciliario-total-19-10-2026",
-     "domain": "t13.cl",
-     "seendate": "20261019T224500Z"
-    },
-    {
-     "title": "Cerca de 12 millones de personas han visto Tu Día en 2026 : el matinal celebra cuatro años",
-     "url": "https://www.13.cl/programas/tu-dia/noticias/cerca-de-12-millones-de-personas-han-visto-tu-dia-en-2026-el-matinal",
-     "domain": "13.cl",
-     "seendate": "20261019T224500Z"
-    },
-    {
-     "title": "Los momentos que marcaron la temporada de Deportes Ovalle - El Ovallino",
-     "url": "https://www.elovallino.cl/los-momentos-que-marcaron-la-temporada-de-deportes-ovalle/",
-     "domain": "elovallino.cl",
-     "seendate": "20261019T224500Z"
-    },
-    {
-     "title": "Chef chileno que integró equipo con estrella Michelin llega a Punta Arenas para liderar AIMA",
-     "url": "https://www.radioagricultura.cl/tendencias/chef-chileno-que-integro-equipo-con-estrella-michelin-llega-a-punta-arenas-para-liderar-aima_20261019/",
-     "domain": "radioagricultura.cl",
-     "seendate": "20261019T221500Z"
-    },
-    {
-     "title": "Planeta No anuncia su regreso a los escenarios chilenos con conciertos en cuatro ciudades",
-     "url": "https://www.lacuarta.com/espectaculos/noticia/planeta-no-anuncia-su-regreso-a-los-escenarios-chilenos-con-conciertos-en-cuatro-ciudades/",
-     "domain": "lacuarta.com",
-     "seendate": "20261019T221500Z"
-    },
-    {
-     "title": "La insólita multa que tendrá que pagar Cristiano Ronaldo tras conflicto con entrenador de Portugal",
-     "url": "https://www.lacuarta.com/deportes/noticia/la-insolita-multa-que-tendra-que-pagar-cristiano-ronaldo-tras-conflicto-con-entrenador-de-portugal/",
-     "domain": "lacuarta.com",
-     "seendate": "20261019T221500Z"
-    },
-    {
-     "title": "El Festival SANFIC estrenará en Chile Fjord , la película ganadora de la Palma de Oro en Cannes 2026",
-     "url": "https://www.lacuarta.com/tendencias/noticia/el-festival-sanfic-estrenara-en-chile-fjord-la-pelicula-ganadora-de-la-palma-de-oro-en-cannes-2026/",
-     "domain": "lacuarta.com",
-     "seendate": "20261019T221500Z"
-    },
-    {
-     "title": "El look con que Vivianne Dietz representó a Chile en el Victoria Secret Fashion Show",
-     "url": "https://www.radioagricultura.cl/entretencion/el-look-con-que-vivianne-dietz-represento-a-chile-en-el-victorias-secret-fashion-show_20261019/",
-     "domain": "radioagricultura.cl",
-     "seendate": "20261019T221500Z"
-    },
-    {
-     "title": "Matucana 100 celebra sus 25 años con 25 bandas chilenas : revisa quiénes tocarán este sábado",
-     "url": "https://www.radioagricultura.cl/entretencion/hoy-se-sale/matucana-100-celebra-sus-25-anos-con-25-bandas-chilenas-revisa-quienes-tocaran-este-sabado_20261019/",
-     "domain": "radioagricultura.cl",
-     "seendate": "20261019T221500Z"
-    },
-    {
-     "title": "Manchester City arriesga un castigo histórico que podría enviarlo a la segunda división inglesa",
-     "url": "https://www.lacuarta.com/deportes/noticia/manchester-city-arriesga-un-castigo-historico-que-podria-enviarlo-a-la-segunda-division-inglesa/",
-     "domain": "lacuarta.com",
-     "seendate": "20261019T221500Z"
-    },
-    {
-     "title": "Canciller Pérez Mackenna se reúne con Ed Miliband y busca fortalecer relación entre Chile y Reino Unido",
-     "url": "https://www.radioagricultura.cl/noticias/internacional/canciller-perez-mackenna-se-reune-con-ed-miliband-y-busca-fortalecer-relacion-entre-chile-y-reino-unido_20261019/",
-     "domain": "radioagricultura.cl",
-     "seendate": "20261019T221500Z"
-    },
-    {
-     "title": "Chile y Reino Unido avanzan a nuevo nivel de asociación estratégica en medio de tensión por Malvinas | Nacional",
-     "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/10/19/chile-y-reino-unido-acuerdan-nuevo-nivel-de-asociacion-estrategica-en-medio-de-tension-por-malvinas.shtml",
-     "domain": "biobiochile.cl",
-     "seendate": "20261019T214500Z"
-    },
-    {
-     "title": "Con el ahorro no se juega : Gobierno evaluará medidas por pérdidas de AFP si se detectan faltas | Nacional",
-     "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/10/19/con-el-ahorro-no-se-juega-gobierno-evaluara-medidas-por-perdidas-de-afp-si-se-detectan-faltas.shtml",
-     "domain": "biobiochile.cl",
-     "seendate": "20261019T214500Z"
-    },
-    {
-     "title": "Kast cae al 30 %: crece el rechazo al Gobierno y sus ministros",
-     "url": "https://www.elclarin.cl/2026/10/19/kast-aprobacion-30-por-ciento-caida-gabinete-octubre-2026/",
-     "domain": "elclarin.cl",
-     "seendate": "20261019T214500Z"
-    },
-    {
-     "title": "Estudio de TECHO - Chile revela menos reportes de balaceras y tráfico de drogas en campamentos",
-     "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/10/19/estudio-techo-chile-revela-que-campamentos-reportan-menos-balaceras-y-narcotrafico-que-resto-del-pais.shtml",
-     "domain": "biobiochile.cl",
-     "seendate": "20261019T214500Z"
-    },
-    {
-     "title": "Nano Stern suma segundo show en el Teatro Nescafé y nuevas ciudades de la gira Bitácora",
-     "url": "https://www.latercera.com/culto/noticia/nano-stern-suma-segundo-show-en-el-teatro-nescafe-y-nuevas-ciudades-de-la-gira-bitacora/",
-     "domain": "latercera.com",
-     "seendate": "20261019T213000Z"
-    },
-    {
-     "title": "Bochorno en Sub 12 : Apoderado de Colo Colo terminó agrediendo",
-     "url": "https://www.elperiscopio.cl/destacado-1/bochorno-en-sub-12-apoderado-de-colo-colo-termino-agrediendo/",
-     "domain": "elperiscopio.cl",
-     "seendate": "20261019T201500Z"
-    },
-    {
-     "title": "Pedro Pascal confirma que viajará a Chile en diciembre y pregunta por aluvión en Las Condes",
-     "url": "https://www.lanacion.cl/pedro-pascal-confirma-que-viajara-a-chile-en-diciembre-y-pregunta-por-aluvion-en-las-condes/",
-     "domain": "lanacion.cl",
-     "seendate": "20261019T200000Z"
     }
    ]
   },
   "ARG": {
    "articles": [
     {
+     "title": "Jorge Macri respaldó la detención de los metrodelegados en medio de una protesta del subte",
+     "url": "https://www.lanacion.com.ar/politica/jorge-macri-respaldo-la-detencion-de-los-metrodelegados-en-medio-de-una-protesta-del-subte-nid20102026/",
+     "domain": "La Nación",
+     "seendate": "20261020T150929Z"
+    },
+    {
+     "title": "Cierra el Sweetys Kindergarten, un reconocido jardín de infantes en el barrio de Recoleta",
+     "url": "https://www.lanacion.com.ar/sociedad/cierra-el-sweetys-kindergarten-un-reconocido-jardin-de-infantes-de-recoleta-nid20102026/",
+     "domain": "La Nación",
+     "seendate": "20261020T150916Z"
+    },
+    {
+     "title": "El riesgo país vuelve a subir y alcanza el valor más alto en casi un año",
+     "url": "https://www.lanacion.com.ar/economia/el-riesgo-pais-salta-hasta-los-710-puntos-y-alcanza-el-valor-mas-alto-en-casi-un-ano-nid20102026/",
+     "domain": "La Nación",
+     "seendate": "20261020T150830Z"
+    },
+    {
+     "title": "Crece el malestar en el Senado por la demora de Santilli en concurrir a brindar su informe",
+     "url": "https://www.lanacion.com.ar/politica/crece-el-malestar-en-el-senado-por-la-demora-de-santilli-en-concurrir-a-brindar-su-informe-nid20102026/",
+     "domain": "La Nación",
+     "seendate": "20261020T150817Z"
+    },
+    {
+     "title": "Malvinas: el Gobierno evita confrontar con Washington por el Comité de Descolonización de la ONU y la ley de soberanía",
+     "url": "https://www.lanacion.com.ar/politica/malvinas-el-gobierno-evita-confrontar-con-washington-por-el-comite-de-descolonizacion-de-la-onu-y-la-nid20102026/",
+     "domain": "La Nación",
+     "seendate": "20261020T150631Z"
+    },
+    {
+     "title": "Paro de subtes en las seis líneas: qué se sabe de la medida de fuerza y hasta cuándo dura",
+     "url": "https://www.lanacion.com.ar/sociedad/paro-de-subtes-en-las-seis-lineas-que-se-sabe-de-la-medida-de-fuerza-y-hasta-cuando-dura-nid20102026/",
+     "domain": "La Nación",
+     "seendate": "20261020T150604Z"
+    },
+    {
+     "title": "Un especialista en Ciencias Ambientales explicó en detalle el impacto del fenómeno del “Súper Niño” y cuándo se intensificará en la Argentina",
+     "url": "https://www.lanacion.com.ar/sociedad/un-especialista-explico-en-detalle-el-impacto-del-fenomeno-del-super-nino-y-cuando-se-intensificara-nid20102026/",
+     "domain": "La Nación",
+     "seendate": "20261020T150353Z"
+    },
+    {
+     "title": "Masacre en Santa Fe: sobreseyeron al adolescente que disparó a mansalva en la escuela, mató a un compañero e hirió a otros",
+     "url": "https://www.lanacion.com.ar/seguridad/masacre-en-santa-fe-sobreseyeron-al-adolescente-que-disparo-a-mansalva-en-la-escuela-mato-a-un-nid20102026/",
+     "domain": "La Nación",
+     "seendate": "20261020T150145Z"
+    },
+    {
+     "title": "Paro total en las seis líneas de subte tras la detención de tres metrodelegados en una protesta",
+     "url": "https://www.lanacion.com.ar/sociedad/paro-total-en-las-seis-lineas-de-subte-por-una-medida-de-los-metrodelegados-nid20102026/",
+     "domain": "La Nación",
+     "seendate": "20261020T145752Z"
+    },
+    {
+     "title": "Gabriel Rolón: “La felicidad es ese momento de eternidad donde lo que fuiste, querés ser, te atormenta y temés coexisten”",
+     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-cualquier-intento-de-alcanzar-una-plenitud-total-o-absoluta-esta-condenado-al-fracaso-nid20102026/",
+     "domain": "La Nación",
+     "seendate": "20261020T144755Z"
+    },
+    {
+     "title": "Cuáles son los motivos que llevaron al riesgo país por encima de los 700 puntos",
+     "url": "https://www.lanacion.com.ar/economia/cuales-son-los-motivos-que-llevaron-al-riesgo-pais-por-encima-de-los-700-puntos-nid20102026/",
+     "domain": "La Nación",
+     "seendate": "20261020T144513Z"
+    },
+    {
+     "title": "El momento de la detención del delegado gremial que derivó en el paro total de subtes",
+     "url": "https://www.lanacion.com.ar/seguridad/el-momento-de-la-detencion-del-delegado-gremial-que-derivo-en-el-paro-total-de-subtes-nid20102026/",
+     "domain": "La Nación",
+     "seendate": "20261020T144502Z"
+    },
+    {
+     "title": "“Quiero que mamá aparezca viva”, el desesperado pedido de uno de los hijos de la maestra desaparecida hace 14 días en Corrientes",
+     "url": "https://www.lanacion.com.ar/seguridad/quiero-que-mama-aparezca-viva-el-desesperado-pedido-de-uno-de-los-hijos-de-la-maestra-desaparecida-nid20102026/",
+     "domain": "La Nación",
+     "seendate": "20261020T144339Z"
+    },
+    {
+     "title": "Torrendell defendió la política educativa en Diputados y cuestionó cómo las universidades gastan sus recursos",
+     "url": "https://www.lanacion.com.ar/politica/torrendell-defendio-la-politica-educativa-en-diputados-y-cuestiono-como-las-universidades-gastan-sus-nid20102026/",
+     "domain": "La Nación",
+     "seendate": "20261020T144119Z"
+    },
+    {
+     "title": "Ante la mejoría de Mirtha Legrand, Martín Llaryora propuso celebrar sus 100 años en el estadio Kempes",
+     "url": "https://www.lanacion.com.ar/politica/ante-la-mejoria-de-mirtha-legrand-martin-llaryora-propuso-celebrar-sus-100-anos-en-el-estadio-kempes-nid18102026/",
+     "domain": "La Nación",
+     "seendate": "20261020T144109Z"
+    },
+    {
+     "title": "El Gobierno autorizó una nueva aerolínea y Sturzenegger aseguró que será un “hub jujeño”",
+     "url": "https://www.lanacion.com.ar/economia/el-gobierno-autorizo-una-nueva-aerolinea-y-sturzenegger-aseguro-que-sera-un-hub-jujeno-nid20102026/",
+     "domain": "La Nación",
+     "seendate": "20261020T144043Z"
+    },
+    {
+     "title": "Javier Milei y sus medidas, en vivo: el mandatario se refirió al crecimiento energético y habló de una “revancha histórica”",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-mandatario-se-refirio-al-crecimiento-energetico-y-hablo-de-una-nid20102026/",
+     "domain": "La Nación",
+     "seendate": "20261020T143933Z"
+    },
+    {
+     "title": "Reunión informativa de la Maestría en Periodismo de LA NACION y la Universidad Torcuato Di Tella",
+     "url": "https://www.lanacion.com.ar/sociedad/reunion-informativa-de-la-maestria-en-periodismo-de-la-nacion-y-la-universidad-torcuato-di-tella-nid20102026/",
+     "domain": "La Nación",
+     "seendate": "20261020T143047Z"
+    },
+    {
      "title": "El SMN activa alerta amarilla por lluvias intensas en varias regiones del país",
      "url": "https://www.lanacion.com.ar/sociedad/el-smn-activa-alerta-amarilla-por-lluvias-intensas-en-varias-regiones-del-pais-nid20102026/",
      "domain": "La Nación",
-     "seendate": "20261020T142659Z"
+     "seendate": "20261020T142807Z"
     },
     {
      "title": "Detuvieron a dos ciudadanos chinos con 11 celulares de alta gama y casi 1,5 millones de pesos en Constitución",
@@ -2449,12 +2593,6 @@
      "seendate": "20261020T142500Z"
     },
     {
-     "title": "Un especialista en Ciencias Ambientales explicó en detalle el impacto del fenómeno del “Súper Niño” y cuándo se intensificará en la Argentina",
-     "url": "https://www.lanacion.com.ar/sociedad/un-especialista-explico-en-detalle-el-impacto-del-fenomeno-del-super-nino-y-cuando-se-intensificara-nid20102026/",
-     "domain": "La Nación",
-     "seendate": "20261020T142447Z"
-    },
-    {
      "title": "Qué se sabe de la docente de 52 años desaparecida en Corrientes: hay dos detenidos y su familia cree que la engañaron",
      "url": "https://www.lanacion.com.ar/seguridad/que-se-sabe-de-la-docente-de-52-anos-desaparecida-en-corrientes-hay-dos-detenidos-y-su-familia-cree-nid19102026/",
      "domain": "La Nación",
@@ -2465,24 +2603,6 @@
      "url": "https://www.lanacion.com.ar/economia/mas-vuelos-a-la-argentina-negocian-con-tres-aerolineas-y-buscan-abrir-una-nueva-ruta-a-estados-nid20102026/",
      "domain": "La Nación",
      "seendate": "20261020T142215Z"
-    },
-    {
-     "title": "El momento de la detención del delegado gremial que derivó en el paro total de subtes",
-     "url": "https://www.lanacion.com.ar/seguridad/el-momento-de-la-detencion-del-delegado-gremial-que-derivo-en-el-paro-total-de-subtes-nid20102026/",
-     "domain": "La Nación",
-     "seendate": "20261020T142107Z"
-    },
-    {
-     "title": "El riesgo país salta hasta los 710 puntos y alcanza el valor más alto en casi un año",
-     "url": "https://www.lanacion.com.ar/economia/el-riesgo-pais-salta-hasta-los-710-puntos-y-alcanza-el-valor-mas-alto-en-casi-un-ano-nid20102026/",
-     "domain": "La Nación",
-     "seendate": "20261020T141545Z"
-    },
-    {
-     "title": "Paro de subtes en las seis líneas: qué se sabe de la medida de fuerza y hasta cuándo dura",
-     "url": "https://www.lanacion.com.ar/sociedad/paro-de-subtes-en-las-seis-lineas-que-se-sabe-de-la-medida-de-fuerza-y-hasta-cuando-dura-nid20102026/",
-     "domain": "La Nación",
-     "seendate": "20261020T141508Z"
     },
     {
      "title": "Se perfilan los armados bonaerenses alternativos que buscarán pescar votos entre el PJ y La Libertad Avanza",
@@ -2497,34 +2617,16 @@
      "seendate": "20261020T141033Z"
     },
     {
-     "title": "Paro total en las seis líneas de subte tras la detención de tres metrodelegados en una protesta",
-     "url": "https://www.lanacion.com.ar/sociedad/paro-total-en-las-seis-lineas-de-subte-por-una-medida-de-los-metrodelegados-nid20102026/",
-     "domain": "La Nación",
-     "seendate": "20261020T141014Z"
-    },
-    {
      "title": "San Isidro: un hermano de la exjueza Makintach fue víctima de un robo en su casa de un barrio privado",
      "url": "https://www.lanacion.com.ar/seguridad/san-isidro-un-hermano-de-la-exjueza-makintach-fue-victima-de-un-robo-en-su-casa-de-un-barrio-privado-nid20102026/",
      "domain": "La Nación",
      "seendate": "20261020T140940Z"
     },
     {
-     "title": "Javier Milei y sus medidas, en vivo: el mandatario se refirió al crecimiento energético y habló de una “revancha histórica”",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-mandatario-se-refirio-al-crecimiento-energetico-y-hablo-de-una-nid20102026/",
-     "domain": "La Nación",
-     "seendate": "20261020T140747Z"
-    },
-    {
      "title": "A 25 años de su creación, el Banco de Alimentos sigue creciendo y busca ampliar sus donantes ante la caída de los aportes industriales",
      "url": "https://www.lanacion.com.ar/sociedad/a-25-anos-de-su-creacion-el-banco-de-alimentos-busca-ampliar-su-red-de-donantes-ante-la-caida-de-los-nid20102026/",
      "domain": "La Nación",
      "seendate": "20261020T140606Z"
-    },
-    {
-     "title": "Crece el malestar en el Senado por la demora de Santilli en concurrir a brindar su informe",
-     "url": "https://www.lanacion.com.ar/politica/crece-el-malestar-en-el-senado-por-la-demora-de-santilli-en-concurrir-a-brindar-su-informe-nid20102026/",
-     "domain": "La Nación",
-     "seendate": "20261020T140220Z"
     },
     {
      "title": "Súper Niño: qué se sabe sobre los efectos que tendrá el fenómeno en la Argentina y cuándo impactará con más fuerza",
@@ -2567,12 +2669,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/arthur-brooks-catedratico-de-harvard-de-62-anos-sentirse-feliz-no-es-lo-mismo-que-entender-de-que-nid20102026/",
      "domain": "La Nación",
      "seendate": "20261020T135904Z"
-    },
-    {
-     "title": "Gabriel Rolón: “Cualquier intento de alcanzar una plenitud total o absoluta está condenado al fracaso”",
-     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-cualquier-intento-de-alcanzar-una-plenitud-total-o-absoluta-esta-condenado-al-fracaso-nid20102026/",
-     "domain": "La Nación",
-     "seendate": "20261020T135901Z"
     },
     {
      "title": "Conrado Estol, neurólogo: “El sobrepeso no es más una cosa estética, es una enfermedad seria”",
@@ -2657,30 +2753,6 @@
      "url": "https://www.lanacion.com.ar/economia/campo/una-empresa-agropecuaria-de-la-familia-brito-pago-us228-millones-por-un-campo-y-anticipo-un-futuro-nid19102026/",
      "domain": "La Nación",
      "seendate": "20261020T125251Z"
-    },
-    {
-     "title": "Opinión. La paradoja de la carne: menos oferta no significa menos producción",
-     "url": "https://www.lanacion.com.ar/economia/campo/opinion-la-paradoja-de-la-carne-menos-oferta-no-significa-menos-produccion-nid20102026/",
-     "domain": "La Nación",
-     "seendate": "20261020T121500Z"
-    },
-    {
-     "title": "Con Yacyretá desbordada, las inundaciones llegan a la capital y muchos temen dejar sus casas por los saqueos",
-     "url": "https://www.lanacion.com.ar/sociedad/corrientes-en-crisis-el-agua-sigue-subiendo-pero-muchos-temen-dejar-sus-casas-por-miedo-a-que-les-nid20102026/",
-     "domain": "La Nación",
-     "seendate": "20261020T120831Z"
-    },
-    {
-     "title": "El Gobierno autorizó una licitación por $7638 millones para obras en la Base Naval Integrada de Ushuaia",
-     "url": "https://www.lanacion.com.ar/politica/el-gobierno-autorizo-una-licitacion-por-7638-millones-para-obras-en-la-base-naval-integrada-de-nid20102026/",
-     "domain": "La Nación",
-     "seendate": "20261020T115414Z"
-    },
-    {
-     "title": "La Ciudad anunció a los ganadores de la licitación para instalar locales gastronómicos en los parques porteños",
-     "url": "https://www.lanacion.com.ar/sociedad/la-ciudad-anuncio-a-los-ganadores-de-la-licitacion-para-instalar-locales-gastronomicos-en-los-nid20102026/",
-     "domain": "La Nación",
-     "seendate": "20261020T114419Z"
     }
    ]
   },
@@ -3051,6 +3123,18 @@
   "PRY": {
    "articles": [
     {
+     "title": "Hijo de jueza “sin lloro” consigue ascenso a solo un año de ingresar sin concurso al PJ",
+     "url": "https://www.abc.com.py/nacionales/2026/10/20/hijo-de-jueza-sin-lloro-consigue-ascenso-a-solo-un-ano-de-ingresar-sin-concurso-al-pj/",
+     "domain": "ABC Color",
+     "seendate": "20261020T144443Z"
+    },
+    {
+     "title": "Diputado pide elevar impuesto al tabaco para financiar medicamentos oncológicos",
+     "url": "https://www.abc.com.py/nacionales/2026/10/20/diputado-pide-elevar-impuesto-al-tabaco-para-financiar-medicamentos-oncologicos/",
+     "domain": "ABC Color",
+     "seendate": "20261020T144232Z"
+    },
+    {
      "title": "Octubre Rosa: paciente oncológica reclama medicamentos y exige a la EBY equipar centro de Misiones",
      "url": "https://www.abc.com.py/nacionales/2026/10/20/octubre-rosa-paciente-oncologica-reclama-medicamentos-y-exige-a-la-eby-equipar-centro-de-misiones/",
      "domain": "ABC Color",
@@ -3099,6 +3183,36 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "TSE recua após anunciar mudança de endereço em 2.033 seções e reduz lista para 438",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/20/tse-recua-apos-anunciar-mudanca-de-endereco-em-2033-secoes-e-reduz-lista-para-438.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261020T144335Z"
+    },
+    {
+     "title": "Lula afirma que vai enviar ao Congresso a PEC sobre tarifa zero na quarta, a quatro dias da eleição",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/20/lula-afirma-que-vai-enviar-ao-congresso-a-pec-sobre-tarifa-zero-na-quarta-a-quatro-dias-da-eleicao.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261020T143829Z"
+    },
+    {
+     "title": "De saída do governo de Minas, Simões apresenta proposta de redução do IPVA, principal bandeira de campanha de Cleitinho",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/20/de-saida-do-governo-de-minas-simoes-apresenta-proposta-de-reducao-do-ipva-principal-bandeira-de-campanha-de-cleitinho.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261020T143345Z"
+    },
+    {
+     "title": "Flávio modula plano para debate da Globo, deve manter aparições atrás de Lula e reduzir provocações após pesquisas indicarem incômodo de eleitores",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/20/flavio-modula-plano-para-debate-da-globo-deve-manter-aparicoes-atras-de-lula-e-reduzir-provocacoes-apos-pesquisas-indicarem-incomodo-de-eleitores.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261020T142436Z"
+    },
+    {
+     "title": "Lula diz ao TSE que abrirá os seus sigilos e de seus familiares se Flávio fizer o mesmo",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/20/ao-tse-lula-condiciona-abertura-de-seu-sigilos-a-liberacao-dos-de-flavio-e-inclui-empresas.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261020T142245Z"
+    },
     {
      "title": "Flávio Bolsonaro apaga posts em que chamava Bolsa Família de ‘bolsa-farelo’",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/20/flavio-bolsonaro-apaga-posts-em-que-chamava-bolsa-familia-de-bolsa-farelo.ghtml",
@@ -3182,12 +3296,6 @@
      "url": "https://oglobo.globo.com/brasil/sao-paulo/noticia/2026/10/20/gag-slay-e-serve-entenda-as-girias-das-redes-que-cairam-na-prova-da-unicamp-leia-a-questao-na-integra.ghtml",
      "domain": "O Globo",
      "seendate": "20261020T101625Z"
-    },
-    {
-     "title": "Mãe Senhora de Ewá, referência do candomblé no Brasil, morre aos 104 anos em Salvador",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/20/mae-senhora-de-ewa-referencia-do-candomble-no-brasil-morre-aos-104-anos-em-salvador.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261020T093534Z"
     }
    ]
   }
