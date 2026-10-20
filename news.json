@@ -1,19 +1,31 @@
 {
- "updated": "2026-10-20T07:19:15+00:00",
+ "updated": "2026-10-20T08:11:41+00:00",
  "countries": {
   "ESP": {
    "articles": [
+    {
+     "title": "Última hora de la actualidad política, en directo | Feijóo confirma negociaciones con Vox para las listas del Senado: “Sería un error facilitar al sanchismo el control”",
+     "url": "https://elpais.com/espana/2026-10-20/ultima-hora-de-la-actualidad-politica-en-directo.html",
+     "domain": "El País",
+     "seendate": "20261020T075625Z"
+    },
+    {
+     "title": "La pasarela de la 080 Barcelona Fashion se recoloca en la Marina Seca del Port Vell",
+     "url": "https://elpais.com/espana/catalunya/2026-10-20/la-pasarela-de-la-080-barcelona-fashion-se-recoloca-en-la-marina-seca-del-port-vell.html",
+     "domain": "El País",
+     "seendate": "20261020T070845Z"
+    },
+    {
+     "title": "Atraco exprés a un Tesla ante un colegio privado de Majadahonda",
+     "url": "https://elpais.com/espana/madrid/2026-10-20/atraco-expres-a-un-tesla-ante-un-colegio-privado-de-majadahonda.html",
+     "domain": "El País",
+     "seendate": "20261020T065825Z"
+    },
     {
      "title": "Un nacionalizado por la ‘ley de nietos’ acude al Constitucional para poder votar el 29-N",
      "url": "https://elpais.com/espana/elecciones-generales/2026-10-20/un-nacionalizado-por-la-ley-de-nietos-acude-al-constitucional-para-poder-votar-el-29-n.html",
      "domain": "El País",
      "seendate": "20261020T045306Z"
-    },
-    {
-     "title": "Los consulados ven casi imposible diferenciar a tiempo qué nacionalizados por la ‘ley de nietos’ podrán votar el 29-N",
-     "url": "https://elpais.com/espana/2026-10-20/los-consulados-ven-casi-imposible-diferenciar-a-tiempo-que-nacionalizados-por-la-ley-de-nietos-podran-votar-el-29-n.html",
-     "domain": "El País",
-     "seendate": "20261020T033001Z"
     },
     {
      "title": "Mónica García renuncia a la lista del Frente Amplio: “Siempre he antepuesto el bien común al personal”",
@@ -94,22 +106,16 @@
      "seendate": "20261020T031500Z"
     },
     {
-     "title": "El hecho diferencial catalán",
-     "url": "https://elpais.com/espana/catalunya/2026-10-20/el-hecho-diferencial-catalan.html",
-     "domain": "El País",
-     "seendate": "20261020T031500Z"
-    },
-    {
      "title": "El Macba dedicará una exposición al plan de Narcís Serra y Pasqual Maragall que transformó el Raval",
      "url": "https://elpais.com/espana/catalunya/2026-10-20/el-macba-dedicara-una-exposicion-al-plan-de-narcis-serra-y-pasqual-maragall-que-transformo-el-raval.html",
      "domain": "El País",
      "seendate": "20261020T031500Z"
     },
     {
-     "title": "La vieja guardia de Convergència venera a Prenafeta, mano derecha de Jordi Pujol: “Era un semidiós”",
-     "url": "https://elpais.com/espana/catalunya/2026-10-19/la-vieja-guardia-de-convergencia-venera-a-prenafeta-mano-derecha-de-jordi-pujol-era-un-semidios.html",
+     "title": "El hecho diferencial catalán",
+     "url": "https://elpais.com/espana/catalunya/2026-10-20/el-hecho-diferencial-catalan.html",
      "domain": "El País",
-     "seendate": "20261019T193647Z"
+     "seendate": "20261020T031500Z"
     },
     {
      "title": "Vito Quiles fracasa en su intento de acceder a la UAB por el blindaje de los Mossos y acaba en un Ikea",
@@ -140,17 +146,29 @@
      "url": "https://elpais.com/espana/madrid/2026-10-19/un-instituto-de-madrid-expulsa-a-tres-estudiantes-en-represalia-por-un-articulo-de-el-pais.html",
      "domain": "El País",
      "seendate": "20261019T033001Z"
-    },
-    {
-     "title": "Juicio a un coronel de la Guardia Civil por falsear el origen de unas armas para realizar una compra de 8.250 fusiles de asalto",
-     "url": "https://elpais.com/espana/madrid/2026-10-19/juicio-a-un-coronel-de-la-guardia-civil-por-falsear-el-origen-de-unas-armas-para-realizar-una-compra-de-8250-fusiles-de-asalto.html",
-     "domain": "El País",
-     "seendate": "20261019T033001Z"
     }
    ]
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Delito de traición a la patria, “difícil de probar”: expertos; ven matiz político",
+     "url": "https://www.eluniversal.com.mx/nacion/delito-de-traicion-a-la-patria-dificil-de-probar-expertos-ven-matiz-politico/",
+     "domain": "El Universal",
+     "seendate": "20261020T075243Z"
+    },
+    {
+     "title": "Caso de agentes de la CIA une a Sheinbaum y a Maru Campos",
+     "url": "https://www.eluniversal.com.mx/nacion/caso-de-agentes-de-la-cia-une-a-sheinbaum-y-a-maru-campos/",
+     "domain": "El Universal",
+     "seendate": "20261020T073303Z"
+    },
+    {
+     "title": "DEA: hubo corrupción en asesinato de Camarena",
+     "url": "https://www.eluniversal.com.mx/nacion/dea-hubo-corrupcion-en-asesinato-de-camarena/",
+     "domain": "El Universal",
+     "seendate": "20261020T071517Z"
+    },
     {
      "title": "“Detección temprana no garantiza tratamiento inmediato”",
      "url": "https://www.eluniversal.com.mx/nacion/deteccion-temprana-no-garantiza-tratamiento-inmediato/",
@@ -198,18 +216,6 @@
      "url": "https://www.eluniversal.com.mx/nacion/profepa-reubica-a-13-cocodrilos-en-el-canon-del-sumidero-fueron-rescatados-entre-2022-y-2025/",
      "domain": "El Universal",
      "seendate": "20261020T030247Z"
-    },
-    {
-     "title": "Tras 21 años, fijan audiencia contra Mario Marín por tortura a Lydia Cacho; encuentro será de manera virtual",
-     "url": "https://www.eluniversal.com.mx/estados/tras-21-anos-fijan-audiencia-contra-mario-marin-por-tortura-a-lydia-cacho-encuentro-sera-de-manera-virtual/",
-     "domain": "El Universal",
-     "seendate": "20261020T030207Z"
-    },
-    {
-     "title": "César Jáuregui niega participación en intervención de agentes extranjeros en Chihuahua; afirma que no hay pruebas",
-     "url": "https://www.eluniversal.com.mx/nacion/cesar-jauregui-niega-participacion-en-intervencion-de-agentes-extranjeros-en-chihuahua-afirma-que-no-hay-pruebas/",
-     "domain": "El Universal",
-     "seendate": "20261020T023715Z"
     }
    ]
   },
@@ -643,6 +649,30 @@
   },
   "SLV": {
    "articles": [
+    {
+     "title": "El Presidente Bukele lanza critica a organismos internacionales por su postura sobre temas de seguridad en El Salvador",
+     "url": "https://lapagina.com.sv/general/el-presidente-bukele-lanza-critica-a-organismos-internacionales-por-su-postura-sobre-temas-de-seguridad-en-el-salvador/",
+     "domain": "lapagina.com.sv",
+     "seendate": "20261020T073000Z"
+    },
+    {
+     "title": "Día Tec 2026 reúne emprendimientos que impulsan nuevas soluciones",
+     "url": "https://www.periodicoequilibrium.com/dia-tec-2026-reune-emprendimientos-que-impulsan-nuevas-soluciones/",
+     "domain": "periodicoequilibrium.com",
+     "seendate": "20261020T034500Z"
+    },
+    {
+     "title": "Festival de Paraescalada realizó el Indes en el país",
+     "url": "https://www.periodicoequilibrium.com/festival-de-paraescalada-realizo-el-indes-en-el-pais/",
+     "domain": "periodicoequilibrium.com",
+     "seendate": "20261020T034500Z"
+    },
+    {
+     "title": "Fine Dining Week reunió a más de 100 chef internacionales – Diario La Página",
+     "url": "https://lapagina.com.sv/nacionales/fine-dining-week-reunio-a-mas-de-100-chef-internacionales/",
+     "domain": "lapagina.com.sv",
+     "seendate": "20261020T030000Z"
+    },
     {
      "title": "Presidente Bukele explica las reformas contra las pandillas que propone compartir con Costa Rica",
      "url": "https://lapagina.com.sv/general/presidente-bukele-explica-las-reformas-contra-las-pandillas-que-propone-compartir-con-costa-rica/",
@@ -1237,6 +1267,24 @@
   "COL": {
    "articles": [
     {
+     "title": "¡Ojo, conductor! Pico y placa en Cali para el martes 20 de octubre de 2026: estas placas tendrán restricción",
+     "url": "https://www.eltiempo.com/colombia/cali/ojo-conductor-pico-y-placa-en-cali-para-el-martes-20-de-octubre-de-2026-estas-placas-tendran-restriccion-3594686",
+     "domain": "El Tiempo",
+     "seendate": "20261020T073300Z"
+    },
+    {
+     "title": "¡Ojo, conductor! Pico y placa en Pereira para el martes 20 de octubre de 2026: estos carros y motos no podrán circular",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/ojo-conductor-pico-y-placa-en-pereira-para-el-martes-20-de-octubre-de-2026-estos-carros-y-motos-no-podran-circular-3594790",
+     "domain": "El Tiempo",
+     "seendate": "20261020T073000Z"
+    },
+    {
+     "title": "Pico y placa en Medellín para el martes 20 de octubre de 2026: estos son los carros, motos y taxis con restricción",
+     "url": "https://www.eltiempo.com/colombia/medellin/pico-y-placa-en-medellin-para-el-martes-20-de-octubre-de-2026-estos-son-los-carros-motos-y-taxis-con-restriccion-3594684",
+     "domain": "El Tiempo",
+     "seendate": "20261020T073000Z"
+    },
+    {
      "title": "Megacárcel metropolitana para sindicados del Valle de Aburrá presenta un avance constructivo del 47%: inversión supera los 675.000 millones de pesos",
      "url": "https://www.eltiempo.com/colombia/medellin/megacarcel-metropolitana-para-sindicados-del-valle-de-aburra-presenta-un-avance-constructivo-del-47-inversion-supera-los-675-000-millones-de-pesos-3594803",
      "domain": "El Tiempo",
@@ -1277,24 +1325,6 @@
      "url": "https://www.eltiempo.com/colombia/barranquilla/alejandro-char-agradece-a-abelardo-de-la-espriella-el-respaldo-de-300-000-millones-para-recuperar-bocas-de-ceniza-en-barranquilla-3594752",
      "domain": "El Tiempo",
      "seendate": "20261019T230847Z"
-    },
-    {
-     "title": "Rescatan los primeros seis cuerpos tras el fatal derrumbe en mina de Santa Bárbara de Iscuandé, Nariño: una mujer fue identificada entre las víctimas",
-     "url": "https://www.eltiempo.com/colombia/cali/rescatan-los-primeros-seis-cuerpos-tras-el-fatal-derrumbe-en-mina-de-santa-barbara-de-iscuande-una-mujer-fue-identificada-entre-las-victimas-3594739",
-     "domain": "El Tiempo",
-     "seendate": "20261019T222844Z"
-    },
-    {
-     "title": "Barranquilla refuerza controles contra el mosquito del dengue: más de 15.230 viviendas intervenidas y alerta por automedicación",
-     "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-refuerza-controles-contra-el-mosquito-del-dengue-mas-de-15-230-viviendas-intervenidas-y-alerta-por-automedicacion-3594736",
-     "domain": "El Tiempo",
-     "seendate": "20261019T221650Z"
-    },
-    {
-     "title": "El drama que viven los médicos en San Andrés Islas: la otra cara de la moneda tras el 'careo' entre De La Espriella, gobernadora y congresista",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-drama-que-viven-los-medicos-en-san-andres-islas-la-otra-cara-de-la-moneda-tras-el-careo-entre-de-la-espriella-gobernadora-y-congresista-3594728",
-     "domain": "El Tiempo",
-     "seendate": "20261019T215929Z"
     }
    ]
   },
@@ -2389,20 +2419,32 @@
   "ARG": {
    "articles": [
     {
+     "title": "La psicología dice que las personas cada vez tienen menos paciencia: “Es difícil generar conversaciones donde de verdad nos sintamos escuchados”",
+     "url": "https://www.lanacion.com.ar/sociedad/la-psicologia-dice-que-las-personas-cada-vez-tienen-menos-paciencia-es-dificil-generar-nid20102026/",
+     "domain": "La Nación",
+     "seendate": "20261020T080000Z"
+    },
+    {
+     "title": "Un especialista en Ciencias Ambientales explicó en detalle el impacto del fenómeno del “Súper Niño” y cuándo se intensificará en la Argentina",
+     "url": "https://www.lanacion.com.ar/sociedad/un-especialista-explico-en-detalle-el-impacto-del-fenomeno-del-super-nino-y-cuando-se-intensificara-nid20102026/",
+     "domain": "La Nación",
+     "seendate": "20261020T080000Z"
+    },
+    {
      "title": "Arthur Brooks, catedrático de Harvard, de 62 años: “Sentirse feliz no es lo mismo que entender de qué está hecha la felicidad”",
      "url": "https://www.lanacion.com.ar/sociedad/arthur-brooks-catedratico-de-harvard-de-62-anos-sentirse-feliz-no-es-lo-mismo-que-entender-de-que-nid20102026/",
      "domain": "La Nación",
      "seendate": "20261020T070000Z"
     },
     {
-     "title": "Javier Milei y sus medidas, en vivo: el mandatario se refirió al crecimiento energético y habló de una “revancha histórica”",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-mandatario-se-refirio-al-crecimiento-energetico-y-hablo-de-una-nid20102026/",
+     "title": "Gabriel Rolón: “Cualquier intento de alcanzar una plenitud total o absoluta está condenado al fracaso”",
+     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-cualquier-intento-de-alcanzar-una-plenitud-total-o-absoluta-esta-condenado-al-fracaso-nid20102026/",
      "domain": "La Nación",
      "seendate": "20261020T070000Z"
     },
     {
-     "title": "Gabriel Rolón: “Cualquier intento de alcanzar una plenitud total o absoluta está condenado al fracaso”",
-     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-cualquier-intento-de-alcanzar-una-plenitud-total-o-absoluta-esta-condenado-al-fracaso-nid20102026/",
+     "title": "Javier Milei y sus medidas, en vivo: el mandatario se refirió al crecimiento energético y habló de una “revancha histórica”",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-mandatario-se-refirio-al-crecimiento-energetico-y-hablo-de-una-nid20102026/",
      "domain": "La Nación",
      "seendate": "20261020T070000Z"
     },
