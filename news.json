@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T18:41:35+00:00",
+ "updated": "2026-10-21T19:34:47+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -28,7 +28,7 @@
      "seendate": "20261021T171116Z"
     },
     {
-     "title": "Milei a Abascal, en una videollamada: “Para mí es un placer patear culos zurdos”",
+     "title": "Milei, a Abascal, en una videollamada: “Es un placer patear culos zurdos”",
      "url": "https://elpais.com/espana/2026-10-21/milei-a-abascal-en-una-videollamada-para-mi-es-un-placer-patear-culos-zurdos.html",
      "domain": "El País",
      "seendate": "20261021T163857Z"
@@ -142,12 +142,6 @@
      "seendate": "20261021T054500Z"
     },
     {
-     "title": "¿La derecha ganará el Senado? Las encuestas dicen que es clave la retirada de Vox",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-10-21/la-derecha-ganara-el-senado-las-encuestas-dicen-que-es-clave-la-retirada-de-vox.html",
-     "domain": "El País",
-     "seendate": "20261021T033001Z"
-    },
-    {
      "title": "El profesor en prisión por agredir a una decena de alumnos fue sorprendido con un menor en su casa hace dos años",
      "url": "https://elpais.com/espana/madrid/2026-10-21/el-profesor-en-prision-por-agredir-a-una-decena-de-alumnos-fue-sorprendido-con-un-menor-en-su-casa-hace-dos-anos.html",
      "domain": "El País",
@@ -181,6 +175,36 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "\"No vamos a cometer una barbaridad\", dice Sheinbaum por Proyecto Amigo; asegura que sigue en revisión",
+     "url": "https://www.eluniversal.com.mx/nacion/no-vamos-a-cometer-una-barbaridad-dice-sheinbaum-por-proyecto-amigo-asegura-que-sigue-en-revision/",
+     "domain": "El Universal",
+     "seendate": "20261021T192325Z"
+    },
+    {
+     "title": "Ecobici ofrecerá viajes de 60 minutos por Paseo Nocturno de Día de Muertos; habrá rally y premios",
+     "url": "https://www.eluniversal.com.mx/metropoli/ecobici-ofrecera-viajes-de-60-minutos-por-paseo-nocturno-de-dia-de-muertos-habra-rally-y-premios/",
+     "domain": "El Universal",
+     "seendate": "20261021T190733Z"
+    },
+    {
+     "title": "Nacen 98 tortugas de huevos rescatados de la extracción ilegal en Nayarit; son liberadas en el mar",
+     "url": "https://www.eluniversal.com.mx/nacion/nacen-98-tortugas-de-huevos-rescatados-de-la-extraccion-ilegal-en-nayarit-son-liberadas-en-el-mar/",
+     "domain": "El Universal",
+     "seendate": "20261021T184656Z"
+    },
+    {
+     "title": "Celebra MC en Senado anuncio de Sheinbaum para resolver crisis del agua en Jalisco; tema está \"en vías de solución\", afirma",
+     "url": "https://www.eluniversal.com.mx/nacion/celebra-mc-en-senado-anuncio-de-sheinbaum-para-resolver-crisis-del-agua-en-jalisco-tema-esta-en-vias-de-solucion-afirma/",
+     "domain": "El Universal",
+     "seendate": "20261021T184201Z"
+    },
+    {
+     "title": "Cortocircuito por caída de bastón en Metro Zaragoza deja tres lesionados; se interrumpe servicio en Línea 1",
+     "url": "https://www.eluniversal.com.mx/metropoli/cortocircuito-por-caida-de-baston-en-metro-zaragoza-deja-tres-lesionados-se-interrumpe-servicio-en-linea-1/",
+     "domain": "El Universal",
+     "seendate": "20261021T183927Z"
+    },
     {
      "title": "CDMX instala alumbrado decorativo por Día de Muertos; catrinas iluminarán edificios del Zócalo",
      "url": "https://www.eluniversal.com.mx/metropoli/cdmx-instala-alumbrado-decorativo-por-dia-de-muertos-catrinas-iluminaran-edificios-del-zocalo/",
@@ -428,34 +452,10 @@
      "seendate": "20261021T133224Z"
     },
     {
-     "title": "CDMX tendrá cielo nublado y lluvias ligeras para este miércoles 21 de octubre; prevén una temperatura máxima de 23 grados Celsius",
-     "url": "https://www.eluniversal.com.mx/metropoli/cdmx-tendra-cielo-nublado-y-lluvias-ligeras-para-este-miercoles-21-de-octubre-preven-una-temperatura-maxima-de-23-grados-celsius/",
-     "domain": "El Universal",
-     "seendate": "20261021T132912Z"
-    },
-    {
-     "title": "Caso CIA: dictan prisión preventiva oficiosa a exfiscal de Chihuahua César Jáuregui; este sábado será su audiencia",
-     "url": "https://www.eluniversal.com.mx/nacion/caso-cia-dictan-prision-preventiva-oficiosa-a-exfiscal-de-chihuahua-cesar-jauregui-este-sabado-sera-su-audiencia/",
-     "domain": "El Universal",
-     "seendate": "20261021T132332Z"
-    },
-    {
      "title": "Metro CDMX mantiene servicio provisional en Línea 9; RTP apoya traslado de usuarios",
      "url": "https://www.eluniversal.com.mx/metropoli/metro-cdmx-mantiene-servicio-provisional-en-linea-9-rtp-apoya-traslado-de-usuarios/",
      "domain": "El Universal",
      "seendate": "20261021T123050Z"
-    },
-    {
-     "title": "ONU plantea ayuda para crisis de desaparecidos",
-     "url": "https://www.eluniversal.com.mx/nacion/onu-plantea-ayuda-para-crisis-de-desaparecidos/",
-     "domain": "El Universal",
-     "seendate": "20261021T111640Z"
-    },
-    {
-     "title": "Agentes de la CIA informaron en tiempo real a EU; testimonios narran operación",
-     "url": "https://www.eluniversal.com.mx/nacion/agentes-de-la-cia-informaron-en-tiempo-real-a-eu-testimonios-narran-operacion/",
-     "domain": "El Universal",
-     "seendate": "20261021T100000Z"
     }
    ]
   },
@@ -1168,6 +1168,12 @@
   "CRI": {
    "articles": [
     {
+     "title": "Arranca proceso de licitación para ampliación de San José-San Ramón: Conozca los plazos y detalles del proyecto",
+     "url": "https://www.nacion.com/el-pais/arranca-proceso-de-licitacion-para-ampliacion-de/Z3PQYJ5IHJE6ZM6YVURUL4EJHY/story/",
+     "domain": "La Nación",
+     "seendate": "20261021T185132Z"
+    },
+    {
      "title": "PPSO y FA aprueban metodología para evaluar a los 24 candidatos a suplentes de Sala Constitucional; PLN se opuso",
      "url": "https://www.nacion.com/politica/ppso-y-fa-aprueban-metodologia-para-evaluar-a-los/655VQNGP2ZDJNOKJMQ7UM4GBGI/story/",
      "domain": "La Nación",
@@ -1328,18 +1334,6 @@
      "url": "https://www.nacion.com/politica/relatora-de-la-onu-expresa-preocupacion-por/HOGTFVXAERGULLVKIV6F2ZVPJA/story/",
      "domain": "La Nación",
      "seendate": "20261020T231654Z"
-    },
-    {
-     "title": "Pueblo Soberano va por Ariel Robles: abre investigación en su contra en la Asamblea Legislativa",
-     "url": "https://www.nacion.com/politica/ppso-abre-investigacion-contra-ariel-robles-en/OSRO4SUVLVG43OSSRBMZ47MDV4/story/",
-     "domain": "La Nación",
-     "seendate": "20261020T223307Z"
-    },
-    {
-     "title": "Nogui Acosta reacciona a protesta contra los recortes presupuestarios a universidades: ‘No les gusta el agua’, tras aguacero que dispersó a algunos manifestantes",
-     "url": "https://www.nacion.com/politica/nogui-acosta-reacciona-a-protesta-contra-los/7ISS2MXIAVHNBKADG32DQPVF2A/story/",
-     "domain": "La Nación",
-     "seendate": "20261020T220738Z"
     }
    ]
   },
@@ -1591,6 +1585,36 @@
   "COL": {
    "articles": [
     {
+     "title": "Tras la tragedia minera en Iscuandé, bomberos piden abandonar la actividad: 'Lo mejor es parar'",
+     "url": "https://www.eltiempo.com/colombia/cali/tras-la-tragedia-minera-en-iscuande-bomberos-piden-abandonar-la-actividad-lo-mejor-es-parar-3595254",
+     "domain": "El Tiempo",
+     "seendate": "20261021T191246Z"
+    },
+    {
+     "title": "Un odontólogo de 40 años fue asesinado tras oponerse a un robo de 270 millones de pesos en La Plata, Huila: la Alcaldía del municipio se pronunció",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/un-odontologo-de-40-anos-fue-asesinado-tras-oponerse-a-un-robo-de-270-millones-de-pesos-en-la-plata-huila-la-alcaldia-del-municipio-se-pronuncio-3595126",
+     "domain": "El Tiempo",
+     "seendate": "20261021T185713Z"
+    },
+    {
+     "title": "Más de 430 capturas en 1.000 días: el balance de la contundente intervención de las autoridades en el Parque Lleras de Medellín",
+     "url": "https://www.eltiempo.com/colombia/medellin/mas-de-430-capturas-en-1-000-dias-el-balance-de-la-contundente-intervencion-de-las-autoridades-en-el-parque-lleras-de-medellin-3595249",
+     "domain": "El Tiempo",
+     "seendate": "20261021T185152Z"
+    },
+    {
+     "title": "Esta es la hipótesis del crimen de una pareja en Suesca: habrían alcanzado a llamar a las autoridades, pero fueron encontrados sin signos vitales",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/esta-es-la-hipotesis-del-crimen-de-una-pareja-en-suesca-habrian-alcanzado-a-llamar-a-las-autoridades-pero-fueron-encontrados-sin-signos-vitales-3595247",
+     "domain": "El Tiempo",
+     "seendate": "20261021T184327Z"
+    },
+    {
+     "title": "La historia de una Toyota de $ 2.500.000 y el polémico remate de carros y maquinaria en Valledupar que enciende las alarmas sobre el erario público",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/la-toyota-de-dos-millones-y-medio-de-pesos-el-polemico-remate-de-una-prado-txl-en-valledupar-que-enciende-las-alarmas-sobre-el-erario-publico-3595201",
+     "domain": "El Tiempo",
+     "seendate": "20261021T183927Z"
+    },
+    {
      "title": "Transoriente encontró a don José Luis, el adulto mayor rechazado en un bus con su perrita, y le rindió un homenaje",
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/transoriente-encontro-a-don-jose-luis-el-adulto-mayor-rechazado-en-un-bus-con-su-perrita-y-le-rindio-un-homenaje-3595238",
      "domain": "El Tiempo",
@@ -1615,229 +1639,295 @@
      "seendate": "20261021T175734Z"
     },
     {
-     "title": "La Toyota de dos millones y medio de pesos: el polémico remate de una Prado TXL en Valledupar que enciende las alarmas sobre el erario público",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/la-toyota-de-dos-millones-y-medio-de-pesos-el-polemico-remate-de-una-prado-txl-en-valledupar-que-enciende-las-alarmas-sobre-el-erario-publico-3595201",
-     "domain": "El Tiempo",
-     "seendate": "20261021T174923Z"
-    },
-    {
      "title": "Reviven polémico proyecto de megacárcel en Atlántico: tendría 11.560 cupos; desde 2019 enfrenta reclamos por compra de terrenos",
      "url": "https://www.eltiempo.com/colombia/barranquilla/reviven-polemico-proyecto-de-megacarcel-en-atlantico-tendria-11-560-cupos-desde-2019-enfrenta-reclamos-por-compra-de-terrenos-3595216",
      "domain": "El Tiempo",
      "seendate": "20261021T171734Z"
-    },
-    {
-     "title": "Tres adolescentes asesinaron a un hombre que intentó defender a su esposa durante un atraco en Villavicencio: fueron capturados por la Policía",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/tres-adolescentes-asesinaron-a-un-hombre-que-intento-defender-a-su-esposa-durante-un-atraco-en-villavicencio-fueron-capturados-por-la-policia-3595172",
-     "domain": "El Tiempo",
-     "seendate": "20261021T160027Z"
-    },
-    {
-     "title": "Metrolínea busca una salida a su crisis: hubo reunión con el Gobierno Nacional y las autoridades metropolitanas y estas fueron las conclusiones",
-     "url": "https://www.eltiempo.com/colombia/santander/metrolinea-busca-una-salida-a-su-crisis-hubo-reunion-con-el-gobierno-nacional-y-las-autoridades-metropolitanas-y-estas-fueron-las-conclusiones-3595179",
-     "domain": "El Tiempo",
-     "seendate": "20261021T154320Z"
-    },
-    {
-     "title": "El rifirrafe, con demanda en camino, entre el Gobernador de Antioquia y el gerente del Hospital de Caldas por los manejos del dinero de la entidad",
-     "url": "https://www.eltiempo.com/colombia/medellin/el-rifirrafe-con-demanda-en-camino-entre-el-gobernador-de-antioquia-y-el-gerente-del-hospital-de-caldas-por-los-manejos-del-dinero-de-la-entidad-3595161",
-     "domain": "El Tiempo",
-     "seendate": "20261021T153747Z"
-    },
-    {
-     "title": "¿Por qué sonaron las alarmas de temblor este 21 de octubre en varias ciudades de Colombia?",
-     "url": "https://www.eltiempo.com/colombia/por-que-sonaron-las-alarmas-de-temblor-este-21-de-octubre-en-varias-ciudades-de-colombia-3595173",
-     "domain": "El Tiempo",
-     "seendate": "20261021T152317Z"
     }
    ]
   },
   "VEN": {
    "articles": [
     {
+     "title": "Aeroméxico retomará vuelos a Venezuela en el primer trimestre de 2027 tras 10 años de ausencia",
+     "url": "https://elsiglo.com.ve/aeromexico-retomara-vuelos-venezuela-primer-trimestre-2027-tras-10-anos-de-ausencia/",
+     "domain": "elsiglo.com.ve",
+     "seendate": "20261021T190000Z"
+    },
+    {
      "title": "Inicio | Periódico CiudadCCS",
-     "url": "http://www.ciudadccs.info/publicacion/52291-tigres-rugen-en-maracaibo-y-derrotan-a-zulia-5-a-1",
+     "url": "https://www.ciudadccs.info/publicacion/52291-tigres-rugen-en-maracaibo-y-derrotan-al-zulia-5-a-1",
      "domain": "ciudadccs.info",
-     "seendate": "20261021T110000Z"
-    },
-    {
-     "title": "La Vero Gómez y su pandilla se unen en Caídos del Cielo",
-     "url": "https://www.informe21.com/post/la-vero-g%C3%B3mez-y-su-pandilla-se-unen-en-ca%C3%ADdos-del-cielo",
-     "domain": "informe21.com",
-     "seendate": "20261021T110000Z"
-    },
-    {
-     "title": "¿ Hacia dónde nos lleva el gobierno ?, por Teodoro Petkoff",
-     "url": "https://talcualdigital.com/teodoro/hacia-donde-nos-lleva-el-gobierno-por-teodoro-petkoff/",
-     "domain": "talcualdigital.com",
-     "seendate": "20261021T101500Z"
-    },
-    {
-     "title": "Cárceles rojas rojitas , por Teodoro Petkoff",
-     "url": "https://talcualdigital.com/teodoro/carceles-rojas-rojitas-por-teodoro-petkoff/",
-     "domain": "talcualdigital.com",
-     "seendate": "20261021T101500Z"
-    },
-    {
-     "title": "Los misteriosos vuelos privados entre Caracas y Turquía que ponen bajo la lupa a Diosdado Cabello",
-     "url": "https://lapatilla.com/2026/10/20/los-misteriosos-vuelos-privados-entre-caracas-y-turquia-que-ponen-bajo-la-lupa-a-diosdado-cabello/",
-     "domain": "lapatilla.com",
-     "seendate": "20261021T093000Z"
-    },
-    {
-     "title": "Palacio Federal Legislativo postergó nuevamente las designaciones al Comité de Postulaciones Judiciales",
-     "url": "https://lapatilla.com/2026/10/20/palacio-federal-legislativo-postergo-nuevamente-las-designaciones-al-comite-de-postulaciones-judiciales/",
-     "domain": "lapatilla.com",
-     "seendate": "20261021T093000Z"
-    },
-    {
-     "title": "Lenguaje responsable",
-     "url": "https://www.aporrea.org/actualidad/a357690.html",
-     "domain": "aporrea.org",
-     "seendate": "20261021T073000Z"
-    },
-    {
-     "title": "Ministerio Público y UNFPA articulan agenda de trabajo para la atención de víctimas de violencia de género",
-     "url": "https://www.aporrea.org/actualidad/n425011.html",
-     "domain": "aporrea.org",
-     "seendate": "20261021T073000Z"
-    },
-    {
-     "title": "Del CLAP a Venezuela Alimenta : la misma mano sobre el plato , por Omar Ávila",
-     "url": "https://talcualdigital.com/opinion/del-clap-a-venezuela-alimenta-la-misma-mano-sobre-el-plato-por-omar-avila/",
-     "domain": "talcualdigital.com",
-     "seendate": "20261021T070000Z"
-    },
-    {
-     "title": "58 familias de La Guaira obtienen viviendas con el Plan Venezuela Renace",
-     "url": "https://ultimasnoticias.com.ve/mas-vida/58-familias-de-la-guaira-obtienen-viviendas-con-el-plan-venezuela-renace/",
-     "domain": "ultimasnoticias.com.ve",
-     "seendate": "20261021T063000Z"
-    },
-    {
-     "title": "11 de octubre de 1816 , exitoso combate del Yagual",
-     "url": "https://www.el-carabobeno.com/11-de-octubre-de-1816-exitoso-combate-del-yagual/",
-     "domain": "el-carabobeno.com",
-     "seendate": "20261021T061500Z"
-    },
-    {
-     "title": "Se están quemando las escuelas de bomberos",
-     "url": "https://www.el-carabobeno.com/se-estan-quemando-las-escuelas-de-bomberos/",
-     "domain": "el-carabobeno.com",
-     "seendate": "20261021T061500Z"
-    },
-    {
-     "title": "María Corina Machado reitera el llamado a protestar para exigir la fecha de elecciones presidenciales",
-     "url": "https://www.el-carabobeno.com/maria-corina-machado-reitera-el-llamado-a-protestar-para-exigir-la-fecha-de-elecciones-presidenciales/",
-     "domain": "el-carabobeno.com",
-     "seendate": "20261021T061500Z"
-    },
-    {
-     "title": "Círculo de Reporteros Gráficos afianza espacio en el CNP Falcón",
-     "url": "https://nuevodia.com.ve/circulo-de-reporteros-graficos-afianza-espacio-en-el-cnp-falcon/",
-     "domain": "nuevodia.com.ve",
-     "seendate": "20261021T050000Z"
-    },
-    {
-     "title": "Entregan 500 viviendas transitorias en Ciudad Caribia para damnificados de los terremotos",
-     "url": "https://nuevodia.com.ve/entregan-500-viviendas-transitorias-en-ciudad-caribia-para-damnificados-de-los-terremotos/",
-     "domain": "nuevodia.com.ve",
-     "seendate": "20261021T050000Z"
-    },
-    {
-     "title": "Citgo eleva entre 7 . 700 y 8 . 000 millones de dólares su previsión de ganancias para 2026",
-     "url": "https://nuevodia.com.ve/citgo-eleva-entre-7-700-y-8-000-millones-de-dolares-su-prevision-de-ganancias-para-2026/",
-     "domain": "nuevodia.com.ve",
-     "seendate": "20261021T050000Z"
-    },
-    {
-     "title": "Venezuela y CAF exploran oportunidades de cooperación en tecnología – Correo del Orinoco | La Artillería del Pensamiento",
-     "url": "http://www.correodelorinoco.gob.ve/venezuela-y-caf-exploran-oportunidades-de-cooperacion-en-tecnologia/",
-     "domain": "correodelorinoco.gob.ve",
-     "seendate": "20261021T050000Z"
+     "seendate": "20261021T190000Z"
     },
     {
      "title": "Jefa de Estado ratifica vigencia del Golpe de Timón para fortalecer el Poder Popular – Correo del Orinoco | La Artillería del Pensamiento",
-     "url": "http://www.correodelorinoco.gob.ve/jefa-de-estado-ratifica-vigencia-del-golpe-de-timon-para-fortalecer-el-poder-popular/",
+     "url": "https://www.correodelorinoco.gob.ve/jefa-de-estado-ratifica-vigencia-del-golpe-de-timon-para-fortalecer-el-poder-popular/",
      "domain": "correodelorinoco.gob.ve",
-     "seendate": "20261021T050000Z"
+     "seendate": "20261021T184500Z"
     },
     {
-     "title": "De la Espriella ordena una « ofensiva total » contra la guerrilla del ELN y las disidencias de las Farc en Colombia",
-     "url": "https://confirmado.com.ve/de-la-espriella-ordena-una-ofensiva-total-contra-la-guerrilla-del-eln-y-las-disidencias-de-las-farc-en-colombia/",
-     "domain": "confirmado.com.ve",
-     "seendate": "20261021T023000Z"
-    },
-    {
-     "title": "Presidenta de la República Bolivariana de Venezuela , Delcy Rodríguez entrega 500 viviendas transitorias en Ciudad Caribia para familias afectadas por el doble sismo",
-     "url": "http://www.psuv.org.ve/temas/noticias/presidenta-republica-bolivariana-venezuela-delcy-rodriguez-entrega-500-viviendas-transitorias-ciudad-caribia-para-familias-afectadas-por-doble-sismo/",
+     "title": "Venezuela y Benín conmemoran 20 años de relaciones diplomáticas",
+     "url": "http://www.psuv.org.ve/temas/noticias/venezuela-y-benin-conmemoran-20-anos-relaciones-diplomaticas/",
      "domain": "psuv.org.ve",
-     "seendate": "20261021T021500Z"
+     "seendate": "20261021T184500Z"
     },
     {
-     "title": "Venezuela goza de abastecimiento pleno en supermercados con producción nacional",
-     "url": "https://www.minpal.gob.ve/noticias/venezuela-goza-de-abastecimiento-pleno-en-supermercados-con-produccion-nacional",
-     "domain": "minpal.gob.ve",
-     "seendate": "20261021T014500Z"
+     "title": "Comunicado : PSUV rechaza nueva orden de arresto contra Raúl Castro y ratifica su solidaridad con el pueblo y gobierno cubano",
+     "url": "http://www.psuv.org.ve/temas/noticias/comunicado-psuv-rechaza-accion-judicial-contra-raul-castro-y-ratifica-su-solidaridad-pueblo-y-gobierno-cubano/",
+     "domain": "psuv.org.ve",
+     "seendate": "20261021T184500Z"
     },
     {
-     "title": "Reseña Histórica | MINPPAL",
-     "url": "https://www.minpal.gob.ve/resena-historica",
-     "domain": "minpal.gob.ve",
-     "seendate": "20261021T014500Z"
+     "title": "Exclusiva | Andrés Bilbao : Lo crucial para un ecosistema tecnológico ya ocurrió en Venezuela",
+     "url": "https://noticierodigital.com/2026/10/exclusiva-andres-bilbao-lo-crucial-para-un-ecosistema-tecnologico-ya-ocurrio-en-venezuela/",
+     "domain": "noticierodigital.com",
+     "seendate": "20261021T184500Z"
     },
     {
-     "title": "Competencias | MINPPAL",
-     "url": "https://www.minpal.gob.ve/competencias",
-     "domain": "minpal.gob.ve",
-     "seendate": "20261021T014500Z"
+     "title": "Mañana Venezuela se moviliza a exigir el regreso seguro de su líder : coordinador juvenil de Vente Venezuela",
+     "url": "https://www.ntn24.com/noticias-actualidad/manana-venezuela-se-moviliza-a-exigir-el-regreso-seguro-de-su-lider-coordinador-juvenil-de-vente-venezuela-660024",
+     "domain": "ntn24.com",
+     "seendate": "20261021T183000Z"
     },
     {
-     "title": "Más de 158 mil toneladas de alimentos fueron distribuidos en Feria del Campo Soberano",
-     "url": "https://www.minpal.gob.ve/noticias/mas-de-158-mil-toneladas-de-alimentos-fueron-distribuidos-en-feria-del-campo-soberano",
-     "domain": "minpal.gob.ve",
-     "seendate": "20261021T014500Z"
+     "title": "Valeria Dudamel marcará hito en wushu",
+     "url": "https://www.liderendeportes.com/mas-deportes/valeria-dudamel-marcara-hito-en-wushu/",
+     "domain": "liderendeportes.com",
+     "seendate": "20261021T181500Z"
     },
     {
-     "title": "Ejecutivo ordena creación de Fondos Soberanos para Blindar Protección Social e Infraestructura",
-     "url": "https://www.minpal.gob.ve/noticias/ejecutivo-ordena-creacion-de-fondos-soberanos-para-blindar-proteccion-social-e-infraestructura",
-     "domain": "minpal.gob.ve",
-     "seendate": "20261021T014500Z"
+     "title": "Aeroméxico reanudará vuelos directos hacia Caracas en primer trimestre de 2027",
+     "url": "https://avn.info.ve/aeromexico-reanudara-vuelos-directos-hacia-caracas-en-primer-trimestre-2027/",
+     "domain": "avn.info.ve",
+     "seendate": "20261021T180000Z"
     },
     {
-     "title": "Venezuela logra hito histórico : 99 % de abastecimiento nacional en 2025 impulsado por la producción interna",
-     "url": "https://www.minpal.gob.ve/noticias/venezuela-logra-hito-historico-99-de-abastecimiento-nacional-en-2025-impulsado-por-la-produccion-interna",
-     "domain": "minpal.gob.ve",
-     "seendate": "20261021T014500Z"
+     "title": "Piden digitalizar trámites para comercio fronterizo entre Venezuela y Colombia",
+     "url": "https://avn.info.ve/piden-digitalizar-tramites-para-comercio-fronterizo-entre-venezuela-y-colombia/",
+     "domain": "avn.info.ve",
+     "seendate": "20261021T180000Z"
     },
     {
-     "title": "Venezuela exige unidad patriótica frente a quienes se subordinan a potencias extranjeras",
-     "url": "https://www.minpal.gob.ve/noticias/venezuela-exige-unidad-patriotica-frente-a-quienes-se-subordinan-a-potencias-extranjeras",
-     "domain": "minpal.gob.ve",
-     "seendate": "20261021T014500Z"
+     "title": "Guaireñas marchan por la vida en celebración del Mes Rosa - Agencia Venezolana de Noticias",
+     "url": "https://avn.info.ve/guairenas-marchan-por-la-vida-en-celebracion-del-mes-rosa/",
+     "domain": "avn.info.ve",
+     "seendate": "20261021T180000Z"
     },
     {
-     "title": "Presidenta Encargada lideró el Consejo de Ministros N° 758",
-     "url": "https://www.minpal.gob.ve/noticias/presidenta-encargada-lidero-el-consejo-de-ministros-n-758",
-     "domain": "minpal.gob.ve",
-     "seendate": "20261021T014500Z"
+     "title": "Bolívar da un salto en urología con primeras cirugías HoLEP – Correo del Caroní",
+     "url": "https://correodelcaroni.com/sociedad/salud/bolivar-da-un-salto-en-urologia-con-primeras-cirugias-holep/",
+     "domain": "correodelcaroni.com",
+     "seendate": "20261021T180000Z"
     },
     {
-     "title": "Noticias | MINPPAL",
-     "url": "https://www.minpal.gob.ve/noticias",
-     "domain": "minpal.gob.ve",
-     "seendate": "20261021T014500Z"
+     "title": "Juramentado Sabino Virgilio Rodríguez como nuevo decano de la Unefa Falcón - Agencia Venezolana de Noticias",
+     "url": "https://avn.info.ve/juramentado-sabino-virgilio-rodriguez-como-nuevo-decano-de-la-unefa-falcon/",
+     "domain": "avn.info.ve",
+     "seendate": "20261021T180000Z"
     },
     {
-     "title": "Chavismo y oposición culminan este miércoles la tercera ronda de diálogo",
-     "url": "https://www.el-carabobeno.com/chavismo-y-oposicion-culminan-este-miercoles-la-tercera-ronda-de-dialogo/",
-     "domain": "el-carabobeno.com",
-     "seendate": "20261021T011500Z"
+     "title": "AD ratifica su compromiso con la paz y rechaza fijación arbitraria de fechas electorales fuera de la Constitución",
+     "url": "https://www.globovision.com/politica/63442/ad-ratifica-su-compromiso-con-la-paz-y-rechaza-fijacion-arbitraria-de-fechas-electorales-fuera-de",
+     "domain": "globovision.com",
+     "seendate": "20261021T174500Z"
+    },
+    {
+     "title": "Tasa de Cambio BCV 21 de octubre de 2026 : 883 , 39 Bs / USD ( +0 , 1723 %)",
+     "url": "https://eldiariodeguayana.com.ve/tasa-de-cambio-bcv-21-de-octubre-de-2026-8833963-bs-usd-01723/",
+     "domain": "eldiariodeguayana.com.ve",
+     "seendate": "20261021T174500Z"
+    },
+    {
+     "title": "Geopolítica del Caribe , por Simón Boccanegra",
+     "url": "https://talcualdigital.com/opinion/geopolitica-del-caribe-por-simon-boccanegra/",
+     "domain": "talcualdigital.com",
+     "seendate": "20261021T173000Z"
+    },
+    {
+     "title": "SAIME convoca a jornada de verificación de datos para ciudadanos con cédulas entre 22 y 34 millones",
+     "url": "https://www.eluniversal.com/venezuela/243654/saime-convoca-a-jornada-de-verificacion-de-datos-para-ciudadanos-con-cedulas-entre-22-y-34-millones",
+     "domain": "eluniversal.com",
+     "seendate": "20261021T173000Z"
+    },
+    {
+     "title": "Fetraconstrucción : Hasta la OIT abandonó a los trabajadores venezolanos",
+     "url": "https://noticierodigital.com/2026/10/fetraconstruccion-hasta-la-oit-abandono-a-los-trabajadores-venezolanos/",
+     "domain": "noticierodigital.com",
+     "seendate": "20261021T173000Z"
+    },
+    {
+     "title": "ProPública revela términos secretos del acuerdo petrolero entre EEUU y Venezuela",
+     "url": "https://talcualdigital.com/noticias/propublica-revela-terminos-secretos-del-acuerdo-petrolero-entre-eeuu-y-venezuela/",
+     "domain": "talcualdigital.com",
+     "seendate": "20261021T173000Z"
+    },
+    {
+     "title": "Capturan en Trujillo a presunto implicado en planificación de intoxicaciones masivas",
+     "url": "https://www.eluniversal.com/sucesos/243670/capturan-en-trujillo-a-presunto-implicado-en-planificacion-de-intoxicaciones-masivas",
+     "domain": "eluniversal.com",
+     "seendate": "20261021T173000Z"
+    },
+    {
+     "title": "Madre de preso político por caso drones pide medida humanitaria : Su salud está delicada",
+     "url": "https://talcualdigital.com/noticias/madre-de-preso-politico-por-caso-drones-pide-medida-humanitaria-su-salud-esta-delicada/",
+     "domain": "talcualdigital.com",
+     "seendate": "20261021T173000Z"
+    },
+    {
+     "title": "Aeroméxico tiene planificado volver a operar hacia Venezuela para el primer trimestre de 2027",
+     "url": "https://www.eluniversal.com/economia/243656/aeromexico-tiene-planificado-volver-a-operar-hacia-venezuela-para-el-primer-trimestre-de-2027",
+     "domain": "eluniversal.com",
+     "seendate": "20261021T173000Z"
+    },
+    {
+     "title": "Observatorio registra 1 . 101 protestas en septiembre : 531 por fallas eléctricas",
+     "url": "https://talcualdigital.com/noticias/observatorio-registra-1-101-protestas-en-septiembre-531-por-fallas-electricas/",
+     "domain": "talcualdigital.com",
+     "seendate": "20261021T173000Z"
+    },
+    {
+     "title": "Tiburones y Caracas tuvieron un festival de carreras en la capital",
+     "url": "https://www.eluniversal.com/deportes/243650/jornada-lvbp-20oct-tiburones-y-caracas-tuvieron-un-festival-de-carreras-en-la-capital",
+     "domain": "eluniversal.com",
+     "seendate": "20261021T173000Z"
+    },
+    {
+     "title": "El gallo rojo todavía canta , por Simón Boccanegra",
+     "url": "https://talcualdigital.com/opinion/el-gallo-rojo-todavia-canta-por-simon-boccanegra/",
+     "domain": "talcualdigital.com",
+     "seendate": "20261021T173000Z"
+    },
+    {
+     "title": "ITA Airways inicia venta de boletos para la ruta Roma - Caracas : ¿ cuánto cuestan ?",
+     "url": "https://www.aporrea.org/actualidad/n425042.html",
+     "domain": "aporrea.org",
+     "seendate": "20261021T171500Z"
+    },
+    {
+     "title": "Graban agresión del presidente Milei contra Venezuela",
+     "url": "https://www.aporrea.org/actualidad/n425027.html",
+     "domain": "aporrea.org",
+     "seendate": "20261021T171500Z"
+    },
+    {
+     "title": "Venezuela adopta metodología global tras alianza estadística con el Banco de España",
+     "url": "https://ultimasnoticias.com.ve/economia/venezuela-adopta-metodologia-global-tras-alianza-estadistica-con-el-banco-de-espana/",
+     "domain": "ultimasnoticias.com.ve",
+     "seendate": "20261021T171500Z"
+    },
+    {
+     "title": "Impulsan plan estratégico para fortalecer el sector del cemento",
+     "url": "https://ultimasnoticias.com.ve/economia/impulsan-plan-estrategico-para-fortalecer-el-sector-del-cemento/",
+     "domain": "ultimasnoticias.com.ve",
+     "seendate": "20261021T171500Z"
+    },
+    {
+     "title": "Capturan en Colombia al venezolano alias Brayan Veneco , presunto líder de frente de disidencias de las Farc",
+     "url": "https://laverdad.com/capturan-en-colombia-al-venezolano-alias-brayan-veneco-presunto-lider-de-frente-de-disidencias-de-las-farc/",
+     "domain": "laverdad.com",
+     "seendate": "20261021T171500Z"
+    },
+    {
+     "title": "Jackson Chourio es el único zuliano que jugará en la Serie Mundial",
+     "url": "https://laverdad.com/jackson-chourio-es-el-unico-zuliano-que-jugara-en-la-serie-mundial/",
+     "domain": "laverdad.com",
+     "seendate": "20261021T171500Z"
+    },
+    {
+     "title": "INAMEH reporta cielo parcialmente nublado a fragmentado en buena parte del país",
+     "url": "https://www.aporrea.org/actualidad/n425024.html",
+     "domain": "aporrea.org",
+     "seendate": "20261021T171500Z"
+    },
+    {
+     "title": "💡De la luz propia al valor del talento👩🏻‍🤝‍👩🏼 : Las apuestas de Lucerna , ⚾Insular y💳 Cestaticket en el mercado",
+     "url": "https://ultimasnoticias.com.ve/zoom/%F0%9F%92%A1de-la-luz-propia-al-valor-del-talento%F0%9F%91%A9%F0%9F%8F%BB%F0%9F%A4%9D%F0%9F%91%A9%F0%9F%8F%BC-las-apuestas-de-lucerna-%E2%9A%BEinsular-y%F0%9F%92%B3-cestaticket-en/",
+     "domain": "ultimasnoticias.com.ve",
+     "seendate": "20261021T171500Z"
+    },
+    {
+     "title": "Alertan que más de 9 kilómetros de costa en Valmore Rodríguez están cubiertos de crudo",
+     "url": "https://laverdad.com/alertan-que-mas-de-9-kilometros-de-costa-en-valmore-rodriguez-estan-cubiertos-de-crudo/",
+     "domain": "laverdad.com",
+     "seendate": "20261021T171500Z"
+    },
+    {
+     "title": "Vientre de identidad nacional - Últimas Noticias",
+     "url": "https://ultimasnoticias.com.ve/opinion/vientre-de-identidad-nacional/",
+     "domain": "ultimasnoticias.com.ve",
+     "seendate": "20261021T171500Z"
+    },
+    {
+     "title": "Infraestructura petrolera en óptimas condiciones",
+     "url": "https://ultimasnoticias.com.ve/actualidad/infraestructura-petrolera-en-optimas-condiciones/",
+     "domain": "ultimasnoticias.com.ve",
+     "seendate": "20261021T171500Z"
+    },
+    {
+     "title": "Paris se quema y mi alma tambien",
+     "url": "https://www.aporrea.org/actualidad/a357709.html",
+     "domain": "aporrea.org",
+     "seendate": "20261021T171500Z"
+    },
+    {
+     "title": "La economía energética - Últimas Noticias",
+     "url": "https://ultimasnoticias.com.ve/opinion/la-economia-energetica/",
+     "domain": "ultimasnoticias.com.ve",
+     "seendate": "20261021T171500Z"
+    },
+    {
+     "title": "Luis Florido : Sin reconstrucción de instituciones , ninguna elección resolverá la crisis",
+     "url": "https://noticierodigital.com/2026/10/luis-florido-sin-reconstruccion-de-instituciones-ninguna-eleccion-resolvera-la-crisis/",
+     "domain": "noticierodigital.com",
+     "seendate": "20261021T170000Z"
+    },
+    {
+     "title": "Hinterlaces reporta aprobación de 81 % de venezolanos encues1",
+     "url": "https://rnv.gob.ve/hinterlaces-reporta-aprobacion-de-81-de-venezolanos-en/",
+     "domain": "rnv.gob.ve",
+     "seendate": "20261021T164500Z"
+    },
+    {
+     "title": "Hinton Strategic Partners explora conectar a inversores i1",
+     "url": "https://rnv.gob.ve/hinton-strategic-partners-explora-conectar-a-inversor/",
+     "domain": "rnv.gob.ve",
+     "seendate": "20261021T164500Z"
+    },
+    {
+     "title": "Promoverán mesa técnica para atender a pacientes hemofílicos",
+     "url": "https://avn.info.ve/defensoria-del-pueblo-promovera-mesa-tecnica-para-atender-a-pacientes-hemofilicos/",
+     "domain": "avn.info.ve",
+     "seendate": "20261021T164500Z"
+    },
+    {
+     "title": "Tiburones , Caribes y Tigres abren con victorias en nueva semana de la LVBP - Agencia Venezolana de Noticias",
+     "url": "https://avn.info.ve/tiburones-caribes-y-tigres-abren-con-victorias-en-nueva-semana-de-la-lvbp/",
+     "domain": "avn.info.ve",
+     "seendate": "20261021T164500Z"
+    },
+    {
+     "title": "Ejecutivo proyecta construir 6 . 000 viviendas transitorias",
+     "url": "https://rnv.gob.ve/ejecutivo-proyecta-construir-6-000-viviendas-transitori/",
+     "domain": "rnv.gob.ve",
+     "seendate": "20261021T164500Z"
     }
    ]
   },
   "ECU": {
    "articles": [
+    {
+     "title": "El 50% de los miembros de juntas receptoras del voto en Guayas ya se capacitó, según el CNE",
+     "url": "https://eluniverso.com/politica/elecciones/el-50-de-los-miembros-de-juntas-receptoras-del-voto-en-guayas-ya-se-capacito-segun-el-cne-nota/",
+     "domain": "El Universo",
+     "seendate": "20261021T191111Z"
+    },
+    {
+     "title": "Lluvias e inundaciones: cómo proteger el vehículo y evitar daños costosos",
+     "url": "https://eluniverso.com/comunidad/ecuador/lluvias-e-inundaciones-como-proteger-el-vehiculo-y-evitar-danos-costosos-nota/",
+     "domain": "El Universo",
+     "seendate": "20261021T184922Z"
+    },
     {
      "title": "Daniel Noboa recorrió instalaciones de la Universidad Pública de Santo Domingo de los Tsáchilas que avanza con inversión de $ 6,5 millones",
      "url": "https://eluniverso.com/politica/ejecutivo/daniel-noboa-recorrio-instalaciones-de-la-universidad-publica-de-santo-domingo-de-los-tsachilas-que-avanza-con-inversion-de-65-millones-nota/",
@@ -1923,14 +2013,14 @@
      "seendate": "20261021T140338Z"
     },
     {
-     "title": "Estos son los días libres en noviembre para Ecuador",
-     "url": "https://eluniverso.com/comunidad/ecuador/estos-son-los-dias-libres-en-noviembre-para-ecuador-nota/",
+     "title": "Comisión integra equipo docente que haga examen escrito para 162 aspirantes a ser vocal del Consejo Nacional Electoral",
+     "url": "https://eluniverso.com/politica/elecciones/consejo-nacional-electoral-concurso-de-oposicion-y-meritos-cpccs-nota/",
      "domain": "El Universo",
      "seendate": "20261021T140000Z"
     },
     {
-     "title": "Comisión integra equipo docente que haga examen escrito para 162 aspirantes a ser vocal del Consejo Nacional Electoral",
-     "url": "https://eluniverso.com/politica/elecciones/consejo-nacional-electoral-concurso-de-oposicion-y-meritos-cpccs-nota/",
+     "title": "Estos son los días libres en noviembre para Ecuador",
+     "url": "https://eluniverso.com/comunidad/ecuador/estos-son-los-dias-libres-en-noviembre-para-ecuador-nota/",
      "domain": "El Universo",
      "seendate": "20261021T140000Z"
     },
@@ -1971,12 +2061,6 @@
      "seendate": "20261021T115707Z"
     },
     {
-     "title": "ADN pedirá a la Asamblea fiscalizar los presuntos cobros de ‘vacunas’ en el Municipio de Quito",
-     "url": "https://eluniverso.com/politica/asamblea-nacional/adn-pedira-a-la-asamblea-nacional-fiscalizar-caso-vacunas-en-municipio-quito-nota/",
-     "domain": "El Universo",
-     "seendate": "20261021T111000Z"
-    },
-    {
      "title": "Pronóstico del clima para este miércoles, 21 de octubre: tormentas eléctricas en la Costa y temperaturas de hasta 33 °C",
      "url": "https://eluniverso.com/comunidad/ecuador/pronostico-del-clima-para-este-miercoles-21-de-octubre-tormentas-electricas-en-la-costa-y-temperaturas-de-hasta-33-c-nota/",
      "domain": "El Universo",
@@ -1999,6 +2083,42 @@
   "PER": {
    "articles": [
     {
+     "title": "Turismo en las playas del norte pierde impulso: ¿cómo amenaza El Niño la temporada de verano?",
+     "url": "https://elcomercio.pe/economia/peru/turismo-en-playas-del-norte-reservas-para-el-verano-se-enfrian-ante-temor-por-el-nino-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261021T191614Z"
+    },
+    {
+     "title": "Citi estima dos escenarios para el crudo, ¿cuánto puede llegar a costar el barril Brent?",
+     "url": "https://elcomercio.pe/economia/peru/citi-espera-una-caida-de-precios-del-petroleo-brent-a-cuanto-se-podria-reducir-el-crudo-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261021T191602Z"
+    },
+    {
+     "title": "Comité textil de la SNI: “La cadena de pagos del sector se está rompiendo”",
+     "url": "https://elcomercio.pe/economia/peru/comite-textil-de-la-sni-la-cadena-de-pagos-del-sector-se-esta-rompiendo-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261021T190813Z"
+    },
+    {
+     "title": "Lluvias en Perú hoy EN VIVO: últimas noticias, Piura y el norte del país bajo lluvias intensas, alerta por Fenómeno El Niño",
+     "url": "https://elcomercio.pe/peru/piura-y-el-norte-del-peru-bajo-lluvias-intensas-ultimas-noticias-alerta-por-el-nino-e-informe-del-coen-en-vivo-lbposting-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261021T190801Z"
+    },
+    {
+     "title": "Expocec 2026 reúne a líderes empresariales de Perú y Colombia para impulsar nuevas inversiones y negocios",
+     "url": "https://elcomercio.pe/economia/peru/expocec-2026-reune-a-lideres-empresariales-de-peru-y-colombia-para-impulsar-nuevas-inversiones-y-negocios-l-ultimas-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261021T185328Z"
+    },
+    {
+     "title": "Perú-Petro: “Cheiron tiene suficiente capacidad para enfrentar el contrato del lote 192”",
+     "url": "https://elcomercio.pe/economia/peru/petroleo-gas-peru-petro-cheiron-tiene-suficiente-capacidad-para-enfrentar-el-contrato-del-lote-192-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261021T184016Z"
+    },
+    {
      "title": "Incendios forestales en Cusco: cifra de fallecidos se eleva a ocho",
      "url": "https://elcomercio.pe/peru/cusco/incendios-forestales-en-cusco-cifra-de-fallecidos-se-eleva-a-ocho-ultimas-noticia/",
      "domain": "El Comercio",
@@ -2011,40 +2131,10 @@
      "seendate": "20261021T182643Z"
     },
     {
-     "title": "Turismo en las playas del norte pierde impulso: ¿cómo amenaza El Niño la temporada de verano?",
-     "url": "https://elcomercio.pe/economia/peru/turismo-en-playas-del-norte-reservas-para-el-verano-se-enfrian-ante-temor-por-el-nino-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261021T182627Z"
-    },
-    {
-     "title": "Citi estima dos escenarios para el crudo, ¿cuánto puede llegar a costar el barril Brent?",
-     "url": "https://elcomercio.pe/economia/peru/citi-espera-una-caida-de-precios-del-petroleo-brent-a-cuanto-se-podria-reducir-el-crudo-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261021T182615Z"
-    },
-    {
-     "title": "Lluvias en Perú hoy EN VIVO: últimas noticias, Piura y el norte del país bajo lluvias intensas, alerta por Fenómeno El Niño",
-     "url": "https://elcomercio.pe/peru/piura-y-el-norte-del-peru-bajo-lluvias-intensas-ultimas-noticias-alerta-por-el-nino-e-informe-del-coen-en-vivo-lbposting-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261021T182245Z"
-    },
-    {
      "title": "¿Tu empleador registró todos tus aportes? La ONP explica cómo comprobarlo en minutos",
      "url": "https://elcomercio.pe/economia/peru/tu-empleador-registro-todos-tus-aportes-la-onp-explica-como-comprobarlo-en-minutos-l-ultimas-noticia/",
      "domain": "El Comercio",
      "seendate": "20261021T180037Z"
-    },
-    {
-     "title": "Comité textil de la SNI: “La cadena de pagos del sector se está rompiendo”",
-     "url": "https://elcomercio.pe/economia/peru/comite-textil-de-la-sni-la-cadena-de-pagos-del-sector-se-esta-rompiendo-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261021T174635Z"
-    },
-    {
-     "title": "Perú-Petro: “Cheiron tiene suficiente capacidad para enfrentar el contrato del lote 192”",
-     "url": "https://elcomercio.pe/economia/peru/petroleo-gas-peru-petro-cheiron-tiene-suficiente-capacidad-para-enfrentar-el-contrato-del-lote-192-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261021T172822Z"
     },
     {
      "title": "El dólar inicia la jornada en S/3,43 mientras el mercado espera nuevos datos económicos de EE.UU.",
@@ -2731,16 +2821,70 @@
   "ARG": {
    "articles": [
     {
-     "title": "Tensión por discapacidad: la Iglesia advierte sobre el dictamen del oficialismo y reclama la prórroga de la ley de emergencia",
-     "url": "https://www.lanacion.com.ar/politica/tension-por-discapacidad-la-iglesia-advierte-sobre-el-dictamen-del-oficialismo-y-reclama-la-prorroga-nid21102026/",
+     "title": "Con cambios y concesiones, el oficialismo logró aprobar en Diputados su proyecto de propiedad privada",
+     "url": "https://www.lanacion.com.ar/politica/sesion-maratonica-en-diputados-el-oficialismo-busca-avanzar-con-una-ley-de-discapacidad-que-no-nid21102026/",
      "domain": "La Nación",
-     "seendate": "20261021T183608Z"
+     "seendate": "20261021T193153Z"
+    },
+    {
+     "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este miércoles 21 de octubre, minuto a minuto",
+     "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid21102026/",
+     "domain": "La Nación",
+     "seendate": "20261021T193009Z"
+    },
+    {
+     "title": "Karina Milei recibió al embajador de Estados Unidos",
+     "url": "https://www.lanacion.com.ar/politica/karina-milei-recibio-al-embajador-de-estados-unidos-nid21102026/",
+     "domain": "La Nación",
+     "seendate": "20261021T192605Z"
+    },
+    {
+     "title": "Los salarios registrados le ganaron a la inflación por tercer mes consecutivo y recuperaron lo perdido en el año",
+     "url": "https://www.lanacion.com.ar/economia/los-salarios-registrados-le-ganaron-a-la-inflacion-por-tercer-mes-consecutivo-y-recuperaron-lo-nid21102026/",
+     "domain": "La Nación",
+     "seendate": "20261021T192434Z"
+    },
+    {
+     "title": "La economía se estancó en agosto y quedó a las puertas de la recesión",
+     "url": "https://www.lanacion.com.ar/economia/la-economia-se-estanco-en-agosto-y-quedo-a-las-puertas-de-la-recesion-nid21102026/",
+     "domain": "La Nación",
+     "seendate": "20261021T192321Z"
     },
     {
      "title": "Javier Milei y sus medidas, en vivo: el Presidente cuestionó las encuestas: “¿Podés vivir 10 días sin comer y sin beber?",
      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-llamo-a-lula-zurdo-ladron-dias-antes-del-balotaje-nid21102026/",
      "domain": "La Nación",
-     "seendate": "20261021T183500Z"
+     "seendate": "20261021T192203Z"
+    },
+    {
+     "title": "Lucas Maglio, ingeniero en acuicultura, sobre un negocio en auge: “Quizás haya llegado el momento de comenzar a mirar también hacia el agua”",
+     "url": "https://www.lanacion.com.ar/economia/campo/lucas-maglio-ingeniero-en-acuicultura-sobre-un-negocio-en-auge-quizas-haya-llegado-el-momento-de-nid21102026/",
+     "domain": "La Nación",
+     "seendate": "20261021T191549Z"
+    },
+    {
+     "title": "Cayó un rayo en el Jockey Club de San Isidro: murieron cuatro yeguas de polo",
+     "url": "https://www.lanacion.com.ar/sociedad/cayo-un-rayo-en-el-jockey-club-de-san-isidro-murieron-cuatro-yeguas-de-polo-nid21102026/",
+     "domain": "La Nación",
+     "seendate": "20261021T190250Z"
+    },
+    {
+     "title": "Trump ayudará con US$8000 millones a los productores de Estados Unidos por el aumento del gasoil",
+     "url": "https://www.lanacion.com.ar/economia/campo/trump-ayudara-con-us8000-millones-a-los-productores-de-estados-unidos-por-el-aumento-del-gasoil-nid21102026/",
+     "domain": "La Nación",
+     "seendate": "20261021T184733Z"
+    },
+    {
+     "title": "Vacunos: demanda tranquila y nuevas bajas en el Mercado Agroganadero de Cañuelas",
+     "url": "https://www.lanacion.com.ar/economia/campo/vacunos-demanda-tranquila-y-nuevas-bajas-en-el-mercado-agroganadero-de-canuelas-nid21102026/",
+     "domain": "La Nación",
+     "seendate": "20261021T184538Z"
+    },
+    {
+     "title": "Tensión por discapacidad: la Iglesia advierte sobre el dictamen del oficialismo y reclama la prórroga de la ley de emergencia",
+     "url": "https://www.lanacion.com.ar/politica/tension-por-discapacidad-la-iglesia-advierte-sobre-el-dictamen-del-oficialismo-y-reclama-la-prorroga-nid21102026/",
+     "domain": "La Nación",
+     "seendate": "20261021T183608Z"
     },
     {
      "title": "Rachael Sharp, la abogada que volvió al campo y ayudó a mejorar el negocio de su padre de 78 años: “Esta granja no existiría sin ella”",
@@ -2905,58 +3049,10 @@
      "seendate": "20261021T180000Z"
     },
     {
-     "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este miércoles 21 de octubre, minuto a minuto",
-     "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid21102026/",
-     "domain": "La Nación",
-     "seendate": "20261021T175914Z"
-    },
-    {
-     "title": "Los personal trainers deberán contar con una autorización para poder seguir dando clases en las plazas porteñas",
+     "title": "Incertidumbre entre personal trainers por la nueva medida que exige tener una autorización para trabajar en plazas",
      "url": "https://www.lanacion.com.ar/sociedad/los-personal-trainers-deberan-contar-con-una-autorizacion-para-poder-dar-clases-en-plazas-portenas-nid21102026/",
      "domain": "La Nación",
      "seendate": "20261021T175752Z"
-    },
-    {
-     "title": "Financiamiento sostenible: qué hacen la Argentina, Brasil y Bolivia para impulsar la producción agropecuaria",
-     "url": "https://www.lanacion.com.ar/economia/campo/financiamiento-sostenible-que-hacen-la-argentina-brasil-y-bolivia-para-impulsar-la-produccion-nid21102026/",
-     "domain": "La Nación",
-     "seendate": "20261021T172902Z"
-    },
-    {
-     "title": "Gils Carbó fue indagada en el juicio por la compra del edificio de la Procuración",
-     "url": "https://www.lanacion.com.ar/politica/gils-carbo-fue-indagada-en-el-juicio-por-la-compra-del-edificio-de-la-procuracion-nid21102026/",
-     "domain": "La Nación",
-     "seendate": "20261021T172350Z"
-    },
-    {
-     "title": "Habló la periodista española que fue atacada por Milei cuando le hizo una pregunta",
-     "url": "https://www.lanacion.com.ar/politica/hablo-la-periodista-espanola-que-fue-atacada-por-milei-cuando-le-hizo-una-pregunta-nid21102026/",
-     "domain": "La Nación",
-     "seendate": "20261021T172259Z"
-    },
-    {
-     "title": "Cayó un rayo en el Jockey Club de San Isidro: murieron cuatro yeguas de polo",
-     "url": "https://www.lanacion.com.ar/sociedad/cayo-un-rayo-en-el-jockey-club-de-san-isidro-murieron-cuatro-yeguas-de-polo-nid21102026/",
-     "domain": "La Nación",
-     "seendate": "20261021T171612Z"
-    },
-    {
-     "title": "“Ganemos plata”: los casos clave del esquema de cartelización y sobreprecios en la Andis, según los fiscales",
-     "url": "https://www.lanacion.com.ar/politica/ganemos-plata-como-funciono-el-esquema-de-cartelizacion-y-sobreprecios-en-la-andis-segun-los-nid21102026/",
-     "domain": "La Nación",
-     "seendate": "20261021T171056Z"
-    },
-    {
-     "title": "A Francisco Franco le mataron 34 animales en un mes, perdió $40 millones y abandonó el campo: “No me dejan trabajar”",
-     "url": "https://www.lanacion.com.ar/economia/campo/a-francisco-franco-le-faenaron-34-animales-en-un-mes-perdio-40-millones-y-decidio-abandonar-el-campo-nid20102026/",
-     "domain": "La Nación",
-     "seendate": "20261021T170907Z"
-    },
-    {
-     "title": "Lucas Maglio, ingeniero en acuicultura, sobre un negocio en auge: “Quizás haya llegado el momento de comenzar a mirar también hacia el agua”",
-     "url": "https://www.lanacion.com.ar/economia/campo/lucas-maglio-ingeniero-en-acuicultura-sobre-un-negocio-en-auge-quizas-haya-llegado-el-momento-de-nid21102026/",
-     "domain": "La Nación",
-     "seendate": "20261021T170836Z"
     }
    ]
   },
@@ -3321,10 +3417,16 @@
   "PRY": {
    "articles": [
     {
+     "title": "Junta Municipal sin quórum por el Presupuesto 2027: la escandalosa brecha entre salarios y obras en Asunción",
+     "url": "https://www.abc.com.py/nacionales/2026/10/21/junta-municipal-sin-quorum-por-el-presupuesto-2027-la-escandalosa-brecha-entre-salarios-y-obras-en-asuncion/",
+     "domain": "ABC Color",
+     "seendate": "20261021T192058Z"
+    },
+    {
      "title": "Alerta meteorológica, EN VIVO: rigen avisos por lluvias y tormentas eléctricas para todo el país",
      "url": "https://www.abc.com.py/nacionales/2026/10/21/alerta-meteorologica-en-vivo-rigen-avisos-por-lluvias-y-tormentas-electricas-para-todo-el-pais/",
      "domain": "ABC Color",
-     "seendate": "20261021T180758Z"
+     "seendate": "20261021T190424Z"
     },
     {
      "title": "Nativos cierran ruta en Curuguaty para pedir asistencia y audiencia",
@@ -3343,24 +3445,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/21/la-reaccion-de-la-comunidad-judia-del-paraguay-sobre-polemicos-materiales-del-mec/",
      "domain": "ABC Color",
      "seendate": "20261021T171746Z"
-    },
-    {
-     "title": "Alto Paraguay: lluvias generan alivio para la ganadería y amenaza para los caminos",
-     "url": "https://www.abc.com.py/nacionales/chaco/2026/10/21/alto-paraguay-lluvias-generan-alivio-para-la-ganaderia-y-amenaza-para-los-caminos/",
-     "domain": "ABC Color",
-     "seendate": "20261021T165356Z"
-    },
-    {
-     "title": "Consejo de la Magistratura: falta de preparación tumba al 80% de los postulantes a jueces de Paz",
-     "url": "https://www.abc.com.py/nacionales/2026/10/21/consejo-de-la-magistratura-falta-de-preparacion-tumba-al-80-de-los-postulantes-a-jueces-de-paz/",
-     "domain": "ABC Color",
-     "seendate": "20261021T160301Z"
-    },
-    {
-     "title": "“Duro reclamo institucional”: Defensoría exige al MEC revisar libros por machismo, sesgos y referencias a Hitler",
-     "url": "https://www.abc.com.py/nacionales/2026/10/21/duro-reclamo-institucional-defensoria-exige-al-mec-revisar-libros-por-machismo-sesgos-y-referencias-a-hitler/",
-     "domain": "ABC Color",
-     "seendate": "20261021T152439Z"
     }
    ]
   },
