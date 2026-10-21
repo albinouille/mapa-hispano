@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T23:58:04+00:00",
+ "updated": "2026-10-21T00:35:36+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -145,6 +145,36 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Adulta mayor muere tras ser atropellada en Iztapalapa; hay una mujer detenida",
+     "url": "https://www.eluniversal.com.mx/metropoli/adulta-mayor-muere-tras-ser-atropellada-en-iztapalapa-hay-una-mujer-detenida/",
+     "domain": "El Universal",
+     "seendate": "20261021T002241Z"
+    },
+    {
+     "title": "Hallan tres cuerpos en dos municipios del sur de Zacatecas; autoridades mantienen fuerte operativo para dar con los responsables",
+     "url": "https://www.eluniversal.com.mx/estados/hallan-tres-cuerpos-en-dos-municipios-del-sur-de-zacatecas-autoridades-mantienen-fuerte-operativo-para-dar-con-los-responsables/",
+     "domain": "El Universal",
+     "seendate": "20261021T001109Z"
+    },
+    {
+     "title": "Protección Civil de Hidalgo lanza advertencia a habitantes de zonas de riesgo; si se niegan a ser evacuados, se hará uso de fuerza pública, dice",
+     "url": "https://www.eluniversal.com.mx/estados/proteccion-civil-de-hidalgo-lanza-advertencia-a-habitantes-de-zonas-de-riesgo-si-se-niegan-a-ser-evacuados-se-hara-uso-de-fuerza-publica-dice/",
+     "domain": "El Universal",
+     "seendate": "20261021T000656Z"
+    },
+    {
+     "title": "Desalojan a buscadoras en la ONU, denuncia presidente del Comité contra Desaparición; víctimas merecen resultados concretos, exige",
+     "url": "https://www.eluniversal.com.mx/nacion/desalojan-a-buscadoras-en-la-onu-denuncia-presidente-del-comite-contra-desaparicion-victimas-merecen-resultados-concretos-exige/",
+     "domain": "El Universal",
+     "seendate": "20261021T000131Z"
+    },
+    {
+     "title": "Diputados de Morena CDMX realizarán foros sobre derecho a una muerte digna; activistas hacen llamado urgente para llevar el debate al Pleno",
+     "url": "https://www.eluniversal.com.mx/metropoli/diputados-de-morena-cdmx-realizaran-foros-sobre-derecho-a-una-muerte-digna-activistas-hacen-llamado-urgente-para-llevar-el-debate-al-pleno/",
+     "domain": "El Universal",
+     "seendate": "20261020T235812Z"
+    },
     {
      "title": "Senado prevé comparecencia Luz Elena González, secretaria de Energía, el 12 de noviembre; presentará avances",
      "url": "https://www.eluniversal.com.mx/nacion/senado-preve-comparecencia-luz-elena-gonzalez-secretaria-de-energia-el-12-de-noviembre-presentara-avances/",
@@ -320,22 +350,10 @@
      "seendate": "20261020T192246Z"
     },
     {
-     "title": "Comisión de justicia avala \"Ley Antimemes\" en San Lázaro; alistan debate en el pleno",
-     "url": "https://www.eluniversal.com.mx/nacion/comision-de-justicia-avala-ley-antimemes-en-san-lazaro-alistan-debate-en-el-pleno/",
-     "domain": "El Universal",
-     "seendate": "20261020T192049Z"
-    },
-    {
      "title": "Aprueba pleno del Senado Ley de Economía Digital; va por acelerar el uso de medios de pagos electrónicos",
      "url": "https://www.eluniversal.com.mx/nacion/inicia-pleno-del-senado-discusion-de-ley-de-economia-digital-va-por-acelerar-el-uso-de-medios-de-pagos-electronicos/",
      "domain": "El Universal",
      "seendate": "20261020T191556Z"
-    },
-    {
-     "title": "Inicia Senado ruta para aprobar Ley de Ingresos y Miscelánea; va al pleno la próxima semana",
-     "url": "https://www.eluniversal.com.mx/nacion/inicia-senado-ruta-para-aprobar-ley-de-ingresos-y-miscelanea-va-al-pleno-la-proxima-semana/",
-     "domain": "El Universal",
-     "seendate": "20261020T191234Z"
     }
    ]
   },
@@ -1024,6 +1042,18 @@
   "CRI": {
    "articles": [
     {
+     "title": "Kathleen Quirós afirma que querellará al dueño de Chicharronera Cacique Acserí por decir que Guobin Tam estuvo en el bar el día en que ella y Carlo Díaz coincidieron",
+     "url": "https://www.nacion.com/politica/kathleen-quiros-afirma-que-querellara-al-dueno-de/VUGUSUWNVZD7BFZQGLQYRTFG5U/story/",
+     "domain": "La Nación",
+     "seendate": "20261021T002103Z"
+    },
+    {
+     "title": "¿Cómo impactará a los pacientes el nuevo modelo de medicamentos de la CCSS? Foro de ‘La Nación’ lo explica",
+     "url": "https://www.nacion.com/el-pais/como-impactara-a-los-pacientes-el-nuevo-modelo-de/563NXOL27BA6XMOOAI6B3BZH4U/story/",
+     "domain": "La Nación",
+     "seendate": "20261021T000334Z"
+    },
+    {
      "title": "Mayuli Ortega pide prohibir carteles en las curules ‘para preservar la imagen institucional’ de la Asamblea Legislativa",
      "url": "https://www.nacion.com/politica/mayuli-ortega-pide-prohibir-carteles-en-las/MOGXPA7HDVHQ3K67BPKT5VN6X4/story/",
      "domain": "La Nación",
@@ -1184,24 +1214,6 @@
      "url": "https://www.nacion.com/sucesos/guardacostas-decomisan-15-toneladas-de-cocaina-en/VGCGRQEBC5H2HHQ7A7C3HMBN7Q/story/",
      "domain": "La Nación",
      "seendate": "20261020T124727Z"
-    },
-    {
-     "title": "Cortes de agua en Heredia afectarán a más de 51.900 personas esta semana: estas son las comunidades y los horarios",
-     "url": "https://www.nacion.com/el-pais/cortes-de-agua-en-heredia-afectaran-a-mas-de-51900/6NJ2N6QLNBBP3LIW6I7WGOSSLM/story/",
-     "domain": "La Nación",
-     "seendate": "20261020T050323Z"
-    },
-    {
-     "title": "PPSO y PLN quitan ¢250.000 millones a CEN-Cinái, atención de indigentes, alimentación de niños y jóvenes y bonos de vivienda, para financiar otros programas sociales",
-     "url": "https://www.nacion.com/politica/ppso-quita-250000-millones-a-cen-cinai-atencion-de/CKWU5KWV5ZCSXMLM6ZIUHFDJHI/story/",
-     "domain": "La Nación",
-     "seendate": "20261020T050246Z"
-    },
-    {
-     "title": "PPSO revierte error de una de sus diputadas y aprueba recorte de ¢8.000 millones a universidades públicas",
-     "url": "https://www.nacion.com/politica/nogui-acosta-lleva-discusion-al-limite-para/N3I635MZ7FHMPHGQAORDUR664A/story/",
-     "domain": "La Nación",
-     "seendate": "20261020T041413Z"
     }
    ]
   },
@@ -1435,6 +1447,12 @@
   "COL": {
    "articles": [
     {
+     "title": "Mujer campesina dio a luz a trillizos en San Carlos, Córdoba: clama por apoyo monetario y social",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/mujer-campesina-dio-a-luz-a-trillizos-en-san-carlos-cordoba-clama-por-apoyo-monetario-y-social-3594976",
+     "domain": "El Tiempo",
+     "seendate": "20261020T235524Z"
+    },
+    {
      "title": "Misteriosa muerte de pensionado de la Fiscalía en Bucaramanga: apareció sin vida en el parqueadero de un conjunto residencial conocido",
      "url": "https://www.eltiempo.com/colombia/santander/misteriosa-muerte-de-pensionado-de-la-fiscalia-en-bucaramanga-aparecio-sin-vida-en-el-parqueadero-de-un-conjunto-residencial-conocido-3595016",
      "domain": "El Tiempo",
@@ -1475,12 +1493,6 @@
      "url": "https://www.eltiempo.com/colombia/barranquilla/alcalde-de-barranquilla-alejandro-char-se-pronuncio-sobre-video-de-hombres-que-arrojaron-cascos-y-desechos-a-un-arroyo-no-puede-seguir-pasando-3594950",
      "domain": "El Tiempo",
      "seendate": "20261020T212707Z"
-    },
-    {
-     "title": "Mujer campesina dio a luz a trillizos en San Carlos, Córdoba: clama por apoyo monetario y social",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/mujer-campesina-dio-a-luz-a-trillizos-en-san-carlos-cordoba-clama-por-apoyo-monetario-y-social-3594976",
-     "domain": "El Tiempo",
-     "seendate": "20261020T210838Z"
     },
     {
      "title": "Capturan en Barranquilla a empresario de reconocido club de playa por presunto abuso sexual contra una surfista menor de edad",
@@ -1779,6 +1791,24 @@
   "ECU": {
    "articles": [
     {
+     "title": "Ecuador y Perú firman acuerdos de cooperación en seguridad, energía y desarrollo fronterizo",
+     "url": "https://eluniverso.com/politica/ejecutivo/ecuador-y-peru-firman-acuerdos-de-cooperacion-en-seguridad-energia-y-desarrollo-fronterizo-nota/",
+     "domain": "El Universo",
+     "seendate": "20261021T001214Z"
+    },
+    {
+     "title": "Ministerio del Trabajo y la CIP firman acuerdo para impulsar el programa Jóvenes en Acción",
+     "url": "https://eluniverso.com/politica/ejecutivo/ministerio-del-trabajo-y-la-cip-firman-acuerdo-para-impulsar-el-programa-jovenes-en-accion-nota/",
+     "domain": "El Universo",
+     "seendate": "20261021T000346Z"
+    },
+    {
+     "title": "Más de mil familias afectadas por las lluvias se identifican en Milagro",
+     "url": "https://eluniverso.com/comunidad/ecuador/mas-de-mil-familias-afectadas-por-las-lluvias-se-identifican-en-milagro-nota/",
+     "domain": "El Universo",
+     "seendate": "20261021T000000Z"
+    },
+    {
      "title": "Ministerio de Salud advierte que trámites y pagos a proveedores no requieren intermediarios",
      "url": "https://eluniverso.com/politica/ejecutivo/ministerio-de-salud-advierte-que-tramites-y-pagos-a-proveedores-no-requieren-intermediarios-nota/",
      "domain": "El Universo",
@@ -1949,12 +1979,6 @@
      "url": "https://elcomercio.pe/peru/piura/fenomeno-el-nino-ejercito-utiliza-bombas-de-transvase-para-evacuar-agua-acumulada-en-urbanizaciones-de-piura-apuesplan-ultimas-noticia/",
      "domain": "El Comercio",
      "seendate": "20261020T223000Z"
-    },
-    {
-     "title": "Essalud: Mujer con órganos invertidos es operada de complejo tumor en el páncreas",
-     "url": "https://elcomercio.pe/peru/mujer-con-organos-invertidos-es-operada-de-complejo-tumor-en-el-pancreas-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261020T222951Z"
     },
     {
      "title": "Roberto Ipince Haaker asume como nuevo gerente general de Capeco",
@@ -2617,28 +2641,58 @@
   "ARG": {
    "articles": [
     {
-     "title": "Los cardiólogos coinciden: “El estrés crónico activa la liberación de cortisol y tiene múltiples efectos negativos en el corazón”",
-     "url": "https://www.lanacion.com.ar/sociedad/los-cardiologos-coinciden-el-estres-cronico-activa-la-liberacion-de-cortisol-y-tiene-multiples-nid20102026/",
+     "title": "Itatí sufre una crecida histórica y la gente se aferra a la fe por la virgen",
+     "url": "https://www.lanacion.com.ar/sociedad/itati-sufre-una-crecida-historica-y-la-gente-se-aferra-a-la-fe-por-la-virgen-nid20102026/",
      "domain": "La Nación",
-     "seendate": "20261020T233900Z"
+     "seendate": "20261021T002258Z"
     },
     {
      "title": "Javier Milei y sus medidas, en vivo: el Presidente llamó a Lula “zurdo ladrón” días antes del balotaje en Brasil",
      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-mandatario-se-refirio-al-crecimiento-energetico-y-hablo-de-una-nid20102026/",
      "domain": "La Nación",
-     "seendate": "20261020T233000Z"
+     "seendate": "20261021T001245Z"
     },
     {
-     "title": "El servicio de subtes se normalizó tras la liberación de los metrodelegados: afectó a cientos de usuarios",
-     "url": "https://www.lanacion.com.ar/sociedad/paro-total-en-las-seis-lineas-de-subte-por-una-medida-de-los-metrodelegados-nid20102026/",
+     "title": "Tras otra reunión, Pro espera definiciones del oficialismo por las PASO para avanzar en un acuerdo",
+     "url": "https://www.lanacion.com.ar/politica/tras-otra-reunion-pro-espera-definiciones-del-oficialismo-por-las-paso-para-avanzar-en-un-acuerdo-nid20102026/",
      "domain": "La Nación",
-     "seendate": "20261020T232707Z"
+     "seendate": "20261021T000729Z"
+    },
+    {
+     "title": "El asesino serial que se resistió al traslado a Marcos Paz, volvió a Devoto y ahora está aislado en una “vieja prisión”",
+     "url": "https://www.lanacion.com.ar/seguridad/el-asesino-serial-que-se-resistio-al-traslado-a-marcos-paz-volvio-a-devoto-y-ahora-esta-aislado-en-nid20102026/",
+     "domain": "La Nación",
+     "seendate": "20261021T000040Z"
+    },
+    {
+     "title": "Daniel López Rosetti, sobre la importancia del ejercicio en tratamientos contra la depresión: “En esos casos, la actividad física tiene efectos muy positivos”",
+     "url": "https://www.lanacion.com.ar/sociedad/daniel-lopez-rosetti-sobre-la-importancia-del-ejercicio-en-tratamientos-contra-la-depresion-en-esos-nid20102026/",
+     "domain": "La Nación",
+     "seendate": "20261021T000000Z"
+    },
+    {
+     "title": "Polémica por una ley que permite usar fondos de los caminos rurales para obras contra las inundaciones",
+     "url": "https://www.lanacion.com.ar/economia/campo/polemica-por-una-ley-que-permite-usar-fondos-de-los-caminos-rurales-para-obras-contra-las-nid20102026/",
+     "domain": "La Nación",
+     "seendate": "20261020T235918Z"
     },
     {
      "title": "Ante la mejoría de Mirtha Legrand, Martín Llaryora propuso celebrar sus 100 años en el estadio Kempes",
      "url": "https://www.lanacion.com.ar/politica/ante-la-mejoria-de-mirtha-legrand-martin-llaryora-propuso-celebrar-sus-100-anos-en-el-estadio-kempes-nid18102026/",
      "domain": "La Nación",
-     "seendate": "20261020T232701Z"
+     "seendate": "20261020T235906Z"
+    },
+    {
+     "title": "El servicio de subtes se normalizó tras la liberación de los metrodelegados: afectó a cientos de usuarios",
+     "url": "https://www.lanacion.com.ar/sociedad/paro-total-en-las-seis-lineas-de-subte-por-una-medida-de-los-metrodelegados-nid20102026/",
+     "domain": "La Nación",
+     "seendate": "20261020T235903Z"
+    },
+    {
+     "title": "Los cardiólogos coinciden: “El estrés crónico activa la liberación de cortisol y tiene múltiples efectos negativos en el corazón”",
+     "url": "https://www.lanacion.com.ar/sociedad/los-cardiologos-coinciden-el-estres-cronico-activa-la-liberacion-de-cortisol-y-tiene-multiples-nid20102026/",
+     "domain": "La Nación",
+     "seendate": "20261020T233900Z"
     },
     {
      "title": "La psicología dice que algunas personas responden “estoy bien” cuando alguien les preguntan cómo se sienten aunque atraviesen momentos difíciles",
@@ -2651,12 +2705,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/la-frase-de-el-principito-sobre-el-amor-propio-y-los-vinculos-se-debe-pedir-a-cada-cual-lo-que-esta-nid20102026/",
      "domain": "La Nación",
      "seendate": "20261020T230000Z"
-    },
-    {
-     "title": "El asesino serial que se resistió al traslado a Marcos Paz, volvió a Devoto y ahora está aislado en una “vieja prisión”",
-     "url": "https://www.lanacion.com.ar/seguridad/el-asesino-serial-que-se-resistio-al-traslado-a-marcos-paz-volvio-a-devoto-y-ahora-esta-aislado-en-nid20102026/",
-     "domain": "La Nación",
-     "seendate": "20261020T225251Z"
     },
     {
      "title": "Conrado Estol, neurólogo: “Salud no es solo la ausencia de enfermedad, es mucho más que eso”",
@@ -2771,24 +2819,6 @@
      "url": "https://www.lanacion.com.ar/seguridad/rosario-imputaron-a-nueve-integrantes-de-una-violenta-organizacion-narco-y-buscan-a-su-presunto-jefe-nid20102026/",
      "domain": "La Nación",
      "seendate": "20261020T211103Z"
-    },
-    {
-     "title": "Georges Breitschmitt, presidente del Ipcva, tras reuniones con importadores europeos donde se habló de Visec Carne: “Estamos listos hace tiempo”",
-     "url": "https://www.lanacion.com.ar/economia/campo/georges-breitschmitt-presidente-del-ipcva-tras-reuniones-con-importadores-europeos-donde-se-hablo-de-nid20102026/",
-     "domain": "La Nación",
-     "seendate": "20261020T210113Z"
-    },
-    {
-     "title": "Qué se sabe de la docente de 52 años desaparecida en Corrientes: hay un detenido y su familia cree que la engañaron",
-     "url": "https://www.lanacion.com.ar/seguridad/que-se-sabe-de-la-docente-de-52-anos-desaparecida-en-corrientes-hay-dos-detenidos-y-su-familia-cree-nid19102026/",
-     "domain": "La Nación",
-     "seendate": "20261020T210021Z"
-    },
-    {
-     "title": "Súper Niño: qué se sabe sobre los efectos que tendrá el fenómeno en la Argentina y cuándo impactará con más fuerza",
-     "url": "https://www.lanacion.com.ar/sociedad/super-nino-que-se-sabe-sobre-los-efectos-que-tendra-el-fenomeno-en-la-argentina-y-cuando-impactara-nid19102026/",
-     "domain": "La Nación",
-     "seendate": "20261020T210016Z"
     }
    ]
   },
