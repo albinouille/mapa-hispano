@@ -1,8 +1,14 @@
 {
- "updated": "2026-10-21T05:07:03+00:00",
+ "updated": "2026-10-21T06:05:17+00:00",
  "countries": {
   "ESP": {
    "articles": [
+    {
+     "title": "Detenido el presunto asesino de una mujer en una urbanización de Carabanchel",
+     "url": "https://elpais.com/espana/madrid/2026-10-21/detenido-el-presunto-asesino-de-una-mujer-en-una-urbanizacion-de-carabanchel.html",
+     "domain": "El País",
+     "seendate": "20261021T054500Z"
+    },
     {
      "title": "El Constitucional se dispone a rechazar el amparo presentado por la ‘ley de nietos’",
      "url": "https://elpais.com/espana/2026-10-21/el-constitucional-se-dispone-a-rechazar-el-amparo-presentado-por-la-ley-de-nietos.html",
@@ -145,6 +151,12 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Controlan incendio en Línea 9 del Metro CDMX; suspenden servicio en 6 estaciones",
+     "url": "https://www.eluniversal.com.mx/metropoli/metro-cdmx-atiende-conato-de-fuego-en-tramo-de-la-linea-9-suspende-servicio-en-6-estaciones/",
+     "domain": "El Universal",
+     "seendate": "20261021T050210Z"
+    },
     {
      "title": "Enfermera acusa que utilizó guantes de plástico en parto en Hospital Materno de Tijuana; IMSS-Bienestar asegura que sí hay insumos",
      "url": "https://www.eluniversal.com.mx/nacion/enfermera-acusa-que-utilizo-guantes-inadecuados-en-parto-en-hospital-materno-de-tijuana-imss-bienestar-asegura-que-si-hay-insumos/",
@@ -402,12 +414,6 @@
      "url": "https://www.eluniversal.com.mx/estados/bebe-de-un-ano-fallece-en-coahuila-por-presuntas-lesiones-madre-y-padrastro-estan-detenidos/",
      "domain": "El Universal",
      "seendate": "20261020T222216Z"
-    },
-    {
-     "title": "Suspenden careo judicial entre Lydia Cacho y exgobernador de Puebla, Mario Marín; \"se le cayó el sistema al juzgado\", dice la periodista",
-     "url": "https://www.eluniversal.com.mx/estados/suspenden-careo-judicial-entre-lydia-cacho-y-exgobernador-de-puebla-mario-marin-se-le-cayo-el-sistema-al-juzgado-dice-la-periodista/",
-     "domain": "El Universal",
-     "seendate": "20261020T220723Z"
     },
     {
      "title": "Diputado Gutiérrez Mancilla increpa a Álvarez Máynez; le grita \"asesino\" por agua contaminada en Jalisco",
@@ -1120,6 +1126,12 @@
   "CRI": {
    "articles": [
     {
+     "title": "Comisión de Hacendarios dictamina Presupuesto Nacional del 2027 por ¢12,4 billones con recortes a universidades y programas sociales",
+     "url": "https://www.nacion.com/politica/comision-de-hacendarios-dictamina-presupuesto/UMELULLHJBFKZBTX77IOQN4IXQ/story/",
+     "domain": "La Nación",
+     "seendate": "20261021T053113Z"
+    },
+    {
      "title": "PPSO quita ¢250 millones a Lanamme para la fiscalización de obras viales en Presupuesto 2027",
      "url": "https://www.nacion.com/politica/ppso-quita-250-millones-a-lanamme-para-la/SY4Y4BT3DVHPNFT37QECHAA2TA/story/",
      "domain": "La Nación",
@@ -1298,12 +1310,6 @@
      "url": "https://www.nacion.com/el-pais/gira-del-tse-llevara-tramites-de-cedula-y-registro/RNS7MIMIWRGFXC4HII2X2XEFZQ/story/",
      "domain": "La Nación",
      "seendate": "20261020T151043Z"
-    },
-    {
-     "title": "PCD decomisa casi dos toneladas de cocaína en una lancha y en una casa en la zona sur",
-     "url": "https://www.nacion.com/sucesos/enfrentamientos-armados-precedieron-detencion-de/WVKDBAUHCZHAVOWID772LACGAA/story/",
-     "domain": "La Nación",
-     "seendate": "20261020T150102Z"
     }
    ]
   },
@@ -1313,13 +1319,13 @@
      "title": "Secuelas del terremoto: 9,124 viviendas golpeadas y varias propuestas para reconstruir Azuero",
      "url": "https://www.prensa.com/sociedad/secuelas-del-terremoto-9124-viviendas-golpeadas-y-varias-propuestas-para-reconstruir-azuero/",
      "domain": "La Prensa",
-     "seendate": "20261021T050357Z"
+     "seendate": "20261021T050600Z"
     },
     {
      "title": "El PRD, uno de los grandes beneficiarios del subsidio que Robinson ahora quiere eliminar",
      "url": "https://www.prensa.com/politica/el-prd-uno-de-los-grandes-beneficiarios-del-subsidio-que-robinson-ahora-quiere-eliminar/",
      "domain": "La Prensa",
-     "seendate": "20261021T050357Z"
+     "seendate": "20261021T050500Z"
     },
     {
      "title": "Templos heridos: ‘Se nos ha caído un poquito el corazón’",
@@ -1428,12 +1434,6 @@
      "url": "https://www.prensa.com/politica/me-despierto-como-azarado-los-ninos-de-mariato-despues-del-terremoto/",
      "domain": "La Prensa",
      "seendate": "20261018T050500Z"
-    },
-    {
-     "title": "‘No hay que bajar en el temblor, porque no sabemos cuál va a ser la respuesta. Panamá debe hacer mucha docencia’: Tomás Correa",
-     "url": "https://www.prensa.com/sociedad/no-hay-que-bajar-durante-el-temblor-porque-no-sabemos-cual-va-a-ser-la-respuesta-panama-debe-hacer-mucha-docencia-en-ese-aspecto-tomas-correa-rodriguez/",
-     "domain": "La Prensa",
-     "seendate": "20261018T050200Z"
     },
     {
      "title": "‘¿Dónde voy a conseguir un terreno si no hay?’; la incertidumbre de las familias afectadas por el terremoto",
@@ -1546,12 +1546,6 @@
      "url": "https://www.14ymedio.com/cuba/cuba-produce-electricidad-hoy-20_1_1132118.html",
      "domain": "14ymedio",
      "seendate": "20261018T185617Z"
-    },
-    {
-     "title": "La Habana protesta porque EE UU utilizará la ONU para denunciar la represión en la Isla",
-     "url": "https://www.14ymedio.com/cuba/habana-protesta-ee-uu-utilizara_1_1132090.html",
-     "domain": "14ymedio",
-     "seendate": "20261017T173112Z"
     }
    ]
   },
@@ -1564,7 +1558,7 @@
      "title": "Revelan lo que habría desatado la riña en el Batallón Tarqui de Sogamoso, Boyacá, que terminó con la muerte de un sargento y un soldado: 'Una orden'",
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/esto-seria-lo-que-habria-desatado-rina-en-el-batallon-tarqui-de-sogamoso-boyaca-que-culmino-con-la-muerte-de-un-sargento-y-un-soldado-una-orden-3595079",
      "domain": "El Tiempo",
-     "seendate": "20261021T044500Z"
+     "seendate": "20261021T054437Z"
     },
     {
      "title": "Indignante: sellan una empresa y capturan a cinco personas con fines penales por realizar descargas de residuos peligrosos a la bahía de Cartagena",
@@ -2063,12 +2057,6 @@
      "url": "https://elcomercio.pe/peru/intensas-lluvias-en-piura-y-alerta-por-el-nino-en-vivo-ultimo-reporte-del-coen-inundaciones-en-la-ciudad-y-mas-de-ultima-hora-tdpe-noticia/",
      "domain": "El Comercio",
      "seendate": "20261021T033851Z"
-    },
-    {
-     "title": "Cómo la diversidad genética de los peruanos podría contribuir al diseño de una nueva vacuna contra la tuberculosis",
-     "url": "https://elcomercio.pe/peru/como-la-diversidad-genetica-de-los-peruanos-podria-contribuir-al-diseno-de-una-nueva-vacuna-contra-la-tuberculosis-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261021T014400Z"
     }
    ]
   },
@@ -2689,6 +2677,30 @@
   "ARG": {
    "articles": [
     {
+     "title": "Gabriel Rolón, psicoanalista: “Nos acostumbramos y terminamos transitando en el amor con el vehículo un poco averiado”",
+     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-nos-acostumbramos-y-terminamos-transitando-en-el-amor-con-el-vehiculo-un-nid21102026/",
+     "domain": "La Nación",
+     "seendate": "20261021T060000Z"
+    },
+    {
+     "title": "Javier Milei y sus medidas, en vivo: el presidente llamó a Lula “zurdo ladrón” días antes del balotaje en Brasil",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-llamo-a-lula-zurdo-ladron-dias-antes-del-balotaje-nid21102026/",
+     "domain": "La Nación",
+     "seendate": "20261021T055850Z"
+    },
+    {
+     "title": "La respuesta de Oscar Zago ante un pedido de “acuerdo político” de Bullrich",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-mandatario-se-refirio-al-crecimiento-energetico-y-hablo-de-una-nid20102026/",
+     "domain": "La Nación",
+     "seendate": "20261021T054058Z"
+    },
+    {
+     "title": "Murió un niño de 10 años tras resultar infectado por una ameba “comecerebros”: investigan aguas termales en Catamarca",
+     "url": "https://www.lanacion.com.ar/sociedad/murio-un-nino-de-10-anos-tras-resultar-infectado-por-una-ameba-comecerebros-investigan-aguas-nid21102026/",
+     "domain": "La Nación",
+     "seendate": "20261021T053057Z"
+    },
+    {
      "title": "Conrado Estol, neurólogo, sobre cómo prevenir el deterioro cognitivo: “La meditación definitivamente hace una diferencia”",
      "url": "https://www.lanacion.com.ar/sociedad/conrado-estol-neurologo-sobre-como-prevenir-el-deterioro-cognitivo-la-meditacion-definitivamente-nid21102026/",
      "domain": "La Nación",
@@ -2705,12 +2717,6 @@
      "url": "https://www.lanacion.com.ar/economia/campo/a-francisco-franco-le-faenaron-34-animales-en-un-mes-perdio-40-millones-y-decidio-abandonar-el-campo-nid20102026/",
      "domain": "La Nación",
      "seendate": "20261021T032445Z"
-    },
-    {
-     "title": "Javier Milei y sus medidas, en vivo: el Presidente llamó a Lula “zurdo ladrón” días antes del balotaje en Brasil",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-mandatario-se-refirio-al-crecimiento-energetico-y-hablo-de-una-nid20102026/",
-     "domain": "La Nación",
-     "seendate": "20261021T025524Z"
     },
     {
      "title": "Patricia Bullrich se refirió a la posibilidad de ser candidata a presidenta: “Estoy preparada”",
@@ -2825,12 +2831,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/los-cardiologos-coinciden-el-estres-cronico-activa-la-liberacion-de-cortisol-y-tiene-multiples-nid20102026/",
      "domain": "La Nación",
      "seendate": "20261020T233900Z"
-    },
-    {
-     "title": "La psicología dice que algunas personas responden “estoy bien” cuando alguien les preguntan cómo se sienten aunque atraviesen momentos difíciles",
-     "url": "https://www.lanacion.com.ar/sociedad/la-psicologia-dice-que-algunas-personas-responden-estoy-bien-cuando-alguien-les-preguntan-como-se-nid19102026/",
-     "domain": "La Nación",
-     "seendate": "20261020T230505Z"
     }
    ]
   },
