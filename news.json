@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T04:09:35+00:00",
+ "updated": "2026-10-22T05:09:33+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -121,6 +121,12 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "\"El IMSS esta a un paso de entrar a terapia intensiva\"; Con los de Casa condiciones en el sector de salud",
+     "url": "https://www.eluniversal.com.mx/nacion/el-imss-esta-a-un-paso-de-entrar-a-terapia-intensiva-con-los-de-casa-condiciones-en-el-sector-de-salud/",
+     "domain": "El Universal",
+     "seendate": "20261022T042525Z"
+    },
     {
      "title": "Morena y aliados en Diputados aprueban Ley Antimemes; turnan al Ejecutivo",
      "url": "https://www.eluniversal.com.mx/nacion/morena-y-aliados-en-diputados-aprueban-ley-antimemes-turnan-al-ejecutivo/",
@@ -417,6 +423,12 @@
   },
   "HND": {
    "articles": [
+    {
+     "title": "Congreso aprueba ley que prohíbe los túmulos hechizos en carreteras",
+     "url": "https://www.elheraldo.hn/honduras/congreso-aprueba-ley-prohibe-tumulos-hechizos-carreteras-primarias-JF32400898",
+     "domain": "elheraldo.hn",
+     "seendate": "20261022T041500Z"
+    },
     {
      "title": "EE UU dona tanques de agua a 85 escuelas del Corredor Seco",
      "url": "http://www.laprensa.hn/honduras/embajada-estados-unidos-dona-tanques-agua-85-escuelas-afectadas-sequia-IF32401810",
@@ -770,12 +782,6 @@
      "url": "https://www.laprensa.hn/honduras/tomas-zambrano-plantea-tres-escenarios-reformar-edad-punible-llamado-medicos-FE32366298",
      "domain": "laprensa.hn",
      "seendate": "20261019T203000Z"
-    },
-    {
-     "title": "Reducción de edad punible en Honduras : ¿ está en la agenda de la CSJ ?",
-     "url": "https://www.laprensa.hn/honduras/reducir-edad-punible-agenda-corte-suprema-justicia-reformas-penales-HE32366735",
-     "domain": "laprensa.hn",
-     "seendate": "20261019T203000Z"
     }
    ]
   },
@@ -1126,6 +1132,24 @@
   "CRI": {
    "articles": [
     {
+     "title": "Recortes presupuestarios a universidades públicas llevan al TEC a suspender entrega de resultados de admisión",
+     "url": "https://www.nacion.com/el-pais/recortes-presupuestarios-a-universidades-publicas/NNMJNKA3FFEG7A737AQ576RD7U/story/",
+     "domain": "La Nación",
+     "seendate": "20261022T043155Z"
+    },
+    {
+     "title": "Hospital CIMA se pronuncia sobre brote de salmonela que dejó 66 casos sospechosos entre trabajadores",
+     "url": "https://www.nacion.com/el-pais/hospital-cima-se-pronuncia-sobre-brote-de/3FBMSF5LQZAHRIXDITMQNO2I4Q/story/",
+     "domain": "La Nación",
+     "seendate": "20261022T041950Z"
+    },
+    {
+     "title": "Llegan los empujes fríos a Costa Rica: el primero traerá vientos de hasta 45 km/h y lluvias",
+     "url": "https://www.nacion.com/sucesos/llegan-los-empujes-frios-a-costa-rica-el-primero/2Q3C5BFJJZB2NB4ZUZ57VPS5MM/story/",
+     "domain": "La Nación",
+     "seendate": "20261022T041703Z"
+    },
+    {
      "title": "Patricia Solano rechazó haber solicitado ayuda a Marta Esquivel por retribución de su hijo en la CCSS",
      "url": "https://www.nacion.com/politica/patricia-solano-rechazo-haber-solicitado-ayuda-a/X37V3FONG5B4FP3VXBR2JKI4JE/story/",
      "domain": "La Nación",
@@ -1286,23 +1310,35 @@
      "url": "https://www.nacion.com/el-pais/asi-quedo-el-monumento-a-jose-figueres-ferrer-en/VGM5BG6UBJH43FE535X7NL4AZU/story/",
      "domain": "La Nación",
      "seendate": "20261021T153922Z"
-    },
-    {
-     "title": "Accidente en Frailes de Desamparados: vehículo cae a un guindo",
-     "url": "https://www.nacion.com/sucesos/accidente-en-frailes-de-desamparados-vehiculo-cae/NG463JES7BF3DFTARYQBFTZICI/story/",
-     "domain": "La Nación",
-     "seendate": "20261021T141002Z"
-    },
-    {
-     "title": "Hombre de 26 años muere tras riña en Santa Rosa de Tamarindo",
-     "url": "https://www.nacion.com/sucesos/hombre-de-26-anos-muere-tras-rina-en-santa-rosa-de/ZVFVH2DBKBDI3GLJZELNHV7CWI/story/",
-     "domain": "La Nación",
-     "seendate": "20261021T135018Z"
     }
    ]
   },
   "PAN": {
    "articles": [
+    {
+     "title": "La ayuda tras el terremoto: entre las bolsas de alimentos y los refugios",
+     "url": "https://www.prensa.com/sociedad/la-ayuda-tras-el-terremoto-entre-las-bolsas-de-alimentos-y-los-refugios/",
+     "domain": "La Prensa",
+     "seendate": "20261022T050500Z"
+    },
+    {
+     "title": "Terremoto en Azuero: la emergencia que enfrentan las personas con discapacidad",
+     "url": "https://www.prensa.com/sociedad/terremoto-en-azuero-la-emergencia-que-enfrentan-las-personas-con-discapacidad/",
+     "domain": "La Prensa",
+     "seendate": "20261022T050400Z"
+    },
+    {
+     "title": "El metro de Panamá es uno de los diez más baratos del mundo",
+     "url": "https://www.prensa.com/sociedad/el-metro-de-panama-es-uno-de-los-diez-mas-baratos-del-mundo/",
+     "domain": "La Prensa",
+     "seendate": "20261022T050100Z"
+    },
+    {
+     "title": "La Comisión de Gobierno revive la reforma al reglamento de la Asamblea objetada por Mulino",
+     "url": "https://www.prensa.com/politica/la-comision-de-gobierno-revive-la-reforma-al-reglamento-de-la-asamblea-objetada-por-mulino/",
+     "domain": "La Prensa",
+     "seendate": "20261022T044100Z"
+    },
     {
      "title": "Devoción al Cristo Negro de Portobelo",
      "url": "https://www.prensa.com/sociedad/devocion-al-cristo-negro-de-portobelo/",
@@ -1326,12 +1362,6 @@
      "url": "https://www.prensa.com/politica/estados-unidos-sanciona-a-una-firma-panamena-sus-socios-y-siete-buques-por-vinculos-con-una-red-petrolera-irani/",
      "domain": "La Prensa",
      "seendate": "20261021T181100Z"
-    },
-    {
-     "title": "La Comisión de Gobierno revive la reforma al reglamento de la Asamblea objetada por Mulino",
-     "url": "https://www.prensa.com/politica/la-comision-de-gobierno-revive-la-reforma-al-reglamento-de-la-asamblea-objetada-por-mulino/",
-     "domain": "La Prensa",
-     "seendate": "20261021T174137Z"
     },
     {
      "title": "¡Cuidado con el volumen! Multas de hasta $1,000 por ruido el 2 de noviembre",
@@ -1406,18 +1436,6 @@
      "seendate": "20261020T050500Z"
     },
     {
-     "title": "‘Se armó el debate’: Boric y Uribe confrontan ideas sobre la pobreza desde Panamá",
-     "url": "https://www.prensa.com/sociedad/se-armo-el-debate-boric-y-uribe-confrontan-ideas-sobre-la-pobreza-en-panama/",
-     "domain": "La Prensa",
-     "seendate": "20261020T050300Z"
-    },
-    {
-     "title": "Choque de bancadas frena el debate de las reformas electorales",
-     "url": "https://www.prensa.com/politica/choque-de-bancadas-frena-el-debate-de-las-reformas-electorales/",
-     "domain": "La Prensa",
-     "seendate": "20261020T001933Z"
-    },
-    {
      "title": "Declaran alerta verde en dos regiones afectadas por el terremoto",
      "url": "https://www.prensa.com/politica/autoridades-brindan-nuevo-reporte-sobre-danos-tras-el-terremoto/",
      "domain": "La Prensa",
@@ -1428,12 +1446,6 @@
      "url": "https://www.prensa.com/politica/el-terremoto-pone-a-prueba-la-cosecha-de-12-mil-hectareas-de-arroz-y-la-produccion-de-leche/",
      "domain": "La Prensa",
      "seendate": "20261019T050400Z"
-    },
-    {
-     "title": "Las clases en las escuelas oficiales se reanudarán el miércoles; este es el listado",
-     "url": "https://www.prensa.com/politica/las-clases-en-las-escuelas-oficiales-se-reanudaran-progresivamente-a-partir-del-miercoles/",
-     "domain": "La Prensa",
-     "seendate": "20261018T230913Z"
     },
     {
      "title": "‘No hay que bajar en el temblor, porque no sabemos cuál va a ser la respuesta’: Tomás Correa",
@@ -1530,12 +1542,6 @@
      "seendate": "20261020T093751Z"
     },
     {
-     "title": "Florida hace oficial la orden de arresto contra Raúl Castro por el derribo de las avionetas de Hermanos al Rescate",
-     "url": "https://www.14ymedio.com/cuba/migracion/florida-oficial-orden-arresto-raul_1_1132152.html",
-     "domain": "14ymedio",
-     "seendate": "20261019T161909Z"
-    },
-    {
      "title": "Las Vegas gana terreno como destino de la migración cubana en EE UU",
      "url": "https://www.14ymedio.com/cuba/migracion/vegas-gana-terreno-destino-migracion_1_1132146.html",
      "domain": "14ymedio",
@@ -1619,334 +1625,250 @@
   "VEN": {
    "articles": [
     {
-     "title": "Arriban a Anzoátegui dos vuelos con 370 venezolanos desde EE . UU .",
-     "url": "https://www.eluniversal.com/venezuela/243704/arriban-a-anzoategui-dos-vuelos-con-370-venezolanos-desde-eeuu",
-     "domain": "eluniversal.com",
-     "seendate": "20261022T024500Z"
+     "title": "Venezuela envía carta al Vaticano para respaldar canonización de la Madre María de San José – Correo del Orinoco | La Artillería del Pensamiento",
+     "url": "http://www.correodelorinoco.gob.ve/venezuela-envia-carta-al-vaticano-para-respaldar-canonizacion-de-la-madre-maria-de-san-jose/",
+     "domain": "correodelorinoco.gob.ve",
+     "seendate": "20261022T044500Z"
     },
     {
-     "title": "Gobierno nacional solicita al Papa León XIV la canonización de la Madre María de San José",
-     "url": "https://www.eluniversal.com/venezuela/243705/gobierno-nacional-solicita-al-papa-leon-xiv-la-canonizacion-de-la-madre-maria-de-san-jose",
-     "domain": "eluniversal.com",
-     "seendate": "20261022T024500Z"
-    },
-    {
-     "title": "Gobierno y AN 2015 acuerdan destrabar inhabilitaciones políticas y reformar leyes claves",
-     "url": "https://www.eluniversal.com/politica/243723/gobierno-y-an-2015-concluyen-tercer-ciclo-de-dialogo-con-acuerdos-en-materia-judicial-electoral-y",
-     "domain": "eluniversal.com",
-     "seendate": "20261022T024500Z"
-    },
-    {
-     "title": "Gobierno suspende la obligatoriedad de la máquina fiscal y recorta el padrón de contribuyentes especiales",
-     "url": "https://www.eluniversal.com/economia/243715/delcy-rodriguez-anuncia-la-suspension-de-la-maquina-fiscal-y-la-reduccion-de-contribuyentes-para-la",
-     "domain": "eluniversal.com",
-     "seendate": "20261022T024500Z"
-    },
-    {
-     "title": "Cabello tilda de",
-     "url": "https://www.eluniversal.com/politica/243717/cabello-tilda-de-maldad-e-imaginacion-las-versiones-sobre-vuelos-para-trasladar-sus-bienes-a",
-     "domain": "eluniversal.com",
-     "seendate": "20261022T024500Z"
-    },
-    {
-     "title": "Delcy Rodríguez suspende uso obligatorio de máquinas fiscales",
-     "url": "https://radiomundial.com.ve/delcy-rodriguez-suspende-obligatoriedad-maquina-fiscal-seniat/",
-     "domain": "radiomundial.com.ve",
-     "seendate": "20261022T020000Z"
-    },
-    {
-     "title": "Finaliza tercera ronda de diálogo político en Venezuela",
-     "url": "https://radiomundial.com.ve/finaliza-tercera-ronda-dialogo-gobierno-asamblea-nacional-2015/",
-     "domain": "radiomundial.com.ve",
-     "seendate": "20261022T020000Z"
-    },
-    {
-     "title": "Presidenta Delcy Rodríguez envía carta al Papa León XIV para impulsar canonización de la Madre María de San José",
-     "url": "http://www.psuv.org.ve/temas/noticias/presidenta-delcy-rodriguez-envia-carta-al-papa-leon-xiv-para-impulsar-canonizacion-madre-maria-san-jose/",
-     "domain": "psuv.org.ve",
-     "seendate": "20261022T020000Z"
-    },
-    {
-     "title": "Delcy Rodríguez envía carta al Papa León XIV",
-     "url": "https://radiomundial.com.ve/delcy-rodriguez-carta-papa-leon-xiv-canonizacion-madre-maria-de-san-jose-palabra/",
-     "domain": "radiomundial.com.ve",
-     "seendate": "20261022T020000Z"
-    },
-    {
-     "title": "Vuelven 369 venezolanos desde EE . UU . vía Vuelta a la Patria",
-     "url": "https://radiomundial.com.ve/arriban-369-venezolanos-a-barcelona-procedentes-de-ee-uu-mediante-la-gran-mision-vuelta-a-la-patria/",
-     "domain": "radiomundial.com.ve",
-     "seendate": "20261022T020000Z"
-    },
-    {
-     "title": "Fiesta Brava asumirá ferias de San Cristóbal y Mérida",
-     "url": "https://radiomundial.com.ve/fiesta-brava-unificara-la-organizacion-de-las-ferias-taurinas/",
-     "domain": "radiomundial.com.ve",
-     "seendate": "20261022T020000Z"
-    },
-    {
-     "title": "Banca venezolana eleva captaciones a 5 , 63 billones",
-     "url": "https://radiomundial.com.ve/banca-venezolana-captaciones-septiembre-aristimuno-herrera-asociados/",
-     "domain": "radiomundial.com.ve",
-     "seendate": "20261022T020000Z"
-    },
-    {
-     "title": "Presentan libro sobre José Gregorio Hernández en la UCV",
-     "url": "https://radiomundial.com.ve/presentan-libro-jose-gregorio-hernandez-cientifico-humanista-ucv/",
-     "domain": "radiomundial.com.ve",
-     "seendate": "20261022T020000Z"
-    },
-    {
-     "title": "Gobierno y AN de 2015 firman acuerdos del tercer ciclo",
-     "url": "https://radiomundial.com.ve/acuerdo-tercer-ciclo-dialogo-gobierno-asamblea-nacional-2015/",
-     "domain": "radiomundial.com.ve",
-     "seendate": "20261022T020000Z"
-    },
-    {
-     "title": "Presidenta encabeza asamblea con juntas de condominio",
-     "url": "https://radiomundial.com.ve/delcy-rodriguez-asamblea-juntas-de-condominio-caracas/",
-     "domain": "radiomundial.com.ve",
-     "seendate": "20261022T020000Z"
-    },
-    {
-     "title": "Venezuela logra dos nuevos oros en Suramericano de Esgrima",
-     "url": "https://radiomundial.com.ve/venezuela-suma-dos-oros-suramericano-esgrima-medellin-machado-salazar/",
-     "domain": "radiomundial.com.ve",
-     "seendate": "20261022T020000Z"
-    },
-    {
-     "title": "Vinotinto sub - 17 vence a Zambia en Mundial de Marruecos",
-     "url": "https://radiomundial.com.ve/vinotinto-femenina-sub-17-vence-zambia-mundial-marruecos-2026/",
-     "domain": "radiomundial.com.ve",
-     "seendate": "20261022T020000Z"
-    },
-    {
-     "title": "Nueva ruta Roma - Caracas impulsará el turismo en 2027",
-     "url": "https://radiomundial.com.ve/nueva-ruta-aerea-directa-roma-caracas-ita-airways-turismo-2027/",
-     "domain": "radiomundial.com.ve",
-     "seendate": "20261022T020000Z"
-    },
-    {
-     "title": "Delcy Rodríguez reduce lista de contribuyentes especiales",
-     "url": "https://radiomundial.com.ve/delcy-rodriguez-reforma-tributaria-contribuyentes-especiales-recaudacion/",
-     "domain": "radiomundial.com.ve",
-     "seendate": "20261022T020000Z"
-    },
-    {
-     "title": "Presidenta Delcy Rodríguez ofrece importantes anuncios en materia económica y tributaria",
-     "url": "http://www.psuv.org.ve/temas/noticias/presidenta-delcy-rodriguez-ofrece-importantes-anuncios-materia-economica-y-tributaria/",
-     "domain": "psuv.org.ve",
-     "seendate": "20261022T020000Z"
+     "title": "Culmina tercera ronda de diálogo entre el Gobierno nacional y exdiputados de 2015 con seis acuerdos – Correo del Orinoco | La Artillería del Pensamiento",
+     "url": "http://www.correodelorinoco.gob.ve/culmina-tercera-ronda-de-dialogo-entre-el-gobierno-nacional-y-exdiputados-de-2015-con-seis-acuerdos/",
+     "domain": "correodelorinoco.gob.ve",
+     "seendate": "20261022T044500Z"
     },
     {
      "title": "Inicio | Periódico CiudadCCS",
-     "url": "https://ciudadccs.info/publicacion/52357-ejecutivo-anuncia-suspencion-del-uso-obligatorio-de-maquinas-fiscales",
+     "url": "http://www.ciudadccs.info/publicacion/52347-canal-panameno-rompe-record-de-transito-en-medio-del-caos-energetico",
      "domain": "ciudadccs.info",
-     "seendate": "20261022T014500Z"
+     "seendate": "20261022T044500Z"
     },
     {
-     "title": "Cabello exalta el alma y la valentía de la mujer que abraza el legado de Chávez",
-     "url": "https://avn.info.ve/cabello-exalta-el-alma-y-la-valentia-de-la-mujer-que-abraza-el-legado-de-chavez/",
+     "title": "Presidenta Delcy Rodríguez anuncia suspensión de la obligatoriedad de máquinas fiscales – Correo del Orinoco | La Artillería del Pensamiento",
+     "url": "http://www.correodelorinoco.gob.ve/presidenta-delcy-rodriguez-anuncia-suspension-de-la-obligatoriedad-de-maquinas-fiscales/",
+     "domain": "correodelorinoco.gob.ve",
+     "seendate": "20261022T044500Z"
+    },
+    {
+     "title": "Se discute creación de defensoría de garantías políticas",
+     "url": "https://rnv.gob.ve/dialogo-nacional-defensoria-garantias/",
+     "domain": "rnv.gob.ve",
+     "seendate": "20261022T043000Z"
+    },
+    {
+     "title": "Venezuela se mantiene en el último lugar del Índice de Estado de Derecho – Correo del Caroní",
+     "url": "https://correodelcaroni.com/pais-politico/venezuela-se-mantiene-en-el-ultimo-lugar-del-indice-de-estado-de-derecho/",
+     "domain": "correodelcaroni.com",
+     "seendate": "20261022T043000Z"
+    },
+    {
+     "title": "Delegaciones de Diálogo Nacional insisten en recuperar el oro venezolano retenido en Reino Unido",
+     "url": "https://rnv.gob.ve/delegaciones-de-dialogo-nacional-insisten-en-recuperar-el-oro-venezolano-retenido-en-reino-unido/",
+     "domain": "rnv.gob.ve",
+     "seendate": "20261022T043000Z"
+    },
+    {
+     "title": "Gobierno y AN 2015 acuerdan revisar cuatro leyes",
+     "url": "https://rnv.gob.ve/gobierno-an-2015-revision-leyes/",
+     "domain": "rnv.gob.ve",
+     "seendate": "20261022T043000Z"
+    },
+    {
+     "title": "Venezuela y la ONU fortalecen cooperación en planes de salud",
+     "url": "https://rnv.gob.ve/venezuela-onu-fortalecen-cooperacion-salud/",
+     "domain": "rnv.gob.ve",
+     "seendate": "20261022T043000Z"
+    },
+    {
+     "title": "Chavismo y oposición acuerdan revisar la ley utilizada para las inhabilitaciones",
+     "url": "https://panampost.com/panam-staff/2026/10/21/chavismo-y-oposicion-acuerdan-revisar-la-ley-utilizada-para-las-inhabilitaciones/",
+     "domain": "panampost.com",
+     "seendate": "20261022T041500Z"
+    },
+    {
+     "title": "Asdrúbal Oliveros plantea volcar el 80 % del ingreso al sueldo",
+     "url": "https://finanzasdigital.com/asdrubal-oliveros-propuesta-salarial-80-por-ciento-sueldo/",
+     "domain": "finanzasdigital.com",
+     "seendate": "20261022T041500Z"
+    },
+    {
+     "title": "Petróleo venezolano cotizó en US$93 , 75 por barril| Su nivel más alto en 10 años",
+     "url": "https://nuevodia.com.ve/petroleo-venezolano-cotizo-en-us9375-por-barril-su-nivel-mas-alto-en-10-anos/",
+     "domain": "nuevodia.com.ve",
+     "seendate": "20261022T040000Z"
+    },
+    {
+     "title": "Delcy Rodríguez solicita al papa León XIV la canonización de la beata María de San José",
+     "url": "https://confirmado.com.ve/delcy-rodriguez-solicita-al-papa-leon-xiv-la-canonizacion-de-la-beata-maria-de-san-jose/",
+     "domain": "confirmado.com.ve",
+     "seendate": "20261022T040000Z"
+    },
+    {
+     "title": "Rubio visita la refinería india de Jamnagar , capaz de refinar el crudo pesado venezolano",
+     "url": "https://nuevodia.com.ve/rubio-visita-la-refineria-india-de-jamnagar-capaz-de-refinar-el-crudo-pesado-venezolano/",
+     "domain": "nuevodia.com.ve",
+     "seendate": "20261022T040000Z"
+    },
+    {
+     "title": "Gobierno y AN de 2015 acuerdan revisar leyes sobre participación política e inhabilitaciones",
+     "url": "https://confirmado.com.ve/gobierno-y-an-de-2015-acuerdan-revisar-leyes-sobre-participacion-politica-e-inhabilitaciones/",
+     "domain": "confirmado.com.ve",
+     "seendate": "20261022T040000Z"
+    },
+    {
+     "title": "El Senado de Chile aprueba un proyecto de ley que agiliza la expulsión de extranjeros",
+     "url": "https://confirmado.com.ve/el-senado-de-chile-aprueba-un-proyecto-de-ley-que-agiliza-la-expulsion-de-extranjeros/",
+     "domain": "confirmado.com.ve",
+     "seendate": "20261022T040000Z"
+    },
+    {
+     "title": "Gobierno suspende uso obligatorio de máquinas fiscales y reduce drásticamente el padrón de contribuyentes especiales",
+     "url": "https://confirmado.com.ve/gobierno-suspende-uso-obligatorio-de-maquinas-fiscales-y-reduce-drasticamente-el-padron-de-contribuyentes-especiales/",
+     "domain": "confirmado.com.ve",
+     "seendate": "20261022T040000Z"
+    },
+    {
+     "title": "Gobierno y AN 2015 acuerdan revisar leyes",
+     "url": "https://avn.info.ve/gobierno-y-an-2015-acuerdan-revisar-leyes-y-discutir-una-defensoria-de-garantias-politicas/",
      "domain": "avn.info.ve",
-     "seendate": "20261022T014500Z"
+     "seendate": "20261022T040000Z"
     },
     {
-     "title": "Venezuela y la ONU fortalecen cooperación multilateral en planes de salud - Agencia Venezolana de Noticias",
-     "url": "https://avn.info.ve/venezuela-y-la-onu-fortalecen-cooperacion-multilateral-en-planes-de-salud/",
-     "domain": "avn.info.ve",
-     "seendate": "20261022T014500Z"
+     "title": "Caracas FC clasificó a cuartos de final de Copa Venezuela",
+     "url": "https://www.liderendeportes.com/futbol/futve/caracas-fc-clasifico-a-cuartos-de-final-de-copa-venezuela/",
+     "domain": "liderendeportes.com",
+     "seendate": "20261022T040000Z"
     },
     {
-     "title": "Gobierno pide al Papa canonizar a la madre María de San José y beatificar a monseñor Montes de Oca",
-     "url": "https://www.el-carabobeno.com/gobierno-pide-al-papa-canonizar-a-la-madre-maria-de-san-jose-y-beatificar-a-monsenor-montes-de-oca/",
-     "domain": "el-carabobeno.com",
-     "seendate": "20261022T011500Z"
+     "title": "Opiniones divididas sobre las elecciones en Turmero",
+     "url": "https://elsiglo.com.ve/opiniones-divididas-sobre-las-elecciones-en-turmero/",
+     "domain": "elsiglo.com.ve",
+     "seendate": "20261022T034500Z"
     },
     {
-     "title": "Sindicatos de Carabobo exigen revocar circular que suspende trámites gremiales",
-     "url": "https://www.el-carabobeno.com/sindicatos-de-carabobo-exigen-revocar-circular-que-suspende-tramites-gremiales/",
-     "domain": "el-carabobeno.com",
-     "seendate": "20261022T011500Z"
+     "title": "Plataforma Unitaria exige elecciones presidenciales",
+     "url": "https://elsiglo.com.ve/plataforma-unitaria-exige-elecciones-presidenciales/",
+     "domain": "elsiglo.com.ve",
+     "seendate": "20261022T034500Z"
     },
     {
-     "title": "A partir de hoy tengo otro ángel en el cielo : Osmel Sousa se pronuncia sobre la muerte de Stefany Merlin , Miss Barinas 2014",
-     "url": "https://www.ntn24.com/noticias-entretenimiento/a-partir-de-hoy-tengo-otro-angel-en-el-cielo-osmel-sousa-se-pronuncia-sobre-la-muerte-de-stefany-merlin-miss-barinas-2014-660120",
+     "title": "Interpol capturó dos cabecillas del Tren del Llano",
+     "url": "https://elsiglo.com.ve/interpol-capturo-y-entrego-a-venezuela-a-dos-cabecillas-del-tren-del-llano/",
+     "domain": "elsiglo.com.ve",
+     "seendate": "20261022T034500Z"
+    },
+    {
+     "title": "Fetraragua rechaza chantaje salarial en consenso laboral",
+     "url": "https://elsiglo.com.ve/fetraragua-rechaza-chantaje-salarial-en-mesas-de-consenso-laboral/",
+     "domain": "elsiglo.com.ve",
+     "seendate": "20261022T034500Z"
+    },
+    {
+     "title": "Tu país está feliz , por Teodoro Petkoff",
+     "url": "https://talcualdigital.com/opinion/tu-pais-esta-feliz-por-teodoro-petkoff/",
+     "domain": "talcualdigital.com",
+     "seendate": "20261022T033000Z"
+    },
+    {
+     "title": "Jorge Rodríguez : Venezuela administra los recursos que obtiene por concepto de la venta de petróleo",
+     "url": "https://ultimasnoticias.com.ve/economia/petroleo/jorge-rodriguez-venezuela-administra-los-recursos-que-obtiene-por-concepto-de-la-venta-de-petroleo/",
+     "domain": "ultimasnoticias.com.ve",
+     "seendate": "20261022T033000Z"
+    },
+    {
+     "title": "Petróleo venezolano se cotizó $93 , 75 por barril",
+     "url": "https://ultimasnoticias.com.ve/economia/petroleo/petroleo-venezolano-se-cotizo-9375-por-barril/",
+     "domain": "ultimasnoticias.com.ve",
+     "seendate": "20261022T033000Z"
+    },
+    {
+     "title": "Asamblea Nacional designará este jueves los 12 integrantes de la sociedad civil para el Comité de Postulaciones Judiciales",
+     "url": "https://www.globovision.com/politica/63467/asamblea-nacional-designara-este-jueves-los-12-integrantes-de-la-sociedad-civil-para-el-comite-de",
+     "domain": "globovision.com",
+     "seendate": "20261022T033000Z"
+    },
+    {
+     "title": "El chino habló claro , por Simón Boccanegra",
+     "url": "https://talcualdigital.com/opinion/el-chino-hablo-claro-por-simon-boccanegra/",
+     "domain": "talcualdigital.com",
+     "seendate": "20261022T033000Z"
+    },
+    {
+     "title": "Jorge Rodríguez :",
+     "url": "https://www.globovision.com/economia/63463/jorge-rodriguez-venezuela-controla-todos-los-ingresos-obtenidos-por-la-venta-de-su-petroleo",
+     "domain": "globovision.com",
+     "seendate": "20261022T033000Z"
+    },
+    {
+     "title": "Tercer ciclo de diálogo acuerda revisar 4 leyes e instala nueva mesa de garantías",
+     "url": "https://www.globovision.com/politica/63461/tercer-ciclo-de-dialogo-acuerda-revisar-4-leyes-e-instala-nueva-mesa-de-garantias",
+     "domain": "globovision.com",
+     "seendate": "20261022T033000Z"
+    },
+    {
+     "title": "Conforman comisión paritaria para gestionar el rescate del oro venezolano en el Banco de Inglaterra , informa Figuera",
+     "url": "https://www.globovision.com/politica/63464/mesa-de-dialogo-conforma-comision-paritaria-para-gestionar-el-rescate-del-oro-venezolano-en-el-de",
+     "domain": "globovision.com",
+     "seendate": "20261022T033000Z"
+    },
+    {
+     "title": "Gobierno y oposición acuerdan revisar leyes clave y avanzar en el Comité de Postulaciones Judiciales",
+     "url": "https://ultimasnoticias.com.ve/politica/gobierno-y-oposicion-acuerdan-revisar-leyes-clave-y-avanzar-en-el-comite-de-postulaciones-judiciales/",
+     "domain": "ultimasnoticias.com.ve",
+     "seendate": "20261022T033000Z"
+    },
+    {
+     "title": "Cabello responde a críticas sobre la Consulta Popular : Subestimen a este pueblo , que van bien",
+     "url": "https://www.globovision.com/politica/63468/cabello-responde-a-criticas-sobre-la-consulta-popular-subestimen-a-este-pueblo-que-van-bien",
+     "domain": "globovision.com",
+     "seendate": "20261022T033000Z"
+    },
+    {
+     "title": "Mesa de diálogo acuerda revisar inhabilitaciones y leyes sobre terrorismo",
+     "url": "https://talcualdigital.com/destacados/mesa-de-dialogo-acuerda-revisar-inhabilitaciones-y-leyes-sobre-terrorismo/",
+     "domain": "talcualdigital.com",
+     "seendate": "20261022T033000Z"
+    },
+    {
+     "title": "Apagones , falta de agua y salarios de hambre dejaron 1 . 101 protestas en Venezuela durante el mes de septiembre de 2026",
+     "url": "https://www.ntn24.com/noticias-actualidad/apagones-falta-de-agua-y-salarios-de-hambre-dejaron-1-101-protestas-en-venezuela-durante-el-mes-de-septiembre-de-2026-660233",
      "domain": "ntn24.com",
-     "seendate": "20261022T011500Z"
-    },
-    {
-     "title": "OVCS : Venezuela registró unas mil protestas en septiembre , casi la mitad por apagones",
-     "url": "https://www.el-carabobeno.com/ovcs-venezuela-registro-unas-mil-protestas-en-septiembre-casi-la-mitad-por-apagones/",
-     "domain": "el-carabobeno.com",
-     "seendate": "20261022T011500Z"
-    },
-    {
-     "title": "Vente Venezuela desestima rumores sobre candidaturas regionales y municipales",
-     "url": "https://www.el-carabobeno.com/vente-venezuela-desestima-rumores-sobre-candidaturas-regionales-y-municipales/",
-     "domain": "el-carabobeno.com",
-     "seendate": "20261022T011500Z"
-    },
-    {
-     "title": "NYT : Muertes por sismos en Venezuela superarían la cifra oficial",
-     "url": "https://www.el-carabobeno.com/nyt-muertes-por-sismos-en-venezuela-superarian-la-cifra-oficial/",
-     "domain": "el-carabobeno.com",
-     "seendate": "20261022T011500Z"
-    },
-    {
-     "title": "Ritmo Candela apuesta por ser la nueva generación de la salsa venezolana",
-     "url": "https://ultimasnoticias.com.ve/chevere/ritmo-candela-fiesta-candela/",
-     "domain": "ultimasnoticias.com.ve",
-     "seendate": "20261022T011500Z"
-    },
-    {
-     "title": "Avanza rehabilitación del urbanismo Ríos de Venezuela en Baruta",
-     "url": "https://ultimasnoticias.com.ve/actualidad/rehabilitacion-urbanismo-rios-de-venezuela-baruta/",
-     "domain": "ultimasnoticias.com.ve",
-     "seendate": "20261022T011500Z"
-    },
-    {
-     "title": "Delcy Rodríguez suspende obligatoriedad de máquinas fiscales",
-     "url": "https://www.el-carabobeno.com/delcy-rodriguez-suspende-obligatoriedad-de-maquinas-fiscales/",
-     "domain": "el-carabobeno.com",
-     "seendate": "20261022T011500Z"
+     "seendate": "20261022T033000Z"
     },
     {
      "title": "Gobierno anuncia suspensión de la obligatoriedad de máquinas fiscales y reordenamiento de contribuyentes especiales",
-     "url": "https://ultimasnoticias.com.ve/apertura/gobierno-anuncia-suspension-de-la-obligatoriedad-de-maquinas-fiscales-y-reordenamiento-de-contribuyentes-especiales/",
+     "url": "https://ultimasnoticias.com.ve/economia/gobierno-anuncia-suspension-de-la-obligatoriedad-de-maquinas-fiscales-y-reordenamiento-de-contribuyentes-especiales/",
      "domain": "ultimasnoticias.com.ve",
-     "seendate": "20261022T011500Z"
+     "seendate": "20261022T033000Z"
     },
     {
-     "title": "ONU reconoce como un avance posible reunión entre Rusia , EEUU y China - Agencia Venezolana de Noticias",
-     "url": "https://avn.info.ve/onu-reconoce-como-un-avance-posible-reunion-entre-rusia-eeuu-y-china/",
-     "domain": "avn.info.ve",
-     "seendate": "20261022T010000Z"
-    },
-    {
-     "title": "Inauguran el Centro de Formación de Talento Hípico Deportivo Gustavo Ávila en La Rinconada",
-     "url": "https://avn.info.ve/inauguran-el-centro-de-formacion-de-talento-hipico-deportivo-gustavo-avila-en-la-rinconada/",
-     "domain": "avn.info.ve",
-     "seendate": "20261022T010000Z"
-    },
-    {
-     "title": "Misión Milagro realizó jornada oftalmológica en Monagas - Agencia Venezolana de Noticias",
-     "url": "https://avn.info.ve/mision-milagro-realizo-jornada-oftalmologica-en-monagas/",
-     "domain": "avn.info.ve",
-     "seendate": "20261022T010000Z"
-    },
-    {
-     "title": "Noveno día de protestas en Albania para exigir la renuncia de Edi Rama - Agencia Venezolana de Noticias",
-     "url": "https://avn.info.ve/noveno-dia-de-protestas-en-albania-para-exigir-la-renuncia-de-edi-rama/",
-     "domain": "avn.info.ve",
-     "seendate": "20261022T010000Z"
-    },
-    {
-     "title": "Inician mesas de trabajo para debate sobre la nueva Ley de Universidades - Agencia Venezolana de Noticias",
-     "url": "https://avn.info.ve/inician-mesas-de-trabajo-para-debate-sobre-la-nueva-ley-de-universidades/",
-     "domain": "avn.info.ve",
-     "seendate": "20261022T010000Z"
-    },
-    {
-     "title": "Habilitan a 486 . 414 ecuatorianos en el exterior para sufragar en elecciones de noviembre",
-     "url": "https://avn.info.ve/habilitan-a-486-414-ecuatorianos-en-el-exterior-para-sufragar-en-elecciones-de-noviembre/",
-     "domain": "avn.info.ve",
-     "seendate": "20261022T010000Z"
-    },
-    {
-     "title": "Presidenta Delcy Rodríguez envió misiva al papa León XIV para impulsar causas eclesiales",
-     "url": "https://avn.info.ve/presidenta-delcy-rodriguez-envio-misiva-al-papa-leon-xiv-para-impulsar-causas-religiosas/",
-     "domain": "avn.info.ve",
-     "seendate": "20261022T010000Z"
-    },
-    {
-     "title": "Monagas proyecta una siembra masiva de caraotas para el 2027 - Agencia Venezolana de Noticias",
-     "url": "https://avn.info.ve/monagas-proyecta-una-siembra-masiva-de-caraotas-para-el-2027/",
-     "domain": "avn.info.ve",
-     "seendate": "20261022T010000Z"
-    },
-    {
-     "title": "Venezuela y Americas Society abordan oportunidades de inversión en el país - Agencia Venezolana de Noticias",
-     "url": "https://avn.info.ve/venezuela-y-americas-society-abordan-oportunidades-de-inversion-en-el-pais/",
-     "domain": "avn.info.ve",
-     "seendate": "20261022T010000Z"
-    },
-    {
-     "title": "Delcy Rodríguez suspende obligatoriedad de máquinas fiscales y reduce contribuyentes especiales",
-     "url": "https://avn.info.ve/delcy-rodriguez-suspende-obligatoriedad-de-maquinas-fiscales-y-reduce-contribuyentes-especiales/",
-     "domain": "avn.info.ve",
-     "seendate": "20261022T010000Z"
-    },
-    {
-     "title": "Expediente FP11 - V - 2026 - 000654 – Correo del Caroní",
-     "url": "https://correodelcaroni.com/region/sucesos/expediente-fp11-v-2026-000654/",
-     "domain": "correodelcaroni.com",
-     "seendate": "20261022T004500Z"
-    },
-    {
-     "title": "Pensionados reciben Ingreso Integral equivalente a $69",
-     "url": "https://finanzasdigital.com/pensionados-reciben-ingreso-integral-octubre/",
-     "domain": "finanzasdigital.com",
-     "seendate": "20261022T003000Z"
-    },
-    {
-     "title": "Inicia la última plenaria del tercer ciclo de diálogo entre el Gobierno y la AN 2015",
-     "url": "https://www.globovision.com/politica/63455/inicia-la-ultima-plenaria-del-tercer-ciclo-de-dialogo-para-la-estabilidad-politica",
-     "domain": "globovision.com",
-     "seendate": "20261022T003000Z"
-    },
-    {
-     "title": "Presidenta anuncia sistema tributario interconectado para cobrar lo que se debe cobrar",
-     "url": "https://www.globovision.com/economia/63458/presidenta-anuncia-sistema-tributario-interconectado-para-cobrar-lo-que-se-debe-cobrar",
-     "domain": "globovision.com",
-     "seendate": "20261022T003000Z"
-    },
-    {
-     "title": "Seniat depura contribuyentes especiales de 132 . 000 a 44 . 000",
-     "url": "https://finanzasdigital.com/seniat-depura-contribuyentes-especiales-reduccion-padrron/",
-     "domain": "finanzasdigital.com",
-     "seendate": "20261022T003000Z"
-    },
-    {
-     "title": "Cerveceros de Milwaukee se encomiendan al poder de Jackson Chourio para vencer a las Rayas de Tampa Bay de Junior Caminero",
-     "url": "https://www.globovision.com/deportes/63437/cerveceros-de-milwaukee-se-encomiendan-al-poder-de-jackson-chourio-para-vencer-a-los-rayas-de-tampa",
-     "domain": "globovision.com",
-     "seendate": "20261022T003000Z"
-    },
-    {
-     "title": "Detuvieron a un presunto implicado en intoxicaciones escolares en Trujillo",
-     "url": "https://noticierodigital.com/2026/10/detuvieron-a-un-presunto-implicado-en-intoxicaciones-escolares-en-trujillo/",
-     "domain": "noticierodigital.com",
-     "seendate": "20261022T003000Z"
-    },
-    {
-     "title": "Delcy Rodríguez suspende la obligatoriedad de la máquina fiscal : Era una barrera de entrada para la formalización",
-     "url": "https://www.globovision.com/economia/63457/delcy-rodriguez-suspende-la-obligatoriedad-de-la-maquina-fiscal-era-una-barrera-de-entrada-para-la",
-     "domain": "globovision.com",
-     "seendate": "20261022T003000Z"
-    },
-    {
-     "title": "Tasa de Cambio BCV 22 de octubre de 2026 : 884 , 7496 Bs / USD ( +0 , 1532 %)",
-     "url": "https://finanzasdigital.com/tasa-de-cambio-bcv-22-octubre-2026/",
-     "domain": "finanzasdigital.com",
-     "seendate": "20261022T003000Z"
-    },
-    {
-     "title": "La selección femenina Sub15 de baloncesto se prepara en Caracas rumbo al Sudamericano",
-     "url": "https://www.globovision.com/deportes/63453/la-seleccion-femenina-sub15-de-baloncesto-se-prepara-en-caracas-rumbo-al-sudamericano",
-     "domain": "globovision.com",
-     "seendate": "20261022T003000Z"
-    },
-    {
-     "title": "La Amazonía también elige entre Lula y Bolsonaro",
-     "url": "https://talcualdigital.com/a-fondo/la-amazonia-tambien-elige-entre-lula-y-bolsonaro/",
+     "title": "Rodríguez deroga exigencia de máquinas fiscales del Seniat en comercios",
+     "url": "https://talcualdigital.com/noticias/rodriguez-anuncia-derogacion-de-exigencia-de-maquinas-fiscales-del-seniat-en-comercios/",
      "domain": "talcualdigital.com",
-     "seendate": "20261022T000000Z"
+     "seendate": "20261022T033000Z"
     },
     {
-     "title": "Recuperan cuerpo de un hombre tras doblete sísmico del 24 - Jun",
-     "url": "https://nuevodia.com.ve/recuperan-cuerpo-de-un-hombre-tras-doblete-sismico-del-24-jun-fotos/",
-     "domain": "nuevodia.com.ve",
-     "seendate": "20261021T233000Z"
+     "title": "Jorge Rodríguez dice tras el tercer ciclo del diálogo político que Venezuela mantiene el control sobre los ingresos por la venta de petróleo",
+     "url": "https://www.ntn24.com/noticias-actualidad/jorge-rodriguez-dice-tras-el-tercer-ciclo-del-dialogo-politico-que-venezuela-mantiene-el-control-sobre-los-ingresos-por-la-venta-de-petroleo-660254",
+     "domain": "ntn24.com",
+     "seendate": "20261022T033000Z"
+    },
+    {
+     "title": "Se reducen de 132 . 000 a 44 . 000 los contribuyentes especiales del Seniat , anuncia Presidenta",
+     "url": "https://www.globovision.com/economia/63460/se-reducen-de-132000-a-44000-los-contribuyentes-especiales-del-seniat",
+     "domain": "globovision.com",
+     "seendate": "20261022T033000Z"
+    },
+    {
+     "title": "¿ Juego trancado otra vez ?, por Teodoro Petkoff",
+     "url": "https://talcualdigital.com/teodoro/juego-trancado-otra-vez-por-teodoro-petkoff/",
+     "domain": "talcualdigital.com",
+     "seendate": "20261022T033000Z"
+    },
+    {
+     "title": "Cabello felicita al pueblo comunero por la participación en Segunda Consulta Nacional",
+     "url": "http://www.psuv.org.ve/portada/cabello-felicita-al-pueblo-comunero-por-participacion-segunda-consulta-nacional/",
+     "domain": "psuv.org.ve",
+     "seendate": "20261022T031500Z"
     }
    ]
   },
@@ -2085,12 +2007,6 @@
      "seendate": "20261021T184922Z"
     },
     {
-     "title": "Fiscalía allana oficinas del Municipio de Quito dentro de investigación por peculado",
-     "url": "https://eluniverso.com/politica/expedientes/fiscalia-allana-oficinas-municipio-quito-dentro-investigacion-peculado-nota/",
-     "domain": "El Universo",
-     "seendate": "20261021T175946Z"
-    },
-    {
      "title": "Caso Vocales: Fiscalía concluye con la presentación de la prueba del tráfico de influencias que acusa a Maribel Barreno y Juan José Morillo",
      "url": "https://eluniverso.com/politica/expedientes/caso-vocales-fiscalia-concluye-presentacion-prueba-trafico-influencias-maribel-barreno-juan-jose-morillo-nota/",
      "domain": "El Universo",
@@ -2117,30 +2033,6 @@
      "url": "https://elcomercio.pe/peru/fuertes-lluvias-en-piura-y-alerta-por-el-nino-en-vivo-hoy-miercoles-reportes-del-coen-inundaciones-en-la-ciudad-y-mas-de-ultima-hora-tdpe-noticia/",
      "domain": "El Comercio",
      "seendate": "20261022T030539Z"
-    },
-    {
-     "title": "Comité textil de la SNI: “La cadena de pagos del sector se está rompiendo”",
-     "url": "https://elcomercio.pe/economia/peru/comite-textil-de-la-sni-la-cadena-de-pagos-del-sector-se-esta-rompiendo-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261021T234846Z"
-    },
-    {
-     "title": "Perú-Petro: “Cheiron tiene suficiente capacidad para enfrentar el contrato del lote 192”",
-     "url": "https://elcomercio.pe/economia/peru/petroleo-gas-peru-petro-cheiron-tiene-suficiente-capacidad-para-enfrentar-el-contrato-del-lote-192-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261021T234547Z"
-    },
-    {
-     "title": "Turismo en las playas del norte pierde impulso: ¿cómo amenaza El Niño la temporada de verano?",
-     "url": "https://elcomercio.pe/economia/peru/turismo-en-playas-del-norte-reservas-para-el-verano-se-enfrian-ante-temor-por-el-nino-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261021T231553Z"
-    },
-    {
-     "title": "Citi estima dos escenarios para el crudo, ¿cuánto puede llegar a costar el barril Brent?",
-     "url": "https://elcomercio.pe/economia/peru/citi-espera-una-caida-de-precios-del-petroleo-brent-a-cuanto-se-podria-reducir-el-crudo-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261021T231531Z"
     },
     {
      "title": "Comisión Bicameral aprueba crédito suplementario de S/ 8.228 millones con prioridad en medidas para enfrentar el fenómeno de El Niño",
@@ -2177,23 +2069,95 @@
      "url": "https://elcomercio.pe/economia/peru/tu-empleador-registro-todos-tus-aportes-la-onp-explica-como-comprobarlo-en-minutos-l-ultimas-noticia/",
      "domain": "El Comercio",
      "seendate": "20261021T180037Z"
-    },
-    {
-     "title": "Gobierno evalúa autorizar la suspensión perfecta de labores en empresas afectadas por el fenómeno de El Niño",
-     "url": "https://elcomercio.pe/economia/peru/gobierno-evalua-autorizar-la-suspension-perfecta-de-labores-en-empresas-afectadas-por-el-fenomeno-de-el-nino-l-ultimas-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261021T142618Z"
-    },
-    {
-     "title": "Indecopi: Perú supera evaluación de la OCDE en protección al consumidor y avanza en proceso de adhesión",
-     "url": "https://elcomercio.pe/economia/peru/indecopi-peru-supera-evaluacion-de-la-ocde-en-proteccion-al-consumidor-y-avanza-en-proceso-de-adhesion-l-ultimas-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261021T141206Z"
     }
    ]
   },
   "BOL": {
    "articles": [
+    {
+     "title": "Senado aprueba listas de ascensos de las FFAA y la Policía",
+     "url": "https://www.opinion.com.bo/pais/senado-aprueba-listas-ascensos-ffaa-policia/20261021224057997998.html",
+     "domain": "opinion.com.bo",
+     "seendate": "20261022T043000Z"
+    },
+    {
+     "title": "EL DÍA - Noticias de Bolivia para el mundo",
+     "url": "https://www.eldia.com.bo/2026-10-21/cultura-espectaculos/adele-estaria-preparando-su-regreso-con-nuevo-album.html",
+     "domain": "eldia.com.bo",
+     "seendate": "20261022T033000Z"
+    },
+    {
+     "title": "Terror armado en calles : Delincuentes dispuestos a matar por un celular",
+     "url": "https://hoybolivia.com/Noticia.php?IdNoticia=374415",
+     "domain": "hoybolivia.com",
+     "seendate": "20261022T033000Z"
+    },
+    {
+     "title": "La inflación empujó a un millón de personas a la pobreza",
+     "url": "https://hoybolivia.com/Noticia.php?IdNoticia=374414",
+     "domain": "hoybolivia.com",
+     "seendate": "20261022T033000Z"
+    },
+    {
+     "title": "Corrupción en Aisem : tres altos funcionarios denunciados por cobros irregulares",
+     "url": "https://eldeber.com.bo/pais/corrupcion-aisem-tres-altos-funcionarios-denunciados-cobros-irregulares_1792633493",
+     "domain": "eldeber.com.bo",
+     "seendate": "20261022T031500Z"
+    },
+    {
+     "title": "Incendio forestal amenaza las turísticas islas peruanas de los Uros , en el lago Titicaca",
+     "url": "https://eldeber.com.bo/mundo/incendio-forestal-amenaza-turisticas-islas-peruanas-uros-lago-titicaca_1792632361",
+     "domain": "eldeber.com.bo",
+     "seendate": "20261022T031500Z"
+    },
+    {
+     "title": "Detienen en Santa Cruz a un israelí buscado por narcotráfico",
+     "url": "https://eldeber.com.bo/santa-cruz/detienen-santa-cruz-israeli-buscado-narcotrafico_1792635431",
+     "domain": "eldeber.com.bo",
+     "seendate": "20261022T031500Z"
+    },
+    {
+     "title": "Santa Cruz y Bolivia está en las oraciones del Papa León , asegura el gobernador Velasco",
+     "url": "https://eldeber.com.bo/santa-cruz/santa-cruz-bolivia-esta-oraciones-papa-leon-asegura-gobernador-velasco_1792629735",
+     "domain": "eldeber.com.bo",
+     "seendate": "20261022T031500Z"
+    },
+    {
+     "title": "Empresas automotrices respaldan el incremento de etanol en combustibles",
+     "url": "https://eju.tv/2026/10/empresas-automotrices-respaldan-el-incremento-de-etanol-en-combustibles/",
+     "domain": "eju.tv",
+     "seendate": "20261022T024500Z"
+    },
+    {
+     "title": "Policía interviene en la AISEM : Salud garantiza protección a los denunciantes",
+     "url": "https://eju.tv/2026/10/policia-interviene-en-la-aisem-salud-garantiza-proteccion-a-los-denunciantes/",
+     "domain": "eju.tv",
+     "seendate": "20261022T024500Z"
+    },
+    {
+     "title": "Real Potosí tumba a Bolívar y le quita su invicto de 18 partidos",
+     "url": "https://eju.tv/2026/10/real-potosi-tumba-a-bolivar-y-le-quita-su-invicto-de-18-partidos/",
+     "domain": "eju.tv",
+     "seendate": "20261022T024500Z"
+    },
+    {
+     "title": "Aprehenden a pareja investigada por la muerte de una joven en San Borja",
+     "url": "https://eju.tv/2026/10/aprehenden-a-pareja-investigada-por-la-muerte-de-una-joven-en-san-borja/",
+     "domain": "eju.tv",
+     "seendate": "20261022T024500Z"
+    },
+    {
+     "title": "Manfred anuncia la llegada de un empresario interesado en invertir en BoA",
+     "url": "https://eju.tv/2026/10/manfred-anuncia-la-llegada-de-un-empresario-interesado-en-invertir-en-boa/",
+     "domain": "eju.tv",
+     "seendate": "20261022T024500Z"
+    },
+    {
+     "title": "Aramayo destaca debate sobre productividad , empleo y tecnología en foro ministerial de 20 países",
+     "url": "https://eju.tv/2026/10/aramayo-destaca-debate-sobre-productividad-empleo-y-tecnologia-en-foro-ministerial-de-20-paises/",
+     "domain": "eju.tv",
+     "seendate": "20261022T024500Z"
+    },
     {
      "title": "Soboce afirma que su reclamo ante la CAN sigue en trámite y pide frenar el cobro de Bs 744 millones",
      "url": "https://www.erbol.com.bo/econom%C3%ADa/soboce-afirma-que-su-reclamo-ante-la-can-sigue-en-tr%C3%A1mite-y-pide-frenar-el-cobro-de-bs-744",
@@ -2333,184 +2297,10 @@
      "seendate": "20261021T181500Z"
     },
     {
-     "title": "EL DÍA - Noticias de Bolivia para el mundo",
-     "url": "https://www.eldia.com.bo/2026-10-21/santa-cruz/pronostican-hasta-42-c-en-santa-cruz-durante-los-proximos-cuatro-dias.html",
-     "domain": "eldia.com.bo",
-     "seendate": "20261021T174500Z"
-    },
-    {
      "title": "Paola Aguirre : « Que el crimen organizado sepa que no va a seguir encontrando refugio en Santa Cruz »",
      "url": "https://eju.tv/2026/10/paola-aguirre-que-el-crimen-organizado-sepa-que-no-va-a-seguir-encontrando-refugio-en-santa-cruz/",
      "domain": "eju.tv",
      "seendate": "20261021T171500Z"
-    },
-    {
-     "title": "Santa Cruz alberga el Sudamericano Senior Amateur con 200 deportistas",
-     "url": "https://eju.tv/2026/10/santa-cruz-alberga-el-sudamericano-senior-amateur-con-200-deportistas/",
-     "domain": "eju.tv",
-     "seendate": "20261021T171500Z"
-    },
-    {
-     "title": "Policía anuncia 230 efectivos para Santa Cruz y refuerzos cada 45 días contra el crimen organizado",
-     "url": "https://eju.tv/2026/10/policia-anuncia-230-efectivos-para-santa-cruz-y-refuerzos-cada-45-dias-contra-el-crimen-organizado/",
-     "domain": "eju.tv",
-     "seendate": "20261021T171500Z"
-    },
-    {
-     "title": "Futbol",
-     "url": "https://www.gol.com.bo/search?updated-max=2026-09-25T21:44:00-04:00&max-results=10",
-     "domain": "gol.com.bo",
-     "seendate": "20261021T163000Z"
-    },
-    {
-     "title": "Gobierno exige a Samuel nombres y pruebas de su denuncia de protección al narcotráfico",
-     "url": "https://eldeber.com.bo/pais/gobierno-exige-samuel-nombres-pruebas-denuncia-proteccion-narcotrafico_1792597419",
-     "domain": "eldeber.com.bo",
-     "seendate": "20261021T161500Z"
-    },
-    {
-     "title": "Construcción del nuevo hospital Oncológico se hará en un terreno cedido por la Alcaldía a la Gobernación",
-     "url": "https://eldeber.com.bo/santa-cruz/gobierno-transfiere-santa-cruz-terreno-construccion-nuevo-hospital-oncologico_1792597556",
-     "domain": "eldeber.com.bo",
-     "seendate": "20261021T161500Z"
-    },
-    {
-     "title": "Takenos hace historia en Bolivia : es la primera fintech constituida bajo la nueva regulación de la ASFI",
-     "url": "https://eldeber.com.bo/te-puede-interesar/takenos-hace-historia-bolivia-primera-fintech-constituida-nueva-regulacion-asfi_1792590135",
-     "domain": "eldeber.com.bo",
-     "seendate": "20261021T161500Z"
-    },
-    {
-     "title": "Lara y bancadas acuerdan priorizar interpelaciones y elección de autoridades",
-     "url": "https://www.erbol.com.bo/nacional/lara-y-bancadas-acuerdan-priorizar-interpelaciones-y-elecci%C3%B3n-de-autoridades",
-     "domain": "erbol.com.bo",
-     "seendate": "20261021T161500Z"
-    },
-    {
-     "title": "Llevan droga y les pagan con autos : la alerta de la Cámara Automotor por el lavado de dinero",
-     "url": "https://eldeber.com.bo/pais/llevan-droga-les-pagan-autos-alerta-camara-automotor-lavado-dinero_1792596888",
-     "domain": "eldeber.com.bo",
-     "seendate": "20261021T161500Z"
-    },
-    {
-     "title": "De un coro a los escenarios del mundo : la historia de Contrapunto",
-     "url": "https://eldeber.com.bo/cultura-y-entretenimiento/coro-escenarios-mundo-historia-contrapunto_1792595115",
-     "domain": "eldeber.com.bo",
-     "seendate": "20261021T161500Z"
-    },
-    {
-     "title": "Vladimir Suárez busca otro Grammy",
-     "url": "https://eldeber.com.bo/cultura-y-entretenimiento/vladimir-suarez-busca-otro-grammy_1792596500",
-     "domain": "eldeber.com.bo",
-     "seendate": "20261021T161500Z"
-    },
-    {
-     "title": "El marchista Jhamil Avendaño representará a Bolivia en los Juegos Olímpicos de la Juventud Dakar 2026",
-     "url": "https://www.erbol.com.bo/deporte/el-marchista-jhamil-avenda%C3%B1o-representar%C3%A1-bolivia-en-los-juegos-ol%C3%ADmpicos-de-la-juventud",
-     "domain": "erbol.com.bo",
-     "seendate": "20261021T161500Z"
-    },
-    {
-     "title": "Nadie quiere dejar a docentes sin salarios : Gobierno defiende la descentralización educativa",
-     "url": "https://eldeber.com.bo/pais/nadie-quiere-dejar-docentes-salarios-gobierno-defiende-descentralizacion-educativa_1792590004",
-     "domain": "eldeber.com.bo",
-     "seendate": "20261021T161500Z"
-    },
-    {
-     "title": "CAF anticipa un paquete inicial de $us 1 . 000 millones para enfrentar los efectos del Super Niño",
-     "url": "https://eldeber.com.bo/pais/caf-anticipa-paquete-inicial-us-1-000-millones-enfrentar-efectos-super-nino_1792594737",
-     "domain": "eldeber.com.bo",
-     "seendate": "20261021T161500Z"
-    },
-    {
-     "title": "Hospitales de Santa Cruz atienden con normalidad tras la suspensión del paro de trabajadores de salud",
-     "url": "https://eldeber.com.bo/santa-cruz/hospitales-santa-cruz-atienden-normalidad-suspension-paro-trabajadores-salud_1792586977",
-     "domain": "eldeber.com.bo",
-     "seendate": "20261021T161500Z"
-    },
-    {
-     "title": "Bolivia identifica 154 startups con retos para vender y financiarse",
-     "url": "https://eldeber.com.bo/economia/bolivia-identifica-154-startups-retos-vender-financiarse_1792594478",
-     "domain": "eldeber.com.bo",
-     "seendate": "20261021T161500Z"
-    },
-    {
-     "title": "Caso maderas : Exportadores bolivianos están susceptibles con Chile y pretenden que se restaure su reputación",
-     "url": "https://www.erbol.com.bo/econom%C3%ADa/caso-maderas-exportadores-bolivianos-est%C3%A1n-susceptibles-con-chile-y-pretenden-que-se",
-     "domain": "erbol.com.bo",
-     "seendate": "20261021T161500Z"
-    },
-    {
-     "title": "Juez chileno ordena suspender la quema de madera boliviana y levantar la reserva de la investigación",
-     "url": "https://www.opinion.com.bo/pais/juez-chileno-ordena-suspender-quema-madera-boliviana-levantar-reserva-investigacion/20261021081839997943.html",
-     "domain": "opinion.com.bo",
-     "seendate": "20261021T154500Z"
-    },
-    {
-     "title": "Municipios piden devolución de $us 701 millones al Banco Central",
-     "url": "https://eldeber.com.bo/pais/municipios-piden-devolucion-us-701-millones-banco-central_1792580349",
-     "domain": "eldeber.com.bo",
-     "seendate": "20261021T130000Z"
-    },
-    {
-     "title": "Caso Madera : juez chileno suspende la quema y abre paso a nueva pericia",
-     "url": "https://eldeber.com.bo/economia/caso-madera-juez-chileno-suspende-quema-abre-paso-nueva-pericia_1792579024",
-     "domain": "eldeber.com.bo",
-     "seendate": "20261021T130000Z"
-    },
-    {
-     "title": "La democracia también se aprende",
-     "url": "https://eldeber.com.bo/opinion/democracia-aprende_1792537356",
-     "domain": "eldeber.com.bo",
-     "seendate": "20261021T130000Z"
-    },
-    {
-     "title": "Cuidar hasta el final : ni encarnizamiento ni eutanasia",
-     "url": "https://eldeber.com.bo/opinion/cuidar-final-encarnizamiento-eutanasia_1792538460",
-     "domain": "eldeber.com.bo",
-     "seendate": "20261021T130000Z"
-    },
-    {
-     "title": "¿ Quién invierte e invertirá en Bolivia ?",
-     "url": "https://eldeber.com.bo/opinion/quien-invierte-invertira-bolivia_1792537577",
-     "domain": "eldeber.com.bo",
-     "seendate": "20261021T130000Z"
-    },
-    {
-     "title": "Unos 60 pacientes precisan trasplante de médula ósea y un proyecto trae esperanza",
-     "url": "https://eldeber.com.bo/santa-cruz/60-pacientes-precisan-trasplante-medula-osea-proyecto-trae-esperanza_1792581504",
-     "domain": "eldeber.com.bo",
-     "seendate": "20261021T130000Z"
-    },
-    {
-     "title": "Cara a cara",
-     "url": "https://eldeber.com.bo/opinion/cara-cara_1792538665",
-     "domain": "eldeber.com.bo",
-     "seendate": "20261021T130000Z"
-    },
-    {
-     "title": "¿ Qué dijeron Paz y Kast sobre la quema de nuestras maderas ?",
-     "url": "https://eldeber.com.bo/opinion/dijeron-paz-kast-quema-nuestras-maderas_1792538156",
-     "domain": "eldeber.com.bo",
-     "seendate": "20261021T130000Z"
-    },
-    {
-     "title": "Diez bolivianos y una deuda pendiente",
-     "url": "https://eldeber.com.bo/opinion/diez-bolivianos-deuda-pendiente_1792537099",
-     "domain": "eldeber.com.bo",
-     "seendate": "20261021T130000Z"
-    },
-    {
-     "title": "Restricción de ARCA golpea al comercio fronterizo entre Bolivia y …",
-     "url": "https://fmbolivia.com.bo/nacional/restriccion-de-arca-golpea-al-comercio-fronterizo-entre-bolivia-y-argentina-y-podria-subir-el-precio-de-la-harina-y-otros-productos-21441",
-     "domain": "fmbolivia.com.bo",
-     "seendate": "20261021T124500Z"
-    },
-    {
-     "title": "Accidente en la doble vía a La Guardia deja un vehículo volcado y daños materiales",
-     "url": "https://eju.tv/2026/10/accidente-en-la-doble-via-a-la-guardia-deja-un-vehiculo-volcado-y-danos-materiales/",
-     "domain": "eju.tv",
-     "seendate": "20261021T123000Z"
     }
    ]
   },
@@ -2881,16 +2671,34 @@
   "ARG": {
    "articles": [
     {
-     "title": "Javier Milei y sus medidas, en vivo: el Presidente cuestionó las encuestas: “¿Podés vivir 10 días sin comer y sin beber?\"",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-llamo-a-lula-zurdo-ladron-dias-antes-del-balotaje-nid21102026/",
-     "domain": "La Nación",
-     "seendate": "20261022T040120Z"
-    },
-    {
      "title": "El Gobierno consiguió aprobar su proyecto de discapacidad con el respaldo del peronismo",
      "url": "https://www.lanacion.com.ar/politica/el-oficialismo-logro-el-apoyo-del-peronismo-y-se-encamina-a-aprobar-su-proyecto-de-discapacidad-nid21102026/",
      "domain": "La Nación",
-     "seendate": "20261022T035357Z"
+     "seendate": "20261022T050039Z"
+    },
+    {
+     "title": "Javier Milei y sus medidas, en vivo: durante su gira en Madrid, el mandatario acusó al presidente español de “dictador”",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-durante-su-gira-en-madrid-el-mandatario-acuso-al-presidente-nid22102026/",
+     "domain": "La Nación",
+     "seendate": "20261022T050038Z"
+    },
+    {
+     "title": "Gabriel Rolón, psicólogo: “La mayoría de las personas tienen desgraciadamente parejas que no querrían tener”",
+     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicologo-la-mayoria-de-las-personas-tienen-desgraciadamente-parejas-que-no-querrian-nid22102026/",
+     "domain": "La Nación",
+     "seendate": "20261022T050000Z"
+    },
+    {
+     "title": "El Gobierno declaró como grupos terroristas al Cártel de Sinaloa y a otras cinco bandas vinculadas al narcotráfico",
+     "url": "https://www.lanacion.com.ar/politica/el-gobierno-declaro-como-grupos-terroristas-al-cartel-de-sinaloa-y-a-otras-cinco-bandas-vinculadas-nid22102026/",
+     "domain": "La Nación",
+     "seendate": "20261022T045716Z"
+    },
+    {
+     "title": "Milei cuestionó las encuestas en España: “¿Vos podés vivir diez días sin comer y sin beber?\"",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-llamo-a-lula-zurdo-ladron-dias-antes-del-balotaje-nid21102026/",
+     "domain": "La Nación",
+     "seendate": "20261022T040120Z"
     },
     {
      "title": "Obras en Ezeiza: reducen la pista principal y hay cambios en los vuelos por la distancia de despegue requerida",
