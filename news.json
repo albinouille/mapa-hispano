@@ -1,13 +1,25 @@
 {
- "updated": "2026-10-22T12:07:14+00:00",
+ "updated": "2026-10-22T13:23:16+00:00",
  "countries": {
   "ESP": {
    "articles": [
     {
-     "title": "Última hora de la actualidad política, en directo | El PP defiende los vídeos de IA de la campaña porque no tienen una “finalidad espuria”",
+     "title": "La Guardia Civil investiga a miembros de dos ONG de Ceuta por repartir aerosoles de gas pimienta y armas blancas",
+     "url": "https://elpais.com/espana/2026-10-22/la-guardia-civil-investiga-a-miembros-de-dos-ong-de-ceuta-por-repartir-aerosoles-de-gas-pimienta-y-armas-blancas.html",
+     "domain": "El País",
+     "seendate": "20261022T123730Z"
+    },
+    {
+     "title": "Última hora de la actualidad política, en directo | Felipe González confirma que votará en blanco y afirma que si Milei visita España “15 veces más, es posible que gane Sánchez”",
      "url": "https://elpais.com/espana/2026-10-22/ultima-hora-de-la-actualidad-politica-en-directo.html",
      "domain": "El País",
-     "seendate": "20261022T114251Z"
+     "seendate": "20261022T123540Z"
+    },
+    {
+     "title": "Los presupuestos extremeños condenan a la asfixia al Consejo de la Juventud y a la cooperación internacional de la región",
+     "url": "https://elpais.com/espana/2026-10-22/los-presupuestos-extremenos-condenan-a-la-asfixia-al-consejo-de-la-juventud-y-a-la-cooperacion-internacional-al-desarrollo.html",
+     "domain": "El País",
+     "seendate": "20261022T115517Z"
     },
     {
      "title": "Toni Comín, tras jurar la Constitución en el Congreso: “Este derecho al pataleo confirma nuestra victoria”",
@@ -64,7 +76,7 @@
      "seendate": "20261022T093233Z"
     },
     {
-     "title": "Desahuciado de madrugada el físico que vivía alquilado en Burjassot (Valencia): “Como si fuera un terrorista de Al Qaeda”",
+     "title": "Desahuciado el físico que vivía alquilado en Burjassot (Valencia): “Como si fuera un terrorista de Al Qaeda”",
      "url": "https://elpais.com/espana/comunidad-valenciana/2026-10-22/desahuciado-de-madrugada-el-fisico-que-vivia-alquilado-en-burjassot-valencia-es-una-punetera-pesadilla.html",
      "domain": "El País",
      "seendate": "20261022T092338Z"
@@ -112,12 +124,6 @@
      "seendate": "20261022T033001Z"
     },
     {
-     "title": "Una calle de Madrid como retrato de la vivienda pública: 18 pisos cerrados, 18 oportunidades perdidas",
-     "url": "https://elpais.com/espana/madrid/2026-10-22/retrato-de-la-vivienda-publica-en-una-calle-de-madrid-18-pisos-vacios-18-oportunidades-perdidas.html",
-     "domain": "El País",
-     "seendate": "20261022T033000Z"
-    },
-    {
      "title": "Exposición de tiburones en Cosmocaixa: necesitará un barco más grande",
      "url": "https://elpais.com/espana/catalunya/2026-10-21/exposicion-de-tiburones-en-cosmocaixa-necesitara-un-barco-mas-grande.html",
      "domain": "El País",
@@ -130,22 +136,10 @@
      "seendate": "20261021T161610Z"
     },
     {
-     "title": "El Constitucional rechaza el amparo por la ‘ley de nietos’ y deja en el aire el voto de 160.000 españoles",
-     "url": "https://elpais.com/espana/2026-10-21/el-constitucional-rechaza-el-amparo-por-la-ley-de-nietos-con-el-voto-en-contra-de-dos-magistrados-progresistas.html",
-     "domain": "El País",
-     "seendate": "20261021T122109Z"
-    },
-    {
      "title": "El jurado popular encuentra culpables por unanimidad a Agustín y Erika por matar a Natalia Silva a tiros por una pelea familiar",
      "url": "https://elpais.com/espana/madrid/2026-10-21/el-jurado-popular-encuentra-culpables-por-unanimidad-a-agustin-y-erika-por-matar-a-natalia-silva-a-tiros-por-una-pelea-familiar.html",
      "domain": "El País",
      "seendate": "20261021T112646Z"
-    },
-    {
-     "title": "Detenido el presunto autor del crimen de la mujer apuñalada en una urbanización de Carabanchel",
-     "url": "https://elpais.com/espana/madrid/2026-10-21/detenido-el-presunto-asesino-de-una-mujer-en-una-urbanizacion-de-carabanchel.html",
-     "domain": "El País",
-     "seendate": "20261021T054500Z"
     },
     {
      "title": "El Gobierno de Ayuso se niega a negociar con los profesores en huelga: “Es intolerable, nos están despreciando”",
@@ -240,30 +234,6 @@
      "url": "https://www.eluniversal.com.mx/metropoli/madres-buscadoras-levantan-bloqueo-en-la-mexico-toluca-tras-mas-de-36-horas-sostuvieron-reunion-con-autoridades-del-edomex/",
      "domain": "El Universal",
      "seendate": "20261022T063834Z"
-    },
-    {
-     "title": "\"El IMSS esta a un paso de entrar a terapia intensiva\"; Con los de Casa condiciones en el sector de salud",
-     "url": "https://www.eluniversal.com.mx/nacion/el-imss-esta-a-un-paso-de-entrar-a-terapia-intensiva-con-los-de-casa-condiciones-en-el-sector-de-salud/",
-     "domain": "El Universal",
-     "seendate": "20261022T042525Z"
-    },
-    {
-     "title": "Morena y aliados en Diputados aprueban Ley Antimemes; turnan al Ejecutivo",
-     "url": "https://www.eluniversal.com.mx/nacion/morena-y-aliados-en-diputados-aprueban-ley-antimemes-turnan-al-ejecutivo/",
-     "domain": "El Universal",
-     "seendate": "20261022T040049Z"
-    },
-    {
-     "title": "Escoltas armados ya no podrán acceder al pleno de la Cámara de Diputados, señala Monreal; \"es inadmisible\"",
-     "url": "https://www.eluniversal.com.mx/nacion/escoltas-armados-ya-no-podran-acceder-al-pleno-de-la-camara-de-diputados-senala-monreal-es-inadmisible/",
-     "domain": "El Universal",
-     "seendate": "20261022T035443Z"
-    },
-    {
-     "title": "Mesa directiva del Senado pide a Cancillería acceso a salas diplomáticas en el AICM; \"Morena está ávido de privilegios\": Anaya",
-     "url": "https://www.eluniversal.com.mx/nacion/mesa-directiva-del-senado-pide-a-cancilleria-acceso-a-sala-diplomatica-en-el-aicm-morena-esta-avido-de-privilegios-anaya/",
-     "domain": "El Universal",
-     "seendate": "20261022T034925Z"
     }
    ]
   },
@@ -1114,6 +1084,12 @@
   "CRI": {
    "articles": [
     {
+     "title": "Dos temblores de 4,1 y 4,3 magnitud preliminar en Panamá se registran en Costa Rica",
+     "url": "https://www.nacion.com/sucesos/dos-temblores-de-41-y-43-de-magnitud-preliminar-en/6RPIE5U7PVG4PDP3BBWYBJCDEM/story/",
+     "domain": "La Nación",
+     "seendate": "20261022T122928Z"
+    },
+    {
      "title": "Llegan los empujes fríos a Costa Rica: el primero traerá vientos de hasta 45 km/h y lluvias",
      "url": "https://www.nacion.com/sucesos/llegan-los-empujes-frios-a-costa-rica-el-primero/2Q3C5BFJJZB2NB4ZUZ57VPS5MM/story/",
      "domain": "La Nación",
@@ -1274,24 +1250,6 @@
      "url": "https://www.nacion.com/sucesos/zapatos-o-comida-victima-de-los-family-laden/ETZEPHWGLNFANPTWZTC4LFTGIY/story/",
      "domain": "La Nación",
      "seendate": "20261021T172215Z"
-    },
-    {
-     "title": "Cortes de luz en Heredia: ESPH programa suspensión este viernes 23 de octubre",
-     "url": "https://www.nacion.com/el-pais/cortes-de-luz-en-heredia-esph-programa-suspension/KX7J5LWQQ5FLZE3MTPDM2FGRXE/story/",
-     "domain": "La Nación",
-     "seendate": "20261021T165604Z"
-    },
-    {
-     "title": "Diego Miranda mueve sus fichas electorales: estos son los planes para su partido Juntos San José",
-     "url": "https://www.nacion.com/politica/diego-miranda-mueve-sus-fichas-electorales-estos/CXA75VMNLJFZ3MCS62YX5OAJEQ/story/",
-     "domain": "La Nación",
-     "seendate": "20261021T163642Z"
-    },
-    {
-     "title": "Cortes de luz del ICE afectarán comunidades de Puntarenas y Cartago este viernes 23 de octubre",
-     "url": "https://www.nacion.com/el-pais/cortes-de-luz-del-ice-afectaran-comunidades-de/VMD4BWKOSVEAJDFEZH5HBMADYA/story/",
-     "domain": "La Nación",
-     "seendate": "20261021T162115Z"
     }
    ]
   },
@@ -1440,10 +1398,16 @@
   "CUB": {
    "articles": [
     {
-     "title": "Cafecito informativo del jueves 22 de octubre de 2026",
-     "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-jueves-22-octubre_7_1132249.html",
+     "title": "Mario Díaz-Balart recibe en Miami el Premio Campeón de la Libertad 2026 de la NED",
+     "url": "https://www.14ymedio.com/cuba/migracion/mario-diaz-balart-recibe-miami_1_1132256.html",
      "domain": "14ymedio",
-     "seendate": "20261022T110139Z"
+     "seendate": "20261022T125943Z"
+    },
+    {
+     "title": "Los artemiseños sueñan con resucitar el complejo turístico de Soroa con el sector privado",
+     "url": "https://www.14ymedio.com/cuba/artemisenos-suenan-resucitar-complejo-turistico_1_1132255.html",
+     "domain": "14ymedio",
+     "seendate": "20261022T123203Z"
     },
     {
      "title": "Asesinada una mujer en Gibara a cuchilladas y delante de dos niñas",
@@ -1555,22 +1519,22 @@
   "COL": {
    "articles": [
     {
-     "title": "Tensión por la aparición de un cilindro con emblemas de las disidencias de las Farc en el oriente de Cali",
+     "title": "Tensión por la aparición de un cilindro con emblemas de las disidencias de las Farc en el oriente de Cali: descartan la presencia de explosivos",
      "url": "https://www.eltiempo.com/colombia/cali/tension-por-la-aparicion-de-un-cilindro-con-emblemas-de-las-disidencias-de-las-farc-en-el-oriente-de-cali-3595393",
      "domain": "El Tiempo",
-     "seendate": "20261022T114656Z"
+     "seendate": "20261022T130124Z"
+    },
+    {
+     "title": "Tarifas de energía, crisis de Air-e y Afinia: Senado reúne este jueves en Barranquilla al Gobierno y la CREG para exigir compromisos",
+     "url": "https://www.eltiempo.com/colombia/barranquilla/tarifas-de-energia-crisis-de-air-e-y-afinia-senado-reune-hoy-en-barranquilla-al-gobierno-y-la-creg-para-exigir-compromisos-3595402",
+     "domain": "El Tiempo",
+     "seendate": "20261022T125424Z"
     },
     {
      "title": "Nacieron en Medellín los cuatrillizos genéticamente idénticos de una pareja de Caucasia: un caso excepcional que podría ser único en Colombia",
      "url": "https://www.eltiempo.com/colombia/medellin/nacieron-en-medellin-los-cuatrillizos-identicos-de-una-pareja-de-caucasia-un-caso-excepcional-que-podria-ser-unico-en-colombia-3595378",
      "domain": "El Tiempo",
      "seendate": "20261022T111108Z"
-    },
-    {
-     "title": "El giro que daría investigación por desaparición de la modelo bogotana María Alejandra Molina en Cali: se activó alerta por otra desaparecida",
-     "url": "https://www.eltiempo.com/colombia/cali/el-giro-que-daria-investigacion-por-desaparicion-de-la-modelo-bogotana-maria-alejandra-molina-en-cali-se-activo-alerta-por-otra-desaparecida-3595324",
-     "domain": "El Tiempo",
-     "seendate": "20261022T111003Z"
     },
     {
      "title": "¡Ojo, conductor! Pico y placa en Cali para el jueves 22 de octubre de 2026: estas placas tendrán restricción",
@@ -1929,6 +1893,30 @@
   "ECU": {
    "articles": [
     {
+     "title": "Manta recuerda los 30 años de la tragedia aérea de La Dolorosa",
+     "url": "https://eluniverso.com/comunidad/ecuador/tragedia-de-million-air-en-manta-30-anos-de-memoria-nota/",
+     "domain": "El Universo",
+     "seendate": "20261022T130000Z"
+    },
+    {
+     "title": "¿El viernes 30 de octubre será feriado en Ecuador?",
+     "url": "https://eluniverso.com/comunidad/ecuador/el-viernes-30-de-octubre-sera-feriado-en-ecuador-nota/",
+     "domain": "El Universo",
+     "seendate": "20261022T130000Z"
+    },
+    {
+     "title": "Guayas y Esmeraldas concentran siete de los once ríos desbordados en Ecuador",
+     "url": "https://eluniverso.com/comunidad/ecuador/guayas-y-esmeraldas-concentran-siete-de-los-once-rios-desbordados-en-ecuador-nota/",
+     "domain": "El Universo",
+     "seendate": "20261022T123727Z"
+    },
+    {
+     "title": "Ocho candidaturas a la Alcaldía de Guayaquil están en firme, según el CNE",
+     "url": "https://eluniverso.com/politica/elecciones/ocho-candidaturas-a-la-alcaldia-de-guayaquil-estan-en-firme-segun-el-cne-nota/",
+     "domain": "El Universo",
+     "seendate": "20261022T121500Z"
+    },
+    {
      "title": "Capacitación, ingresos y servicio a la comunidad: Dalember, Fátima y Karen, tres testimonios de beneficiarios del programa Jóvenes en Acción",
      "url": "https://eluniverso.com/politica/ejecutivo/capacitacion-ingresos-y-servicio-a-la-comunidad-dalember-fatima-y-karen-tres-testimonios-de-beneficiarios-del-programa-jovenes-en-accion-nota/",
      "domain": "El Universo",
@@ -2053,17 +2041,17 @@
      "url": "https://eluniverso.com/comunidad/ecuador/incendio-forestal-afecta-al-sector-de-cahuaji-en-la-provincia-de-chimborazo-nota/",
      "domain": "El Universo",
      "seendate": "20261021T194644Z"
-    },
-    {
-     "title": "Caso Vocales: Fiscalía concluye con la presentación de la prueba del tráfico de influencias que acusa a Maribel Barreno y Juan José Morillo",
-     "url": "https://eluniverso.com/politica/expedientes/caso-vocales-fiscalia-concluye-presentacion-prueba-trafico-influencias-maribel-barreno-juan-jose-morillo-nota/",
-     "domain": "El Universo",
-     "seendate": "20261021T175336Z"
     }
    ]
   },
   "PER": {
    "articles": [
+    {
+     "title": "Piura: lluvias intensas con descargas eléctricas seguirán desde hoy hasta el domingo 25 de octubre, según Senamhi",
+     "url": "https://elcomercio.pe/peru/piura/piura-lluvias-intensas-con-descargas-electricas-seguiran-desde-hoy-hasta-el-domingo-25-de-octubre-segun-senamhi-apuesplan-ultimas-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261022T131426Z"
+    },
     {
      "title": "Último temblor en Perú hoy, jueves 22 de octubre: reporte del IGP, lugar y magnitud",
      "url": "https://elcomercio.pe/peru/temblor-en-peru-hoy-reporte-del-igp-epicentro-y-magnitud-del-sismo-tdpe-noticia/",
@@ -2077,16 +2065,10 @@
      "seendate": "20261022T110001Z"
     },
     {
-     "title": "Lluvias en el norte del Perú EN VIVO: Estado de emergencia en Piura, Tumbes y Trujillo minuto a minuto",
+     "title": "Lluvias en el norte del Perú EN VIVO: últimas noticias del estado de emergencia en Piura, Tumbes y Trujillo",
      "url": "https://elcomercio.pe/peru/piura-y-el-norte-del-peru-bajo-lluvias-intensas-ultimas-noticias-alerta-por-el-nino-e-informe-del-coen-en-vivo-lbposting-noticia/",
      "domain": "El Comercio",
      "seendate": "20261022T032110Z"
-    },
-    {
-     "title": "Puno: Incendio de gran magnitud afecta los totorales del lago Titicaca",
-     "url": "https://elcomercio.pe/peru/puno/puno-incendio-de-gran-magnitud-afecta-los-totorales-del-lago-titicaca-ultimas-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261022T031749Z"
     }
    ]
   },
@@ -2683,6 +2665,228 @@
   "ARG": {
    "articles": [
     {
+     "title": "Milei, en la tapa de los diarios de España: polémica, insultos y un efusivo abrazo",
+     "url": "https://www.lanacion.com.ar/politica/milei-en-la-tapa-de-los-diarios-de-espana-polemica-insultos-y-un-efusivo-abrazo-nid22102026/",
+     "domain": "La Nación",
+     "seendate": "20261022T131526Z"
+    },
+    {
+     "title": "Calendario Anses: cuándo cobro la AUH en octubre 2026 si mi DNI termina en 6",
+     "url": "https://www.lanacion.com.ar/economia/calendario-anses-cuando-cobro-la-auh-en-octubre-2026-si-mi-dni-termina-en-6-nid22102026/",
+     "domain": "La Nación",
+     "seendate": "20261022T131200Z"
+    },
+    {
+     "title": "Riesgo sanitario: la Argentina suspendió importaciones de productos aviares de una zona de Brasil",
+     "url": "https://www.lanacion.com.ar/economia/campo/riesgo-sanitario-la-argentina-suspendio-importaciones-de-productos-aviares-de-una-zona-de-brasil-nid22102026/",
+     "domain": "La Nación",
+     "seendate": "20261022T130947Z"
+    },
+    {
+     "title": "Cuando ya no quedaban tratamientos, diseñaron con IA un virus para combatir una bacteria superresistente",
+     "url": "https://www.lanacion.com.ar/sociedad/cuando-ya-no-quedaban-tratamientos-disenaron-con-ia-un-virus-para-combatir-una-bacteria-nid22102026/",
+     "domain": "La Nación",
+     "seendate": "20261022T130700Z"
+    },
+    {
+     "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este jueves 22 de octubre, minuto a minuto",
+     "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid22102026/",
+     "domain": "La Nación",
+     "seendate": "20261022T130411Z"
+    },
+    {
+     "title": "Servicio doméstico en noviembre 2026: cuánto cobran, quiénes reciben el aumento y cómo se incorpora el bono",
+     "url": "https://www.lanacion.com.ar/economia/servicio-domestico-en-noviembre-de-2026-cuanto-cobran-las-empleadas-quienes-reciben-el-aumento-y-nid22102026/",
+     "domain": "La Nación",
+     "seendate": "20261022T130107Z"
+    },
+    {
+     "title": "Javier Milei y sus medidas, en vivo: durante su gira en Madrid, el mandatario acusó al presidente español de “dictador”",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-durante-su-gira-en-madrid-el-mandatario-acuso-al-presidente-nid22102026/",
+     "domain": "La Nación",
+     "seendate": "20261022T125807Z"
+    },
+    {
+     "title": "Arrojó paquetes desde el auto mientras escapaba: secuestran casi 19 kilos de marihuana",
+     "url": "https://www.lanacion.com.ar/seguridad/arrojo-paquetes-desde-el-auto-mientras-escapaba-secuestran-casi-19-kilos-de-marihuana-nid22102026/",
+     "domain": "La Nación",
+     "seendate": "20261022T125718Z"
+    },
+    {
+     "title": "Con las PASO suspendidas, el PJ chaqueño acordó internas abiertas y anticipa un probable escenario nacional",
+     "url": "https://www.lanacion.com.ar/politica/con-las-paso-suspendidas-el-pj-chaqueno-acordo-internas-abiertas-y-anticipa-un-probable-escenario-nid22102026/",
+     "domain": "La Nación",
+     "seendate": "20261022T124450Z"
+    },
+    {
+     "title": "Quién es el dueño de las yeguas de polo que murieron tras ser alcanzadas por un rayo en el Jockey Club de San Isidro",
+     "url": "https://www.lanacion.com.ar/sociedad/quien-es-el-dueno-de-las-yeguas-de-polo-que-murieron-tras-ser-alcanzadas-por-un-rayo-en-el-jockey-nid21102026/",
+     "domain": "La Nación",
+     "seendate": "20261022T124437Z"
+    },
+    {
+     "title": "El río Paraná rompió las defensas de una importante ciudad turística e inundó tres barrios",
+     "url": "https://www.lanacion.com.ar/sociedad/el-rio-parana-rompio-las-defensas-de-una-importante-ciudad-turistica-e-inundo-tres-barrios-nid21102026/",
+     "domain": "La Nación",
+     "seendate": "20261022T124108Z"
+    },
+    {
+     "title": "Elisa Carrió cargó contra el Gobierno: “La recesión es enorme y algunas cosas me recuerdan demasiado al pasado”",
+     "url": "https://www.lanacion.com.ar/politica/elisa-carrio-cargo-contra-el-gobierno-la-recesion-es-enorme-y-algunas-cosas-me-recuerdan-demasiado-nid21102026/",
+     "domain": "La Nación",
+     "seendate": "20261022T124036Z"
+    },
+    {
+     "title": "Intensifican por tierra y aire la búsqueda de un docente desaparecido: una señal de celular abre una pista",
+     "url": "https://www.lanacion.com.ar/sociedad/intensifican-por-tierra-y-aire-la-busqueda-de-un-docente-desaparecido-una-senal-de-celular-abre-una-nid21102026/",
+     "domain": "La Nación",
+     "seendate": "20261022T124006Z"
+    },
+    {
+     "title": "Costos y misterios de los siete viajes que hizo Javier Milei a España",
+     "url": "https://www.lanacion.com.ar/politica/costos-y-misterios-de-los-siete-viajes-que-hizo-javier-milei-a-espana-nid22102026/",
+     "domain": "La Nación",
+     "seendate": "20261022T123509Z"
+    },
+    {
+     "title": "Fentanilo contaminado: la exjefa de la Anmat pidió ser sobreseída y afirmó que “no tuvo responsabilidad directa”",
+     "url": "https://www.lanacion.com.ar/sociedad/fentanilo-contaminado-la-exjefa-de-la-anmat-pidio-ser-sobreseida-y-afirmo-que-no-tuvo-nid22102026/",
+     "domain": "La Nación",
+     "seendate": "20261022T123426Z"
+    },
+    {
+     "title": "Anses: cuándo cobro la jubilación de septiembre si mi DNI termina en 5",
+     "url": "https://www.lanacion.com.ar/economia/anses-cuando-cobro-la-jubilacion-de-septiembre-si-mi-dni-termina-en-5-nid22102026/",
+     "domain": "La Nación",
+     "seendate": "20261022T122400Z"
+    },
+    {
+     "title": "Inti Bonomo, especialista en Ciencias Ambientales, sobre la evolución del Súper Niño: “Va a seguir creciendo y el pico va a ser en diciembre”",
+     "url": "https://www.lanacion.com.ar/sociedad/inti-bonomo-especialista-en-ciencias-ambientales-sobre-la-evolucion-del-super-nino-va-a-seguir-nid21102026/",
+     "domain": "La Nación",
+     "seendate": "20261022T121613Z"
+    },
+    {
+     "title": "Se aproxima un cambio de tiempo en Buenos Aires con tormentas localmente fuertes, caída de granizo y un nuevo “bajón térmico”: las zonas afectadas",
+     "url": "https://www.lanacion.com.ar/sociedad/se-aproxima-un-cambio-de-tiempo-en-buenos-aires-con-tormentas-localmente-fuertes-caida-de-granizo-y-nid22102026/",
+     "domain": "La Nación",
+     "seendate": "20261022T121610Z"
+    },
+    {
+     "title": "Gabriel Rolón, psicólogo: “La mayoría de las personas tienen desgraciadamente parejas que no querrían tener”",
+     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicologo-la-mayoria-de-las-personas-tienen-desgraciadamente-parejas-que-no-querrian-nid22102026/",
+     "domain": "La Nación",
+     "seendate": "20261022T121607Z"
+    },
+    {
+     "title": "A qué hora llegan las tormentas fuertes a Buenos Aires hoy, jueves 22 de octubre",
+     "url": "https://www.lanacion.com.ar/sociedad/a-que-hora-llegan-las-tormentas-fuertes-a-buenos-aires-hoy-segun-el-smn-nid21102026/",
+     "domain": "La Nación",
+     "seendate": "20261022T121557Z"
+    },
+    {
+     "title": "Inti Bonomo, experto en Ciencias Ambientales, sobre por qué la nubosidad ayuda a comprender los efectos del Súper Niño: “Tenemos una gran capa de nubes y esto influye sobre la temperatura”",
+     "url": "https://www.lanacion.com.ar/sociedad/inti-bonomo-experto-en-ciencias-ambientales-sobre-por-que-la-nubosidad-ayuda-a-comprender-los-nid22102026/",
+     "domain": "La Nación",
+     "seendate": "20261022T121554Z"
+    },
+    {
+     "title": "Súper Niño: qué se sabe sobre los efectos que tendrá el fenómeno en la Argentina y cuándo impactará con más fuerza",
+     "url": "https://www.lanacion.com.ar/sociedad/super-nino-que-se-sabe-sobre-los-efectos-que-tendra-el-fenomeno-en-la-argentina-y-cuando-impactara-nid19102026/",
+     "domain": "La Nación",
+     "seendate": "20261022T121551Z"
+    },
+    {
+     "title": "La frase de El Principito sobre el amor propio y los vínculos: “Se debe pedir a cada cual lo que está a su alcance realizar”",
+     "url": "https://www.lanacion.com.ar/sociedad/la-frase-de-el-principito-sobre-el-amor-propio-y-los-vinculos-se-debe-pedir-a-cada-cual-lo-que-esta-nid20102026/",
+     "domain": "La Nación",
+     "seendate": "20261022T121547Z"
+    },
+    {
+     "title": "Tony Robbins, experto en crecimiento personal: “La razón por la que sufrís: estás enfocado en vos”",
+     "url": "https://www.lanacion.com.ar/sociedad/tony-robbins-experto-en-crecimiento-personal-la-razon-por-la-que-sufris-estas-enfocado-en-vos-nid18102026/",
+     "domain": "La Nación",
+     "seendate": "20261022T121544Z"
+    },
+    {
+     "title": "Gabriel Rolón: “La felicidad es ese momento de eternidad donde lo que fuiste, querés ser, te atormenta y temés coexisten”",
+     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-cualquier-intento-de-alcanzar-una-plenitud-total-o-absoluta-esta-condenado-al-fracaso-nid20102026/",
+     "domain": "La Nación",
+     "seendate": "20261022T121529Z"
+    },
+    {
+     "title": "Arthur Brooks, catedrático de Harvard, de 62 años: “Sentirse feliz no es lo mismo que entender de qué está hecha la felicidad”",
+     "url": "https://www.lanacion.com.ar/sociedad/arthur-brooks-catedratico-de-harvard-de-62-anos-sentirse-feliz-no-es-lo-mismo-que-entender-de-que-nid20102026/",
+     "domain": "La Nación",
+     "seendate": "20261022T121524Z"
+    },
+    {
+     "title": "Gabriel Rolón, psicólogo: “El amor sano es el invento más maravilloso”",
+     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicologo-el-amor-sano-es-el-invento-mas-maravilloso-nid19102026/",
+     "domain": "La Nación",
+     "seendate": "20261022T121511Z"
+    },
+    {
+     "title": "Gabriel Rolón, psicoanalista: “La gracia del amor es abrazar la imperfección del otro”",
+     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-la-gracia-del-amor-es-abrazar-la-imperfeccion-del-otro-nid17102026/",
+     "domain": "La Nación",
+     "seendate": "20261022T121508Z"
+    },
+    {
+     "title": "Robin Sharma, experto crecimiento personal: “Un mal día para el ego es un buen día para el alma”",
+     "url": "https://www.lanacion.com.ar/sociedad/robin-sharma-experto-crecimiento-personal-un-mal-dia-para-el-ego-es-un-buen-dia-para-el-alma-nid18102026/",
+     "domain": "La Nación",
+     "seendate": "20261022T121455Z"
+    },
+    {
+     "title": "Un cardiólogo advierte sobre los microplásticos: por qué no conviene meter plástico en el microondas",
+     "url": "https://www.lanacion.com.ar/sociedad/un-cardiologo-advierte-sobre-los-microplasticos-por-que-no-conviene-meter-plastico-en-el-microondas-nid22102026/",
+     "domain": "La Nación",
+     "seendate": "20261022T121449Z"
+    },
+    {
+     "title": "Un especialista en Ciencias Ambientales explicó en detalle el impacto del fenómeno del “Súper Niño” y cuándo se intensificará en la Argentina",
+     "url": "https://www.lanacion.com.ar/sociedad/un-especialista-explico-en-detalle-el-impacto-del-fenomeno-del-super-nino-y-cuando-se-intensificara-nid20102026/",
+     "domain": "La Nación",
+     "seendate": "20261022T121441Z"
+    },
+    {
+     "title": "Joseph Pilates, creador del método de entrenamiento: “La correcta postura sólo será posible cuando el mecanismo completo de funcionamiento del cuerpo esté bajo control”",
+     "url": "https://www.lanacion.com.ar/sociedad/joseph-pilates-creador-del-metodo-de-entrenamiento-la-correcta-postura-solo-sera-posible-cuando-el-nid19102026/",
+     "domain": "La Nación",
+     "seendate": "20261022T121439Z"
+    },
+    {
+     "title": "Gabriel Rolón, psicoanalista: “Nos acostumbramos y terminamos transitando en el amor con el vehículo un poco averiado”",
+     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-nos-acostumbramos-y-terminamos-transitando-en-el-amor-con-el-vehiculo-un-nid21102026/",
+     "domain": "La Nación",
+     "seendate": "20261022T121432Z"
+    },
+    {
+     "title": "La frase de Séneca que inspira a la psiquiatra Marian Rojas Estapé: “La suerte es donde confluyen la preparación y la oportunidad”",
+     "url": "https://www.lanacion.com.ar/sociedad/la-frase-de-seneca-que-inspira-a-la-psiquiatra-marian-rojas-estape-la-suerte-es-donde-confluyen-la-nid21102026/",
+     "domain": "La Nación",
+     "seendate": "20261022T121428Z"
+    },
+    {
+     "title": "Mel Robbins, experta en crecimiento personal: “Si pensás en algo que tenés que hacer durante más de 5 segundos, tu cerebro contamina tu motivación para hacerlo”",
+     "url": "https://www.lanacion.com.ar/sociedad/mel-robbins-experta-en-crecimiento-personal-si-pensas-en-algo-que-tenes-que-hacer-durante-mas-de-5-nid19102026/",
+     "domain": "La Nación",
+     "seendate": "20261022T121425Z"
+    },
+    {
+     "title": "Un empresario murió en la misma ruta que su padre 7 años después al volcar su auto deportivo",
+     "url": "https://www.lanacion.com.ar/sociedad/un-empresario-murio-en-la-misma-ruta-que-su-padre-7-anos-despues-al-volcar-su-auto-deportivo-nid22102026/",
+     "domain": "La Nación",
+     "seendate": "20261022T121229Z"
+    },
+    {
+     "title": "Hay 140.000 hectáreas: el “cultivo estratégico” conectado con el mundo que promete un boom como combustible",
+     "url": "https://www.lanacion.com.ar/economia/campo/hay-40000-hectareas-el-cultivo-estrategico-conectado-con-el-mundo-que-promete-un-boom-como-nid21102026/",
+     "domain": "La Nación",
+     "seendate": "20261022T120624Z"
+    },
+    {
      "title": "Presentan una publicación técnica para promover las Buenas Prácticas Agrícolas en aplicaciones con drones",
      "url": "https://www.lanacion.com.ar/economia/campo/tecnologias/presentan-una-publicacion-tecnica-para-promover-las-buenas-practicas-agricolas-en-aplicaciones-con-nid22102026/",
      "domain": "La Nación",
@@ -2695,91 +2899,13 @@
      "seendate": "20261022T120000Z"
     },
     {
-     "title": "Inti Bonomo, especialista en Ciencias Ambientales, sobre la evolución del Súper Niño: “Va a seguir creciendo y el pico va a ser en diciembre”",
-     "url": "https://www.lanacion.com.ar/sociedad/inti-bonomo-especialista-en-ciencias-ambientales-sobre-la-evolucion-del-super-nino-va-a-seguir-nid21102026/",
-     "domain": "La Nación",
-     "seendate": "20261022T115958Z"
-    },
-    {
-     "title": "Se aproxima un cambio de tiempo en Buenos Aires con tormentas localmente fuertes, caída de granizo y un nuevo “bajón térmico”: las zonas afectadas",
-     "url": "https://www.lanacion.com.ar/sociedad/se-aproxima-un-cambio-de-tiempo-en-buenos-aires-con-tormentas-localmente-fuertes-caida-de-granizo-y-nid22102026/",
-     "domain": "La Nación",
-     "seendate": "20261022T115955Z"
-    },
-    {
-     "title": "Gabriel Rolón, psicólogo: “La mayoría de las personas tienen desgraciadamente parejas que no querrían tener”",
-     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicologo-la-mayoria-de-las-personas-tienen-desgraciadamente-parejas-que-no-querrian-nid22102026/",
-     "domain": "La Nación",
-     "seendate": "20261022T115950Z"
-    },
-    {
-     "title": "A qué hora llegan las tormentas fuertes a Buenos Aires hoy, jueves 22 de octubre",
-     "url": "https://www.lanacion.com.ar/sociedad/a-que-hora-llegan-las-tormentas-fuertes-a-buenos-aires-hoy-segun-el-smn-nid21102026/",
-     "domain": "La Nación",
-     "seendate": "20261022T115936Z"
-    },
-    {
-     "title": "Inti Bonomo, experto en Ciencias Ambientales, sobre por qué la nubosidad ayuda a comprender los efectos del Súper Niño: “Tenemos una gran capa de nubes y esto influye sobre la temperatura”",
-     "url": "https://www.lanacion.com.ar/sociedad/inti-bonomo-experto-en-ciencias-ambientales-sobre-por-que-la-nubosidad-ayuda-a-comprender-los-nid22102026/",
-     "domain": "La Nación",
-     "seendate": "20261022T115933Z"
-    },
-    {
-     "title": "Súper Niño: qué se sabe sobre los efectos que tendrá el fenómeno en la Argentina y cuándo impactará con más fuerza",
-     "url": "https://www.lanacion.com.ar/sociedad/super-nino-que-se-sabe-sobre-los-efectos-que-tendra-el-fenomeno-en-la-argentina-y-cuando-impactara-nid19102026/",
-     "domain": "La Nación",
-     "seendate": "20261022T115930Z"
-    },
-    {
-     "title": "La frase de El Principito sobre el amor propio y los vínculos: “Se debe pedir a cada cual lo que está a su alcance realizar”",
-     "url": "https://www.lanacion.com.ar/sociedad/la-frase-de-el-principito-sobre-el-amor-propio-y-los-vinculos-se-debe-pedir-a-cada-cual-lo-que-esta-nid20102026/",
-     "domain": "La Nación",
-     "seendate": "20261022T115926Z"
-    },
-    {
-     "title": "Tony Robbins, experto en crecimiento personal: “La razón por la que sufrís: estás enfocado en vos”",
-     "url": "https://www.lanacion.com.ar/sociedad/tony-robbins-experto-en-crecimiento-personal-la-razon-por-la-que-sufris-estas-enfocado-en-vos-nid18102026/",
-     "domain": "La Nación",
-     "seendate": "20261022T115920Z"
-    },
-    {
-     "title": "Gabriel Rolón: “La felicidad es ese momento de eternidad donde lo que fuiste, querés ser, te atormenta y temés coexisten”",
-     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-cualquier-intento-de-alcanzar-una-plenitud-total-o-absoluta-esta-condenado-al-fracaso-nid20102026/",
-     "domain": "La Nación",
-     "seendate": "20261022T115823Z"
-    },
-    {
-     "title": "Arthur Brooks, catedrático de Harvard, de 62 años: “Sentirse feliz no es lo mismo que entender de qué está hecha la felicidad”",
-     "url": "https://www.lanacion.com.ar/sociedad/arthur-brooks-catedratico-de-harvard-de-62-anos-sentirse-feliz-no-es-lo-mismo-que-entender-de-que-nid20102026/",
-     "domain": "La Nación",
-     "seendate": "20261022T115818Z"
-    },
-    {
-     "title": "Milei, en la tapa de los diarios de España: polémica, insultos y un efusivo abrazo",
-     "url": "https://www.lanacion.com.ar/politica/milei-en-la-tapa-de-los-diarios-de-espana-polemica-insultos-y-un-efusivo-abrazo-nid22102026/",
-     "domain": "La Nación",
-     "seendate": "20261022T115737Z"
-    },
-    {
      "title": "El Gobierno consiguió aprobar su proyecto de discapacidad con el respaldo del peronismo",
      "url": "https://www.lanacion.com.ar/politica/el-oficialismo-logro-el-apoyo-del-peronismo-y-se-encamina-a-aprobar-su-proyecto-de-discapacidad-nid21102026/",
      "domain": "La Nación",
      "seendate": "20261022T115616Z"
     },
     {
-     "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este jueves 22 de octubre, minuto a minuto",
-     "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid22102026/",
-     "domain": "La Nación",
-     "seendate": "20261022T115545Z"
-    },
-    {
-     "title": "Javier Milei y sus medidas, en vivo: durante su gira en Madrid, el mandatario acusó al presidente español de “dictador”",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-durante-su-gira-en-madrid-el-mandatario-acuso-al-presidente-nid22102026/",
-     "domain": "La Nación",
-     "seendate": "20261022T114930Z"
-    },
-    {
-     "title": "Para la Justicia la docente desaparecida en Corrientes fue asesinada: detuvieron al capataz de una estancia por el crimen",
+     "title": "Para la Justicia, la docente desaparecida en Corrientes fue asesinada: detuvieron al capataz de una estancia por el crimen",
      "url": "https://www.lanacion.com.ar/seguridad/detuvieron-a-un-capataz-de-estancia-por-el-femicidio-de-la-docente-desaparecida-en-corrientes-nid22102026/",
      "domain": "La Nación",
      "seendate": "20261022T114817Z"
@@ -2813,96 +2939,6 @@
      "url": "https://www.lanacion.com.ar/economia/campo/lucas-maglio-ingeniero-en-acuicultura-sobre-un-negocio-en-auge-quizas-haya-llegado-el-momento-de-nid21102026/",
      "domain": "La Nación",
      "seendate": "20261022T110924Z"
-    },
-    {
-     "title": "Hay 40.000 hectáreas: el “cultivo estratégico” conectado con el mundo que promete un boom como combustible",
-     "url": "https://www.lanacion.com.ar/economia/campo/hay-40000-hectareas-el-cultivo-estrategico-conectado-con-el-mundo-que-promete-un-boom-como-nid21102026/",
-     "domain": "La Nación",
-     "seendate": "20261022T110838Z"
-    },
-    {
-     "title": "Hay alerta naranja y amarilla por tormentas, vientos y Zonda para este jueves 22 de octubre: las provincias afectadas",
-     "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-naranja-y-amarilla-por-tormentas-lluvias-y-zonda-para-este-jueves-22-de-octubre-las-nid22102026/",
-     "domain": "La Nación",
-     "seendate": "20261022T110317Z"
-    },
-    {
-     "title": "SUAF de Anses: el monto de las asignaciones familiares en noviembre de 2026",
-     "url": "https://www.lanacion.com.ar/economia/suaf-de-anses-el-monto-de-las-asignaciones-familiares-en-noviembre-de-2026-nid21102026/",
-     "domain": "La Nación",
-     "seendate": "20261022T103451Z"
-    },
-    {
-     "title": "A cuánto llega la PUAM en noviembre de 2026 con el aumento confirmado",
-     "url": "https://www.lanacion.com.ar/economia/a-cuanto-llega-la-puam-en-noviembre-de-2026-con-el-aumento-confirmado-nid20102026/",
-     "domain": "La Nación",
-     "seendate": "20261022T103449Z"
-    },
-    {
-     "title": "PNC de Anses: cuál es el monto de las Pensiones No Contributivas en noviembre de 2026",
-     "url": "https://www.lanacion.com.ar/economia/pnc-de-anses-cual-es-el-monto-de-las-pensiones-no-contributivas-en-noviembre-de-2026-nid19102026/",
-     "domain": "La Nación",
-     "seendate": "20261022T103447Z"
-    },
-    {
-     "title": "Monto de la Asignación Universal por Hijo: de cuánto es la AUH en noviembre 2026, con el aumento oficial",
-     "url": "https://www.lanacion.com.ar/economia/monto-de-la-asignacion-universal-por-hijo-de-cuanto-es-la-auh-en-noviembre-2026-con-el-aumento-nid15102026/",
-     "domain": "La Nación",
-     "seendate": "20261022T103444Z"
-    },
-    {
-     "title": "Jubilaciones de Anses: cuánto cobro en noviembre 2026, con el bono oficial y el aumento confirmado",
-     "url": "https://www.lanacion.com.ar/economia/jubilaciones-de-anses-cuanto-cobro-en-noviembre-2026-con-el-bono-oficial-y-el-aumento-confirmado-nid14102026/",
-     "domain": "La Nación",
-     "seendate": "20261022T103442Z"
-    },
-    {
-     "title": "Cuándo cobro Anses: el calendario completo de octubre 2026",
-     "url": "https://www.lanacion.com.ar/economia/cuando-cobro-anses-el-calendario-completo-de-octubre-2026-nid30092026/",
-     "domain": "La Nación",
-     "seendate": "20261022T103439Z"
-    },
-    {
-     "title": "Con tuberías y dragado: así es el megaplan porteño que renueva 18 kilómetros de conductos pluviales para prevenir los efectos de El Niño",
-     "url": "https://www.lanacion.com.ar/sociedad/con-tuberias-y-dragado-asi-es-el-megaplan-porteno-que-renueva-18-kilometros-de-conductos-pluviales-nid21102026/",
-     "domain": "La Nación",
-     "seendate": "20261022T103429Z"
-    },
-    {
-     "title": "Cuándo se festeja Halloween 2026 en la Argentina",
-     "url": "https://www.lanacion.com.ar/sociedad/cuando-se-festeja-halloween-2026-en-la-argentina-nid07102026/",
-     "domain": "La Nación",
-     "seendate": "20261022T103335Z"
-    },
-    {
-     "title": "Cuándo es Halloween en la Argentina 2026",
-     "url": "https://www.lanacion.com.ar/sociedad/cuando-es-halloween-en-la-argentina-2026-nid24092026/",
-     "domain": "La Nación",
-     "seendate": "20261022T103332Z"
-    },
-    {
-     "title": "La explicación del Gobierno sobre por qué Milei usó una venda en el cuello durante su viaje a España",
-     "url": "https://www.lanacion.com.ar/politica/la-explicacion-del-gobierno-sobre-por-que-milei-uso-una-venda-en-el-cuello-durante-su-viaje-a-espana-nid21102026/",
-     "domain": "La Nación",
-     "seendate": "20261022T102432Z"
-    },
-    {
-     "title": "San Juan Pablo II: esta es su historia y la oración que hay que rezar para pedir su ayuda",
-     "url": "https://www.lanacion.com.ar/sociedad/san-juan-pablo-ii-esta-es-su-historia-y-la-oracion-que-hay-que-rezar-para-pedir-su-ayuda-nid22102026/",
-     "domain": "La Nación",
-     "seendate": "20261022T102031Z"
-    },
-    {
-     "title": "Fecha de cobro de Anses: el cronograma de pagos para este jueves 22 de octubre",
-     "url": "https://www.lanacion.com.ar/economia/fecha-de-cobro-de-anses-el-cronograma-de-pagos-para-este-jueves-22-de-octubre-nid22102026/",
-     "domain": "La Nación",
-     "seendate": "20261022T100710Z"
-    },
-    {
-     "title": "Jaime Saavedra, del Banco Mundial: “Hay un riesgo grande de tener estudiantes dependientes de la IA”",
-     "url": "https://www.lanacion.com.ar/sociedad/jaime-saavedra-del-banco-mundial-hay-un-riesgo-grande-de-tener-estudiantes-dependientes-de-la-ia-nid22102026/",
-     "domain": "La Nación",
-     "seendate": "20261022T093336Z"
     }
    ]
   },
@@ -3276,31 +3312,25 @@
      "title": "Alerta meteorológica, EN VIVO: advierten sobre lluvias y tormentas eléctricas para todo el país",
      "url": "https://www.abc.com.py/nacionales/2026/10/22/alerta-meteorologica-en-vivo-advierten-sobre-lluvias-y-tormentas-electricas-para-todo-el-pais/",
      "domain": "ABC Color",
-     "seendate": "20261022T114120Z"
+     "seendate": "20261022T131915Z"
+    },
+    {
+     "title": "Crecida del río Paraná: preocupa la situación en Cerrito, aislada por inundaciones",
+     "url": "https://www.abc.com.py/nacionales/2026/10/22/crecida-del-rio-parana-preocupa-la-situacion-en-cerrito-aislada-por-inundaciones/",
+     "domain": "ABC Color",
+     "seendate": "20261022T123758Z"
+    },
+    {
+     "title": "Falleció Luis Cubas Grau, destacado empresario y expresidente del IPS",
+     "url": "https://www.abc.com.py/nacionales/2026/10/22/fallecio-luis-cubas-grau-destacado-empresario-y-expresidente-del-ips/",
+     "domain": "ABC Color",
+     "seendate": "20261022T122545Z"
     },
     {
      "title": "Alerta meteorológica, EN VIVO: rigen avisos por lluvias y tormentas eléctricas para todo el país",
      "url": "https://www.abc.com.py/nacionales/2026/10/21/alerta-meteorologica-en-vivo-rigen-avisos-por-lluvias-y-tormentas-electricas-para-todo-el-pais/",
      "domain": "ABC Color",
      "seendate": "20261022T112353Z"
-    },
-    {
-     "title": "¡Atención, conductores! Bloquean calle en el microcentro de Asunción por trabajos de ANDE",
-     "url": "https://www.abc.com.py/nacionales/2026/10/22/atencion-conductores-bloquean-calle-en-el-microcentro-de-asuncion-por-trabajos-de-la-ande/",
-     "domain": "ABC Color",
-     "seendate": "20261022T104530Z"
-    },
-    {
-     "title": "Falta de buses internos en Asunción: vecinos denuncian “violencia económica”",
-     "url": "https://www.abc.com.py/nacionales/2026/10/22/falta-de-buses-internos-en-asuncion-vecinos-denuncian-violencia-economica/",
-     "domain": "ABC Color",
-     "seendate": "20261022T100947Z"
-    },
-    {
-     "title": "Educación sexual: MEC ignoró dictámenes de Salud y Niñez para aplicar en libros",
-     "url": "https://www.abc.com.py/nacionales/2026/10/22/educacion-sexual-mec-ignoro-dictamenes-de-salud-y-ninez-para-aplicar-en-libros/",
-     "domain": "ABC Color",
-     "seendate": "20261022T093000Z"
     }
    ]
   },
