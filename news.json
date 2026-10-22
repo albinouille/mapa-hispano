@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T17:08:02+00:00",
+ "updated": "2026-10-22T18:02:35+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -52,7 +52,7 @@
      "seendate": "20261022T132759Z"
     },
     {
-     "title": "La Guardia Civil investiga a miembros de dos ONG de Ceuta por repartir aerosoles de gas pimienta y armas blancas",
+     "title": "La Guardia Civil detiene a dos miembros de ONG de Ceuta por repartir aerosoles de gas pimienta y armas blancas",
      "url": "https://elpais.com/espana/2026-10-22/la-guardia-civil-investiga-a-miembros-de-dos-ong-de-ceuta-por-repartir-aerosoles-de-gas-pimienta-y-armas-blancas.html",
      "domain": "El País",
      "seendate": "20261022T123730Z"
@@ -100,12 +100,6 @@
      "seendate": "20261022T103804Z"
     },
     {
-     "title": "El juez propone juzgar a otros cuatro exjefes de ETA por el atentado mortal de Santa Pola de 2002",
-     "url": "https://elpais.com/espana/2026-10-22/el-juez-propone-juzgar-a-otros-cuatro-exjefes-de-eta-por-el-atentado-mortal-de-santa-pola-de-2002.html",
-     "domain": "El País",
-     "seendate": "20261022T093233Z"
-    },
-    {
      "title": "Desahuciado el físico que vivía alquilado en Burjassot (Valencia): “Como si fuera un terrorista de Al Qaeda”",
      "url": "https://elpais.com/espana/comunidad-valenciana/2026-10-22/desahuciado-de-madrugada-el-fisico-que-vivia-alquilado-en-burjassot-valencia-es-una-punetera-pesadilla.html",
      "domain": "El País",
@@ -145,6 +139,30 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Sheinbaum admite que suavizar curvas del Tren Interoceánico llevará \"algunos años\"; dice que busca mayor competitividad",
+     "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-admite-que-suavizar-curvas-del-tren-interoceanico-llevara-algunos-anos-dice-que-busca-mayor-competitividad/",
+     "domain": "El Universal",
+     "seendate": "20261022T174456Z"
+    },
+    {
+     "title": "Alcaldía Magdalena Contreras evalúa daños estructurales tras incendio en San Jerónimo Lídice; evacúan asilo de adultos mayores",
+     "url": "https://www.eluniversal.com.mx/metropoli/alcaldia-magdalena-contreras-evalua-danos-estructurales-tras-incendio-en-san-jeronimo-lidice-evacuan-asilo-de-adultos-mayores/",
+     "domain": "El Universal",
+     "seendate": "20261022T174057Z"
+    },
+    {
+     "title": "Arranca audiencia de César Jáuregui para definir su vinculación a proceso; familiares y amigos exigen su libertad",
+     "url": "https://www.eluniversal.com.mx/estados/arranca-audiencia-de-cesar-jauregui-para-definir-su-vinculacion-a-proceso-familiares-y-amigos-exigen-su-libertad/",
+     "domain": "El Universal",
+     "seendate": "20261022T173756Z"
+    },
+    {
+     "title": "Hombre muere en vía pública en calles de Gustavo A. Madero; no presentaba huellas visibles de violencia",
+     "url": "https://www.eluniversal.com.mx/metropoli/hombre-muere-en-via-publica-en-calles-de-gustavo-a-madero-no-presentaba-huellas-visibles-de-violencia/",
+     "domain": "El Universal",
+     "seendate": "20261022T171701Z"
+    },
     {
      "title": "Atacan a balazos autobús con estudiantes en Escuinapa, Sinaloa; despliegan operativo para localizar a los responsables",
      "url": "https://www.eluniversal.com.mx/estados/atacan-a-balazos-autobus-con-estudiantes-en-escuinapa-sinaloa-despliegan-operativo-para-localizar-a-los-responsables/",
@@ -258,78 +276,6 @@
      "url": "https://www.eluniversal.com.mx/nacion/la-mananera-de-sheinbaum-22-de-octubre-minuto-a-minuto-3/",
      "domain": "El Universal",
      "seendate": "20261022T132923Z"
-    },
-    {
-     "title": "Emboscan a policías en Cocotitlán; muere uno y otro está herido",
-     "url": "https://www.eluniversal.com.mx/metropoli/emboscan-a-policias-en-cocotitlan-muere-uno-y-otro-esta-herido/",
-     "domain": "El Universal",
-     "seendate": "20261022T091047Z"
-    },
-    {
-     "title": "Ataque armado deja 4 muertos en Ecatepec",
-     "url": "https://www.eluniversal.com.mx/metropoli/ataque-armado-deja-4-muertos-en-ecatepec/",
-     "domain": "El Universal",
-     "seendate": "20261022T091027Z"
-    },
-    {
-     "title": "Aprueban hasta 36 años de cárcel por violencia ácida",
-     "url": "https://www.eluniversal.com.mx/metropoli/aprueban-hasta-36-anos-de-carcel-por-violencia-acida/",
-     "domain": "El Universal",
-     "seendate": "20261022T090957Z"
-    },
-    {
-     "title": "MC denuncia promoción anticipada en Tlalpan",
-     "url": "https://www.eluniversal.com.mx/metropoli/mc-denuncia-promocion-anticipada-en-tlalpan/",
-     "domain": "El Universal",
-     "seendate": "20261022T090941Z"
-    },
-    {
-     "title": "“Si es necesario pararemos a México”",
-     "url": "https://www.eluniversal.com.mx/nacion/si-es-necesario-pararemos-a-mexico/",
-     "domain": "El Universal",
-     "seendate": "20261022T083900Z"
-    },
-    {
-     "title": "Sindicalizados del IMSS marchan y rechazan alza salarial de 8%",
-     "url": "https://www.eluniversal.com.mx/nacion/sindicalizados-del-imss-marchan-y-rechazan-alza-salarial-de-8/",
-     "domain": "El Universal",
-     "seendate": "20261022T083800Z"
-    },
-    {
-     "title": "Viggiano es dueña de terreno en San Miguel de Allende; exclusivo fraccionamiento cuenta con viñedo y campo de golf",
-     "url": "https://www.eluniversal.com.mx/nacion/viggiano-es-duena-de-terreno-en-san-miguel-de-allende-exclusivo-fraccionamiento-cuenta-con-vinedo-y-campo-de-golf/",
-     "domain": "El Universal",
-     "seendate": "20261022T083700Z"
-    },
-    {
-     "title": "Cruje el sistema de pensiones del IMSS; frenan modalidad 40",
-     "url": "https://www.eluniversal.com.mx/nacion/cruje-el-sistema-de-pensiones-del-imss-frenan-modalidad-40/",
-     "domain": "El Universal",
-     "seendate": "20261022T083600Z"
-    },
-    {
-     "title": "Agentes de la CIA eran fantasmas andantes en Chihuahua",
-     "url": "https://www.eluniversal.com.mx/nacion/agentes-de-la-cia-eran-fantasmas-andantes-en-chihuahua/",
-     "domain": "El Universal",
-     "seendate": "20261022T083500Z"
-    },
-    {
-     "title": "Con cempasúchil reciben el Día de Muertos",
-     "url": "https://www.eluniversal.com.mx/estados/con-cempasuchil-reciben-el-dia-de-muertos/",
-     "domain": "El Universal",
-     "seendate": "20261022T080100Z"
-    },
-    {
-     "title": "Oposición va contra iniciativa de Ley de Rentas; PVEM aún no fija postura",
-     "url": "https://www.eluniversal.com.mx/metropoli/oposicion-va-contra-iniciativa-de-ley-de-rentas-pvem-aun-no-fija-postura/",
-     "domain": "El Universal",
-     "seendate": "20261022T080000Z"
-    },
-    {
-     "title": "Madres buscadoras levantan bloqueo en la México-Toluca tras más de 36 horas; sostuvieron reunión con autoridades del Edomex",
-     "url": "https://www.eluniversal.com.mx/metropoli/madres-buscadoras-levantan-bloqueo-en-la-mexico-toluca-tras-mas-de-36-horas-sostuvieron-reunion-con-autoridades-del-edomex/",
-     "domain": "El Universal",
-     "seendate": "20261022T063834Z"
     }
    ]
   },
@@ -1174,6 +1120,30 @@
   "CRI": {
    "articles": [
     {
+     "title": "Falla eléctrica paraliza operaciones en la torre de control del Juan Santamaría por casi una hora",
+     "url": "https://www.nacion.com/el-pais/falla-electrica-paraliza-operaciones-en-la-torre/VMZX3NJSRJFKJJK4Z7GWWERGA4/story/",
+     "domain": "La Nación",
+     "seendate": "20261022T175518Z"
+    },
+    {
+     "title": "¿Es el reo fallecido en cárcel de Puntarenas uno de los denunciantes de golpizas?",
+     "url": "https://www.nacion.com/sucesos/es-el-reo-fallecido-en-carcel-de-puntarenas-uno-de/OJGS4UOBN5FGNGYYNBQH4L65OM/story/",
+     "domain": "La Nación",
+     "seendate": "20261022T174028Z"
+    },
+    {
+     "title": "Marta Esquivel propone dividir la Junta Directiva de la CCSS en dos: estos serían los cambios",
+     "url": "https://www.nacion.com/politica/marta-esquivel-propone-dividir-la-junta-directiva/WW5BCC6S5NBPDKYCS4JNNYQ3WU/story/",
+     "domain": "La Nación",
+     "seendate": "20261022T172901Z"
+    },
+    {
+     "title": "OIJ detiene a hombre en Matina por presunta tenencia y difusión de material de explotación sexual infantil",
+     "url": "https://www.nacion.com/sucesos/oij-detiene-a-hombre-en-matina-por-presunta/XJ5ID55IJNFFPHL7IOFDPXFJ5Q/story/",
+     "domain": "La Nación",
+     "seendate": "20261022T171158Z"
+    },
+    {
      "title": "Estos son los siete nuevos embajadores de Costa Rica en Europa, Asia y América",
      "url": "https://www.nacion.com/politica/estos-son-los-siete-nuevos-embajadores-de-costa/6UQPYVNMEBFSTF7KK6GBZX7I4A/story/",
      "domain": "La Nación",
@@ -1322,30 +1292,6 @@
      "url": "https://www.nacion.com/sucesos/laura-fernandez-confirma-investigacion/L55SNG4A7ZD5VDF7GL7ABW2QBU/story/",
      "domain": "La Nación",
      "seendate": "20261021T230539Z"
-    },
-    {
-     "title": "Laura Fernández sobre reelección de Carlo Díaz: ‘Tampoco voy a ser hipócrita en desearle lo mejor’",
-     "url": "https://www.nacion.com/politica/laura-fernandez-sobre-reeleccion-de-carlo-diaz/75G2KB3XS5FFFO7GOIMIDOQDOY/story/",
-     "domain": "La Nación",
-     "seendate": "20261021T225035Z"
-    },
-    {
-     "title": "Millones que chofer de Policía Municipal de Heredia habría robado pertenecían a grupo de agricultores",
-     "url": "https://www.nacion.com/sucesos/millones-que-chofer-de-policia-municipal-de/YR3F2HS4JVEAVNJ3GKKP4GTWQU/story/",
-     "domain": "La Nación",
-     "seendate": "20261021T224500Z"
-    },
-    {
-     "title": "Carlo Díaz explica coincidencia con exnovia de Guobin Tam en chicharronera: ‘Él no estaba en el lugar y yo no la conocía a ella’",
-     "url": "https://www.nacion.com/politica/carlo-diaz-explica-coincidencia-con-exnovia-de/FRPK43NESBAO7FSZM2WAEXKXJY/story/",
-     "domain": "La Nación",
-     "seendate": "20261021T210518Z"
-    },
-    {
-     "title": "Municipalidad de Heredia se pronuncia tras detención de funcionario sospechoso de millonario robo en La Perla",
-     "url": "https://www.nacion.com/sucesos/municipalidad-de-heredia-se-pronuncia-tras/VALVXWHVJNDK7NR7K7WHKODLKQ/story/",
-     "domain": "La Nación",
-     "seendate": "20261021T210513Z"
     }
    ]
   },
@@ -1500,6 +1446,18 @@
   "CUB": {
    "articles": [
     {
+     "title": "El mar se abre a los cubanos con el estreno de la primera tienda náutica en La Habana",
+     "url": "https://www.14ymedio.com/cuba/mar-abre-cubanos-estreno-primera_1_1132267.html",
+     "domain": "14ymedio",
+     "seendate": "20261022T171946Z"
+    },
+    {
+     "title": "Se dispara el número de vehículos eléctricos, pero faltan 'solineras'",
+     "url": "https://www.14ymedio.com/cuba/dispara-numero-vehiculos-electricos-faltan_1_1132266.html",
+     "domain": "14ymedio",
+     "seendate": "20261022T171443Z"
+    },
+    {
      "title": "Mario Díaz-Balart recibe en Miami el Premio Campeón de la Libertad 2026 de la NED",
      "url": "https://www.14ymedio.com/cuba/migracion/mario-diaz-balart-recibe-miami_1_1132256.html",
      "domain": "14ymedio",
@@ -1597,6 +1555,30 @@
   "COL": {
    "articles": [
     {
+     "title": "Dos de los implicados en el macabro crimen del ingeniero Andrés Camilo Peláez fueron condenados: la madre de la víctima cuestionó las penas",
+     "url": "https://www.eltiempo.com/colombia/medellin/dos-de-los-implicados-en-el-macabro-crimen-del-ingeniero-andres-camilo-pelaez-fueron-condenados-la-madre-de-la-victima-critico-las-penas-3595437",
+     "domain": "El Tiempo",
+     "seendate": "20261022T173618Z"
+    },
+    {
+     "title": "Habla el padre de los cuatrillizos genéticamente idénticos que nacieron en Medellín: reveló que ya tienen otros tres hijos y contó cómo vivió el parto",
+     "url": "https://www.eltiempo.com/colombia/medellin/habla-el-padre-de-los-cuatrillizos-geneticamente-identicos-que-nacieron-en-medellin-revelo-que-ya-tienen-otros-tres-hijos-y-conto-como-vivio-el-parto-3595523",
+     "domain": "El Tiempo",
+     "seendate": "20261022T173113Z"
+    },
+    {
+     "title": "El cruel asesinato de un hombre de 77 años sigue engrosando las cifras de homicidios en Andes, Antioquia: van 48 asesinatos en 2026",
+     "url": "https://www.eltiempo.com/colombia/medellin/el-cruel-asesinato-de-un-hombre-de-77-anos-sigue-engrosando-las-cifras-de-homicidios-en-andes-antioquia-van-48-asesinatos-en-3595501",
+     "domain": "El Tiempo",
+     "seendate": "20261022T172621Z"
+    },
+    {
+     "title": "Atención, viajeros: el Aeropuerto Internacional Rafael Núñez de Cartagena realizará el simulacro de un accidente aéreo en la madrugada de este viernes",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/atencion-viajeros-el-aeropuerto-internacional-rafael-nunez-de-cartagena-realizara-el-simulacro-de-un-accidente-aereo-en-la-madrugada-de-este-viernes-3595517",
+     "domain": "El Tiempo",
+     "seendate": "20261022T171944Z"
+    },
+    {
      "title": "La transformación estética de alias 'Pichi', el Pablo Escobar de Bucaramanga: se habría hecho varias intervenciones para cambiar su imagen",
      "url": "https://www.eltiempo.com/colombia/santander/la-transformacion-estetica-de-alias-pichi-el-pablo-escobar-de-bucaramanga-se-habria-hecho-varias-intervenciones-para-cambiar-su-imagen-3595498",
      "domain": "El Tiempo",
@@ -1615,12 +1597,6 @@
      "seendate": "20261022T154919Z"
     },
     {
-     "title": "Dos de los implicados en el macabro crimen del ingeniero Andrés Camilo Peláez fueron condenados: la madre de la víctima cuestionó las penas",
-     "url": "https://www.eltiempo.com/colombia/medellin/dos-de-los-implicados-en-el-macabro-crimen-del-ingeniero-andres-camilo-pelaez-fueron-condenados-la-madre-de-la-victima-critico-las-penas-3595437",
-     "domain": "El Tiempo",
-     "seendate": "20261022T152826Z"
-    },
-    {
      "title": "'Ellos no respetaron a nadie': el drama de una adulta mayor que halló su casa sin techo tras combates en Linares, Nariño",
      "url": "https://www.eltiempo.com/colombia/cali/ellos-no-respetaron-a-nadie-el-drama-de-una-adulta-mayor-que-hallo-su-casa-sin-techo-tras-combates-en-linares-narino-3595451",
      "domain": "El Tiempo",
@@ -1633,28 +1609,10 @@
      "seendate": "20261022T144944Z"
     },
     {
-     "title": "'No te vas a robar mi celular': con ayuda de la comunidad, madre persiguió al señalado de hurtarle el teléfono a su hijo en Valledupar",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/no-te-vas-a-robar-mi-celular-madre-persiguio-al-senalado-de-hurtarle-el-telefono-a-su-hijo-en-valledupar-3595420",
-     "domain": "El Tiempo",
-     "seendate": "20261022T143400Z"
-    },
-    {
      "title": "Hurto de camión con 228 botellas de licor en la vía Buga - Buenaventura termina con recuperación de la carga y un escolta herido",
      "url": "https://www.eltiempo.com/colombia/cali/hurto-de-camion-con-228-botellas-de-licor-en-la-via-buga-buenaventura-termina-con-recuperacion-de-la-carga-y-un-escolta-herido-3595435",
      "domain": "El Tiempo",
      "seendate": "20261022T142840Z"
-    },
-    {
-     "title": "Prohíben bañarse en la playa del Muelle 1888 de Puerto Colombia tras nueve muertes por inmersión: la restricción será permanente hasta nuevo aviso",
-     "url": "https://www.eltiempo.com/colombia/barranquilla/prohiben-banarse-en-la-playa-del-muelle-1888-de-puerto-colombia-tras-nueve-muertes-por-inmersion-la-restriccion-sera-permanente-hasta-nuevo-aviso-3595410",
-     "domain": "El Tiempo",
-     "seendate": "20261022T140700Z"
-    },
-    {
-     "title": "Perro murió tras intentar defender a su dueña de un ataque sicarial en Montería: ambos fueron agredidos con arma de fuego",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/perro-murio-tras-intentar-defender-a-su-duena-de-un-ataque-sicarial-en-monteria-ambos-fueron-agredidos-con-arma-de-fuego-3595149",
-     "domain": "El Tiempo",
-     "seendate": "20261022T133657Z"
     }
    ]
   },
@@ -1935,6 +1893,24 @@
   "ECU": {
    "articles": [
     {
+     "title": "Daniel Noboa señala a Gustavo Petro como parte de una ‘red de narcotráfico y lavado de activos’ tras detención de Luisa González",
+     "url": "https://eluniverso.com/politica/expedientes/daniel-noboa-senala-a-gustavo-petro-como-parte-de-una-red-de-narcotrafico-y-lavado-de-activos-tras-detencion-de-luisa-gonzalez-nota/",
+     "domain": "El Universo",
+     "seendate": "20261022T175523Z"
+    },
+    {
+     "title": "Caso Laberinto: estas son las reacciones tras la detención de Luisa González por presunto lavado de activos en aportes a su campaña presidencial de 2023",
+     "url": "https://eluniverso.com/politica/expedientes/caso-laberinto-reacciones-detencion-luisa-gonzalez-formulacion-cargos-presunto-lavado-activos-nota/",
+     "domain": "El Universo",
+     "seendate": "20261022T173007Z"
+    },
+    {
+     "title": "Deslizamiento de tierra en la vía Salinas-Lita moviliza maquinaria para habilitar el tránsito en Imbabura",
+     "url": "https://eluniverso.com/comunidad/ecuador/deslizamiento-de-tierra-en-la-via-salinas-lita-moviliza-maquinaria-para-habilitar-el-transito-en-imbabura-nota/",
+     "domain": "El Universo",
+     "seendate": "20261022T172051Z"
+    },
+    {
      "title": "¿Cuál es la pena por lavado de activos, presunto delito por el que se investiga a Luisa González en el caso Laberinto?",
      "url": "https://eluniverso.com/politica/seguridad/cual-es-la-pena-por-lavado-de-activos-presunto-delito-por-el-que-se-investiga-a-luisa-gonzalez-en-el-caso-laberinto-nota/",
      "domain": "El Universo",
@@ -2047,18 +2023,6 @@
      "url": "https://eluniverso.com/comunidad/ecuador/capturan-al-primer-mas-buscado-de-esmeraldas-por-asesinato-y-secuestro-extorsivo-nota/",
      "domain": "El Universo",
      "seendate": "20261022T023400Z"
-    },
-    {
-     "title": "Lotería Nacional, sorteo 7455: estos son los números ganadores del 21 de octubre",
-     "url": "https://eluniverso.com/comunidad/ecuador/loteria-nacional-sorteo-7455-estos-son-los-numeros-ganadores-del-21-de-octubre-nota/",
-     "domain": "El Universo",
-     "seendate": "20261022T021711Z"
-    },
-    {
-     "title": "Nuevo puente en Churute estaría listo a mediados de noviembre: obras alcanzan el 60 % de avance",
-     "url": "https://eluniverso.com/comunidad/ecuador/nuevo-puente-en-churute-estaria-listo-a-mediados-de-noviembre-obras-alcanzan-el-60-de-avance-nota/",
-     "domain": "El Universo",
-     "seendate": "20261022T005651Z"
     }
    ]
   },
@@ -2695,7 +2659,43 @@
   "ARG": {
    "articles": [
     {
-     "title": "Los “reyes de la mentira”, del upgrade a la desesperación. Los chats y mensajes que revelaron la corrupción en el Andis",
+     "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este jueves 22 de octubre, minuto a minuto",
+     "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid22102026/",
+     "domain": "La Nación",
+     "seendate": "20261022T175024Z"
+    },
+    {
+     "title": "Tras la quiebra: la Justicia busca posibles compradores para una reconocida algodonera",
+     "url": "https://www.lanacion.com.ar/economia/campo/tras-la-quiebra-la-justicia-busca-posibles-compradores-para-una-reconocida-algodonera-nid22102026/",
+     "domain": "La Nación",
+     "seendate": "20261022T174857Z"
+    },
+    {
+     "title": "Javier Milei y sus medidas, en vivo: durante su gira en Madrid, el mandatario acusó al presidente español de “dictador”",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-durante-su-gira-en-madrid-el-mandatario-acuso-al-presidente-nid22102026/",
+     "domain": "La Nación",
+     "seendate": "20261022T174000Z"
+    },
+    {
+     "title": "Pro volvió a diferenciarse de LLA tras los insultos de Milei a Pedro Sánchez y periodistas españoles",
+     "url": "https://www.lanacion.com.ar/politica/pro-volvio-a-diferenciarse-de-lla-tras-los-insultos-de-milei-a-pedro-sanchez-y-periodistas-espanoles-nid22102026/",
+     "domain": "La Nación",
+     "seendate": "20261022T173948Z"
+    },
+    {
+     "title": "“Rostro Ozempic”. En medio del auge de los GLP-1, los gigantes de la belleza se apresuran a tratar sus efectos secundarios",
+     "url": "https://www.lanacion.com.ar/sociedad/rostro-ozempic-en-medio-del-auge-de-los-glp-1-los-gigantes-de-la-belleza-buscan-tratar-sus-efectos-nid22102026/",
+     "domain": "La Nación",
+     "seendate": "20261022T172328Z"
+    },
+    {
+     "title": "Grieta libertaria por el Islam: tras el ataque del Gordo Dan, Benegas Lynch dijo que no hay “nada más peligroso que un católico fanático”",
+     "url": "https://www.lanacion.com.ar/politica/escala-la-interna-libertaria-por-el-islam-el-gordo-dan-ataco-a-benegas-lynch-el-procer-de-milei-y-a-nid21102026/",
+     "domain": "La Nación",
+     "seendate": "20261022T172152Z"
+    },
+    {
+     "title": "Los “reyes de la mentira”, del upgrade a la desesperación. Los chats y mensajes que revelaron la corrupción en la Andis",
      "url": "https://www.lanacion.com.ar/politica/los-reyes-de-la-mentira-del-upgrade-a-la-desesperacion-los-chats-y-mensajes-que-revelaron-la-nid22102026/",
      "domain": "La Nación",
      "seendate": "20261022T170227Z"
@@ -2717,18 +2717,6 @@
      "url": "https://www.lanacion.com.ar/economia/economia-argentina-cuanto-deberia-crecer-la-actividad-para-no-caer-en-recesion-nid22102026/",
      "domain": "La Nación",
      "seendate": "20261022T164253Z"
-    },
-    {
-     "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este jueves 22 de octubre, minuto a minuto",
-     "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid22102026/",
-     "domain": "La Nación",
-     "seendate": "20261022T164102Z"
-    },
-    {
-     "title": "Javier Milei y sus medidas, en vivo: durante su gira en Madrid, el mandatario acusó al presidente español de “dictador”",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-durante-su-gira-en-madrid-el-mandatario-acuso-al-presidente-nid22102026/",
-     "domain": "La Nación",
-     "seendate": "20261022T163919Z"
     },
     {
      "title": "El camporista Tignanelli criticó el proyecto de Kicillof para 2027 y dijo que “no hay diálogo” con los Kirchner",
@@ -2891,70 +2879,64 @@
      "url": "https://www.lanacion.com.ar/sociedad/visita-del-papa-leon-xiv-anuncian-que-desde-este-sabado-habra-cortes-y-desvios-en-palermo-por-el-nid22102026/",
      "domain": "La Nación",
      "seendate": "20261022T155148Z"
-    },
-    {
-     "title": "Condenaron a 10 años de prisión a dos pilotos que se estrellaron con 364 kilos de cocaína en Salta",
-     "url": "https://www.lanacion.com.ar/seguridad/condenaron-a-10-anos-de-prision-a-dos-pilotos-que-se-estrellaron-con-364-kilos-de-cocaina-en-salta-nid22102026/",
-     "domain": "La Nación",
-     "seendate": "20261022T153108Z"
-    },
-    {
-     "title": "Aerolíneas volvió a las pérdidas por la crisis en Medio Oriente",
-     "url": "https://www.lanacion.com.ar/economia/aerolineas-volvio-a-las-perdidas-por-la-crisis-en-medio-oriente-nid22102026/",
-     "domain": "La Nación",
-     "seendate": "20261022T151232Z"
-    },
-    {
-     "title": "Un empresario murió en la misma ruta que su padre 7 años después al volcar su auto deportivo",
-     "url": "https://www.lanacion.com.ar/sociedad/un-empresario-murio-en-la-misma-ruta-que-su-padre-7-anos-despues-al-volcar-su-auto-deportivo-nid22102026/",
-     "domain": "La Nación",
-     "seendate": "20261022T145425Z"
-    },
-    {
-     "title": "Siembra con drones en una zona quemada: el megaplan que prometen recuperar 200 hectáreas de bosque patagónico en el Parque Nacional Lanín con semillas de araucaria",
-     "url": "https://www.lanacion.com.ar/sociedad/siembra-con-drones-en-una-zona-quemada-el-megaplan-que-prometen-recuperar-200-hectareas-de-bosque-nid22102026/",
-     "domain": "La Nación",
-     "seendate": "20261022T145228Z"
-    },
-    {
-     "title": "El Gobierno incorporó a dos cárteles mexicanos y a grupos armados de Colombia y Ecuador al registro de organizaciones terroristas",
-     "url": "https://www.lanacion.com.ar/seguridad/el-gobierno-incorporo-a-dos-carteles-mexicanos-y-a-grupos-armados-de-colombia-y-ecuador-al-registro-nid22102026/",
-     "domain": "La Nación",
-     "seendate": "20261022T144957Z"
-    },
-    {
-     "title": "Sergio Iraeta reconoció que hay impuestos y aranceles que afectan a la industria de la nutrición animal: “Estamos trabajando en eso”",
-     "url": "https://www.lanacion.com.ar/economia/campo/sergio-iraeta-reconocio-que-hay-impuestos-y-aranceles-que-afectan-a-la-industria-de-la-nutricion-nid22102026/",
-     "domain": "La Nación",
-     "seendate": "20261022T144137Z"
-    },
-    {
-     "title": "José Luis Manzano compró un 21% del holding de medios de Javier Negre y refuerza su alineamiento con la gestión de Milei",
-     "url": "https://www.lanacion.com.ar/politica/jose-luis-manzano-compro-un-21-del-holding-de-medios-de-javier-negre-y-refuerza-su-alineamiento-con-nid22102026/",
-     "domain": "La Nación",
-     "seendate": "20261022T143841Z"
     }
    ]
   },
   "URY": {
    "articles": [
     {
-     "title": "Un nuevo golpe al contrabando de insumos médicos en Salto supera el millón de pesos",
-     "url": "https://www.diariocambio.com.uy/un-nuevo-golpe-al-contrabando-de-insumos-medicos-en-salto-supera-el-millon-de-pesos",
-     "domain": "diariocambio.com.uy",
-     "seendate": "20261022T111500Z"
-    },
-    {
-     "title": "Mirá En Clave País , el streaming de El País , en vivo : entrevista a Falero y fotos inéditas de Charly García en Uruguay",
-     "url": "https://www.elpais.com.uy/informacion/en-clave-pais/mira-en-clave-pais-el-streaming-de-el-pais-en-vivo-jueves-22-de-setiembre-entrevista-a-falero-y-fotos-ineditas-de-charly-garcia-en-uruguay",
+     "title": "¿ Dónde es la final de la Copa Sudamericana ? Estadio y fecha de la definición del torneo",
+     "url": "https://www.elpais.com.uy/ovacion/futbol/donde-es-la-final-de-la-copa-sudamericana-estadio-y-fecha-de-la-definicion-del-torneo",
      "domain": "elpais.com.uy",
-     "seendate": "20261022T111500Z"
+     "seendate": "20261022T160000Z"
     },
     {
-     "title": "Ediles de Salto y Artigas articularon una agenda común para enfrentar El Niño",
-     "url": "https://www.diariocambio.com.uy/ediles-de-salto-y-artigas-articularon-una-agenda-comun-para-enfrentar-el-nino",
-     "domain": "diariocambio.com.uy",
-     "seendate": "20261022T111500Z"
+     "title": "Maldonado concentró más del 50 % del gasto turístico del país : cuánto dinero movió y cuántos turistas recibió",
+     "url": "https://www.elpais.com.uy/negocios/noticias/maldonado-concentro-mas-del-50-del-gasto-turistico-del-pais-cuanto-dinero-movio-y-cuantos-turistas-recibio",
+     "domain": "elpais.com.uy",
+     "seendate": "20261022T153000Z"
+    },
+    {
+     "title": "Uruguay gana autonomía científica : así es la potente plataforma de imágenes satelitales creada por la UTEC",
+     "url": "https://www.elpais.com.uy/vida-actual/ciencia/uruguay-gana-autonomia-cientifica-asi-es-la-potente-plataforma-de-imagenes-satelitales-creada-por-la-utec",
+     "domain": "elpais.com.uy",
+     "seendate": "20261022T153000Z"
+    },
+    {
+     "title": "En Paysandú hay 15 . 000 pobres menos ; para Guadalupe Caballero , la pobreza se corrió de lugar | la diaria",
+     "url": "https://ladiaria.com.uy/paysandu/articulo/2026/10/en-paysandu-hay-15000-pobres-menos-para-guadalupe-caballero-la-pobreza-se-corrio-de-lugar/",
+     "domain": "ladiaria.com.uy",
+     "seendate": "20261022T150000Z"
+    },
+    {
+     "title": "Vuelve 100 uruguayos dicen al prime time de La Tele : cuándo se estrena y quién conducirá el popular formato",
+     "url": "https://www.elpais.com.uy/tvshow/tv-y-radio/vuelve-100-uruguayos-dicen-al-prime-time-de-la-tele-cuando-se-estrena-y-quien-conducira-el-popular-formato",
+     "domain": "elpais.com.uy",
+     "seendate": "20261022T144500Z"
+    },
+    {
+     "title": "Uruguay prepara otro amistoso tras visitar a Argentina por fecha FIFA : detalles a definir y reserva de jugadores",
+     "url": "https://www.elpais.com.uy/ovacion/futbol/uruguay-prepara-otro-amistoso-tras-visitar-a-argentina-por-fecha-fifa-detalles-a-definir-y-reserva-de-jugadores",
+     "domain": "elpais.com.uy",
+     "seendate": "20261022T144500Z"
+    },
+    {
+     "title": "BPS confirmó cuándo se pagan las asignaciones familiares de noviembre de 2026 : las fechas de cobro",
+     "url": "https://www.elpais.com.uy/negocios/noticias/bps-confirmo-cuando-se-pagan-las-asignaciones-familiares-de-noviembre-de-2026-las-fechas-de-cobro",
+     "domain": "elpais.com.uy",
+     "seendate": "20261022T144500Z"
+    },
+    {
+     "title": "Romance inesperado : Alejandro Astesiano y Mía Etcheverría fueron vistos juntos y crecen los rumores de amor",
+     "url": "https://www.elpais.com.uy/tvshow/personajes/romance-inesperado-alejandro-astesiano-y-mia-etcheverria-fueron-vistos-juntos-y-crecen-los-rumores-de-amor",
+     "domain": "elpais.com.uy",
+     "seendate": "20261022T144500Z"
+    },
+    {
+     "title": "Jorge Díaz aseguró que la pobreza va a bajar mucho más en 2027",
+     "url": "https://www.carasycaretas.com.uy/politica/jorge-diaz-aseguro-que-la-pobreza-va-bajar-mucho-mas-2027-n100387",
+     "domain": "carasycaretas.com.uy",
+     "seendate": "20261022T140000Z"
     },
     {
      "title": "Río Uruguay profundizará descenso con techo de 10 , 90",
@@ -2983,6 +2965,24 @@
     {
      "title": "Impulsan encuentro para conectar la educación técnica con sector productivo",
      "url": "https://www.diariocambio.com.uy/impulsan-encuentro-para-conectar-la-educacion-tecnica-con-sector-productivo",
+     "domain": "diariocambio.com.uy",
+     "seendate": "20261022T111500Z"
+    },
+    {
+     "title": "Un nuevo golpe al contrabando de insumos médicos en Salto supera el millón de pesos",
+     "url": "https://www.diariocambio.com.uy/un-nuevo-golpe-al-contrabando-de-insumos-medicos-en-salto-supera-el-millon-de-pesos",
+     "domain": "diariocambio.com.uy",
+     "seendate": "20261022T111500Z"
+    },
+    {
+     "title": "Mirá En Clave País , el streaming de El País , en vivo : entrevista a Falero y fotos inéditas de Charly García en Uruguay",
+     "url": "https://www.elpais.com.uy/informacion/en-clave-pais/mira-en-clave-pais-el-streaming-de-el-pais-en-vivo-jueves-22-de-setiembre-entrevista-a-falero-y-fotos-ineditas-de-charly-garcia-en-uruguay",
+     "domain": "elpais.com.uy",
+     "seendate": "20261022T111500Z"
+    },
+    {
+     "title": "Ediles de Salto y Artigas articularon una agenda común para enfrentar El Niño",
+     "url": "https://www.diariocambio.com.uy/ediles-de-salto-y-artigas-articularon-una-agenda-comun-para-enfrentar-el-nino",
      "domain": "diariocambio.com.uy",
      "seendate": "20261022T111500Z"
     },
@@ -3243,67 +3243,25 @@
      "url": "https://www.elpais.com.uy/tvshow/teatro-y-carnaval/nuevo-contrato-por-la-televisacion-del-carnaval-tenfield-se-queda-con-la-fiesta-de-momo-por-siete-anos",
      "domain": "elpais.com.uy",
      "seendate": "20261021T181500Z"
-    },
-    {
-     "title": "Rapiña a repartidor : lo golpearon y le robaron más de 30 . 000 pesos",
-     "url": "https://www.diariocambio.com.uy/rapina-repartidor-lo-golpearon-y-le-robaron-mas-de-30000-pesos",
-     "domain": "diariocambio.com.uy",
-     "seendate": "20261021T164500Z"
-    },
-    {
-     "title": "¿ Cuándo terminan las clases en Uruguay en 2026 ? Las fechas para Primaria , Secundaria y UTU , según el calendario de ANEP",
-     "url": "https://www.elobservador.com.uy/nacional/cuando-terminan-las-clases-uruguay-2026-las-fechas-primaria-secundaria-y-utu-segun-el-calendario-anep-n6053016",
-     "domain": "elobservador.com.uy",
-     "seendate": "20261021T164500Z"
-    },
-    {
-     "title": "Ella misma debería dar un paso al costado : Pereira ratificó intención del FA de cambiar a la fiscal de Corte",
-     "url": "https://www.elpais.com.uy/informacion/politica/ella-misma-deberia-dar-un-paso-al-costado-pereira-ratifico-intencion-del-fa-de-cambiar-a-la-fiscal-de-corte",
-     "domain": "elpais.com.uy",
-     "seendate": "20261021T161500Z"
-    },
-    {
-     "title": "Fue un acto individual : la versión de Nacional tras la agresión al hincha de Deportivo Maldonado",
-     "url": "https://www.elpais.com.uy/ovacion/futbol/fue-un-acto-individual-la-version-de-nacional-tras-la-agresion-al-hincha-de-deportivo-maldonado",
-     "domain": "elpais.com.uy",
-     "seendate": "20261021T151500Z"
-    },
-    {
-     "title": "Elecciones en Brasil al rojo vivo : nueva encuesta acorta la distancia entre Flávio Bolsonaro y Lula",
-     "url": "https://www.elpais.com.uy/mundo/elecciones-en-brasil-al-rojo-vivo-nueva-encuesta-acorta-la-distancia-entre-flavio-bolsonaro-y-lula",
-     "domain": "elpais.com.uy",
-     "seendate": "20261021T151500Z"
-    },
-    {
-     "title": "Liga Uruguaya : ganaron Malvín y Aguada | la diaria",
-     "url": "https://ladiaria.com.uy/deporte/articulo/2026/10/liga-uruguaya-ganaron-malvin-y-aguada/",
-     "domain": "ladiaria.com.uy",
-     "seendate": "20261021T151500Z"
-    },
-    {
-     "title": "La banda BTS transmitirá en vivo su último concierto en Buenos Aires , y se podrá ver en Uruguay : los detalles",
-     "url": "https://www.elpais.com.uy/tvshow/cine/la-banda-bts-transmitira-en-vivo-su-ultimo-concierto-en-buenos-aires-y-se-podra-ver-en-uruguay-los-detalles",
-     "domain": "elpais.com.uy",
-     "seendate": "20261021T151500Z"
-    },
-    {
-     "title": "Peñarol vuelve al Campeón del Siglo después de dos meses : el acuerdo que permite su regreso ante City Torque",
-     "url": "https://www.elpais.com.uy/ovacion/futbol/penarol-vuelve-al-campeon-del-siglo-despues-de-dos-meses-el-acuerdo-que-permite-su-regreso-ante-city-torque",
-     "domain": "elpais.com.uy",
-     "seendate": "20261021T151500Z"
-    },
-    {
-     "title": "Ciudadana cubana intentó salir de Uruguay escondida en un auto : el conductor llevaba drogas",
-     "url": "https://www.elpais.com.uy/informacion/policiales/ciudadana-cubana-intento-salir-de-uruguay-escondida-en-un-auto-el-conductor-llevaba-drogas",
-     "domain": "elpais.com.uy",
-     "seendate": "20261021T151500Z"
     }
    ]
   },
   "PRY": {
    "articles": [
     {
-     "title": "Video: árbol aplasta un auto en Asunción y el tránsito permanece bloqueado",
+     "title": "Alerta meteorológica, EN VIVO: advierten sobre lluvias y tormentas eléctricas para todo el país",
+     "url": "https://www.abc.com.py/nacionales/2026/10/22/alerta-meteorologica-en-vivo-advierten-sobre-lluvias-y-tormentas-electricas-para-todo-el-pais/",
+     "domain": "ABC Color",
+     "seendate": "20261022T172316Z"
+    },
+    {
+     "title": "Video: así fue la histórica crecida de 1983",
+     "url": "https://www.abc.com.py/nacionales/2026/10/22/video-asi-fue-la-historica-crecida-de-1983/",
+     "domain": "ABC Color",
+     "seendate": "20261022T170935Z"
+    },
+    {
+     "title": "Video: árbol aplasta un auto en Asunción y pasajera se salva de milagro",
      "url": "https://www.abc.com.py/nacionales/2026/10/22/video-arbol-aplasta-un-auto-en-asuncion-y-el-transito-permanece-bloqueado/",
      "domain": "ABC Color",
      "seendate": "20261022T165243Z"
@@ -3313,12 +3271,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/22/anive-nde-japu-el-reclamo-al-mec-de-los-jovenes-que-exigen-retirar-libros-sobre-educacion-sexual/",
      "domain": "ABC Color",
      "seendate": "20261022T163125Z"
-    },
-    {
-     "title": "Alerta meteorológica, EN VIVO: advierten sobre lluvias y tormentas eléctricas para todo el país",
-     "url": "https://www.abc.com.py/nacionales/2026/10/22/alerta-meteorologica-en-vivo-advierten-sobre-lluvias-y-tormentas-electricas-para-todo-el-pais/",
-     "domain": "ABC Color",
-     "seendate": "20261022T161621Z"
     },
     {
      "title": "El Niño: SEN asiste a 5.000 familias afectadas por inundaciones y advierte sobre escenario crítico",
