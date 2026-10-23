@@ -1,8 +1,14 @@
 {
- "updated": "2026-10-23T16:16:39+00:00",
+ "updated": "2026-10-23T17:09:00+00:00",
  "countries": {
   "ESP": {
    "articles": [
+    {
+     "title": "Dani Martín suspende ‘in extremis’ sus dos conciertos en Barcelona",
+     "url": "https://elpais.com/espana/catalunya/2026-10-23/dani-martin-suspende-in-extremis-sus-dos-conciertos-en-barcelona.html",
+     "domain": "El País",
+     "seendate": "20261023T160700Z"
+    },
     {
      "title": "Interior detecta un llamamiento yihadista para atacar a policías y manifestantes durante las protestas",
      "url": "https://elpais.com/espana/2026-10-23/interior-detecta-un-llamamiento-yihadista-para-atacar-a-policias-y-manifestantes-durante-las-protestas.html",
@@ -44,12 +50,6 @@
      "url": "https://elpais.com/espana/2026-10-23/la-fiscalia-concluye-que-iran-se-encuentra-tras-el-intento-de-asesinato-de-vidal-quadras-en-2023.html",
      "domain": "El País",
      "seendate": "20261023T130047Z"
-    },
-    {
-     "title": "La alcaldesa María José Catalá encabezará la lista del PP por Valencia a las generales del 29-N",
-     "url": "https://elpais.com/espana/comunidad-valenciana/2026-10-23/la-alcaldesa-maria-jose-catala-encabezara-la-lista-del-pp-por-la-provincia-de-valencia-a-las-generales-del-29-n.html",
-     "domain": "El País",
-     "seendate": "20261023T124309Z"
     },
     {
      "title": "Pedraz rechaza las alegaciones del PSOE y le da 15 días para entregar los contratos de sus abogados",
@@ -136,14 +136,14 @@
      "seendate": "20261023T033001Z"
     },
     {
-     "title": "Los nostálgicos de Franco disparan los precios en la puja del pazo de Meirás",
-     "url": "https://elpais.com/espana/galicia/2026-10-23/los-nostalgicos-de-franco-disparan-los-precios-en-la-puja-del-pazo-de-meiras.html",
+     "title": "La justicia ve “muy intensos” el “sufrimiento, la zozobra y el temor” causados por Madrid a los vecinos sin casa por la línea 7B",
+     "url": "https://elpais.com/espana/madrid/2026-10-23/la-justicia-ve-muy-intensos-el-sufrimiento-la-zozobra-y-el-temor-causados-por-madrid-a-los-vecinos-sin-casa-por-la-linea-7b.html",
      "domain": "El País",
      "seendate": "20261023T033001Z"
     },
     {
-     "title": "La justicia ve “muy intensos” el “sufrimiento, la zozobra y el temor” causados por Madrid a los vecinos sin casa por la línea 7B",
-     "url": "https://elpais.com/espana/madrid/2026-10-23/la-justicia-ve-muy-intensos-el-sufrimiento-la-zozobra-y-el-temor-causados-por-madrid-a-los-vecinos-sin-casa-por-la-linea-7b.html",
+     "title": "Los nostálgicos de Franco disparan los precios en la puja del pazo de Meirás",
+     "url": "https://elpais.com/espana/galicia/2026-10-23/los-nostalgicos-de-franco-disparan-los-precios-en-la-puja-del-pazo-de-meiras.html",
      "domain": "El País",
      "seendate": "20261023T033001Z"
     },
@@ -163,6 +163,18 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "¡Toma precauciones! Estas con las marchas previstas para este viernes 23 de octubre en la CDMX",
+     "url": "https://www.eluniversal.com.mx/metropoli/toma-precauciones-estas-con-las-marchas-previstas-para-este-viernes-23-de-octubre-en-la-cdmx/",
+     "domain": "El Universal",
+     "seendate": "20261023T163007Z"
+    },
+    {
+     "title": "Clima CDMX: ¿cuál es el pronóstico para este viernes 23 de octubre?; termómetro alcanzará los 23 grados",
+     "url": "https://www.eluniversal.com.mx/metropoli/clima-cdmx-cual-es-el-pronostico-para-este-viernes-23-de-octubre-termometro-alcanzara-los-23-grados/",
+     "domain": "El Universal",
+     "seendate": "20261023T160949Z"
+    },
     {
      "title": "Bosque de Aragón celebrará Día de Muertos con festival \"Del bosque al Mictlán\"; conoce las actividades",
      "url": "https://www.eluniversal.com.mx/metropoli/bosque-de-aragon-celebrara-dia-de-muertos-con-festival-del-bosque-al-mictlan-conoce-las-actividades/",
@@ -194,7 +206,7 @@
      "seendate": "20261023T151203Z"
     },
     {
-     "title": "SRE rechaza solicitud de acceso de senadores a Salón Protocolo del AICM",
+     "title": "SRE rechaza solicitud de acceso de senadores a Salón Protocolo del AICM; \"cero privilegios\", pide Sheinbaum",
      "url": "https://www.eluniversal.com.mx/nacion/sre-rechaza-solicitud-de-acceso-de-senadores-a-salon-protocolo-del-aicm/",
      "domain": "El Universal",
      "seendate": "20261023T150723Z"
@@ -1210,6 +1222,18 @@
   "CRI": {
    "articles": [
     {
+     "title": "Patricia Solano, magistrada y aspirante a presidir la Corte, denuncia presuntas intervenciones telefónicas y vigilancia a su familia",
+     "url": "https://www.nacion.com/politica/patricia-solano-magistrada-y-aspirante-a-presidir/DV7QJNGPSVDRRLZLO5JZ4ASW6U/story/",
+     "domain": "La Nación",
+     "seendate": "20261023T164415Z"
+    },
+    {
+     "title": "Cierres en ruta 209 por construcción de nuevo puente sobre río Cañas en Aserrí: conozca el horario",
+     "url": "https://www.nacion.com/el-pais/cierres-en-ruta-209-por-construccion-de-nuevo/ZED775B5ZNHHFKF5LGDPQIIXTU/story/",
+     "domain": "La Nación",
+     "seendate": "20261023T162733Z"
+    },
+    {
      "title": "Embajada de EE. UU. responsabiliza a empresas chinas por minería ilegal de oro en Costa Rica",
      "url": "https://www.nacion.com/politica/embajada-de-ee-uu-responsabiliza-a-empresas-chinas/HG5UY2P3HFGA3MT2SZESMSL3OI/story/",
      "domain": "La Nación",
@@ -1340,31 +1364,13 @@
      "url": "https://www.nacion.com/sucesos/ministerio-de-justicia-libero-a-narcotraficante/WD6N36HV6NDHJFCFPG4WAMF6OU/story/",
      "domain": "La Nación",
      "seendate": "20261022T204648Z"
-    },
-    {
-     "title": "Diputado Wilson Jiménez aparecía en sus redes y en sitio web de Asamblea como abogado, aunque perdió el examen de incorporación; él alega ‘error material’",
-     "url": "https://www.nacion.com/politica/diputado-wilson-jimenez-aparecia-en-sus-redes-y-en/T4C6GLBROBHIHN4LGXQA6RDWSE/story/",
-     "domain": "La Nación",
-     "seendate": "20261022T202910Z"
-    },
-    {
-     "title": "Este día pagarán la pensión de octubre: verifique su cuenta bancaria",
-     "url": "https://www.nacion.com/el-pais/este-dia-pagaran-la-pension-de-octubre-verifique/R2LSF2GC3ZBUXCBZ2TT7CHLPAY/story/",
-     "domain": "La Nación",
-     "seendate": "20261022T192031Z"
-    },
-    {
-     "title": "Allegada de reo fallecido en cárcel de Puntarenas cuestiona versión oficial y denuncia falta de atención médica",
-     "url": "https://www.nacion.com/sucesos/allegada-de-reo-fallecido-en-carcel-de-puntarenas/W6G27UPGMVH7VPVOGWBYIFNNZU/story/",
-     "domain": "La Nación",
-     "seendate": "20261022T184631Z"
     }
    ]
   },
   "PAN": {
    "articles": [
     {
-     "title": "Retrasos masivos: Falla en el sistema eléctrico paraliza parcialmente tramos de la Línea 1 del Metro de Panamá",
+     "title": "Retrasos masivos: Falla en el sistema eléctrico paralizó parcialmente tramos de la Línea 1 del Metro de Panamá",
      "url": "https://www.prensa.com/sociedad/retrasos-masivos-falla-en-el-sistema-electrico-paraliza-parcialmente-tramos-de-la-linea-1-del-metro-de-panama/",
      "domain": "La Prensa",
      "seendate": "20261023T132451Z"
@@ -1494,17 +1500,17 @@
      "url": "https://www.prensa.com/sociedad/se-armo-el-debate-boric-y-uribe-confrontan-ideas-sobre-la-pobreza-en-panama/",
      "domain": "La Prensa",
      "seendate": "20261020T050300Z"
-    },
-    {
-     "title": "‘No hay que bajar en el temblor, porque no sabemos cuál va a ser la respuesta’: Tomás Correa",
-     "url": "https://www.prensa.com/sociedad/no-hay-que-bajar-durante-el-temblor-porque-no-sabemos-cual-va-a-ser-la-respuesta-panama-debe-hacer-mucha-docencia-en-ese-aspecto-tomas-correa-rodriguez/",
-     "domain": "La Prensa",
-     "seendate": "20261018T050200Z"
     }
    ]
   },
   "CUB": {
    "articles": [
+    {
+     "title": "El Gobierno cubano intenta atraer a los jóvenes desocupados con cursos pagados a cuatro dólares al mes",
+     "url": "https://www.14ymedio.com/cuba/gobierno-cubano-atraer-jovenes-desocupados_1_1132327.html",
+     "domain": "14ymedio",
+     "seendate": "20261023T170150Z"
+    },
     {
      "title": "Un accidente masivo en Carbonera deja 22 heridos, dos de ellos graves",
      "url": "https://www.14ymedio.com/cuba/accidente-masivo-carbonera-deja-22_1_1132323.html",
@@ -1597,16 +1603,22 @@
   "COL": {
    "articles": [
     {
-     "title": "En tres municipios de Nariño el conflicto toca fondo: reportan 357 familias desplazadas y 460 confinadas",
-     "url": "https://www.eltiempo.com/colombia/cali/en-tres-municipios-de-narino-el-conflicto-toca-fondo-reportan-357-familias-desplazadas-y-460-confinadas-3595794",
+     "title": "Gobierno declara de interés nacional la final de la Sudamericana en Barranquilla: Char celebra respaldo y hoteles esperan llegada masiva de turistas",
+     "url": "https://www.eltiempo.com/colombia/barranquilla/gobierno-declara-de-interes-nacional-la-final-de-la-sudamericana-en-barranquilla-char-celebra-respaldo-y-hoteles-esperan-llegada-masiva-de-turistas-3595815",
      "domain": "El Tiempo",
-     "seendate": "20261023T160324Z"
+     "seendate": "20261023T165557Z"
     },
     {
      "title": "Atentado con carro bomba en el peaje San Pedro, Casanare: presidente Abelardo De La Espriella anuncia acciones de inteligencia contra los responsables",
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/atentado-con-carro-bomba-en-el-peaje-san-pedro-casanare-ministra-de-transporte-elsa-noguera-se-pronuncia-tras-el-ataque-y-expresa-su-rechazo-3595741",
      "domain": "El Tiempo",
-     "seendate": "20261023T160242Z"
+     "seendate": "20261023T161043Z"
+    },
+    {
+     "title": "En tres municipios de Nariño el conflicto toca fondo: reportan 357 familias desplazadas y 460 confinadas",
+     "url": "https://www.eltiempo.com/colombia/cali/en-tres-municipios-de-narino-el-conflicto-toca-fondo-reportan-357-familias-desplazadas-y-460-confinadas-3595794",
+     "domain": "El Tiempo",
+     "seendate": "20261023T160324Z"
     },
     {
      "title": "Avanzan las investigaciones por la tragedia en el Batallón Tarqui de Sogamoso donde un soldado le disparó a un sargento en una riña",
@@ -1649,12 +1661,6 @@
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/cartagena-en-el-barrio-el-cabrero-inician-las-obras-de-defensa-costera-2050-contra-la-erosion-marina-3595740",
      "domain": "El Tiempo",
      "seendate": "20261023T134738Z"
-    },
-    {
-     "title": "Alcalde de Cartagena aseguró que invierte $6 billones en infraestructura para la ciudad e instó a Camacol a acelerar alianzas público-privadas",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/alcalde-de-cartagena-asegura-que-invirtio-6-billones-en-infraestructura-en-la-ciudad-e-insto-a-camacol-a-acelerar-alianzas-publico-privadas-3595726",
-     "domain": "El Tiempo",
-     "seendate": "20261023T130740Z"
     }
    ]
   },
@@ -2061,18 +2067,6 @@
      "seendate": "20261023T010234Z"
     },
     {
-     "title": "El 16 de noviembre, 162 aspirantes a ocupar dos vocalías del Consejo Nacional Electoral están llamados a rendir el examen escrito",
-     "url": "https://eluniverso.com/politica/elecciones/consejo-nacional-electoral-consejo-de-participacion-ciudadana-y-control-social-concurso-de-oposicion-y-meritos-nota/",
-     "domain": "El Universo",
-     "seendate": "20261022T212740Z"
-    },
-    {
-     "title": "“Todo dentro del mismo exmovimiento político”: José Julio Neira reacciona a casos y denuncias que salpican a Luisa González y Pabel Muñoz",
-     "url": "https://eluniverso.com/politica/expedientes/todo-dentro-del-mismo-exmovimiento-politico-jose-julio-neira-reacciona-a-casos-y-denuncias-que-salpican-a-luisa-gonzalez-y-pabel-munoz-nota/",
-     "domain": "El Universo",
-     "seendate": "20261022T204053Z"
-    },
-    {
      "title": "MSP registra inversiones por más de $ 41 millones en obras y mantenimiento de hospitales",
      "url": "https://eluniverso.com/politica/ejecutivo/msp-registra-inversiones-por-mas-de-41-millones-en-obras-y-mantenimiento-de-hospitales-nota/",
      "domain": "El Universo",
@@ -2083,10 +2077,22 @@
   "PER": {
    "articles": [
     {
+     "title": "El dólar abre en S/3,44 en Perú ante repunte del petróleo y fortalecimiento de la divisa global",
+     "url": "https://elcomercio.pe/economia/peru/el-dolar-abre-en-s344-en-peru-ante-repunte-del-petroleo-y-fortalecimiento-de-la-divisa-global-l-tipo-de-cambio-l-dolar-l-ultimas-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261023T164810Z"
+    },
+    {
+     "title": "Último temblor hoy, viernes 23 de octubre: reporte el epicentro, magnitud y más del sismo",
+     "url": "https://elcomercio.pe/peru/ultimo-temblor-hoy-via-igp-reporte-el-epicentro-magnitud-y-mas-del-sismo-tdpe-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261023T163602Z"
+    },
+    {
      "title": "Lluvias en el Perú EN VIVO: noticias de precipitaciones en Piura, Tumbes, Trujillo y otras regiones",
      "url": "https://elcomercio.pe/peru/lluvias-en-peru-en-vivo-ultimas-noticias-de-las-precipitaciones-en-piura-tumbes-y-trujillo-estado-de-emergencia-en-el-norte-senamhi-indeci-lloviznas-fenomeno-el-nino-lbposting-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261023T160634Z"
+     "seendate": "20261023T162702Z"
     },
     {
      "title": "Elmer Cuba ante una eventual suspensión perfecta por El Niño: “Es un caso extremo, no es una política que se haya discutido ni aprobado”",
@@ -2812,13 +2818,55 @@
      "title": "Juicio a Cristina Kirchner, EN VIVO: arranca el proceso por Hotesur y Los Sauces donde investigan la corrupción K",
      "url": "https://www.lanacion.com.ar/politica/juicio-a-cristina-kirchner-en-vivo-arranca-el-proceso-por-hotesur-y-los-sauces-donde-investigan-la-nid23102026/",
      "domain": "La Nación",
-     "seendate": "20261023T161149Z"
+     "seendate": "20261023T170200Z"
+    },
+    {
+     "title": "Milei recibió al vicesecretario de Estado de EE.UU., que había mencionado la preocupación de las empresas por la ley Malvinas",
+     "url": "https://www.lanacion.com.ar/politica/milei-recibio-al-vicesecretario-de-estado-de-eeuu-que-habia-mencionado-la-preocupacion-de-las-nid23102026/",
+     "domain": "La Nación",
+     "seendate": "20261023T165151Z"
+    },
+    {
+     "title": "Javier Milei y sus medidas, en vivo: el mandatario dijo que piensa un proyecto a “100 años” para la Argentina",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-mandatario-admitio-que-la-economia-no-evoluciona-como-nid23102026/",
+     "domain": "La Nación",
+     "seendate": "20261023T165000Z"
+    },
+    {
+     "title": "Axel Kicillof desembarcó en la ciudad de Buenos Aires con una actividad de su agrupación",
+     "url": "https://www.lanacion.com.ar/politica/axel-kicillof-desembarca-en-la-ciudad-de-buenos-aires-con-una-actividad-de-su-agrupacion-nid23102026/",
+     "domain": "La Nación",
+     "seendate": "20261023T164735Z"
     },
     {
      "title": "Crimen en Corrientes: son cuatro los sospechosos acusados por el homicidio de la docente Nanci Godoy",
      "url": "https://www.lanacion.com.ar/seguridad/crimen-en-corrientes-son-cuatro-los-sospechosos-acusados-por-el-homicidio-de-la-docente-nanci-godoy-nid23102026/",
      "domain": "La Nación",
-     "seendate": "20261023T160829Z"
+     "seendate": "20261023T164324Z"
+    },
+    {
+     "title": "Detuvieron por lavado de dinero a Ariel Vallejo, dueño de Sur Finanzas y allegado a la AFA",
+     "url": "https://www.lanacion.com.ar/politica/detuvieron-a-ariel-vallejos-dueno-de-sur-finanzas-por-lavado-nid23102026/",
+     "domain": "La Nación",
+     "seendate": "20261023T163713Z"
+    },
+    {
+     "title": "Dólar hoy y dólar blue, EN VIVO: y cuál es el precio del paralelo este viernes 23 de octubre, minuto a minuto",
+     "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-y-cual-es-el-precio-del-paralelo-este-viernes-23-de-octubre-minuto-a-nid23102026/",
+     "domain": "La Nación",
+     "seendate": "20261023T162600Z"
+    },
+    {
+     "title": "Manaos: la Justicia confirmó el procesamiento por evasión de su dueño y se complica su situación",
+     "url": "https://www.lanacion.com.ar/economia/manaos-la-justicia-confirmo-el-procesamiento-por-evasion-de-su-dueno-y-se-complica-su-situacion-nid23102026/",
+     "domain": "La Nación",
+     "seendate": "20261023T162545Z"
+    },
+    {
+     "title": "“Influye mucho o algo”: una encuesta señala que la incertidumbre electoral para 2027 es el mayor freno a las inversiones de los productores",
+     "url": "https://www.lanacion.com.ar/economia/campo/influye-mucho-o-algo-una-encuesta-senala-que-la-incertidumbre-electoral-para-2027-es-el-mayor-freno-nid23102026/",
+     "domain": "La Nación",
+     "seendate": "20261023T161857Z"
     },
     {
      "title": "El riesgo país vuelve a subir, supera los 710 puntos y marca el máximo del año",
@@ -2839,34 +2887,16 @@
      "seendate": "20261023T155104Z"
     },
     {
-     "title": "Javier Milei y sus medidas, en vivo: el mandatario dijo que piensa un proyecto a “100 años” para la Argentina",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-mandatario-admitio-que-la-economia-no-evoluciona-como-nid23102026/",
-     "domain": "La Nación",
-     "seendate": "20261023T155000Z"
-    },
-    {
      "title": "Murió a los 118 años Manuel Moisés Álvez, el hombre más longevo del país",
      "url": "https://www.lanacion.com.ar/sociedad/murio-a-los-118-anos-manuel-moises-alvez-el-hombre-mas-longevo-del-pais-nid23102026/",
      "domain": "La Nación",
      "seendate": "20261023T154814Z"
     },
     {
-     "title": "Dólar hoy y dólar blue, EN VIVO: y cuál es el precio del paralelo este viernes 23 de octubre, minuto a minuto",
-     "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-y-cual-es-el-precio-del-paralelo-este-viernes-23-de-octubre-minuto-a-nid23102026/",
-     "domain": "La Nación",
-     "seendate": "20261023T154702Z"
-    },
-    {
      "title": "Hay alerta naranja y amarilla por tormentas, vientos y lluvias para este viernes 23 de octubre: las provincias afectadas",
      "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-naranja-y-amarilla-por-tormentas-vientos-y-zonda-para-este-viernes-23-de-octubre-las-nid23102026/",
      "domain": "La Nación",
      "seendate": "20261023T154525Z"
-    },
-    {
-     "title": "Detuvieron por lavado a Ariel Vallejo, dueño de Sur Finanzas y allegado a la AFA",
-     "url": "https://www.lanacion.com.ar/politica/detuvieron-a-ariel-vallejos-dueno-de-sur-finanzas-por-lavado-nid23102026/",
-     "domain": "La Nación",
-     "seendate": "20261023T154020Z"
     },
     {
      "title": "Tras la prórroga de la concesión, Aeropuertos Argentina consiguió US$400 millones para avanzar con su millonario plan de obras",
@@ -3011,42 +3041,6 @@
      "url": "https://www.lanacion.com.ar/economia/campo/una-violenta-caida-de-mucho-granizo-mato-a-decenas-de-animales-y-dejo-graves-danos-nid22102026/",
      "domain": "La Nación",
      "seendate": "20261023T141641Z"
-    },
-    {
-     "title": "El Niño: nadie puede impedir que ocurra, pero sí evitar buena parte de sus daños",
-     "url": "https://www.lanacion.com.ar/economia/campo/el-nino-nadie-puede-impedir-que-ocurra-pero-si-evitar-buena-parte-de-sus-danos-nid23102026/",
-     "domain": "La Nación",
-     "seendate": "20261023T140611Z"
-    },
-    {
-     "title": "Murió Leonardo Cohen Arazi, el ex relacionista púbico condenado por los abuso en Independiente: cumplía prisión domiciliaria",
-     "url": "https://www.lanacion.com.ar/seguridad/murio-leonardo-cohen-arazi-el-exrelacionista-pubico-condenado-por-los-abuso-en-independiente-cumplia-nid23102026/",
-     "domain": "La Nación",
-     "seendate": "20261023T135817Z"
-    },
-    {
-     "title": "Separadas por 7000 kilómetros, Hawái y la Isla de Pascua podrían haber sido fundadas por los mismos navegantes polinesios hace mil años",
-     "url": "https://www.lanacion.com.ar/sociedad/separadas-por-7000-kilometros-hawai-y-la-isla-de-pascua-podrian-haber-sido-fundadas-por-los-mismos-nid23102026/",
-     "domain": "La Nación",
-     "seendate": "20261023T135554Z"
-    },
-    {
-     "title": "Un argentino y una alemana murieron tras volcar con el auto en la ruta 40",
-     "url": "https://www.lanacion.com.ar/sociedad/un-argentino-y-una-alemana-murieron-tras-volcar-con-el-auto-en-la-ruta-40-nid23102026/",
-     "domain": "La Nación",
-     "seendate": "20261023T134750Z"
-    },
-    {
-     "title": "Inti Bonomo, especialista en Ciencias Ambientales, sobre la evolución del Súper Niño: “Va a seguir creciendo y el pico va a ser en diciembre”",
-     "url": "https://www.lanacion.com.ar/sociedad/inti-bonomo-especialista-en-ciencias-ambientales-sobre-la-evolucion-del-super-nino-va-a-seguir-nid21102026/",
-     "domain": "La Nación",
-     "seendate": "20261023T134102Z"
-    },
-    {
-     "title": "Axel Kicillof desembarca en la ciudad de Buenos Aires con una actividad de su agrupación",
-     "url": "https://www.lanacion.com.ar/politica/axel-kicillof-desembarca-en-la-ciudad-de-buenos-aires-con-una-actividad-de-su-agrupacion-nid23102026/",
-     "domain": "La Nación",
-     "seendate": "20261023T133912Z"
     }
    ]
   },
@@ -3411,40 +3405,28 @@
   "PRY": {
    "articles": [
     {
+     "title": "Títulos falsos: “el negocio de la salud en Paraguay mueve alrededor de 500 millones de dólares”, denuncia el contralor",
+     "url": "https://www.abc.com.py/nacionales/2026/10/23/titulos-falsos-el-negocio-de-la-salud-en-paraguay-mueve-alrededor-de-500-millones-de-dolares-denuncia-el-contralor/",
+     "domain": "ABC Color",
+     "seendate": "20261023T165128Z"
+    },
+    {
+     "title": "Video clave: así motochorro perpetró asalto en una cafetería de Asunción",
+     "url": "https://www.abc.com.py/nacionales/2026/10/23/video-clave-asi-motochorro-perpetro-asalto-en-una-cafeteria-de-asuncion/",
+     "domain": "ABC Color",
+     "seendate": "20261023T164825Z"
+    },
+    {
      "title": "Puerto Sastre: la protesta venció la burocracia de la Gobernación",
      "url": "https://www.abc.com.py/nacionales/chaco/2026/10/23/puerto-sastre-la-protesta-vencio-la-burocracia-de-la-gobernacion/",
      "domain": "ABC Color",
      "seendate": "20261023T145230Z"
     },
     {
-     "title": "Rolón conforma equipo fiscal para indagar caso de los más de 1.000 títulos falsos",
-     "url": "https://www.abc.com.py/nacionales/2026/10/23/rolon-conforma-equipo-fiscal-para-indagar-caso-de-los-mas-de-1000-titulos-falsos/",
-     "domain": "ABC Color",
-     "seendate": "20261023T143359Z"
-    },
-    {
      "title": "Juez procesa y convoca a Eddie Jara para audiencia en causa por corrupción",
      "url": "https://www.abc.com.py/nacionales/2026/10/23/juez-convoca-a-eddie-jara-para-audiencia-en-proceso-por-presunta-corrupcion/",
      "domain": "ABC Color",
      "seendate": "20261023T141840Z"
-    },
-    {
-     "title": "Caso Narcojet: disponen cerrojo financiero a cuatro procesados",
-     "url": "https://www.abc.com.py/nacionales/2026/10/23/caso-narcojet-disponen-cerrojo-financiero-a-cuatro-procesados/",
-     "domain": "ABC Color",
-     "seendate": "20261023T141042Z"
-    },
-    {
-     "title": "Salma Agüero asegura que compra de lote a Jara: “es trazable” y que la función pública es un apostolado",
-     "url": "https://www.abc.com.py/nacionales/2026/10/23/salma-aguero-asegura-que-compra-de-inmueble-a-eddie-jara-es-trazable-y-bancarizada-y-que-la-funcion-publica-es-un-apostolado/",
-     "domain": "ABC Color",
-     "seendate": "20261023T140458Z"
-    },
-    {
-     "title": "MEC propone abordar la sexualidad desde la afectividad, revela Ramírez",
-     "url": "https://www.abc.com.py/nacionales/2026/10/23/mec-propone-abordar-la-sexualidad-desde-la-afectividad-revela-ramirez/",
-     "domain": "ABC Color",
-     "seendate": "20261023T134625Z"
     }
    ]
   },
@@ -3453,6 +3435,42 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "Após decisão de Mendonça, campanhas de Flávio e Lula entregam novos documentos e seguem sem abrir os sigilos",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/23/apos-decisao-de-mendonca-campanhas-de-flavio-e-lula-entregam-novos-documentos-e-seguem-sem-abrir-os-sigilos.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261023T164315Z"
+    },
+    {
+     "title": "Nunes Marques aguarda resposta da Meta sobre 'Exército do Lula' e indica que pode retirar canal do ar se houver irregularidade",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/23/nunes-marques-aguarda-resposta-da-meta-sobre-exercito-do-lula-e-indica-que-pode-retirar-canal-do-ar-se-houver-irregularidade.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261023T164145Z"
+    },
+    {
+     "title": "TSE diz que não determinou suspensão de canais de WhatsApp e cobra atuação isonômica de plataformas",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/23/tse-diz-que-nao-determinou-suspensao-de-canais-de-whatsapp-e-cobra-atuacao-isonomica-de-plataformas.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261023T163920Z"
+    },
+    {
+     "title": "FAB intercepta e destrói helicóptero clandestino vindo da Venezuela",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/23/fab-intercepta-e-destroi-helicoptero-clandestino-vindo-da-venezuela.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261023T163538Z"
+    },
+    {
+     "title": "Como consultar o local de votação do segundo turno nas eleições 2026?",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/23/como-consultar-o-local-de-votacao-do-segundo-turno-nas-eleicoes-2026.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261023T161120Z"
+    },
+    {
+     "title": "CNJ estabelece regras para acelerar venda de bens apreendidos pela Polícia Federal",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/23/cnj-estabelece-regras-para-acelerar-venda-de-bens-apreendidos-pela-policia-federal.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261023T161036Z"
+    },
     {
      "title": "Após dois dias presas no Egito, Malévola e amiga chegam ao Brasil: 'Não volto de maneira alguma'",
      "url": "https://oglobo.globo.com/brasil/noticia/2026/10/23/apos-dois-dias-presas-no-egito-malevola-e-amiga-chegam-ao-brasil-nao-volto-de-maneira-alguma.ghtml",
@@ -3542,30 +3560,6 @@
      "url": "https://oglobo.globo.com/brasil/sao-paulo/noticia/2026/10/23/sao-paulo-soma-19-corpos-encontrados-desde-setembro-policia-descarta-serial-killer.ghtml",
      "domain": "O Globo",
      "seendate": "20261023T122135Z"
-    },
-    {
-     "title": "Seu filho vai fazer Enem? Veja o que os pais devem fazer (e evitar) antes das provas",
-     "url": "https://oglobo.globo.com/brasil/educacao/enem-e-vestibular/noticia/2026/10/23/enem-o-que-os-pais-devem-fazer-e-evitar-na-reta-final-antes-das-provas.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261023T121436Z"
-    },
-    {
-     "title": "Homem morre após cair no túmulo do próprio pai em cemitério no ES",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/23/homem-morre-apos-cair-no-tumulo-do-proprio-pai-em-cemiterio-no-es.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261023T114823Z"
-    },
-    {
-     "title": "Flávio reúne sertanejos no programa eleitoral e critica governo por dívidas das famílias, e Lula usa Janones e ataca rival sobre programas sociais",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/23/flavio-reune-sertanejos-no-programa-eleitoral-e-critica-governo-por-dividas-das-familias-e-lula-usa-janones-e-ataca-rival-sobre-programas-sociais.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261023T113612Z"
-    },
-    {
-     "title": "TSE cobra Meta e X a explicarem uso de IA e alegação da campanha de Lula de benefício a Flávio nas redes",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/23/tse-cobra-meta-e-x-a-explicarem-uso-de-ia-e-alegacao-da-campanha-de-lula-de-beneficio-a-flavio-nas-redes.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261023T112830Z"
     }
    ]
   }
