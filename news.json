@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T02:30:52+00:00",
+ "updated": "2026-10-23T03:08:48+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -157,6 +157,18 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Vinculan a proceso a César Jáuregui; es acusado de ejercicio indebido del servicio público",
+     "url": "https://www.eluniversal.com.mx/estados/vinculan-a-proceso-a-cesar-jauregui-es-acusado-de-ejercicio-indebido-del-servicio-publico/",
+     "domain": "El Universal",
+     "seendate": "20261023T024039Z"
+    },
+    {
+     "title": "Tráiler derriba postes y un semáforo frente al Búnker de Fiscalía CDMX; no se reportan lesionados",
+     "url": "https://www.eluniversal.com.mx/metropoli/trailer-derriba-postes-y-un-semaforo-frente-al-bunker-de-fiscalia-cdmx-no-se-reportan-lesionados/",
+     "domain": "El Universal",
+     "seendate": "20261023T022426Z"
+    },
     {
      "title": "Tráiler golpea techo de estación de Línea 2 del Metrobús; dobla estructura",
      "url": "https://www.eluniversal.com.mx/metropoli/trailer-golpea-techo-de-estacion-de-linea-2-del-metrobus-dobla-estructura/",
@@ -1270,6 +1282,12 @@
   "CRI": {
    "articles": [
     {
+     "title": "29 diputados del PPSO y PLN aprueban moción para prohibir carteles en las curules para ‘preservar la imagen institucional’",
+     "url": "https://www.nacion.com/politica/29-diputados-del-ppso-y-pln-aprueban-mocion-para/6VN62AHYW5DPDEENDTUMO2UGRI/story/",
+     "domain": "La Nación",
+     "seendate": "20261023T023135Z"
+    },
+    {
      "title": "Costa Rica podría quedarse sin monitoreo de tsunamis las 24 horas desde enero del 2027 por recorte presupuestario a universidades",
      "url": "https://www.nacion.com/el-pais/costa-rica-podria-quedarse-sin-monitoreo-de/NNKHC4IOMBE7RGE3EOLTK7CVII/story/",
      "domain": "La Nación",
@@ -2013,6 +2031,12 @@
   "ECU": {
    "articles": [
     {
+     "title": "982 postulantes rendirán evaluación para seleccionar a 222 jueces temporales",
+     "url": "https://eluniverso.com/politica/ejecutivo/982-postulantes-rendiran-evaluacion-para-seleccionar-a-222-jueces-temporales-nota/",
+     "domain": "El Universo",
+     "seendate": "20261023T022849Z"
+    },
+    {
      "title": "Lotto, sorteo 3481: estos son los números ganadores del 22 de octubre",
      "url": "https://eluniverso.com/comunidad/ecuador/lotto-sorteo-3481-estos-son-los-numeros-ganadores-del-22-de-octubre-nota/",
      "domain": "El Universo",
@@ -2109,12 +2133,6 @@
      "seendate": "20261022T164906Z"
     },
     {
-     "title": "Manta se prepara para el ejercicio Solidarex 2026: buques de tres países llegarán este viernes a El Murciélago",
-     "url": "https://eluniverso.com/comunidad/ecuador/manta-se-prepara-para-el-ejercicio-solidarex-2026-buques-de-tres-paises-llegaran-este-viernes-a-el-murcielago-nota/",
-     "domain": "El Universo",
-     "seendate": "20261022T163501Z"
-    },
-    {
      "title": "Río Teaone mantiene en alerta a tres parroquias por aumento de su caudal",
      "url": "https://eluniverso.com/comunidad/ecuador/rio-teaone-mantiene-en-alerta-a-tres-parroquias-por-aumento-de-su-caudal-nota/",
      "domain": "El Universo",
@@ -2131,16 +2149,16 @@
   "PER": {
    "articles": [
     {
+     "title": "Lluvias en el norte del Perú EN VIVO: últimas noticias del estado de emergencia en Piura, Tumbes y Trujillo",
+     "url": "https://elcomercio.pe/peru/piura-y-el-norte-del-peru-bajo-lluvias-intensas-ultimas-noticias-alerta-por-el-nino-e-informe-del-coen-en-vivo-lbposting-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261023T025919Z"
+    },
+    {
      "title": "CGTP rechaza suspensión perfecta de labores ante posible impacto de El Niño y exige garantías laborales",
      "url": "https://elcomercio.pe/economia/peru/cgtp-rechaza-suspension-perfecta-de-labores-ante-posible-impacto-de-fenomeno-el-nino-y-exige-garantias-laborales-juan-sheput-mtpe-ultimas-noticia/",
      "domain": "El Comercio",
      "seendate": "20261023T021115Z"
-    },
-    {
-     "title": "Lluvias en el norte del Perú EN VIVO: últimas noticias del estado de emergencia en Piura, Tumbes y Trujillo",
-     "url": "https://elcomercio.pe/peru/piura-y-el-norte-del-peru-bajo-lluvias-intensas-ultimas-noticias-alerta-por-el-nino-e-informe-del-coen-en-vivo-lbposting-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261023T014846Z"
     },
     {
      "title": "Junín: Tras 19 días combatientes forestales logran extinguir incendio en comunidad nativa",
@@ -2505,6 +2523,192 @@
   "CHL": {
    "articles": [
     {
+     "title": "Banda Tomo Como Rey debuta en Dreams Valdivia con fiesta de cumbia y ska",
+     "url": "https://www.diariopaillaco.cl/noticia/panoramas-y-cultura/2026/10/banda-tomo-como-rey-debuta-en-dreams-valdivia-con-fiesta-de-cumbia-y-ska",
+     "domain": "diariopaillaco.cl",
+     "seendate": "20261023T021500Z"
+    },
+    {
+     "title": "El crimen organizado es una amenaza brutal y el periodismo es el único cordón umbilical que le queda a la ciudadanía",
+     "url": "https://www.diariopaillaco.cl/noticia/actualidad/2026/10/el-crimen-organizado-es-una-amenaza-brutal-y-el-periodismo-es-el-unico-cordon-umbilical-que-le-queda-a-la-ciudadania",
+     "domain": "diariopaillaco.cl",
+     "seendate": "20261023T021500Z"
+    },
+    {
+     "title": "Tecnológicas de EE . UU . se desploman y arrastran al Ipsa mientras los inversionistas buscan refugio",
+     "url": "https://www.latercera.com/pulso/noticia/tecnologicas-de-eeuu-se-desploman-y-arrastran-al-ipsa-mientras-los-inversionistas-buscan-refugio/",
+     "domain": "latercera.com",
+     "seendate": "20261023T010000Z"
+    },
+    {
+     "title": "Pérdidas en el Fondo E : Ministro Rau llama a los adultos mayores que estén próximos a jubilarse no tomar decisiones apresuradas",
+     "url": "https://www.lanacion.cl/perdidas-en-el-fondo-e-ministro-rau-llama-a-los-adultos-mayores-que-esten-proximos-a-jubilarse-no-tomar-decisiones-apresuradas/",
+     "domain": "lanacion.cl",
+     "seendate": "20261023T001500Z"
+    },
+    {
+     "title": "El Divisadero - La importancia de la Unidad de Flagrancia de la Macrozona Sur Austral",
+     "url": "http://www.eldivisadero.cl/_noticia/La-importancia-de-la-Unidad-de-Flagrancia-de-la-Macrozona-Sur-Austral/ODQ2OTg=",
+     "domain": "eldivisadero.cl",
+     "seendate": "20261023T001500Z"
+    },
+    {
+     "title": "Ministro Arrau valora fallo del TC por RUF : Una buena noticia para nuestro país",
+     "url": "https://www.lanacion.cl/ministro-arrau-valora-fallo-del-tc-por-ruf-una-buena-noticia-para-nuestro-pais/",
+     "domain": "lanacion.cl",
+     "seendate": "20261023T001500Z"
+    },
+    {
+     "title": "Obra teatral sobre Pablo de Rokha llegará con entrada gratuita al Teatro Municipal de San Fernando",
+     "url": "https://eltipografo.cl/2026/10/obra-teatral-sobre-pablo-de-rokha-llegara-con-entrada-gratuita-al-teatro-municipal-de-san-fernando",
+     "domain": "eltipografo.cl",
+     "seendate": "20261023T000000Z"
+    },
+    {
+     "title": "Chile y Perú sostienen primera reunión de cancillerías bajo gobiernos de Kast y Fujimori y acuerdan avanzar en agenda bilateral",
+     "url": "https://www.latercera.com/nacional/noticia/chile-y-peru-sostienen-primera-reunion-de-cancillerias-bajo-gobiernos-de-kast-y-fujimori-y-acuerdan-avanzar-en-agenda-bilateral/",
+     "domain": "latercera.com",
+     "seendate": "20261022T234500Z"
+    },
+    {
+     "title": "Ministro Rau llama a postergar las jubilaciones por crisis del fondo E : La prudencia es buena consejera",
+     "url": "https://www.eldinamo.cl/pais/2026/10/22/ministro-rau-llama-a-postergar-las-jubilaciones-por-crisis-del-fondo-e-la-prudencia-es-buena-consejera/",
+     "domain": "eldinamo.cl",
+     "seendate": "20261022T233000Z"
+    },
+    {
+     "title": "Chile cayó ante México y buscará la clasificación en la última fecha del Mundial Sub 17 Femenino",
+     "url": "https://www.chilevision.cl/chv-deportes/la-roja/chile-cayo-ante-mexico-segunda-fecha-mundial-sub-17-femenino/",
+     "domain": "chilevision.cl",
+     "seendate": "20261022T233000Z"
+    },
+    {
+     "title": "Culebra chilena : qué especies pueden inocular veneno y qué hacer si una te muerde",
+     "url": "https://www.eldinamo.cl/sociedad/2026/10/22/culebra-chilena-que-especies-pueden-inocular-veneno-y-que-hacer-si-una-te-muerde/",
+     "domain": "eldinamo.cl",
+     "seendate": "20261022T233000Z"
+    },
+    {
+     "title": "Evelyn Matthei descarta asistir a comisión Cerimedo : ¿ Cree que me voy a prestar para el show de Republicanos ?",
+     "url": "https://www.eldinamo.cl/politica/2026/10/22/evelyn-matthei-descarta-asistir-a-comision-cerimedo-cree-que-me-voy-a-prestar-para-el-show-de-republicanos/",
+     "domain": "eldinamo.cl",
+     "seendate": "20261022T233000Z"
+    },
+    {
+     "title": "Patricio Mladinic fue reconocido como Ciudadano Ilustre de Magallanes 2026 en emotiva ceremonia",
+     "url": "https://www.elpinguino.com/cronica/patricio-mladinic-fue-reconocido-como-ciudadano-ilustre-de-magallanes-2026-en-emotiva-ceremonia/",
+     "domain": "elpinguino.com",
+     "seendate": "20261022T231500Z"
+    },
+    {
+     "title": "Se lo dieron vuelta a Chile : La Roja sufre dura derrota ante México en el Mundial Sub 17 femenino",
+     "url": "https://www.tvn.cl/deportes/la-roja/se-lo-dieron-vuelta-a-chile-la-roja-sufre-dura-derrota-ante-mexico-en-el-mundial-femenino",
+     "domain": "tvn.cl",
+     "seendate": "20261022T231500Z"
+    },
+    {
+     "title": "Detienen a sujeto con marihuana tras persecución en el Loteo del Mar",
+     "url": "https://www.elpinguino.com/tribunales/detienen-a-sujeto-con-marihuana-tras-persecucion-en-el-loteo-del-mar/",
+     "domain": "elpinguino.com",
+     "seendate": "20261022T231500Z"
+    },
+    {
+     "title": "DT de Palestino revive su pasantía con Bielsa a días de recibir a Colo Colo",
+     "url": "https://redgol.cl/colocolo/dt-de-palestino-revive-su-pasantia-con-bielsa-en-la-antesala-a-recibir-a-colo-colo-estar-en-su-cocina-es-unico",
+     "domain": "redgol.cl",
+     "seendate": "20261022T231500Z"
+    },
+    {
+     "title": "Universidad de Chile se despide con derrota de la Copa Libertadores femenina",
+     "url": "https://www.tvn.cl/deportes/futbol-internacional/no-alcanzo-para-el-milagro-universidad-de-chile-se-despide-con-derrota-de-copa-libertadores-femenina",
+     "domain": "tvn.cl",
+     "seendate": "20261022T231500Z"
+    },
+    {
+     "title": "Proyecto permitirá mejorar abastecimiento de agua potable en Puerto Williams",
+     "url": "https://www.elpinguino.com/cronica/proyecto-permitira-mejorar-abastecimiento-de-agua-potable-en-puerto-williams/",
+     "domain": "elpinguino.com",
+     "seendate": "20261022T231500Z"
+    },
+    {
+     "title": "Joel Soto : De tocar la gloria en el fútbol chileno a estar tras las rejas",
+     "url": "https://redgol.cl/chile/informe-redgol-joel-soto-de-tocar-la-gloria-en-el-futbol-chileno-a-estar-tras-las-rejas",
+     "domain": "redgol.cl",
+     "seendate": "20261022T231500Z"
+    },
+    {
+     "title": "Del Cementerio General al cine : desafío de Halloween premiará al mejor cortometraje hecho en 48 horas",
+     "url": "https://www.radioagricultura.cl/entretencion/del-cementerio-general-al-cine-desafio-de-halloween-premiara-al-mejor-cortometraje-hecho-en-48-horas_20261022/",
+     "domain": "radioagricultura.cl",
+     "seendate": "20261022T231500Z"
+    },
+    {
+     "title": "Tres detenidos en prisión preventiva tras operativo contra el microtráfico delivery en Punta Arenas",
+     "url": "https://www.elpinguino.com/tribunales/tres-detenidos-en-prision-preventiva-tras-operativo-contra-el-microtrafico-delivery-en-punta-arenas/",
+     "domain": "elpinguino.com",
+     "seendate": "20261022T231500Z"
+    },
+    {
+     "title": "Princesa Alba estrena MALAGRADECIDA : Su esperado tercer disco que reúne colaboraciones con Javiera Mena y Gepe",
+     "url": "https://www.tvn.cl/actualidad-y-tendencias/tendencias/princesa-alba-estrena-malagradecida-su-esperado-tercer-disco-que-reune",
+     "domain": "tvn.cl",
+     "seendate": "20261022T231500Z"
+    },
+    {
+     "title": "Copihue de Oro 2026 revela a todos sus nominados : revisa las 18 categorías y cómo votar",
+     "url": "https://www.radioagricultura.cl/entretencion/copihue-de-oro-2026-revela-a-todos-sus-nominados-revisa-las-18-categorias-y-como-votar_20261022/",
+     "domain": "radioagricultura.cl",
+     "seendate": "20261022T231500Z"
+    },
+    {
+     "title": "Nuevo golpe a las proyecciones : CEPAL prevé que Chile crezca 0 , 2 % en 2026 , por debajo de lo anticipado por el FMI , el Banco Central y Hacienda",
+     "url": "https://www.cnnchile.com/negocios/cepal-chile-crecimiento-02-2026-fmi-banco-central-hacienda/",
+     "domain": "cnnchile.com",
+     "seendate": "20261022T230000Z"
+    },
+    {
+     "title": "Ministro Arrau valora fallo del TC por RUF : Es una buena noticia para nuestro país",
+     "url": "https://www.cnnchile.com/pais/ministro-arrau-valora-fallo-del-tc-por-ruf-es-una-buena-noticia-para-nuestro-pais/",
+     "domain": "cnnchile.com",
+     "seendate": "20261022T230000Z"
+    },
+    {
+     "title": "Presidente Kast tras remoción de Araya de Comisión de Constitución : Nos duele que por pensar distinto alguien sea sancionado",
+     "url": "https://www.cnnchile.com/pais/presidente-kast-tras-remocion-de-araya-de-comision-de-constitucion-nos-duele-que-por-pensar-distinto-alguien-sea-sancionado/",
+     "domain": "cnnchile.com",
+     "seendate": "20261022T230000Z"
+    },
+    {
+     "title": "Ministro Rau llama a la prudencia a las personas próximas a jubilarse ante caída del Fondo E",
+     "url": "https://www.latercera.com/pulso/noticia/ministro-rau-llama-a-la-prudencia-a-las-personas-proximas-a-jubilarse-ante-caida-del-fondo-e/",
+     "domain": "latercera.com",
+     "seendate": "20261022T224500Z"
+    },
+    {
+     "title": "Los lugares para visitar este fin de semana en OH ! Stgo 2026",
+     "url": "https://www.elmostrador.cl/cultura/2026/10/22/los-lugares-para-visitar-este-fin-de-semana-en-oh-stgo-2026/",
+     "domain": "elmostrador.cl",
+     "seendate": "20261022T224500Z"
+    },
+    {
+     "title": "« Estoy nervioso »: el impactante debut en Vértigo que remecerá esta noche a Canal 13",
+     "url": "https://www.pudahuel.cl/noticias/2026/10/estoy-nervioso-el-impactante-debut-en-vertigo-que-remecera-esta-noche-a-canal-13/",
+     "domain": "pudahuel.cl",
+     "seendate": "20261022T224500Z"
+    },
+    {
+     "title": "Hombres : ¿ los 60 son los nuevos 40 ?",
+     "url": "https://www.elmostrador.cl/efecto-placebo/2026/10/22/hombres-los-60-son-los-nuevos-40/",
+     "domain": "elmostrador.cl",
+     "seendate": "20261022T224500Z"
+    },
+    {
+     "title": "Ya sabemos quién tiene la plata : legendaria actriz lanza fuerte crítica al gobierno del presidente Kast Pudahuel",
+     "url": "https://www.pudahuel.cl/noticias/2026/10/ya-sabemos-quien-tiene-la-plata-legendaria-actriz-lanza-fuerte-critica-al-gobierno-del-presidente-kast/",
+     "domain": "pudahuel.cl",
+     "seendate": "20261022T224500Z"
+    },
+    {
      "title": "La olla a presión en el Ministerio de Vivienda que complica a Poduje y que contrasta con su positiva evaluación en las encuestas",
      "url": "https://www.theclinic.cl/2026/10/22/la-olla-a-presion-en-el-ministerio-de-vivienda-que-complica-a-poduje-y-que-contrasta-con-su-positiva-evaluacion-en-las-encuestas/",
      "domain": "theclinic.cl",
@@ -2677,208 +2881,46 @@
      "url": "https://www.biobiochile.cl/noticias/deportes/futbol-internacional/chilenos-en-el-exterior/2026/10/22/tras-cruce-y-ninguneo-de-dt-avisan-que-alexis-sanchez-medita-huir-de-montreal-por-medio-de-clausula.shtml",
      "domain": "biobiochile.cl",
      "seendate": "20261022T191500Z"
-    },
-    {
-     "title": "14 detenidos tras operativo antidroga en Los Vilos : allanan 20 viviendas e incautan armas y vehículos | Nacional",
-     "url": "https://www.biobiochile.cl/noticias/nacional/region-de-coquimbo/2026/10/22/14-detenidos-tras-operativo-antidroga-en-los-vilos-allanan-20-viviendas-e-incautan-armas-y-vehiculos.shtml",
-     "domain": "biobiochile.cl",
-     "seendate": "20261022T191500Z"
-    },
-    {
-     "title": "Retratos de Vida transforma a mujeres que han enfrentado el cáncer de mama en musas del arte | Nacional",
-     "url": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/10/22/retratos-de-vida-transforma-a-mujeres-que-han-enfrentado-el-cancer-de-mama-en-musas-del-arte.shtml",
-     "domain": "biobiochile.cl",
-     "seendate": "20261022T191500Z"
-    },
-    {
-     "title": "Vozinha sigue girando a cuenta del Mundial : el nuevo contrato comercial que firma el arquero de Colo Colo",
-     "url": "https://www.latercera.com/el-deportivo/noticia/vozinha-sigue-girando-a-cuenta-del-mundial-el-nuevo-contrato-comercial-que-firma-el-arquero-de-colo-colo/",
-     "domain": "latercera.com",
-     "seendate": "20261022T190000Z"
-    },
-    {
-     "title": "En vivo : La Roja femenina se enfrenta a México por el Mundial Sub 17",
-     "url": "https://www.latercera.com/el-deportivo/noticia/en-vivo-la-roja-femenina-se-enfrenta-a-mexico-por-el-mundial-sub-17/",
-     "domain": "latercera.com",
-     "seendate": "20261022T190000Z"
-    },
-    {
-     "title": "Picmagluti en Chile : ¿ será más barato que Ozempic ?",
-     "url": "https://www.elmostrador.cl/agenda-pais/vida-en-linea/2026/10/22/picmagluti-sera-mas-barato-que-ozempic-chile-aprueba-nuevo-medicamento-con-semaglutida/",
-     "domain": "elmostrador.cl",
-     "seendate": "20261022T190000Z"
-    },
-    {
-     "title": "DOS ESTUDIANTES DE MAGALLANES CLASIFICAN A LA FINAL NACIONAL DE LA XXXVIII OLIMPIADA DE MATEMÁTICA 2026",
-     "url": "https://www.radiopolar.com/estudiantes-magallanes-clasifican-nacional-xxxviii-olimpiada-matematica-2026",
-     "domain": "radiopolar.com",
-     "seendate": "20261022T174500Z"
-    },
-    {
-     "title": "Panoramas : ¿ Qué hacer en la región este fin de semana ?",
-     "url": "https://www.elrancaguino.cl/2026/10/22/panoramas-que-hacer-en-la-region-este-fin-de-semana-25/",
-     "domain": "elrancaguino.cl",
-     "seendate": "20261022T173000Z"
-    },
-    {
-     "title": "Ñublense vs Coquimbo Unido : previa , horario y cómo llegan para la fecha 25 del campeonato chileno",
-     "url": "https://www.elrancaguino.cl/2026/10/22/nublense-vs-coquimbo-unido-previa-horario-y-como-llegan-para-la-fecha-25-del-campeonato-chileno/",
-     "domain": "elrancaguino.cl",
-     "seendate": "20261022T173000Z"
-    },
-    {
-     "title": "Kast en medio de cambio en presidencia de Comisión de Constitución : Nos duele que por pensar distinto alguien sea sancionado",
-     "url": "https://www.latercera.com/politica/noticia/kast-en-medio-de-cambio-en-presidencia-de-comision-de-constitucion-nos-duele-que-por-pensar-distinto-alguien-sea-sancionado/",
-     "domain": "latercera.com",
-     "seendate": "20261022T173000Z"
-    },
-    {
-     "title": "Tras el receso vuelve el fútbol chileno a la TV abierta : Canal 13 anuncia el partido que dará este fin de semana",
-     "url": "https://www.lacuarta.com/deportes/noticia/tras-el-receso-vuelve-el-futbol-chileno-a-la-tv-abierta-canal-13-anuncia-el-partido-que-dara-este-fin-de-semana/",
-     "domain": "lacuarta.com",
-     "seendate": "20261022T173000Z"
-    },
-    {
-     "title": "Con cláusula de salida a fin de año : el futuro de Alexis Sánchez en el Montreal queda en suspenso tras ninguneo del DT",
-     "url": "https://www.latercera.com/el-deportivo/noticia/con-clausula-de-salida-a-fin-de-ano-el-futuro-de-alexis-sanchez-en-el-montreal-queda-en-suspenso-tras-ninguneo-del-dt/",
-     "domain": "latercera.com",
-     "seendate": "20261022T173000Z"
-    },
-    {
-     "title": "Ni el internet está seguro : Uno de cada cuatro chilenos ha caído en una estafa digital",
-     "url": "https://www.lacuarta.com/tendencias/noticia/ni-el-internet-esta-seguro-uno-de-cada-cuatro-chilenos-ha-caido-en-una-estafa-digital/",
-     "domain": "lacuarta.com",
-     "seendate": "20261022T173000Z"
-    },
-    {
-     "title": "Mañana se lo llevan en un vuelo a Colombia : joven chilena pide ayuda para evitar que deporten a su pareja",
-     "url": "https://www.lacuarta.com/chile/noticia/manana-se-lo-llevan-en-un-vuelo-a-colombia-joven-chilena-pide-ayuda-para-evitar-que-deporten-a-su-pareja/",
-     "domain": "lacuarta.com",
-     "seendate": "20261022T173000Z"
-    },
-    {
-     "title": "Oposición refuerza crítica al gobierno por rebaja en condenas de delitos sexuales y advierte que puede abrir puerta a indultos",
-     "url": "https://www.latercera.com/politica/noticia/oposicion-refuerza-critica-al-gobierno-por-rebaja-en-condenas-de-delitos-sexuales-y-advierte-que-puede-abrir-puerta-a-indultos/",
-     "domain": "latercera.com",
-     "seendate": "20261022T173000Z"
-    },
-    {
-     "title": "Amanecieron muertos : Kel Calderón sufre por el envenenamiento de su perrito y ofrece jugosa recompensa para encontrar al responsable",
-     "url": "https://www.lacuarta.com/espectaculos/noticia/amanecieron-muertos-kel-calderon-sufre-por-el-envenenamiento-de-su-perrito-y-ofrece-jugosa-recompensa-para-encontrar-al-responsable/",
-     "domain": "lacuarta.com",
-     "seendate": "20261022T173000Z"
-    },
-    {
-     "title": "A qué hora juega La Roja frente a México este jueves por el Mundial Sub 17 Femenino",
-     "url": "https://www.t13.cl/noticia/deportes13/a-hora-juega-roja-frente-mexico-este-jueves-por-mundial-sub-17-femenino-22-10-2026",
-     "domain": "t13.cl",
-     "seendate": "20261022T171500Z"
-    },
-    {
-     "title": "El round twittero entre Emilia Schneider y Arturo Squella por la rebaja de penas a abusadores sexuales",
-     "url": "https://www.theclinic.cl/2026/10/22/tome-su-telefono-y-llame-al-presidente-el-round-twittero-entre-emilia-schneider-y-arturo-squella-por-la-reduccion-de-penas-a-abusadores-sexuales/",
-     "domain": "theclinic.cl",
-     "seendate": "20261022T171500Z"
-    },
-    {
-     "title": "PDI incauta más de 739 kilos de droga en operación Travesía del Desierto : hay dos detenidos",
-     "url": "https://www.radioagricultura.cl/noticias/nacional/pdi-incauta-mas-de-739-kilos-de-droga-en-operacion-travesia-del-desierto-hay-dos-detenidos_20261022/",
-     "domain": "radioagricultura.cl",
-     "seendate": "20261022T161500Z"
-    },
-    {
-     "title": "Por única vez : Scotiabank reconoce un castigo de US$ 39 millones en sus utilidades por la megarreforma del gobierno",
-     "url": "https://www.latercera.com/pulso/noticia/por-unica-vez-scotiabank-reconoce-un-castigo-de-us-39-millones-en-sus-utilidades-por-la-megarreforma-del-gobierno/",
-     "domain": "latercera.com",
-     "seendate": "20261022T160000Z"
-    },
-    {
-     "title": "OHiggins se enfrenta ante la visita Cobresal por la fecha 25",
-     "url": "https://www.elrancaguino.cl/2026/10/22/ohiggins-vs-cobresal-previa-horario-y-como-llegan-para-la-fecha-25-del-campeonato-chileno/",
-     "domain": "elrancaguino.cl",
-     "seendate": "20261022T160000Z"
-    },
-    {
-     "title": "Malas noticias para la economía : cobre cae a su menor nivel más bajo en más de un mes justo cuando suben los combustibles",
-     "url": "https://www.latercera.com/pulso/noticia/cobre-cae-a-su-menor-nivel-mas-bajo-en-un-mes-justo-cuando-suben-los-combustibles/",
-     "domain": "latercera.com",
-     "seendate": "20261022T160000Z"
-    },
-    {
-     "title": "Particular detalle : paquetes de . 500 millones de droga incautada en la RM tenían curioso dibujo",
-     "url": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/10/22/particular-detalle-paquetes-de-13-500-millones-de-droga-incautada-en-la-rm-tenian-curioso-dibujo.shtml",
-     "domain": "biobiochile.cl",
-     "seendate": "20261022T153000Z"
-    },
-    {
-     "title": "Detenidos tenían arresto nocturno : recuperan camión con $200 millones en carne tras elaborado robo | Nacional",
-     "url": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/10/22/detenidos-tenian-arresto-nocturno-recuperan-camion-con-200-millones-en-carne-tras-elaborado-robo.shtml",
-     "domain": "biobiochile.cl",
-     "seendate": "20261022T153000Z"
-    },
-    {
-     "title": "Alcaldesa de Valdivia exige reunión con ministros por Presupuesto 2027 y acusa patrón de debilitamiento a los municipios",
-     "url": "https://www.latercera.com/politica/noticia/alcaldesa-de-valdivia-exige-reunion-con-ministros-por-presupuesto-2027-y-acusa-patron-de-debilitamiento-a-los-municipios/",
-     "domain": "latercera.com",
-     "seendate": "20261022T153000Z"
-    },
-    {
-     "title": "Es un milagro que estemos vivos : árbol cayó sobre casa tras fuerte tornado en la región del Maule",
-     "url": "https://www.chilevision.cl/programas/contigo-en-la-manana/es-un-milagro-que-estemos-vivos-arbol-cayo-sobre-casa-tras-fuerte-tornado-en-la-region-del-maule/",
-     "domain": "chilevision.cl",
-     "seendate": "20261022T153000Z"
-    },
-    {
-     "title": "Pronostican probable desarrollo de nubes convectivas con características tornádicas para 3 regiones | BBCL Contigo",
-     "url": "https://www.biobiochile.cl/noticias/servicios/toma-nota/2026/10/22/pronostican-probable-desarrollo-de-nubes-convectivas-con-caracteristicas-tornadicas-para-3-regiones.shtml",
-     "domain": "biobiochile.cl",
-     "seendate": "20261022T153000Z"
-    },
-    {
-     "title": "National Geographic incluye a Cabo Froward entre los 25 destinos para visitar en 2027",
-     "url": "https://laprensaaustral.cl/2026/10/22/national-geographic-incluye-a-cabo-froward-entre-los-25-destinos-para-visitar-en-2027/",
-     "domain": "laprensaaustral.cl",
-     "seendate": "20261022T153000Z"
-    },
-    {
-     "title": "A petición de Jorge Uauy y varios clubes : Pablo Milad cita a presidentes del fútbol chileno tras la visita de la FIFA",
-     "url": "https://www.latercera.com/el-deportivo/noticia/a-peticion-de-jorge-uauy-y-varios-clubes-pablo-milad-cita-a-presidentes-del-futbol-chileno-tras-la-visita-de-la-fifa/",
-     "domain": "latercera.com",
-     "seendate": "20261022T153000Z"
-    },
-    {
-     "title": "Matthei hace dura crítica al ministro Quiroz y expresa indignación por caída del Fondo E : Pone en riesgo el sistema por completo",
-     "url": "https://www.latercera.com/pulso/noticia/evelyn-matthei-hace-dura-critica-al-ministro-quiroz-y-expresa-indignacion-por-caida-del-fondo-e-pone-en-riesgo-el-sistema-por-completo/",
-     "domain": "latercera.com",
-     "seendate": "20261022T153000Z"
-    },
-    {
-     "title": "La nueva CEO de Walmart Chile , Annie Walker , relata sus primeros meses en el cargo",
-     "url": "https://www.latercera.com/pulso/noticia/la-nueva-ceo-de-walmart-chile-annie-walker-relata-sus-primeros-meses-en-el-cargo/",
-     "domain": "latercera.com",
-     "seendate": "20261022T153000Z"
-    },
-    {
-     "title": "Alexis Sánchez no lo podía creer : la explicación del DT que lo dejó sin jugar ni los penales",
-     "url": "https://www.prensafutbol.cl/alexis-sufre-ninguneo-del-dt-de-cf-montreal/",
-     "domain": "prensafutbol.cl",
-     "seendate": "20261022T153000Z"
     }
    ]
   },
   "ARG": {
    "articles": [
     {
+     "title": "Hay alerta naranja y amarilla por tormentas, vientos y Zonda para este viernes 23 de octubre: las provincias afectadas",
+     "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-naranja-y-amarilla-por-tormentas-vientos-y-zonda-para-este-viernes-23-de-octubre-las-nid23102026/",
+     "domain": "La Nación",
+     "seendate": "20261023T030100Z"
+    },
+    {
+     "title": "Pablo Quirno se reunió con el vicesecretario de Estados Unidos, Christopher Landau: “Cumplimos lo que prometemos”",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-durante-su-gira-en-madrid-el-mandatario-acuso-al-presidente-nid22102026/",
+     "domain": "La Nación",
+     "seendate": "20261023T024816Z"
+    },
+    {
+     "title": "Inti Bonomo, experto en Ciencias Ambientales, sobre por qué la nubosidad ayuda a comprender los efectos del Súper Niño: “Tenemos una gran capa de nubes y esto influye sobre la temperatura”",
+     "url": "https://www.lanacion.com.ar/sociedad/inti-bonomo-experto-en-ciencias-ambientales-sobre-por-que-la-nubosidad-ayuda-a-comprender-los-nid22102026/",
+     "domain": "La Nación",
+     "seendate": "20261023T023900Z"
+    },
+    {
+     "title": "Gabriel Rolón: “La felicidad es ese momento de eternidad donde lo que fuiste, querés ser, te atormenta y temés coexisten”",
+     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-cualquier-intento-de-alcanzar-una-plenitud-total-o-absoluta-esta-condenado-al-fracaso-nid20102026/",
+     "domain": "La Nación",
+     "seendate": "20261023T023800Z"
+    },
+    {
+     "title": "Gabriel Rolón, psicoanalista: “La gracia del amor es abrazar la imperfección del otro”",
+     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-la-gracia-del-amor-es-abrazar-la-imperfeccion-del-otro-nid17102026/",
+     "domain": "La Nación",
+     "seendate": "20261023T023700Z"
+    },
+    {
      "title": "De “los mejores meses” a “los indicadores no están evolucionando”: el giro del discurso sobre el crecimiento",
      "url": "https://www.lanacion.com.ar/politica/de-los-mejores-meses-a-los-indicadores-no-estan-evolucionando-el-giro-del-discurso-sobre-el-nid22102026/",
      "domain": "La Nación",
      "seendate": "20261023T021344Z"
-    },
-    {
-     "title": "Javier Milei y sus medidas, en vivo: “Los indicadores no evolucionan como esperábamos”, dijo el Presidente",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-durante-su-gira-en-madrid-el-mandatario-acuso-al-presidente-nid22102026/",
-     "domain": "La Nación",
-     "seendate": "20261023T020000Z"
     },
     {
      "title": "Antioxidante y antiinflamatorio: el primer suplemento de producción local que aprovecha las propiedades de las hojas de olivo",
@@ -2983,12 +3025,6 @@
      "seendate": "20261022T233341Z"
     },
     {
-     "title": "Buscan intensamente a un joven de 18 años que fue visto por última vez en su casa en Martínez",
-     "url": "https://www.lanacion.com.ar/sociedad/buscan-a-un-joven-de-18-anos-que-huyo-de-su-casa-en-martinez-tras-dejar-una-carta-a-su-familia-nid22102026/",
-     "domain": "La Nación",
-     "seendate": "20261022T232940Z"
-    },
-    {
      "title": "Alerta amarilla en el AMBA: hasta qué hora llueve hoy, jueves 22 de octubre, según el SMN",
      "url": "https://www.lanacion.com.ar/sociedad/alerta-amarilla-en-el-amba-hasta-que-hora-llueve-hoy-jueves-22-de-octubre-segun-el-smn-nid22102026/",
      "domain": "La Nación",
@@ -3023,54 +3059,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/el-same-sumo-una-nueva-en-un-cruce-clave-para-reducir-los-tiempos-de-respuesta-ante-emergencias-nid22102026/",
      "domain": "La Nación",
      "seendate": "20261022T224437Z"
-    },
-    {
-     "title": "Gabriel Rolón, psicólogo: “La mayoría de las personas tienen desgraciadamente parejas que no querrían tener”",
-     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicologo-la-mayoria-de-las-personas-tienen-desgraciadamente-parejas-que-no-querrian-nid22102026/",
-     "domain": "La Nación",
-     "seendate": "20261022T224000Z"
-    },
-    {
-     "title": "Tony Robbins, experto en crecimiento personal: “La razón por la que sufrís: estás enfocado en vos”",
-     "url": "https://www.lanacion.com.ar/sociedad/tony-robbins-experto-en-crecimiento-personal-la-razon-por-la-que-sufris-estas-enfocado-en-vos-nid18102026/",
-     "domain": "La Nación",
-     "seendate": "20261022T223900Z"
-    },
-    {
-     "title": "Para la Justicia, la docente desaparecida en Corrientes fue asesinada: detuvieron al capataz de una estancia por el crimen",
-     "url": "https://www.lanacion.com.ar/seguridad/detuvieron-a-un-capataz-de-estancia-por-el-femicidio-de-la-docente-desaparecida-en-corrientes-nid22102026/",
-     "domain": "La Nación",
-     "seendate": "20261022T223541Z"
-    },
-    {
-     "title": "Mel Robbins, experta en crecimiento personal: “Si pensás en algo que tenés que hacer durante más de 5 segundos, tu cerebro contamina tu motivación para hacerlo”",
-     "url": "https://www.lanacion.com.ar/sociedad/mel-robbins-experta-en-crecimiento-personal-si-pensas-en-algo-que-tenes-que-hacer-durante-mas-de-5-nid19102026/",
-     "domain": "La Nación",
-     "seendate": "20261022T223500Z"
-    },
-    {
-     "title": "El Gobierno traspasó parte del complejo Chapadmalal a la Universidad de Mar del Plata",
-     "url": "https://www.lanacion.com.ar/sociedad/el-gobierno-traspaso-parte-del-complejo-chapadmalal-a-la-universidad-de-mar-del-plata-nid22102026/",
-     "domain": "La Nación",
-     "seendate": "20261022T223429Z"
-    },
-    {
-     "title": "Un cardiólogo advierte sobre los microplásticos: por qué no conviene meter plástico en el microondas",
-     "url": "https://www.lanacion.com.ar/sociedad/un-cardiologo-advierte-sobre-los-microplasticos-por-que-no-conviene-meter-plastico-en-el-microondas-nid22102026/",
-     "domain": "La Nación",
-     "seendate": "20261022T223400Z"
-    },
-    {
-     "title": "Millones en juego: una jueza de Estados Unidos le abrió una puerta a Bioceres Crop Solutions en una dura disputa con un poderoso fondo",
-     "url": "https://www.lanacion.com.ar/economia/campo/millones-en-juego-una-jueza-de-estados-unidos-le-abrio-una-puerta-a-bioceres-crop-solutions-en-una-nid22102026/",
-     "domain": "La Nación",
-     "seendate": "20261022T223039Z"
-    },
-    {
-     "title": "El gobierno de Trump blanqueó la “preocupación” de sus empresas por la ley Malvinas, postergada en el Congreso",
-     "url": "https://www.lanacion.com.ar/politica/el-gobierno-de-trump-blanqueo-la-preocupacion-de-sus-empresas-por-la-ley-malvinas-postergada-en-el-nid22102026/",
-     "domain": "La Nación",
-     "seendate": "20261022T222855Z"
     }
    ]
   },
@@ -3490,6 +3478,36 @@
   "BRA": {
    "articles": [
     {
+     "title": "TSE reúne representantes de redes sociais após Nunes Marques ordenar pente-fino em canal de apoio a Lula",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/23/tse-reune-representantes-de-redes-sociais-apos-nunes-marques-ordenar-pente-fino-em-canal-de-apoio-a-lula.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261023T030000Z"
+    },
+    {
+     "title": "Lula e Flávio encerram campanha com agendas em São Paulo, Minas e Rio, que concentram 40% do eleitorado",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/23/lula-e-flavio-encerram-campanha-com-agendas-em-sao-paulo-minas-e-rio-que-concentram-40percent-do-eleitorado.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261023T030000Z"
+    },
+    {
+     "title": "Após pedido de Lula, PF começa a investigar disputa entre Richarlison e amigo de Flávio Bolsonaro",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/23/apos-pedido-de-lula-pf-comeca-a-investigar-disputa-entre-richarlison-e-amigo-de-flavio-bolsonaro.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261023T030000Z"
+    },
+    {
+     "title": "Meta terá que detalhar atuação do 'Exército do Lula' após Nunes Marques cobrar explicações",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/23/meta-tera-que-detalhar-atuacao-do-exercito-do-lula-apos-nunes-marques-cobrar-explicacoes.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261023T030000Z"
+    },
+    {
+     "title": "Datafolha: veja como os colunistas do GLOBO analisaram os números de Flávio Bolsonaro e Lula na nova pesquisa",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/ao-vivo/datafolha-colunistas-do-globo-analisam-os-numeros-de-flavio-bolsonaro-e-lula-na-nova-pesquisa.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261023T014611Z"
+    },
+    {
      "title": "Carta 'ao povo de Deus' assinada por 35 bispos prega voto por 'valores humanitários' e diz que Flávio ameaça democracia",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/22/carta-ao-povo-de-deus-assinada-por-35-bispos-diz-que-flavio-ameaca-democracia-e-prega-voto-por-valores-humanitarios.ghtml",
      "domain": "O Globo",
@@ -3524,12 +3542,6 @@
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/22/ao-lado-de-alckmin-filhos-de-mario-covas-e-fh-pedem-voto-para-lula-em-ato-em-sp.ghtml",
      "domain": "O Globo",
      "seendate": "20261022T232849Z"
-    },
-    {
-     "title": "Datafolha: colunistas do GLOBO analisam os números de Flávio Bolsonaro e Lula na nova pesquisa",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/ao-vivo/datafolha-colunistas-do-globo-analisam-os-numeros-de-flavio-bolsonaro-e-lula-na-nova-pesquisa.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261022T224636Z"
     },
     {
      "title": "Lula é preparado para não responder a provocações de Flávio em debate da Globo e detalhar propostas",
@@ -3602,54 +3614,6 @@
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/22/presidente-do-tse-da-24-horas-para-meta-detalhar-acao-coordenada-no-canal-exercito-do-lula.ghtml",
      "domain": "O Globo",
      "seendate": "20261022T185409Z"
-    },
-    {
-     "title": "Presença de Marçal na campanha de Flávio causou climão com marqueteiro, e ausência em treino para debate da Globo gera alívio",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/22/presenca-de-marcal-na-campanha-de-flavio-causou-climao-com-marqueteiro-e-ausencia-em-treino-para-debate-da-globo-gera-alivio.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261022T184444Z"
-    },
-    {
-     "title": "STJ mantém condenação de coordenadora por recusar matrícula de criança com síndrome de Down no Pará",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/22/stj-mantem-condenacao-de-coordenadora-por-recusar-matricula-de-crianca-com-sindrome-de-down-no-para.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261022T184158Z"
-    },
-    {
-     "title": "EUA denunciam rede de casamentos falsos que cobrava até R$ 200 mil e envolveu brasileiros",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/22/eua-denunciam-rede-de-casamentos-falsos-que-cobrava-ate-r-200-mil-e-envolveu-brasileiros.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261022T183548Z"
-    },
-    {
-     "title": "Qual é a ordem de votação nas Eleições 2026? Veja como votar no segundo turno",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/22/qual-e-a-ordem-de-votacao-nas-eleicoes-2026-veja-como-votar-no-segundo-turno.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261022T182702Z"
-    },
-    {
-     "title": "'Estavam com camiseta normal, não era de partido': testemunha afirma que PMs forjaram cena de suspeitos com roupas do PT; ouça áudio",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/22/estavam-com-camiseta-normal-nao-era-de-partido-testemunha-afirma-que-pms-forjaram-cena-de-suspeitos-com-roupas-do-pt-ouca-audio.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261022T182415Z"
-    },
-    {
-     "title": "Qual é o horário de votação das eleições 2026 no segundo turno?",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/guia/qual-e-o-horario-de-votacao-das-eleicoes-2026-no-segundo-turno.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261022T181517Z"
-    },
-    {
-     "title": "Justiça condena quarto acusado pelo assassinato de Mãe Bernadete a 23 anos de prisão",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/22/justica-condena-quarto-acusado-pelo-assassinato-de-mae-bernadete-a-23-anos-de-prisao.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261022T181118Z"
-    },
-    {
-     "title": "Caso Beatriz Vitória: desavença por ciúmes motivou assassinato de jovem em MG, aponta polícia",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/22/caso-beatriz-vitoria-desavenca-por-ciumes-motivou-assassinato-de-jovem-em-mg-aponta-policia.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261022T180738Z"
     }
    ]
   }
