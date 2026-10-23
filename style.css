@@ -236,6 +236,17 @@ main { flex: 1; display: flex; min-height: 0; }
 #back::before { content: "\2039\00a0"; }
 #back:hover { color: var(--gold-soft); border-color: var(--gold-soft); }
 
+/* Fiche pays */
+#ficha { margin: 20px 0 0; padding: 16px 0 4px; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
+#ficha dl { display: grid; grid-template-columns: 1fr 1fr; gap: 14px 18px; margin: 0; }
+#ficha .wide { grid-column: 1 / -1; }
+#ficha dl > div { min-width: 0; }
+#ficha dt { font-size: .68rem; letter-spacing: .12em; text-transform: uppercase; color: var(--muted); }
+#ficha dd { margin: 3px 0 0; font-family: var(--serif); font-size: 1.3rem; line-height: 1.2; color: var(--text); }
+#ficha dd small { display: block; margin-top: 2px; font-family: var(--sans); font-size: .72rem; color: var(--muted); }
+#ficha .na { color: var(--muted); font-size: 1rem; }
+#ficha .src { margin: 14px 0 10px; font-size: .68rem; color: var(--muted); opacity: .8; }
+
 #topics { display: flex; flex-wrap: wrap; gap: 8px; margin: 22px 0 6px; }
 .chip {
   padding: 4px 12px;
