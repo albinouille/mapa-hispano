@@ -208,6 +208,7 @@ async function loadLive(iso) {
 /* ---------- Fiche pays : PIB, inflation (Banque mondiale), dirigeant (Wikidata) ---------- */
 
 const WB_URL = "https://api.worldbank.org/v2/country/";
+const IMF_URL = "https://www.imf.org/external/datamapper/api/v1/GGXWDG_NGDP/";
 const WIKIDATA_URL = "https://query.wikidata.org/sparql";
 const FACTS_REFRESH_MS = 6 * 60 * 60 * 1000;
 let facts = null;   // { ISO3: { gdp, infl, leader } } ; null tant que rien n'est arrivé
@@ -239,6 +240,20 @@ async function wbIndicator(code) {
   return out;
 }
 
+// Dette brute des administrations publiques, en % du PIB (FMI) : dernière année <= année dernière (estimations incluses)
+async function imfDebt() {
+  const res = await fetch(IMF_URL + Object.keys(COUNTRIES).join("/"));
+  if (!res.ok) throw new Error(res.status);
+  const all = (((await res.json()).values || {}).GGXWDG_NGDP) || {};
+  const maxYear = new Date().getFullYear() - 1;
+  const out = {};
+  for (const iso of Object.keys(COUNTRIES)) {
+    const years = Object.keys(all[iso] || {}).filter((y) => +y <= maxYear && all[iso][y] != null).sort();
+    if (years.length) out[iso] = { value: +all[iso][years[years.length - 1]], year: years[years.length - 1] };
+  }
+  return out;
+}
+
 async function wikidataLeaders() {
   const res = await fetch(`${WIKIDATA_URL}?format=json&query=${encodeURIComponent(leaderQuery())}`, {
     headers: { Accept: "application/sparql-results+json" }
@@ -261,19 +276,20 @@ async function wikidataLeaders() {
 }
 
 async function loadFacts() {
-  const [gdp, infl, leaders] = await Promise.allSettled([
+  const [gdp, infl, leaders, debt] = await Promise.allSettled([
     wbIndicator("NY.GDP.MKTP.CD"),
     wbIndicator("FP.CPI.TOTL.ZG"),
-    wikidataLeaders()
+    wikidataLeaders(),
+    imfDebt()
   ]);
-  if (gdp.status === "rejected" && infl.status === "rejected" && leaders.status === "rejected") {
+  if ([gdp, infl, leaders, debt].every((s) => s.status === "rejected")) {
     console.warn("Datos de país no disponibles");
     return;
   }
   const val = (s) => (s.status === "fulfilled" ? s.value : {});
   facts = {};
   for (const iso of Object.keys(COUNTRIES)) {
-    facts[iso] = { gdp: val(gdp)[iso], infl: val(infl)[iso], leader: val(leaders)[iso] };
+    facts[iso] = { gdp: val(gdp)[iso], infl: val(infl)[iso], leader: val(leaders)[iso], debt: val(debt)[iso] };
   }
   renderFicha();
 }
@@ -327,9 +343,16 @@ function renderFicha() {
       f.infl && `Dato de ${f.infl.year}`
     )
   );
+  dl.append(
+    ...fichaItem(
+      "Deuda pública",
+      f.debt && `${new Intl.NumberFormat("es-ES", { maximumFractionDigits: 1 }).format(f.debt.value)} % del PIB`,
+      f.debt && `Estimación FMI, ${f.debt.year}`
+    )
+  );
   const src = document.createElement("p");
   src.className = "src";
-  src.textContent = "Banco Mundial (PIB, inflación) · Wikidata (cargo y partido, pueden ir con retraso).";
+  src.textContent = "Banco Mundial (PIB, inflación) · FMI (deuda bruta de las administraciones públicas) · Wikidata (cargo y partido, pueden ir con retraso).";
   box.append(dl, src);
   box.hidden = false;
 }
