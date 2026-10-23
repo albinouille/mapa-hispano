@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#15161a">
+  <title>Mapa Hispano · Actualidad</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600&family=Hanken+Grotesk:wght@400;500;600&display=swap">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div>
+      <h1>Mapa Hispano</h1>
+      <p>La actualidad nacional de España, Latinoamérica y Brasil</p>
+    </div>
+    <div id="live"><span class="dot"></span><span id="updated">Cargando…</span></div>
+  </header>
+
+  <nav id="toolbar" aria-label="Opciones del mapa">
+    <label><input type="checkbox" id="toggle-activity" checked> Actividad mediática</label>
+    <label><input type="checkbox" id="toggle-quakes" checked> Sismos M2.5+ <span class="count" id="count-quakes"></span></label>
+    <label><input type="checkbox" id="toggle-events" checked> Eventos naturales <span class="count" id="count-events"></span></label>
+    <label class="period">Periodo
+      <select id="timespan">
+        <option value="1">Últimas 24 h</option>
+        <option value="3" selected>3 días</option>
+        <option value="7">7 días</option>
+      </select>
+    </label>
+    <span id="toolstatus" role="status"></span>
+  </nav>
+
+  <main>
+    <div id="map" role="application" aria-label="Mapa de España, Latinoamérica y Brasil"></div>
+    <aside id="panel">
+      <div class="panel-head">
+        <h2 id="country-name">Titulares en directo</h2>
+        <button type="button" id="back" hidden>Todos los países</button>
+      </div>
+      <section id="ficha" aria-label="Datos del país" hidden></section>
+      <div id="topics" role="group" aria-label="Filtrar por tema"></div>
+      <ul id="news"></ul>
+      <p id="status" role="status"></p>
+      <p class="note">Temas clasificados de forma aproximada por palabras clave. Fuentes: RSS de medios, GDELT, USGS y NASA EONET; PIB e inflación del Banco Mundial; deuda pública del FMI; presidente y partido de Wikidata.</p>
+    </aside>
+  </main>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="countries.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
