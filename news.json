@@ -1,8 +1,14 @@
 {
- "updated": "2026-10-23T05:06:41+00:00",
+ "updated": "2026-10-23T06:05:44+00:00",
  "countries": {
   "ESP": {
    "articles": [
+    {
+     "title": "La acampada por la vivienda cumple tres semanas en plaza Catalunya, suma 360 tiendas y quiere crecer",
+     "url": "https://elpais.com/espana/catalunya/2026-10-23/la-acampada-por-la-vivienda-cumple-tres-semanas-en-plaza-catalunya-suma-360-tiendas-y-quiere-crecer.html",
+     "domain": "El País",
+     "seendate": "20261023T050640Z"
+    },
     {
      "title": "Feijóo se refuerza en el Congreso: portavoces de la línea dura, veteranos y experiencia de gestión con miras al Gobierno",
      "url": "https://elpais.com/espana/elecciones-generales/2026-10-23/feijoo-se-refuerza-en-el-congreso-portavoces-de-la-linea-dura-veteranos-y-experiencia-de-gestion-con-miras-al-gobierno.html",
@@ -133,6 +139,12 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Fiscalía CDMX confirma que Dasha, reportada como desaparecida, fue hallada en Monterrey; señala ausencia voluntaria",
+     "url": "https://www.eluniversal.com.mx/metropoli/fiscalia-cdmx-confirma-que-dasha-reportada-como-desaparecida-fue-hallada-en-monterrey-senala-ausencia-voluntaria/",
+     "domain": "El Universal",
+     "seendate": "20261023T050739Z"
+    },
     {
      "title": "Maru Campos niega pacto con Sheinbaum; dice que Ariadna Montiel está vinculada con el narco",
      "url": "https://www.eluniversal.com.mx/nacion/maru-niega-pacto-con-sheinbaum-dice-que-ariadna-montiel-esta-vinculada-con-el-crimen-organizado/",
@@ -360,12 +372,6 @@
      "url": "https://www.eluniversal.com.mx/metropoli/laura-patricia-jimenez-castillo-es-electa-presidenta-del-tecdmx-es-la-primera-mujer-en-presidir-el-organismo-autonomo/",
      "domain": "El Universal",
      "seendate": "20261022T212509Z"
-    },
-    {
-     "title": "Especialistas y líderes sindicales ven ilegal el “decretazo” del IMSS; prevén ola de amparos por la Modalidad 40",
-     "url": "https://www.eluniversal.com.mx/nacion/especialistas-y-lideres-sindicales-ven-ilegal-el-decretazo-del-imss-preven-ola-de-amparos-por-la-modalidad-40/",
-     "domain": "El Universal",
-     "seendate": "20261022T211444Z"
     },
     {
      "title": "Policías de Temixco, Morelos paran labores y exigen homologación salarial; denuncian falta de combustible y patrullas descompuestas",
@@ -1234,6 +1240,12 @@
   "CRI": {
    "articles": [
     {
+     "title": "Fenómeno El Niño obliga a ampliar alerta roja en Costa Rica: estas son las zonas más afectadas por la sequía",
+     "url": "https://www.nacion.com/el-pais/fenomeno-el-nino-obliga-a-ampliar-alerta-roja-en/EAK4BRP4G5EMNLX5GVA7LJE5PQ/story/",
+     "domain": "La Nación",
+     "seendate": "20261023T050432Z"
+    },
+    {
      "title": "IMN pronostica un viernes de intenso calor y pocas lluvias: ¿en cuáles zonas habrá aguaceros?",
      "url": "https://www.nacion.com/sucesos/imn-pronostica-un-viernes-de-intenso-calor-y-pocas/OWV4SMSRRRHV7DE62W6C5QSSPA/story/",
      "domain": "La Nación",
@@ -1406,12 +1418,6 @@
      "url": "https://www.nacion.com/sucesos/37-reos-de-carcel-de-puntarenas-son-trasladados-a/FFGKNMMITBHDRG225UYQ7G5WQA/story/",
      "domain": "La Nación",
      "seendate": "20261022T142333Z"
-    },
-    {
-     "title": "Hace 50 años: ministro de Salud señaló que la medicina debía contener una dosis real de justicia",
-     "url": "https://www.nacion.com/el-pais/hace-50-anos-ministro-de-salud-senalo-que-la/TQO7SYJDQZAJ3NKZN7JU7KH5LE/story/",
-     "domain": "La Nación",
-     "seendate": "20261022T133000Z"
     }
    ]
   },
@@ -1421,7 +1427,7 @@
      "title": "La ruta de las donaciones y el sueño de un techo en La Miel",
      "url": "https://www.prensa.com/sociedad/la-ruta-de-las-donaciones-y-el-sueno-de-un-techo-en-la-miel/",
      "domain": "La Prensa",
-     "seendate": "20261023T050338Z"
+     "seendate": "20261023T050500Z"
     },
     {
      "title": "La Contraloría pone la lupa en el subsidio poselectoral del PRD, pero excluye los millones de la campaña de 2024",
@@ -1536,18 +1542,6 @@
      "url": "https://www.prensa.com/politica/estados-unidos-sanciona-a-una-firma-panamena-sus-socios-y-siete-buques-por-vinculos-con-una-red-petrolera-irani/",
      "domain": "La Prensa",
      "seendate": "20261021T181100Z"
-    },
-    {
-     "title": "Meduca confirma la celebración de actividades para fiestas patrias tras terremoto",
-     "url": "https://www.prensa.com/politica/ejecutivo-actualiza-balance-de-danos-tras-terremoto/",
-     "domain": "La Prensa",
-     "seendate": "20261020T225528Z"
-    },
-    {
-     "title": "Terremoto deja a 3,000 estudiantes sin aula; esta es la propuesta para volver a clases",
-     "url": "https://www.prensa.com/sociedad/terremoto-deja-a-3000-estudiantes-sin-aula-esta-es-la-propuesta-para-volver-a-clases/",
-     "domain": "La Prensa",
-     "seendate": "20261020T195716Z"
     },
     {
      "title": "‘Se armó el debate’: Boric y Uribe confrontan ideas sobre la pobreza desde Panamá",
@@ -2110,7 +2104,7 @@
      "title": "Lluvias en el norte del Perú EN VIVO: últimas noticias del estado de emergencia en Piura, Tumbes y Trujillo",
      "url": "https://elcomercio.pe/peru/piura-y-el-norte-del-peru-bajo-lluvias-intensas-ultimas-noticias-alerta-por-el-nino-e-informe-del-coen-en-vivo-lbposting-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261023T050014Z"
+     "seendate": "20261023T054856Z"
     },
     {
      "title": "Gobierno evalúa aplicar la suspensión perfecta de labores ante los efectos de El Niño, ¿qué dice la CGTP al respecto?",
@@ -2851,6 +2845,12 @@
   "ARG": {
    "articles": [
     {
+     "title": "La reflexión de Pilar Sordo sobre las relaciones personales: “Nos cuesta decir lo que nos pasa”",
+     "url": "https://www.lanacion.com.ar/sociedad/la-reflexion-de-pilar-sordo-sobre-las-relaciones-personales-nos-cuesta-decir-lo-que-nos-pasa-nid23102026/",
+     "domain": "La Nación",
+     "seendate": "20261023T050000Z"
+    },
+    {
      "title": "La SIP abrió su asamblea en Bogotá con alertas sobre la libertad de prensa, la inteligencia artificial y el futuro del periodismo",
      "url": "https://www.lanacion.com.ar/sociedad/la-sip-abrio-su-asamblea-en-bogota-con-alertas-sobre-la-libertad-de-prensa-la-inteligencia-nid23102026/",
      "domain": "La Nación",
@@ -2947,14 +2947,14 @@
      "seendate": "20261023T003500Z"
     },
     {
-     "title": "Daniel López Rosetti, sobre la gestión de las emociones: “La vida es la administración de nuestro futuro, de lo que tenemos por delante”",
-     "url": "https://www.lanacion.com.ar/sociedad/daniel-lopez-rosetti-sobre-la-gestion-de-las-emociones-la-vida-es-la-administracion-de-nuestro-nid22102026/",
+     "title": "Conrado Estol, neurólogo, sobre la importancia de mantener vínculos: “Es el mayor predictor de expectativa de vida y de felicidad”",
+     "url": "https://www.lanacion.com.ar/sociedad/conrado-estol-neurologo-sobre-la-importancia-de-mantener-vinculos-es-el-mayor-predictor-de-nid22102026/",
      "domain": "La Nación",
      "seendate": "20261023T000000Z"
     },
     {
-     "title": "Conrado Estol, neurólogo, sobre la importancia de mantener vínculos: “Es el mayor predictor de expectativa de vida y de felicidad”",
-     "url": "https://www.lanacion.com.ar/sociedad/conrado-estol-neurologo-sobre-la-importancia-de-mantener-vinculos-es-el-mayor-predictor-de-nid22102026/",
+     "title": "Daniel López Rosetti, sobre la gestión de las emociones: “La vida es la administración de nuestro futuro, de lo que tenemos por delante”",
+     "url": "https://www.lanacion.com.ar/sociedad/daniel-lopez-rosetti-sobre-la-gestion-de-las-emociones-la-vida-es-la-administracion-de-nuestro-nid22102026/",
      "domain": "La Nación",
      "seendate": "20261023T000000Z"
     },
@@ -3005,17 +3005,59 @@
      "url": "https://www.lanacion.com.ar/economia/el-otro-riesgo-pais-nid22102026/",
      "domain": "La Nación",
      "seendate": "20261022T232103Z"
-    },
-    {
-     "title": "Excarcelaron a otro sindicalista camionero que fue acusado junto a Cabaleyro por los bloqueos a una empresa de San Pedro",
-     "url": "https://www.lanacion.com.ar/politica/excarcelaron-a-otro-sindicalista-camionero-que-fue-acusado-junto-a-cabaleyro-por-los-bloqueos-a-una-nid22102026/",
-     "domain": "La Nación",
-     "seendate": "20261022T231906Z"
     }
    ]
   },
   "URY": {
    "articles": [
+    {
+     "title": "Exportando problemas : el estornino pinto se expande por Uruguay y desde aquí conquista ya el sur de Brasil",
+     "url": "https://ladiaria.com.uy/ciencia/articulo/2026/10/exportando-problemas-el-estornino-pinto-se-expande-por-uruguay-y-desde-aqui-conquista-ya-el-sur-de-brasil/",
+     "domain": "ladiaria.com.uy",
+     "seendate": "20261023T044500Z"
+    },
+    {
+     "title": "Intendentes piden extender jornales solidarios y estudian moderar el aumento de la patente",
+     "url": "https://www.eltelegrafo.com/2026/10/intendentes-piden-extender-jornales-solidarios-y-estudian-moderar-el-aumento-de-la-patente/",
+     "domain": "eltelegrafo.com",
+     "seendate": "20261023T044500Z"
+    },
+    {
+     "title": "Jóvenes de las escuelas agrarias dinamizan lucha contra garrapata",
+     "url": "https://www.eltelegrafo.com/2026/10/jovenes-de-las-escuelas-agrarias-dinamizan-lucha-contra-garrapata/",
+     "domain": "eltelegrafo.com",
+     "seendate": "20261023T044500Z"
+    },
+    {
+     "title": "Buena cosecha de cine sudamericano en el Piriápolis de Película 2026",
+     "url": "https://ladiaria.com.uy/cultura/articulo/2026/10/buena-cosecha-de-cine-sudamericano-en-el-piriapolis-de-pelicula-2026/",
+     "domain": "ladiaria.com.uy",
+     "seendate": "20261023T044500Z"
+    },
+    {
+     "title": "Pantalla Uruguay vendió el 99 % de la oferta",
+     "url": "https://www.eltelegrafo.com/2026/10/pantalla-uruguay-vendio-el-99-de-la-oferta/",
+     "domain": "eltelegrafo.com",
+     "seendate": "20261023T044500Z"
+    },
+    {
+     "title": "La Copa AUF Uruguay fijó dos partidos de octavos en Paysandú",
+     "url": "https://www.eltelegrafo.com/2026/10/la-copa-auf-uruguay-fijo-dos-partidos-de-octavos-en-paysandu/",
+     "domain": "eltelegrafo.com",
+     "seendate": "20261023T044500Z"
+    },
+    {
+     "title": "El PGC Trébol cierra el Clausura ante Círculo en casa",
+     "url": "https://www.eltelegrafo.com/2026/10/el-pgc-trebol-cierra-el-clausura-ante-circulo-en-casa/",
+     "domain": "eltelegrafo.com",
+     "seendate": "20261023T044500Z"
+    },
+    {
+     "title": "Sí , el papa viene , aseguró el obispo Fajardo ; desde hoy están disponibles entradas gratuitas para la misa – Diario El Telégrafo",
+     "url": "https://www.eltelegrafo.com/2026/10/si-el-papa-viene-aseguro-el-obispo-fajardo-desde-hoy-estan-disponibles-entradas-gratuitas-para-la-misa/",
+     "domain": "eltelegrafo.com",
+     "seendate": "20261023T044500Z"
+    },
     {
      "title": "Copa Libertadores : con Muslera figura , atajando tres penales , Estudiantes eliminó a Flamengo y es finalista",
      "url": "https://www.elpais.com.uy/ovacion/futbol/copa-libertadores-con-muslera-figura-atajando-tres-penales-estudiantes-elimino-a-flamengo-y-es-finalista",
@@ -3321,54 +3363,6 @@
      "url": "https://ladiaria.com.uy/politica/articulo/2026/10/ciadi-laudo-en-el-arbitraje-de-neltume-contra-el-estado-tras-el-desistimiento-de-la-empresa-queda-extinguida-toda-controversia/",
      "domain": "ladiaria.com.uy",
      "seendate": "20261022T010000Z"
-    },
-    {
-     "title": "Liverpool eliminó a Cerro Largo y jugará en octavos de final de la Copa Uruguay",
-     "url": "https://ladiaria.com.uy/deporte/articulo/2026/10/liverpool-elimino-a-cerro-largo-y-jugara-en-octavos-de-final-de-la-copa-uruguay/",
-     "domain": "ladiaria.com.uy",
-     "seendate": "20261022T010000Z"
-    },
-    {
-     "title": "Edgardo Lasalvia y su confesión : Doy por terminada mi tarea como agente para dedicarme 100 % a Peñarol",
-     "url": "https://www.elpais.com.uy/ovacion/futbol/edgardo-lasalvia-y-su-confesion-doy-por-terminada-mi-tarea-como-agente-para-dedicarme-100-a-penarol",
-     "domain": "elpais.com.uy",
-     "seendate": "20261022T004500Z"
-    },
-    {
-     "title": "Mario Lubetkin confirmó que el papa León XIV llegará a Uruguay : Nunca dejamos de preparar el viaje",
-     "url": "https://www.elpais.com.uy/informacion/politica/mario-lubetkin-confirmo-que-el-papa-leon-xiv-llegara-a-uruguay-nunca-dejamos-de-preparar-el-viaje",
-     "domain": "elpais.com.uy",
-     "seendate": "20261022T004500Z"
-    },
-    {
-     "title": "Tormenta eléctrica que avecinó en Uruguay impactó en Argentina : murieron cuatro yeguas de polo en Buenos Aires",
-     "url": "https://www.elpais.com.uy/mundo/argentina/tormenta-electrica-que-avecino-en-uruguay-impacto-en-argentina-murieron-cuatro-yeguas-de-polo-en-buenos-aires",
-     "domain": "elpais.com.uy",
-     "seendate": "20261022T004500Z"
-    },
-    {
-     "title": "Tuberculosis en Uruguay : se confirmaron dos casos en Pando y registran un incremento año a año",
-     "url": "https://www.subrayado.com.uy/tuberculosis-uruguay-se-confirmaron-dos-casos-pando-y-registran-un-incremento-ano-ano-n1021463",
-     "domain": "subrayado.com.uy",
-     "seendate": "20261022T003000Z"
-    },
-    {
-     "title": "JDR sesionará hoy con planteos sobre caminos , iluminación y regularización de asentamientos",
-     "url": "https://diarionorte.com.uy/politica/jdr-sesionara-hoy-con-planteos-sobre-caminos-iluminacion-y-regularizacion-de-asentamientos-78954.html",
-     "domain": "diarionorte.com.uy",
-     "seendate": "20261021T233000Z"
-    },
-    {
-     "title": "El súper tifón Champi se convierte en una de las tormentas más fuertes de 2026 mientras se dirige cerca de Taiwán y el este de China",
-     "url": "https://bitacora.com.uy/el-super-tifon-champi-se-convierte-en-una-de-las-tormentas-mas-fuertes-de-2026-mientras-se-dirige-cerca-de-taiwan-y-el-este-de-china/",
-     "domain": "bitacora.com.uy",
-     "seendate": "20261021T231500Z"
-    },
-    {
-     "title": "Experta belga compartió herramientas de detección del control coercitivo para fortalecer la prevención de femicidios en Uruguay",
-     "url": "https://ladiaria.com.uy/feminismos/articulo/2026/10/experta-belga-compartio-herramientas-de-deteccion-del-control-coercitivo-para-fortalecer-la-prevencion-de-femicidios-en-uruguay/",
-     "domain": "ladiaria.com.uy",
-     "seendate": "20261021T231500Z"
     }
    ]
   },
@@ -3406,124 +3400,22 @@
   "BRA": {
    "articles": [
     {
-     "title": "TSE reúne representantes de redes sociais após Nunes Marques ordenar pente-fino em canal de apoio a Lula",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/23/tse-reune-representantes-de-redes-sociais-apos-nunes-marques-ordenar-pente-fino-em-canal-de-apoio-a-lula.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261023T030000Z"
+     "title": "TSE presenteia estudante de MG com broche da urna após carta",
+     "url": "https://www.otempo.com.br/eleicoes/2026/2026/10/22/estudante-escreve-carta-pede-broche-de-urna-eletronica-e-e-presentado-pelo-tse",
+     "domain": "otempo.com.br",
+     "seendate": "20261023T011500Z"
     },
     {
-     "title": "'Caso walkie-talkie': mãe suspeita que homem ouviu conversas em casa antes de ameaçar filha",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/23/caso-walkie-talkie-mae-suspeita-que-homem-ouviu-conversas-em-casa-antes-de-ameacar-filha.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261023T030000Z"
+     "title": "TSE vai presentear estudante que pediu broche utilizado por Kassio Nunes",
+     "url": "https://www.correiobraziliense.com.br/brasil/2026/10/7524629-tse-vai-presentear-estudante-que-pediu-broche-utilizado-por-kassio-nunes.html",
+     "domain": "correiobraziliense.com.br",
+     "seendate": "20261021T023000Z"
     },
     {
-     "title": "Lula e Flávio encerram campanha com agendas em São Paulo, Minas e Rio, que concentram 40% do eleitorado",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/23/lula-e-flavio-encerram-campanha-com-agendas-em-sao-paulo-minas-e-rio-que-concentram-40percent-do-eleitorado.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261023T030000Z"
-    },
-    {
-     "title": "Após pedido de Lula, PF começa a investigar disputa entre Richarlison e amigo de Flávio Bolsonaro",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/23/apos-pedido-de-lula-pf-comeca-a-investigar-disputa-entre-richarlison-e-amigo-de-flavio-bolsonaro.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261023T030000Z"
-    },
-    {
-     "title": "Meta terá que detalhar atuação do 'Exército do Lula' após Nunes Marques cobrar explicações",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/23/meta-tera-que-detalhar-atuacao-do-exercito-do-lula-apos-nunes-marques-cobrar-explicacoes.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261023T030000Z"
-    },
-    {
-     "title": "Datafolha: veja como os colunistas do GLOBO analisaram os números de Flávio Bolsonaro e Lula na nova pesquisa",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/ao-vivo/datafolha-colunistas-do-globo-analisam-os-numeros-de-flavio-bolsonaro-e-lula-na-nova-pesquisa.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261023T014611Z"
-    },
-    {
-     "title": "Carta 'ao povo de Deus' assinada por 35 bispos prega voto por 'valores humanitários' e diz que Flávio ameaça democracia",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/22/carta-ao-povo-de-deus-assinada-por-35-bispos-diz-que-flavio-ameaca-democracia-e-prega-voto-por-valores-humanitarios.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261023T003810Z"
-    },
-    {
-     "title": "Lula defende 'novo jeito de governar' diante da forte mobilização de apoiadores e Congresso desfavorável",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/22/lula-defende-novo-jeito-de-governar-diante-da-forte-mobilizacao-de-apoiadores-e-congresso-desfavoravel.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261023T001021Z"
-    },
-    {
-     "title": "Em fala sobre eleição no Brasil, relatora da ONU cobra tribunais 'imparciais' e espaço virtual 'livre de interferências'",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/22/em-fala-sobre-eleicao-no-brasil-relatora-da-onu-cobra-tribunais-imparciais-e-espaco-virtual-livre-de-interferencias.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261023T000230Z"
-    },
-    {
-     "title": "TSE dá 12 horas para Meta explicar alcance de perfil de Nikolas Ferreira e fixa multa",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/22/tse-da-12-horas-para-meta-explicar-alcance-de-perfil-de-nikolas-ferreira-e-fixa-multa.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261022T234429Z"
-    },
-    {
-     "title": "Lula pede ao TSE retirada de canal de Janones do registro de sua candidatura e acusa Flávio de tentar tumultuar processo",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/22/lula-pede-ao-tse-retirada-de-canal-de-janones-do-registro-de-sua-candidatura-e-acusa-flavio-de-tentar-tumultuar-processo.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261022T234324Z"
-    },
-    {
-     "title": "Ao lado de Alckmin, filhos de Mario Covas e FH pedem voto para Lula em ato em SP",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/22/ao-lado-de-alckmin-filhos-de-mario-covas-e-fh-pedem-voto-para-lula-em-ato-em-sp.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261022T232849Z"
-    },
-    {
-     "title": "Lula é preparado para não responder a provocações de Flávio em debate da Globo e detalhar propostas",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/22/lula-e-preparado-para-nao-responder-a-provocacoes-de-flavio-em-debate-da-globo-e-detalhar-propostas.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261022T223701Z"
-    },
-    {
-     "title": "PF pede ao STF investigação sobre suspeita de tráfico de mulheres em festas de Vorcaro",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/22/pf-pede-ao-stf-investigacao-sobre-suspeita-de-trafico-de-mulheres-em-festas-de-vorcaro.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261022T214313Z"
-    },
-    {
-     "title": "Mendonça decide que não cabe ao TSE divulgar sigilos de Lula e Flávio e diz que candidatos podem fazê-lo por meios próprios",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/22/mendonca-diz-que-nao-cabe-ao-tse-divulgar-sigilos-de-lula-e-flavio-e-afirma-candidatos-podem-faze-lo-por-meios-proprios.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261022T213908Z"
-    },
-    {
-     "title": "Celina Leão tem 54% dos votos contra 37% de Leandro Grass no DF, em pesquisa Datafolha",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/22/celina-leao-tem-54percent-dos-votos-contra-37percent-de-leandro-grass-no-df-em-pesquisa-datafolha.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261022T212341Z"
-    },
-    {
-     "title": "Advogado e idealizador da Lei da Ficha Limpa declara voto em Lula no 2º turno: 'Convicção democrática'",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/22/advogado-e-idealizador-da-lei-da-ficha-limpa-declara-voto-em-lula-no-2o-turno-conviccao-democratica.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261022T210955Z"
-    },
-    {
-     "title": "PM abre investigação sobre suspeitos filmados com camisetas do PT em Piracicaba",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/22/pm-abre-investigacao-sobre-presos-com-camiseta-do-pt-em-piracicaba.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261022T203737Z"
-    },
-    {
-     "title": "'Falaram para vestir': suspeito diz em depoimento que PMs deram camiseta do PT durante prisão",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/22/falaram-para-vestir-suspeito-diz-em-depoimento-que-pms-deram-camiseta-do-pt-durante-prisao.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261022T201912Z"
-    },
-    {
-     "title": "Após dificuldades no primeiro turno, Justiça determina plano de transporte para que indígenas consigam votar na eleição",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/22/apos-dificuldades-no-primeiro-turno-justica-determina-plano-de-transporte-para-que-indigenas-consigam-votar-na-eleicao.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261022T201133Z"
+     "title": "O Brasil é nosso ? | Papo das 9 # 966",
+     "url": "https://mundosustentavel.com.br/papo-das-9-966-o-brasil-e-nosso-2/",
+     "domain": "mundosustentavel.com.br",
+     "seendate": "20261017T043000Z"
     }
    ]
   }
