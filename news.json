@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T23:01:35+00:00",
+ "updated": "2026-10-23T23:30:54+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -169,6 +169,18 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Vuelca camión de la Guardia Nacional sobre carretera Campeche-Mérida; se desconocen causas del accidente",
+     "url": "https://www.eluniversal.com.mx/estados/vuelca-camion-de-la-guardia-nacional-sobre-carretera-campeche-merida-se-desconocen-causas-del-accidente/",
+     "domain": "El Universal",
+     "seendate": "20261023T231500Z"
+    },
+    {
+     "title": "Samuel García celebra que NL es uno de los estados con mayor percepción de seguridad; resultados muestran colaboración multidisciplinaria, dice",
+     "url": "https://www.eluniversal.com.mx/estados/samuel-garcia-celebra-que-nl-es-uno-de-los-estados-con-mayor-percepcion-de-seguridad-resultados-muestran-colaboracion-multidisciplinaria-dice/",
+     "domain": "El Universal",
+     "seendate": "20261023T230259Z"
+    },
     {
      "title": "Dan nueva vinculación a proceso a dos presuntas integrantes de \"Los Olmos Fragoso\"; están acusadas de robo a casa en Iztacalco",
      "url": "https://www.eluniversal.com.mx/metropoli/dan-nueva-vinculacion-a-proceso-a-dos-presuntas-integrantes-de-los-olmos-fragoso-estan-acusadas-de-robo-a-casa-en-iztacalco/",
@@ -396,18 +408,6 @@
      "url": "https://www.eluniversal.com.mx/nacion/no-me-pueden-decir-que-yo-lo-acuse-maru-campos-sobre-jauregui-reunion-con-la-presidenta-se-esta-volviendo-guerra-de-dimes-y-diretes-dice/",
      "domain": "El Universal",
      "seendate": "20261023T171406Z"
-    },
-    {
-     "title": "¡Toma precauciones! Estas con las marchas previstas para este viernes 23 de octubre en la CDMX",
-     "url": "https://www.eluniversal.com.mx/metropoli/toma-precauciones-estas-con-las-marchas-previstas-para-este-viernes-23-de-octubre-en-la-cdmx/",
-     "domain": "El Universal",
-     "seendate": "20261023T163007Z"
-    },
-    {
-     "title": "Clima CDMX: ¿cuál es el pronóstico para este viernes 23 de octubre?; termómetro alcanzará los 23 grados",
-     "url": "https://www.eluniversal.com.mx/metropoli/clima-cdmx-cual-es-el-pronostico-para-este-viernes-23-de-octubre-termometro-alcanzara-los-23-grados/",
-     "domain": "El Universal",
-     "seendate": "20261023T160949Z"
     },
     {
      "title": "Sheinbaum reacciona a patrimonio de senadora Carolina Viggiano; \"que se investigue de dónde salió el recurso\", dice",
@@ -1276,6 +1276,12 @@
   "CRI": {
    "articles": [
     {
+     "title": "Corte plantea consulta de constitucionalidad ante Sala IV sobre normas presupuestarias que condicionan ¢29.843 millones y 2.463 plazas",
+     "url": "https://www.nacion.com/politica/corte-plantea-consulta-de-constitucionalidad-ante/DBES52IJ2VH53GT7LVW4QOWYRA/story/",
+     "domain": "La Nación",
+     "seendate": "20261023T230908Z"
+    },
+    {
      "title": "Sala Constitucional de Costa Rica recibe premio internacional: ‘La libertad de prensa es objeto hoy de ataques nunca vistos por parte de movimientos políticos que pretenden borrarla’",
      "url": "https://www.nacion.com/politica/sala-constitucional-de-costa-rica-recibe-premio/UKCJGYREIZE75ECWCHFEOMFOSU/story/",
      "domain": "La Nación",
@@ -1388,12 +1394,6 @@
      "url": "https://www.nacion.com/politica/gobierno-topa-con-cerca-en-la-busqueda-de-38-votos/DGUYSNOFUJFOVN65QJTPIQNVKQ/story/",
      "domain": "La Nación",
      "seendate": "20261023T081500Z"
-    },
-    {
-     "title": "Fenómeno El Niño obliga a ampliar alerta roja en Costa Rica: estas son las zonas más afectadas por la sequía",
-     "url": "https://www.nacion.com/el-pais/fenomeno-el-nino-obliga-a-ampliar-alerta-roja-en/EAK4BRP4G5EMNLX5GVA7LJE5PQ/story/",
-     "domain": "La Nación",
-     "seendate": "20261023T050432Z"
     }
    ]
   },
@@ -1645,16 +1645,22 @@
   "COL": {
    "articles": [
     {
+     "title": "Presidente Abelardo De la Espriella recorrió junto al alcalde Alejandro Char las obras del aeropuerto Ernesto Cortissoz: estos son los avances",
+     "url": "https://www.eltiempo.com/colombia/barranquilla/presidente-abelardo-de-la-espriella-recorrio-junto-al-alcalde-alejandro-char-las-obras-del-aeropuerto-ernesto-cortissoz-estos-son-los-avances-3595927",
+     "domain": "El Tiempo",
+     "seendate": "20261023T230519Z"
+    },
+    {
+     "title": "Mujer muere en extrañas circunstancias en Santander, mamá pide justicia tras supuestos mensajes de amenaza de muerte de su novio: 'Temo por mi vida'",
+     "url": "https://www.eltiempo.com/colombia/santander/mujer-muere-en-extranas-circunstancias-en-santander-mama-pide-justicia-tras-supuestos-mensajes-de-amenaza-de-muerte-de-su-novio-temo-por-mi-vida-3595910",
+     "domain": "El Tiempo",
+     "seendate": "20261023T225549Z"
+    },
+    {
      "title": "¿Quién es Wendy Durán, la 'influencer' capturada en Cali por supuesto tráfico de armas? Esto se sabe de la creadora de contenido enviada a la cárcel",
      "url": "https://www.eltiempo.com/colombia/cali/quien-es-wendy-duran-la-influencer-capturada-en-cali-por-supuesto-trafico-de-armas-esto-se-sabe-de-la-creadora-de-contenido-enviada-a-la-carcel-3595874",
      "domain": "El Tiempo",
-     "seendate": "20261023T224459Z"
-    },
-    {
-     "title": "Mujer muere en extrañas circunstancias en Santander, mamá pide justicia tras supuestos mensajes de amenaza de muerte de su novio: 'temo por mi vida'",
-     "url": "https://www.eltiempo.com/colombia/santander/mujer-muere-en-extranas-circunstancias-en-santander-mama-pide-justicia-tras-supuestos-mensajes-de-amenaza-de-muerte-de-su-novio-temo-por-mi-vida-3595910",
-     "domain": "El Tiempo",
-     "seendate": "20261023T224237Z"
+     "seendate": "20261023T225116Z"
     },
     {
      "title": "¿Quién era Edwin Vargas Londoño, el infante de la Armada asesinado en el ataque con drones en Guapi, Cauca? Identifican a los 4 heridos del atentado",
@@ -1673,12 +1679,6 @@
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-tribunal-administrativo-de-bolivar-le-puso-freno-de-mano-a-un-recurso-judicial-que-buscaba-poner-a-rodar-mas-de-50-buses-viejos-por-cartagena-3595898",
      "domain": "El Tiempo",
      "seendate": "20261023T214031Z"
-    },
-    {
-     "title": "El impresionante arsenal de armas y municiones encontrado en la casa de la influenciadora Wendy Jeanette Durán en Cali",
-     "url": "https://www.eltiempo.com/colombia/cali/el-impresionante-arsenal-de-armas-y-municiones-encontrado-en-la-casa-de-la-influenciadora-wendy-jeanette-duran-en-cali-3595888",
-     "domain": "El Tiempo",
-     "seendate": "20261023T213133Z"
     },
     {
      "title": "Hombre que se hizo pasar por policía para secuestrar a dos comerciantes en Medellín fue enviado a la cárcel: exigía más de 250 millones de pesos",
@@ -1989,6 +1989,12 @@
   "ECU": {
    "articles": [
     {
+     "title": "De una denuncia del CNE al caso Laberinto: empresa Ternape, vinculada con Aquiles Alvarez, habría financiado con dineros ilícitos la campaña presidencial de Luisa González por más de $ 700.000",
+     "url": "https://eluniverso.com/politica/expedientes/de-una-denuncia-del-cne-al-caso-laberinto-empresa-ternape-vinculada-con-aquiles-alvarez-habria-financiado-con-dineros-ilicitos-la-campana-presidencial-de-luisa-gonzalez-por-mas-de-700000-nota/",
+     "domain": "El Universo",
+     "seendate": "20261023T230500Z"
+    },
+    {
      "title": "En chats atribuidos a funcionarios municipales se recordaba a la gente pagar a tiempo las ‘vacunas’ para la campaña de Pabel Muñoz, según denuncia que llegó a la Fiscalía",
      "url": "https://eluniverso.com/politica/expedientes/en-chats-atribuidos-a-funcionarios-municipales-se-recordaba-a-la-gente-pagar-a-tiempo-las-vacunas-para-la-campana-de-pabel-munoz-segun-denuncia-que-llego-a-la-fiscalia-nota/",
      "domain": "El Universo",
@@ -2029,18 +2035,6 @@
      "url": "https://eluniverso.com/politica/asamblea-nacional/asamblea-nacional-receso-legislativo-campana-electoral-nota/",
      "domain": "El Universo",
      "seendate": "20261023T192819Z"
-    },
-    {
-     "title": "Operativo militar da con Kevin N., identificado como “jefe de sicarios” del grupo criminal Sao Box",
-     "url": "https://eluniverso.com/politica/seguridad/grupo-de-delincuencia-organizada-fuerzas-armadas-sao-box-nota/",
-     "domain": "El Universo",
-     "seendate": "20261023T173942Z"
-    },
-    {
-     "title": "“Colombia y Venezuela siempre han estado atrás del prófugo, financiando sus campañas”: John Reimberg sobre detención de Luisa González e investigación en su contra",
-     "url": "https://eluniverso.com/politica/seguridad/colombia-y-venezuela-siempre-han-estado-atras-del-profugo-financiando-sus-campanas-john-reimberg-sobre-detencion-de-luisa-gonzalez-e-investigacion-en-su-contra-nota/",
-     "domain": "El Universo",
-     "seendate": "20261023T171000Z"
     },
     {
      "title": "Juez dicta orden de prisión preventiva contra Luisa González y otros dos investigados por lavado de activos en el caso Laberinto",
@@ -2152,6 +2146,36 @@
   },
   "BOL": {
    "articles": [
+    {
+     "title": "Defensa de Cerimedo afirma que sus ingresos provienen de EEUU y Argentina y pide el sobreseimiento del caso",
+     "url": "https://eldeber.com.bo/pais/desarrolla-audiencia-chonchocoro-caso-cerimedo_1792785090",
+     "domain": "eldeber.com.bo",
+     "seendate": "20261023T230000Z"
+    },
+    {
+     "title": "La seguridad operativa no está en riesgo : forman comisión mixta con representantes de BoA",
+     "url": "https://eldeber.com.bo/pais/seguridad-operativa-no-esta-riesgo-forman-comision-mixta-representantes-boa_1792791795",
+     "domain": "eldeber.com.bo",
+     "seendate": "20261023T230000Z"
+    },
+    {
+     "title": "Maestros urbanos no descartan el paro indefinido y rechazan la descentralización de la educación",
+     "url": "https://eldeber.com.bo/santa-cruz/maestros-urbanos-no-descartan-paro-indefinido-rechazan-descentralizacion-educacion_1792789586",
+     "domain": "eldeber.com.bo",
+     "seendate": "20261023T230000Z"
+    },
+    {
+     "title": "Valeria Ruiz apuesta por una juventud protagonista en El Torno",
+     "url": "https://eldeber.com.bo/sociales/valeria-ruiz-apuesta-juventud-protagonista-torno_1792781809",
+     "domain": "eldeber.com.bo",
+     "seendate": "20261023T230000Z"
+    },
+    {
+     "title": "Tras destitución de exfiscal vetado por EEUU , designan a Ruddy Parada como fiscal coordinador de la Unidad de Sustancias Controladas",
+     "url": "https://eldeber.com.bo/santa-cruz/destitucion-exfiscal-vetado-eeuu-designan-ruddy-parada-fiscal-coordinador-unidad-sustancias-controladas_1792792941",
+     "domain": "eldeber.com.bo",
+     "seendate": "20261023T230000Z"
+    },
     {
      "title": "Diputada Claros dice que si López y Pacheco siguen en funciones « quedará en entredicho la objetividad de la Asamblea »",
      "url": "https://eju.tv/2026/10/diputada-claros-dice-que-si-lopez-y-pacheco-siguen-en-funciones-quedara-en-entredicho-la-objetividad-de-la-asamblea/",
@@ -2443,36 +2467,6 @@
     {
      "title": "Jhonny Fernández acusa a Mamén de montar procesos para tapar el destino de Bs 1 . 800 millones",
      "url": "https://eldeber.com.bo/santa-cruz/jhonny-fernandez-acusa-mamen-montar-procesos-tapar-destino-bs-1-800-millones_1792682919",
-     "domain": "eldeber.com.bo",
-     "seendate": "20261022T191500Z"
-    },
-    {
-     "title": "EEUU restringe visas a 40 bolivianos , entre ellos diputados , jueces , fiscales y exautoridades",
-     "url": "https://eldeber.com.bo/pais/eeuu-restringe-visas-40-bolivianos-ellos-diputados-jueces-fiscales-exautoridades_1792694298",
-     "domain": "eldeber.com.bo",
-     "seendate": "20261022T191500Z"
-    },
-    {
-     "title": "Branko Marinkovic plantea priorizar leyes para atraer inversiones",
-     "url": "https://eldeber.com.bo/pais/branko-marinkovic-plantea-priorizar-leyes-atraer-inversiones_1792685199",
-     "domain": "eldeber.com.bo",
-     "seendate": "20261022T191500Z"
-    },
-    {
-     "title": "Policías controlan la venta de GLP para evitar mayor desvío del combustible a Perú",
-     "url": "https://eldeber.com.bo/pais/policias-controlan-venta-glp-evitar-mayor-desvio-combustible-peru_1792675673",
-     "domain": "eldeber.com.bo",
-     "seendate": "20261022T191500Z"
-    },
-    {
-     "title": "Santa Cruz de la Sierra amplía plan de bacheo con cuatro nuevos contratos",
-     "url": "https://eldeber.com.bo/santa-cruz/santa-cruz-sierra-amplia-plan-bacheo-cuatro-nuevos-contratos_1792683507",
-     "domain": "eldeber.com.bo",
-     "seendate": "20261022T191500Z"
-    },
-    {
-     "title": "FBF convoca a Congreso Ordinario para analizar y aprobar el nuevo estatuto",
-     "url": "https://eldeber.com.bo/futbol/fbf-convoca-congreso-ordinario-analizar-aprobar-nuevo-estatuto_1792686020",
      "domain": "eldeber.com.bo",
      "seendate": "20261022T191500Z"
     }
@@ -2845,22 +2839,58 @@
   "ARG": {
    "articles": [
     {
-     "title": "Milei habló tras el sobreseimiento por la causa $LIBRA: “¿Quién me compensa por un año y ocho meses de mentiras?”",
-     "url": "https://www.lanacion.com.ar/politica/milei-hablo-tras-el-sobreseimiento-por-la-causa-libra-quien-me-compensa-por-un-ano-y-ocho-meses-de-nid23102026/",
+     "title": "Detuvieron en Esquel a un bioquímico que tenía en cautiverio dentro de la casa a su esposa y sus hijos",
+     "url": "https://www.lanacion.com.ar/seguridad/detuvieron-en-esquel-a-un-bioquimico-que-tenia-en-cautiverio-dentro-de-la-casa-a-su-esposa-y-sus-nid23102026/",
      "domain": "La Nación",
-     "seendate": "20261023T224652Z"
+     "seendate": "20261023T232148Z"
+    },
+    {
+     "title": "Una valija ensangrentada que fue encontrada en un contenedor de residuos llevó al hallazgo de una joven asesinada",
+     "url": "https://www.lanacion.com.ar/seguridad/una-valija-ensangrentada-que-fue-encontrada-en-un-contenedor-de-residuos-llevo-al-hallazgo-de-una-nid23102026/",
+     "domain": "La Nación",
+     "seendate": "20261023T231956Z"
+    },
+    {
+     "title": "Dirigentes del PJ volvieron a reunirse para avanzar en una alternativa a Cristina y Kicillof",
+     "url": "https://www.lanacion.com.ar/politica/dirigentes-del-pj-volvieron-a-reunirse-para-avanzar-en-una-alternativa-a-cristina-y-kicillof-nid23102026/",
+     "domain": "La Nación",
+     "seendate": "20261023T231220Z"
+    },
+    {
+     "title": "Arrestaron en San Isidro a otros dos menores de 15 años por el robo al hermano de la exjueza Makintach",
+     "url": "https://www.lanacion.com.ar/seguridad/arrestaron-en-san-isidro-a-otros-dos-menores-de-15-anos-por-el-robo-al-hermano-de-la-exjueza-nid23102026/",
+     "domain": "La Nación",
+     "seendate": "20261023T230825Z"
     },
     {
      "title": "“Sin precedentes”. El trabajo en el centro de detención clandestino La Perla identificó a ocho nuevos desaparecidos",
      "url": "https://www.lanacion.com.ar/politica/sin-precedentes-el-trabajo-en-el-centro-de-detencion-clandestino-la-perla-identifico-a-ocho-nuevos-nid23102026/",
      "domain": "La Nación",
-     "seendate": "20261023T223403Z"
+     "seendate": "20261023T230749Z"
     },
     {
      "title": "Javier Milei y sus medidas, en vivo: el mandatario dijo que piensa un proyecto a “100 años” para la Argentina",
      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-mandatario-admitio-que-la-economia-no-evoluciona-como-nid23102026/",
      "domain": "La Nación",
-     "seendate": "20261023T223000Z"
+     "seendate": "20261023T230000Z"
+    },
+    {
+     "title": "Un médico cardiólogo explicó en detalle por qué existe la obesidad: “Las personas no son haraganas, tienen una genética clave”",
+     "url": "https://www.lanacion.com.ar/sociedad/un-medico-cardiologo-explico-en-detalle-por-que-existe-la-obesidad-las-personas-no-son-haraganas-nid23102026/",
+     "domain": "La Nación",
+     "seendate": "20261023T230000Z"
+    },
+    {
+     "title": "Las reacciones al sobreseimiento de los Milei en la causa $LIBRA: del insulto de Santiago Caputo a las críticas de la oposición",
+     "url": "https://www.lanacion.com.ar/politica/las-reacciones-al-sobreseimiento-de-los-milei-en-la-causa-libra-del-insulto-de-santiago-caputo-a-las-nid23102026/",
+     "domain": "La Nación",
+     "seendate": "20261023T225809Z"
+    },
+    {
+     "title": "Milei habló tras el sobreseimiento por la causa $LIBRA: “¿Quién me compensa por un año y ocho meses de mentiras?”",
+     "url": "https://www.lanacion.com.ar/politica/milei-hablo-tras-el-sobreseimiento-por-la-causa-libra-quien-me-compensa-por-un-ano-y-ocho-meses-de-nid23102026/",
+     "domain": "La Nación",
+     "seendate": "20261023T224652Z"
     },
     {
      "title": "Cambio de hábitos: creció un 6% la demanda de pastas y las familias eligen las variedades más económicas",
@@ -2903,18 +2933,6 @@
      "url": "https://www.lanacion.com.ar/economia/campo/un-referente-de-la-poderosa-industria-alimentaria-de-brasil-sobre-las-medidas-de-milei-son-muy-duras-nid23102026/",
      "domain": "La Nación",
      "seendate": "20261023T215809Z"
-    },
-    {
-     "title": "Las reacciones al sobreseimiento de los Milei en la causa $LIBRA: del insulto de Santiago Caputo a las críticas de la oposición",
-     "url": "https://www.lanacion.com.ar/politica/las-reacciones-al-sobreseimiento-de-los-milei-en-la-causa-libra-del-insulto-de-santiago-caputo-a-las-nid23102026/",
-     "domain": "La Nación",
-     "seendate": "20261023T214718Z"
-    },
-    {
-     "title": "Detuvieron en Esquel a un bioquímico que tenía en cautiverio dentro de la casa a su esposa y sus hijos",
-     "url": "https://www.lanacion.com.ar/seguridad/detuvieron-en-esquel-a-un-bioquimico-que-tenia-en-cautiverio-dentro-de-la-casa-a-su-esposa-y-sus-nid23102026/",
-     "domain": "La Nación",
-     "seendate": "20261023T213948Z"
     },
     {
      "title": "FAL: qué cambia para las empresas con la postergación del debut y cuándo podrán financiar indemnizaciones",
@@ -3047,12 +3065,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/joseph-pilates-creador-del-metodo-de-entrenamiento-la-correcta-postura-solo-sera-posible-cuando-el-nid19102026/",
      "domain": "La Nación",
      "seendate": "20261023T211026Z"
-    },
-    {
-     "title": "Descartes: “Si no pienso, luego me doy cuenta que tengo que estar existiendo, porque si yo no existo, no pienso”",
-     "url": "https://www.lanacion.com.ar/sociedad/descartes-si-no-pienso-luego-me-doy-cuenta-que-tengo-que-estar-existiendo-porque-si-yo-no-existo-no-nid22102026/",
-     "domain": "La Nación",
-     "seendate": "20261023T211020Z"
     }
    ]
   },
@@ -3472,6 +3484,24 @@
   "BRA": {
    "articles": [
     {
+     "title": "ANPD dá cinco dias para prefeitura de São Paulo explicar vazamento do Smart Sampa",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/23/anpd-da-cinco-dias-para-prefeitura-de-sao-paulo-explicar-vazamento-do-smart-sampa.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261023T231334Z"
+    },
+    {
+     "title": "Polícia Civil identifica 10 autores de mortes relacionadas a quatro corpos encontrados em São Paulo",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/23/policia-civil-identifica-10-autores-de-mortes-relacionadas-a-quatro-corpos-encontrados-na-capital.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261023T224802Z"
+    },
+    {
+     "title": "Meta, Google e X dizem não haver irregularidades no canal 'Exército do Lula' após ordem de Nunes Marques",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/23/meta-diz-nao-ter-encontrado-irregularidades-no-canal-de-whatasapp-exercito-do-lula.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261023T223923Z"
+    },
+    {
      "title": "TSE mantém canal 'Tropa do Flávio' no ar, mas manda retirar áudio de Gustavo Gayer sobre suposta fraude eleitoral",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/23/tse-mantem-canal-tropa-do-flavio-no-ar-mas-manda-retirar-audio-de-gustavo-gayer-sobre-suposta-fraude-eleitoral.ghtml",
      "domain": "O Globo",
@@ -3560,12 +3590,6 @@
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/23/horario-do-debate-na-globo-hoje-veja-regras-e-onde-assistir-ao-embate-entre-lula-e-flavio-bolsonaro.ghtml",
      "domain": "O Globo",
      "seendate": "20261023T181559Z"
-    },
-    {
-     "title": "Ministro do TSE impede Nunes Marques de suspender canal ‘Exército do Lula’ sem aval do plenário",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/23/ministro-do-tse-atende-a-pedido-de-campanha-do-pt-e-veta-nunes-marques-de-suspender-canal-de-lula.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261023T174852Z"
     }
    ]
   }
