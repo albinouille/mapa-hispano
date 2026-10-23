@@ -205,7 +205,137 @@ async function loadLive(iso) {
   }
 }
 
+/* ---------- Fiche pays : PIB, inflation (Banque mondiale), dirigeant (Wikidata) ---------- */
+
+const WB_URL = "https://api.worldbank.org/v2/country/";
+const WIKIDATA_URL = "https://query.wikidata.org/sparql";
+const FACTS_REFRESH_MS = 6 * 60 * 60 * 1000;
+let facts = null;   // { ISO3: { gdp, infl, leader } } ; null tant que rien n'est arrivé
+
+// Espagne : le pouvoir exécutif est exercé par le chef du gouvernement (P6), ailleurs par le chef de l'État (P35).
+function leaderQuery() {
+  const rows = Object.keys(COUNTRIES)
+    .map((iso) => (iso === "ESP" ? `("${iso}" p:P6 ps:P6)` : `("${iso}" p:P35 ps:P35)`))
+    .join(" ");
+  return `SELECT ?iso ?personLabel ?partyLabel ?start WHERE {
+  VALUES (?iso ?p ?ps) { ${rows} }
+  ?c wdt:P298 ?iso . ?c ?p ?st . ?st ?ps ?person .
+  FILTER NOT EXISTS { ?st pq:P582 ?end }
+  OPTIONAL { ?st pq:P580 ?start }
+  OPTIONAL { ?person p:P102 ?m . ?m ps:P102 ?party . FILTER NOT EXISTS { ?m pq:P582 ?pe } }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "es,en". }
+}`;
+}
+
+async function wbIndicator(code) {
+  const isos = Object.keys(COUNTRIES).join(";");
+  const res = await fetch(`${WB_URL}${isos}/indicator/${code}?format=json&mrnev=1&per_page=100`);
+  if (!res.ok) throw new Error(res.status);
+  const rows = (await res.json())[1] || [];
+  const out = {};
+  for (const r of rows) {
+    if (r.value != null && r.countryiso3code in COUNTRIES) out[r.countryiso3code] = { value: +r.value, year: r.date };
+  }
+  return out;
+}
+
+async function wikidataLeaders() {
+  const res = await fetch(`${WIKIDATA_URL}?format=json&query=${encodeURIComponent(leaderQuery())}`, {
+    headers: { Accept: "application/sparql-results+json" }
+  });
+  if (!res.ok) throw new Error(res.status);
+  const rows = ((await res.json()).results || {}).bindings || [];
+  const best = {};
+  for (const r of rows) {
+    const iso = r.iso.value;
+    const name = (r.personLabel || {}).value;
+    if (!name || /^Q\d+$/.test(name)) continue;
+    const start = r.start ? r.start.value : "";
+    const cur = best[iso];
+    if (!cur || (name !== cur.name && start > cur.start)) best[iso] = { name, start, parties: [] };
+    if (best[iso].name === name && r.partyLabel && r.partyLabel.value && !best[iso].parties.includes(r.partyLabel.value)) {
+      best[iso].parties.push(r.partyLabel.value);
+    }
+  }
+  return best;
+}
+
+async function loadFacts() {
+  const [gdp, infl, leaders] = await Promise.allSettled([
+    wbIndicator("NY.GDP.MKTP.CD"),
+    wbIndicator("FP.CPI.TOTL.ZG"),
+    wikidataLeaders()
+  ]);
+  if (gdp.status === "rejected" && infl.status === "rejected" && leaders.status === "rejected") {
+    console.warn("Datos de país no disponibles");
+    return;
+  }
+  const val = (s) => (s.status === "fulfilled" ? s.value : {});
+  facts = {};
+  for (const iso of Object.keys(COUNTRIES)) {
+    facts[iso] = { gdp: val(gdp)[iso], infl: val(infl)[iso], leader: val(leaders)[iso] };
+  }
+  renderFicha();
+}
+
+function fmtGdp(usd) {
+  const nf = (d) => new Intl.NumberFormat("es-ES", { maximumFractionDigits: d, minimumFractionDigits: d });
+  const bn = usd / 1e9;
+  return bn >= 1000 ? `US$ ${nf(2).format(bn / 1000)} billones` : `US$ ${nf(0).format(bn)} mil millones`;
+}
+
+function fichaItem(label, value, sub, wide) {
+  const dt = document.createElement("dt");
+  dt.textContent = label;
+  const dd = document.createElement("dd");
+  if (value) {
+    dd.textContent = value;
+  } else {
+    dd.className = "na";
+    dd.textContent = "No disponible";
+  }
+  if (value && sub) {
+    const s = document.createElement("small");
+    s.textContent = sub;
+    dd.appendChild(s);
+  }
+  const item = document.createElement("div");
+  item.className = wide ? "wide" : "";
+  item.append(dt, dd);
+  return [item];
+}
+
+function renderFicha() {
+  const box = $("ficha");
+  box.innerHTML = "";
+  if (!currentIso || !facts) {
+    box.hidden = true;
+    return;
+  }
+  const f = facts[currentIso] || {};
+  const dl = document.createElement("dl");
+  const leaderLabel = currentIso === "ESP" ? "Presidente del Gobierno" : "Presidente";
+  const l = f.leader;
+  const since = l && l.start ? `En el cargo desde ${new Date(l.start).getUTCFullYear()}` : "";
+  dl.append(...fichaItem(leaderLabel, l && l.name, since, true));
+  dl.append(...fichaItem("Partido", l && l.parties.length ? l.parties.slice(0, 2).join(" · ") : "", "", true));
+  dl.append(...fichaItem("PIB", f.gdp && fmtGdp(f.gdp.value), f.gdp && `Dato de ${f.gdp.year}`));
+  dl.append(
+    ...fichaItem(
+      "Inflación anual",
+      f.infl && `${new Intl.NumberFormat("es-ES", { maximumFractionDigits: 1 }).format(f.infl.value)} %`,
+      f.infl && `Dato de ${f.infl.year}`
+    )
+  );
+  const src = document.createElement("p");
+  src.className = "src";
+  src.textContent = "Banco Mundial (PIB, inflación) · Wikidata (cargo y partido, pueden ir con retraso).";
+  box.append(dl, src);
+  box.hidden = false;
+}
+
 function render() {
+  renderFicha();
   $("back").hidden = !currentIso;
   $("country-name").textContent = currentIso ? COUNTRIES[currentIso].name : "Titulares en directo";
   if (!newsData) {
@@ -536,6 +666,8 @@ render();
 refreshData();
 loadQuakes();
 loadEvents();
+loadFacts();
+setInterval(loadFacts, FACTS_REFRESH_MS);
 setInterval(refreshData, REFRESH_MS);
 setInterval(updateBadge, 60 * 1000);
 setInterval(() => {
