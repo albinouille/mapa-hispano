@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T08:12:20+00:00",
+ "updated": "2026-10-23T09:09:51+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -7,16 +7,28 @@
      "title": "Última hora de la actualidad política, en directo | Feijóo intentará gobernar aunque no sea la lista más votada: “El objetivo es que Sánchez se vaya”",
      "url": "https://elpais.com/espana/2026-10-23/ultima-hora-de-la-actualidad-politica-en-directo.html",
      "domain": "El País",
-     "seendate": "20261023T080429Z"
+     "seendate": "20261023T090011Z"
     },
     {
-     "title": "La exconsejera de Mazón investigada en la dana asegura que “nadie debería estar imputado” en la causa",
+     "title": "Pensiones, aborto y los pactos con Vox, los 10 titulares de la entrevista a Feijóo en la SER",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-10-23/pensiones-aborto-y-los-pactos-con-vox-los-10-titulares-de-la-entrevista-a-feijoo-en-la-ser.html",
+     "domain": "El País",
+     "seendate": "20261023T083606Z"
+    },
+    {
+     "title": "Los vecinos de un barrio de Sevilla plantan cara al Ayuntamiento por la memoria democrática",
+     "url": "https://elpais.com/espana/andalucia/2026-10-23/los-vecinos-de-un-barrio-de-sevilla-plantan-cara-al-ayuntamiento-por-la-memoria-democratica.html",
+     "domain": "El País",
+     "seendate": "20261023T082309Z"
+    },
+    {
+     "title": "La exconsejera de Mazón investigada en la dana defiende que “nadie debería estar imputado” en la causa",
      "url": "https://elpais.com/espana/comunidad-valenciana/2026-10-23/la-exconsejera-de-mazon-investigada-en-la-dana-asegura-que-nadie-deberia-estar-imputado-en-la-causa.html",
      "domain": "El País",
      "seendate": "20261023T075823Z"
     },
     {
-     "title": "Cinco coches calcinados de madrugada en un incendio en un aparcamiento en Leganés",
+     "title": "Un incendio sin heridos alcanza a 10 coches que estaban aparcados en la calle en Leganés",
      "url": "https://elpais.com/espana/madrid/2026-10-23/cinco-coches-calcinados-tras-un-incendio-en-un-aparcamiento-en-leganes.html",
      "domain": "El País",
      "seendate": "20261023T072953Z"
@@ -66,12 +78,6 @@
     {
      "title": "Los acampados de Sol se debaten entre resistir o levantar las tiendas para organizar la huelga general y buscan un “cierre memorable”",
      "url": "https://elpais.com/espana/2026-10-23/los-acampados-de-sol-se-debaten-entre-resistir-o-levantar-las-tiendas-para-organizar-la-huelga-general-y-buscan-un-cierre-memorable.html",
-     "domain": "El País",
-     "seendate": "20261023T033001Z"
-    },
-    {
-     "title": "Los devotos de la gallina andaluza azul, la especie ganadera más amenazada, se confabulan para salvarla otra vez",
-     "url": "https://elpais.com/espana/andalucia/2026-10-23/los-devotos-de-la-gallina-andaluza-azul-la-especie-ganadera-mas-amenazada-se-confabulan-para-salvarla-otra-vez.html",
      "domain": "El País",
      "seendate": "20261023T033001Z"
     },
@@ -146,6 +152,42 @@
   "MEX": {
    "articles": [
     {
+     "title": "Caen 7 presuntos implicados en el asesinato de 6 personas en Juchitán",
+     "url": "https://www.eluniversal.com.mx/estados/caen-7-presuntos-implicados-en-el-asesinato-de-6-personas-en-juchitan/",
+     "domain": "El Universal",
+     "seendate": "20261023T090100Z"
+    },
+    {
+     "title": "La presa Mujer Solteca reactiva disputa territorial",
+     "url": "https://www.eluniversal.com.mx/estados/la-presa-mujer-solteca-reactiva-disputa-territorial/",
+     "domain": "El Universal",
+     "seendate": "20261023T090000Z"
+    },
+    {
+     "title": "Daniel Sibaja pidió salón del aeropuerto a la SRE, dice Higinio Martínez",
+     "url": "https://www.eluniversal.com.mx/nacion/daniel-sibaja-pidio-salon-del-aeropuerto-a-la-sre-dice-higinio-martinez/",
+     "domain": "El Universal",
+     "seendate": "20261023T084736Z"
+    },
+    {
+     "title": "Alerta financiera en modalidad 40 de pensiones, desde 2023",
+     "url": "https://www.eluniversal.com.mx/nacion/alerta-financiera-en-modalidad-40-de-pensiones-desde-2023/",
+     "domain": "El Universal",
+     "seendate": "20261023T084013Z"
+    },
+    {
+     "title": "Hija de asesora de Taddei es proveedora del INE",
+     "url": "https://www.eluniversal.com.mx/nacion/hija-de-asesora-de-taddei-es-proveedora-del-ine/",
+     "domain": "El Universal",
+     "seendate": "20261023T083807Z"
+    },
+    {
+     "title": "Cempasúchil, flor de muertos que nace en Xochimilco",
+     "url": "https://www.eluniversal.com.mx/nacion/cempasuchil-flor-de-muertos-que-nace-en-xochimilco/",
+     "domain": "El Universal",
+     "seendate": "20261023T083506Z"
+    },
+    {
      "title": "Fiscalía CDMX confirma que Dasha, reportada como desaparecida, fue hallada en Monterrey; señala ausencia voluntaria",
      "url": "https://www.eluniversal.com.mx/metropoli/fiscalia-cdmx-confirma-que-dasha-reportada-como-desaparecida-fue-hallada-en-monterrey-senala-ausencia-voluntaria/",
      "domain": "El Universal",
@@ -168,72 +210,6 @@
      "url": "https://www.eluniversal.com.mx/nacion/segob-sostiene-reunion-con-reporteros-sin-fronteras-apostamos-por-las-libertades-por-los-derechos-dice-rosa-icela/",
      "domain": "El Universal",
      "seendate": "20261023T035138Z"
-    },
-    {
-     "title": "Detienen a visitadora indígena de Comisión Estatal de Derechos Humanos en los Altos de Chiapas y exalcaldesa de Chenalhó; la acusan de fraude",
-     "url": "https://www.eluniversal.com.mx/estados/detienen-a-visitadora-indigena-de-comision-estatal-de-derechos-humanos-en-los-altos-de-chiapas-y-exalcaldesa-de-chenalho-la-acusan-de-fraude/",
-     "domain": "El Universal",
-     "seendate": "20261023T031344Z"
-    },
-    {
-     "title": "Embajada de EU celebra colaboración de México y Colombia con la DEA; suman mil 287 arrestos, asegura",
-     "url": "https://www.eluniversal.com.mx/nacion/embajada-de-eu-celebra-colaboracion-de-mexico-y-colombia-con-la-dea-suman-mil-287-arrestos-asegura/",
-     "domain": "El Universal",
-     "seendate": "20261023T030657Z"
-    },
-    {
-     "title": "Vinculan a proceso a César Jáuregui; es acusado de ejercicio indebido del servicio público",
-     "url": "https://www.eluniversal.com.mx/estados/vinculan-a-proceso-a-cesar-jauregui-es-acusado-de-ejercicio-indebido-del-servicio-publico/",
-     "domain": "El Universal",
-     "seendate": "20261023T024039Z"
-    },
-    {
-     "title": "Tráiler derriba postes y un semáforo frente al Búnker de Fiscalía CDMX; no se reportan lesionados",
-     "url": "https://www.eluniversal.com.mx/metropoli/trailer-derriba-postes-y-un-semaforo-frente-al-bunker-de-fiscalia-cdmx-no-se-reportan-lesionados/",
-     "domain": "El Universal",
-     "seendate": "20261023T022426Z"
-    },
-    {
-     "title": "Tráiler golpea techo de estación de Línea 2 del Metrobús; dobla estructura",
-     "url": "https://www.eluniversal.com.mx/metropoli/trailer-golpea-techo-de-estacion-de-linea-2-del-metrobus-dobla-estructura/",
-     "domain": "El Universal",
-     "seendate": "20261023T021459Z"
-    },
-    {
-     "title": "Reclasifican delito a agresor de recepcionista de hotel en Santa Fe y es vinculado a proceso; lo acusan de lesiones calificadas agravadas",
-     "url": "https://www.eluniversal.com.mx/metropoli/reclasifican-delito-a-agresor-de-recepcionista-de-hotel-en-santa-fe-y-es-vinculado-a-proceso-lo-acusan-de-lesiones-calificadas-agravadas/",
-     "domain": "El Universal",
-     "seendate": "20261023T020443Z"
-    },
-    {
-     "title": "Hospitalizan a aspirante de Morena a la alcaldía de Mérida; es sometido a un cateterismo",
-     "url": "https://www.eluniversal.com.mx/estados/hospitalizan-a-aspirante-de-morena-a-la-alcaldia-de-merida-es-sometido-a-un-cateterismo/",
-     "domain": "El Universal",
-     "seendate": "20261023T015056Z"
-    },
-    {
-     "title": "Realizan búsqueda de Axel David, quien cayó al río Salado, en Hidalgo; creadores de contenido realizan rastreo con drones",
-     "url": "https://www.eluniversal.com.mx/estados/realizan-busqueda-de-axel-david-quien-cayo-al-rio-salado-en-hidalgo-creadores-de-contenido-realizan-rastreo-con-drones/",
-     "domain": "El Universal",
-     "seendate": "20261023T014313Z"
-    },
-    {
-     "title": "Veintiocho yucatecos han fallecido en EU y fueron repatriados a su tierra en lo que va de 2026: Indemaya; Instituto da ayudas económicas a familias",
-     "url": "https://www.eluniversal.com.mx/estados/veintiocho-yucatecos-han-fallecido-en-eu-y-fueron-repatriados-a-su-tierra-en-lo-que-va-de-2026-indemaya-instituto-da-ayudas-economicas-a-familias/",
-     "domain": "El Universal",
-     "seendate": "20261023T012847Z"
-    },
-    {
-     "title": "Comité de Ética de San Lázaro recibe denuncia contra Gutiérrez Mancilla; analizarán caso para determinar si habrá sanciones",
-     "url": "https://www.eluniversal.com.mx/nacion/comite-de-etica-de-san-lazaro-recibe-denuncia-contra-gutierrez-mancilla-analizaran-caso-para-determinar-si-habra-sanciones/",
-     "domain": "El Universal",
-     "seendate": "20261023T012537Z"
-    },
-    {
-     "title": "Alianza Mexicana de Organización de Transportistas bloquean varias carreteras de Puebla; protestan por asesinato de compañero",
-     "url": "https://www.eluniversal.com.mx/estados/alianza-mexicana-de-organizacion-de-transportistas-bloquean-varias-carreteras-de-puebla-protestan-por-asesinato-de-companero/",
-     "domain": "El Universal",
-     "seendate": "20261022T234018Z"
     }
    ]
   },
@@ -668,6 +644,24 @@
   "SLV": {
    "articles": [
     {
+     "title": "Francia y Perú ganan El Salvador ISA World Longboard Championship 2026",
+     "url": "https://www.periodicoequilibrium.com/francia-y-peru-ganan-el-salvador-isa-world-longboard-championship-2026/",
+     "domain": "periodicoequilibrium.com",
+     "seendate": "20261023T041500Z"
+    },
+    {
+     "title": "Gobierno de Haití declara prioridad absoluta lliberación de los soldados salvadoreños secuestrados por pandilleros – Diario La Página",
+     "url": "https://lapagina.com.sv/internacionales/gobierno-de-haiti-declara-prioridad-absoluta-lliberacion-de-los-soldados-salvadorenos-secuestrados-por-pandilleros/",
+     "domain": "lapagina.com.sv",
+     "seendate": "20261023T033000Z"
+    },
+    {
+     "title": "Expertos en astrofísica de la NASA comparten experiencias en la ESIAP",
+     "url": "https://lapagina.com.sv/nacionales/expertos-en-astrofisica-de-la-nasa-comparten-experiencias-en-la-esiap/",
+     "domain": "lapagina.com.sv",
+     "seendate": "20261023T033000Z"
+    },
+    {
      "title": "El sabor de Louisiana y el espíritu del Mardi Gras llegan a Los Héroes con la tercera sucursal de Popeyes",
      "url": "https://diario1.com/nacionales/2026/10/el-sabor-de-louisiana-y-el-espiritu-del-mardi-gras-llegan-a-los-heroes-con-la-tercera-sucursal-de-popeyes/",
      "domain": "diario1.com",
@@ -858,12 +852,6 @@
      "url": "https://lapagina.com.sv/nacionales/seguridad-y-educacion-reciben-las-mejores-calificaciones-en-la-gestion-del-presidente-nayib-bukele/",
      "domain": "lapagina.com.sv",
      "seendate": "20261016T180000Z"
-    },
-    {
-     "title": "Uruguay considera a Nayib Bukele como el mandatario con mejor imagen",
-     "url": "https://lapagina.com.sv/politica/uruguay-considera-a-nayib-bukele-como-el-mandatario-con-mejor-imagen/",
-     "domain": "lapagina.com.sv",
-     "seendate": "20261016T080000Z"
     }
    ]
   },
@@ -1090,6 +1078,12 @@
   "CRI": {
    "articles": [
     {
+     "title": "Gobierno topa con cerca en la búsqueda de 38 votos y empieza a cargar con el costo político",
+     "url": "https://www.nacion.com/politica/gobierno-topa-con-cerca-en-la-busqueda-de-38-votos/DGUYSNOFUJFOVN65QJTPIQNVKQ/story/",
+     "domain": "La Nación",
+     "seendate": "20261023T081500Z"
+    },
+    {
      "title": "Fenómeno El Niño obliga a ampliar alerta roja en Costa Rica: estas son las zonas más afectadas por la sequía",
      "url": "https://www.nacion.com/el-pais/fenomeno-el-nino-obliga-a-ampliar-alerta-roja-en/EAK4BRP4G5EMNLX5GVA7LJE5PQ/story/",
      "domain": "La Nación",
@@ -1262,12 +1256,6 @@
      "url": "https://www.nacion.com/sucesos/detenidos-dos-sospechosos-de-homicidio-y-privacion/OIQQLT4O7VEWVGEH4AVTJI5X3Y/story/",
      "domain": "La Nación",
      "seendate": "20261022T151010Z"
-    },
-    {
-     "title": "Tras intento de motín en Puntarenas muere un reo y 37 privados de libertad son enviados a centro de alta contención de La Reforma",
-     "url": "https://www.nacion.com/sucesos/37-reos-de-carcel-de-puntarenas-son-trasladados-a/FFGKNMMITBHDRG225UYQ7G5WQA/story/",
-     "domain": "La Nación",
-     "seendate": "20261022T142333Z"
     }
    ]
   },
@@ -1504,12 +1492,6 @@
      "url": "https://www.14ymedio.com/cuba/sherritt-asocia-gillon-capital-licencia_1_1132183.html",
      "domain": "14ymedio",
      "seendate": "20261020T151540Z"
-    },
-    {
-     "title": "Las Vegas gana terreno como destino de la migración cubana en EE UU",
-     "url": "https://www.14ymedio.com/cuba/migracion/vegas-gana-terreno-destino-migracion_1_1132146.html",
-     "domain": "14ymedio",
-     "seendate": "20261019T152206Z"
     }
    ]
   },
@@ -1518,6 +1500,12 @@
   },
   "COL": {
    "articles": [
+    {
+     "title": "Explosión de carro bomba en peaje entre Villanueva y Monterrey, Casanare, en la madrugada de este viernes 23 de octubre: habría personas heridas",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/explosion-de-carro-bomba-en-peaje-entre-villanueva-y-monterrey-casanare-en-la-madrugada-de-este-viernes-23-de-octubre-habria-personas-heridas-3595702",
+     "domain": "El Tiempo",
+     "seendate": "20261023T085017Z"
+    },
     {
      "title": "¡Pilas, conductor! Pico y placa en Cali para el viernes 23 de octubre de 2026: estas son las placas que tendrán restricción",
      "url": "https://www.eltiempo.com/colombia/cali/pilas-conductor-pico-y-placa-en-cali-para-el-viernes-23-de-octubre-de-2026-estas-son-las-placas-que-tendran-restriccion-3595530",
@@ -1553,12 +1541,6 @@
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/yahir-acuna-alcalde-de-sincelejo-se-pronuncio-tras-anuncio-de-estados-unidos-de-revocarle-su-visa-y-aseguro-que-va-a-solicitarla-nuevamente-3595689",
      "domain": "El Tiempo",
      "seendate": "20261023T040650Z"
-    },
-    {
-     "title": "Emergencia en Moniquirá, Boyacá, por deslizamiento de tierra en la vereda de Pajales tras fuertes lluvias: se reportan tres casas afectadas",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/emergencia-en-moniquira-boyaca-por-deslizamiento-de-tierra-en-la-vereda-de-pajales-tras-fuertes-lluvias-se-reportan-tres-casas-destruidas-3595671",
-     "domain": "El Tiempo",
-     "seendate": "20261023T033438Z"
     },
     {
      "title": "Esta es la alianza con Italia para impulsar la agricultura del país: el café, la piña y el aguacate del Cauca son claves para los mercados europeos",
@@ -2749,6 +2731,18 @@
   "ARG": {
    "articles": [
     {
+     "title": "Fecha de cobro de Anses: el cronograma de pagos para este viernes 23 de octubre",
+     "url": "https://www.lanacion.com.ar/economia/fecha-de-cobro-de-anses-el-cronograma-de-pagos-para-este-viernes-23-de-octubre-nid23102026/",
+     "domain": "La Nación",
+     "seendate": "20261023T090001Z"
+    },
+    {
+     "title": "“Me prendí fuego”. La cordobesa que creció entre animales y, tras un hecho dramático, decidió dedicar su vida a salvar pumas",
+     "url": "https://www.lanacion.com.ar/sociedad/me-prendi-fuego-la-cordobesa-que-crecio-entre-animales-y-tras-un-hecho-dramatico-decidio-dedicar-su-nid23102026/",
+     "domain": "La Nación",
+     "seendate": "20261023T090001Z"
+    },
+    {
      "title": "Kicillof, Massa y Máximo Kirchner se reunieron en medio de una interna recargada",
      "url": "https://www.lanacion.com.ar/politica/kicillof-massa-y-maximo-kirchner-volveran-a-reunirse-esta-noche-en-medio-de-una-interna-recargada-nid22102026/",
      "domain": "La Nación",
@@ -2879,42 +2873,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/un-cardiologo-explico-por-que-cada-vez-hay-mas-mas-infartos-en-la-argentina-y-remarco-la-importancia-nid22102026/",
      "domain": "La Nación",
      "seendate": "20261023T003500Z"
-    },
-    {
-     "title": "Conrado Estol, neurólogo, sobre la importancia de mantener vínculos: “Es el mayor predictor de expectativa de vida y de felicidad”",
-     "url": "https://www.lanacion.com.ar/sociedad/conrado-estol-neurologo-sobre-la-importancia-de-mantener-vinculos-es-el-mayor-predictor-de-nid22102026/",
-     "domain": "La Nación",
-     "seendate": "20261023T000000Z"
-    },
-    {
-     "title": "Daniel López Rosetti, sobre la gestión de las emociones: “La vida es la administración de nuestro futuro, de lo que tenemos por delante”",
-     "url": "https://www.lanacion.com.ar/sociedad/daniel-lopez-rosetti-sobre-la-gestion-de-las-emociones-la-vida-es-la-administracion-de-nuestro-nid22102026/",
-     "domain": "La Nación",
-     "seendate": "20261023T000000Z"
-    },
-    {
-     "title": "Renunció Daniel González a la Secretaría de Coordinación de Energía y Minería",
-     "url": "https://www.lanacion.com.ar/economia/renuncio-daniel-gonzalez-a-la-secretaria-de-coordinacion-de-energia-y-mineria-nid22102026/",
-     "domain": "La Nación",
-     "seendate": "20261022T234715Z"
-    },
-    {
-     "title": "Ofensiva de palabra, retrocesos de hecho",
-     "url": "https://www.lanacion.com.ar/politica/ofensiva-de-palabra-retrocesos-de-hecho-nid22102026/",
-     "domain": "La Nación",
-     "seendate": "20261022T234647Z"
-    },
-    {
-     "title": "Inti Bonomo, especialista en Ciencias Ambientales, sobre la evolución del Súper Niño: “Va a seguir creciendo y el pico va a ser en diciembre”",
-     "url": "https://www.lanacion.com.ar/sociedad/inti-bonomo-especialista-en-ciencias-ambientales-sobre-la-evolucion-del-super-nino-va-a-seguir-nid21102026/",
-     "domain": "La Nación",
-     "seendate": "20261022T234000Z"
-    },
-    {
-     "title": "Arthur Brooks, catedrático de Harvard, de 62 años: “Sentirse feliz no es lo mismo que entender de qué está hecha la felicidad”",
-     "url": "https://www.lanacion.com.ar/sociedad/arthur-brooks-catedratico-de-harvard-de-62-anos-sentirse-feliz-no-es-lo-mismo-que-entender-de-que-nid20102026/",
-     "domain": "La Nación",
-     "seendate": "20261022T233800Z"
     }
    ]
   },
@@ -3404,24 +3362,6 @@
      "url": "https://oglobo.globo.com/brasil/noticia/2026/10/23/marcacao-de-municao-que-bolsonaristas-propoem-extinguir-foi-crucial-para-elucidar-ao-menos-83-mortes-e-condenar-22-pms.ghtml",
      "domain": "O Globo",
      "seendate": "20261023T063000Z"
-    },
-    {
-     "title": "TSE reúne representantes de redes sociais após Nunes Marques ordenar pente-fino em canal de apoio a Lula",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/23/tse-reune-representantes-de-redes-sociais-apos-nunes-marques-ordenar-pente-fino-em-canal-de-apoio-a-lula.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261023T030000Z"
-    },
-    {
-     "title": "'Caso walkie-talkie': mãe suspeita que homem ouviu conversas em casa antes de ameaçar filha",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/23/caso-walkie-talkie-mae-suspeita-que-homem-ouviu-conversas-em-casa-antes-de-ameacar-filha.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261023T030000Z"
-    },
-    {
-     "title": "Lula e Flávio encerram campanha com agendas em São Paulo, Minas e Rio, que concentram 40% do eleitorado",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/23/lula-e-flavio-encerram-campanha-com-agendas-em-sao-paulo-minas-e-rio-que-concentram-40percent-do-eleitorado.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261023T030000Z"
     }
    ]
   }
