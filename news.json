@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T04:08:41+00:00",
+ "updated": "2026-10-23T05:06:41+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -70,6 +70,12 @@
      "seendate": "20261022T214658Z"
     },
     {
+     "title": "Los Mossos detectan un millar de pandilleros en Cataluña",
+     "url": "https://elpais.com/espana/catalunya/2026-10-22/los-mossos-detectan-un-millar-de-pandilleros-en-cataluna.html",
+     "domain": "El País",
+     "seendate": "20261022T192309Z"
+    },
+    {
      "title": "La cuestión de Ceuta y Melilla reemerge en Marruecos durante el debate de investidura de la primera ministra tras un largo silencio oficial",
      "url": "https://elpais.com/espana/2026-10-22/la-cuestion-de-ceuta-y-melilla-reemerge-en-marruecos-en-el-debate-de-investidura-de-la-primera-ministra-tras-un-largo-silencio-oficial.html",
      "domain": "El País",
@@ -118,12 +124,6 @@
      "seendate": "20261022T075240Z"
     },
     {
-     "title": "Exposición de tiburones en Cosmocaixa: necesitará un barco más grande",
-     "url": "https://elpais.com/espana/catalunya/2026-10-21/exposicion-de-tiburones-en-cosmocaixa-necesitara-un-barco-mas-grande.html",
-     "domain": "El País",
-     "seendate": "20261021T181413Z"
-    },
-    {
      "title": "Muere un trabajador forestal por un ataque masivo de avispas velutinas en Ourense",
      "url": "https://elpais.com/espana/galicia/2026-10-21/muere-un-trabajador-forestal-por-un-ataque-masivo-de-velutinas-en-ourense.html",
      "domain": "El País",
@@ -133,6 +133,18 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Maru Campos niega pacto con Sheinbaum; dice que Ariadna Montiel está vinculada con el narco",
+     "url": "https://www.eluniversal.com.mx/nacion/maru-niega-pacto-con-sheinbaum-dice-que-ariadna-montiel-esta-vinculada-con-el-crimen-organizado/",
+     "domain": "El Universal",
+     "seendate": "20261023T041933Z"
+    },
+    {
+     "title": "Samuel García inaugura el Festival Internacional Santa Lucía con homenaje a Juan Gabriel; conoce la cartelera",
+     "url": "https://www.eluniversal.com.mx/estados/samuel-garcia-inaugura-el-festival-internacional-santa-lucia-con-homenaje-a-juan-gabriel-conoce-la-cartelera/",
+     "domain": "El Universal",
+     "seendate": "20261023T041927Z"
+    },
     {
      "title": "Segob sostiene reunión con Reporteros Sin Fronteras; \"apostamos por las libertades, por los derechos\", dice Rosa Icela",
      "url": "https://www.eluniversal.com.mx/nacion/segob-sostiene-reunion-con-reporteros-sin-fronteras-apostamos-por-las-libertades-por-los-derechos-dice-rosa-icela/",
@@ -354,12 +366,6 @@
      "url": "https://www.eluniversal.com.mx/nacion/especialistas-y-lideres-sindicales-ven-ilegal-el-decretazo-del-imss-preven-ola-de-amparos-por-la-modalidad-40/",
      "domain": "El Universal",
      "seendate": "20261022T211444Z"
-    },
-    {
-     "title": "Hallan a bebé muerto en drenaje de comunidad de Sinaloa; la madre podría ser joven de 19 años que se encuentra hospitalizada",
-     "url": "https://www.eluniversal.com.mx/estados/hallan-a-bebe-muerto-en-drenaje-de-comunidad-de-sinaloa-la-madre-podria-ser-joven-de-19-anos-quien-se-encuentra-hospitalizada/",
-     "domain": "El Universal",
-     "seendate": "20261022T211343Z"
     },
     {
      "title": "Policías de Temixco, Morelos paran labores y exigen homologación salarial; denuncian falta de combustible y patrullas descompuestas",
@@ -1008,14 +1014,14 @@
   "NIC": {
    "articles": [
     {
-     "title": "126 especialistas analizarán salud infantil en congreso de pediatría en Managua",
-     "url": "https://nuevaya.com.ni/nacionales/126-especialistas-analizaran-salud-infantil-en-congreso-de-pediatria-en-managua/",
+     "title": "Entrega 29 , 000 becas a jóvenes para estudiar en Nicaragua",
+     "url": "https://nuevaya.com.ni/nacionales/entrega-29000-becas-a-jovenes-para-estudiar-en-nicaragua/",
      "domain": "nuevaya.com.ni",
      "seendate": "20261022T233000Z"
     },
     {
-     "title": "Entrega 29 , 000 becas a jóvenes para estudiar en Nicaragua",
-     "url": "https://nuevaya.com.ni/nacionales/entrega-29000-becas-a-jovenes-para-estudiar-en-nicaragua/",
+     "title": "126 especialistas analizarán salud infantil en congreso de pediatría en Managua",
+     "url": "https://nuevaya.com.ni/nacionales/126-especialistas-analizaran-salud-infantil-en-congreso-de-pediatria-en-managua/",
      "domain": "nuevaya.com.ni",
      "seendate": "20261022T233000Z"
     },
@@ -1222,24 +1228,6 @@
      "url": "https://nuevaya.com.ni/economicas-ya/cargill-donara-alimentos-por-compras-de-productos-delicia-en-walmart-y-la-union/",
      "domain": "nuevaya.com.ni",
      "seendate": "20261016T184500Z"
-    },
-    {
-     "title": "Nicaragua buscará su pase a los clasificatorios al FIBA Americup 2029 en el Polideportivo Alexis Argüello",
-     "url": "https://nuevaya.com.ni/deportes-ya/nicaragua-conoce-sus-rivales-en-el-pre-clasificatorio-al-fiba-americup-2029/",
-     "domain": "nuevaya.com.ni",
-     "seendate": "20261016T043000Z"
-    },
-    {
-     "title": "Aficionados de Rivas y Granada se desbordan a comprar boletos para la final",
-     "url": "https://nuevaya.com.ni/deportes-ya/aficionados-de-rivas-y-granada-se-desbordan-a-comprar-boletos-para-la-final/",
-     "domain": "nuevaya.com.ni",
-     "seendate": "20261016T043000Z"
-    },
-    {
-     "title": "Picota dirigirá al Bóer en la Profesional | La Nueva Radio YA",
-     "url": "https://nuevaya.com.ni/deportes-ya/picota-dirigira-al-boer-en-la-profesional/",
-     "domain": "nuevaya.com.ni",
-     "seendate": "20261016T043000Z"
     }
    ]
   },
@@ -1430,6 +1418,30 @@
   "PAN": {
    "articles": [
     {
+     "title": "La ruta de las donaciones y el sueño de un techo en La Miel",
+     "url": "https://www.prensa.com/sociedad/la-ruta-de-las-donaciones-y-el-sueno-de-un-techo-en-la-miel/",
+     "domain": "La Prensa",
+     "seendate": "20261023T050338Z"
+    },
+    {
+     "title": "La Contraloría pone la lupa en el subsidio poselectoral del PRD, pero excluye los millones de la campaña de 2024",
+     "url": "https://www.prensa.com/politica/la-contraloria-pone-la-lupa-en-el-subsidio-poselectoral-del-prd-pero-excluye-los-millones-de-la-campana-de-2024/",
+     "domain": "La Prensa",
+     "seendate": "20261023T050300Z"
+    },
+    {
+     "title": "Diputados de RM y PRD trancan el debate del presupuesto de 2027",
+     "url": "https://www.prensa.com/politica/diputados-de-rm-y-prd-trancan-el-debate-del-presupuesto-de-2027/",
+     "domain": "La Prensa",
+     "seendate": "20261023T045700Z"
+    },
+    {
+     "title": "Más plata para la Asamblea: los $23 millones adicionales son para ‘sueldos, décimo tercer mes y contribuciones laborales’",
+     "url": "https://www.prensa.com/politica/mas-plata-para-la-asamblea-los-23-millones-adicionales-son-para-sueldos-decimo-tercer-mes-y-contribuciones-laborales/",
+     "domain": "La Prensa",
+     "seendate": "20261023T045300Z"
+    },
+    {
      "title": "Más de 12,000 viviendas afectadas por el terremoto en Panamá",
      "url": "https://www.prensa.com/politica/el-ejecutivo-actualiza-el-balance-de-areas-afectadas-por-el-terremoto/",
      "domain": "La Prensa",
@@ -1448,22 +1460,10 @@
      "seendate": "20261022T222748Z"
     },
     {
-     "title": "Diputados de RM y PRD trancan el debate del presupuesto de 2027",
-     "url": "https://www.prensa.com/politica/diputados-de-rm-y-prd-trancan-el-debate-del-presupuesto-de-2027/",
-     "domain": "La Prensa",
-     "seendate": "20261022T215022Z"
-    },
-    {
      "title": "Jubilados: diputados aprueban en primer debate proyecto de aumentos de descuentos",
      "url": "https://www.prensa.com/sociedad/jubilados-diputados-aprueban-en-primer-debate-proyecto-de-aumentos-de-descuentos/",
      "domain": "La Prensa",
      "seendate": "20261022T201535Z"
-    },
-    {
-     "title": "Más plata para la Asamblea: los $23 millones adicionales son para ‘sueldos, décimo tercer mes y contribuciones laborales’",
-     "url": "https://www.prensa.com/politica/mas-plata-para-la-asamblea-los-23-millones-adicionales-son-para-sueldos-decimo-tercer-mes-y-contribuciones-laborales/",
-     "domain": "La Prensa",
-     "seendate": "20261022T200215Z"
     },
     {
      "title": "Doble crimen en Perejil: los asesinan dentro del auto en que viajaban y los atacantes huyen a pie",
@@ -1536,18 +1536,6 @@
      "url": "https://www.prensa.com/politica/estados-unidos-sanciona-a-una-firma-panamena-sus-socios-y-siete-buques-por-vinculos-con-una-red-petrolera-irani/",
      "domain": "La Prensa",
      "seendate": "20261021T181100Z"
-    },
-    {
-     "title": "Sinaproc eleva a alerta amarilla a Soná, Mariato y Tonosí por riesgo de inundaciones",
-     "url": "https://www.prensa.com/sociedad/sinaproc-eleva-a-alerta-amarilla-a-sona-mariato-y-tonosi-por-riesgo-de-inundaciones/",
-     "domain": "La Prensa",
-     "seendate": "20261021T123100Z"
-    },
-    {
-     "title": "El PRD, uno de los grandes beneficiarios del subsidio que Robinson ahora quiere eliminar",
-     "url": "https://www.prensa.com/politica/el-prd-uno-de-los-grandes-beneficiarios-del-subsidio-que-robinson-ahora-quiere-eliminar/",
-     "domain": "La Prensa",
-     "seendate": "20261021T050500Z"
     },
     {
      "title": "Meduca confirma la celebración de actividades para fiestas patrias tras terremoto",
@@ -1696,7 +1684,7 @@
      "title": "Yahir Acuña, alcalde de Sincelejo, se pronunció tras el anuncio de Estados Unidos de revocarle su visa y aseguró que va a 'solicitarla nuevamente'",
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/yahir-acuna-alcalde-de-sincelejo-se-pronuncio-tras-anuncio-de-estados-unidos-de-revocarle-su-visa-y-aseguro-que-va-a-solicitarla-nuevamente-3595689",
      "domain": "El Tiempo",
-     "seendate": "20261023T035228Z"
+     "seendate": "20261023T040650Z"
     },
     {
      "title": "Emergencia en Moniquirá, Boyacá, por deslizamiento de tierra en la vereda de Pajales tras fuertes lluvias: se reportan tres casas afectadas",
@@ -2001,6 +1989,18 @@
   "ECU": {
    "articles": [
     {
+     "title": "Se instala audiencia de formulación de cargos contra Luisa González por el caso Laberinto",
+     "url": "https://eluniverso.com/politica/expedientes/se-instala-audiencia-de-formulacion-de-cargos-contra-luisa-gonzalez-por-el-caso-laberinto-nota/",
+     "domain": "El Universo",
+     "seendate": "20261023T045831Z"
+    },
+    {
+     "title": "Pronóstico del clima para este viernes 23 de octubre: lluvias durante todo el día en la Amazonía y Galápagos",
+     "url": "https://eluniverso.com/comunidad/ecuador/pronostico-del-clima-para-este-viernes-23-de-octubre-lluvias-durante-todo-el-dia-en-la-amazonia-y-galapagos-nota/",
+     "domain": "El Universo",
+     "seendate": "20261023T041100Z"
+    },
+    {
      "title": "Lluvias y tormentas continuarán durante el fin de semana: Guayas entre las zonas de mayor intensidad",
      "url": "https://eluniverso.com/comunidad/ecuador/lluvias-y-tormentas-continuaran-durante-el-fin-de-semana-guayas-entre-las-zonas-de-mayor-intensidad-nota/",
      "domain": "El Universo",
@@ -2097,24 +2097,6 @@
      "seendate": "20261022T175523Z"
     },
     {
-     "title": "Caso Laberinto: estas son las reacciones tras la detención de Luisa González por presunto lavado de activos en aportes a su campaña presidencial de 2023",
-     "url": "https://eluniverso.com/politica/expedientes/caso-laberinto-reacciones-detencion-luisa-gonzalez-formulacion-cargos-presunto-lavado-activos-nota/",
-     "domain": "El Universo",
-     "seendate": "20261022T173007Z"
-    },
-    {
-     "title": "Deslizamiento de tierra en la vía Salinas-Lita moviliza maquinaria para habilitar el tránsito en Imbabura",
-     "url": "https://eluniverso.com/comunidad/ecuador/deslizamiento-de-tierra-en-la-via-salinas-lita-moviliza-maquinaria-para-habilitar-el-transito-en-imbabura-nota/",
-     "domain": "El Universo",
-     "seendate": "20261022T172051Z"
-    },
-    {
-     "title": "¿Cuál es la pena por lavado de activos, presunto delito por el que se investiga a Luisa González en el caso Laberinto?",
-     "url": "https://eluniverso.com/politica/seguridad/cual-es-la-pena-por-lavado-de-activos-presunto-delito-por-el-que-se-investiga-a-luisa-gonzalez-en-el-caso-laberinto-nota/",
-     "domain": "El Universo",
-     "seendate": "20261022T170000Z"
-    },
-    {
      "title": "¿Por qué fue detenida Luisa González? Fiscalía investiga un presunto lavado de activos en un entramado que involucraría a Aquiles Alvarez en la obtención de fondos de origen ilícito para su campaña presidencial de 2023",
      "url": "https://eluniverso.com/politica/expedientes/por-que-fue-detenida-luisa-gonzalez-fiscalia-sospecha-de-lavado-de-activos-en-un-entramado-que-involucraria-a-aquiles-alvarez-en-la-obtencion-de-fondos-de-origen-ilicito-para-su-campana-presidencial-de-2023-nota/",
      "domain": "El Universo",
@@ -2125,16 +2107,16 @@
   "PER": {
    "articles": [
     {
+     "title": "Lluvias en el norte del Perú EN VIVO: últimas noticias del estado de emergencia en Piura, Tumbes y Trujillo",
+     "url": "https://elcomercio.pe/peru/piura-y-el-norte-del-peru-bajo-lluvias-intensas-ultimas-noticias-alerta-por-el-nino-e-informe-del-coen-en-vivo-lbposting-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261023T050014Z"
+    },
+    {
      "title": "Gobierno evalúa aplicar la suspensión perfecta de labores ante los efectos de El Niño, ¿qué dice la CGTP al respecto?",
      "url": "https://elcomercio.pe/economia/peru/gobierno-evalua-aplicar-la-suspension-perfecta-de-labores-ante-los-efectos-de-el-nino-que-dice-la-cgtp-al-respecto-apuesplan-noticia/",
      "domain": "El Comercio",
      "seendate": "20261023T030513Z"
-    },
-    {
-     "title": "Lluvias en el norte del Perú EN VIVO: últimas noticias del estado de emergencia en Piura, Tumbes y Trujillo",
-     "url": "https://elcomercio.pe/peru/piura-y-el-norte-del-peru-bajo-lluvias-intensas-ultimas-noticias-alerta-por-el-nino-e-informe-del-coen-en-vivo-lbposting-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261023T025919Z"
     },
     {
      "title": "CGTP rechaza suspensión perfecta de labores ante posible impacto de El Niño y exige garantías laborales",
@@ -3029,12 +3011,6 @@
      "url": "https://www.lanacion.com.ar/politica/excarcelaron-a-otro-sindicalista-camionero-que-fue-acusado-junto-a-cabaleyro-por-los-bloqueos-a-una-nid22102026/",
      "domain": "La Nación",
      "seendate": "20261022T231906Z"
-    },
-    {
-     "title": "Un grupo de presos protagonizó un motín en la Alcaidía 1, tomó de rehén a un policía y se entregó cinco horas después",
-     "url": "https://www.lanacion.com.ar/seguridad/un-grupo-de-presos-protagonizaron-una-violenta-pelea-en-la-alcaldia-1-de-la-ciudad-nid22102026/",
-     "domain": "La Nación",
-     "seendate": "20261022T231434Z"
     }
    ]
   },
@@ -3415,12 +3391,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/22/sen-confirma-5000-familias-afectadas-y-advierte-que-la-crisis-se-extendera-hasta-marzo/",
      "domain": "ABC Color",
      "seendate": "20261022T231517Z"
-    },
-    {
-     "title": "Dan a conocer marco legal de cuestionado concurso interno del Poder Judicial de Alto Paraná",
-     "url": "https://www.abc.com.py/nacionales/2026/10/22/dan-a-conocer-marco-legal-de-cuestionado-concurso-interno-del-poder-judicial-de-alto-parana/",
-     "domain": "ABC Color",
-     "seendate": "20261022T225112Z"
     },
     {
      "title": "Desindexación del salario mínimo: sindicatos denuncian que el Gobierno cajoneó el proyecto",
