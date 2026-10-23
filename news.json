@@ -1,8 +1,20 @@
 {
- "updated": "2026-10-23T06:05:44+00:00",
+ "updated": "2026-10-23T07:22:22+00:00",
  "countries": {
   "ESP": {
    "articles": [
+    {
+     "title": "Última hora de la actualidad política, en directo | Feijóo intentará gobernar aunque no sea la lista más votada: “El objetivo es echar a Sánchez”",
+     "url": "https://elpais.com/espana/2026-10-23/ultima-hora-de-la-actualidad-politica-en-directo.html",
+     "domain": "El País",
+     "seendate": "20261023T071657Z"
+    },
+    {
+     "title": "Mazón se sienta en el banquillo, pero en una obra de teatro documental y satírica sobre la gestión de la dana",
+     "url": "https://elpais.com/espana/comunidad-valenciana/2026-10-23/mazon-se-sienta-en-el-banquillo-pero-en-una-obra-de-teatro-documental-y-satirica-sobre-la-gestion-de-la-dana.html",
+     "domain": "El País",
+     "seendate": "20261023T055757Z"
+    },
     {
      "title": "La acampada por la vivienda cumple tres semanas en plaza Catalunya, suma 360 tiendas y quiere crecer",
      "url": "https://elpais.com/espana/catalunya/2026-10-23/la-acampada-por-la-vivienda-cumple-tres-semanas-en-plaza-catalunya-suma-360-tiendas-y-quiere-crecer.html",
@@ -22,12 +34,6 @@
      "seendate": "20261023T033001Z"
     },
     {
-     "title": "El rufianismo existe",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-10-23/el-rufianismo-existe.html",
-     "domain": "El País",
-     "seendate": "20261023T033001Z"
-    },
-    {
      "title": "Los nostálgicos de Franco disparan los precios en la puja del pazo de Meirás",
      "url": "https://elpais.com/espana/galicia/2026-10-23/los-nostalgicos-de-franco-disparan-los-precios-en-la-puja-del-pazo-de-meiras.html",
      "domain": "El País",
@@ -40,20 +46,26 @@
      "seendate": "20261023T033001Z"
     },
     {
-     "title": "Los acampados de Sol se debaten entre resistir o levantar las tiendas para organizar la huelga general y buscan un “cierre memorable”",
-     "url": "https://elpais.com/espana/2026-10-23/los-acampados-de-sol-se-debaten-entre-resistir-o-levantar-las-tiendas-para-organizar-la-huelga-general-y-buscan-un-cierre-memorable.html",
-     "domain": "El País",
-     "seendate": "20261023T033001Z"
-    },
-    {
      "title": "Francesc Augé recibirá la eutanasia el 27 de noviembre, tras más de dos años varado en los juzgados",
      "url": "https://elpais.com/espana/catalunya/2026-10-23/francesc-auge-recibira-la-eutanasia-el-27-de-noviembre-tras-mas-de-dos-anos-varado-en-los-juzgados.html",
      "domain": "El País",
      "seendate": "20261023T033001Z"
     },
     {
+     "title": "Los acampados de Sol se debaten entre resistir o levantar las tiendas para organizar la huelga general y buscan un “cierre memorable”",
+     "url": "https://elpais.com/espana/2026-10-23/los-acampados-de-sol-se-debaten-entre-resistir-o-levantar-las-tiendas-para-organizar-la-huelga-general-y-buscan-un-cierre-memorable.html",
+     "domain": "El País",
+     "seendate": "20261023T033001Z"
+    },
+    {
      "title": "Los devotos de la gallina andaluza azul, la especie ganadera más amenazada, se confabulan para salvarla otra vez",
      "url": "https://elpais.com/espana/andalucia/2026-10-23/los-devotos-de-la-gallina-andaluza-azul-la-especie-ganadera-mas-amenazada-se-confabulan-para-salvarla-otra-vez.html",
+     "domain": "El País",
+     "seendate": "20261023T033001Z"
+    },
+    {
+     "title": "La justicia ve “muy intensos” el “sufrimiento, la zozobra y el temor” causados por Madrid a los vecinos sin casa por la línea 7B",
+     "url": "https://elpais.com/espana/madrid/2026-10-23/la-justicia-ve-muy-intensos-el-sufrimiento-la-zozobra-y-el-temor-causados-por-madrid-a-los-vecinos-sin-casa-por-la-linea-7b.html",
      "domain": "El País",
      "seendate": "20261023T033001Z"
     },
@@ -122,12 +134,6 @@
      "url": "https://elpais.com/espana/comunidad-valenciana/2026-10-22/desahuciado-de-madrugada-el-fisico-que-vivia-alquilado-en-burjassot-valencia-es-una-punetera-pesadilla.html",
      "domain": "El País",
      "seendate": "20261022T092338Z"
-    },
-    {
-     "title": "La oposición carga contra Ayuso por el abrazo a Milei y la presidenta defiende su gestión: “Argentina es el país que más crece”",
-     "url": "https://elpais.com/espana/madrid/2026-10-22/psoe-y-mas-madrid-esperan-a-ayuso-en-la-asamblea-con-todo-el-arsenal-tras-su-efusivo-abrazo-con-milei.html",
-     "domain": "El País",
-     "seendate": "20261022T075240Z"
     },
     {
      "title": "Muere un trabajador forestal por un ataque masivo de avispas velutinas en Ourense",
@@ -294,90 +300,6 @@
      "url": "https://www.eluniversal.com.mx/estados/detectan-260-mdp-sin-aclarar-en-cuentas-publicas-de-comondu-y-junta-estatal-de-caminos-en-bcs-diputados-advierten-irregularidades-pendientes/",
      "domain": "El Universal",
      "seendate": "20261022T232724Z"
-    },
-    {
-     "title": "Proveedores sancionados por Anticorrupción acumulan contratos por más de 500 mdp; dos ya habían sido inhabilitados",
-     "url": "https://www.eluniversal.com.mx/nacion/proveedores-sancionados-por-anticorrupcion-acumulan-contratos-por-mas-de-500-mdp-dos-ya-habian-sido-inhabilitados/",
-     "domain": "El Universal",
-     "seendate": "20261022T231350Z"
-    },
-    {
-     "title": "Iniciativa sobre Ley de Rentas Justas se encuentra en parlamento abierto en Congreso de CDMX; ciudadanía tiene derecho a proponer modificaciones",
-     "url": "https://www.eluniversal.com.mx/metropoli/iniciativa-sobre-ley-de-rentas-justas-se-encuentra-en-parlamento-abierto-en-congreso-de-cdmx-ciudadania-tiene-derecho-a-proponer-modificaciones/",
-     "domain": "El Universal",
-     "seendate": "20261022T225916Z"
-    },
-    {
-     "title": "Masas de aire polar asociadas a Frentes Fríos marcan inicio de la \"heladez\" en Yucatán; se esperan al menos 29 sistemas frontales",
-     "url": "https://www.eluniversal.com.mx/estados/masas-de-aire-polar-asociadas-a-frentes-frios-marcan-inicio-de-la-heladez-en-yucatan-se-esperan-al-menos-29-sistemas-frontales/",
-     "domain": "El Universal",
-     "seendate": "20261022T223652Z"
-    },
-    {
-     "title": "Propuestas del Plan de Ordenación carecen de estudios detallados y mecanismos claros: especialista; destaca propuesta de Zonas Especiales",
-     "url": "https://www.eluniversal.com.mx/metropoli/propuestas-del-plan-de-ordenacion-carecen-de-estudios-detallados-y-mecanismos-claros-lazo-elizondo-destaca-propuesta-de-zonas-especiales/",
-     "domain": "El Universal",
-     "seendate": "20261022T222929Z"
-    },
-    {
-     "title": "A casi 20 años, acusan que México sigue sin reparar daño a familia de Ernestina Ascencio; fallo internacional se dio en 2025",
-     "url": "https://www.eluniversal.com.mx/nacion/a-casi-20-anos-acusan-que-mexico-sigue-sin-reparar-dano-a-familia-de-ernestina-ascencio-fallo-internacional-se-dio-en-2025/",
-     "domain": "El Universal",
-     "seendate": "20261022T221848Z"
-    },
-    {
-     "title": "UAT mantiene finanzas sanas y solventa observaciones técnicas ante Auditoría Superior de la Federación y la ASE, asegura Rector",
-     "url": "https://www.eluniversal.com.mx/estados/uat-mantiene-finanzas-sanas-y-solventa-observaciones-tecnicas-ante-auditoria-superior-de-la-federacion-y-la-ase-asegura-rector/",
-     "domain": "El Universal",
-     "seendate": "20261022T221157Z"
-    },
-    {
-     "title": "Fiscalía de Tabasco investiga hallazgo de fosa clandestina en Huimanguillo; es el segundo caso en una semana",
-     "url": "https://www.eluniversal.com.mx/estados/fiscalia-de-tabasco-investiga-hallazgo-de-fosa-clandestina-en-huimanguillo-es-el-segundo-caso-en-una-semana/",
-     "domain": "El Universal",
-     "seendate": "20261022T215301Z"
-    },
-    {
-     "title": "Esteban Moctezuma presenta cartas credenciales ante la Comisión Europea; busca estrechar relación económica",
-     "url": "https://www.eluniversal.com.mx/nacion/esteban-moctezuma-presenta-cartas-credenciales-ante-la-comision-europea-busca-estrechar-relacion-economica/",
-     "domain": "El Universal",
-     "seendate": "20261022T215110Z"
-    },
-    {
-     "title": "\"No existe grupo delictivo en CDMX que pueda hacer frente a esta Policía\": Pablo Vázquez; destaca desarticulación de 47 células criminales",
-     "url": "https://www.eluniversal.com.mx/metropoli/no-existe-grupo-delictivo-en-cdmx-que-pueda-hacer-frente-a-esta-policia-pablo-vazquez-destaca-desarticulacion-de-47-celulas-delictivas/",
-     "domain": "El Universal",
-     "seendate": "20261022T214902Z"
-    },
-    {
-     "title": "Leticia Ramírez asegura que servidores de la Nación no intervendrán en elecciones; comparece en Diputados",
-     "url": "https://www.eluniversal.com.mx/nacion/leticia-ramirez-asegura-que-servidores-de-la-nacion-no-intervendran-en-elecciones-comparece-en-diputados/",
-     "domain": "El Universal",
-     "seendate": "20261022T214620Z"
-    },
-    {
-     "title": "Caso Hernán Bermúdez Requena: Fiscalía de Tabasco concluye investigación; lo acusa formalmente por desaparición forzada",
-     "url": "https://www.eluniversal.com.mx/estados/caso-hernan-bermudez-requena-fiscalia-de-tabasco-concluye-investigacion-lo-acusa-formalmente-por-desaparicion-forzada/",
-     "domain": "El Universal",
-     "seendate": "20261022T212953Z"
-    },
-    {
-     "title": "Dan 41 años de cárcel a 4 secuestradores; operaban banda en la CDMX",
-     "url": "https://www.eluniversal.com.mx/nacion/dan-41-anos-de-carcel-a-4-secuestradores-operaban-banda-en-la-cdmx/",
-     "domain": "El Universal",
-     "seendate": "20261022T212558Z"
-    },
-    {
-     "title": "Laura Patricia Jiménez Castillo es electa presidenta del TECDMX; es la primera mujer en presidir el organismo autónomo",
-     "url": "https://www.eluniversal.com.mx/metropoli/laura-patricia-jimenez-castillo-es-electa-presidenta-del-tecdmx-es-la-primera-mujer-en-presidir-el-organismo-autonomo/",
-     "domain": "El Universal",
-     "seendate": "20261022T212509Z"
-    },
-    {
-     "title": "Policías de Temixco, Morelos paran labores y exigen homologación salarial; denuncian falta de combustible y patrullas descompuestas",
-     "url": "https://www.eluniversal.com.mx/estados/policias-de-temixco-morelos-paran-labores-y-exigen-homologacion-salarial-denuncian-falta-de-combustible-y-patrullas-descompuestas/",
-     "domain": "El Universal",
-     "seendate": "20261022T180047Z"
     },
     {
      "title": "Atacan a balazos autobús con estudiantes en Escuinapa, Sinaloa; despliegan operativo para localizar a los responsables",
@@ -2101,10 +2023,10 @@
   "PER": {
    "articles": [
     {
-     "title": "Lluvias en el norte del Perú EN VIVO: últimas noticias del estado de emergencia en Piura, Tumbes y Trujillo",
+     "title": "Lluvias en el norte del Perú EN VIVO: noticias de precipitaciones en Piura, Tumbes y Trujillo",
      "url": "https://elcomercio.pe/peru/piura-y-el-norte-del-peru-bajo-lluvias-intensas-ultimas-noticias-alerta-por-el-nino-e-informe-del-coen-en-vivo-lbposting-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261023T054856Z"
+     "seendate": "20261023T060350Z"
     },
     {
      "title": "Gobierno evalúa aplicar la suspensión perfecta de labores ante los efectos de El Niño, ¿qué dice la CGTP al respecto?",
@@ -2845,6 +2767,30 @@
   "ARG": {
    "articles": [
     {
+     "title": "El gobierno de Trump blanqueó la “preocupación” de sus empresas por la ley Malvinas, postergada en el Congreso",
+     "url": "https://www.lanacion.com.ar/politica/el-gobierno-de-trump-blanqueo-la-preocupacion-de-sus-empresas-por-la-ley-malvinas-postergada-en-el-nid22102026/",
+     "domain": "La Nación",
+     "seendate": "20261023T065036Z"
+    },
+    {
+     "title": "Javier Milei y sus medidas, en vivo: el mandatario dijo que piensa un proyecto a “100 años” para la Argentina",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-mandatario-admitio-que-la-economia-no-evoluciona-como-nid23102026/",
+     "domain": "La Nación",
+     "seendate": "20261023T064838Z"
+    },
+    {
+     "title": "Murió a los 83 años José María García Arecha, exsenador nacional y dirigente radical",
+     "url": "https://www.lanacion.com.ar/politica/murio-a-los-83-anos-jose-maria-garcia-arecha-exsenador-nacional-y-dirigente-radical-nid23102026/",
+     "domain": "La Nación",
+     "seendate": "20261023T061157Z"
+    },
+    {
+     "title": "Gabriel Rolón advirtió sobre el riesgo de vivir esperando que algo cambie: “Puede dejarnos incapacitados”",
+     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-advirtio-sobre-el-riesgo-de-vivir-esperando-que-algo-cambie-puede-dejarnos-nid23102026/",
+     "domain": "La Nación",
+     "seendate": "20261023T060000Z"
+    },
+    {
      "title": "La reflexión de Pilar Sordo sobre las relaciones personales: “Nos cuesta decir lo que nos pasa”",
      "url": "https://www.lanacion.com.ar/sociedad/la-reflexion-de-pilar-sordo-sobre-las-relaciones-personales-nos-cuesta-decir-lo-que-nos-pasa-nid23102026/",
      "domain": "La Nación",
@@ -2947,14 +2893,14 @@
      "seendate": "20261023T003500Z"
     },
     {
-     "title": "Conrado Estol, neurólogo, sobre la importancia de mantener vínculos: “Es el mayor predictor de expectativa de vida y de felicidad”",
-     "url": "https://www.lanacion.com.ar/sociedad/conrado-estol-neurologo-sobre-la-importancia-de-mantener-vinculos-es-el-mayor-predictor-de-nid22102026/",
+     "title": "Daniel López Rosetti, sobre la gestión de las emociones: “La vida es la administración de nuestro futuro, de lo que tenemos por delante”",
+     "url": "https://www.lanacion.com.ar/sociedad/daniel-lopez-rosetti-sobre-la-gestion-de-las-emociones-la-vida-es-la-administracion-de-nuestro-nid22102026/",
      "domain": "La Nación",
      "seendate": "20261023T000000Z"
     },
     {
-     "title": "Daniel López Rosetti, sobre la gestión de las emociones: “La vida es la administración de nuestro futuro, de lo que tenemos por delante”",
-     "url": "https://www.lanacion.com.ar/sociedad/daniel-lopez-rosetti-sobre-la-gestion-de-las-emociones-la-vida-es-la-administracion-de-nuestro-nid22102026/",
+     "title": "Conrado Estol, neurólogo, sobre la importancia de mantener vínculos: “Es el mayor predictor de expectativa de vida y de felicidad”",
+     "url": "https://www.lanacion.com.ar/sociedad/conrado-estol-neurologo-sobre-la-importancia-de-mantener-vinculos-es-el-mayor-predictor-de-nid22102026/",
      "domain": "La Nación",
      "seendate": "20261023T000000Z"
     },
@@ -2993,18 +2939,6 @@
      "url": "https://www.lanacion.com.ar/economia/campo/una-violenta-caida-de-mucho-granizo-mato-a-decenas-de-animales-y-dejo-graves-danos-nid22102026/",
      "domain": "La Nación",
      "seendate": "20261022T233341Z"
-    },
-    {
-     "title": "Alerta amarilla en el AMBA: hasta qué hora llueve hoy, jueves 22 de octubre, según el SMN",
-     "url": "https://www.lanacion.com.ar/sociedad/alerta-amarilla-en-el-amba-hasta-que-hora-llueve-hoy-jueves-22-de-octubre-segun-el-smn-nid22102026/",
-     "domain": "La Nación",
-     "seendate": "20261022T232420Z"
-    },
-    {
-     "title": "El otro “riesgo país”",
-     "url": "https://www.lanacion.com.ar/economia/el-otro-riesgo-pais-nid22102026/",
-     "domain": "La Nación",
-     "seendate": "20261022T232103Z"
     }
    ]
   },
@@ -3373,24 +3307,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/22/imputan-a-eddie-jara-extitular-de-petropar-por-enriquecimiento-ilicito/",
      "domain": "ABC Color",
      "seendate": "20261023T002704Z"
-    },
-    {
-     "title": "Alerta meteorológica, EN VIVO: advierten sobre lluvias y tormentas eléctricas para todo el país",
-     "url": "https://www.abc.com.py/nacionales/2026/10/22/alerta-meteorologica-en-vivo-advierten-sobre-lluvias-y-tormentas-electricas-para-todo-el-pais/",
-     "domain": "ABC Color",
-     "seendate": "20261022T232758Z"
-    },
-    {
-     "title": "SEN confirma 5.000 familias afectadas y advierte que la crisis se extenderá hasta marzo",
-     "url": "https://www.abc.com.py/nacionales/2026/10/22/sen-confirma-5000-familias-afectadas-y-advierte-que-la-crisis-se-extendera-hasta-marzo/",
-     "domain": "ABC Color",
-     "seendate": "20261022T231517Z"
-    },
-    {
-     "title": "Desindexación del salario mínimo: sindicatos denuncian que el Gobierno cajoneó el proyecto",
-     "url": "https://www.abc.com.py/nacionales/2026/10/22/desindexacion-del-salario-minimo-sindicatos-denuncian-que-el-gobierno-cajoneo-el-proyecto/",
-     "domain": "ABC Color",
-     "seendate": "20261022T201200Z"
     }
    ]
   },
@@ -3400,22 +3316,160 @@
   "BRA": {
    "articles": [
     {
-     "title": "TSE presenteia estudante de MG com broche da urna após carta",
-     "url": "https://www.otempo.com.br/eleicoes/2026/2026/10/22/estudante-escreve-carta-pede-broche-de-urna-eletronica-e-e-presentado-pelo-tse",
-     "domain": "otempo.com.br",
-     "seendate": "20261023T011500Z"
+     "title": "Mexilhão-dourado: molusco invasor avança pela Amazônia mais rápido do que previam estudos e gera prejuízos ao setor elétrico; entenda",
+     "url": "https://oglobo.globo.com/brasil/epoca/noticia/2026/10/23/mexilhao-dourado-molusco-invasor-avanca-pela-amazonia-mais-rapido-do-que-previam-estudos-e-gera-prejuizos-ao-setor-eletrico-entenda.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261023T070000Z"
     },
     {
-     "title": "TSE vai presentear estudante que pediu broche utilizado por Kassio Nunes",
-     "url": "https://www.correiobraziliense.com.br/brasil/2026/10/7524629-tse-vai-presentear-estudante-que-pediu-broche-utilizado-por-kassio-nunes.html",
-     "domain": "correiobraziliense.com.br",
-     "seendate": "20261021T023000Z"
+     "title": "Ainda indeciso entre Flávio e Lula? Faça o teste do GLOBO e descubra qual candidato pensa mais parecido com você",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/23/ainda-indeciso-entre-flavio-e-lula-faca-o-teste-do-globo-e-descubra-qual-candidato-pensa-mais-parecido-com-voce.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261023T063001Z"
     },
     {
-     "title": "O Brasil é nosso ? | Papo das 9 # 966",
-     "url": "https://mundosustentavel.com.br/papo-das-9-966-o-brasil-e-nosso-2/",
-     "domain": "mundosustentavel.com.br",
-     "seendate": "20261017T043000Z"
+     "title": "Menos provocações, mais propostas? Flávio e Lula se preparam para não repetir, na TV Globo, os erros do primeiro debate",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/23/menos-provocacoes-mais-propostas-flavio-e-lula-se-preparam-para-nao-repetir-na-tv-globo-os-erros-do-primeiro-debate.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261023T063001Z"
+    },
+    {
+     "title": "Redação do Enem: faça seu texto sobre celulares na escola e corrija na hora com ferramenta do GLOBO",
+     "url": "https://oglobo.globo.com/brasil/educacao/noticia/2026/10/23/redacao-do-enem-faca-seu-texto-sobre-celulares-na-escola-e-corrija-na-hora-com-ferramenta-do-globo.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261023T063001Z"
+    },
+    {
+     "title": "Empate no 2º turno daria vitória a Lula ou a Flávio? Veja o que diz a lei",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/23/empate-no-2o-turno-daria-vitoria-a-lula-ou-a-flavio-veja-o-que-diz-a-lei.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261023T063001Z"
+    },
+    {
+     "title": "Entrevista: 'O ideal é não mudar as regras às vésperas da eleição, mas pode ser necessário', diz Nunes Marques",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/23/entrevista-o-ideal-e-nao-mudar-as-regras-as-vesperas-da-eleicao-mas-pode-ser-necessario-diz-nunes-marques.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261023T063000Z"
+    },
+    {
+     "title": "Aliados de Flávio querem votar ‘CNH das armas’ no início de eventual governo e já pressionam por decretos na área",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/23/aliados-de-flavio-querem-votar-cnh-das-armas-no-inicio-de-eventual-governo-e-ja-pressionam-por-decretos-na-area.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261023T063000Z"
+    },
+    {
+     "title": "‘Há um setor que demanda mudança e vota contra o sistema, mas a lua de mel tem sido curta’, afirma ex-estrategista de Boric",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/23/ha-um-setor-que-demanda-mudanca-e-vota-contra-o-sistema-mas-a-lua-de-mel-tem-sido-curta-afirma-ex-estrategista-de-boric.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261023T063000Z"
+    },
+    {
+     "title": "'Cidades-pêndulo': com 9,2 milhões de eleitores, 495 municípios que trocaram de lado são decisivos para Flávio e Lula",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/23/cidades-pendulo-com-92-milhoes-de-eleitores-495-municipios-que-trocaram-de-lado-sao-decisivos-para-flavio-e-lula.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261023T063000Z"
+    },
+    {
+     "title": "‘Há um esforço para me tirar do processo do Master’, diz Kassio Nunes Marques",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/23/ha-um-esforco-para-me-tirar-do-processo-do-master-diz-kassio-nunes-marques.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261023T063000Z"
+    },
+    {
+     "title": "'Na cabeça dos candidatos': Flávio tem o pai e Lula entre as palavras que mais usou no ano; petista foca no apelo social",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/especial/na-cabeca-dos-candidatos-flavio-tem-o-pai-e-lula-entre-as-palavras-que-mais-usou-no-ano-petista-foca-no-apelo-social.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261023T063000Z"
+    },
+    {
+     "title": "Obra da Prefeitura de São Paulo revela artefatos arqueológicos em área de antigo cemitério na Liberdade",
+     "url": "https://oglobo.globo.com/brasil/sao-paulo/noticia/2026/10/23/obra-da-prefeitura-de-sao-paulo-revela-artefatos-arqueologicos-em-area-de-antigo-cemiterio-na-liberdade.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261023T063000Z"
+    },
+    {
+     "title": "'Pergunta da semana': Seja Lula ou Flávio, como o candidato derrotado no domingo vai lidar com o resultado das urnas?",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/23/pergunta-da-semana-seja-lula-ou-flavio-como-o-candidato-derrotado-no-domingo-vai-lidar-com-o-resultado-das-urnas.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261023T063000Z"
+    },
+    {
+     "title": "Sem algoritmo, com 'tia-avó': como o status do WhatsApp virou ferramenta para virar voto na reta final da eleição",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/23/sem-algoritmo-com-tia-avo-como-o-status-do-whatsapp-virou-ferramenta-para-virar-voto-na-reta-final-da-eleicao.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261023T063000Z"
+    },
+    {
+     "title": "Controvérsias na atuação parlamentar e como advogado abrem flancos de ataques a Flávio Bolsonaro",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/23/controversias-na-atuacao-parlamentar-e-como-advogado-abrem-flancos-de-ataques-a-flavio-bolsonaro.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261023T063000Z"
+    },
+    {
+     "title": "Dois ambientes: Lula mira metas climáticas e desmatamento zero, enquanto Flávio propõe incentivos e flexibilização",
+     "url": "https://oglobo.globo.com/brasil/meio-ambiente/noticia/2026/10/23/dois-ambientes-lula-mira-metas-climaticas-e-desmatamento-zero-enquanto-flavio-propoe-incentivos-e-flexibilizacao.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261023T063000Z"
+    },
+    {
+     "title": "'Contagem regressiva': acompanhe a live de Vera Magalhães com os colunistas Bela Megale e Fabio Graner",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/23/contagem-regressiva-acompanhe-a-live-de-vera-magalhaes-com-os-colunistas-bela-megale-e-fabio-graner.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261023T063000Z"
+    },
+    {
+     "title": "Marcação de munição, que bolsonaristas propõem extinguir, foi crucial para elucidar ao menos 83 mortes e condenar 22 PMs",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/23/marcacao-de-municao-que-bolsonaristas-propoem-extinguir-foi-crucial-para-elucidar-ao-menos-83-mortes-e-condenar-22-pms.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261023T063000Z"
+    },
+    {
+     "title": "TSE reúne representantes de redes sociais após Nunes Marques ordenar pente-fino em canal de apoio a Lula",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/23/tse-reune-representantes-de-redes-sociais-apos-nunes-marques-ordenar-pente-fino-em-canal-de-apoio-a-lula.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261023T030000Z"
+    },
+    {
+     "title": "'Caso walkie-talkie': mãe suspeita que homem ouviu conversas em casa antes de ameaçar filha",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/23/caso-walkie-talkie-mae-suspeita-que-homem-ouviu-conversas-em-casa-antes-de-ameacar-filha.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261023T030000Z"
+    },
+    {
+     "title": "Lula e Flávio encerram campanha com agendas em São Paulo, Minas e Rio, que concentram 40% do eleitorado",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/23/lula-e-flavio-encerram-campanha-com-agendas-em-sao-paulo-minas-e-rio-que-concentram-40percent-do-eleitorado.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261023T030000Z"
+    },
+    {
+     "title": "Após pedido de Lula, PF começa a investigar disputa entre Richarlison e amigo de Flávio Bolsonaro",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/23/apos-pedido-de-lula-pf-comeca-a-investigar-disputa-entre-richarlison-e-amigo-de-flavio-bolsonaro.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261023T030000Z"
+    },
+    {
+     "title": "Meta terá que detalhar atuação do 'Exército do Lula' após Nunes Marques cobrar explicações",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/23/meta-tera-que-detalhar-atuacao-do-exercito-do-lula-apos-nunes-marques-cobrar-explicacoes.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261023T030000Z"
+    },
+    {
+     "title": "Datafolha: veja como os colunistas do GLOBO analisaram os números de Flávio Bolsonaro e Lula na nova pesquisa",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/ao-vivo/datafolha-colunistas-do-globo-analisam-os-numeros-de-flavio-bolsonaro-e-lula-na-nova-pesquisa.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261023T014611Z"
+    },
+    {
+     "title": "Carta 'ao povo de Deus' assinada por 35 bispos prega voto por 'valores humanitários' e diz que Flávio ameaça democracia",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/22/carta-ao-povo-de-deus-assinada-por-35-bispos-diz-que-flavio-ameaca-democracia-e-prega-voto-por-valores-humanitarios.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261023T003810Z"
+    },
+    {
+     "title": "Lula defende 'novo jeito de governar' diante da forte mobilização de apoiadores e Congresso desfavorável",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/22/lula-defende-novo-jeito-de-governar-diante-da-forte-mobilizacao-de-apoiadores-e-congresso-desfavoravel.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261023T001021Z"
     }
    ]
   }
