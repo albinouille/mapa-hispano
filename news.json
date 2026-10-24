@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T08:04:09+00:00",
+ "updated": "2026-10-24T08:35:34+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -128,6 +128,12 @@
   "MEX": {
    "articles": [
     {
+     "title": "Siguen ambulantes, pese a reordenamiento",
+     "url": "https://www.eluniversal.com.mx/metropoli/siguen-ambulantes-pese-a-reordenamiento/",
+     "domain": "El Universal",
+     "seendate": "20261024T081927Z"
+    },
+    {
      "title": "Exjefa de USAID rechaza acusaciones de injerencia en México; respalda a Sheinbaum ante Trump",
      "url": "https://www.eluniversal.com.mx/nacion/exjefa-de-usaid-rechaza-acusaciones-de-injerencia-en-mexico-respalda-a-sheinbaum-ante-trump/",
      "domain": "El Universal",
@@ -228,12 +234,6 @@
      "url": "https://www.eluniversal.com.mx/metropoli/culmina-tercera-etapa-de-recuperacion-en-fosa-comun-del-panteon-de-dolores-rescatan-restos-de-24-individuos/",
      "domain": "El Universal",
      "seendate": "20261024T003246Z"
-    },
-    {
-     "title": "Fuerte oleaje en playas de Mazatlán forma socavón en monumento; ayuntamiento realiza reparaciones",
-     "url": "https://www.eluniversal.com.mx/estados/fuerte-oleaje-en-playas-de-mazatlan-forma-socavon-en-monumento-ayuntamiento-realiza-reparaciones/",
-     "domain": "El Universal",
-     "seendate": "20261024T000437Z"
     },
     {
      "title": "Balacera en Iztapalapa deja dos muertos y un joven herido; tras persecusión, policías detienen a 2 sujetos en Iztacalco",
@@ -3416,18 +3416,6 @@
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/23/na-globo-lula-e-flavio-bolsonaro-fazem-debate-final-a-dois-dias-da-eleicao.ghtml",
      "domain": "O Globo",
      "seendate": "20261024T003446Z"
-    },
-    {
-     "title": "Lula usa último programa para atacar Flávio, e rival aposta em sertanejos e oração",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/23/lula-usa-ultimo-programa-para-atacar-flavio-e-rival-aposta-em-sertanejos-e-oracao.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261023T234545Z"
-    },
-    {
-     "title": "Alckmin faz agenda ao lado de Paes no Rio, e defende reta final sem 'interferência' do TSE nos canais de WhatsApp",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/23/alckmin-faz-agenda-ao-lado-de-paes-no-rio-e-defende-reta-final-sem-interferencia-do-tse-nos-canais-de-whatsapp.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261023T234325Z"
     }
    ]
   }
