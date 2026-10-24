@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T15:02:13+00:00",
+ "updated": "2026-10-24T15:31:03+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -222,18 +222,6 @@
      "url": "https://www.eluniversal.com.mx/nacion/hijo-de-guadalupe-taddei-es-captado-en-paris-con-contratista-del-inem-revela-latinus-empresario-ha-recibido-245-mdp-en-contratos/",
      "domain": "El Universal",
      "seendate": "20261024T044835Z"
-    },
-    {
-     "title": "Fuertes lluvias y granizada deja severas inundaciones en Ciudad Juárez; hospital del IMSS reporta anegaciones de hasta un metro de altura",
-     "url": "https://www.eluniversal.com.mx/estados/fuertes-lluvias-y-granizada-deja-severas-inundaciones-en-ciudad-juarez-hospital-del-imss-reporta-anegaciones-de-hasta-un-metro-de-altura/",
-     "domain": "El Universal",
-     "seendate": "20261024T035228Z"
-    },
-    {
-     "title": "Ante acusación de Maru Campos, gobernadores de Morena cierran filas con Ariadna Montiel; \"debe presentar pruebas\"",
-     "url": "https://www.eluniversal.com.mx/nacion/ante-acusacion-de-maru-campos-gobernadores-de-morena-cierran-filas-con-ariadna-montiel-debe-presentar-pruebas/",
-     "domain": "El Universal",
-     "seendate": "20261023T211939Z"
     }
    ]
   },
@@ -1078,6 +1066,12 @@
   "CRI": {
    "articles": [
     {
+     "title": "Encuentro en Curridabat reunirá a personas que afrontan el duelo por muerte por suicidio: conozca los detalles",
+     "url": "https://www.nacion.com/el-pais/encuentro-en-curridabat-reunira-a-personas-que/VYPLTCYWR5HD7K2TZHEJ3ZC4OY/story/",
+     "domain": "La Nación",
+     "seendate": "20261024T145606Z"
+    },
+    {
      "title": "IMAS realizará pago de subsidios de octubre: consulte las fechas y cómo verificar su giro",
      "url": "https://www.nacion.com/el-pais/imas-realizara-pago-de-subsidios-de-octubre/NXDQKLXVEZCHHJMSZ3SJ6NDCEU/story/",
      "domain": "La Nación",
@@ -1368,23 +1362,11 @@
      "url": "https://www.prensa.com/sociedad/terremoto-en-azuero-la-emergencia-que-enfrentan-las-personas-con-discapacidad/",
      "domain": "La Prensa",
      "seendate": "20261022T050400Z"
-    },
-    {
-     "title": "Devoción al Cristo Negro de Portobelo",
-     "url": "https://www.prensa.com/sociedad/devocion-al-cristo-negro-de-portobelo/",
-     "domain": "La Prensa",
-     "seendate": "20261022T012643Z"
     }
    ]
   },
   "CUB": {
    "articles": [
-    {
-     "title": "Los apagones y las averías afectan el servicio de agua a más de 2,7 millones de cubanos",
-     "url": "https://www.14ymedio.com/cuba/apagones-averias-afectan-servicio-agua_1_1132353.html",
-     "domain": "14ymedio",
-     "seendate": "20261024T131512Z"
-    },
     {
      "title": "Rubio pide a los cubanos que colaboren con la CIA; el régimen invita al Papa en respuesta a las presiones de EE UU",
      "url": "https://www.14ymedio.com/cuba/rubio-pide-colaboracion-discreta-cia_1_1132351.html",
@@ -1791,6 +1773,12 @@
   "ECU": {
    "articles": [
     {
+     "title": "Ministro de Salud visitó hospital de Ambato tras allanamientos en operación ‘Código Blanco’ e instó a denunciar más casos de corrupción",
+     "url": "https://eluniverso.com/politica/ejecutivo/ministro-de-salud-visito-hospital-de-ambato-tras-allanamientos-en-operacion-codigo-blanco-e-insto-a-denunciar-mas-casos-de-corrupcion-nota/",
+     "domain": "El Universo",
+     "seendate": "20261024T150326Z"
+    },
+    {
      "title": "Quinto Puente: avanzan los trabajos en Guayaquil con cinco frentes activos",
      "url": "https://eluniverso.com/politica/ejecutivo/quinto-puente-avanzan-los-trabajos-en-guayaquil-con-cinco-frentes-activos-nota/",
      "domain": "El Universo",
@@ -1885,33 +1873,111 @@
   "PER": {
    "articles": [
     {
+     "title": "Último temblor hoy, 24 de octubre: IGP reporta sismos en Perú, lugar y magnitud",
+     "url": "https://elcomercio.pe/peru/ultimo-temblor-hoy-via-igp-reporte-el-epicentro-magnitud-y-mas-del-sismo-tdpe-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261024T151549Z"
+    },
+    {
+     "title": "Lluvias en Perú EN VIVO hoy: Senamhi advierte precipitaciones extremas por El Niño extraordinario",
+     "url": "https://elcomercio.pe/peru/lluvias-en-peru-en-vivo-ultimas-noticias-de-las-precipitaciones-en-piura-tumbes-y-trujillo-estado-de-emergencia-en-el-norte-senamhi-indeci-lloviznas-fenomeno-el-nino-lbposting-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261024T151358Z"
+    },
+    {
+     "title": "Elmer Cuba, ministro de Economía: “Mientras estemos en el ministerio no plantearemos cambiar ninguna tasa de impuestos, IGV o impuesto a la renta”",
+     "url": "https://elcomercio.pe/economia/peru/elmer-cuba-ministro-de-economia-mientras-estemos-en-el-ministerio-no-plantearemos-cambiar-ninguna-tasa-de-impuestos-igv-o-impuesto-a-la-renta-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261024T150500Z"
+    },
+    {
      "title": "“No siempre estamos dispuestos a entender la discapacidad”: Rony López Mija, de corresponsal en El Comercio a trabajar con las marcas más top del rubro gastronómico",
      "url": "https://elcomercio.pe/peru/rony-lopez-mija-de-corresponsal-en-el-comercio-a-trabajar-con-las-marcas-mas-top-del-rubro-gastronomico-no-siempre-estamos-dispuestos-a-entender-la-discapacidad-noticia/",
      "domain": "El Comercio",
      "seendate": "20261024T145623Z"
     },
     {
-     "title": "Lluvias en Perú EN VIVO hoy: Senamhi advierte precipitaciones extremas por El Niño extraordinario",
-     "url": "https://elcomercio.pe/peru/lluvias-en-peru-en-vivo-ultimas-noticias-de-las-precipitaciones-en-piura-tumbes-y-trujillo-estado-de-emergencia-en-el-norte-senamhi-indeci-lloviznas-fenomeno-el-nino-lbposting-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261024T145430Z"
-    },
-    {
      "title": "El Niño: Capeco plantea acelerar la reconstrucción de viviendas ante brechas en prevención",
      "url": "https://elcomercio.pe/economia/peru/el-nino-capeco-plantea-acelerar-la-reconstruccion-de-viviendas-ante-brechas-en-prevencion-fen-fenomeno-de-el-nino-noticia/",
      "domain": "El Comercio",
      "seendate": "20261024T133947Z"
-    },
-    {
-     "title": "Elmer Cuba, ministro de Economía: “Mientras estemos en el ministerio no plantearemos cambiar ninguna tasa de impuestos, IGV o impuesto a la renta”",
-     "url": "https://elcomercio.pe/economia/peru/elmer-cuba-ministro-de-economia-mientras-estemos-en-el-ministerio-no-plantearemos-cambiar-ninguna-tasa-de-impuestos-igv-o-impuesto-a-la-renta-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261024T123205Z"
     }
    ]
   },
   "BOL": {
    "articles": [
+    {
+     "title": "Gobierno afectó Bs 77 millones al contrabando desde noviembre de 2025",
+     "url": "https://eju.tv/2026/10/gobierno-afecto-bs-77-millones-al-contrabando-desde-noviembre-de-2025/",
+     "domain": "eju.tv",
+     "seendate": "20261024T141500Z"
+    },
+    {
+     "title": "« Es una medida acertada »: Presidenta del TDJ cruceño respalda el apoyo de la DEA",
+     "url": "https://eju.tv/2026/10/es-una-medida-acertada-presidenta-del-tdj-cruceno-respalda-el-apoyo-de-la-dea/",
+     "domain": "eju.tv",
+     "seendate": "20261024T141500Z"
+    },
+    {
+     "title": "Señalamientos de Estados Unidos enlodan el trabajo del Legislativo",
+     "url": "https://eju.tv/2026/10/senalamientos-de-estados-unidos-enlodan-el-trabajo-del-legislativo/",
+     "domain": "eju.tv",
+     "seendate": "20261024T141500Z"
+    },
+    {
+     "title": "Actuales leyes laborales frenan contratación de trabajadores",
+     "url": "https://eju.tv/2026/10/actuales-leyes-laborales-frenan-contratacion-de-trabajadores/",
+     "domain": "eju.tv",
+     "seendate": "20261024T141500Z"
+    },
+    {
+     "title": "Uno de cada cuatro hogares vive inseguridad alimentaria moderada o grave",
+     "url": "https://eju.tv/2026/10/uno-de-cada-cuatro-hogares-vive-inseguridad-alimentaria-moderada-o-grave/",
+     "domain": "eju.tv",
+     "seendate": "20261024T141500Z"
+    },
+    {
+     "title": "Cae sujeto con más de media tonelada de marihuana en Puerto Quijarro",
+     "url": "https://eju.tv/2026/10/cae-sujeto-con-mas-de-media-tonelada-de-marihuana-en-puerto-quijarro/",
+     "domain": "eju.tv",
+     "seendate": "20261024T141500Z"
+    },
+    {
+     "title": "Al menos ocho exfiscales figuran en listas de vetados por EEUU ; cuatro están tras las rejas",
+     "url": "https://eju.tv/2026/10/al-menos-ocho-exfiscales-figuran-en-listas-de-vetados-por-eeuu-cuatro-estan-tras-las-rejas/",
+     "domain": "eju.tv",
+     "seendate": "20261024T141500Z"
+    },
+    {
+     "title": "Por qué ser madre no debería costarle a una mujer su futuro profesional",
+     "url": "https://eldeber.com.bo/opinion/ser-madre-no-deberia-costarle-mujer-futuro-profesional_1792803555",
+     "domain": "eldeber.com.bo",
+     "seendate": "20261024T123000Z"
+    },
+    {
+     "title": "Exportar agua a Chile : ¿ el Silala embotellado ? No sería la primera vez",
+     "url": "https://eldeber.com.bo/opinion/exportar-agua-chile-silala-embotellado-no-seria-primera-vez_1792803308",
+     "domain": "eldeber.com.bo",
+     "seendate": "20261024T123000Z"
+    },
+    {
+     "title": "Cara a cara",
+     "url": "https://eldeber.com.bo/opinion/cara-cara_1792790842",
+     "domain": "eldeber.com.bo",
+     "seendate": "20261024T123000Z"
+    },
+    {
+     "title": "Del lamento al sinceramiento boliviano : Entendiendo la economía saqra",
+     "url": "https://eldeber.com.bo/opinion/lamento-sinceramiento-boliviano-entendiendo-economia-saqra_1792803101",
+     "domain": "eldeber.com.bo",
+     "seendate": "20261024T123000Z"
+    },
+    {
+     "title": "Narcotráfico : ¡ Paz debe investigar , no encubrir !",
+     "url": "https://eldeber.com.bo/opinion/narcotrafico-paz-debe-investigar-no-encubrir_1792802745",
+     "domain": "eldeber.com.bo",
+     "seendate": "20261024T123000Z"
+    },
     {
      "title": "Cerca de un millón de estudiantes ya recibieron el Bono Juancito pin",
      "url": "http://radiofides.com/economia/cerca-de-un-millon-de-estudiantes-ya-recibieron-el-bono-juancito-pinto",
@@ -2181,54 +2247,6 @@
      "url": "https://www.eldia.com.bo/2026-10-22/pais/caso-hotel-las-americas-tsj-devuelve-a-la-fiscalia-la-proposicion-acusatoria-contra-evo-y-alvaro.html",
      "domain": "eldia.com.bo",
      "seendate": "20261022T220000Z"
-    },
-    {
-     "title": "Diputado López reacciona ante la restricción de su visa en los Estados Unidos",
-     "url": "https://eldeber.com.bo/pais/diputado-lopez-reacciona-restriccion-visa-estados-unidos_1792697087",
-     "domain": "eldeber.com.bo",
-     "seendate": "20261022T220000Z"
-    },
-    {
-     "title": "La Embajada de EEUU en Bolivia se pronuncia sobre las restricción de visados a otros 40 ciudadanos",
-     "url": "https://eldeber.com.bo/pais/embajada-eeuu-bolivia-pronuncia-restriccion-visados-otros-40-ciudadanos_1792696453",
-     "domain": "eldeber.com.bo",
-     "seendate": "20261022T220000Z"
-    },
-    {
-     "title": "Destituyen a dos fiscales mencionados en la lista de EEUU y les abren una investigación",
-     "url": "https://eldeber.com.bo/santa-cruz/destituyen-dos-fiscales-mencionados-lista-eeuu-les-abren-investigacion_1792704121",
-     "domain": "eldeber.com.bo",
-     "seendate": "20261022T220000Z"
-    },
-    {
-     "title": "Cinco camiones con cigarrillos de contrabando caen en Tarija : comisan más de 95 toneladas",
-     "url": "https://eldeber.com.bo/pais/cinco-camiones-cigarrillos-contrabando-caen-tarija-comisan-95-toneladas_1792694422",
-     "domain": "eldeber.com.bo",
-     "seendate": "20261022T220000Z"
-    },
-    {
-     "title": "Cocaleros piden sancionar con cárcel la producción ilegal de hoja de coca",
-     "url": "https://eldeber.com.bo/pais/cocaleros-piden-sancionar-carcel-produccion-ilegal-hoja-coca_1792700225",
-     "domain": "eldeber.com.bo",
-     "seendate": "20261022T220000Z"
-    },
-    {
-     "title": "VIAGGIO presenta soluciones integrales para el productor en Agro Vidas 2026",
-     "url": "https://eldeber.com.bo/te-puede-interesar/viaggio-presenta-soluciones-integrales-productor-agro-vidas-2026_1792176494",
-     "domain": "eldeber.com.bo",
-     "seendate": "20261022T220000Z"
-    },
-    {
-     "title": "Gaceta Oficial digitaliza normas desde 1960 y ya suma más de 35 . 000 …",
-     "url": "https://fmbolivia.com.bo/nacional/gaceta-oficial-digitaliza-normas-desde-1960-y-ya-suma-mas-de-35-000-documentos-legales-21477",
-     "domain": "fmbolivia.com.bo",
-     "seendate": "20261022T213000Z"
-    },
-    {
-     "title": "Coimas : Detectan que un ex Aduana habría recibido medio millón en pagos de a mil por dejar pasar contrabando",
-     "url": "https://www.erbol.com.bo/seguridad/coimas-detectan-que-un-ex-aduana-habr%C3%ADa-recibido-medio-mill%C3%B3n-en-pagos-de-mil-por-dejar",
-     "domain": "erbol.com.bo",
-     "seendate": "20261022T213000Z"
     }
    ]
   },
@@ -2599,6 +2617,18 @@
   "ARG": {
    "articles": [
     {
+     "title": "La primera formación está lista en China: estos son los nuevos coches para las líneas A y C de subte",
+     "url": "https://www.lanacion.com.ar/sociedad/la-primera-formacion-esta-lista-en-china-estos-son-los-nuevos-coches-para-las-lineas-a-y-c-de-subte-nid24102026/",
+     "domain": "La Nación",
+     "seendate": "20261024T151245Z"
+    },
+    {
+     "title": "La relación comercial: qué impacto en la Argentina puede dejar la elección en Brasil",
+     "url": "https://www.lanacion.com.ar/economia/la-relacion-comercial-que-impacto-en-la-argentina-puede-dejar-la-eleccion-en-brasil-nid24102026/",
+     "domain": "La Nación",
+     "seendate": "20261024T150303Z"
+    },
+    {
      "title": "El comunicado del colegio en que estudian las alumnas denunciadas por bullying en Catamarca",
      "url": "https://www.lanacion.com.ar/sociedad/el-comunicado-del-colegio-en-que-estudian-las-alumnas-denunciadas-por-bullying-en-catamarca-nid24102026/",
      "domain": "La Nación",
@@ -2711,12 +2741,6 @@
      "url": "https://www.lanacion.com.ar/politica/el-gobierno-le-contesto-al-fiscal-del-caso-libra-que-no-tenia-registro-del-presunto-acuerdo-nid20032026/",
      "domain": "La Nación",
      "seendate": "20261024T063930Z"
-    },
-    {
-     "title": "Los psicólogos coinciden: la incomodidad es la única invitación al cambio de prioridades",
-     "url": "https://www.lanacion.com.ar/sociedad/los-psicologos-coinciden-la-incomodidad-es-la-unica-invitacion-al-cambio-de-prioridades-nid24102026/",
-     "domain": "La Nación",
-     "seendate": "20261024T060000Z"
     }
    ]
   },
@@ -3109,12 +3133,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/24/juez-favorece-con-prision-domiciliaria-a-narco-condenado-a-16-anos-de-carcel/",
      "domain": "ABC Color",
      "seendate": "20261024T120000Z"
-    },
-    {
-     "title": "Video: denuncian acoso y ataques de alumnos del CNC",
-     "url": "https://www.abc.com.py/nacionales/2026/10/23/video-denuncian-acoso-y-ataques-de-alumnos-del-cnc/",
-     "domain": "ABC Color",
-     "seendate": "20261023T233726Z"
     }
    ]
   },
@@ -3123,6 +3141,12 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "Quem foi melhor no debate da Globo: Lula ou Flávio Bolsonaro? Colunistas do GLOBO dão notas para cada candidato",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/quem-foi-melhor-no-debate-da-globo-lula-ou-flavio-bolsonaro-colunistas-do-globo-dao-notas-para-cada-candidato.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T150659Z"
+    },
     {
      "title": "Justiça proíbe Prefeitura de SP de pressionar servidores a participar de atos eleitorais após denúncias contra Nunes",
      "url": "https://oglobo.globo.com/brasil/sao-paulo/noticia/2026/10/24/justica-proibe-prefeitura-de-sp-de-pressionar-servidores-a-participar-de-atos-eleitorais-apos-denuncias-contra-nunes.ghtml",
@@ -3172,7 +3196,7 @@
      "seendate": "20261024T125354Z"
     },
     {
-     "title": "Lula reúne apoiadores em caminhada na orla de Copacabana na véspera do segundo turno",
+     "title": "Em ato no Rio na véspera do 2º turno, Lula chama Flávio de 'miliciano' e diz que povo quer mudança 'para melhor'",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/lula-reune-apoiadores-em-caminhada-na-orla-de-copacabana-na-vespera-do-segundo-turno.ghtml",
      "domain": "O Globo",
      "seendate": "20261024T124534Z"
@@ -3312,18 +3336,6 @@
     {
      "title": "Confronto direto com Flávio em debate leva Lula a defender legado e prejudica estratégia de apontar para o futuro",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/confronto-direto-com-flavio-em-debate-leva-lula-a-defender-legado-e-prejudica-estrategia-de-apontar-para-o-futuro.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261024T063000Z"
-    },
-    {
-     "title": "'Pai do bebê', 'dá um Google', 'irmão do tigrinho': Lula aposta nas redes e explora linguagem jovem no debate da Globo",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/pai-do-bebe-da-um-google-irmao-do-tigrinho-lula-aposta-nas-redes-e-explora-linguagem-jovem-no-debate-da-globo.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261024T063000Z"
-    },
-    {
-     "title": "Quem não votou em primeiro turno pode votar no segundo?",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/guia/quem-votou-em-primeiro-turno-pode-votar-no-segundo.ghtml",
      "domain": "O Globo",
      "seendate": "20261024T063000Z"
     }
