@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T01:40:26+00:00",
+ "updated": "2026-10-24T02:28:28+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -170,7 +170,7 @@
   "MEX": {
    "articles": [
     {
-     "title": "Violencia Morelos sigue imparable; cierra la semana con 3 mujeres asesinadas, un hombre ejecutado y un cuerpo desmembrado",
+     "title": "Violencia en Morelos sigue imparable; cierra la semana con 3 mujeres asesinadas, un hombre ejecutado y un cuerpo desmembrado",
      "url": "https://www.eluniversal.com.mx/estados/violencia-morelos-sigue-imparable-cierra-la-semana-con-3-mujeres-asesinadas-un-hombre-ejecutado-y-un-cuerpo-desmembrado/",
      "domain": "El Universal",
      "seendate": "20261024T012714Z"
@@ -432,12 +432,6 @@
      "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-pide-no-generalizar-en-casos-de-robo-de-medicamentos-por-personal-de-salud-hace-un-llamado-a-denunciar/",
      "domain": "El Universal",
      "seendate": "20261023T182710Z"
-    },
-    {
-     "title": "Manifestantes provocan servicio provisional en el Tren Ligero; opera de Tasqueña a Estadio Azteca",
-     "url": "https://www.eluniversal.com.mx/metropoli/manifestantes-provocan-servicio-provisional-en-el-tren-ligero-opera-de-tasquena-a-estadio-azteca/",
-     "domain": "El Universal",
-     "seendate": "20261023T182258Z"
     },
     {
      "title": "Sheinbaum reacciona a patrimonio de senadora Carolina Viggiano; \"que se investigue de dónde salió el recurso\", dice",
@@ -1294,6 +1288,12 @@
   "CRI": {
    "articles": [
     {
+     "title": "Chances de la JPS: estos son los números ganadores del sorteo de este viernes 23 de octubre",
+     "url": "https://www.nacion.com/el-pais/chances-de-la-jps-estos-son-los-numeros-ganadores/RUTPKB5Q5JBCPHXD565G6NPDMQ/story/",
+     "domain": "La Nación",
+     "seendate": "20261024T013752Z"
+    },
+    {
      "title": "Plantón por los derechos de las mujeres reúne a manifestantes en la avenida segunda",
      "url": "https://www.nacion.com/el-pais/marcha-por-los-derechos-de-las-mujeres-reune-a/56ZXWKYEQVAGXLS5TBZ7MXJP4A/story/",
      "domain": "La Nación",
@@ -1424,7 +1424,7 @@
      "seendate": "20261024T005733Z"
     },
     {
-     "title": "Minsa detecta coliformes fecales y totales en muestras de agua cerca de mina El Remance",
+     "title": "Mina El Remance: Minsa detecta contaminación bacteriológica en muestras de agua",
      "url": "https://www.prensa.com/sociedad/minsa-detecta-coliformes-fecales-y-totales-en-muestras-de-agua-cerca-de-mina-el-remance/",
      "domain": "La Prensa",
      "seendate": "20261024T005000Z"
@@ -1663,6 +1663,18 @@
   "COL": {
    "articles": [
     {
+     "title": "Tres policías quedaron heridos y un presunto delincuente murió tras una balacera en el centro de Cali: los uniformados acudieron por un robo",
+     "url": "https://www.eltiempo.com/colombia/cali/tres-policias-quedaron-heridos-y-un-presunto-delincuente-murio-tras-una-balacera-en-el-centro-de-cali-los-uniformados-acudieron-por-un-robo-3595974",
+     "domain": "El Tiempo",
+     "seendate": "20261024T020837Z"
+    },
+    {
+     "title": "Video | Operativo sorpresa en Medellín detectó cuatro autos de lujo realizando maniobras peligrosas en el Túnel de Oriente",
+     "url": "https://www.eltiempo.com/colombia/medellin/video-operativo-sorpresa-en-medellin-detecto-cuatro-autos-de-lujo-realizando-maniobras-peligrosas-en-el-tunel-de-oriente-3595972",
+     "domain": "El Tiempo",
+     "seendate": "20261024T015718Z"
+    },
+    {
      "title": "Medellín se ubicó como la segunda ciudad del país con más casos de extorsión en los últimos 15 años: aumentaron las capturas, pero hay subregistro",
      "url": "https://www.eltiempo.com/colombia/medellin/medellin-se-ubico-como-la-segunda-ciudad-del-pais-con-mas-casos-de-extorsion-en-los-ultimos-15-anos-aumentaron-las-capturas-pero-hay-subregistro-3595947",
      "domain": "El Tiempo",
@@ -1709,23 +1721,53 @@
      "url": "https://www.eltiempo.com/colombia/barranquilla/presidente-abelardo-de-la-espriella-recorrio-junto-al-alcalde-alejandro-char-las-obras-del-aeropuerto-ernesto-cortissoz-estos-son-los-avances-3595927",
      "domain": "El Tiempo",
      "seendate": "20261023T230519Z"
-    },
-    {
-     "title": "Mujer muere en extrañas circunstancias en Santander, mamá pide justicia tras supuestos mensajes de amenaza de muerte de su novio: 'Temo por mi vida'",
-     "url": "https://www.eltiempo.com/colombia/santander/mujer-muere-en-extranas-circunstancias-en-santander-mama-pide-justicia-tras-supuestos-mensajes-de-amenaza-de-muerte-de-su-novio-temo-por-mi-vida-3595910",
-     "domain": "El Tiempo",
-     "seendate": "20261023T225549Z"
-    },
-    {
-     "title": "¿Quién era Edwin Vargas Londoño, el infante de la Armada asesinado en el ataque con drones en Guapi, Cauca? Identifican a los 4 heridos del atentado",
-     "url": "https://www.eltiempo.com/colombia/cali/quien-era-edwin-vargas-londono-el-infante-de-la-armada-asesinado-en-el-ataque-con-drones-en-guapi-cauca-identifican-a-los-4-heridos-del-atentado-3595905",
-     "domain": "El Tiempo",
-     "seendate": "20261023T220729Z"
     }
    ]
   },
   "VEN": {
    "articles": [
+    {
+     "title": "Región central de Venezuela concentró la mayoría de los 109 sismos registrados en una semana , según Funvisis",
+     "url": "https://www.ntn24.com/noticias-actualidad/region-central-de-venezuela-concentro-la-mayoria-de-los-109-sismos-registrados-en-una-semana-segun-funvisis-660959",
+     "domain": "ntn24.com",
+     "seendate": "20261024T020000Z"
+    },
+    {
+     "title": "Nos ocuparemos de Cuba en nuestro regreso de Irán . Haremos una pequeña parada : Trump lanza dura advertencia sobre la dictadura",
+     "url": "https://www.ntn24.com/noticias-actualidad/nos-ocuparemos-de-cuba-en-nuestro-regreso-de-iran-haremos-una-pequena-parada-trump-lanza-dura-advertencia-sobre-la-dictadura-660931",
+     "domain": "ntn24.com",
+     "seendate": "20261024T020000Z"
+    },
+    {
+     "title": "Eni avanza en un proyecto de crudo pesado en Venezuela y espera autorización para invertir",
+     "url": "https://noticierodigital.com/2026/10/eni-avanza-en-un-proyecto-de-crudo-pesado-en-venezuela-y-espera-autorizacion-para-invertir/",
+     "domain": "noticierodigital.com",
+     "seendate": "20261024T011500Z"
+    },
+    {
+     "title": "Vanessa Senior regresa a Valencia con su show Vanessadas al desnudo",
+     "url": "https://www.eluniversal.com/entretenimiento/243840/vanessa-senior-regresa-a-valencia-con-su-show-vanessadas-al-desnudo",
+     "domain": "eluniversal.com",
+     "seendate": "20261024T004500Z"
+    },
+    {
+     "title": "Avanza restauración de obras de la Iglesia La Divina Pastora",
+     "url": "https://rnv.gob.ve/iglesia-divina-pastora-restauracion-obras/",
+     "domain": "rnv.gob.ve",
+     "seendate": "20261024T004500Z"
+    },
+    {
+     "title": "¿ No los expropiará ?, por Simón Boccanegra",
+     "url": "https://talcualdigital.com/opinion/no-los-expropiara-por-simon-boccanegra/",
+     "domain": "talcualdigital.com",
+     "seendate": "20261024T004500Z"
+    },
+    {
+     "title": "No se hagan los suecos , por Teodoro Petkoff",
+     "url": "https://talcualdigital.com/teodoro/no-se-hagan-los-suecos-por-teodoro-petkoff/",
+     "domain": "talcualdigital.com",
+     "seendate": "20261024T004500Z"
+    },
     {
      "title": "Ella me dio su Premio Nobel , eso nunca lo olvidaré : Donald Trump recuerda a María Corina Machado durante un mitin en Florida",
      "url": "https://www.ntn24.com/noticias-actualidad/ella-me-dio-su-premio-nobel-eso-nunca-lo-olvidare-donald-trump-recuerda-a-maria-corina-machado-durante-un-mitin-en-florida-660897",
@@ -1811,6 +1853,12 @@
      "seendate": "20261023T233000Z"
     },
     {
+     "title": "Diputado Pablo Pérez : Este año tendremos un nuevo TSJ",
+     "url": "https://rnv.gob.ve/diputado-pablo-perez-nuevo-tsj/",
+     "domain": "rnv.gob.ve",
+     "seendate": "20261023T230000Z"
+    },
+    {
      "title": "Ministerio del Trabajo participa en formación de la OIT",
      "url": "https://rnv.gob.ve/ministerio-trabajo-formacion-oit/",
      "domain": "rnv.gob.ve",
@@ -1825,12 +1873,6 @@
     {
      "title": "Oficina de la Cámara de Comercio China - Venezuela en Beijing",
      "url": "https://rnv.gob.ve/oficina-camara-comercio-china-venezuela-beijing/",
-     "domain": "rnv.gob.ve",
-     "seendate": "20261023T230000Z"
-    },
-    {
-     "title": "Diputado Pablo Pérez : Este año tendremos un nuevo TSJ",
-     "url": "https://rnv.gob.ve/diputado-pablo-perez-nuevo-tsj/",
      "domain": "rnv.gob.ve",
      "seendate": "20261023T230000Z"
     },
@@ -1947,59 +1989,17 @@
      "url": "https://correodelcaroni.com/pais-politico/oposicion-en-bolivar-reivindica-las-primarias-como-ruta-hacia-el-cambio-politico/",
      "domain": "correodelcaroni.com",
      "seendate": "20261023T044500Z"
-    },
-    {
-     "title": "Plataforma Ciudadana : El llamado para reconectar con la calle y rescatar la esperanza de Guayana – Correo del Caroní",
-     "url": "https://correodelcaroni.com/pais-politico/plataforma-ciudadana-el-llamado-para-reconectar-con-la-calle-y-rescatar-la-esperanza-de-guayana/",
-     "domain": "correodelcaroni.com",
-     "seendate": "20261023T044500Z"
-    },
-    {
-     "title": "Grupo Idea otorga a Machado el Premio Sebastián Piñera a la libertad – Correo del Caroní",
-     "url": "https://correodelcaroni.com/mundo/grupo-idea-otorga-a-machado-el-premio-sebastian-pinera-a-la-libertad/",
-     "domain": "correodelcaroni.com",
-     "seendate": "20261023T044500Z"
-    },
-    {
-     "title": "Delcy Rodríguez se reúne con jefes negociadores del chavismo y oposición en diálogo – Correo del Caroní",
-     "url": "https://correodelcaroni.com/pais-politico/delcy-rodriguez-se-reune-con-jefes-negociadores-del-chavismo-y-oposicion-en-dialogo/",
-     "domain": "correodelcaroni.com",
-     "seendate": "20261023T044500Z"
-    },
-    {
-     "title": "Oposición se moviliza en Caracas a tres años de primarias exigiendo elecciones – Correo del Caroní",
-     "url": "https://correodelcaroni.com/pais-politico/oposicion-se-moviliza-en-caracas-a-tres-anos-de-primarias-exigiendo-elecciones/",
-     "domain": "correodelcaroni.com",
-     "seendate": "20261023T044500Z"
-    },
-    {
-     "title": "Presidenta destaca acuerdos sobre garantías políticas , justicia y recuperación económica en mesa de diálogo",
-     "url": "http://www.psuv.org.ve/temas/noticias/presidenta-destaca-acuerdos-sobre-garantias-politicas-justicia-y-recuperacion-economica-mesa-dialogo/",
-     "domain": "psuv.org.ve",
-     "seendate": "20261023T033000Z"
-    },
-    {
-     "title": "Bolívar se unió a la gran marcha en homenaje a la mujer venezolana y el mes rosa",
-     "url": "http://www.psuv.org.ve/temas/noticias/bolivar-se-unio-a-gran-marcha-homenaje-a-mujer-venezolana-y-mes-rosa/",
-     "domain": "psuv.org.ve",
-     "seendate": "20261023T031500Z"
-    },
-    {
-     "title": "Pablo Pérez : La próxima semana inicia la postulación de nuevos magistrados del TSJ",
-     "url": "https://confirmado.com.ve/pablo-perez-la-proxima-semana-inicia-la-postulacion-de-nuevos-magistrados-del-tsj/",
-     "domain": "confirmado.com.ve",
-     "seendate": "20261023T031500Z"
-    },
-    {
-     "title": "El Aissami dice que no renuncia a su nacionalidad venezolana para evitar ser extraditado a Estados Unidos",
-     "url": "https://confirmado.com.ve/el-aissami-dice-que-no-renuncia-a-su-nacionalidad-venezolana-para-evitar-ser-extraditado-a-estados-unidos/",
-     "domain": "confirmado.com.ve",
-     "seendate": "20261023T031500Z"
     }
    ]
   },
   "ECU": {
    "articles": [
+    {
+     "title": "¿Dónde lloverá más este fin de semana en Ecuador? El Inamhi señala las zonas y el día de mayor intensidad",
+     "url": "https://eluniverso.com/comunidad/ecuador/donde-llovera-mas-este-fin-de-semana-en-ecuador-el-inamhi-senala-las-zonas-y-el-dia-de-mayor-intensidad-nota/",
+     "domain": "El Universo",
+     "seendate": "20261024T021624Z"
+    },
     {
      "title": "Luisa González llega a Latacunga y será trasladada a la cárcel de Riobamba",
      "url": "https://eluniverso.com/politica/seguridad/luisa-gonzalez-llega-a-latacunga-y-sera-trasladada-a-la-carcel-de-riobamba-nota/",
@@ -2065,6 +2065,12 @@
   "PER": {
    "articles": [
     {
+     "title": "Bonos, gasto público y mantenimiento de infraestructura: estas son las medidas del Gobierno frente a El Niño",
+     "url": "https://elcomercio.pe/economia/peru/bonos-gasto-publico-y-mantenimiento-de-infraestructura-estas-son-las-medidas-del-gobierno-frente-a-el-nino-apuesplan-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261024T022132Z"
+    },
+    {
      "title": "Lluvias en el Perú EN VIVO: noticias de precipitaciones en Piura, Tumbes, Trujillo y otras regiones",
      "url": "https://elcomercio.pe/peru/lluvias-en-peru-en-vivo-ultimas-noticias-de-las-precipitaciones-en-piura-tumbes-y-trujillo-estado-de-emergencia-en-el-norte-senamhi-indeci-lloviznas-fenomeno-el-nino-lbposting-noticia/",
      "domain": "El Comercio",
@@ -2099,12 +2105,6 @@
      "url": "https://elcomercio.pe/economia/peru/peru-camina-a-captar-carga-de-brasil-hacia-asia-cual-sera-la-pieza-clave-puertos-peruanos-noticia/",
      "domain": "El Comercio",
      "seendate": "20261023T223739Z"
-    },
-    {
-     "title": "Bonos, gasto público y mantenimiento de infraestructura: estas son las medidas del Gobierno frente a El Niño",
-     "url": "https://elcomercio.pe/economia/peru/bonos-gasto-publico-y-mantenimiento-de-infraestructura-estas-son-las-medidas-del-gobierno-frente-a-el-nino-apuesplan-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261023T222938Z"
     },
     {
      "title": "El dólar cierra la semana en S/3,44 impulsado por alza del petróleo y fortaleza de la divisa global",
@@ -2845,6 +2845,12 @@
   "ARG": {
    "articles": [
     {
+     "title": "Intiman a retirar el único puesto de diarios de Puerto Madero: el dueño pide quedarse y los vecinos lo respaldan",
+     "url": "https://www.lanacion.com.ar/sociedad/intiman-a-retirar-el-unico-puesto-de-diarios-de-puerto-madero-el-dueno-pide-quedarse-y-los-vecinos-nid23102026/",
+     "domain": "La Nación",
+     "seendate": "20261024T020727Z"
+    },
+    {
      "title": "Milei rechazó emitir más pesos para mejorar la actividad económica",
      "url": "https://www.lanacion.com.ar/politica/milei-rechazo-emitir-mas-pesos-para-mejorar-la-actividad-economica-nid23102026/",
      "domain": "La Nación",
@@ -2861,12 +2867,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/el-psicoanalista-gabriel-rolon-sobre-la-familia-no-es-lo-mismo-haber-sido-un-hijo-deseado-que-ser-el-nid23102026/",
      "domain": "La Nación",
      "seendate": "20261024T000000Z"
-    },
-    {
-     "title": "Intiman a retirar el único puesto de diarios de Puerto Madero: el dueño pide quedarse y los vecinos lo respaldan",
-     "url": "https://www.lanacion.com.ar/sociedad/intiman-a-retirar-el-unico-puesto-de-diarios-de-puerto-madero-el-dueno-pide-quedarse-y-los-vecinos-nid23102026/",
-     "domain": "La Nación",
-     "seendate": "20261023T234555Z"
     },
     {
      "title": "Más de 200 policías rodearon una zona caliente de Mar del Plata, donde secuestraron armas, municiones y drogas",
@@ -2999,18 +2999,6 @@
      "url": "https://www.lanacion.com.ar/economia/campo/el-nino-nadie-puede-impedir-que-ocurra-pero-si-evitar-buena-parte-de-sus-danos-nid23102026/",
      "domain": "La Nación",
      "seendate": "20261023T211911Z"
-    },
-    {
-     "title": "El recorrido de una red de logística narco quedó al descubierto por un llamado en el Día de la Madre",
-     "url": "https://www.lanacion.com.ar/seguridad/el-recorrido-de-una-red-de-logistica-narco-quedo-al-descubierto-por-un-llamado-en-el-dia-de-la-madre-nid23102026/",
-     "domain": "La Nación",
-     "seendate": "20261023T211805Z"
-    },
-    {
-     "title": "Una neuróloga explicó qué efecto concreto tiene tomar una copa de vino antes de irse a dormir",
-     "url": "https://www.lanacion.com.ar/sociedad/una-neurologa-explico-que-efecto-concreto-tiene-tomar-una-copa-de-vino-antes-de-irse-a-dormir-nid23102026/",
-     "domain": "La Nación",
-     "seendate": "20261023T211203Z"
     }
    ]
   },
@@ -3436,10 +3424,22 @@
   "BRA": {
    "articles": [
     {
+     "title": "Como Lula perdeu o dedo? Após ironia de Flávio no debate da TV Globo, saiba como foi o acidente de trabalho do petista",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/23/como-lula-perdeu-o-dedo-apos-ironia-de-flavio-no-debate-da-tv-globo-saiba-como-foi-o-acidente-de-trabalho-do-petista.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T020906Z"
+    },
+    {
      "title": "Debate na Globo: colunistas comentam ao vivo o último confronto entre Lula e Flávio Bolsonaro; acompanhe",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/ao-vivo/debate-na-globo-colunistas-comentam-ultimo-encontro-entre-lula-e-flavio-bolsonaro-acompanhe.ghtml",
      "domain": "O Globo",
-     "seendate": "20261024T005141Z"
+     "seendate": "20261024T020420Z"
+    },
+    {
+     "title": "Voz de Lula no debate da Globo: entenda por que está rouca e o tratamento em curso",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/23/voz-de-lula-no-debate-da-globo-entenda-por-que-esta-rouca-e-o-tratamento-em-curso.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T014625Z"
     },
     {
      "title": "Moraes manda bloquear até R$ 6 bilhões de advogado ligado a Flávio Bolsonaro e determina quebra de sigilo de empresas",
@@ -3454,7 +3454,7 @@
      "seendate": "20261024T004326Z"
     },
     {
-     "title": "Na Globo, Lula e Flávio Bolsonaro fazem debate final a dois dias da eleição",
+     "title": "‘Nove dedos’ x ‘lambendo Trump’: Flávio e Lula se atacam em debate da Globo em perguntas temáticas",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/23/na-globo-lula-e-flavio-bolsonaro-fazem-debate-final-a-dois-dias-da-eleicao.ghtml",
      "domain": "O Globo",
      "seendate": "20261024T003446Z"
