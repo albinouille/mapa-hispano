@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T16:01:44+00:00",
+ "updated": "2026-10-24T16:31:18+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -36,12 +36,6 @@
     {
      "title": "Francina Armengol, presidenta del Congreso: “No hay una polarización, hay un clima de agresividad buscado”",
      "url": "https://elpais.com/espana/2026-10-24/francina-armengol-presidenta-del-congreso-no-hay-una-polarizacion-hay-un-clima-de-agresividad-buscado.html",
-     "domain": "El País",
-     "seendate": "20261024T033001Z"
-    },
-    {
-     "title": "Cinco días frenéticos en los consulados para cumplir el ultimátum del Supremo: “Es como reparar un avión en pleno vuelo”",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-10-24/cinco-dias-freneticos-en-los-consulados-para-cumplir-el-ultimatum-del-supremo-es-como-reparar-un-avion-en-pleno-vuelo.html",
      "domain": "El País",
      "seendate": "20261024T033001Z"
     },
@@ -128,6 +122,18 @@
   "MEX": {
    "articles": [
     {
+     "title": "SRE alerta a mexicanos por llamados a nuevos disturbios en Italia; pide actuar con prudencia",
+     "url": "https://www.eluniversal.com.mx/nacion/sre-alerta-a-mexicanos-por-llamados-a-nuevos-disturbios-en-italia-pide-actuar-con-prudencia/",
+     "domain": "El Universal",
+     "seendate": "20261024T161150Z"
+    },
+    {
+     "title": "¡Toma en cuenta! Estas son las marchas y concentraciones previstas para este sábado 24 de octubre",
+     "url": "https://www.eluniversal.com.mx/metropoli/toma-en-cuenta-estas-son-las-marchas-y-concentraciones-previstas-para-este-sabado-24-de-octubre/",
+     "domain": "El Universal",
+     "seendate": "20261024T160836Z"
+    },
+    {
      "title": "Nueva ola de ataques deja tres personas muertas en Culiacán; el propietario de un restaurante, entre las víctimas",
      "url": "https://www.eluniversal.com.mx/estados/nueva-ola-de-ataques-deja-tres-personas-muertas-en-culiacan-el-propietario-de-un-restaurante-entre-las-victimas/",
      "domain": "El Universal",
@@ -152,14 +158,14 @@
      "seendate": "20261024T140656Z"
     },
     {
-     "title": "Pega cambio climático a la educación: UNICEF",
-     "url": "https://www.eluniversal.com.mx/nacion/pega-cambio-climatico-a-la-educacion-unicef/",
+     "title": "Violencia, regulación y acoso judicial limitan libertad de expresión en México",
+     "url": "https://www.eluniversal.com.mx/nacion/violencia-regulacion-y-acoso-judicial-limitan-libertad-de-expresion-en-mexico/",
      "domain": "El Universal",
      "seendate": "20261024T093500Z"
     },
     {
-     "title": "Violencia, regulación y acoso judicial limitan libertad de expresión en México",
-     "url": "https://www.eluniversal.com.mx/nacion/violencia-regulacion-y-acoso-judicial-limitan-libertad-de-expresion-en-mexico/",
+     "title": "Pega cambio climático a la educación: UNICEF",
+     "url": "https://www.eluniversal.com.mx/nacion/pega-cambio-climatico-a-la-educacion-unicef/",
      "domain": "El Universal",
      "seendate": "20261024T093500Z"
     },
@@ -1072,6 +1078,12 @@
   "CRI": {
    "articles": [
     {
+     "title": "Costa Rica bajo las estrellas: elija las tres mejores fotos de este concurso",
+     "url": "https://www.nacion.com/el-pais/costa-rica-bajo-las-estrellas-elija-las-tres/FYF4PKH5MZF3DHAUNH2IOFZDFM/story/",
+     "domain": "La Nación",
+     "seendate": "20261024T161328Z"
+    },
+    {
      "title": "Encuentro en Curridabat reunirá a personas que afrontan el duelo por muerte por suicidio: conozca los detalles",
      "url": "https://www.nacion.com/el-pais/encuentro-en-curridabat-reunira-a-personas-que/VYPLTCYWR5HD7K2TZHEJ3ZC4OY/story/",
      "domain": "La Nación",
@@ -1202,12 +1214,6 @@
      "url": "https://www.nacion.com/politica/patricia-solano-magistrada-y-aspirante-a-presidir/DV7QJNGPSVDRRLZLO5JZ4ASW6U/story/",
      "domain": "La Nación",
      "seendate": "20261023T164415Z"
-    },
-    {
-     "title": "Cierres en ruta 209 por construcción de nuevo puente sobre río Cañas en Aserrí: conozca el horario",
-     "url": "https://www.nacion.com/el-pais/cierres-en-ruta-209-por-construccion-de-nuevo/ZED775B5ZNHHFKF5LGDPQIIXTU/story/",
-     "domain": "La Nación",
-     "seendate": "20261023T162733Z"
     }
    ]
   },
@@ -1368,10 +1374,22 @@
   "CUB": {
    "articles": [
     {
+     "title": "Salud Pública prohíbe la venta de Shaka y de otras 14 bebidas energizantes con alcohol",
+     "url": "https://www.14ymedio.com/cuba/salud-publica-prohibe-venta-shaka_1_1132361.html",
+     "domain": "14ymedio",
+     "seendate": "20261024T160352Z"
+    },
+    {
      "title": "EE UU reconoce que el régimen cubano desvía combustible destinado al sector privado",
      "url": "https://www.14ymedio.com/cuba/ee-uu-reconoce-regimen-cubano_1_1132362.html",
      "domain": "14ymedio",
      "seendate": "20261024T154631Z"
+    },
+    {
+     "title": "Los apagones y las averías afectan el servicio de agua a más de 2,7 millones de cubanos",
+     "url": "https://www.14ymedio.com/cuba/apagones-averias-afectan-servicio-agua_1_1132353.html",
+     "domain": "14ymedio",
+     "seendate": "20261024T131512Z"
     },
     {
      "title": "Rubio pide a los cubanos que colaboren con la CIA; el régimen invita al Papa en respuesta a las presiones de EE UU",
@@ -1446,12 +1464,6 @@
      "seendate": "20261022T171443Z"
     },
     {
-     "title": "Los artemiseños sueñan con resucitar el complejo turístico de Soroa con el sector privado",
-     "url": "https://www.14ymedio.com/cuba/artemisenos-suenan-resucitar-complejo-turistico_1_1132255.html",
-     "domain": "14ymedio",
-     "seendate": "20261022T123203Z"
-    },
-    {
      "title": "Una reunión para recuperar la pesca provoca una oleada de críticas en Gibara",
      "url": "https://www.14ymedio.com/cuba/reunion-recuperar-pesca-provoca-oleada_1_1132240.html",
      "domain": "14ymedio",
@@ -1468,7 +1480,13 @@
      "title": "Tres policías heridos en balacera tras frustrar el robo de una banda a otro uniformado en el centro de Cali: una patrullera se encuentra grave en UCI",
      "url": "https://www.eltiempo.com/colombia/cali/tres-policias-heridos-en-balacera-tras-frustrar-el-robo-de-una-banda-a-otro-uniformado-en-el-centro-de-cali-una-patrullera-se-encuentra-grave-en-uci-3596016",
      "domain": "El Tiempo",
-     "seendate": "20261024T153858Z"
+     "seendate": "20261024T161620Z"
+    },
+    {
+     "title": "Exclusivo: las sofisticadas cámaras de 60 millones de pesos con las que las disidencias de las Farc potencian sus drones en Antioquia",
+     "url": "https://www.eltiempo.com/colombia/medellin/exclusivo-las-sofisticadas-camaras-de-60-millones-de-pesos-con-las-que-disidencias-de-las-farc-potencian-sus-drones-en-antioquia-3595981",
+     "domain": "El Tiempo",
+     "seendate": "20261024T154610Z"
     },
     {
      "title": "Brotes de dengue en el Atlántico: niño de 2 años murió tras dar positivo en Sabanalarga; su familia cuestiona la atención recibida",
@@ -1517,17 +1535,131 @@
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-reportan-nuevo-sismo-en-choco-en-la-madrugada-de-este-sabado-24-de-octubre-profundidad-epicentro-y-detalles-3595994",
      "domain": "El Tiempo",
      "seendate": "20261024T102348Z"
-    },
-    {
-     "title": "Exclusivo: las sofisticadas cámaras de 60 millones de pesos con las que las disidencias de las Farc potencian sus drones en Antioquia",
-     "url": "https://www.eltiempo.com/colombia/medellin/exclusivo-las-sofisticadas-camaras-de-60-millones-de-pesos-con-las-que-disidencias-de-las-farc-potencian-sus-drones-en-antioquia-3595981",
-     "domain": "El Tiempo",
-     "seendate": "20261024T060155Z"
     }
    ]
   },
   "VEN": {
    "articles": [
+    {
+     "title": "Inicio | Periódico CiudadCCS",
+     "url": "http://www.ciudadccs.info/publicacion/52510-inauguran-iv-juegos-deportivos-nacionales-comunales-lara-2026",
+     "domain": "ciudadccs.info",
+     "seendate": "20261024T160000Z"
+    },
+    {
+     "title": "GE Vernova advierte que mejorar el servicio eléctrico podría requerir entre ocho meses y un año",
+     "url": "https://www.descifrado.com/2026/10/24/ge-vernova-advierte-que-mejorar-el-servicio-electrico-podria-requerir-entre-ocho-meses-y-un-ano/",
+     "domain": "descifrado.com",
+     "seendate": "20261024T154500Z"
+    },
+    {
+     "title": "Lo que aprendí de los LLMs",
+     "url": "https://www.eluniversal.com/el-universal/243853/lo-que-aprendi-de-los-llms",
+     "domain": "eluniversal.com",
+     "seendate": "20261024T151500Z"
+    },
+    {
+     "title": "Bravos vencen a Tiburones y barren la serie en Margarita",
+     "url": "https://rnv.gob.ve/bravos-vencen-a-tiburones-y-barren-la-serie-en-margarita/",
+     "domain": "rnv.gob.ve",
+     "seendate": "20261024T151500Z"
+    },
+    {
+     "title": "Obispos exigen elecciones libres , cese de inhabilitaciones y renovación del CNE y TSJ",
+     "url": "https://www.informe21.com/post/obispos-exigen-elecciones-libres-cese-de-inhabilitaciones-y-renovaci%C3%B3n-del-cne-y-tsj",
+     "domain": "informe21.com",
+     "seendate": "20261024T151500Z"
+    },
+    {
+     "title": "Sin Estado no hay transición ( II )",
+     "url": "https://www.eluniversal.com/el-universal/243857/sin-estado-no-hay-transicion-ii",
+     "domain": "eluniversal.com",
+     "seendate": "20261024T151500Z"
+    },
+    {
+     "title": "Avanzan acciones de protección ambiental para conservación territorial en el país – Correo del Orinoco | La Artillería del Pensamiento",
+     "url": "http://www.correodelorinoco.gob.ve/avanzan-acciones-de-proteccion-ambiental-para-conservacion-territorial-en-el-pais/",
+     "domain": "correodelorinoco.gob.ve",
+     "seendate": "20261024T150000Z"
+    },
+    {
+     "title": "Márquez rechazó que algunos quieran cambiar la ruta de EE . UU .: Eso no es posible",
+     "url": "https://noticierodigital.com/2026/10/marquez-rechazo-que-algunos-quieran-cambiar-la-ruta-de-ee-uu-eso-no-es-posible/",
+     "domain": "noticierodigital.com",
+     "seendate": "20261024T150000Z"
+    },
+    {
+     "title": "Minpesca lidera encuentros con pescadores y procesadores de cangrejo azul en Zulia – Correo del Orinoco | La Artillería del Pensamiento",
+     "url": "http://www.correodelorinoco.gob.ve/minpesca-lidera-encuentros-con-pescadores-y-procesadores-de-cangrejo-azul-en-zulia/",
+     "domain": "correodelorinoco.gob.ve",
+     "seendate": "20261024T150000Z"
+    },
+    {
+     "title": "Venezuela reafirmó su cerco epidemiológico soberano en el Día Mundial contra la Poliomielitis",
+     "url": "https://mpps.gob.ve/venezuela-reafirmo-su-cerco-epidemiologico-soberano-en-el-dia-mundial-contra-la-poliomielitis/",
+     "domain": "mpps.gob.ve",
+     "seendate": "20261024T144500Z"
+    },
+    {
+     "title": "Corpoelec avanza en la optimización del servicio eléctrico en el interior del país",
+     "url": "http://www.psuv.org.ve/temas/noticias/corpoelec-avanza-optimizacion-servicio-electrico-interior-pais/",
+     "domain": "psuv.org.ve",
+     "seendate": "20261024T134500Z"
+    },
+    {
+     "title": "Venezuela , UNCTAD y CAF culminan exitosamente ciclo de talleres para impulsar la diversificación sostenible de las exportaciones - Yvke Mundial",
+     "url": "https://radiomundial.com.ve/venezuela-unctad-y-caf-culminan-exitosamente-ciclo-de-talleres-para-impulsar-la-diversificacion-sostenible-de-las-exportaciones/",
+     "domain": "radiomundial.com.ve",
+     "seendate": "20261024T134500Z"
+    },
+    {
+     "title": "Aplastado , por Teodoro Petkoff",
+     "url": "https://talcualdigital.com/opinion/aplastado-por-teodoro-petkoff/",
+     "domain": "talcualdigital.com",
+     "seendate": "20261024T131500Z"
+    },
+    {
+     "title": "Cuatro meses de los sismos en La Guaira : La gente no espera milagros , pero sí claridad",
+     "url": "https://talcualdigital.com/a-fondo/cuatro-meses-sismos-en-la-guaira/",
+     "domain": "talcualdigital.com",
+     "seendate": "20261024T131500Z"
+    },
+    {
+     "title": "Más allá de los nuevos sabores : la estrategia económica detrás del full house de Pampero",
+     "url": "https://finanzasdigital.com/nuevos-sabores-pampero-estrategia/",
+     "domain": "finanzasdigital.com",
+     "seendate": "20261024T123000Z"
+    },
+    {
+     "title": "Rector de la Ucab destacó que Guayana tiene para generar alternativas de desarrollo",
+     "url": "https://eldiariodeguayana.com.ve/rector-de-la-ucab-destaco-que-guayana-tiene-para-generar-alternativas-de-desarrollo/",
+     "domain": "eldiariodeguayana.com.ve",
+     "seendate": "20261024T121500Z"
+    },
+    {
+     "title": "Vecinos del sur de Valencia protestaron por apagones de hasta siete horas",
+     "url": "https://confirmado.com.ve/vecinos-del-sur-de-valencia-protestaron-por-apagones-de-hasta-siete-horas/",
+     "domain": "confirmado.com.ve",
+     "seendate": "20261024T121500Z"
+    },
+    {
+     "title": "Transparencia Venezuela propone crear una justicia especial anticorrupción",
+     "url": "https://eldiariodeguayana.com.ve/transparencia-venezuela-levantara-informacion-publica-de-los-postulados-al-tsj/",
+     "domain": "eldiariodeguayana.com.ve",
+     "seendate": "20261024T121500Z"
+    },
+    {
+     "title": "Grisanti : Mercado P2P de Binance mueve en Venezuela el equivalente al 83 % de las ventas del BCV",
+     "url": "https://confirmado.com.ve/grisanti-mercado-p2p-de-binance-mueve-en-venezuela-el-equivalente-al-83-de-las-ventas-del-bcv/",
+     "domain": "confirmado.com.ve",
+     "seendate": "20261024T121500Z"
+    },
+    {
+     "title": "El veterinario , gran baluarte del purasangre",
+     "url": "https://www.liderendeportes.com/hipismo/el-veterinario-gran-baluarte-del-purasangre/",
+     "domain": "liderendeportes.com",
+     "seendate": "20261024T113000Z"
+    },
     {
      "title": "24Oct : Día Mundial contra el polio",
      "url": "https://www.informe21.com/post/24oct-d%C3%ADa-mundial-contra-el-polio",
@@ -1539,12 +1671,6 @@
      "url": "https://www.informe21.com/post/la-profec%C3%ADa-del-poeta",
      "domain": "informe21.com",
      "seendate": "20261024T101500Z"
-    },
-    {
-     "title": "Inicio | Periódico CiudadCCS",
-     "url": "https://ciudadccs.info/publicacion/52484-vinotinto-femenina-de-futsal-lista-para-dakar-2026",
-     "domain": "ciudadccs.info",
-     "seendate": "20261024T064500Z"
     },
     {
      "title": "Enchurrados continúa su expansión en la Gran Caracas con la inauguración de su nueva tienda en el C . C . Metrocenter",
@@ -1563,210 +1689,6 @@
      "url": "https://correodelcaroni.com/sociedad/ambiente/venezuela-tendra-un-diciembre-menos-fresco-y-temperaturas-altas-hasta-2027/",
      "domain": "correodelcaroni.com",
      "seendate": "20261024T053000Z"
-    },
-    {
-     "title": "El gobierno de la inestabilidad",
-     "url": "https://www.el-carabobeno.com/el-gobierno-de-la-inestabilidad/",
-     "domain": "el-carabobeno.com",
-     "seendate": "20261024T050000Z"
-    },
-    {
-     "title": "Tarde piaste pajarito …",
-     "url": "https://www.el-carabobeno.com/tarde-piaste-pajarito/",
-     "domain": "el-carabobeno.com",
-     "seendate": "20261024T050000Z"
-    },
-    {
-     "title": "Pedro Infante : Diálogo Nacional abre paso a la normalización política y económica",
-     "url": "http://www.psuv.org.ve/temas/noticias/pedro-infante-dialogo-nacional-abre-paso-a-normalizacion-politica-y-economica/",
-     "domain": "psuv.org.ve",
-     "seendate": "20261024T030000Z"
-    },
-    {
-     "title": "Reportan fuerte bajón eléctrico en diferentes estados de Venezuela : algunas regiones tienen más de 10 horas sin el servicio",
-     "url": "https://www.ntn24.com/noticias-actualidad/reportan-fuerte-bajon-electrico-en-diferentes-estados-de-venezuela-algunas-regiones-tienen-mas-de-10-horas-sin-el-servicio-660979",
-     "domain": "ntn24.com",
-     "seendate": "20261024T030000Z"
-    },
-    {
-     "title": "BCV y Cepal evaluaron indicadores económicos y nuevas vías de cooperación",
-     "url": "https://noticierodigital.com/2026/10/bcv-y-cepal-evaluaron-indicadores-economicos-y-nuevas-vias-de-cooperacion/",
-     "domain": "noticierodigital.com",
-     "seendate": "20261024T024500Z"
-    },
-    {
-     "title": "EE . UU . prometió ampliar los servicios consulares desde su embajada en Caracas",
-     "url": "https://noticierodigital.com/2026/10/ee-uu-prometio-ampliar-los-servicios-consulares-desde-su-embajada-en-caracas/",
-     "domain": "noticierodigital.com",
-     "seendate": "20261024T024500Z"
-    },
-    {
-     "title": "Región central de Venezuela concentró la mayoría de los 109 sismos registrados en una semana , según Funvisis",
-     "url": "https://www.ntn24.com/noticias-actualidad/region-central-de-venezuela-concentro-la-mayoria-de-los-109-sismos-registrados-en-una-semana-segun-funvisis-660959",
-     "domain": "ntn24.com",
-     "seendate": "20261024T020000Z"
-    },
-    {
-     "title": "Nos ocuparemos de Cuba en nuestro regreso de Irán . Haremos una pequeña parada : Trump lanza dura advertencia sobre la dictadura",
-     "url": "https://www.ntn24.com/noticias-actualidad/nos-ocuparemos-de-cuba-en-nuestro-regreso-de-iran-haremos-una-pequena-parada-trump-lanza-dura-advertencia-sobre-la-dictadura-660931",
-     "domain": "ntn24.com",
-     "seendate": "20261024T020000Z"
-    },
-    {
-     "title": "Eni avanza en un proyecto de crudo pesado en Venezuela y espera autorización para invertir",
-     "url": "https://noticierodigital.com/2026/10/eni-avanza-en-un-proyecto-de-crudo-pesado-en-venezuela-y-espera-autorizacion-para-invertir/",
-     "domain": "noticierodigital.com",
-     "seendate": "20261024T011500Z"
-    },
-    {
-     "title": "Vanessa Senior regresa a Valencia con su show Vanessadas al desnudo",
-     "url": "https://www.eluniversal.com/entretenimiento/243840/vanessa-senior-regresa-a-valencia-con-su-show-vanessadas-al-desnudo",
-     "domain": "eluniversal.com",
-     "seendate": "20261024T004500Z"
-    },
-    {
-     "title": "Avanza restauración de obras de la Iglesia La Divina Pastora",
-     "url": "https://rnv.gob.ve/iglesia-divina-pastora-restauracion-obras/",
-     "domain": "rnv.gob.ve",
-     "seendate": "20261024T004500Z"
-    },
-    {
-     "title": "¿ No los expropiará ?, por Simón Boccanegra",
-     "url": "https://talcualdigital.com/opinion/no-los-expropiara-por-simon-boccanegra/",
-     "domain": "talcualdigital.com",
-     "seendate": "20261024T004500Z"
-    },
-    {
-     "title": "No se hagan los suecos , por Teodoro Petkoff",
-     "url": "https://talcualdigital.com/teodoro/no-se-hagan-los-suecos-por-teodoro-petkoff/",
-     "domain": "talcualdigital.com",
-     "seendate": "20261024T004500Z"
-    },
-    {
-     "title": "Ella me dio su Premio Nobel , eso nunca lo olvidaré : Donald Trump recuerda a María Corina Machado durante un mitin en Florida",
-     "url": "https://www.ntn24.com/noticias-actualidad/ella-me-dio-su-premio-nobel-eso-nunca-lo-olvidare-donald-trump-recuerda-a-maria-corina-machado-durante-un-mitin-en-florida-660897",
-     "domain": "ntn24.com",
-     "seendate": "20261024T003000Z"
-    },
-    {
-     "title": "Todo nuestro personal ya está trabajando en la Embajada de EE . UU . en Caracas ; seguimos impulsando el plan de tres fases de Trump y Rubio : John Barrett",
-     "url": "https://www.ntn24.com/noticias-actualidad/todo-nuestro-personal-ya-esta-trabajando-en-la-embajada-de-ee-uu-en-caracas-seguimos-impulsando-el-plan-de-tres-fases-de-trump-y-rubio-john-barrett-660886",
-     "domain": "ntn24.com",
-     "seendate": "20261024T003000Z"
-    },
-    {
-     "title": "Análisis a propuesta de Dinorah Figuera de elecciones en Venezuela para 2028 : Si esto se patea a 2028 , no podemos hablar de transición",
-     "url": "https://www.ntn24.com/noticias-actualidad/analisis-a-propuesta-de-dinorah-figuera-de-elecciones-en-venezuela-para-2028-si-esto-se-patea-a-2028-no-podemos-hablar-de-transicion-660884",
-     "domain": "ntn24.com",
-     "seendate": "20261024T003000Z"
-    },
-    {
-     "title": "Denuncian que ropa donada a damnificados por los terremotos en La Guaira se deteriora a la intemperie",
-     "url": "https://www.ntn24.com/noticias-actualidad/denuncian-que-ropa-donada-a-damnificados-por-los-terremotos-en-la-guaira-se-deteriora-a-la-intemperie-660913",
-     "domain": "ntn24.com",
-     "seendate": "20261024T003000Z"
-    },
-    {
-     "title": "Asamblea Nacional de 2015 abordó con embajadores de la Unión Europea el proceso de reinstitucionalización",
-     "url": "https://www.globovision.com/politica/63565/asamblea-nacional-de-2015-abordo-con-embajadores-de-la-union-europea-el-proceso-de-democratizacion",
-     "domain": "globovision.com",
-     "seendate": "20261024T000000Z"
-    },
-    {
-     "title": "Delcy Rodríguez anuncia que Zulia exportará gas a partir del 2027 - Agencia Venezolana de Noticias",
-     "url": "https://avn.info.ve/delcy-rodriguez-anuncia-que-zulia-exportara-gas-a-partir-del-2027/",
-     "domain": "avn.info.ve",
-     "seendate": "20261023T234500Z"
-    },
-    {
-     "title": "Caracas FC y Deportivo Táchira se enfrentan en el Clásico",
-     "url": "https://radiomundial.com.ve/caracas-fc-deportivo-tachira-clasico-futbol-venezolano-clausura-2026/",
-     "domain": "radiomundial.com.ve",
-     "seendate": "20261023T233000Z"
-    },
-    {
-     "title": "Presidenta anuncia producción de 115 mil barriles de petróleo",
-     "url": "https://radiomundial.com.ve/presidenta-anuncia-produccion-de-mas-de-115-mil-barriles-de-petroleo-en-el-zulia/",
-     "domain": "radiomundial.com.ve",
-     "seendate": "20261023T233000Z"
-    },
-    {
-     "title": "Gobierno ejecutará plan de infraestructura universitaria tras sismos",
-     "url": "https://radiomundial.com.ve/gobierno-ejecutara-plan-rehabilitacion-infraestructura-universitaria-sismos-2026/",
-     "domain": "radiomundial.com.ve",
-     "seendate": "20261023T233000Z"
-    },
-    {
-     "title": "Venezuela y Surinam impulsan alianza turística binacional",
-     "url": "https://radiomundial.com.ve/venezuela-y-surinam-impulsan-alianza-para-el-desarrollo-del-turismo-binacional/",
-     "domain": "radiomundial.com.ve",
-     "seendate": "20261023T233000Z"
-    },
-    {
-     "title": "Venezuela abandera a sus atletas para Dakar 2026",
-     "url": "https://radiomundial.com.ve/venezuela-abandera-atletas-juegos-olimpicos-de-la-juventud-dakar-2026/",
-     "domain": "radiomundial.com.ve",
-     "seendate": "20261023T233000Z"
-    },
-    {
-     "title": "Vinotinto sub - 17 femenina busca los octavos frente a Japón",
-     "url": "https://radiomundial.com.ve/vinotinto-femenina-sub-17-enfrenta-japon-mundial-marruecos/",
-     "domain": "radiomundial.com.ve",
-     "seendate": "20261023T233000Z"
-    },
-    {
-     "title": "Avanza etapa final de restauración en la Iglesia La Divina Pastora",
-     "url": "https://radiomundial.com.ve/en-etapa-final-labores-de-restauracion-y-conservacion-de-la-iglesia-la-divina-pastora/",
-     "domain": "radiomundial.com.ve",
-     "seendate": "20261023T233000Z"
-    },
-    {
-     "title": "Diputado Pablo Pérez : Este año tendremos un nuevo TSJ",
-     "url": "https://rnv.gob.ve/diputado-pablo-perez-nuevo-tsj/",
-     "domain": "rnv.gob.ve",
-     "seendate": "20261023T230000Z"
-    },
-    {
-     "title": "Ministerio del Trabajo participa en formación de la OIT",
-     "url": "https://rnv.gob.ve/ministerio-trabajo-formacion-oit/",
-     "domain": "rnv.gob.ve",
-     "seendate": "20261023T230000Z"
-    },
-    {
-     "title": "Delcy Rodríguez inspecciona proyectos petroleros con EE . UU .",
-     "url": "https://rnv.gob.ve/inspecciona-proyectos-petroleros-con-ee-uu/",
-     "domain": "rnv.gob.ve",
-     "seendate": "20261023T230000Z"
-    },
-    {
-     "title": "Oficina de la Cámara de Comercio China - Venezuela en Beijing",
-     "url": "https://rnv.gob.ve/oficina-camara-comercio-china-venezuela-beijing/",
-     "domain": "rnv.gob.ve",
-     "seendate": "20261023T230000Z"
-    },
-    {
-     "title": "Presidenta Delcy Rodríguez inspeccionó Planta de Cilindros 1",
-     "url": "https://rnv.gob.ve/presidenta-delcy-rodriguez-inspecciono-planta-de-cilind/",
-     "domain": "rnv.gob.ve",
-     "seendate": "20261023T150000Z"
-    },
-    {
-     "title": "Venezuela expresa solidaridad con China tras el terremoto d1",
-     "url": "https://rnv.gob.ve/venezuela-expresa-solidaridad-con-china-tras-el-terremo/",
-     "domain": "rnv.gob.ve",
-     "seendate": "20261023T150000Z"
-    },
-    {
-     "title": "Efectos de la diáspora inversa - Últimas Noticias",
-     "url": "https://ultimasnoticias.com.ve/opinion/efectos-de-la-diaspora-inversa/",
-     "domain": "ultimasnoticias.com.ve",
-     "seendate": "20261023T130000Z"
-    },
-    {
-     "title": "Estaciones de servicio para llenar la bombona",
-     "url": "https://ultimasnoticias.com.ve/el-informante/estaciones-de-servicio-para-llenar-la-bombona/",
-     "domain": "ultimasnoticias.com.ve",
-     "seendate": "20261023T130000Z"
     }
    ]
   },
@@ -1870,7 +1792,7 @@
      "title": "Lluvias en Perú EN VIVO hoy: Senamhi advierte precipitaciones extremas por El Niño extraordinario",
      "url": "https://elcomercio.pe/peru/lluvias-en-peru-en-vivo-ultimas-noticias-de-las-precipitaciones-en-piura-tumbes-y-trujillo-estado-de-emergencia-en-el-norte-senamhi-indeci-lloviznas-fenomeno-el-nino-lbposting-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261024T154342Z"
+     "seendate": "20261024T162022Z"
     },
     {
      "title": "Último temblor hoy, 24 de octubre: IGP reporta sismos en Perú, lugar y magnitud",
@@ -2611,6 +2533,30 @@
   "ARG": {
    "articles": [
     {
+     "title": "El Niño: nadie puede impedir que ocurra, pero sí evitar buena parte de sus daños",
+     "url": "https://www.lanacion.com.ar/economia/campo/el-nino-nadie-puede-impedir-que-ocurra-pero-si-evitar-buena-parte-de-sus-danos-nid23102026/",
+     "domain": "La Nación",
+     "seendate": "20261024T161912Z"
+    },
+    {
+     "title": "Quería ser el “unicornio del agro”, llegó a valer más de US$1000 millones y ahora aprobaron su liquidación con el 98,4% de los votos",
+     "url": "https://www.lanacion.com.ar/economia/campo/queria-ser-el-unicornio-del-agro-llego-a-valer-mas-de-us1000-millones-y-ahora-aprobaron-su-nid24102026/",
+     "domain": "La Nación",
+     "seendate": "20261024T160935Z"
+    },
+    {
+     "title": "De las grandes estancias a los puestos patagónicos: la fábrica de 128 años que mantiene vivo el fuego de la cocina a leña",
+     "url": "https://www.lanacion.com.ar/economia/campo/de-las-grandes-estancias-a-los-puestos-patagonicos-la-fabrica-de-128-anos-que-mantiene-vivo-el-fuego-nid24102026/",
+     "domain": "La Nación",
+     "seendate": "20261024T160838Z"
+    },
+    {
+     "title": "Introducido por un escocés y discutido en sus comienzos, el alambrado marcó un antes y un después en el campo argentino",
+     "url": "https://www.lanacion.com.ar/economia/campo/introducido-por-un-escoces-y-discutido-en-sus-comienzos-el-alambrado-marco-un-antes-y-un-despues-en-nid24102026/",
+     "domain": "La Nación",
+     "seendate": "20261024T160813Z"
+    },
+    {
      "title": "León XIV en la Argentina: cómo se prepara la familia agustiniana para recibirlo, qué regalo le harán y un lema para el futuro",
      "url": "https://www.lanacion.com.ar/sociedad/leon-xiv-en-la-argentina-como-se-prepara-la-familia-agustiniana-para-recibirlo-que-regalo-le-haran-y-nid24102026/",
      "domain": "La Nación",
@@ -2665,12 +2611,6 @@
      "seendate": "20261024T105800Z"
     },
     {
-     "title": "Introducido por un escocés y discutido en sus comienzos, el alambrado marcó un antes y un después en el campo argentino",
-     "url": "https://www.lanacion.com.ar/economia/campo/introducido-por-un-escoces-y-discutido-en-sus-comienzos-el-alambrado-marco-un-antes-y-un-despues-en-nid24102026/",
-     "domain": "La Nación",
-     "seendate": "20261024T100908Z"
-    },
-    {
      "title": "Avanza la cosecha estadounidense y achata los precios del maíz y de la soja",
      "url": "https://www.lanacion.com.ar/economia/campo/avanza-la-cosecha-estadounidense-y-achata-los-precios-del-maiz-y-de-la-soja-nid24102026/",
      "domain": "La Nación",
@@ -2681,12 +2621,6 @@
      "url": "https://www.lanacion.com.ar/economia/campo/cambio-de-habitos-crecio-un-6-la-demanda-de-pastas-y-las-familias-eligen-las-variedades-mas-nid23102026/",
      "domain": "La Nación",
      "seendate": "20261024T095655Z"
-    },
-    {
-     "title": "De las grandes estancias a los puestos patagónicos: la fábrica de 128 años que mantiene vivo el fuego de la cocina a leña",
-     "url": "https://www.lanacion.com.ar/economia/campo/de-las-grandes-estancias-a-los-puestos-patagonicos-la-fabrica-de-128-anos-que-mantiene-vivo-el-fuego-nid24102026/",
-     "domain": "La Nación",
-     "seendate": "20261024T095610Z"
     },
     {
      "title": "El costo de delegar el cerebro",
@@ -2735,18 +2669,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/inti-bonomo-experto-en-ciencias-ambientales-sobre-el-avance-del-fenomeno-del-super-nino-va-a-seguir-nid24102026/",
      "domain": "La Nación",
      "seendate": "20261024T070000Z"
-    },
-    {
-     "title": "Alerta en Neuquén: las intensas lluvias reactivaron cañadones secos y causaron estragos: Vaca Muerta, la zona más afectada",
-     "url": "https://www.lanacion.com.ar/sociedad/alerta-en-neuquen-las-intensas-lluvias-reactivaron-canadones-secos-y-generaron-estragos-vaca-muerta-nid23102026/",
-     "domain": "La Nación",
-     "seendate": "20261024T064223Z"
-    },
-    {
-     "title": "La Justicia sobreseyó al Presidente y a Karina Milei en el caso $LIBRA",
-     "url": "https://www.lanacion.com.ar/politica/el-gobierno-le-contesto-al-fiscal-del-caso-libra-que-no-tenia-registro-del-presunto-acuerdo-nid20032026/",
-     "domain": "La Nación",
-     "seendate": "20261024T063930Z"
     }
    ]
   },
@@ -3148,6 +3070,24 @@
   "BRA": {
    "articles": [
     {
+     "title": "Pneu de carro fura em ato no Rio, e Lula aproveita contratempo para alfinetar Flávio: 'Ele diria que iria voando'",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/pneu-de-carro-fura-em-ato-no-rio-e-lula-aproveita-contratempo-para-alfinetar-flavio-ele-diria-que-iria-voando.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T160810Z"
+    },
+    {
+     "title": "TSE verifica urnas para eleição e emite relatório de segurança para totalização de votos no segundo turno",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/tse-verifica-urnas-para-eleicao-e-emite-relatorio-de-seguranca-para-totalizacao-de-votos-no-segundo-turno.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T155611Z"
+    },
+    {
+     "title": "Guindaste cai sobre linha do monotrilho em SP e operador fica ferido; veja vídeo",
+     "url": "https://oglobo.globo.com/brasil/sao-paulo/noticia/2026/10/24/guindaste-cai-sobre-linha-do-monotrilho-em-sp-operador-fica-ferido.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T155156Z"
+    },
+    {
      "title": "'Vamos brigar para tomar a ilha que Tomaz e Flávio roubaram' de Richarlison, diz Lula no Rio",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/vamos-brigar-para-tomar-a-ilha-que-tomaz-e-flavio-roubaram-de-richarlison-diz-lula-em-ato-no-rio.ghtml",
      "domain": "O Globo",
@@ -3290,42 +3230,6 @@
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/guia/e-titulo-como-baixar-e-usar-no-dia-da-eleicao-2026-confira-o-passo-a-passo.ghtml",
      "domain": "O Globo",
      "seendate": "20261024T072500Z"
-    },
-    {
-     "title": "'Comida tá cara', 'prometeu picanha', 'dúzia virou dez': Flávio usa preço de alimentos contra Lula no debate da Globo",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/comida-ta-cara-prometeu-picanha-duzia-virou-dez-flavio-usa-preco-de-alimentos-contra-lula-no-debate-da-globo.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261024T063001Z"
-    },
-    {
-     "title": "Risadas bolsonaristas, provocação sobre chocolate e dicas de Tarcísio a Flávio: o debate da TV Globo que você não viu",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/risadas-bolsonaristas-provocacao-sobre-chocolate-e-dicas-de-tarcisio-a-flavio-o-debate-da-tv-globo-que-voce-nao-viu.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261024T063001Z"
-    },
-    {
-     "title": "Amigo de Flávio Bolsonaro tentou usar decreto de Cláudio Castro para ampliar mansão em ilha disputada com Richarlison",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/24/amigo-de-flavio-bolsonaro-tentou-usar-decreto-de-claudio-castro-para-ampliar-mansao-em-ilha-disputada-com-richarlison.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261024T063001Z"
-    },
-    {
-     "title": "Milei só deve reconhecer resultado das eleições no caso de vitória de Flávio, avalia Planalto",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/milei-so-deve-reconhecer-resultado-das-eleicoes-no-caso-de-vitoria-de-flavio-avalia-planalto.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261024T063000Z"
-    },
-    {
-     "title": "Aliados veem vantagem de Flávio em debate, mas citam derrapadas em ironia sobre 'nove dedos' de Lula e no caso Ana Clara",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/aliados-veem-vantagem-de-flavio-em-debate-mas-citam-derrapadas-em-ironia-sobre-nove-dedos-de-lula-e-no-caso-ana-clara.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261024T063000Z"
-    },
-    {
-     "title": "Caso Ana Clara, disputa por ilha, 'nove dedos': o debate da TV Globo entre Flávio Bolsonaro e Lula em oito pontos",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/post/2026/10/caso-ana-clara-disputa-por-ilha-nove-dedos-o-debate-da-tv-globo-entre-flavio-bolsonaro-e-lula-em-oito-pontos.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261024T063000Z"
     }
    ]
   }
