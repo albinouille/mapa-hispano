@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T05:33:58+00:00",
+ "updated": "2026-10-24T06:05:31+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -34,16 +34,16 @@
      "seendate": "20261024T033001Z"
     },
     {
-     "title": "Una residencia de Madrid expulsa a varias personas con discapacidad y da marcha atrás cuando sale en la prensa",
-     "url": "https://elpais.com/espana/madrid/2026-10-24/una-residencia-de-madrid-expulsa-a-varias-personas-con-discapacidad-y-da-marcha-atras-cuando-sale-en-la-prensa.html",
-     "domain": "El País",
-     "seendate": "20261024T033001Z"
-    },
-    {
      "title": "La vida precaria de los bomberos de Ávila: alguien se olvidó de contratar la luz en la nueva estación",
      "url": "https://elpais.com/espana/2026-10-24/la-vida-precaria-de-los-bomberos-de-avila-alguien-se-olvido-de-contratar-la-luz-en-la-nueva-estacion.html",
      "domain": "El País",
      "seendate": "20261024T033001Z"
+    },
+    {
+     "title": "Una residencia de Madrid expulsa a varias personas con discapacidad y da marcha atrás cuando sale en la prensa",
+     "url": "https://elpais.com/espana/madrid/2026-10-24/una-residencia-de-madrid-expulsa-a-varias-personas-con-discapacidad-y-da-marcha-atras-cuando-sale-en-la-prensa.html",
+     "domain": "El País",
+     "seendate": "20261024T033000Z"
     },
     {
      "title": "La 080 Barcelona Fashion cierra una semana de moda con viajes en todas direcciones",
@@ -2863,6 +2863,18 @@
   "ARG": {
    "articles": [
     {
+     "title": "Los psicólogos coinciden: la incomodidad es la única invitación al cambio de prioridades",
+     "url": "https://www.lanacion.com.ar/sociedad/los-psicologos-coinciden-la-incomodidad-es-la-unica-invitacion-al-cambio-de-prioridades-nid24102026/",
+     "domain": "La Nación",
+     "seendate": "20261024T060000Z"
+    },
+    {
+     "title": "De las grandes estancias a los puestos patagónicos: la fábrica de 128 años que mantiene vivo el fuego de la cocina a leña",
+     "url": "https://www.lanacion.com.ar/economia/campo/de-las-grandes-estancias-a-los-puestos-patagonicos-la-fabrica-de-128-anos-que-mantiene-vivo-el-fuego-nid24102026/",
+     "domain": "La Nación",
+     "seendate": "20261024T060000Z"
+    },
+    {
      "title": "Un especialista explicó las dos técnicas clave para frenar el deterioro cognitivo y cómo incide el estrés",
      "url": "https://www.lanacion.com.ar/sociedad/un-especialista-explico-las-dos-tecnicas-clave-para-frenar-el-deterioro-cognitivo-y-como-incide-el-nid24102026/",
      "domain": "La Nación",
@@ -2927,30 +2939,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/el-psicoanalista-gabriel-rolon-sobre-la-familia-no-es-lo-mismo-haber-sido-un-hijo-deseado-que-ser-el-nid23102026/",
      "domain": "La Nación",
      "seendate": "20261024T000000Z"
-    },
-    {
-     "title": "Más de 200 policías rodearon una zona caliente de Mar del Plata, donde secuestraron armas, municiones y drogas",
-     "url": "https://www.lanacion.com.ar/seguridad/mas-de-200-policias-rodearon-una-zona-caliente-de-mar-del-plata-donde-secuestraron-armas-municiones-nid23102026/",
-     "domain": "La Nación",
-     "seendate": "20261023T233952Z"
-    },
-    {
-     "title": "Milei habló tras el sobreseimiento por la causa $LIBRA: “¿Quién me compensa por un año y ocho meses de mentiras?”",
-     "url": "https://www.lanacion.com.ar/politica/milei-hablo-tras-el-sobreseimiento-por-la-causa-libra-quien-me-compensa-por-un-ano-y-ocho-meses-de-nid23102026/",
-     "domain": "La Nación",
-     "seendate": "20261023T232909Z"
-    },
-    {
-     "title": "Detuvieron en Esquel a un bioquímico que tenía en cautiverio dentro de la casa a su esposa y sus hijos",
-     "url": "https://www.lanacion.com.ar/seguridad/detuvieron-en-esquel-a-un-bioquimico-que-tenia-en-cautiverio-dentro-de-la-casa-a-su-esposa-y-sus-nid23102026/",
-     "domain": "La Nación",
-     "seendate": "20261023T232148Z"
-    },
-    {
-     "title": "Una valija ensangrentada que fue encontrada en un contenedor de residuos llevó al hallazgo de una joven asesinada",
-     "url": "https://www.lanacion.com.ar/seguridad/una-valija-ensangrentada-que-fue-encontrada-en-un-contenedor-de-residuos-llevo-al-hallazgo-de-una-nid23102026/",
-     "domain": "La Nación",
-     "seendate": "20261023T231956Z"
     }
    ]
   },
@@ -3370,6 +3358,12 @@
   "BRA": {
    "articles": [
     {
+     "title": "Conheça Nanuque, a cidade mineira 'mais dividida' nas últimas eleições presidenciais que foi destaque no New York Times",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/conheca-nanuque-a-cidade-mineira-mais-dividida-nas-ultimas-eleicoes-presidenciais-que-foi-destaque-no-new-york-times.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T060000Z"
+    },
+    {
      "title": "Íntegra do debate da TV Globo: saiba como assistir",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/integra-do-debate-da-tv-globo-saiba-como-assistir.ghtml",
      "domain": "O Globo",
@@ -3530,12 +3524,6 @@
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/23/exercito-do-lula-alcanca-a-marca-de-10-milhoes-de-seguidores-a-dois-dias-da-eleicao.ghtml",
      "domain": "O Globo",
      "seendate": "20261023T205038Z"
-    },
-    {
-     "title": "Debate da Globo hoje: veja horário, onde assistir e regras",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/23/debate-da-globo-hoje-veja-horario-onde-assistir-e-regras.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261023T203742Z"
     }
    ]
   }
