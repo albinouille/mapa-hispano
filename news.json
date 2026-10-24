@@ -1,8 +1,14 @@
 {
- "updated": "2026-10-24T12:40:16+00:00",
+ "updated": "2026-10-24T13:32:16+00:00",
  "countries": {
   "ESP": {
    "articles": [
+    {
+     "title": "Última hora de la actualidad política, en directo | Feijóo advierte al PSOE de que no va a “indultar corruptos” si gobierna y se encargará “de que paguen por todo”",
+     "url": "https://elpais.com/espana/2026-10-24/ultima-hora-de-la-actualidad-politica-en-directo.html",
+     "domain": "El País",
+     "seendate": "20261024T121935Z"
+    },
     {
      "title": "Montero y Rufián: “Una izquierda que se presenta en la misma papeleta con el PSOE no va a arreglar los problemas”",
      "url": "https://elpais.com/espana/elecciones-generales/2026-10-24/montero-y-rufian-una-izquierda-que-se-presenta-en-la-misma-papeleta-con-el-psoe-no-va-a-arreglar-los-problemas.html",
@@ -134,14 +140,14 @@
   "MEX": {
    "articles": [
     {
-     "title": "Pega cambio climático a la educación: UNICEF",
-     "url": "https://www.eluniversal.com.mx/nacion/pega-cambio-climatico-a-la-educacion-unicef/",
+     "title": "Violencia, regulación y acoso judicial limitan libertad de expresión en México",
+     "url": "https://www.eluniversal.com.mx/nacion/violencia-regulacion-y-acoso-judicial-limitan-libertad-de-expresion-en-mexico/",
      "domain": "El Universal",
      "seendate": "20261024T093500Z"
     },
     {
-     "title": "Violencia, regulación y acoso judicial limitan libertad de expresión en México",
-     "url": "https://www.eluniversal.com.mx/nacion/violencia-regulacion-y-acoso-judicial-limitan-libertad-de-expresion-en-mexico/",
+     "title": "Pega cambio climático a la educación: UNICEF",
+     "url": "https://www.eluniversal.com.mx/nacion/pega-cambio-climatico-a-la-educacion-unicef/",
      "domain": "El Universal",
      "seendate": "20261024T093500Z"
     },
@@ -240,18 +246,6 @@
      "url": "https://www.eluniversal.com.mx/estados/en-medio-de-un-fuerte-operativo-cae-en-zapopan-compa-mike-517-era-objetivo-prioritario-del-gobierno-de-eu/",
      "domain": "El Universal",
      "seendate": "20261024T034831Z"
-    },
-    {
-     "title": "Conmemoran tres años del impacto del Huracán Otis en Acapulco, Guerrero; depositan ofrenda floral por 68 fallecidos",
-     "url": "https://www.eluniversal.com.mx/nacion/conmemoran-tres-anos-del-impacto-del-huracan-otis-en-acapulco-guerrero-depositan-ofrenda-floral-por-68-fallecidos/",
-     "domain": "El Universal",
-     "seendate": "20261024T033540Z"
-    },
-    {
-     "title": "Entre catrinas, cráneos y mucho color, arranca Paseo Lumínico en Reforma; convoca a miles de personas en su primera noche",
-     "url": "https://www.eluniversal.com.mx/metropoli/entre-catrinas-craneos-y-mucho-color-arranca-paseo-luminico-en-reforma-convoca-a-miles-de-personas-en-su-primera-noche/",
-     "domain": "El Universal",
-     "seendate": "20261024T033346Z"
     },
     {
      "title": "Ante acusación de Maru Campos, gobernadores de Morena cierran filas con Ariadna Montiel; \"debe presentar pruebas\"",
@@ -1232,12 +1226,6 @@
      "url": "https://www.nacion.com/politica/embajada-de-ee-uu-responsabiliza-a-empresas-chinas/HG5UY2P3HFGA3MT2SZESMSL3OI/story/",
      "domain": "La Nación",
      "seendate": "20261023T155253Z"
-    },
-    {
-     "title": "Joven de 20 años fallece tras ataque armado en vía pública de Limón",
-     "url": "https://www.nacion.com/sucesos/joven-de-20-anos-fallece-tras-ataque-armado-en-via/EO4CRBSQSBH2XJ3CX3MIQNX74U/story/",
-     "domain": "La Nación",
-     "seendate": "20261023T134000Z"
     }
    ]
   },
@@ -1404,6 +1392,18 @@
   "CUB": {
    "articles": [
     {
+     "title": "Los apagones y las averías afectan el servicio de agua a más de 2,7 millones de cubanos",
+     "url": "https://www.14ymedio.com/cuba/apagones-averias-afectan-servicio-agua_1_1132353.html",
+     "domain": "14ymedio",
+     "seendate": "20261024T131512Z"
+    },
+    {
+     "title": "Rubio pide una “colaboración discreta con la CIA” mientras el régimen invita al papa a Cuba",
+     "url": "https://www.14ymedio.com/cuba/rubio-pide-colaboracion-discreta-cia_1_1132351.html",
+     "domain": "14ymedio",
+     "seendate": "20261024T124214Z"
+    },
+    {
      "title": "En otra redada en el mercado de 17 y K, la Policía se lleva hasta las carretillas",
      "url": "https://www.14ymedio.com/cuba/redada-mercado-17-k-policia_1_1132344.html",
      "domain": "14ymedio",
@@ -1486,12 +1486,6 @@
      "url": "https://www.14ymedio.com/cuba/reunion-recuperar-pesca-provoca-oleada_1_1132240.html",
      "domain": "14ymedio",
      "seendate": "20261021T214324Z"
-    },
-    {
-     "title": "El Cerro, un barrio de La Habana incomunicado desde hace un mes",
-     "url": "https://www.14ymedio.com/cuba/cerro-barrio-habana-incomunicado-mes_1_1132214.html",
-     "domain": "14ymedio",
-     "seendate": "20261021T143155Z"
     }
    ]
   },
@@ -1500,6 +1494,18 @@
   },
   "COL": {
    "articles": [
+    {
+     "title": "'¡Crimen de la niña Jhady Sofía, de 10 años, en Frontino, Antioquia, no puede quedar impune!': hallan pruebas de que su muerte habría sido asesinato",
+     "url": "https://www.eltiempo.com/colombia/medellin/crimen-de-la-nina-jhady-sofia-de-10-anos-en-frontino-antioquia-no-puede-quedar-impune-hallan-pruebas-de-que-su-muerte-habria-sido-asesinato-3595999",
+     "domain": "El Tiempo",
+     "seendate": "20261024T130449Z"
+    },
+    {
+     "title": "Day Vásquez denunció que su hijo fue golpeado y robado afuera de su edificio: 'Le quitaron el celular'",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/day-vasquez-denuncio-que-su-hijo-fue-golpeado-y-robado-afuera-de-su-edificio-le-quitaron-el-celular-3595997",
+     "domain": "El Tiempo",
+     "seendate": "20261024T122758Z"
+    },
     {
      "title": "El terror se toma Barranquilla: Criaturas Fest reúne cortometrajes, arte y música este sábado en Plaza 76",
      "url": "https://www.eltiempo.com/colombia/barranquilla/el-terror-se-toma-barranquilla-criaturas-fest-reune-cortometrajes-arte-y-musica-este-sabado-en-plaza-3595995",
@@ -1537,12 +1543,6 @@
      "seendate": "20261024T015718Z"
     },
     {
-     "title": "Medellín se ubicó como la segunda ciudad del país con más casos de extorsión en los últimos 15 años: aumentaron las capturas, pero hay subregistro",
-     "url": "https://www.eltiempo.com/colombia/medellin/medellin-se-ubico-como-la-segunda-ciudad-del-pais-con-mas-casos-de-extorsion-en-los-ultimos-15-anos-aumentaron-las-capturas-pero-hay-subregistro-3595947",
-     "domain": "El Tiempo",
-     "seendate": "20261024T005544Z"
-    },
-    {
      "title": "El Valle del Cauca traza una ruta para transformar su economía y duplicar su PIB por habitante: 'De la reconstrucción por el terremoto al desarrollo'",
      "url": "https://www.eltiempo.com/colombia/cali/el-valle-del-cauca-traza-una-ruta-para-transformar-su-economia-y-duplicar-su-pib-por-habitante-de-la-reconstruccion-por-el-terremoto-al-desarrollo-3595957",
      "domain": "El Tiempo",
@@ -1553,12 +1553,6 @@
      "url": "https://www.eltiempo.com/colombia/medellin/director-del-dnp-habla-de-la-asignacion-presupuestal-para-antioquia-en-2027-habra-menos-recursos-que-pasara-con-las-grandes-obras-3595958",
      "domain": "El Tiempo",
      "seendate": "20261024T004011Z"
-    },
-    {
-     "title": "Así se vivieron momentos de tensión por el voraz incendio en la zona céntrica de locales comerciales de Cali: en el último año, más de 500 emergencias",
-     "url": "https://www.eltiempo.com/colombia/cali/asi-se-vivieron-momentos-de-tension-por-el-voraz-incendio-en-la-zona-centrica-de-locales-comerciales-de-cali-en-el-ultimo-ano-mas-de-500-emergencias-3595942",
-     "domain": "El Tiempo",
-     "seendate": "20261024T000904Z"
     }
    ]
   },
@@ -1891,18 +1885,6 @@
      "url": "https://eluniverso.com/politica/expedientes/luisa-gonzalez-nota/",
      "domain": "El Universo",
      "seendate": "20261023T215735Z"
-    },
-    {
-     "title": "Caso VaQnas: Asamblea Nacional retoma el martes el debate y votación sobre fiscalización al alcalde Pabel Muñoz",
-     "url": "https://eluniverso.com/politica/expedientes/caso-vacunas-el-martes-asamblea-debate-y-vota-sobre-el-tema-nota/",
-     "domain": "El Universo",
-     "seendate": "20261023T205037Z"
-    },
-    {
-     "title": "Proyección olímpica: Claro y el COE acuerdan respaldar al deporte ecuatoriano",
-     "url": "https://eluniverso.com/comunidad/ecuador/proyeccion-olimpica-claro-y-el-coe-acuerdan-respaldar-al-deporte-ecuatoriano-nota/",
-     "domain": "El Universo",
-     "seendate": "20261023T202713Z"
     }
    ]
   },
@@ -2620,7 +2602,7 @@
      "title": "Hay alerta naranja y amarilla por tormentas, vientos y Zonda para este sábado 24 de octubre: las provincias afectadas",
      "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-naranja-y-amarilla-por-tormentas-vientos-y-zonda-para-este-sabado-24-de-octubre-las-nid24102026/",
      "domain": "La Nación",
-     "seendate": "20261024T120117Z"
+     "seendate": "20261024T132444Z"
     },
     {
      "title": "Dólar hoy y dólar blue hoy: a cuánto cotiza este sábado 24 de octubre",
@@ -3111,6 +3093,12 @@
   "PRY": {
    "articles": [
     {
+     "title": "ANNP advierte que las inundaciones se extenderían hasta marzo de 2027",
+     "url": "https://www.abc.com.py/nacionales/2026/10/24/annp-advierte-que-las-inundaciones-se-extenderian-hasta-marzo-de-2027/",
+     "domain": "ABC Color",
+     "seendate": "20261024T131332Z"
+    },
+    {
      "title": "Municipalidad de Asunción: a una semana del cambio de Gobierno, denuncian “despedida” de “cajas paralelas”",
      "url": "https://www.abc.com.py/nacionales/2026/10/24/municipalidad-de-asuncion-a-una-semana-del-cambio-de-gobierno-denuncian-despedida-de-cajas-paralelas/",
      "domain": "ABC Color",
@@ -3136,7 +3124,37 @@
   "BRA": {
    "articles": [
     {
-     "title": "'Lula coloca Bolsonaro na defensiva': imprensa internacional destaca 'debate crucial' da TV Globo",
+     "title": "MP Eleitoral pede extinção de processo no TSE que debate abertura de sigilos de Flávio e Lula",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/24/mp-eleitoral-pede-extincao-de-processo-no-tse-que-debate-abertura-de-sigilos-de-flavio-e-lula.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T131408Z"
+    },
+    {
+     "title": "Entenda: Itaguaí terá eleição para prefeito junto com segundo turno presidencial neste domingo",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/entenda-itaguai-tera-eleicao-para-prefeito-junto-com-segundo-turno-presidencial-neste-domingo.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T125354Z"
+    },
+    {
+     "title": "Lula reúne apoiadores em caminhada na orla de Copacabana na véspera do segundo turno",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/lula-reune-apoiadores-em-caminhada-na-orla-de-copacabana-na-vespera-do-segundo-turno.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T124534Z"
+    },
+    {
+     "title": "Eleições 2026: chuva muda local de votação em escola para 3,2 mil eleitores no Paraná; veja a previsão no país",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/eleicoes-2026-chuva-muda-local-de-votacao-em-escola-para-32-mil-eleitores-no-parana-veja-a-previsao-no-pais.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T124307Z"
+    },
+    {
+     "title": "MP Eleitoral aponta ligação de Canella com a milícia e pede ao TSE para negar registro da candidatura",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/mp-eleitoral-aponta-ligacao-de-canella-com-a-milicia-e-pede-ao-tse-para-negar-registro-da-candidatura.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T123637Z"
+    },
+    {
+     "title": "Repercussão do debate da Globo: 'Lula coloca Bolsonaro na defensiva', diz imprensa internacional",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/lula-coloca-bolsonaro-na-defensiva-imprensa-internacional-destaca-debate-crucial-da-tv-globo.ghtml",
      "domain": "O Globo",
      "seendate": "20261024T122202Z"
@@ -3296,18 +3314,6 @@
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/ao-vivo/debate-na-globo-colunistas-comentam-ultimo-encontro-entre-lula-e-flavio-bolsonaro-acompanhe.ghtml",
      "domain": "O Globo",
      "seendate": "20261024T032416Z"
-    },
-    {
-     "title": "Quem ganhou o debate da Globo, Flávio Bolsonaro ou Lula? Colunistas do GLOBO dão notas e avaliam",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/quem-ganhou-o-debate-da-globo-flavio-bolsonaro-ou-lula-colunistas-do-globo-dao-notas-e-avaliam.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261024T031645Z"
-    },
-    {
-     "title": "'Ana Clara, quero falar para a senhora': Flávio chama mãe de menina morta por PM pelo nome da filha em debate da Globo",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/ana-clara-quero-falar-para-a-senhora-flavio-chama-mae-de-menina-morta-por-pm-pelo-nome-da-filha-em-debate-da-globo.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261024T030858Z"
     }
    ]
   }
