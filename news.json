@@ -1,8 +1,14 @@
 {
- "updated": "2026-10-24T20:58:18+00:00",
+ "updated": "2026-10-24T21:25:32+00:00",
  "countries": {
   "ESP": {
    "articles": [
+    {
+     "title": "El Rey, operado en Oviedo por una catarata en el ojo izquierdo",
+     "url": "https://elpais.com/espana/2026-10-24/felipe-vi-operado-de-cataratas-del-ojo-izquierdo-en-oviedo.html",
+     "domain": "El País",
+     "seendate": "20261024T212146Z"
+    },
     {
      "title": "Una protesta juvenil desencadena disturbios en el centro de Barcelona",
      "url": "https://elpais.com/espana/catalunya/2026-10-24/centenares-de-jovenes-violentos-destrozan-el-centro-de-barcelona.html",
@@ -34,14 +40,14 @@
      "seendate": "20261024T095005Z"
     },
     {
-     "title": "El Ayuntamiento planea pasar los gastos de limpieza y desperfectos a los acampados de Sol: “Que no cueste un euro a los madrileños”",
-     "url": "https://elpais.com/espana/madrid/2026-10-24/el-ayuntamiento-planea-pasar-los-gastos-de-limpieza-y-desperfectos-a-los-acampados-de-sol-que-no-cueste-un-euro-a-los-madrilenos.html",
+     "title": "Francina Armengol, presidenta del Congreso: “No hay una polarización, hay un clima de agresividad buscado”",
+     "url": "https://elpais.com/espana/2026-10-24/francina-armengol-presidenta-del-congreso-no-hay-una-polarizacion-hay-un-clima-de-agresividad-buscado.html",
      "domain": "El País",
      "seendate": "20261024T033001Z"
     },
     {
-     "title": "Francina Armengol, presidenta del Congreso: “No hay una polarización, hay un clima de agresividad buscado”",
-     "url": "https://elpais.com/espana/2026-10-24/francina-armengol-presidenta-del-congreso-no-hay-una-polarizacion-hay-un-clima-de-agresividad-buscado.html",
+     "title": "El Ayuntamiento planea pasar los gastos de limpieza y desperfectos a los acampados de Sol: “Que no cueste un euro a los madrileños”",
+     "url": "https://elpais.com/espana/madrid/2026-10-24/el-ayuntamiento-planea-pasar-los-gastos-de-limpieza-y-desperfectos-a-los-acampados-de-sol-que-no-cueste-un-euro-a-los-madrilenos.html",
      "domain": "El País",
      "seendate": "20261024T033001Z"
     },
@@ -94,12 +100,6 @@
      "seendate": "20261023T115105Z"
     },
     {
-     "title": "Un incendio sin heridos afecta a 10 coches que estaban aparcados en la calle en Leganés",
-     "url": "https://elpais.com/espana/madrid/2026-10-23/cinco-coches-calcinados-tras-un-incendio-en-un-aparcamiento-en-leganes.html",
-     "domain": "El País",
-     "seendate": "20261023T072953Z"
-    },
-    {
      "title": "Francesc Augé recibirá la eutanasia el 27 de noviembre, tras más de dos años varado en los juzgados",
      "url": "https://elpais.com/espana/catalunya/2026-10-23/francesc-auge-recibira-la-eutanasia-el-27-de-noviembre-tras-mas-de-dos-anos-varado-en-los-juzgados.html",
      "domain": "El País",
@@ -116,13 +116,31 @@
   "MEX": {
    "articles": [
     {
+     "title": "Baja percepción de inseguridad en Ecatepec, de acuerdo con encuesta del Inegi; \"vamos por buen camino\", asegura alcaldesa",
+     "url": "https://www.eluniversal.com.mx/metropoli/baja-percepcion-de-inseguridad-en-ecatepec-de-acuerdo-con-encuesta-del-inegi-vamos-por-buen-camino-asegura-alcaldesa/",
+     "domain": "El Universal",
+     "seendate": "20261024T211821Z"
+    },
+    {
+     "title": "Detienen en Hermosillo a presunto operador de \"Los Gigios\"; es requerido por EU por tráfico de fentanilo y metanfetamina",
+     "url": "https://www.eluniversal.com.mx/estados/detienen-en-hermosillo-a-presunto-operador-de-los-gigios-es-requerido-por-eu-por-trafico-de-fentanilo-y-metanfetamina/",
+     "domain": "El Universal",
+     "seendate": "20261024T211356Z"
+    },
+    {
+     "title": "Observatorio Ciudadano exige investigar a Guadalupe Taddei por corrupción; \"ningún consejero había sido señalado antes\"",
+     "url": "https://www.eluniversal.com.mx/nacion/observatorio-ciudadano-exige-investigar-a-guadalupe-taddei-por-corrupcion-ningun-consejero-habia-sido-senalado-antes/",
+     "domain": "El Universal",
+     "seendate": "20261024T211136Z"
+    },
+    {
      "title": "Hallan sin vida a interno del penal de Ahome, Sinaloa; autoridades señalan broncoaspiración como posible causa de muerte",
      "url": "https://www.eluniversal.com.mx/estados/hallan-sin-vida-a-interno-del-penal-de-ahome-sinaloa-autoridades-senalan-broncoaspiracion-como-posible-causa-de-muerte/",
      "domain": "El Universal",
      "seendate": "20261024T205225Z"
     },
     {
-     "title": "Guadalupe Taddei afirma que se queda al frente del INE; es acusada de presuntos actos de corrupción",
+     "title": "Guadalupe Taddei afirma que se queda al frente del INE; acusa “golpeteo político”",
      "url": "https://www.eluniversal.com.mx/nacion/guadalupe-taddei-afirma-que-se-queda-al-frente-del-ine-es-acusada-de-presuntos-acrtos-de-corrupcion/",
      "domain": "El Universal",
      "seendate": "20261024T204948Z"
@@ -1162,6 +1180,12 @@
   "CRI": {
    "articles": [
     {
+     "title": "MOPT anuncia nuevo plan para conexión de nueva vía a San Carlos con ruta 1: Así es como se ejecutará esa obra",
+     "url": "https://www.nacion.com/el-pais/mopt-anuncia-nuevo-plan-para-conexion-de-nueva-via/6UED2G6E45FVXFC3YFP635NHME/story/",
+     "domain": "La Nación",
+     "seendate": "20261024T210000Z"
+    },
+    {
      "title": "Accidente en ruta 27 en Turrúcares: cinco vehículos involucrados y un paciente trasladado",
      "url": "https://www.nacion.com/sucesos/accidente-en-ruta-27-en-turrucares-cinco-vehiculos/ROP4EMSRAFEOTEKVKEGATC4EBQ/story/",
      "domain": "La Nación",
@@ -1585,16 +1609,22 @@
   "COL": {
    "articles": [
     {
-     "title": "Inédito: falso retén policial terminó en el robo de $260 millones en lingotes de plata en Girón, Santander",
-     "url": "https://www.eltiempo.com/colombia/santander/inedito-falso-reten-policial-termino-en-robo-de-260-millones-en-lingotes-de-plata-en-giron-3596056",
+     "title": "Alcaldía de Santa Marta declara alerta roja por inundaciones y riesgo de crecientes súbitas en dos ríos: estas son las recomendaciones del Ideam",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/alcaldia-de-santa-marta-declara-alerta-roja-por-inundaciones-y-riesgo-de-crecientes-subitas-en-dos-rios-estas-son-las-recomendaciones-del-ideam-3596073",
      "domain": "El Tiempo",
-     "seendate": "20261024T203509Z"
+     "seendate": "20261024T205952Z"
     },
     {
      "title": "Emergencia en Cartagena por aguacero: crecen los reportes de carros arrastrados por arroyos, calles inundadas y trancones en varios sectores",
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/emergencia-en-cartagena-por-aguacero-crecen-los-reportes-de-carros-arrastrados-por-arroyos-calles-inundadas-y-trancones-en-varios-sectores-3596064",
      "domain": "El Tiempo",
-     "seendate": "20261024T203353Z"
+     "seendate": "20261024T205113Z"
+    },
+    {
+     "title": "Inédito: falso retén policial terminó en el robo de $260 millones en lingotes de plata en Girón, Santander",
+     "url": "https://www.eltiempo.com/colombia/santander/inedito-falso-reten-policial-termino-en-robo-de-260-millones-en-lingotes-de-plata-en-giron-3596056",
+     "domain": "El Tiempo",
+     "seendate": "20261024T203509Z"
     },
     {
      "title": "Lluvias en Cartagena provocan inundaciones y afectan el servicio de agua al 15 % de los usuarios por daños eléctricos en el sistema de acueducto",
@@ -1637,12 +1667,6 @@
      "url": "https://www.eltiempo.com/colombia/barranquilla/planea-casarse-en-barranquilla-conozca-escenarios-vestidos-y-servicios-disponibles-para-celebrar-bodas-y-recibir-a-familiares-y-amigos-en-la-ciudad-3596035",
      "domain": "El Tiempo",
      "seendate": "20261024T172216Z"
-    },
-    {
-     "title": "Lina Garrido arremete contra Felipe Harman por descuido de la ANT en Isla Fiesta en Cartagena: ‘Está en ruinas’",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/lina-garrido-arremete-contra-felipe-harman-por-descuido-de-la-ant-en-isla-fiesta-en-cartagena-esta-en-ruinas-3596031",
-     "domain": "El Tiempo",
-     "seendate": "20261024T171558Z"
     }
    ]
   },
@@ -1839,6 +1863,12 @@
   "ECU": {
    "articles": [
     {
+     "title": "Doménica Bajaña, secretaria de Integridad: La Fiscalía determinará a los implicados en la red de corrupción del Ministerio de Educación",
+     "url": "https://eluniverso.com/politica/ejecutivo/domenica-bajana-fiscalia-determinara-red-corrupcion-ministerio-de-educacion-nota/",
+     "domain": "El Universo",
+     "seendate": "20261024T210000Z"
+    },
+    {
      "title": "¿Terminará antes el año lectivo por las lluvias? Esto responde la ministra de Educación",
      "url": "https://eluniverso.com/comunidad/ecuador/terminara-antes-el-ano-lectivo-por-las-lluvias-esto-responde-la-ministra-de-educacion-nota/",
      "domain": "El Universo",
@@ -1971,12 +2001,6 @@
      "seendate": "20261024T013540Z"
     },
     {
-     "title": "Jóvenes en Acción: seis empresas de Azuay se suman a la cuarta fase del programa",
-     "url": "https://eluniverso.com/politica/ejecutivo/jovenes-en-accion-seis-empresas-de-azuay-se-suman-a-la-cuarta-fase-del-programa-nota/",
-     "domain": "El Universo",
-     "seendate": "20261024T002603Z"
-    },
-    {
      "title": "De una denuncia del CNE al caso Laberinto: empresa Ternape, vinculada con Aquiles Alvarez, habría financiado con dineros ilícitos la campaña presidencial de Luisa González por más de $ 700.000",
      "url": "https://eluniverso.com/politica/expedientes/de-una-denuncia-del-cne-al-caso-laberinto-empresa-ternape-vinculada-con-aquiles-alvarez-habria-financiado-con-dineros-ilicitos-la-campana-presidencial-de-luisa-gonzalez-por-mas-de-700000-nota/",
      "domain": "El Universo",
@@ -2009,12 +2033,6 @@
      "url": "https://elcomercio.pe/peru/ultimo-temblor-hoy-via-igp-reporte-el-epicentro-magnitud-y-mas-del-sismo-tdpe-noticia/",
      "domain": "El Comercio",
      "seendate": "20261024T171500Z"
-    },
-    {
-     "title": "Lote 192: Petroloreto asumirá el 75% de participación y la operación por 27 años",
-     "url": "https://elcomercio.pe/economia/peru/lote-192-petroloreto-asumira-el-75-de-participacion-y-la-operacion-por-27-anos-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261024T163929Z"
     }
    ]
   },
@@ -2731,6 +2749,24 @@
   "ARG": {
    "articles": [
     {
+     "title": "Mauricio, de 37 años, dejó su trabajo en una automotriz y se mudó al monte: “Si uno tiene herramientas y la voluntad, el trabajo siempre sale”",
+     "url": "https://www.lanacion.com.ar/sociedad/mauricio-de-37-anos-dejo-su-trabajo-en-una-automotriz-y-se-mudo-al-monte-si-uno-tiene-herramientas-y-nid24102026/",
+     "domain": "La Nación",
+     "seendate": "20261024T210200Z"
+    },
+    {
+     "title": "Un médico explicó qué es la enfermedad que se manifiesta como “un dolor generalizado y fatiga extrema”",
+     "url": "https://www.lanacion.com.ar/sociedad/un-medico-explico-que-es-la-enfermedad-que-se-manifiesta-como-un-dolor-generalizado-y-fatiga-extrema-nid24102026/",
+     "domain": "La Nación",
+     "seendate": "20261024T210000Z"
+    },
+    {
+     "title": "La oposición, una bullrichista y algunos aliados de LLA repudiaron el ataque de Milei a los periodistas por el caso $LIBRA",
+     "url": "https://www.lanacion.com.ar/politica/la-oposicion-una-bullrichista-y-algunos-aliados-de-lla-repudiaron-el-ataque-de-milei-a-los-nid24102026/",
+     "domain": "La Nación",
+     "seendate": "20261024T205706Z"
+    },
+    {
      "title": "El sindicalista absuelto tras el bloqueo en San Nicolás prepara un contragolpe y los empresarios buscan revertir el fallo",
      "url": "https://www.lanacion.com.ar/politica/el-sindicalista-absuelto-tras-el-bloqueo-en-san-nicolas-prepara-un-contragolpe-y-los-empresarios-nid24102026/",
      "domain": "La Nación",
@@ -2765,12 +2801,6 @@
      "url": "https://www.lanacion.com.ar/seguridad/los-reiterados-ataques-de-quemacoches-preocupan-a-los-vecinos-de-un-barrio-del-conurbano-nid24102026/",
      "domain": "La Nación",
      "seendate": "20261024T200611Z"
-    },
-    {
-     "title": "La oposición, una bullrichista y algunos aliados de LLA repudiaron el ataque de Milei a los periodistas por el caso $LIBRA",
-     "url": "https://www.lanacion.com.ar/politica/la-oposicion-una-bullrichista-y-algunos-aliados-de-lla-repudiaron-el-ataque-de-milei-a-los-nid24102026/",
-     "domain": "La Nación",
-     "seendate": "20261024T195740Z"
     },
     {
      "title": "De las grandes estancias a los puestos patagónicos: la fábrica de 128 años que mantiene vivo el fuego de la cocina a leña",
@@ -2837,18 +2867,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/el-comunicado-del-colegio-en-que-estudian-las-alumnas-denunciadas-por-bullying-en-catamarca-nid24102026/",
      "domain": "La Nación",
      "seendate": "20261024T140934Z"
-    },
-    {
-     "title": "Antioxidante y antiinflamatorio: el primer suplemento de producción local que aprovecha las propiedades de las hojas de olivo",
-     "url": "https://www.lanacion.com.ar/sociedad/antioxidante-y-antiinflamatorio-el-primer-suplemento-de-produccion-local-que-aprovecha-las-nid22102026/",
-     "domain": "La Nación",
-     "seendate": "20261024T134633Z"
-    },
-    {
-     "title": "Hay alerta naranja y amarilla por tormentas, vientos y Zonda para este sábado 24 de octubre: las provincias afectadas",
-     "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-naranja-y-amarilla-por-tormentas-vientos-y-zonda-para-este-sabado-24-de-octubre-las-nid24102026/",
-     "domain": "La Nación",
-     "seendate": "20261024T132444Z"
     }
    ]
   },
@@ -3292,7 +3310,7 @@
      "seendate": "20261024T191738Z"
     },
     {
-     "title": "Flávio Bolsonaro reúne apoiadores na Barra da Tijuca em último ato de campanha nas ruas",
+     "title": "Flávio Bolsonaro encerra campanha no Rio, exalta Nikolas Ferreira e volta a orar 'Pai nosso'",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/flavio-bolsonaro-reune-apoiadores-na-barra-da-tijuca-em-ultimo-ato-de-campanha-nas-ruas.ghtml",
      "domain": "O Globo",
      "seendate": "20261024T190738Z"
