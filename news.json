@@ -1,8 +1,14 @@
 {
- "updated": "2026-10-24T18:28:19+00:00",
+ "updated": "2026-10-24T19:06:14+00:00",
  "countries": {
   "ESP": {
    "articles": [
+    {
+     "title": "Una protesta juvenil desencadena disturbios en el centro de Barcelona",
+     "url": "https://elpais.com/espana/catalunya/2026-10-24/centenares-de-jovenes-violentos-destrozan-el-centro-de-barcelona.html",
+     "domain": "El País",
+     "seendate": "20261024T182014Z"
+    },
     {
      "title": "Feijóo advierte al PSOE de que no va a “indultar corruptos” si gobierna: “Me encargaré de que paguen por todo”",
      "url": "https://elpais.com/espana/2026-10-24/feijoo-advierte-al-psoe-de-que-no-va-a-indultar-corruptos-si-gobierna-me-encargare-de-que-paguen-por-todo.html",
@@ -36,12 +42,6 @@
     {
      "title": "El Ayuntamiento planea pasar los gastos de limpieza y desperfectos a los acampados de Sol: “Que no cueste un euro a los madrileños”",
      "url": "https://elpais.com/espana/madrid/2026-10-24/el-ayuntamiento-planea-pasar-los-gastos-de-limpieza-y-desperfectos-a-los-acampados-de-sol-que-no-cueste-un-euro-a-los-madrilenos.html",
-     "domain": "El País",
-     "seendate": "20261024T033001Z"
-    },
-    {
-     "title": "Cinco días frenéticos en los consulados para cumplir el ultimátum del Supremo: “Es como reparar un avión en pleno vuelo”",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-10-24/cinco-dias-freneticos-en-los-consulados-para-cumplir-el-ultimatum-del-supremo-es-como-reparar-un-avion-en-pleno-vuelo.html",
      "domain": "El País",
      "seendate": "20261024T033001Z"
     },
@@ -121,6 +121,24 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "UNAM resguarda mil 800 formas de vida en Reserva del Pedregal; destaca combinación única de especies",
+     "url": "https://www.eluniversal.com.mx/nacion/unam-resguarda-mil-800-formas-de-vida-en-reserva-del-pedregal-destaca-combinacion-unica-de-especies/",
+     "domain": "El Universal",
+     "seendate": "20261024T184701Z"
+    },
+    {
+     "title": "Senado \"congela\" exhortos para buscar solución a crisis del IMSS Bienestar; PAN, PRI y MC piden medicamentos e insumos",
+     "url": "https://www.eluniversal.com.mx/nacion/senado-congela-exhortos-para-buscar-solucion-a-crisis-del-imss-bienestar-pan-pri-y-mc-piden-medicamentos-e-insumos/",
+     "domain": "El Universal",
+     "seendate": "20261024T184241Z"
+    },
+    {
+     "title": "Metro obtiene su primer Récord Guinness; mural holográfico en la estación Auditorio fue reconocido como el más grande del mundo",
+     "url": "https://www.eluniversal.com.mx/metropoli/metro-obtiene-su-primer-record-guinness-mural-holografico-en-la-estacion-auditorio-fue-reconocido-como-el-mas-grande-del-mundo/",
+     "domain": "El Universal",
+     "seendate": "20261024T183449Z"
+    },
     {
      "title": "Benito Juárez refuerza seguridad con reuniones vecinales en sus 56 colonias; busca mantener cercanía con la ciudadanía",
      "url": "https://www.eluniversal.com.mx/metropoli/benito-juarez-refuerza-seguridad-con-reuniones-vecinales-en-sus-56-colonias-busca-mantener-cercania-con-la-ciudadania/",
@@ -1126,6 +1144,12 @@
   "CRI": {
    "articles": [
     {
+     "title": "Hallan a hombre de 45 años asesinado a balazos en la entrada de finca bananera en Limón",
+     "url": "https://www.nacion.com/sucesos/hallan-a-hombre-de-45-anos-asesinado-a-balazos-en/IWXJMTH6NZGKRE4RGKJNWTUNPU/story/",
+     "domain": "La Nación",
+     "seendate": "20261024T182414Z"
+    },
+    {
      "title": "Asesinan a joven de 20 años en Guanacaste; sospechoso se entrega a la Policía",
      "url": "https://www.nacion.com/sucesos/asesinan-a-joven-de-20-anos-en-guanacaste/RCFF6BN5NFD3XPBRFPWLFV5ITQ/story/",
      "domain": "La Nación",
@@ -1279,6 +1303,12 @@
   },
   "PAN": {
    "articles": [
+    {
+     "title": "La primera vivienda construida tras el terremoto: 14 días de obra en Soná",
+     "url": "https://www.prensa.com/sociedad/la-primera-vivienda-construida-tras-el-terremoto-14-dias-de-obra-en-sona/",
+     "domain": "La Prensa",
+     "seendate": "20261024T182409Z"
+    },
     {
      "title": "Azuero: ¿qué decían los índices de pobreza antes del terremoto?",
      "url": "https://www.prensa.com/sociedad/azuero-que-decian-los-indices-de-pobreza-antes-del-terremoto/",
@@ -1537,10 +1567,16 @@
   "COL": {
    "articles": [
     {
-     "title": "¿Quién era la policía María José Recuero, la patrullera que luchó por su vida, tras desafiar las balas y mostrar heroísmo ante una banda en Cali?",
+     "title": "¿Quién era la policía María José Recuero, la patrullera que murió tras desafiar las balas y mostrar heroísmo ante una banda en el centro de Cali?",
      "url": "https://www.eltiempo.com/colombia/cali/quien-es-la-policia-maria-jose-recuero-la-patrullera-que-da-su-batalla-mas-dificil-desafio-las-balas-y-mostro-heroismo-ante-una-banda-en-cali-3596032",
      "domain": "El Tiempo",
-     "seendate": "20261024T182158Z"
+     "seendate": "20261024T183256Z"
+    },
+    {
+     "title": "Video | Rescatan a conductor en Cartagena quien fue arrastrado por la corriente en el barrio San Fernando tras fuertes lluvias",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/video-rescatan-a-conductor-en-cartagena-quien-fue-arrastrado-por-la-corriente-en-el-barrio-san-fernando-tras-fuertes-lluvias-3596048",
+     "domain": "El Tiempo",
+     "seendate": "20261024T182432Z"
     },
     {
      "title": "Lluvias inundan calles de Cartagena y Montería: reportan vehículos atrapados y aplazan inauguración del Gran Malecón del Mar prevista para este sábado",
@@ -1589,12 +1625,6 @@
      "url": "https://www.eltiempo.com/colombia/medellin/el-gobernador-de-antioquia-ofrece-hasta-100-millones-de-pesos-de-recompensa-para-capturar-al-asesino-de-la-nina-jhady-sofia-en-frontino-3596008",
      "domain": "El Tiempo",
      "seendate": "20261024T142843Z"
-    },
-    {
-     "title": "La historia de la trágica muerte de la niña Jhady Sofía, en Frontino, Antioquia, que ahora es investigada como asesinato: 'Soñaba con ser profesora'",
-     "url": "https://www.eltiempo.com/colombia/medellin/la-historia-de-la-tragica-muerte-de-la-nina-jhady-sofia-en-frontino-antioquia-que-ahora-es-investigada-como-asesinato-sonaba-con-ser-profesora-3596003",
-     "domain": "El Tiempo",
-     "seendate": "20261024T135751Z"
     }
    ]
   },
@@ -1785,6 +1815,12 @@
   "ECU": {
    "articles": [
     {
+     "title": "Familia de los siameses José Luis y José Armando Cevallos pide intimidad para velorio y sepelio en Milagro",
+     "url": "https://eluniverso.com/comunidad/ecuador/familia-de-los-siameses-jose-luis-y-jose-armando-pide-intimidad-para-velorio-y-sepelio-en-milagro-nota/",
+     "domain": "El Universo",
+     "seendate": "20261024T184404Z"
+    },
+    {
      "title": "Equipo del Centro de Adolescentes Infractores logra el tercer lugar en el Campeonato Intercontinental de Ajedrez",
      "url": "https://eluniverso.com/comunidad/ecuador/ecuador-logra-tercer-lugar-en-torneo-intercontinental-de-ajedrez-2026-nota/",
      "domain": "El Universo",
@@ -1891,6 +1927,18 @@
   "PER": {
    "articles": [
     {
+     "title": "Lambayeque: Desagües colapsan por tercer día consecutivo en urbanización de Chiclayo",
+     "url": "https://elcomercio.pe/peru/lambayeque/lambayeque-desagues-colapsan-por-tercer-dia-consecutivo-en-urbanizacion-de-chiclayo-fenomeno-el-nino-ultimas-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261024T185246Z"
+    },
+    {
+     "title": "Lluvias en Perú EN VIVO hoy: Senamhi advierte precipitaciones extremas por El Niño extraordinario",
+     "url": "https://elcomercio.pe/peru/lluvias-en-peru-en-vivo-ultimas-noticias-de-las-precipitaciones-en-piura-tumbes-y-trujillo-estado-de-emergencia-en-el-norte-senamhi-indeci-lloviznas-fenomeno-el-nino-lbposting-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261024T182627Z"
+    },
+    {
      "title": "Último temblor hoy, 24 de octubre: IGP reporta sismos en Perú, lugar y magnitud",
      "url": "https://elcomercio.pe/peru/ultimo-temblor-hoy-via-igp-reporte-el-epicentro-magnitud-y-mas-del-sismo-tdpe-noticia/",
      "domain": "El Comercio",
@@ -1901,18 +1949,6 @@
      "url": "https://elcomercio.pe/economia/peru/lote-192-petroloreto-asumira-el-75-de-participacion-y-la-operacion-por-27-anos-noticia/",
      "domain": "El Comercio",
      "seendate": "20261024T163929Z"
-    },
-    {
-     "title": "Lluvias en Perú EN VIVO hoy: Senamhi advierte precipitaciones extremas por El Niño extraordinario",
-     "url": "https://elcomercio.pe/peru/lluvias-en-peru-en-vivo-ultimas-noticias-de-las-precipitaciones-en-piura-tumbes-y-trujillo-estado-de-emergencia-en-el-norte-senamhi-indeci-lloviznas-fenomeno-el-nino-lbposting-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261024T162022Z"
-    },
-    {
-     "title": "Elmer Cuba, ministro de Economía: “Mientras estemos en el ministerio no plantearemos cambiar ninguna tasa de impuestos, IGV o impuesto a la renta”",
-     "url": "https://elcomercio.pe/economia/peru/elmer-cuba-ministro-de-economia-mientras-estemos-en-el-ministerio-no-plantearemos-cambiar-ninguna-tasa-de-impuestos-igv-o-impuesto-a-la-renta-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261024T150500Z"
     }
    ]
   },
@@ -2629,6 +2665,24 @@
   "ARG": {
    "articles": [
     {
+     "title": "Reclamos en Mendoza: otro trastorno que el Súper Niño sacó a la luz y las autoridades admiten problemas para solucionar",
+     "url": "https://www.lanacion.com.ar/sociedad/reclamos-en-mendoza-otro-trastorno-que-el-super-nino-saco-a-la-luz-y-las-autoridades-admiten-nid24102026/",
+     "domain": "La Nación",
+     "seendate": "20261024T183914Z"
+    },
+    {
+     "title": "De las grandes estancias a los puestos patagónicos: la fábrica de 128 años que mantiene vivo el fuego de la cocina a leña",
+     "url": "https://www.lanacion.com.ar/economia/campo/de-las-grandes-estancias-a-los-puestos-patagonicos-la-fabrica-de-128-anos-que-mantiene-vivo-el-fuego-nid24102026/",
+     "domain": "La Nación",
+     "seendate": "20261024T183435Z"
+    },
+    {
+     "title": "Introducido por un escocés y discutido en sus comienzos, el alambrado marcó un antes y un después en el campo argentino",
+     "url": "https://www.lanacion.com.ar/economia/campo/introducido-por-un-escoces-y-discutido-en-sus-comienzos-el-alambrado-marco-un-antes-y-un-despues-en-nid24102026/",
+     "domain": "La Nación",
+     "seendate": "20261024T183411Z"
+    },
+    {
      "title": "Los Cedears más comprados por los argentinos: apuestas en inteligencia artificial, Brasil y Bitcoin",
      "url": "https://www.lanacion.com.ar/economia/los-cedears-mas-comprados-por-los-argentinos-apuestas-en-inteligencia-artificial-brasil-y-bitcoin-nid24102026/",
      "domain": "La Nación",
@@ -2663,18 +2717,6 @@
      "url": "https://www.lanacion.com.ar/economia/campo/queria-ser-el-unicornio-del-agro-llego-a-valer-mas-de-us1000-millones-y-ahora-aprobaron-su-nid24102026/",
      "domain": "La Nación",
      "seendate": "20261024T160935Z"
-    },
-    {
-     "title": "De las grandes estancias a los puestos patagónicos: la fábrica de 128 años que mantiene vivo el fuego de la cocina a leña",
-     "url": "https://www.lanacion.com.ar/economia/campo/de-las-grandes-estancias-a-los-puestos-patagonicos-la-fabrica-de-128-anos-que-mantiene-vivo-el-fuego-nid24102026/",
-     "domain": "La Nación",
-     "seendate": "20261024T160838Z"
-    },
-    {
-     "title": "Introducido por un escocés y discutido en sus comienzos, el alambrado marcó un antes y un después en el campo argentino",
-     "url": "https://www.lanacion.com.ar/economia/campo/introducido-por-un-escoces-y-discutido-en-sus-comienzos-el-alambrado-marco-un-antes-y-un-despues-en-nid24102026/",
-     "domain": "La Nación",
-     "seendate": "20261024T160813Z"
     },
     {
      "title": "León XIV en la Argentina: cómo se prepara la familia agustiniana para recibirlo, qué regalo le harán y un lema para el futuro",
@@ -2723,41 +2765,17 @@
      "url": "https://www.lanacion.com.ar/seguridad/confirmaron-la-condena-para-el-narco-que-controlaba-junto-con-su-hermano-una-extensa-zona-del-bajo-nid24102026/",
      "domain": "La Nación",
      "seendate": "20261024T105800Z"
-    },
-    {
-     "title": "Avanza la cosecha estadounidense y achata los precios del maíz y de la soja",
-     "url": "https://www.lanacion.com.ar/economia/campo/avanza-la-cosecha-estadounidense-y-achata-los-precios-del-maiz-y-de-la-soja-nid24102026/",
-     "domain": "La Nación",
-     "seendate": "20261024T100104Z"
-    },
-    {
-     "title": "Cambio de hábitos: creció un 6% la demanda de pastas y las familias eligen las variedades más económicas",
-     "url": "https://www.lanacion.com.ar/economia/campo/cambio-de-habitos-crecio-un-6-la-demanda-de-pastas-y-las-familias-eligen-las-variedades-mas-nid23102026/",
-     "domain": "La Nación",
-     "seendate": "20261024T095655Z"
-    },
-    {
-     "title": "El costo de delegar el cerebro",
-     "url": "https://www.lanacion.com.ar/economia/ventrilocuos-de-la-maquina-el-costo-de-delegar-el-cerebro-nid24102026/",
-     "domain": "La Nación",
-     "seendate": "20261024T094900Z"
-    },
-    {
-     "title": "Creadores en busca de su propio rating",
-     "url": "https://www.lanacion.com.ar/economia/negocios/creadores-en-busca-de-rating-nid24102026/",
-     "domain": "La Nación",
-     "seendate": "20261024T093900Z"
-    },
-    {
-     "title": "La paradoja que vive la hotelería argentina",
-     "url": "https://www.lanacion.com.ar/economia/negocios/la-paradoja-que-vive-la-hoteleria-argentina-nid24102026/",
-     "domain": "La Nación",
-     "seendate": "20261024T093600Z"
     }
    ]
   },
   "URY": {
    "articles": [
+    {
+     "title": "Tarjetas de crédito y deudas impagables : advierten por contratos abusivos y falta de controles",
+     "url": "https://www.elpais.com.uy/negocios/noticias/tarjetas-de-credito-y-deudas-impagables-advierten-por-contratos-abusivos-y-falta-de-controles",
+     "domain": "elpais.com.uy",
+     "seendate": "20261024T180000Z"
+    },
     {
      "title": "Lubetkin descartó que una victoria de Flávio Bolsonaro afecte al Mercosur : No creo sinceramente que afecte para nada",
      "url": "https://www.elobservador.com.uy/nacional/lubetkin-descarto-que-una-victoria-flavio-bolsonaro-afecte-al-mercosur-no-creo-sinceramente-que-afecte-nada-n6061459",
@@ -3105,17 +3123,23 @@
      "url": "https://elacontecer.com.uy/sociedad/resonancias-mamarias-gratuitas-cudim-requisitos-solicitud/",
      "domain": "elacontecer.com.uy",
      "seendate": "20261022T191500Z"
-    },
-    {
-     "title": "Procesaron al exdiputado libertario José Luis Espert por lavado de dinero y le prohibieron salir de Argentina",
-     "url": "https://www.elpais.com.uy/mundo/argentina/procesaron-al-exdiputado-libertario-jose-luis-espert-por-lavado-de-dinero-y-le-prohibieron-salir-de-argentina",
-     "domain": "elpais.com.uy",
-     "seendate": "20261022T191500Z"
     }
    ]
   },
   "PRY": {
    "articles": [
+    {
+     "title": "Vecinos del barrio Fátima de San Lorenzo se organizan en comisión de seguridad",
+     "url": "https://www.abc.com.py/nacionales/2026/10/24/vecinos-del-barrio-fatima-de-san-lorenzo-se-organizan-en-comision-de-seguridad/",
+     "domain": "ABC Color",
+     "seendate": "20261024T190252Z"
+    },
+    {
+     "title": "El río Jejuí desborda y el repunte del río Paraguay se torna cada vez más preocupante en San Pedro",
+     "url": "https://www.abc.com.py/nacionales/2026/10/24/el-rio-jejui-desborda-y-el-repunte-del-rio-paraguay-se-torna-cada-vez-mas-preocupante-en-san-pedro/",
+     "domain": "ABC Color",
+     "seendate": "20261024T185847Z"
+    },
     {
      "title": "Crecida del río Paraná: ¿Cuál es la zona que más preocupa al ministro de Defensa?",
      "url": "https://www.abc.com.py/nacionales/2026/10/24/crecida-del-rio-parana-cual-es-la-zona-que-mas-preocupa-al-ministro-de-defensa/",
@@ -3139,12 +3163,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/24/informe-medico-sobre-ramon-gonzalez-daher-es-grave-su-estado-de-salud/",
      "domain": "ABC Color",
      "seendate": "20261024T154604Z"
-    },
-    {
-     "title": "‘Coco’ Martí, el ‘tapabaches’ de Concepción",
-     "url": "https://www.abc.com.py/nacionales/2026/10/24/coco-marti-el-tapabaches-de-concepcion/",
-     "domain": "ABC Color",
-     "seendate": "20261024T140610Z"
     }
    ]
   },
@@ -3153,6 +3171,18 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "Quem é o idoso que viralizou ao ficar sentado durante redemoinho de areia no Piauí",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/24/quem-e-o-idoso-que-viralizou-ao-ficar-sentado-durante-redemoinho-de-areia-no-piaui.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T184524Z"
+    },
+    {
+     "title": "TSE manda Meta e X monitorarem publicações de Nikolas e Marçal a cada seis horas até o segundo turno",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/tse-manda-meta-e-x-monitorarem-publicacoes-de-nikolas-e-marcal-a-cada-seis-horas-ate-o-segundo-turno.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T182736Z"
+    },
     {
      "title": "Mãe de Ana Clara participa de ato de Lula em Copacabana após embate com Flávio Bolsonaro em debate",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/mae-de-ana-clara-participa-de-ato-de-lula-em-copacabana-apos-embate-com-flavio-bolsonaro-em-debate.ghtml",
