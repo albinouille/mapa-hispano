@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T19:54:34+00:00",
+ "updated": "2026-10-24T20:23:27+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -121,6 +121,18 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "PRI presiona por renuncia de Taddei al INE; Alito Moreno pide investigar irregularidades",
+     "url": "https://www.eluniversal.com.mx/nacion/pri-presiona-por-renuncia-de-taddei-al-ine-alito-moreno-pide-investigar-irregularidades/",
+     "domain": "El Universal",
+     "seendate": "20261024T200254Z"
+    },
+    {
+     "title": "Inauguran Exposición Bienal Internacional de Caricatura en Centro Cultural Universitario Tlatelolco; participan 200 moneros",
+     "url": "https://www.eluniversal.com.mx/nacion/inauguran-exposicion-bienal-internacional-de-caricatura-en-centro-cultural-universitario-tlatelolco-participan-200-moneros/",
+     "domain": "El Universal",
+     "seendate": "20261024T195230Z"
+    },
     {
      "title": "\"No queremos corrupción en la 4T\", dice Sheinbaum desde Michoacán; reacciona a supuesta salida de Taddei del INE",
      "url": "https://www.eluniversal.com.mx/nacion/no-queremos-corrupcion-en-la-4t-dice-sheinbaum-desde-michoacan-reacciona-a-supuesta-salida-de-taddei-del-ine/",
@@ -300,24 +312,6 @@
      "url": "https://www.eluniversal.com.mx/metropoli/dia-de-muertos-cinco-opciones-para-disfrutar-la-temporada/",
      "domain": "El Universal",
      "seendate": "20261024T084839Z"
-    },
-    {
-     "title": "Mercado de Jamaica: todo para la ofrenda",
-     "url": "https://www.eluniversal.com.mx/metropoli/mercado-de-jamaica-todo-para-la-ofrenda/",
-     "domain": "El Universal",
-     "seendate": "20261024T084017Z"
-    },
-    {
-     "title": "Publican lineamientos para verificar establecimientos",
-     "url": "https://www.eluniversal.com.mx/metropoli/publican-lineamientos-para-verificar-establecimientos/",
-     "domain": "El Universal",
-     "seendate": "20261024T082916Z"
-    },
-    {
-     "title": "Siguen ambulantes, pese a reordenamiento",
-     "url": "https://www.eluniversal.com.mx/metropoli/siguen-ambulantes-pese-a-reordenamiento/",
-     "domain": "El Universal",
-     "seendate": "20261024T081927Z"
     },
     {
      "title": "Hijo de Guadalupe Taddei es captado en París con contratista del INE, revela Latinus; empresario ha recibido 245 mdp en contratos",
@@ -1454,12 +1448,6 @@
      "seendate": "20261022T233035Z"
     },
     {
-     "title": "La SIP analiza los desafíos y los cambios en la industria informativa",
-     "url": "https://www.prensa.com/politica/la-sip-analiza-los-desafios-y-los-cambios-en-la-industria-informativa/",
-     "domain": "La Prensa",
-     "seendate": "20261022T222748Z"
-    },
-    {
      "title": "Jubilados: diputados aprueban en primer debate proyecto de aumentos de descuentos",
      "url": "https://www.prensa.com/sociedad/jubilados-diputados-aprueban-en-primer-debate-proyecto-de-aumentos-de-descuentos/",
      "domain": "La Prensa",
@@ -1597,6 +1585,12 @@
   "COL": {
    "articles": [
     {
+     "title": "Emergencia en Cartagena por aguacero: crecen los reportes de carros arrastrados por arroyos, calles inundadas y trancones en varios sectores",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/emergencia-en-cartagena-por-aguacero-crecen-los-reportes-de-carros-arrastrados-por-arroyos-calles-inundadas-y-trancones-en-varios-sectores-3596064",
+     "domain": "El Tiempo",
+     "seendate": "20261024T201815Z"
+    },
+    {
      "title": "Inédito: falso reten policial terminó en robo de $260 millones en lingotes de plata en Girón",
      "url": "https://www.eltiempo.com/colombia/santander/inedito-falso-reten-policial-termino-en-robo-de-260-millones-en-lingotes-de-plata-en-giron-3596056",
      "domain": "El Tiempo",
@@ -1649,17 +1643,53 @@
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/la-gobernadora-margarita-guerra-marca-distancia-con-fuerza-ciudadana-reporta-52-200-millones-para-seguridad-en-el-departamento-del-magdalena-3596028",
      "domain": "El Tiempo",
      "seendate": "20261024T163821Z"
-    },
-    {
-     "title": "Tres policías heridos en balacera tras frustrar el robo de una banda a otro uniformado en el centro de Cali: una patrullera se encuentra grave en UCI",
-     "url": "https://www.eltiempo.com/colombia/cali/tres-policias-heridos-en-balacera-tras-frustrar-el-robo-de-una-banda-a-otro-uniformado-en-el-centro-de-cali-una-patrullera-se-encuentra-grave-en-uci-3596016",
-     "domain": "El Tiempo",
-     "seendate": "20261024T161620Z"
     }
    ]
   },
   "VEN": {
    "articles": [
+    {
+     "title": "TSJ vulnera principios constitucionales de asociación y participación política",
+     "url": "https://larazon.net/2026/10/tsj-vulnera-principios-constitucionales-de-asociacion-y-participacion-politica/",
+     "domain": "larazon.net",
+     "seendate": "20261024T191500Z"
+    },
+    {
+     "title": ".: El Sol de Margarita :.",
+     "url": "https://elsoldemargarita.com.ve/posts/post/id:259083/Abierta-convocatoria-para-participar-en-la-segunda-Muestra-de-Pesebres-_La-Esencia-de-la-fe_",
+     "domain": "elsoldemargarita.com.ve",
+     "seendate": "20261024T171500Z"
+    },
+    {
+     "title": "Presidenta Delcy Rodríguez reitera llamado a la preservación de la fauna silvestre y el medio ambiente",
+     "url": "https://www.globovision.com/sociedad/63597/presidenta-delcy-rodriguez-reitera-llamado-a-la-preservacion-de-las-especies-autoctonas-y-el-medio",
+     "domain": "globovision.com",
+     "seendate": "20261024T171500Z"
+    },
+    {
+     "title": "Inicio | Periódico CiudadCCS",
+     "url": "https://www.ciudadccs.info/publicacion/52496-bautizan-libro-sobre-pensamiento-cientifico-de-jose-gregorio-hernandez",
+     "domain": "ciudadccs.info",
+     "seendate": "20261024T171500Z"
+    },
+    {
+     "title": "Fundaprocura celebra una nueva edición de",
+     "url": "https://www.globovision.com/sociedad/63595/fundaprocura-celebra-una-nueva-edicion-de-el-bazar-de-los-bazares-en-el-caracas-country-club",
+     "domain": "globovision.com",
+     "seendate": "20261024T171500Z"
+    },
+    {
+     "title": "Protesta juvenil - Últimas Noticias",
+     "url": "https://ultimasnoticias.com.ve/pare-de-sufrir/protesta-juvenil-2/",
+     "domain": "ultimasnoticias.com.ve",
+     "seendate": "20261024T161500Z"
+    },
+    {
+     "title": "Arrancó desde el estado Sucre el plan nacional del Cacao",
+     "url": "https://ultimasnoticias.com.ve/actualidad/arranco-desde-el-estado-sucre-el-plan-nacional-del-cacao/",
+     "domain": "ultimasnoticias.com.ve",
+     "seendate": "20261024T161500Z"
+    },
     {
      "title": "Ÿš˜Autofest 2026 enciende motores ðŸ ›» en Caracas con facilidades de crédito ðŸ ˆy nuevos lanzamientosðŸš™",
      "url": "https://ultimasnoticias.com.ve/zoom/%F0%9F%9A%98autofest-2026-enciende-motores-%F0%9F%9B%BBen-caracas-con-facilidades-de-credito-%F0%9F%93%88y-nuevos-lanzamientos%F0%9F%9A%99/",
@@ -1697,24 +1727,6 @@
      "seendate": "20261024T161500Z"
     },
     {
-     "title": "Protesta juvenil - Últimas Noticias",
-     "url": "https://ultimasnoticias.com.ve/pare-de-sufrir/protesta-juvenil-2/",
-     "domain": "ultimasnoticias.com.ve",
-     "seendate": "20261024T161500Z"
-    },
-    {
-     "title": "Arrancó desde el estado Sucre el plan nacional del Cacao",
-     "url": "https://ultimasnoticias.com.ve/actualidad/arranco-desde-el-estado-sucre-el-plan-nacional-del-cacao/",
-     "domain": "ultimasnoticias.com.ve",
-     "seendate": "20261024T161500Z"
-    },
-    {
-     "title": "Inicio | Periódico CiudadCCS",
-     "url": "http://www.ciudadccs.info/publicacion/52510-inauguran-iv-juegos-deportivos-nacionales-comunales-lara-2026",
-     "domain": "ciudadccs.info",
-     "seendate": "20261024T160000Z"
-    },
-    {
      "title": "GE Vernova advierte que mejorar el servicio eléctrico podría requerir entre ocho meses y un año",
      "url": "https://www.descifrado.com/2026/10/24/ge-vernova-advierte-que-mejorar-el-servicio-electrico-podria-requerir-entre-ocho-meses-y-un-ano/",
      "domain": "descifrado.com",
@@ -1745,6 +1757,12 @@
      "seendate": "20261024T151500Z"
     },
     {
+     "title": "Minpesca lidera encuentros con pescadores y procesadores de cangrejo azul en Zulia – Correo del Orinoco | La Artillería del Pensamiento",
+     "url": "http://www.correodelorinoco.gob.ve/minpesca-lidera-encuentros-con-pescadores-y-procesadores-de-cangrejo-azul-en-zulia/",
+     "domain": "correodelorinoco.gob.ve",
+     "seendate": "20261024T150000Z"
+    },
+    {
      "title": "Avanzan acciones de protección ambiental para conservación territorial en el país – Correo del Orinoco | La Artillería del Pensamiento",
      "url": "http://www.correodelorinoco.gob.ve/avanzan-acciones-de-proteccion-ambiental-para-conservacion-territorial-en-el-pais/",
      "domain": "correodelorinoco.gob.ve",
@@ -1754,12 +1772,6 @@
      "title": "Márquez rechazó que algunos quieran cambiar la ruta de EE . UU .: Eso no es posible",
      "url": "https://noticierodigital.com/2026/10/marquez-rechazo-que-algunos-quieran-cambiar-la-ruta-de-ee-uu-eso-no-es-posible/",
      "domain": "noticierodigital.com",
-     "seendate": "20261024T150000Z"
-    },
-    {
-     "title": "Minpesca lidera encuentros con pescadores y procesadores de cangrejo azul en Zulia – Correo del Orinoco | La Artillería del Pensamiento",
-     "url": "http://www.correodelorinoco.gob.ve/minpesca-lidera-encuentros-con-pescadores-y-procesadores-de-cangrejo-azul-en-zulia/",
-     "domain": "correodelorinoco.gob.ve",
      "seendate": "20261024T150000Z"
     },
     {
@@ -1821,29 +1833,23 @@
      "url": "https://confirmado.com.ve/grisanti-mercado-p2p-de-binance-mueve-en-venezuela-el-equivalente-al-83-de-las-ventas-del-bcv/",
      "domain": "confirmado.com.ve",
      "seendate": "20261024T121500Z"
-    },
-    {
-     "title": "El veterinario , gran baluarte del purasangre",
-     "url": "https://www.liderendeportes.com/hipismo/el-veterinario-gran-baluarte-del-purasangre/",
-     "domain": "liderendeportes.com",
-     "seendate": "20261024T113000Z"
-    },
-    {
-     "title": "24Oct : Día Mundial contra el polio",
-     "url": "https://www.informe21.com/post/24oct-d%C3%ADa-mundial-contra-el-polio",
-     "domain": "informe21.com",
-     "seendate": "20261024T101500Z"
-    },
-    {
-     "title": "La profecía del poeta",
-     "url": "https://www.informe21.com/post/la-profec%C3%ADa-del-poeta",
-     "domain": "informe21.com",
-     "seendate": "20261024T101500Z"
     }
    ]
   },
   "ECU": {
    "articles": [
+    {
+     "title": "El Rosado abrió shopping en Chone y alista inauguración de otro centro comercial en Manta",
+     "url": "https://eluniverso.com/comunidad/ecuador/el-rosado-abre-en-chone-y-prepara-un-mall-en-manta-nota/",
+     "domain": "El Universo",
+     "seendate": "20261024T200919Z"
+    },
+    {
+     "title": "Elecciones seccionales: CNE aprobó la determinación del fondo de promoción electoral",
+     "url": "https://eluniverso.com/politica/elecciones/elecciones-seccionales-cne-aprobo-determinacion-fondo-promocion-electoral-nota/",
+     "domain": "El Universo",
+     "seendate": "20261024T195510Z"
+    },
     {
      "title": "Transferencias y cheques al portador: las dos vías que Fiscalía investiga en el caso Laberinto por financiamiento irregular a campaña de Luisa González",
      "url": "https://eluniverso.com/politica/expedientes/transferencias-y-cheques-al-portador-las-dos-vias-que-fiscalia-investiga-en-el-caso-laberinto-por-financiamiento-irregular-a-campana-de-luisa-gonzalez-nota/",
@@ -1972,7 +1978,7 @@
      "title": "Lluvias en Perú EN VIVO hoy: Senamhi advierte precipitaciones extremas por El Niño extraordinario",
      "url": "https://elcomercio.pe/peru/lluvias-en-peru-en-vivo-ultimas-noticias-de-las-precipitaciones-en-piura-tumbes-y-trujillo-estado-de-emergencia-en-el-norte-senamhi-indeci-lloviznas-fenomeno-el-nino-lbposting-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261024T193758Z"
+     "seendate": "20261024T201049Z"
     },
     {
      "title": "Ministro Guillermo Shinno Huamaní inaugura Central Solar Expansión Intipampa en Moquegua",
@@ -2713,10 +2719,22 @@
   "ARG": {
    "articles": [
     {
-     "title": "Reclamos en Mendoza: otro trastorno que el Súper Niño sacó a la luz y las autoridades admiten problemas para solucionar",
+     "title": "Quejas en Mendoza: otro trastorno que el Súper Niño sacó a la luz y que las autoridades admiten es difícil de solucionar",
      "url": "https://www.lanacion.com.ar/sociedad/reclamos-en-mendoza-otro-trastorno-que-el-super-nino-saco-a-la-luz-y-las-autoridades-admiten-nid24102026/",
      "domain": "La Nación",
-     "seendate": "20261024T190933Z"
+     "seendate": "20261024T200700Z"
+    },
+    {
+     "title": "Los reiterados ataques de quemacoches preocupan a los vecinos de un barrio del conurbano",
+     "url": "https://www.lanacion.com.ar/seguridad/los-reiterados-ataques-de-quemacoches-preocupan-a-los-vecinos-de-un-barrio-del-conurbano-nid24102026/",
+     "domain": "La Nación",
+     "seendate": "20261024T200611Z"
+    },
+    {
+     "title": "La oposición, una bullrichista y algunos aliados de LLA repudiaron el ataque de Milei a los periodistas por el caso $LIBRA",
+     "url": "https://www.lanacion.com.ar/politica/la-oposicion-una-bullrichista-y-algunos-aliados-de-lla-repudiaron-el-ataque-de-milei-a-los-nid24102026/",
+     "domain": "La Nación",
+     "seendate": "20261024T195740Z"
     },
     {
      "title": "De las grandes estancias a los puestos patagónicos: la fábrica de 128 años que mantiene vivo el fuego de la cocina a leña",
@@ -3225,6 +3243,24 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "Eleições: 2º turno começa no exterior, e brasileiros já vão às urnas na Nova Zelândia",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/eleicoes-2o-turno-comeca-no-exterior-e-brasileiros-ja-vao-as-urnas-na-nova-zelandia.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T195314Z"
+    },
+    {
+     "title": "Lula encerra campanha com ato na Paulista, diz que Brasil quer 'mudança estrutural' e associa Flávio ao 'retrocesso'",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/lula-encerra-campanha-com-ato-na-paulista-diz-que-brasil-quer-mudanca-estrutural-e-associa-flavio-ao-retrocesso.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T195042Z"
+    },
+    {
+     "title": "MP Eleitoral se manifesta contra suspensão do canal 'Exército do Lula' e diz que mobilização de apoiadores é legítima",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/mp-eleitoral-se-manifesta-contra-suspensao-do-canal-exercito-do-lula-e-diz-que-mobilizacao-de-apoiadores-e-legitima.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T194819Z"
+    },
     {
      "title": "'Nove dedos', segurança pública e caso Ana Clara: pesquisas revelam altos e baixos de Lula e Flávio Bolsonaro no debate da Globo",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/nove-dedos-seguranca-publica-e-caso-ana-clara-pesquisas-revelam-altos-e-baixos-de-lula-e-flavio-bolsonaro-no-debate-da-globo.ghtml",
