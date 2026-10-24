@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T15:31:03+00:00",
+ "updated": "2026-10-24T16:01:44+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -94,12 +94,6 @@
      "seendate": "20261023T160700Z"
     },
     {
-     "title": "Vox exige al PP tener grupo propio en el Senado y protagonismo en Cataluña",
-     "url": "https://elpais.com/espana/2026-10-23/vox-exige-al-pp-tener-grupo-propio-en-el-senado-y-protagonismo-en-cataluna.html",
-     "domain": "El País",
-     "seendate": "20261023T131814Z"
-    },
-    {
      "title": "Seis detenidos en un narcopiso de Getafe en el que se lanzaban las llaves a los consumidores para entrar",
      "url": "https://elpais.com/espana/madrid/2026-10-23/seis-detenidos-en-un-narcopiso-de-getafe-en-el-que-se-lanzaban-las-llaves-a-los-consumidores-para-acceder.html",
      "domain": "El País",
@@ -134,6 +128,18 @@
   "MEX": {
    "articles": [
     {
+     "title": "Nueva ola de ataques deja tres personas muertas en Culiacán; el propietario de un restaurante, entre las víctimas",
+     "url": "https://www.eluniversal.com.mx/estados/nueva-ola-de-ataques-deja-tres-personas-muertas-en-culiacan-el-propietario-de-un-restaurante-entre-las-victimas/",
+     "domain": "El Universal",
+     "seendate": "20261024T154617Z"
+    },
+    {
+     "title": "Rescatan en Baja California a búho cornudo con lesiones en su ala derecha; especie es amenazada por captura de ejemplares",
+     "url": "https://www.eluniversal.com.mx/nacion/rescatan-en-baja-california-a-buho-cornudo-con-lesiones-en-su-ala-derecha-especie-es-amenazada-por-captura-de-ejemplares/",
+     "domain": "El Universal",
+     "seendate": "20261024T153944Z"
+    },
+    {
      "title": "Sheinbaum visita Apatzingán a un año del Plan Michoacán; alista entrega de viviendas y créditos Finabien",
      "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-visita-apatzingan-a-un-ano-del-plan-michoacan-alista-entrega-de-viviendas-y-creditos-finabien/",
      "domain": "El Universal",
@@ -146,14 +152,14 @@
      "seendate": "20261024T140656Z"
     },
     {
-     "title": "Violencia, regulación y acoso judicial limitan libertad de expresión en México",
-     "url": "https://www.eluniversal.com.mx/nacion/violencia-regulacion-y-acoso-judicial-limitan-libertad-de-expresion-en-mexico/",
+     "title": "Pega cambio climático a la educación: UNICEF",
+     "url": "https://www.eluniversal.com.mx/nacion/pega-cambio-climatico-a-la-educacion-unicef/",
      "domain": "El Universal",
      "seendate": "20261024T093500Z"
     },
     {
-     "title": "Pega cambio climático a la educación: UNICEF",
-     "url": "https://www.eluniversal.com.mx/nacion/pega-cambio-climatico-a-la-educacion-unicef/",
+     "title": "Violencia, regulación y acoso judicial limitan libertad de expresión en México",
+     "url": "https://www.eluniversal.com.mx/nacion/violencia-regulacion-y-acoso-judicial-limitan-libertad-de-expresion-en-mexico/",
      "domain": "El Universal",
      "seendate": "20261024T093500Z"
     },
@@ -1202,12 +1208,6 @@
      "url": "https://www.nacion.com/el-pais/cierres-en-ruta-209-por-construccion-de-nuevo/ZED775B5ZNHHFKF5LGDPQIIXTU/story/",
      "domain": "La Nación",
      "seendate": "20261023T162733Z"
-    },
-    {
-     "title": "Embajada de EE. UU. responsabiliza a empresas chinas por minería ilegal de oro en Costa Rica",
-     "url": "https://www.nacion.com/politica/embajada-de-ee-uu-responsabiliza-a-empresas-chinas/HG5UY2P3HFGA3MT2SZESMSL3OI/story/",
-     "domain": "La Nación",
-     "seendate": "20261023T155253Z"
     }
    ]
   },
@@ -1368,6 +1368,12 @@
   "CUB": {
    "articles": [
     {
+     "title": "EE UU reconoce que el régimen cubano desvía combustible destinado al sector privado",
+     "url": "https://www.14ymedio.com/cuba/ee-uu-reconoce-regimen-cubano_1_1132362.html",
+     "domain": "14ymedio",
+     "seendate": "20261024T154631Z"
+    },
+    {
      "title": "Rubio pide a los cubanos que colaboren con la CIA; el régimen invita al Papa en respuesta a las presiones de EE UU",
      "url": "https://www.14ymedio.com/cuba/rubio-pide-colaboracion-discreta-cia_1_1132351.html",
      "domain": "14ymedio",
@@ -1428,12 +1434,6 @@
      "seendate": "20261023T101229Z"
     },
     {
-     "title": "Llega a Matanzas un segundo vuelo con ayuda humanitaria de EE UU a través de Cáritas",
-     "url": "https://www.14ymedio.com/cuba/llega-matanzas-segundo-vuelo-ayuda_1_1132271.html",
-     "domain": "14ymedio",
-     "seendate": "20261022T181807Z"
-    },
-    {
      "title": "El mar se abre a los cubanos con el estreno de la primera tienda náutica en La Habana",
      "url": "https://www.14ymedio.com/cuba/mar-abre-cubanos-estreno-primera_1_1132267.html",
      "domain": "14ymedio",
@@ -1464,6 +1464,18 @@
   },
   "COL": {
    "articles": [
+    {
+     "title": "Tres policías heridos en balacera tras frustrar el robo de una banda a otro uniformado en el centro de Cali: una patrullera se encuentra grave en UCI",
+     "url": "https://www.eltiempo.com/colombia/cali/tres-policias-heridos-en-balacera-tras-frustrar-el-robo-de-una-banda-a-otro-uniformado-en-el-centro-de-cali-una-patrullera-se-encuentra-grave-en-uci-3596016",
+     "domain": "El Tiempo",
+     "seendate": "20261024T153858Z"
+    },
+    {
+     "title": "Brotes de dengue en el Atlántico: niño de 2 años murió tras dar positivo en Sabanalarga; su familia cuestiona la atención recibida",
+     "url": "https://www.eltiempo.com/colombia/barranquilla/brotes-de-dengue-en-el-atlantico-nino-de-2-anos-murio-tras-dar-positivo-en-sabanalarga-su-familia-cuestiona-la-atencion-recibida-3596017",
+     "domain": "El Tiempo",
+     "seendate": "20261024T152633Z"
+    },
     {
      "title": "'¡Crimen de la niña Jhady Sofía, de 10 años, en Frontino, Antioquia, no puede quedar impune!': hallan pruebas de que su muerte habría sido asesinato",
      "url": "https://www.eltiempo.com/colombia/medellin/crimen-de-la-nina-jhady-sofia-de-10-anos-en-frontino-antioquia-no-puede-quedar-impune-hallan-pruebas-de-que-su-muerte-habria-sido-asesinato-3595999",
@@ -1511,18 +1523,6 @@
      "url": "https://www.eltiempo.com/colombia/medellin/exclusivo-las-sofisticadas-camaras-de-60-millones-de-pesos-con-las-que-disidencias-de-las-farc-potencian-sus-drones-en-antioquia-3595981",
      "domain": "El Tiempo",
      "seendate": "20261024T060155Z"
-    },
-    {
-     "title": "Temblor hoy en Colombia | Reportan sismo de magnitud 3,9 durante la noche de este viernes 23 de octubre: se sintió en Cali, Medellín y otras ciudades",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-reportan-sismo-de-magnitud-3-9-durante-la-noche-de-este-viernes-23-de-octubre-se-sintio-en-cali-medellin-y-otras-ciudades-3595988",
-     "domain": "El Tiempo",
-     "seendate": "20261024T041103Z"
-    },
-    {
-     "title": "Tres policías quedaron heridos y un presunto delincuente murió tras una balacera en el centro de Cali: los uniformados acudieron por un robo",
-     "url": "https://www.eltiempo.com/colombia/cali/tres-policias-quedaron-heridos-y-un-presunto-delincuente-murio-tras-una-balacera-en-el-centro-de-cali-los-uniformados-acudieron-por-un-robo-3595974",
-     "domain": "El Tiempo",
-     "seendate": "20261024T022806Z"
     }
    ]
   },
@@ -1857,12 +1857,6 @@
      "seendate": "20261023T230500Z"
     },
     {
-     "title": "En chats atribuidos a funcionarios municipales se recordaba a la gente pagar a tiempo las ‘vacunas’ para la campaña de Pabel Muñoz, según denuncia que llegó a la Fiscalía",
-     "url": "https://eluniverso.com/politica/expedientes/en-chats-atribuidos-a-funcionarios-municipales-se-recordaba-a-la-gente-pagar-a-tiempo-las-vacunas-para-la-campana-de-pabel-munoz-segun-denuncia-que-llego-a-la-fiscalia-nota/",
-     "domain": "El Universo",
-     "seendate": "20261023T220500Z"
-    },
-    {
      "title": "A la cárcel de Riobamba se trasladaría a Luisa González para que cumpla la orden de prisión preventiva dictada en el caso Laberinto",
      "url": "https://eluniverso.com/politica/expedientes/luisa-gonzalez-nota/",
      "domain": "El Universo",
@@ -1873,16 +1867,16 @@
   "PER": {
    "articles": [
     {
+     "title": "Lluvias en Perú EN VIVO hoy: Senamhi advierte precipitaciones extremas por El Niño extraordinario",
+     "url": "https://elcomercio.pe/peru/lluvias-en-peru-en-vivo-ultimas-noticias-de-las-precipitaciones-en-piura-tumbes-y-trujillo-estado-de-emergencia-en-el-norte-senamhi-indeci-lloviznas-fenomeno-el-nino-lbposting-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261024T154342Z"
+    },
+    {
      "title": "Último temblor hoy, 24 de octubre: IGP reporta sismos en Perú, lugar y magnitud",
      "url": "https://elcomercio.pe/peru/ultimo-temblor-hoy-via-igp-reporte-el-epicentro-magnitud-y-mas-del-sismo-tdpe-noticia/",
      "domain": "El Comercio",
      "seendate": "20261024T151549Z"
-    },
-    {
-     "title": "Lluvias en Perú EN VIVO hoy: Senamhi advierte precipitaciones extremas por El Niño extraordinario",
-     "url": "https://elcomercio.pe/peru/lluvias-en-peru-en-vivo-ultimas-noticias-de-las-precipitaciones-en-piura-tumbes-y-trujillo-estado-de-emergencia-en-el-norte-senamhi-indeci-lloviznas-fenomeno-el-nino-lbposting-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261024T151358Z"
     },
     {
      "title": "Elmer Cuba, ministro de Economía: “Mientras estemos en el ministerio no plantearemos cambiar ninguna tasa de impuestos, IGV o impuesto a la renta”",
@@ -2617,6 +2611,18 @@
   "ARG": {
    "articles": [
     {
+     "title": "León XIV en la Argentina: cómo se prepara la familia agustiniana para recibirlo, qué regalo le harán y un lema para el futuro",
+     "url": "https://www.lanacion.com.ar/sociedad/leon-xiv-en-la-argentina-como-se-prepara-la-familia-agustiniana-para-recibirlo-que-regalo-le-haran-y-nid24102026/",
+     "domain": "La Nación",
+     "seendate": "20261024T155940Z"
+    },
+    {
+     "title": "Milei volvió a atacar a Lula, que había dicho que en la Argentina la gente “come carne de burro”",
+     "url": "https://www.lanacion.com.ar/politica/milei-le-respondio-a-lula-que-habia-dicho-que-en-la-argentina-se-come-carne-de-burro-nid24102026/",
+     "domain": "La Nación",
+     "seendate": "20261024T152453Z"
+    },
+    {
      "title": "La primera formación está lista en China: estos son los nuevos coches para las líneas A y C de subte",
      "url": "https://www.lanacion.com.ar/sociedad/la-primera-formacion-esta-lista-en-china-estos-son-los-nuevos-coches-para-las-lineas-a-y-c-de-subte-nid24102026/",
      "domain": "La Nación",
@@ -3105,6 +3111,12 @@
   "PRY": {
    "articles": [
     {
+     "title": "Informe médico sobre Ramón González Daher ¿Es grave su estado de salud?",
+     "url": "https://www.abc.com.py/nacionales/2026/10/24/informe-medico-sobre-ramon-gonzalez-daher-es-grave-su-estado-de-salud/",
+     "domain": "ABC Color",
+     "seendate": "20261024T154604Z"
+    },
+    {
      "title": "‘Coco’ Martí, el ‘tapabaches’ de Concepción",
      "url": "https://www.abc.com.py/nacionales/2026/10/24/coco-marti-el-tapabaches-de-concepcion/",
      "domain": "ABC Color",
@@ -3127,12 +3139,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/24/municipalidad-de-asuncion-a-una-semana-del-cambio-de-gobierno-denuncian-despedida-de-cajas-paralelas/",
      "domain": "ABC Color",
      "seendate": "20261024T121224Z"
-    },
-    {
-     "title": "Juez favorece con prisión domiciliaria a narco condenado a 16 años de cárcel",
-     "url": "https://www.abc.com.py/nacionales/2026/10/24/juez-favorece-con-prision-domiciliaria-a-narco-condenado-a-16-anos-de-carcel/",
-     "domain": "ABC Color",
-     "seendate": "20261024T120000Z"
     }
    ]
   },
@@ -3141,6 +3147,12 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "'Vamos brigar para tomar a ilha que Tomaz e Flávio roubaram' de Richarlison, diz Lula no Rio",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/vamos-brigar-para-tomar-a-ilha-que-tomaz-e-flavio-roubaram-de-richarlison-diz-lula-em-ato-no-rio.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T152959Z"
+    },
     {
      "title": "Quem foi melhor no debate da Globo: Lula ou Flávio Bolsonaro? Colunistas do GLOBO dão notas para cada candidato",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/quem-foi-melhor-no-debate-da-globo-lula-ou-flavio-bolsonaro-colunistas-do-globo-dao-notas-para-cada-candidato.ghtml",
@@ -3312,30 +3324,6 @@
     {
      "title": "Caso Ana Clara, disputa por ilha, 'nove dedos': o debate da TV Globo entre Flávio Bolsonaro e Lula em oito pontos",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/post/2026/10/caso-ana-clara-disputa-por-ilha-nove-dedos-o-debate-da-tv-globo-entre-flavio-bolsonaro-e-lula-em-oito-pontos.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261024T063000Z"
-    },
-    {
-     "title": "Jogo Político: Flávio ou Lula, quem vai ganhar a eleição? Marqueteiros e donos de institutos de pesquisa respondem",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/jogo-politico-flavio-ou-lula-quem-vai-ganhar-a-eleicao-marqueteiros-e-donos-de-institutos-de-pesquisa-respondem.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261024T063000Z"
-    },
-    {
-     "title": "Entrevista: ‘As classes aspiracionais acham que o Estado atrapalha e vão decidir a eleição', diz Rosana Pinheiro-Machado",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/entrevista-as-classes-aspiracionais-acham-que-o-estado-atrapalha-e-vao-decidir-a-eleicao-diz-rosana-pinheiro-machado.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261024T063000Z"
-    },
-    {
-     "title": "Infecções, falhas na assistência e inconsistências em prontuários: tudo sobre a morte de seis bebês em hospital de SP",
-     "url": "https://oglobo.globo.com/brasil/sao-paulo/noticia/2026/10/24/infeccoes-falhas-na-assistencia-e-inconsistencias-em-prontuarios-tudo-sobre-a-morte-de-seis-bebes-em-hospital-de-sp.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261024T063000Z"
-    },
-    {
-     "title": "Confronto direto com Flávio em debate leva Lula a defender legado e prejudica estratégia de apontar para o futuro",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/confronto-direto-com-flavio-em-debate-leva-lula-a-defender-legado-e-prejudica-estrategia-de-apontar-para-o-futuro.ghtml",
      "domain": "O Globo",
      "seendate": "20261024T063000Z"
     }
