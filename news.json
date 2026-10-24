@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T21:59:24+00:00",
+ "updated": "2026-10-24T22:24:43+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -7,7 +7,7 @@
      "title": "El Rey, operado en Oviedo por una catarata en el ojo izquierdo",
      "url": "https://elpais.com/espana/2026-10-24/felipe-vi-operado-de-cataratas-del-ojo-izquierdo-en-oviedo.html",
      "domain": "El País",
-     "seendate": "20261024T215523Z"
+     "seendate": "20261024T222106Z"
     },
     {
      "title": "Cien detenidos por los disturbios en el centro de Barcelona",
@@ -115,6 +115,24 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Se quema local de frituras en Iztapalapa; un hombre resulta con quemaduras",
+     "url": "https://www.eluniversal.com.mx/metropoli/se-quema-local-de-frituras-en-iztapalapa-un-hombre-resulta-con-quemaduras/",
+     "domain": "El Universal",
+     "seendate": "20261024T221827Z"
+    },
+    {
+     "title": "Tras persecución, detienen en la Morelos a tres presuntos ladrones de relojes de lujo; en su huida, arrollan y matan a motociclista",
+     "url": "https://www.eluniversal.com.mx/metropoli/tras-persecucion-detienen-en-la-morelos-a-tres-presuntos-ladrones-de-relojes-de-lujo-en-su-huida-arrollan-y-matan-a-motociclista/",
+     "domain": "El Universal",
+     "seendate": "20261024T215425Z"
+    },
+    {
+     "title": "Reinicia audiencia del exfiscal César Jáuregui; \"no hay pruebas contundentes\", dice defensa",
+     "url": "https://www.eluniversal.com.mx/nacion/reinicia-audiencia-del-exfiscal-cesar-jauregui-no-hay-pruebas-contundentes-dice-defensa/",
+     "domain": "El Universal",
+     "seendate": "20261024T215104Z"
+    },
     {
      "title": "Dan 28 años de prisión a feminicida en Irapuato; Héctor Abel adimitió su responsabilidad",
      "url": "https://www.eluniversal.com.mx/estados/dan-28-anos-de-prision-a-feminicida-de-irapuato-hector-abel-adimitio-su-responsabilidad/",
@@ -1186,6 +1204,18 @@
   "CRI": {
    "articles": [
     {
+     "title": "Decomisan más de una tonelada de pulpo y nueve kilos de cambute en Golfito",
+     "url": "https://www.nacion.com/sucesos/decomisan-mas-de-una-tonelada-de-pulpo-y-nueve/KZJVP3VEQFEVFJFGSKNYKMXBXU/story/",
+     "domain": "La Nación",
+     "seendate": "20261024T221629Z"
+    },
+    {
+     "title": "Choque entre autobús y vehículo en Cartago deja cinco heridos, entre ellos un menor",
+     "url": "https://www.nacion.com/sucesos/choque-entre-autobus-y-vehiculo-en-cartago-deja/FVUEIU4TFRGCTDV3DCVTCL56XE/story/",
+     "domain": "La Nación",
+     "seendate": "20261024T220952Z"
+    },
+    {
      "title": "MOPT anuncia nuevo plan para conexión de nueva vía a San Carlos con ruta 1: Así es como se ejecutará esa obra",
      "url": "https://www.nacion.com/el-pais/mopt-anuncia-nuevo-plan-para-conexion-de-nueva-via/6UED2G6E45FVXFC3YFP635NHME/story/",
      "domain": "La Nación",
@@ -1346,12 +1376,6 @@
      "url": "https://www.nacion.com/politica/ariel-robles-responde-a-la-diputada-oficialista/XDXF3O3DI5GLLH5NYRI6OGBQSQ/story/",
      "domain": "La Nación",
      "seendate": "20261023T201730Z"
-    },
-    {
-     "title": "Aeropuerto de Quepos se alista para recibir más vuelos privados: Inicia construcción de nueva plataforma para avionetas",
-     "url": "https://www.nacion.com/el-pais/aeropuerto-de-quepos-se-alista-para-revisar-mas/PFKVZ67UUZHW5PGQFRHOEZEPPA/story/",
-     "domain": "La Nación",
-     "seendate": "20261023T191552Z"
     }
    ]
   },
@@ -1615,16 +1639,16 @@
   "COL": {
    "articles": [
     {
+     "title": "¿Cómo Medellín y el Gobierno, con el respaldo de Estados Unidos, combatirán estructuras criminales, narcotráfico y minería que alimentan la guerra?",
+     "url": "https://www.eltiempo.com/colombia/medellin/como-medellin-y-el-gobierno-con-el-respaldo-de-estados-unidos-combatiran-estructuras-criminales-narcotrafico-y-mineria-que-alimentan-la-guerra-3596059",
+     "domain": "El Tiempo",
+     "seendate": "20261024T214946Z"
+    },
+    {
      "title": "Emergencia por lluvias en el Caribe: Santa Marta declara alerta roja y Cartagena suspende evento con el presidente De la Espriella por precipitaciones",
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/alcaldia-de-santa-marta-declara-alerta-roja-por-inundaciones-y-riesgo-de-crecientes-subitas-en-dos-rios-estas-son-las-recomendaciones-del-ideam-3596073",
      "domain": "El Tiempo",
      "seendate": "20261024T214336Z"
-    },
-    {
-     "title": "¿Cómo Medellín y el Gobierno, con el respaldo de Estados Unidos, combatirán estructuras criminales, narcotráfico y minería que alimentan la guerra?",
-     "url": "https://www.eltiempo.com/colombia/medellin/como-medellin-y-el-gobierno-con-el-respaldo-de-estados-unidos-combatiran-estructuras-criminales-narcotrafico-y-mineria-que-alimentan-la-guerra-3596059",
-     "domain": "El Tiempo",
-     "seendate": "20261024T212935Z"
     },
     {
      "title": "Emergencia en Cartagena por aguacero: crecen los reportes de carros arrastrados por arroyos, calles inundadas y trancones en varios sectores",
@@ -1869,6 +1893,12 @@
   "ECU": {
    "articles": [
     {
+     "title": "Cuenca elige a Juliana Muñoz Bravo como su nueva reina: esta es su propuesta social",
+     "url": "https://eluniverso.com/comunidad/ecuador/juliana-munoz-bravo-reina-de-cuenca-2026-2027-nota/",
+     "domain": "El Universo",
+     "seendate": "20261024T221138Z"
+    },
+    {
      "title": "Tres hombres y un menor de edad fueron capturados tras balacera en una funeraria en Morona Santiago",
      "url": "https://eluniverso.com/politica/seguridad/tres-hombres-un-menor-edad-capturados-balacera-funeraria-morona-santiago-nota/",
      "domain": "El Universo",
@@ -1977,12 +2007,6 @@
      "seendate": "20261024T034046Z"
     },
     {
-     "title": "Juezas Daniella Camacho e Inés Romero están descalificadas del concurso público para elegir al fiscal de Ecuador",
-     "url": "https://eluniverso.com/politica/transparencia/fiscalia-general-del-estado-consejo-de-participacion-ciudadana-concurso-de-oposicion-y-meritos-nota/",
-     "domain": "El Universo",
-     "seendate": "20261024T033125Z"
-    },
-    {
      "title": "Pronóstico del clima en Ecuador para este sábado 24 de octubre: lluvias, tormentas y temperaturas de hasta 33,5 °C",
      "url": "https://eluniverso.com/comunidad/ecuador/pronostico-del-clima-en-ecuador-para-este-sabado-24-de-octubre-lluvias-tormentas-y-temperaturas-de-hasta-335-c-nota/",
      "domain": "El Universo",
@@ -1993,12 +2017,6 @@
      "url": "https://eluniverso.com/comunidad/ecuador/siete-incendios-forestales-permanecen-activos-en-ecuador-chimborazo-y-tungurahua-registran-dos-casos-cada-una-nota/",
      "domain": "El Universo",
      "seendate": "20261024T031236Z"
-    },
-    {
-     "title": "Lotería Nacional, sorteo 7456: estos son los números ganadores del 23 de octubre",
-     "url": "https://eluniverso.com/comunidad/ecuador/loteria-nacional-sorteo-7456-estos-son-los-numeros-ganadores-del-23-de-octubre-nota/",
-     "domain": "El Universo",
-     "seendate": "20261024T030425Z"
     }
    ]
   },
@@ -2737,6 +2755,24 @@
   "ARG": {
    "articles": [
     {
+     "title": "A cuánto abre el dólar el lunes 26 de octubre",
+     "url": "https://www.lanacion.com.ar/economia/dolar/a-cuanto-abre-el-dolar-el-lunes-26-de-octubre-nid24102026/",
+     "domain": "La Nación",
+     "seendate": "20261024T220825Z"
+    },
+    {
+     "title": "¿Relación de dependencia o cuentapropismo?",
+     "url": "https://www.lanacion.com.ar/economia/relacion-de-dependencia-o-cuentapropismo-nid24102026/",
+     "domain": "La Nación",
+     "seendate": "20261024T220000Z"
+    },
+    {
+     "title": "En el gobierno de Lula creen que Milei podría no reconocer un eventual triunfo del PT",
+     "url": "https://www.lanacion.com.ar/politica/en-el-gobierno-de-lula-creen-que-milei-podria-no-reconocer-un-eventual-triunfo-del-pt-nid24102026/",
+     "domain": "La Nación",
+     "seendate": "20261024T215914Z"
+    },
+    {
      "title": "Milei volvió a atacar a LA NACION por el caso $LIBRA y dijo que no descarta iniciar acciones legales",
      "url": "https://www.lanacion.com.ar/politica/milei-volvio-a-atacar-a-la-nacion-por-el-caso-libra-y-dijo-que-no-descarta-iniciar-acciones-legales-nid24102026/",
      "domain": "La Nación",
@@ -2761,7 +2797,7 @@
      "seendate": "20261024T210000Z"
     },
     {
-     "title": "La oposición, una bullrichista y algunos aliados de LLA repudiaron el ataque de Milei a los periodistas por el caso $LIBRA",
+     "title": "Amplio rechazo por el nuevo ataque de Milei a periodistas por el caso $LIBRA",
      "url": "https://www.lanacion.com.ar/politica/la-oposicion-una-bullrichista-y-algunos-aliados-de-lla-repudiaron-el-ataque-de-milei-a-los-nid24102026/",
      "domain": "La Nación",
      "seendate": "20261024T205706Z"
@@ -2821,51 +2857,27 @@
      "seendate": "20261024T180058Z"
     },
     {
-     "title": "A cuánto abre el dólar el lunes 26 de octubre",
-     "url": "https://www.lanacion.com.ar/economia/dolar/a-cuanto-abre-el-dolar-el-lunes-26-de-octubre-nid24102026/",
-     "domain": "La Nación",
-     "seendate": "20261024T171100Z"
-    },
-    {
      "title": "La clave de la vida que propone la psiquiatra Marian Rojas Estapé: “Es aprender a renunciar sin culpa, sabiendo elegir lo mejor en cada momento”",
      "url": "https://www.lanacion.com.ar/sociedad/la-clave-de-la-vida-que-propone-la-psiquiatra-marian-rojas-estape-es-aprender-a-renunciar-sin-culpa-nid24102026/",
      "domain": "La Nación",
      "seendate": "20261024T170000Z"
-    },
-    {
-     "title": "El Niño: nadie puede impedir que ocurra, pero sí evitar buena parte de sus daños",
-     "url": "https://www.lanacion.com.ar/economia/campo/el-nino-nadie-puede-impedir-que-ocurra-pero-si-evitar-buena-parte-de-sus-danos-nid23102026/",
-     "domain": "La Nación",
-     "seendate": "20261024T161912Z"
-    },
-    {
-     "title": "Quería ser el “unicornio del agro”, llegó a valer más de US$1000 millones y ahora aprobaron su liquidación con el 98,4% de los votos",
-     "url": "https://www.lanacion.com.ar/economia/campo/queria-ser-el-unicornio-del-agro-llego-a-valer-mas-de-us1000-millones-y-ahora-aprobaron-su-nid24102026/",
-     "domain": "La Nación",
-     "seendate": "20261024T160935Z"
-    },
-    {
-     "title": "Milei volvió a atacar a Lula, que había dicho que en la Argentina la gente “come carne de burro”",
-     "url": "https://www.lanacion.com.ar/politica/milei-le-respondio-a-lula-que-habia-dicho-que-en-la-argentina-se-come-carne-de-burro-nid24102026/",
-     "domain": "La Nación",
-     "seendate": "20261024T152453Z"
-    },
-    {
-     "title": "La relación comercial: qué impacto en la Argentina puede dejar la elección en Brasil",
-     "url": "https://www.lanacion.com.ar/economia/la-relacion-comercial-que-impacto-en-la-argentina-puede-dejar-la-eleccion-en-brasil-nid24102026/",
-     "domain": "La Nación",
-     "seendate": "20261024T150303Z"
-    },
-    {
-     "title": "El comunicado del colegio en que estudian las alumnas denunciadas por bullying en Catamarca",
-     "url": "https://www.lanacion.com.ar/sociedad/el-comunicado-del-colegio-en-que-estudian-las-alumnas-denunciadas-por-bullying-en-catamarca-nid24102026/",
-     "domain": "La Nación",
-     "seendate": "20261024T140934Z"
     }
    ]
   },
   "URY": {
    "articles": [
+    {
+     "title": "Deportivo Maldonado vs . Danubio en vivo por el Torneo Clausura : el fernandino quiere ganar por la Tabla Anual",
+     "url": "https://www.elpais.com.uy/ovacion/futbol/deportivo-maldonado-vs-danubio-en-vivo-por-el-torneo-clausura-el-fernandino-quiere-ganar-por-la-tabla-anual",
+     "domain": "elpais.com.uy",
+     "seendate": "20261024T220000Z"
+    },
+    {
+     "title": "La C aceptó suprimir los descensos de la B pese a que no fueron aceptadas sus condiciones : cómo sigue el proceso",
+     "url": "https://www.elpais.com.uy/ovacion/futbol/la-c-acepto-suprimir-los-descensos-de-la-b-pese-a-que-no-fueron-aceptadas-sus-condiciones-como-sigue-el-proceso",
+     "domain": "elpais.com.uy",
+     "seendate": "20261024T220000Z"
+    },
     {
      "title": "Tarjetas de crédito y deudas impagables : advierten por contratos abusivos y falta de controles",
      "url": "https://www.elpais.com.uy/negocios/noticias/tarjetas-de-credito-y-deudas-impagables-advierten-por-contratos-abusivos-y-falta-de-controles",
@@ -3207,18 +3219,6 @@
      "url": "https://www.elpais.com.uy/tvshow/personajes/emotiva-carta-del-exnovio-de-la-hija-de-lucas-sugo-al-artista-flor-me-regalo-los-mejores-anos-de-mi-vida",
      "domain": "elpais.com.uy",
      "seendate": "20261022T230000Z"
-    },
-    {
-     "title": "Todo limpio : revelan el audio del VAR tras la polémica en el partido entre Nacional y Deportivo Maldonado",
-     "url": "https://www.elpais.com.uy/ovacion/futbol/todo-limpio-revelan-el-audio-del-var-tras-la-polemica-en-el-partido-entre-nacional-y-deportivo-maldonado",
-     "domain": "elpais.com.uy",
-     "seendate": "20261022T191500Z"
-    },
-    {
-     "title": "Resonancias mamarias gratuitas en Cudim : quiénes pueden acceder y cómo solicitar el estudio",
-     "url": "https://elacontecer.com.uy/sociedad/resonancias-mamarias-gratuitas-cudim-requisitos-solicitud/",
-     "domain": "elacontecer.com.uy",
-     "seendate": "20261022T191500Z"
     }
    ]
   },
@@ -3253,12 +3253,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/24/crecida-del-rio-parana-cual-es-la-zona-que-mas-preocupa-al-ministro-de-defensa/",
      "domain": "ABC Color",
      "seendate": "20261024T175016Z"
-    },
-    {
-     "title": "¿“Cerebro multitarea” en las niñas?: Experta desmiente al MEC y expone cómo justifica la desigualdad",
-     "url": "https://www.abc.com.py/nacionales/2026/10/24/cerebro-multitarea-en-las-ninas-experta-desmiente-al-mec-y-expone-como-justifica-la-desigualdad/",
-     "domain": "ABC Color",
-     "seendate": "20261024T171846Z"
     }
    ]
   },
@@ -3494,24 +3488,6 @@
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/cade-a-michelle-bolsonaro-senadora-eleita-some-da-campanha-de-flavio-no-segundo-turno.ghtml",
      "domain": "O Globo",
      "seendate": "20261024T120115Z"
-    },
-    {
-     "title": "Lula votou contra a Constituição de 1988? Entenda o tema citado por Flávio Bolsonaro em debate da TV Globo",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/lula-votou-contra-a-constituicao-de-1988-entenda-o-tema-citado-por-flavio-bolsonaro-em-debate-da-tv-globo.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261024T114043Z"
-    },
-    {
-     "title": "Eleições 2026: apenas um local de votação mudou no Rio para o segundo turno; quase 2 mil eleitores serão afetados",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/eleicoes-2026-apenas-um-local-de-votacao-mudou-no-rio-para-o-segundo-turno-quase-2-mil-eleitores-serao-afetados.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261024T113510Z"
-    },
-    {
-     "title": "Dark horse, Vorcaro, Roberta Luchsinger, Willer Tomaz: entenda os ataques entre Flávio e Lula no debate da Globo",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/post/2026/10/dark-horse-vorcaro-roberta-luchsinger-willer-tomaz-entenda-os-ataques-entre-flavio-e-lula-no-debate-da-globo.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261024T111130Z"
     }
    ]
   }
