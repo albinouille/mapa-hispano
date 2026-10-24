@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T21:25:32+00:00",
+ "updated": "2026-10-24T21:59:24+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -7,10 +7,10 @@
      "title": "El Rey, operado en Oviedo por una catarata en el ojo izquierdo",
      "url": "https://elpais.com/espana/2026-10-24/felipe-vi-operado-de-cataratas-del-ojo-izquierdo-en-oviedo.html",
      "domain": "El País",
-     "seendate": "20261024T212146Z"
+     "seendate": "20261024T215523Z"
     },
     {
-     "title": "Una protesta juvenil desencadena disturbios en el centro de Barcelona",
+     "title": "Cien detenidos por los disturbios en el centro de Barcelona",
      "url": "https://elpais.com/espana/catalunya/2026-10-24/centenares-de-jovenes-violentos-destrozan-el-centro-de-barcelona.html",
      "domain": "El País",
      "seendate": "20261024T182014Z"
@@ -115,6 +115,18 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Dan 28 años de prisión a feminicida en Irapuato; Héctor Abel adimitió su responsabilidad",
+     "url": "https://www.eluniversal.com.mx/estados/dan-28-anos-de-prision-a-feminicida-de-irapuato-hector-abel-adimitio-su-responsabilidad/",
+     "domain": "El Universal",
+     "seendate": "20261024T214247Z"
+    },
+    {
+     "title": "Alejandra Guzmán rompe en llanto en la Feria de Tlaxcala al cantar \"Bye, mamá\"; recuerda a Silva Pinal, fallecida hace casi dos años",
+     "url": "https://www.eluniversal.com.mx/estados/alejandra-guzman-rompe-en-llanto-en-la-feria-de-tlaxcala-al-cantar-bye-mama-recuerda-a-silva-pinal-fallecida-hace-casi-dos-anos/",
+     "domain": "El Universal",
+     "seendate": "20261024T213753Z"
+    },
     {
      "title": "Baja percepción de inseguridad en Ecatepec, de acuerdo con encuesta del Inegi; \"vamos por buen camino\", asegura alcaldesa",
      "url": "https://www.eluniversal.com.mx/metropoli/baja-percepcion-de-inseguridad-en-ecatepec-de-acuerdo-con-encuesta-del-inegi-vamos-por-buen-camino-asegura-alcaldesa/",
@@ -320,22 +332,16 @@
      "seendate": "20261024T153944Z"
     },
     {
-     "title": "Sheinbaum visita Apatzingán a un año del Plan Michoacán; alista entrega de viviendas y créditos Finabien",
-     "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-visita-apatzingan-a-un-ano-del-plan-michoacan-alista-entrega-de-viviendas-y-creditos-finabien/",
-     "domain": "El Universal",
-     "seendate": "20261024T142256Z"
-    },
-    {
-     "title": "Taddei “recibe con respeto” que ASF revise licitaciones del INE; \"me he conducido con probidad\", asegura",
-     "url": "https://www.eluniversal.com.mx/nacion/taddei-recibe-con-respeto-que-asf-revise-irregularidades-me-he-conducido-con-probidad-asegura-presidenta-del-ine/",
-     "domain": "El Universal",
-     "seendate": "20261024T140656Z"
-    },
-    {
      "title": "Pega cambio climático a la educación: UNICEF",
      "url": "https://www.eluniversal.com.mx/nacion/pega-cambio-climatico-a-la-educacion-unicef/",
      "domain": "El Universal",
      "seendate": "20261024T093500Z"
+    },
+    {
+     "title": "Sismo del 19S derribo su casa y ellos sembraron un campo de cempasúchil; productores a consumir flores mexicanas",
+     "url": "https://www.eluniversal.com.mx/metropoli/sismo-del-19s-derribo-su-casa-y-ellos-sembraron-un-campo-de-cempasuchil-productores-a-consumir-flores-mexicanas/",
+     "domain": "El Universal",
+     "seendate": "20261024T085900Z"
     }
    ]
   },
@@ -1609,10 +1615,16 @@
   "COL": {
    "articles": [
     {
-     "title": "Alcaldía de Santa Marta declara alerta roja por inundaciones y riesgo de crecientes súbitas en dos ríos: estas son las recomendaciones del Ideam",
+     "title": "Emergencia por lluvias en el Caribe: Santa Marta declara alerta roja y Cartagena suspende evento con el presidente De la Espriella por precipitaciones",
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/alcaldia-de-santa-marta-declara-alerta-roja-por-inundaciones-y-riesgo-de-crecientes-subitas-en-dos-rios-estas-son-las-recomendaciones-del-ideam-3596073",
      "domain": "El Tiempo",
-     "seendate": "20261024T205952Z"
+     "seendate": "20261024T214336Z"
+    },
+    {
+     "title": "¿Cómo Medellín y el Gobierno, con el respaldo de Estados Unidos, combatirán estructuras criminales, narcotráfico y minería que alimentan la guerra?",
+     "url": "https://www.eltiempo.com/colombia/medellin/como-medellin-y-el-gobierno-con-el-respaldo-de-estados-unidos-combatiran-estructuras-criminales-narcotrafico-y-mineria-que-alimentan-la-guerra-3596059",
+     "domain": "El Tiempo",
+     "seendate": "20261024T212935Z"
     },
     {
      "title": "Emergencia en Cartagena por aguacero: crecen los reportes de carros arrastrados por arroyos, calles inundadas y trancones en varios sectores",
@@ -1661,12 +1673,6 @@
      "url": "https://www.eltiempo.com/colombia/cali/asi-una-avioneta-tuvo-que-aterrizar-de-emergencia-y-termino-en-un-canaduzal-de-puerto-tejada-cauca-sus-tripulantes-salieron-ilesos-3596036",
      "domain": "El Tiempo",
      "seendate": "20261024T174249Z"
-    },
-    {
-     "title": "¿Planea casarse en Barranquilla? Conozca escenarios, vestidos y servicios disponibles para celebrar bodas y recibir a familiares y amigos en la ciudad",
-     "url": "https://www.eltiempo.com/colombia/barranquilla/planea-casarse-en-barranquilla-conozca-escenarios-vestidos-y-servicios-disponibles-para-celebrar-bodas-y-recibir-a-familiares-y-amigos-en-la-ciudad-3596035",
-     "domain": "El Tiempo",
-     "seendate": "20261024T172216Z"
     }
    ]
   },
@@ -1863,6 +1869,12 @@
   "ECU": {
    "articles": [
     {
+     "title": "Tres hombres y un menor de edad fueron capturados tras balacera en una funeraria en Morona Santiago",
+     "url": "https://eluniverso.com/politica/seguridad/tres-hombres-un-menor-edad-capturados-balacera-funeraria-morona-santiago-nota/",
+     "domain": "El Universo",
+     "seendate": "20261024T214138Z"
+    },
+    {
      "title": "Doménica Bajaña, secretaria de Integridad: La Fiscalía determinará a los implicados en la red de corrupción del Ministerio de Educación",
      "url": "https://eluniverso.com/politica/ejecutivo/domenica-bajana-fiscalia-determinara-red-corrupcion-ministerio-de-educacion-nota/",
      "domain": "El Universo",
@@ -1987,24 +1999,6 @@
      "url": "https://eluniverso.com/comunidad/ecuador/loteria-nacional-sorteo-7456-estos-son-los-numeros-ganadores-del-23-de-octubre-nota/",
      "domain": "El Universo",
      "seendate": "20261024T030425Z"
-    },
-    {
-     "title": "¿Dónde lloverá más este fin de semana en Ecuador? El Inamhi señala las zonas y el día de mayor intensidad",
-     "url": "https://eluniverso.com/comunidad/ecuador/donde-llovera-mas-este-fin-de-semana-en-ecuador-el-inamhi-senala-las-zonas-y-el-dia-de-mayor-intensidad-nota/",
-     "domain": "El Universo",
-     "seendate": "20261024T021624Z"
-    },
-    {
-     "title": "Luisa González llega a Latacunga y será trasladada a la cárcel de Riobamba",
-     "url": "https://eluniverso.com/politica/seguridad/luisa-gonzalez-llega-a-latacunga-y-sera-trasladada-a-la-carcel-de-riobamba-nota/",
-     "domain": "El Universo",
-     "seendate": "20261024T013540Z"
-    },
-    {
-     "title": "De una denuncia del CNE al caso Laberinto: empresa Ternape, vinculada con Aquiles Alvarez, habría financiado con dineros ilícitos la campaña presidencial de Luisa González por más de $ 700.000",
-     "url": "https://eluniverso.com/politica/expedientes/de-una-denuncia-del-cne-al-caso-laberinto-empresa-ternape-vinculada-con-aquiles-alvarez-habria-financiado-con-dineros-ilicitos-la-campana-presidencial-de-luisa-gonzalez-por-mas-de-700000-nota/",
-     "domain": "El Universo",
-     "seendate": "20261023T230500Z"
     }
    ]
   },
@@ -2014,7 +2008,7 @@
      "title": "Lluvias en Perú EN VIVO hoy: Senamhi advierte precipitaciones extremas por El Niño extraordinario",
      "url": "https://elcomercio.pe/peru/lluvias-en-peru-en-vivo-ultimas-noticias-de-las-precipitaciones-en-piura-tumbes-y-trujillo-estado-de-emergencia-en-el-norte-senamhi-indeci-lloviznas-fenomeno-el-nino-lbposting-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261024T204541Z"
+     "seendate": "20261024T213648Z"
     },
     {
      "title": "Ministro Guillermo Shinno Huamaní inaugura Central Solar Expansión Intipampa en Moquegua",
@@ -2027,12 +2021,6 @@
      "url": "https://elcomercio.pe/peru/lambayeque/lambayeque-desagues-colapsan-por-tercer-dia-consecutivo-en-urbanizacion-de-chiclayo-fenomeno-el-nino-ultimas-noticia/",
      "domain": "El Comercio",
      "seendate": "20261024T185246Z"
-    },
-    {
-     "title": "Último temblor hoy, 24 de octubre: IGP reporta sismos en Perú, lugar y magnitud",
-     "url": "https://elcomercio.pe/peru/ultimo-temblor-hoy-via-igp-reporte-el-epicentro-magnitud-y-mas-del-sismo-tdpe-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261024T171500Z"
     }
    ]
   },
@@ -2749,6 +2737,18 @@
   "ARG": {
    "articles": [
     {
+     "title": "Milei volvió a atacar a LA NACION por el caso $LIBRA y dijo que no descarta iniciar acciones legales",
+     "url": "https://www.lanacion.com.ar/politica/milei-volvio-a-atacar-a-la-nacion-por-el-caso-libra-y-dijo-que-no-descarta-iniciar-acciones-legales-nid24102026/",
+     "domain": "La Nación",
+     "seendate": "20261024T212429Z"
+    },
+    {
+     "title": "El gobierno de Milei apuesta al triunfo de Bolsonaro y el peronismo, a la “resurrección” de Lula da Silva",
+     "url": "https://www.lanacion.com.ar/politica/el-gobierno-de-milei-apuesta-al-triunfo-de-bolsonaro-y-el-peronismo-a-la-resurreccion-de-lula-da-nid24102026/",
+     "domain": "La Nación",
+     "seendate": "20261024T211934Z"
+    },
+    {
      "title": "Mauricio, de 37 años, dejó su trabajo en una automotriz y se mudó al monte: “Si uno tiene herramientas y la voluntad, el trabajo siempre sale”",
      "url": "https://www.lanacion.com.ar/sociedad/mauricio-de-37-anos-dejo-su-trabajo-en-una-automotriz-y-se-mudo-al-monte-si-uno-tiene-herramientas-y-nid24102026/",
      "domain": "La Nación",
@@ -2777,12 +2777,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/leon-xiv-en-la-argentina-como-se-prepara-la-familia-agustiniana-para-recibirlo-que-regalo-le-haran-y-nid24102026/",
      "domain": "La Nación",
      "seendate": "20261024T203319Z"
-    },
-    {
-     "title": "Milei volvió a atacar a LA NACION por el caso $LIBRA y dijo que no descarta iniciar acciones legales",
-     "url": "https://www.lanacion.com.ar/politica/milei-volvio-a-atacar-a-la-nacion-por-el-caso-libra-y-dijo-que-no-descarta-iniciar-acciones-legales-nid24102026/",
-     "domain": "La Nación",
-     "seendate": "20261024T202943Z"
     },
     {
      "title": "Fue asesinado de cinco balazos en la calle, en un crimen con el sello de una venganza entre bandas internacionales",
@@ -3265,12 +3259,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/24/cerebro-multitarea-en-las-ninas-experta-desmiente-al-mec-y-expone-como-justifica-la-desigualdad/",
      "domain": "ABC Color",
      "seendate": "20261024T171846Z"
-    },
-    {
-     "title": "Comerciantes y usuarios del Mercado 4 exigen limpieza, ordenamiento y fin del planillerismo",
-     "url": "https://www.abc.com.py/nacionales/2026/10/24/comerciantes-y-usuarios-del-mercado-4-exigen-limpieza-ordenamiento-y-fin-del-planillerismo/",
-     "domain": "ABC Color",
-     "seendate": "20261024T165255Z"
     }
    ]
   },
@@ -3279,6 +3267,18 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "STF torna réu blogueiro aliado de Bolsonaro por associação criminosa ligada ao 8 de janeiro",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/24/stf-torna-reu-blogueiro-aliado-de-bolsonaro-por-associacao-criminosa-ligada-ao-8-de-janeiro.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T214258Z"
+    },
+    {
+     "title": "Jiboia de mais de 1,5 metro é encontrada em motor de carro no Sul de Minas",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/24/jiboia-de-mais-de-15-metro-e-encontrada-em-motor-de-carro-no-sul-de-minas.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T213232Z"
+    },
     {
      "title": "Último ato do 2º turno: Flávio Bolsonaro encerra campanha no Rio, e Lula retorna à Avenida Paulista",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/ultimo-ato-do-2o-turno-flavio-bolsonaro-encerra-campanha-no-rio-e-lula-retorna-a-avenida-paulista.ghtml",
@@ -3310,7 +3310,7 @@
      "seendate": "20261024T191738Z"
     },
     {
-     "title": "Flávio Bolsonaro encerra campanha no Rio, exalta Nikolas Ferreira e volta a orar 'Pai nosso'",
+     "title": "Flávio Bolsonaro encerra campanha no Rio, exalta Nikolas Ferreira e volta a orar 'Pai-Nosso'",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/flavio-bolsonaro-reune-apoiadores-na-barra-da-tijuca-em-ultimo-ato-de-campanha-nas-ruas.ghtml",
      "domain": "O Globo",
      "seendate": "20261024T190738Z"
@@ -3512,18 +3512,6 @@
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/post/2026/10/dark-horse-vorcaro-roberta-luchsinger-willer-tomaz-entenda-os-ataques-entre-flavio-e-lula-no-debate-da-globo.ghtml",
      "domain": "O Globo",
      "seendate": "20261024T111130Z"
-    },
-    {
-     "title": "Eleições 2026: caminhadas e carreatas são permitidas até as 22h deste sábado; veja regras para os atos de Lula e Flávio",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/eleicoes-2026-caminhadas-e-carreatas-sao-permitidas-ate-as-22h-deste-sabado-veja-regras-para-os-atos-de-lula-e-flavio.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261024T110609Z"
-    },
-    {
-     "title": "Ruas de Copacabana começam a fechar para ato de Lula; Flávio faz 'bloquinho do Nikolas' em BH às 10h",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/ruas-de-copacabana-comecam-a-fechar-para-ato-de-lula-flavio-faz-bloquinho-do-nikolas-em-bh-as-10h.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261024T104803Z"
     }
    ]
   }
