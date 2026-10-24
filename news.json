@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T22:24:43+00:00",
+ "updated": "2026-10-24T22:57:21+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -7,7 +7,7 @@
      "title": "El Rey, operado en Oviedo por una catarata en el ojo izquierdo",
      "url": "https://elpais.com/espana/2026-10-24/felipe-vi-operado-de-cataratas-del-ojo-izquierdo-en-oviedo.html",
      "domain": "El País",
-     "seendate": "20261024T222106Z"
+     "seendate": "20261024T225325Z"
     },
     {
      "title": "Cien detenidos por los disturbios en el centro de Barcelona",
@@ -115,6 +115,24 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Vinculan a proceso a \"El Talibán\" de \"Los Chapitos\"; es acusado de portar armas exclusivas del Ejército",
+     "url": "https://www.eluniversal.com.mx/nacion/vinculan-a-proceso-a-el-taliban-de-los-chapitos-es-acusado-de-portar-armas-exclusivas-del-ejercito/",
+     "domain": "El Universal",
+     "seendate": "20261024T224159Z"
+    },
+    {
+     "title": "Se descarrila tren en Huichapan, Hidalgo; no se reportan lesionados o fallecidos",
+     "url": "https://www.eluniversal.com.mx/estados/se-descarrila-tren-en-huichapan-hidalgo-no-se-reportan-lesionados-o-fallecidos/",
+     "domain": "El Universal",
+     "seendate": "20261024T224130Z"
+    },
+    {
+     "title": "Taddei debe asumir responsabilidad jurídica y política: Ramírez Cuéllar; \"renuncia es un acto personal\", agrega",
+     "url": "https://www.eluniversal.com.mx/nacion/taddei-debe-asumir-responsabilidad-juridica-y-politica-ramirez-cuellar-renuncia-es-un-acto-personal-agrega/",
+     "domain": "El Universal",
+     "seendate": "20261024T223026Z"
+    },
     {
      "title": "Se quema local de frituras en Iztapalapa; un hombre resulta con quemaduras",
      "url": "https://www.eluniversal.com.mx/metropoli/se-quema-local-de-frituras-en-iztapalapa-un-hombre-resulta-con-quemaduras/",
@@ -344,19 +362,13 @@
      "seendate": "20261024T154617Z"
     },
     {
-     "title": "Rescatan en Baja California a búho cornudo con lesiones en su ala derecha; especie es amenazada por captura de ejemplares",
-     "url": "https://www.eluniversal.com.mx/nacion/rescatan-en-baja-california-a-buho-cornudo-con-lesiones-en-su-ala-derecha-especie-es-amenazada-por-captura-de-ejemplares/",
-     "domain": "El Universal",
-     "seendate": "20261024T153944Z"
-    },
-    {
      "title": "Pega cambio climático a la educación: UNICEF",
      "url": "https://www.eluniversal.com.mx/nacion/pega-cambio-climatico-a-la-educacion-unicef/",
      "domain": "El Universal",
      "seendate": "20261024T093500Z"
     },
     {
-     "title": "Sismo del 19S derribo su casa y ellos sembraron un campo de cempasúchil; productores a consumir flores mexicanas",
+     "title": "Sismo del 19S derribó su casa y ellos sembraron un campo de cempasúchil; productores llaman a consumir flores mexicanas",
      "url": "https://www.eluniversal.com.mx/metropoli/sismo-del-19s-derribo-su-casa-y-ellos-sembraron-un-campo-de-cempasuchil-productores-a-consumir-flores-mexicanas/",
      "domain": "El Universal",
      "seendate": "20261024T085900Z"
@@ -1639,6 +1651,12 @@
   "COL": {
    "articles": [
     {
+     "title": "Colapsó una edificación en Pereira pendiente de demolición este sábado: hallaron dos cuerpos sin vida entre los escombros",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/emergencia-en-pereira-colapso-una-edificacion-que-estaba-pendiente-de-demolicion-tras-el-terremoto-hallaron-dos-cuerpos-sin-vida-entre-los-escombros-3596082",
+     "domain": "El Tiempo",
+     "seendate": "20261024T221612Z"
+    },
+    {
      "title": "¿Cómo Medellín y el Gobierno, con el respaldo de Estados Unidos, combatirán estructuras criminales, narcotráfico y minería que alimentan la guerra?",
      "url": "https://www.eltiempo.com/colombia/medellin/como-medellin-y-el-gobierno-con-el-respaldo-de-estados-unidos-combatiran-estructuras-criminales-narcotrafico-y-mineria-que-alimentan-la-guerra-3596059",
      "domain": "El Tiempo",
@@ -1691,12 +1709,6 @@
      "url": "https://www.eltiempo.com/colombia/barranquilla/lluvias-inundan-calles-de-cartagena-y-monteria-reportan-vehiculos-atrapados-y-aplazan-inauguracion-del-gran-malecon-del-mar-prevista-para-este-sabado-3596046",
      "domain": "El Tiempo",
      "seendate": "20261024T182040Z"
-    },
-    {
-     "title": "Así fue el accidente de una avioneta que se estrelló contra un cañaduzal en Puerto Tejada, Cauca; ¿cómo sus tripulantes salieron ilesos?",
-     "url": "https://www.eltiempo.com/colombia/cali/asi-una-avioneta-tuvo-que-aterrizar-de-emergencia-y-termino-en-un-canaduzal-de-puerto-tejada-cauca-sus-tripulantes-salieron-ilesos-3596036",
-     "domain": "El Tiempo",
-     "seendate": "20261024T174249Z"
     }
    ]
   },
@@ -2023,22 +2035,28 @@
   "PER": {
    "articles": [
     {
+     "title": "Vientos de más de 30 km/h afectan la costa de Ica y dificultan el tránsito vehicular",
+     "url": "https://elcomercio.pe/peru/ica/pisco-vientos-de-mas-de-30-kmh-afectan-la-costa-de-ica-y-dificultan-el-transito-vehicular-ultimas-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261024T225000Z"
+    },
+    {
      "title": "Lluvias en Perú EN VIVO hoy: Senamhi advierte precipitaciones extremas por El Niño extraordinario",
      "url": "https://elcomercio.pe/peru/lluvias-en-peru-en-vivo-ultimas-noticias-de-las-precipitaciones-en-piura-tumbes-y-trujillo-estado-de-emergencia-en-el-norte-senamhi-indeci-lloviznas-fenomeno-el-nino-lbposting-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261024T213648Z"
+     "seendate": "20261024T223339Z"
+    },
+    {
+     "title": "Último temblor hoy, sábado 24 de octubre: Sismos en Perú, lugar y magnitud según IGP",
+     "url": "https://elcomercio.pe/peru/ultimo-temblor-hoy-via-igp-reporte-el-epicentro-magnitud-y-mas-del-sismo-tdpe-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261024T223312Z"
     },
     {
      "title": "Ministro Guillermo Shinno Huamaní inaugura Central Solar Expansión Intipampa en Moquegua",
      "url": "https://elcomercio.pe/economia/peru/ministro-guillermo-shinno-huamani-inaugura-central-solar-expansion-intipampa-en-moquegua-noticia/",
      "domain": "El Comercio",
      "seendate": "20261024T191143Z"
-    },
-    {
-     "title": "Lambayeque: Desagües colapsan por tercer día consecutivo en urbanización de Chiclayo",
-     "url": "https://elcomercio.pe/peru/lambayeque/lambayeque-desagues-colapsan-por-tercer-dia-consecutivo-en-urbanizacion-de-chiclayo-fenomeno-el-nino-ultimas-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261024T185246Z"
     }
    ]
   },
@@ -2755,6 +2773,18 @@
   "ARG": {
    "articles": [
     {
+     "title": "Alerta en Vicente López: investigan la intoxicación de dos perros y la muerte de uno de ellos tras pasear por una plaza",
+     "url": "https://www.lanacion.com.ar/sociedad/alerta-en-vicente-lopez-investigan-la-intoxicacion-de-dos-perros-y-la-muerte-de-uno-de-ellos-tras-nid24102026/",
+     "domain": "La Nación",
+     "seendate": "20261024T223949Z"
+    },
+    {
+     "title": "En el gobierno de Lula creen que Milei podría no reconocer un eventual triunfo del PT",
+     "url": "https://www.lanacion.com.ar/politica/en-el-gobierno-de-lula-creen-que-milei-podria-no-reconocer-un-eventual-triunfo-del-pt-nid24102026/",
+     "domain": "La Nación",
+     "seendate": "20261024T223912Z"
+    },
+    {
      "title": "A cuánto abre el dólar el lunes 26 de octubre",
      "url": "https://www.lanacion.com.ar/economia/dolar/a-cuanto-abre-el-dolar-el-lunes-26-de-octubre-nid24102026/",
      "domain": "La Nación",
@@ -2765,12 +2795,6 @@
      "url": "https://www.lanacion.com.ar/economia/relacion-de-dependencia-o-cuentapropismo-nid24102026/",
      "domain": "La Nación",
      "seendate": "20261024T220000Z"
-    },
-    {
-     "title": "En el gobierno de Lula creen que Milei podría no reconocer un eventual triunfo del PT",
-     "url": "https://www.lanacion.com.ar/politica/en-el-gobierno-de-lula-creen-que-milei-podria-no-reconocer-un-eventual-triunfo-del-pt-nid24102026/",
-     "domain": "La Nación",
-     "seendate": "20261024T215914Z"
     },
     {
      "title": "Milei volvió a atacar a LA NACION por el caso $LIBRA y dijo que no descarta iniciar acciones legales",
@@ -2843,24 +2867,6 @@
      "url": "https://www.lanacion.com.ar/economia/campo/introducido-por-un-escoces-y-discutido-en-sus-comienzos-el-alambrado-marco-un-antes-y-un-despues-en-nid24102026/",
      "domain": "La Nación",
      "seendate": "20261024T183411Z"
-    },
-    {
-     "title": "Los Cedears más comprados por los argentinos: apuestas en inteligencia artificial, Brasil y Bitcoin",
-     "url": "https://www.lanacion.com.ar/economia/los-cedears-mas-comprados-por-los-argentinos-apuestas-en-inteligencia-artificial-brasil-y-bitcoin-nid24102026/",
-     "domain": "La Nación",
-     "seendate": "20261024T181202Z"
-    },
-    {
-     "title": "La primera formación está lista en China: estos son los nuevos coches para las líneas A y C de subte",
-     "url": "https://www.lanacion.com.ar/sociedad/la-primera-formacion-esta-lista-en-china-estos-son-los-nuevos-coches-para-las-lineas-a-y-c-de-subte-nid24102026/",
-     "domain": "La Nación",
-     "seendate": "20261024T180058Z"
-    },
-    {
-     "title": "La clave de la vida que propone la psiquiatra Marian Rojas Estapé: “Es aprender a renunciar sin culpa, sabiendo elegir lo mejor en cada momento”",
-     "url": "https://www.lanacion.com.ar/sociedad/la-clave-de-la-vida-que-propone-la-psiquiatra-marian-rojas-estape-es-aprender-a-renunciar-sin-culpa-nid24102026/",
-     "domain": "La Nación",
-     "seendate": "20261024T170000Z"
     }
    ]
   },
@@ -3225,6 +3231,12 @@
   "PRY": {
    "articles": [
     {
+     "title": "Participación electoral es cercenada por la “ley mordaza”, denuncian paraguayos migrantes",
+     "url": "https://www.abc.com.py/nacionales/2026/10/24/participacion-electoral-es-cercenada-por-la-ley-mordaza-denuncian-paraguayos-migrantes/",
+     "domain": "ABC Color",
+     "seendate": "20261024T222925Z"
+    },
+    {
      "title": "Misiones suma su primera promoción de instructores laborales formados por Sinafocal",
      "url": "https://www.abc.com.py/nacionales/2026/10/24/misiones-suma-su-primera-promocion-de-instructores-laborales-formados-por-sinafocal/",
      "domain": "ABC Color",
@@ -3247,12 +3259,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/24/el-rio-jejui-desborda-y-el-repunte-del-rio-paraguay-se-torna-cada-vez-mas-preocupante-en-san-pedro/",
      "domain": "ABC Color",
      "seendate": "20261024T185847Z"
-    },
-    {
-     "title": "Crecida del río Paraná: ¿Cuál es la zona que más preocupa al ministro de Defensa?",
-     "url": "https://www.abc.com.py/nacionales/2026/10/24/crecida-del-rio-parana-cual-es-la-zona-que-mas-preocupa-al-ministro-de-defensa/",
-     "domain": "ABC Color",
-     "seendate": "20261024T175016Z"
     }
    ]
   },
@@ -3470,24 +3476,6 @@
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/mp-eleitoral-aponta-ligacao-de-canella-com-a-milicia-e-pede-ao-tse-para-negar-registro-da-candidatura.ghtml",
      "domain": "O Globo",
      "seendate": "20261024T123637Z"
-    },
-    {
-     "title": "Repercussão do debate da Globo: 'Lula coloca Bolsonaro na defensiva', diz imprensa internacional",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/lula-coloca-bolsonaro-na-defensiva-imprensa-internacional-destaca-debate-crucial-da-tv-globo.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261024T122202Z"
-    },
-    {
-     "title": "Eleições 2026: veja onde o transporte público será gratuito no segundo turno e quais são as regras",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/eleicoes-2026-veja-onde-o-transporte-publico-sera-gratuito-no-segundo-turno-e-quais-sao-as-regras.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261024T121302Z"
-    },
-    {
-     "title": "Cadê a Michelle Bolsonaro? Senadora eleita 'some' da campanha de Flávio no segundo turno",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/cade-a-michelle-bolsonaro-senadora-eleita-some-da-campanha-de-flavio-no-segundo-turno.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261024T120115Z"
     }
    ]
   }
