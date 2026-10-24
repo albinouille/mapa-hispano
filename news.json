@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T20:23:27+00:00",
+ "updated": "2026-10-24T20:58:18+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -82,12 +82,6 @@
      "seendate": "20261023T174626Z"
     },
     {
-     "title": "Dani Martín suspende ‘in extremis’ sus dos conciertos en Barcelona",
-     "url": "https://elpais.com/espana/catalunya/2026-10-23/dani-martin-suspende-in-extremis-sus-dos-conciertos-en-barcelona.html",
-     "domain": "El País",
-     "seendate": "20261023T160700Z"
-    },
-    {
      "title": "Seis detenidos en un narcopiso de Getafe en el que se lanzaban las llaves a los consumidores para entrar",
      "url": "https://elpais.com/espana/madrid/2026-10-23/seis-detenidos-en-un-narcopiso-de-getafe-en-el-que-se-lanzaban-las-llaves-a-los-consumidores-para-acceder.html",
      "domain": "El País",
@@ -121,6 +115,66 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Hallan sin vida a interno del penal de Ahome, Sinaloa; autoridades señalan broncoaspiración como posible causa de muerte",
+     "url": "https://www.eluniversal.com.mx/estados/hallan-sin-vida-a-interno-del-penal-de-ahome-sinaloa-autoridades-senalan-broncoaspiracion-como-posible-causa-de-muerte/",
+     "domain": "El Universal",
+     "seendate": "20261024T205225Z"
+    },
+    {
+     "title": "Guadalupe Taddei afirma que se queda al frente del INE; es acusada de presuntos actos de corrupción",
+     "url": "https://www.eluniversal.com.mx/nacion/guadalupe-taddei-afirma-que-se-queda-al-frente-del-ine-es-acusada-de-presuntos-acrtos-de-corrupcion/",
+     "domain": "El Universal",
+     "seendate": "20261024T204948Z"
+    },
+    {
+     "title": "Gobernación reitera a transportistas no afectar a la ciudadanía con paro del próximo lunes; llama al diálogo",
+     "url": "https://www.eluniversal.com.mx/nacion/gobernacion-reitera-a-transportistas-no-afectar-a-la-ciudadania-con-paro-del-proximo-lunes-llama-al-dialogo/",
+     "domain": "El Universal",
+     "seendate": "20261024T204710Z"
+    },
+    {
+     "title": "Metrobús modificará servicio este domingo por Desfile de Catrinas; estas son las rutas afectadas",
+     "url": "https://www.eluniversal.com.mx/metropoli/metrobus-modificara-servicio-este-domingo-por-desfile-de-catrinas-estas-son-las-rutas-afectadas/",
+     "domain": "El Universal",
+     "seendate": "20261024T204550Z"
+    },
+    {
+     "title": "Secretaría de las Mujeres apuesta por menopausia sin tabúes; realiza conferencias para evitar discriminación laboral",
+     "url": "https://www.eluniversal.com.mx/nacion/secretaria-de-las-mujeres-apuesta-por-menopausia-sin-tabues-realiza-conferencias-para-evitar-discriminacion-laboral/",
+     "domain": "El Universal",
+     "seendate": "20261024T204214Z"
+    },
+    {
+     "title": "Senado alista Ley de Topografía para frenar conflictos por tierras entre comunidades; buscan coordinar medición del terreno",
+     "url": "https://www.eluniversal.com.mx/nacion/senado-alista-ley-de-topografia-para-frenar-conflictos-por-tierras-entre-comunidades-buscan-coordinar-medicion-del-terreno/",
+     "domain": "El Universal",
+     "seendate": "20261024T204056Z"
+    },
+    {
+     "title": "Este sábado entra en vigor decreto para expedir la Ley de armonización catastral y registral; buscan homologar y actualizar información en México",
+     "url": "https://www.eluniversal.com.mx/nacion/este-sabado-entra-en-vigor-la-ley-de-armonizacion-catastral-y-registral-buscan-homologar-y-actualizar-informacion-en-mexico/",
+     "domain": "El Universal",
+     "seendate": "20261024T203629Z"
+    },
+    {
+     "title": "Localizan con vida a menor desaparecido en Hermosillo, Sonora; fue detenido por presunto narcomenudeo",
+     "url": "https://www.eluniversal.com.mx/estados/localizan-con-vida-a-menor-desaparecido-en-hermosillo-sonora-fue-detenido-por-presunto-narcomenudeo/",
+     "domain": "El Universal",
+     "seendate": "20261024T203350Z"
+    },
+    {
+     "title": "Avanza obra de la Utopía Parque Japón; tendrá alberca, auditorio y temazcal",
+     "url": "https://www.eluniversal.com.mx/metropoli/avanza-obra-de-la-utopia-parque-japon-tendra-alberca-auditorio-y-temazcal/",
+     "domain": "El Universal",
+     "seendate": "20261024T202630Z"
+    },
+    {
+     "title": "Matan a balazos a empleado del C4i en Mazatlán; gobernadora interina de Sinaloa lamenta fallecimiento",
+     "url": "https://www.eluniversal.com.mx/estados/matan-a-balazos-a-empleado-del-c4i-en-mazatlan-gobernadora-interina-de-sinaloa-lamenta-fallecimiento/",
+     "domain": "El Universal",
+     "seendate": "20261024T202537Z"
+    },
     {
      "title": "PRI presiona por renuncia de Taddei al INE; Alito Moreno pide investigar irregularidades",
      "url": "https://www.eluniversal.com.mx/nacion/pri-presiona-por-renuncia-de-taddei-al-ine-alito-moreno-pide-investigar-irregularidades/",
@@ -264,60 +318,6 @@
      "url": "https://www.eluniversal.com.mx/nacion/pega-cambio-climatico-a-la-educacion-unicef/",
      "domain": "El Universal",
      "seendate": "20261024T093500Z"
-    },
-    {
-     "title": "Violencia, regulación y acoso judicial limitan libertad de expresión en México",
-     "url": "https://www.eluniversal.com.mx/nacion/violencia-regulacion-y-acoso-judicial-limitan-libertad-de-expresion-en-mexico/",
-     "domain": "El Universal",
-     "seendate": "20261024T093500Z"
-    },
-    {
-     "title": "Temen que Corte deseche amparos sobre modalidad 40",
-     "url": "https://www.eluniversal.com.mx/nacion/en-riesgo-amparos-contra-el-decretazo-del-imss/",
-     "domain": "El Universal",
-     "seendate": "20261024T093300Z"
-    },
-    {
-     "title": "Guadalupe Taddei, la consejera del INE que acumuló superpoder",
-     "url": "https://www.eluniversal.com.mx/nacion/guadalupe-taddei-la-consejera-del-ine-que-acumulo-superpoder/",
-     "domain": "El Universal",
-     "seendate": "20261024T093200Z"
-    },
-    {
-     "title": "Auditoría Superior destapa transas del clan Taddei en el INE; cercanos a la consejera presidenta obtuvieron contratos por 21 mdp",
-     "url": "https://www.eluniversal.com.mx/nacion/auditoria-superior-destapa-transas-del-clan-taddei-en-el-ine-cercanos-a-la-consejera-presidenta-obtuvieron-contratos-por-21-mdp/",
-     "domain": "El Universal",
-     "seendate": "20261024T093100Z"
-    },
-    {
-     "title": "Escala confrontación entre Sheinbaum y Maru; la presidenta confirma la tensión",
-     "url": "https://www.eluniversal.com.mx/nacion/escala-confrontacion-entre-sheinbaum-y-maru-la-presidenta-confirma-la-tension/",
-     "domain": "El Universal",
-     "seendate": "20261024T093000Z"
-    },
-    {
-     "title": "Sismo del 19S derribo su casa y ellos sembraron un campo de cempasúchil; productores a consumir flores mexicanas",
-     "url": "https://www.eluniversal.com.mx/metropoli/sismo-del-19s-derribo-su-casa-y-ellos-sembraron-un-campo-de-cempasuchil-productores-a-consumir-flores-mexicanas/",
-     "domain": "El Universal",
-     "seendate": "20261024T085900Z"
-    },
-    {
-     "title": "Disminuye percepción de la inseguridad en la CDMX",
-     "url": "https://www.eluniversal.com.mx/metropoli/disminuye-percepcion-de-la-inseguridad-en-la-cdmx/",
-     "domain": "El Universal",
-     "seendate": "20261024T085800Z"
-    },
-    {
-     "title": "Día de muertos; cinco opciones para disfrutar la temporada",
-     "url": "https://www.eluniversal.com.mx/metropoli/dia-de-muertos-cinco-opciones-para-disfrutar-la-temporada/",
-     "domain": "El Universal",
-     "seendate": "20261024T084839Z"
-    },
-    {
-     "title": "Hijo de Guadalupe Taddei es captado en París con contratista del INE, revela Latinus; empresario ha recibido 245 mdp en contratos",
-     "url": "https://www.eluniversal.com.mx/nacion/hijo-de-guadalupe-taddei-es-captado-en-paris-con-contratista-del-inem-revela-latinus-empresario-ha-recibido-245-mdp-en-contratos/",
-     "domain": "El Universal",
-     "seendate": "20261024T044835Z"
     }
    ]
   },
@@ -1328,6 +1328,12 @@
   "PAN": {
    "articles": [
     {
+     "title": "De la calle a la recuperación: ¿quiénes pueden ingresar al centro de rehabilitación de Las Garzas?",
+     "url": "https://www.prensa.com/sociedad/de-la-calle-a-la-recuperacion-quienes-pueden-ingresar-al-centro-de-rehabilitacion-de-las-garzas/",
+     "domain": "La Prensa",
+     "seendate": "20261024T203701Z"
+    },
+    {
      "title": "Inicia demolición de una escuela afectada por el terremoto; otras 40 serán intervenidas",
      "url": "https://www.prensa.com/sociedad/inicia-demolicion-de-una-escuela-afectada-por-el-terremoto-otras-40-seran-intervenidas/",
      "domain": "La Prensa",
@@ -1440,12 +1446,6 @@
      "url": "https://www.prensa.com/politica/el-ejecutivo-actualiza-el-balance-de-areas-afectadas-por-el-terremoto/",
      "domain": "La Prensa",
      "seendate": "20261023T002742Z"
-    },
-    {
-     "title": "Gremios periodísticos repudian amenazas contra Flor Mizrachi en pódcast de Katleen Levy",
-     "url": "https://www.prensa.com/politica/gremios-periodisticos-repudian-amenazas-contra-flor-mizrachi-en-podcast-de-katleen-levy/",
-     "domain": "La Prensa",
-     "seendate": "20261022T233035Z"
     },
     {
      "title": "Jubilados: diputados aprueban en primer debate proyecto de aumentos de descuentos",
@@ -1585,16 +1585,22 @@
   "COL": {
    "articles": [
     {
+     "title": "Inédito: falso retén policial terminó en el robo de $260 millones en lingotes de plata en Girón, Santander",
+     "url": "https://www.eltiempo.com/colombia/santander/inedito-falso-reten-policial-termino-en-robo-de-260-millones-en-lingotes-de-plata-en-giron-3596056",
+     "domain": "El Tiempo",
+     "seendate": "20261024T203509Z"
+    },
+    {
      "title": "Emergencia en Cartagena por aguacero: crecen los reportes de carros arrastrados por arroyos, calles inundadas y trancones en varios sectores",
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/emergencia-en-cartagena-por-aguacero-crecen-los-reportes-de-carros-arrastrados-por-arroyos-calles-inundadas-y-trancones-en-varios-sectores-3596064",
      "domain": "El Tiempo",
-     "seendate": "20261024T201815Z"
+     "seendate": "20261024T203353Z"
     },
     {
-     "title": "Inédito: falso reten policial terminó en robo de $260 millones en lingotes de plata en Girón",
-     "url": "https://www.eltiempo.com/colombia/santander/inedito-falso-reten-policial-termino-en-robo-de-260-millones-en-lingotes-de-plata-en-giron-3596056",
+     "title": "Lluvias en Cartagena provocan inundaciones y afectan el servicio de agua al 15 % de los usuarios por daños eléctricos en el sistema de acueducto",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/lluvias-en-cartagena-provocan-inundaciones-y-afectan-el-servicio-de-agua-al-15-de-los-usuarios-por-danos-electricos-en-el-sistema-de-acueducto-3596067",
      "domain": "El Tiempo",
-     "seendate": "20261024T194053Z"
+     "seendate": "20261024T202810Z"
     },
     {
      "title": "Un bus con más de 40 pasajeros que iba a una peregrinación religiosa, la mayoría adultos mayores, se volcó en Medellín: 16 personas quedaron heridas",
@@ -1637,12 +1643,6 @@
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/lina-garrido-arremete-contra-felipe-harman-por-descuido-de-la-ant-en-isla-fiesta-en-cartagena-esta-en-ruinas-3596031",
      "domain": "El Tiempo",
      "seendate": "20261024T171558Z"
-    },
-    {
-     "title": "La gobernadora Margarita Guerra marca distancia con Fuerza Ciudadana: reporta $52.200 millones para seguridad en el departamento del Magdalena",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/la-gobernadora-margarita-guerra-marca-distancia-con-fuerza-ciudadana-reporta-52-200-millones-para-seguridad-en-el-departamento-del-magdalena-3596028",
-     "domain": "El Tiempo",
-     "seendate": "20261024T163821Z"
     }
    ]
   },
@@ -1839,7 +1839,19 @@
   "ECU": {
    "articles": [
     {
-     "title": "El Rosado abrió shopping en Chone y alista inauguración de otro centro comercial en Manta",
+     "title": "¿Terminará antes el año lectivo por las lluvias? Esto responde la ministra de Educación",
+     "url": "https://eluniverso.com/comunidad/ecuador/terminara-antes-el-ano-lectivo-por-las-lluvias-esto-responde-la-ministra-de-educacion-nota/",
+     "domain": "El Universo",
+     "seendate": "20261024T204212Z"
+    },
+    {
+     "title": "Fundación Cruzada Nueva Humanidad se renueva y refuerza atención a puertas de cumplir 50 años",
+     "url": "https://eluniverso.com/comunidad/ecuador/con-renovacion-institucional-fundacion-cruzada-nueva-humanidad-refuerza-atencion-medica-nota/",
+     "domain": "El Universo",
+     "seendate": "20261024T203715Z"
+    },
+    {
+     "title": "El Rosado abrió ‘shopping’ en Chone y alista inauguración de otro centro comercial en Manta",
      "url": "https://eluniverso.com/comunidad/ecuador/el-rosado-abre-en-chone-y-prepara-un-mall-en-manta-nota/",
      "domain": "El Universo",
      "seendate": "20261024T200919Z"
@@ -1978,7 +1990,7 @@
      "title": "Lluvias en Perú EN VIVO hoy: Senamhi advierte precipitaciones extremas por El Niño extraordinario",
      "url": "https://elcomercio.pe/peru/lluvias-en-peru-en-vivo-ultimas-noticias-de-las-precipitaciones-en-piura-tumbes-y-trujillo-estado-de-emergencia-en-el-norte-senamhi-indeci-lloviznas-fenomeno-el-nino-lbposting-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261024T201049Z"
+     "seendate": "20261024T204541Z"
     },
     {
      "title": "Ministro Guillermo Shinno Huamaní inaugura Central Solar Expansión Intipampa en Moquegua",
@@ -2015,6 +2027,12 @@
      "seendate": "20261024T160000Z"
     },
     {
+     "title": "Tuto exige a Kast que se disculpen y paguen resarcimiento por el caso maderas",
+     "url": "https://www.opinion.com.bo/pais/tuto-exige-kast-que-disculpen-paguen-resarcimiento-caso-maderas/20261024110842998105.html",
+     "domain": "opinion.com.bo",
+     "seendate": "20261024T154500Z"
+    },
+    {
      "title": "Cae policía que capturó a Marset : Tcnl . Juan Ferrufino es investigado por robo en la casa del narco",
      "url": "https://www.opinion.com.bo/pais/cae-tcnl-juan-ferrufino-uno-que-atrapo-marset-es-investigado-robo-casa-narco/20261024075217998104.html",
      "domain": "opinion.com.bo",
@@ -2023,12 +2041,6 @@
     {
      "title": "Gobierno ratifica que el precio del pan se mantiene en Bs 0 , 80",
      "url": "https://www.opinion.com.bo/pais/gobierno-ratifica-que-precio-pan-mantiene-bs-080/20261024073924998102.html",
-     "domain": "opinion.com.bo",
-     "seendate": "20261024T154500Z"
-    },
-    {
-     "title": "Tuto exige a Kast que se disculpen y paguen resarcimiento por el caso maderas",
-     "url": "https://www.opinion.com.bo/pais/tuto-exige-kast-que-disculpen-paguen-resarcimiento-caso-maderas/20261024110842998105.html",
      "domain": "opinion.com.bo",
      "seendate": "20261024T154500Z"
     },
@@ -2719,6 +2731,30 @@
   "ARG": {
    "articles": [
     {
+     "title": "El sindicalista absuelto tras el bloqueo en San Nicolás prepara un contragolpe y los empresarios buscan revertir el fallo",
+     "url": "https://www.lanacion.com.ar/politica/el-sindicalista-absuelto-tras-el-bloqueo-en-san-nicolas-prepara-un-contragolpe-y-los-empresarios-nid24102026/",
+     "domain": "La Nación",
+     "seendate": "20261024T204340Z"
+    },
+    {
+     "title": "León XIV en la Argentina: cómo se prepara la familia agustiniana para recibirlo, qué regalo le harán y un lema para el futuro",
+     "url": "https://www.lanacion.com.ar/sociedad/leon-xiv-en-la-argentina-como-se-prepara-la-familia-agustiniana-para-recibirlo-que-regalo-le-haran-y-nid24102026/",
+     "domain": "La Nación",
+     "seendate": "20261024T203319Z"
+    },
+    {
+     "title": "Milei volvió a atacar a LA NACION por el caso $LIBRA y dijo que no descarta iniciar acciones legales",
+     "url": "https://www.lanacion.com.ar/politica/milei-volvio-a-atacar-a-la-nacion-por-el-caso-libra-y-dijo-que-no-descarta-iniciar-acciones-legales-nid24102026/",
+     "domain": "La Nación",
+     "seendate": "20261024T202943Z"
+    },
+    {
+     "title": "Fue asesinado de cinco balazos en la calle, en un crimen con el sello de una venganza entre bandas internacionales",
+     "url": "https://www.lanacion.com.ar/seguridad/fue-asesinado-de-cinco-balazos-en-la-calle-en-un-crimen-con-el-sello-de-una-venganza-entre-bandas-nid24102026/",
+     "domain": "La Nación",
+     "seendate": "20261024T202641Z"
+    },
+    {
      "title": "Quejas en Mendoza: otro trastorno que el Súper Niño sacó a la luz y que las autoridades admiten es difícil de solucionar",
      "url": "https://www.lanacion.com.ar/sociedad/reclamos-en-mendoza-otro-trastorno-que-el-super-nino-saco-a-la-luz-y-las-autoridades-admiten-nid24102026/",
      "domain": "La Nación",
@@ -2785,12 +2821,6 @@
      "seendate": "20261024T160935Z"
     },
     {
-     "title": "León XIV en la Argentina: cómo se prepara la familia agustiniana para recibirlo, qué regalo le harán y un lema para el futuro",
-     "url": "https://www.lanacion.com.ar/sociedad/leon-xiv-en-la-argentina-como-se-prepara-la-familia-agustiniana-para-recibirlo-que-regalo-le-haran-y-nid24102026/",
-     "domain": "La Nación",
-     "seendate": "20261024T155940Z"
-    },
-    {
      "title": "Milei volvió a atacar a Lula, que había dicho que en la Argentina la gente “come carne de burro”",
      "url": "https://www.lanacion.com.ar/politica/milei-le-respondio-a-lula-que-habia-dicho-que-en-la-argentina-se-come-carne-de-burro-nid24102026/",
      "domain": "La Nación",
@@ -2819,12 +2849,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-naranja-y-amarilla-por-tormentas-vientos-y-zonda-para-este-sabado-24-de-octubre-las-nid24102026/",
      "domain": "La Nación",
      "seendate": "20261024T132444Z"
-    },
-    {
-     "title": "Dólar hoy y dólar blue hoy: a cuánto cotiza este sábado 24 de octubre",
-     "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-hoy-a-cuanto-cotiza-este-sabado-24-de-octubre-nid24102026/",
-     "domain": "La Nación",
-     "seendate": "20261024T115408Z"
     }
    ]
   },
@@ -3229,12 +3253,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/24/comerciantes-y-usuarios-del-mercado-4-exigen-limpieza-ordenamiento-y-fin-del-planillerismo/",
      "domain": "ABC Color",
      "seendate": "20261024T165255Z"
-    },
-    {
-     "title": "Informe médico sobre Ramón González Daher ¿Es grave su estado de salud?",
-     "url": "https://www.abc.com.py/nacionales/2026/10/24/informe-medico-sobre-ramon-gonzalez-daher-es-grave-su-estado-de-salud/",
-     "domain": "ABC Color",
-     "seendate": "20261024T154604Z"
     }
    ]
   },
@@ -3243,6 +3261,12 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "Último ato do 2º turno: Flávio Bolsonaro encerra campanha no Rio, e Lula retorna à Avenida Paulista",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/ultimo-ato-do-2o-turno-flavio-bolsonaro-encerra-campanha-no-rio-e-lula-retorna-a-avenida-paulista.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T202332Z"
+    },
     {
      "title": "Eleições: 2º turno começa no exterior, e brasileiros já vão às urnas na Nova Zelândia",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/eleicoes-2o-turno-comeca-no-exterior-e-brasileiros-ja-vao-as-urnas-na-nova-zelandia.ghtml",
