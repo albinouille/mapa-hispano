@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T16:31:18+00:00",
+ "updated": "2026-10-24T17:03:20+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -42,6 +42,12 @@
     {
      "title": "Los murales para el Waldorf Astoria de Nueva York en 1929 acaban en Boadilla tras una disputa entre Madrid y Cataluña",
      "url": "https://elpais.com/espana/madrid/2026-10-24/los-murales-para-el-waldorf-astoria-de-nueva-york-en-1929-acaban-en-boadilla-tras-una-disputa-entre-madrid-y-cataluna.html",
+     "domain": "El País",
+     "seendate": "20261024T033001Z"
+    },
+    {
+     "title": "Cinco días frenéticos en los consulados para cumplir el ultimátum del Supremo: “Es como reparar un avión en pleno vuelo”",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-10-24/cinco-dias-freneticos-en-los-consulados-para-cumplir-el-ultimatum-del-supremo-es-como-reparar-un-avion-en-pleno-vuelo.html",
      "domain": "El País",
      "seendate": "20261024T033001Z"
     },
@@ -122,6 +128,24 @@
   "MEX": {
    "articles": [
     {
+     "title": "CNDH acredita violencia obstétrica en IMSS-Bienestar de Guerrero; muere recién nacido tras retraso de cesárea",
+     "url": "https://www.eluniversal.com.mx/nacion/cndh-acredita-violencia-obstetrica-en-imss-bienestar-de-guerrero-muere-recien-nacido-tras-retraso-de-cesarea/",
+     "domain": "El Universal",
+     "seendate": "20261024T165226Z"
+    },
+    {
+     "title": "Desfile de la \"Feria de Ferias\" llena de color y tradición el Centro Histórico de Tlaxcala; participan 90 contingentes",
+     "url": "https://www.eluniversal.com.mx/estados/desfile-de-la-feria-de-ferias-llena-de-color-y-tradicion-el-centro-historico-de-tlaxcala-participan-90-contingentes/",
+     "domain": "El Universal",
+     "seendate": "20261024T165044Z"
+    },
+    {
+     "title": "\"Ya, ya, ya, después platicamos de eso\"; Sheinbaum evita dar declaraciones sobre investigación contra el INE",
+     "url": "https://www.eluniversal.com.mx/nacion/ya-ya-ya-despues-platicamos-de-eso-sheinbaum-evita-dar-declaraciones-sobre-investigacion-contra-el-ine/",
+     "domain": "El Universal",
+     "seendate": "20261024T164054Z"
+    },
+    {
      "title": "SRE alerta a mexicanos por llamados a nuevos disturbios en Italia; pide actuar con prudencia",
      "url": "https://www.eluniversal.com.mx/nacion/sre-alerta-a-mexicanos-por-llamados-a-nuevos-disturbios-en-italia-pide-actuar-con-prudencia/",
      "domain": "El Universal",
@@ -158,14 +182,14 @@
      "seendate": "20261024T140656Z"
     },
     {
-     "title": "Violencia, regulación y acoso judicial limitan libertad de expresión en México",
-     "url": "https://www.eluniversal.com.mx/nacion/violencia-regulacion-y-acoso-judicial-limitan-libertad-de-expresion-en-mexico/",
+     "title": "Pega cambio climático a la educación: UNICEF",
+     "url": "https://www.eluniversal.com.mx/nacion/pega-cambio-climatico-a-la-educacion-unicef/",
      "domain": "El Universal",
      "seendate": "20261024T093500Z"
     },
     {
-     "title": "Pega cambio climático a la educación: UNICEF",
-     "url": "https://www.eluniversal.com.mx/nacion/pega-cambio-climatico-a-la-educacion-unicef/",
+     "title": "Violencia, regulación y acoso judicial limitan libertad de expresión en México",
+     "url": "https://www.eluniversal.com.mx/nacion/violencia-regulacion-y-acoso-judicial-limitan-libertad-de-expresion-en-mexico/",
      "domain": "El Universal",
      "seendate": "20261024T093500Z"
     },
@@ -1078,6 +1102,12 @@
   "CRI": {
    "articles": [
     {
+     "title": "Hospital Nacional de Niños suma 17 muertes por infecciones respiratorias graves en 2026: ¿cómo se puede prevenir?",
+     "url": "https://www.nacion.com/el-pais/hospital-nacional-de-ninos-suma-17-muertes-por/YKHMNAIGBVDDTKXIJBQZHSLS6Y/story/",
+     "domain": "La Nación",
+     "seendate": "20261024T164507Z"
+    },
+    {
      "title": "Costa Rica bajo las estrellas: elija las tres mejores fotos de este concurso",
      "url": "https://www.nacion.com/el-pais/costa-rica-bajo-las-estrellas-elija-las-tres/FYF4PKH5MZF3DHAUNH2IOFZDFM/story/",
      "domain": "La Nación",
@@ -1208,12 +1238,6 @@
      "url": "https://www.nacion.com/el-pais/paniamor-y-asociaciones-fustigan-eliminacion-de/GRU3322DTRFXHAX4PMEMEDYQV4/story/",
      "domain": "La Nación",
      "seendate": "20261023T170643Z"
-    },
-    {
-     "title": "Patricia Solano, magistrada y aspirante a presidir la Corte, denuncia presuntas intervenciones telefónicas y vigilancia a su familia",
-     "url": "https://www.nacion.com/politica/patricia-solano-magistrada-y-aspirante-a-presidir/DV7QJNGPSVDRRLZLO5JZ4ASW6U/story/",
-     "domain": "La Nación",
-     "seendate": "20261023T164415Z"
     }
    ]
   },
@@ -1477,16 +1501,16 @@
   "COL": {
    "articles": [
     {
+     "title": "La gobernadora Margarita Guerra marca distancia con Fuerza Ciudadana: reporta $52.200 millones para seguridad en el departamento del Magdalena",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/la-gobernadora-margarita-guerra-marca-distancia-con-fuerza-ciudadana-reporta-52-200-millones-para-seguridad-en-el-departamento-del-magdalena-3596028",
+     "domain": "El Tiempo",
+     "seendate": "20261024T163821Z"
+    },
+    {
      "title": "Tres policías heridos en balacera tras frustrar el robo de una banda a otro uniformado en el centro de Cali: una patrullera se encuentra grave en UCI",
      "url": "https://www.eltiempo.com/colombia/cali/tres-policias-heridos-en-balacera-tras-frustrar-el-robo-de-una-banda-a-otro-uniformado-en-el-centro-de-cali-una-patrullera-se-encuentra-grave-en-uci-3596016",
      "domain": "El Tiempo",
      "seendate": "20261024T161620Z"
-    },
-    {
-     "title": "Exclusivo: las sofisticadas cámaras de 60 millones de pesos con las que las disidencias de las Farc potencian sus drones en Antioquia",
-     "url": "https://www.eltiempo.com/colombia/medellin/exclusivo-las-sofisticadas-camaras-de-60-millones-de-pesos-con-las-que-disidencias-de-las-farc-potencian-sus-drones-en-antioquia-3595981",
-     "domain": "El Tiempo",
-     "seendate": "20261024T154610Z"
     },
     {
      "title": "Brotes de dengue en el Atlántico: niño de 2 años murió tras dar positivo en Sabanalarga; su familia cuestiona la atención recibida",
@@ -1789,6 +1813,12 @@
   "PER": {
    "articles": [
     {
+     "title": "Lote 192: Petroloreto asumirá el 75% de participación y la operación por 27 años",
+     "url": "https://elcomercio.pe/economia/peru/lote-192-petroloreto-asumira-el-75-de-participacion-y-la-operacion-por-27-anos-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261024T163929Z"
+    },
+    {
      "title": "Lluvias en Perú EN VIVO hoy: Senamhi advierte precipitaciones extremas por El Niño extraordinario",
      "url": "https://elcomercio.pe/peru/lluvias-en-peru-en-vivo-ultimas-noticias-de-las-precipitaciones-en-piura-tumbes-y-trujillo-estado-de-emergencia-en-el-norte-senamhi-indeci-lloviznas-fenomeno-el-nino-lbposting-noticia/",
      "domain": "El Comercio",
@@ -1811,12 +1841,6 @@
      "url": "https://elcomercio.pe/peru/rony-lopez-mija-de-corresponsal-en-el-comercio-a-trabajar-con-las-marcas-mas-top-del-rubro-gastronomico-no-siempre-estamos-dispuestos-a-entender-la-discapacidad-noticia/",
      "domain": "El Comercio",
      "seendate": "20261024T145623Z"
-    },
-    {
-     "title": "El Niño: Capeco plantea acelerar la reconstrucción de viviendas ante brechas en prevención",
-     "url": "https://elcomercio.pe/economia/peru/el-nino-capeco-plantea-acelerar-la-reconstruccion-de-viviendas-ante-brechas-en-prevencion-fen-fenomeno-de-el-nino-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261024T133947Z"
     }
    ]
   },
@@ -2657,23 +2681,41 @@
      "url": "https://www.lanacion.com.ar/economia/campo/una-exigencia-que-obliga-a-decidir-entre-los-principios-y-el-pragmatismo-nid24102026/",
      "domain": "La Nación",
      "seendate": "20261024T090000Z"
-    },
-    {
-     "title": "Se viene un cambio drástico en el pronóstico: de días gélidos, con lluvias y tormentas intermitentes, a ráfagas de hasta 50 km/h y temperaturas cercanas a los 25 grados: las zonas afectadas",
-     "url": "https://www.lanacion.com.ar/sociedad/se-viene-un-cambio-drastico-en-el-pronostico-de-dias-gelidos-con-lluvias-y-tormentas-intermitentes-a-nid24102026/",
-     "domain": "La Nación",
-     "seendate": "20261024T080000Z"
-    },
-    {
-     "title": "Inti Bonomo, experto en Ciencias Ambientales, sobre el avance del fenómeno del Súper Niño: “Va a seguir creciendo y el pico va a ser en diciembre”",
-     "url": "https://www.lanacion.com.ar/sociedad/inti-bonomo-experto-en-ciencias-ambientales-sobre-el-avance-del-fenomeno-del-super-nino-va-a-seguir-nid24102026/",
-     "domain": "La Nación",
-     "seendate": "20261024T070000Z"
     }
    ]
   },
   "URY": {
    "articles": [
+    {
+     "title": "Lubetkin descartó que una victoria de Flávio Bolsonaro afecte al Mercosur : No creo sinceramente que afecte para nada",
+     "url": "https://www.elobservador.com.uy/nacional/lubetkin-descarto-que-una-victoria-flavio-bolsonaro-afecte-al-mercosur-no-creo-sinceramente-que-afecte-nada-n6061459",
+     "domain": "elobservador.com.uy",
+     "seendate": "20261024T161500Z"
+    },
+    {
+     "title": "Brasil decide entre Lula o Bolsonaro en un balotaje peleado que define el rumbo del país e impacta en la región",
+     "url": "https://www.elobservador.com.uy/estados-unidos/america-latina/brasil-decide-lula-o-bolsonaro-un-balotaje-peleado-que-define-el-rumbo-del-pais-e-impacta-la-region-n6061334",
+     "domain": "elobservador.com.uy",
+     "seendate": "20261024T161500Z"
+    },
+    {
+     "title": "Vanesa Britos internada en Brasil con 40 de fiebre y sospecha de dengue : Me agarró un virus bastante jodido",
+     "url": "https://www.elpais.com.uy/tvshow/personajes/vanesa-britos-internada-en-brasil-con-40-de-fiebre-y-sospecha-de-dengue-me-agarro-un-virus-bastante-jodido",
+     "domain": "elpais.com.uy",
+     "seendate": "20261024T160000Z"
+    },
+    {
+     "title": "El Niño está presente y traerá mucha agua sobre la cuenca del río Uruguay",
+     "url": "https://www.diariocambio.com.uy/el-nino-esta-presente-y-traera-mucha-agua-sobre-la-cuenca-del-rio-uruguay",
+     "domain": "diariocambio.com.uy",
+     "seendate": "20261024T150000Z"
+    },
+    {
+     "title": "Aguada y Biguá ganaron por la fecha 2 de la LUB y están invictos",
+     "url": "https://espectador.com/noticias/basquetbol/aguada-y-bigua-ganaron-por-la-fecha-2-de-la-lub-y-estan-invictos",
+     "domain": "espectador.com",
+     "seendate": "20261024T141500Z"
+    },
     {
      "title": "Unidad Indexada hoy : cuánto cotiza la UI este sábado 24 de octubre de 2026 en pesos uruguayos",
      "url": "https://www.elpais.com.uy/negocios/finanzas/unidad-indexada-hoy-cuanto-cotiza-la-ui-este-sabado-24-de-octubre-de-2026-en-pesos-uruguayos",
@@ -2795,6 +2837,18 @@
      "seendate": "20261023T074500Z"
     },
     {
+     "title": "De Aiguá a Berlín , el uruguayo que desarrolla tecnología en una empresa alemana de publicidad para retailers",
+     "url": "https://www.elpais.com.uy/el-empresario/de-aigua-a-berlin-el-uruguayo-que-desarrolla-tecnologia-en-una-empresa-alemana-de-publicidad-para-retailers",
+     "domain": "elpais.com.uy",
+     "seendate": "20261023T071500Z"
+    },
+    {
+     "title": "Startup uruguaya Resisoft se expande en Latinoamérica con su tecnología para administrar residenciales",
+     "url": "https://www.elpais.com.uy/el-empresario/startup-uruguaya-resisoft-se-expande-en-latinoamerica-con-su-tecnologia-para-administrar-residenciales",
+     "domain": "elpais.com.uy",
+     "seendate": "20261023T071500Z"
+    },
+    {
      "title": "La marca de moda uruguaya VDamiani desembarcó en Chile en el sector de lujo del gigante Falabella",
      "url": "https://www.elpais.com.uy/el-empresario/la-marca-de-moda-uruguaya-vdamiani-desembarco-en-chile-en-el-sector-de-lujo-del-gigante-falabella",
      "domain": "elpais.com.uy",
@@ -2827,18 +2881,6 @@
     {
      "title": "La Liga Uruguaya de Básquetbol continúa con Biguá ante Larrañaga y Aguada vs . Unión Atlética : hora y dónde ver",
      "url": "https://www.elpais.com.uy/ovacion/basquetbol/la-liga-uruguaya-de-basquetbol-continua-con-bigua-ante-larranaga-y-aguada-vs-union-atletica-hora-y-donde-ver",
-     "domain": "elpais.com.uy",
-     "seendate": "20261023T071500Z"
-    },
-    {
-     "title": "De Aiguá a Berlín , el uruguayo que desarrolla tecnología en una empresa alemana de publicidad para retailers",
-     "url": "https://www.elpais.com.uy/el-empresario/de-aigua-a-berlin-el-uruguayo-que-desarrolla-tecnologia-en-una-empresa-alemana-de-publicidad-para-retailers",
-     "domain": "elpais.com.uy",
-     "seendate": "20261023T071500Z"
-    },
-    {
-     "title": "Startup uruguaya Resisoft se expande en Latinoamérica con su tecnología para administrar residenciales",
-     "url": "https://www.elpais.com.uy/el-empresario/startup-uruguaya-resisoft-se-expande-en-latinoamerica-con-su-tecnologia-para-administrar-residenciales",
      "domain": "elpais.com.uy",
      "seendate": "20261023T071500Z"
     },
@@ -2997,41 +3039,17 @@
      "url": "https://www.elpais.com.uy/mundo/argentina/procesaron-al-exdiputado-libertario-jose-luis-espert-por-lavado-de-dinero-y-le-prohibieron-salir-de-argentina",
      "domain": "elpais.com.uy",
      "seendate": "20261022T191500Z"
-    },
-    {
-     "title": "Jorge Díaz advirtió sobre la distancia entre la agenda política y los dolores reales de la gente",
-     "url": "https://www.carasycaretas.com.uy/politica/jorge-diaz-advirtio-la-distancia-la-agenda-politica-y-los-dolores-reales-la-gente-n100398",
-     "domain": "carasycaretas.com.uy",
-     "seendate": "20261022T183000Z"
-    },
-    {
-     "title": "¿ Dónde es la final de la Copa Sudamericana ? Estadio y fecha de la definición del torneo",
-     "url": "https://www.elpais.com.uy/ovacion/futbol/donde-es-la-final-de-la-copa-sudamericana-estadio-y-fecha-de-la-definicion-del-torneo",
-     "domain": "elpais.com.uy",
-     "seendate": "20261022T160000Z"
-    },
-    {
-     "title": "Maldonado concentró más del 50 % del gasto turístico del país : cuánto dinero movió y cuántos turistas recibió",
-     "url": "https://www.elpais.com.uy/negocios/noticias/maldonado-concentro-mas-del-50-del-gasto-turistico-del-pais-cuanto-dinero-movio-y-cuantos-turistas-recibio",
-     "domain": "elpais.com.uy",
-     "seendate": "20261022T153000Z"
-    },
-    {
-     "title": "Uruguay gana autonomía científica : así es la potente plataforma de imágenes satelitales creada por la UTEC",
-     "url": "https://www.elpais.com.uy/vida-actual/ciencia/uruguay-gana-autonomia-cientifica-asi-es-la-potente-plataforma-de-imagenes-satelitales-creada-por-la-utec",
-     "domain": "elpais.com.uy",
-     "seendate": "20261022T153000Z"
-    },
-    {
-     "title": "En Paysandú hay 15 . 000 pobres menos ; para Guadalupe Caballero , la pobreza se corrió de lugar | la diaria",
-     "url": "https://ladiaria.com.uy/paysandu/articulo/2026/10/en-paysandu-hay-15000-pobres-menos-para-guadalupe-caballero-la-pobreza-se-corrio-de-lugar/",
-     "domain": "ladiaria.com.uy",
-     "seendate": "20261022T150000Z"
     }
    ]
   },
   "PRY": {
    "articles": [
+    {
+     "title": "Comerciantes y usuarios del Mercado 4 exigen limpieza, ordenamiento y fin del planillerismo",
+     "url": "https://www.abc.com.py/nacionales/2026/10/24/comerciantes-y-usuarios-del-mercado-4-exigen-limpieza-ordenamiento-y-fin-del-planillerismo/",
+     "domain": "ABC Color",
+     "seendate": "20261024T165255Z"
+    },
     {
      "title": "Informe médico sobre Ramón González Daher ¿Es grave su estado de salud?",
      "url": "https://www.abc.com.py/nacionales/2026/10/24/informe-medico-sobre-ramon-gonzalez-daher-es-grave-su-estado-de-salud/",
@@ -3055,12 +3073,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/24/annp-advierte-que-las-inundaciones-se-extenderian-hasta-marzo-de-2027/",
      "domain": "ABC Color",
      "seendate": "20261024T131332Z"
-    },
-    {
-     "title": "Municipalidad de Asunción: a una semana del cambio de Gobierno, denuncian “despedida” de “cajas paralelas”",
-     "url": "https://www.abc.com.py/nacionales/2026/10/24/municipalidad-de-asuncion-a-una-semana-del-cambio-de-gobierno-denuncian-despedida-de-cajas-paralelas/",
-     "domain": "ABC Color",
-     "seendate": "20261024T121224Z"
     }
    ]
   },
@@ -3069,6 +3081,18 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "Lula faz ato em Copacabana, e Flávio Bolsonaro reúne apoiadores em BH na véspera do segundo turno",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/lula-faz-ato-em-copacabana-e-flavio-bolsonaro-reune-apoiadores-em-bh-na-vespera-do-segundo-turno.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T164827Z"
+    },
+    {
+     "title": "Com a Palavra: levantamento com IA mostra que Flávio explorou mais termos como ‘dívida’ e ‘Bolsa Família’ em debate, e Lula focou em ‘salário mínimo’ e ‘Polícia Federal’",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/24/com-a-palavra-levantamento-com-ia-mostra-que-flavio-explorou-mais-termos-como-divida-e-bolsa-familia-em-debate-e-lula-focou-em-salario-minimo-e-policia-federal.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T164526Z"
+    },
     {
      "title": "Pneu de carro fura em ato no Rio, e Lula aproveita contratempo para alfinetar Flávio: 'Ele diria que iria voando'",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/pneu-de-carro-fura-em-ato-no-rio-e-lula-aproveita-contratempo-para-alfinetar-flavio-ele-diria-que-iria-voando.ghtml",
