@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T06:05:31+00:00",
+ "updated": "2026-10-24T07:16:22+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -46,6 +46,12 @@
      "seendate": "20261024T033000Z"
     },
     {
+     "title": "Café a la sombra de Sócrates",
+     "url": "https://elpais.com/espana/catalunya/2026-10-24/cafe-a-la-sombra-de-socrates.html",
+     "domain": "El País",
+     "seendate": "20261024T031500Z"
+    },
+    {
      "title": "La 080 Barcelona Fashion cierra una semana de moda con viajes en todas direcciones",
      "url": "https://elpais.com/espana/catalunya/2026-10-23/la-080-barcelona-fashion-cierra-una-semana-de-moda-con-viajes-en-todas-direcciones.html",
      "domain": "El País",
@@ -62,12 +68,6 @@
      "url": "https://elpais.com/espana/catalunya/2026-10-23/dani-martin-suspende-in-extremis-sus-dos-conciertos-en-barcelona.html",
      "domain": "El País",
      "seendate": "20261023T160700Z"
-    },
-    {
-     "title": "La Audiencia Nacional aplica la amnistía a los CDR acusados de terrorismo",
-     "url": "https://elpais.com/espana/2026-10-23/la-audiencia-nacional-aplica-la-amnistia-a-los-cdr-acusados-de-terrorismo.html",
-     "domain": "El País",
-     "seendate": "20261023T144941Z"
     },
     {
      "title": "El Gobierno de Ayuso no encuentra comprador para el ático de Chamberí por segunda vez",
@@ -127,6 +127,12 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Exjefa de USAID rechaza acusaciones de injerencia en México; respalda a Sheinbaum ante Trump",
+     "url": "https://www.eluniversal.com.mx/nacion/exjefa-de-usaid-rechaza-acusaciones-de-injerencia-en-mexico-respalda-a-sheinbaum-ante-trump/",
+     "domain": "El Universal",
+     "seendate": "20261024T070000Z"
+    },
     {
      "title": "Hijo de Guadalupe Taddei es captado en París con contratista del INE, revela Latinus; empresario ha recibido 245 mdp en contratos",
      "url": "https://www.eluniversal.com.mx/nacion/hijo-de-guadalupe-taddei-es-captado-en-paris-con-contratista-del-inem-revela-latinus-empresario-ha-recibido-245-mdp-en-contratos/",
@@ -236,12 +242,6 @@
      "seendate": "20261023T235940Z"
     },
     {
-     "title": "Sindicato de Universidad de Zacatecas emplazará a huelga próxima semana; convocan al rector a movilizarse ante la Federación",
-     "url": "https://www.eluniversal.com.mx/estados/sindicato-de-universidad-de-zacatecas-emplazara-a-huelga-proxima-semana-convocan-al-rector-a-movilizarse-ante-la-federacion/",
-     "domain": "El Universal",
-     "seendate": "20261023T235047Z"
-    },
-    {
      "title": "17 precandidaturas estatales de Morena respaldan a Ariadna Montiel; \"ninguna calumnia puede borrar su trayectoria\"",
      "url": "https://www.eluniversal.com.mx/nacion/17-precandidaturas-estatales-de-morena-respaldan-a-ariadna-montiel-ninguna-calumnia-puede-borrar-su-trayectoria/",
      "domain": "El Universal",
@@ -254,160 +254,16 @@
      "seendate": "20261023T233539Z"
     },
     {
-     "title": "Gobierno de CDMX entrega más de 3 mil acciones de vivienda; inversión asciende a 521 mdp, destaca Brugada",
-     "url": "https://www.eluniversal.com.mx/metropoli/gobierno-de-cdmx-entrega-mas-de-3-mil-acciones-de-vivienda-inversion-asciende-a-521-mdp-destaca-brugada/",
-     "domain": "El Universal",
-     "seendate": "20261023T232844Z"
-    },
-    {
-     "title": "Vuelca camión de la Guardia Nacional sobre carretera Campeche-Mérida; se desconocen causas del accidente",
-     "url": "https://www.eluniversal.com.mx/estados/vuelca-camion-de-la-guardia-nacional-sobre-carretera-campeche-merida-se-desconocen-causas-del-accidente/",
-     "domain": "El Universal",
-     "seendate": "20261023T231500Z"
-    },
-    {
-     "title": "Samuel García celebra que NL es uno de los estados con mayor percepción de seguridad; resultados muestran colaboración multidisciplinaria, dice",
-     "url": "https://www.eluniversal.com.mx/estados/samuel-garcia-celebra-que-nl-es-uno-de-los-estados-con-mayor-percepcion-de-seguridad-resultados-muestran-colaboracion-multidisciplinaria-dice/",
-     "domain": "El Universal",
-     "seendate": "20261023T230259Z"
-    },
-    {
-     "title": "Dan nueva vinculación a proceso a dos presuntas integrantes de \"Los Olmos Fragoso\"; están acusadas de robo a casa en Iztacalco",
-     "url": "https://www.eluniversal.com.mx/metropoli/dan-nueva-vinculacion-a-proceso-a-dos-presuntas-integrantes-de-los-olmos-fragoso-estan-acusadas-de-robo-a-casa-en-iztacalco/",
-     "domain": "El Universal",
-     "seendate": "20261023T225214Z"
-    },
-    {
-     "title": "Mujer muerde a policía de Tránsito para evitar una infracción en Venustiano Carranza; es detenida",
-     "url": "https://www.eluniversal.com.mx/metropoli/mujer-muerde-a-policia-de-transito-para-evitar-una-infraccion-en-venustiano-carranza-es-detenida/",
-     "domain": "El Universal",
-     "seendate": "20261023T223538Z"
-    },
-    {
-     "title": "El uso excesivo de redes sociales puede causar depresión: Sheinbaum; entrega Becas para el Bienestar en Colima",
-     "url": "https://www.eluniversal.com.mx/nacion/el-uso-excesivo-de-redes-sociales-puede-causar-depresion-sheinbaum-entrega-becas-para-el-bienestar-en-colima/",
-     "domain": "El Universal",
-     "seendate": "20261023T221214Z"
-    },
-    {
-     "title": "Atole de cempasúchil: el sabor de Día de Muertos llega a la Feria del Atole en Tláhuac; también habrá actividades musicales y culturales",
-     "url": "https://www.eluniversal.com.mx/metropoli/atole-de-cempasuchil-el-sabor-de-dia-de-muertos-llega-a-la-feria-del-atole-en-tlahuac-tambien-habra-actividades-musicales-y-culturales/",
-     "domain": "El Universal",
-     "seendate": "20261023T215627Z"
-    },
-    {
-     "title": "Gobernación pide a transportistas no afectar a ciudadanía con paro del próximo lunes; llama al diálogo",
-     "url": "https://www.eluniversal.com.mx/nacion/gobernacion-pide-a-transportistas-no-afectar-a-ciudadania-con-paro-del-proximo-lunes-llama-al-dialogo/",
-     "domain": "El Universal",
-     "seendate": "20261023T214439Z"
-    },
-    {
      "title": "Hallan cuerpo sin vida de niña que desapareció junto a su abuela en comunidad de Chiapas; la mujer también fue localizada muerta",
      "url": "https://www.eluniversal.com.mx/estados/hallan-cuerpo-sin-vida-de-nina-que-desaparecio-junto-a-su-abuela-en-comunidad-de-chiapas-la-mujer-tambien-fue-localizada-muerta/",
      "domain": "El Universal",
      "seendate": "20261023T212904Z"
     },
     {
-     "title": "Separan a director del penal de Mazatlán; sanción es temporal, hasta que concluyan investigaciones: gobernadora interina",
-     "url": "https://www.eluniversal.com.mx/estados/separan-a-director-del-penal-de-mazatlan-sancion-es-temporal-hasta-que-concluyan-investigaciones-gobernadora-interina/",
-     "domain": "El Universal",
-     "seendate": "20261023T212604Z"
-    },
-    {
      "title": "Ante acusación de Maru Campos, gobernadores de Morena cierran filas con Ariadna Montiel; \"debe presentar pruebas\"",
      "url": "https://www.eluniversal.com.mx/nacion/ante-acusacion-de-maru-campos-gobernadores-de-morena-cierran-filas-con-ariadna-montiel-debe-presentar-pruebas/",
      "domain": "El Universal",
      "seendate": "20261023T211939Z"
-    },
-    {
-     "title": "Cruz Pérez Cuéllar anuncia denuncias contra Maru Campos por ataques a Sheinbaum y Ariadna Montiel; \"la gobernadora ha perdido el rumbo\", dice",
-     "url": "https://www.eluniversal.com.mx/estados/cruz-perez-cuellar-anuncia-denuncias-contra-maru-campos-por-ataques-a-sheinbaum-y-ariadna-montiel-la-gobernadora-ha-perdido-el-rumbo-dice/",
-     "domain": "El Universal",
-     "seendate": "20261023T211040Z"
-    },
-    {
-     "title": "Aguascalientes aumenta 4.3 por ciento su percepción de seguridad; sube en ranking nacional",
-     "url": "https://www.eluniversal.com.mx/estados/aguascalientes-aumenta-43-por-ciento-su-percepcion-de-seguridad-sube-en-ranking-nacional/",
-     "domain": "El Universal",
-     "seendate": "20261023T210904Z"
-    },
-    {
-     "title": "Suspenden clases presenciales en escuela de Escuinapa tras ataque a camión que transportaba alumnos; se impartirán a distancia",
-     "url": "https://www.eluniversal.com.mx/estados/suspenden-clases-presenciales-en-escuela-de-escuinapa-tras-ataque-a-camion-que-transportaba-alumnos-se-impartiran-a-distancia/",
-     "domain": "El Universal",
-     "seendate": "20261023T205639Z"
-    },
-    {
-     "title": "¿Cómo registrarse a la Beca Rita Cetina?; SEP alista asamblea virtual este viernes para resolver dudas",
-     "url": "https://www.eluniversal.com.mx/nacion/como-registrarse-a-la-beca-rita-cetina-sep-alista-asamblea-virtual-este-viernes-para-resolver-dudas/",
-     "domain": "El Universal",
-     "seendate": "20261023T205118Z"
-    },
-    {
-     "title": "Javier May condena señalamientos de Maru Campos contra Ariadna Montiel; \"una acusación de esa gravedad no se lanza frente a un micrófono\", indicó",
-     "url": "https://www.eluniversal.com.mx/estados/javier-may-condena-senalamientos-de-maru-campos-contra-ariadna-montiel-una-acusacion-de-esa-gravedad-no-se-lanza-frente-a-un-microfono-indico/",
-     "domain": "El Universal",
-     "seendate": "20261023T204427Z"
-    },
-    {
-     "title": "Agrupaciones Obreras anuncian acciones legales contra el IMSS por cambios en Modalidad 40; acusan violación a derechos",
-     "url": "https://www.eluniversal.com.mx/nacion/agrupaciones-obreras-anuncian-acciones-legales-contra-el-imss-por-cambios-en-modalidad-40-acusan-violacion-a-derechos/",
-     "domain": "El Universal",
-     "seendate": "20261023T204113Z"
-    },
-    {
-     "title": "Auditoría Superior de la Federación abre investigación contra el INE; ve indicios de posible corrupción en contratos públicos",
-     "url": "https://www.eluniversal.com.mx/nacion/auditoria-superior-de-la-federacion-abre-investigacion-contra-el-ine-deriva-de-posible-corrupcion-en-contratos-publicos/",
-     "domain": "El Universal",
-     "seendate": "20261023T203830Z"
-    },
-    {
-     "title": "Edomex sumará 13 municipios al Mando Unificado Oriente; se amplía al corredor AIFA-Pirámides",
-     "url": "https://www.eluniversal.com.mx/metropoli/edomex-sumara-13-municipios-al-mando-unificado-oriente-se-amplia-al-corredor-aifa-piramides/",
-     "domain": "El Universal",
-     "seendate": "20261023T203709Z"
-    },
-    {
-     "title": "Maru culpó a exfiscal en caso de la CIA, dice Ernestina Godoy; la gobernadora compartió información: FGR",
-     "url": "https://www.eluniversal.com.mx/nacion/maru-culpo-a-exfiscal-en-caso-de-la-cia-dice-ernestina-godoy-la-gobernadora-compartio-informacion-dice-la-fgr/",
-     "domain": "El Universal",
-     "seendate": "20261023T203523Z"
-    },
-    {
-     "title": "Así han sido los dimes y diretes entre Sheinbaum y Maru Campos; ambas aceptan que se \"levantaron voz\" por caso CIA",
-     "url": "https://www.eluniversal.com.mx/nacion/asi-han-sido-los-dimes-y-diretes-entre-sheinbaum-y-maru-campos-ambas-aceptan-que-se-levantaron-voz-por-caso-cia/",
-     "domain": "El Universal",
-     "seendate": "20261023T202825Z"
-    },
-    {
-     "title": "Ariadna Montiel responde a acusaciones de Maru Campos; la gobernadora es una \"mitómana\", dice",
-     "url": "https://www.eluniversal.com.mx/nacion/ariadna-montiel-responde-a-acusaciones-de-maru-campos-la-gobernadora-es-una-mitomana-dice/",
-     "domain": "El Universal",
-     "seendate": "20261023T201929Z"
-    },
-    {
-     "title": "Metrobús modifica servicio este sábado por paseo nocturno; habrá cierres en las rutas 4 y 7",
-     "url": "https://www.eluniversal.com.mx/metropoli/metrobus-modifica-servicio-este-sabado-por-paseo-nocturno-habra-cierres-en-las-rutas-4-y-7/",
-     "domain": "El Universal",
-     "seendate": "20261023T201854Z"
-    },
-    {
-     "title": "Dan 12 años de prisión a mujer por transportar a 4 migrantes guatemaltecos en Sonora; fue detenida en 2024",
-     "url": "https://www.eluniversal.com.mx/estados/dan-12-anos-de-prision-a-mujer-por-transportar-a-4-migrantes-guatemaltecos-en-sonora-fue-detenida-en-2024/",
-     "domain": "El Universal",
-     "seendate": "20261023T200321Z"
-    },
-    {
-     "title": "Transportistas de varios estados se sumarán al paro nacional y manifestaciones del próximo lunes; denuncian inseguridad y deterioro carretero",
-     "url": "https://www.eluniversal.com.mx/estados/transportistas-alistan-paro-de-operaciones-y-manifestaciones-para-el-proximo-lunes-en-hidalgo-denuncian-inseguridad-y-deterioro-carretero/",
-     "domain": "El Universal",
-     "seendate": "20261023T193625Z"
-    },
-    {
-     "title": "Sheinbaum reacciona a patrimonio de senadora Carolina Viggiano; \"que se investigue de dónde salió el recurso\", dice",
-     "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-reacciona-a-patrimonio-de-senadora-carolina-viggiano-que-se-investigue-de-donde-salio-el-recurso-dice/",
-     "domain": "El Universal",
-     "seendate": "20261023T151428Z"
     }
    ]
   },
@@ -1044,6 +900,18 @@
   "NIC": {
    "articles": [
     {
+     "title": "Loáisiga recibe la nueva camisa de Nicaragua para el Mundial U23",
+     "url": "https://nuevaya.com.ni/deportes-ya/loaisiga-recibe-la-nueva-camisa-de-nicaragua-para-el-mundial-u23/",
+     "domain": "nuevaya.com.ni",
+     "seendate": "20261024T004500Z"
+    },
+    {
+     "title": "Nicaragua respalda declaración de embajada de China ante afirmaciones falsas sobre empresas de su país",
+     "url": "https://nuevaya.com.ni/destacadas/nicaragua-respalda-declaracion-de-embajada-de-china-ante-afirmaciones-falsas-sobre-empresas-de-su-pais/",
+     "domain": "nuevaya.com.ni",
+     "seendate": "20261024T004500Z"
+    },
+    {
      "title": "Entrega 29 , 000 becas a jóvenes para estudiar en Nicaragua",
      "url": "https://nuevaya.com.ni/nacionales/entrega-29000-becas-a-jovenes-para-estudiar-en-nicaragua/",
      "domain": "nuevaya.com.ni",
@@ -1194,6 +1062,12 @@
      "seendate": "20261020T194500Z"
     },
     {
+     "title": "Congreso sobre justicia climática reúne a expertos en Managua",
+     "url": "https://nuevaya.com.ni/nacionales/congreso-sobre-justicia-climatica-reune-a-expertos-en-managua/",
+     "domain": "nuevaya.com.ni",
+     "seendate": "20261020T153000Z"
+    },
+    {
      "title": "ENACAL inicia obras de perforación de pozo para mejorar el servicio en Ciudad Sandino",
      "url": "https://nuevaya.com.ni/ya-mi-municipio/enacal-inicia-obras-de-perforacion-de-pozo-para-mejorar-el-servicio-en-ciudad-sandino/",
      "domain": "nuevaya.com.ni",
@@ -1202,12 +1076,6 @@
     {
      "title": "Juventud Sandinista concluye seminario político y tecnológico en China",
      "url": "https://nuevaya.com.ni/nacionales/juventud-sandinista-concluye-seminario-politico-y-tecnologico-en-china/",
-     "domain": "nuevaya.com.ni",
-     "seendate": "20261020T153000Z"
-    },
-    {
-     "title": "Congreso sobre justicia climática reúne a expertos en Managua",
-     "url": "https://nuevaya.com.ni/nacionales/congreso-sobre-justicia-climatica-reune-a-expertos-en-managua/",
      "domain": "nuevaya.com.ni",
      "seendate": "20261020T153000Z"
     },
@@ -1240,12 +1108,6 @@
      "url": "https://nuevaya.com.ni/destacadas/buscan-al-nicaraguense-rafael-valdez-por-asesinar-a-su-esposa-y-su-hija-en-costa-rica/",
      "domain": "nuevaya.com.ni",
      "seendate": "20261019T171500Z"
-    },
-    {
-     "title": "Buffalo Boxing cerrará su calendario 2026 en Matagalpa con duelo estelar entre Leyman Benavidez y Reinete Gutiérrez",
-     "url": "https://nuevaya.com.ni/deportes-ya/buffalo-boxing-cerrara-su-calendario-2026-en-matagalpa-con-duelo-estelar-entre-leyman-benavidez-y-reinete-gutierrez/",
-     "domain": "nuevaya.com.ni",
-     "seendate": "20261017T003000Z"
     }
    ]
   },
@@ -1626,12 +1488,6 @@
      "seendate": "20261021T214324Z"
     },
     {
-     "title": "La Habana, una ciudad de búsquedas desesperadas",
-     "url": "https://www.14ymedio.com/cuba/habana-ciudad-busquedas-desesperadas_1_1132227.html",
-     "domain": "14ymedio",
-     "seendate": "20261021T174037Z"
-    },
-    {
      "title": "El Cerro, un barrio de La Habana incomunicado desde hace un mes",
      "url": "https://www.14ymedio.com/cuba/cerro-barrio-habana-incomunicado-mes_1_1132214.html",
      "domain": "14ymedio",
@@ -1645,10 +1501,10 @@
   "COL": {
    "articles": [
     {
-     "title": "Exclusivo: las sofisticadas cámaras de 60 millones de pesos con las que disidencias de las Farc potencian sus drones en Antioquia",
+     "title": "Exclusivo: las sofisticadas cámaras de 60 millones de pesos con las que las disidencias de las Farc potencian sus drones en Antioquia",
      "url": "https://www.eltiempo.com/colombia/medellin/exclusivo-las-sofisticadas-camaras-de-60-millones-de-pesos-con-las-que-disidencias-de-las-farc-potencian-sus-drones-en-antioquia-3595981",
      "domain": "El Tiempo",
-     "seendate": "20261024T045258Z"
+     "seendate": "20261024T060155Z"
     },
     {
      "title": "Temblor hoy en Colombia | Reportan sismo de magnitud 3,9 durante la noche de este viernes 23 de octubre: se sintió en Cali, Medellín y otras ciudades",
@@ -2863,6 +2719,30 @@
   "ARG": {
    "articles": [
     {
+     "title": "Inti Bonomo, experto en Ciencias Ambientales, sobre el avance del fenómeno del Súper Niño: “Va a seguir creciendo y el pico va a ser en diciembre”",
+     "url": "https://www.lanacion.com.ar/sociedad/inti-bonomo-experto-en-ciencias-ambientales-sobre-el-avance-del-fenomeno-del-super-nino-va-a-seguir-nid24102026/",
+     "domain": "La Nación",
+     "seendate": "20261024T070000Z"
+    },
+    {
+     "title": "Alerta en Neuquén: las intensas lluvias reactivaron cañadones secos y causaron estragos: Vaca Muerta, la zona más afectada",
+     "url": "https://www.lanacion.com.ar/sociedad/alerta-en-neuquen-las-intensas-lluvias-reactivaron-canadones-secos-y-generaron-estragos-vaca-muerta-nid23102026/",
+     "domain": "La Nación",
+     "seendate": "20261024T064223Z"
+    },
+    {
+     "title": "La Justicia sobreseyó al Presidente y a Karina Milei en el caso $LIBRA",
+     "url": "https://www.lanacion.com.ar/politica/el-gobierno-le-contesto-al-fiscal-del-caso-libra-que-no-tenia-registro-del-presunto-acuerdo-nid20032026/",
+     "domain": "La Nación",
+     "seendate": "20261024T063930Z"
+    },
+    {
+     "title": "Hay alerta naranja y amarilla por tormentas, vientos y Zonda para este sábado 24 de octubre: las provincias afectadas",
+     "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-naranja-y-amarilla-por-tormentas-vientos-y-zonda-para-este-sabado-24-de-octubre-las-nid24102026/",
+     "domain": "La Nación",
+     "seendate": "20261024T062638Z"
+    },
+    {
      "title": "Los psicólogos coinciden: la incomodidad es la única invitación al cambio de prioridades",
      "url": "https://www.lanacion.com.ar/sociedad/los-psicologos-coinciden-la-incomodidad-es-la-unica-invitacion-al-cambio-de-prioridades-nid24102026/",
      "domain": "La Nación",
@@ -2897,12 +2777,6 @@
      "url": "https://www.lanacion.com.ar/politica/milei-hablara-en-la-cena-anual-de-faro-discurso-encuentro-con-el-nucleo-libertario-y-empresarios-nid23102026/",
      "domain": "La Nación",
      "seendate": "20261024T041809Z"
-    },
-    {
-     "title": "Alerta en Neuquén: las intensas lluvias reactivaron cañadones secos y causaron estragos: Vaca Muerta, la zona más afectada",
-     "url": "https://www.lanacion.com.ar/sociedad/alerta-en-neuquen-las-intensas-lluvias-reactivaron-canadones-secos-y-generaron-estragos-vaca-muerta-nid23102026/",
-     "domain": "La Nación",
-     "seendate": "20261024T035806Z"
     },
     {
      "title": "Emilio García-Ruiz: “Si fundara hoy un medio, empezaría por el audio y el video, no por los artículos”",
@@ -2944,6 +2818,72 @@
   },
   "URY": {
    "articles": [
+    {
+     "title": "Philippe Meirieu : la escuela debe contraponerse a la inmediatez que plantea la IA y enseñar a madurar el pensamiento | la diaria",
+     "url": "https://ladiaria.com.uy/educacion/articulo/2026/10/philippe-meirieu-la-escuela-debe-contraponerse-a-la-inmediatez-que-plantea-la-ia-y-ensenar-a-madurar-el-pensamiento/",
+     "domain": "ladiaria.com.uy",
+     "seendate": "20261024T064500Z"
+    },
+    {
+     "title": "Brasil y algunas razones estructurales del empate : lecciones para Uruguay",
+     "url": "https://ladiaria.com.uy/opinion/articulo/2026/10/brasil-y-algunas-razones-estructurales-del-empate-lecciones-para-uruguay/",
+     "domain": "ladiaria.com.uy",
+     "seendate": "20261024T064500Z"
+    },
+    {
+     "title": "Quien exige que legisle : el Parlamento deberá decidir cómo gobernar y hacer política de ciencia e innovación en Uruguay",
+     "url": "https://ladiaria.com.uy/ciencia/articulo/2026/10/quien-exige-que-legisle-el-parlamento-debera-decidir-como-gobernar-y-hacer-politica-de-ciencia-e-innovacion-en-uruguay/",
+     "domain": "ladiaria.com.uy",
+     "seendate": "20261024T064500Z"
+    },
+    {
+     "title": "Más de 2 . 000 evacuados en Argentina por inundaciones asociadas a El Niño",
+     "url": "https://www.subrayado.com.uy/mas-2000-evacuados-argentina-inundaciones-asociadas-el-nino-n1021667",
+     "domain": "subrayado.com.uy",
+     "seendate": "20261024T030000Z"
+    },
+    {
+     "title": "La Secretaría de Derechos Humanos transfirió archivos del pasado reciente a la INDDHH",
+     "url": "https://ladiaria.com.uy/justicia/articulo/2026/10/la-secretaria-de-derechos-humanos-transfirio-archivos-del-pasado-reciente-a-la-inddhh/",
+     "domain": "ladiaria.com.uy",
+     "seendate": "20261024T023000Z"
+    },
+    {
+     "title": "Camila Rodríguez Caraballo ya está en Uruguay : la joven ubicada en Argentina quedó bajo amparo del INAU",
+     "url": "https://www.elpais.com.uy/informacion/policiales/camila-rodriguez-caraballo-ya-esta-en-uruguay-la-joven-ubicada-en-argentina-quedo-bajo-amparo-del-inau",
+     "domain": "elpais.com.uy",
+     "seendate": "20261023T233000Z"
+    },
+    {
+     "title": "Fiscalía confirmó pedido de 45 años de prisión para la mujer que mató a golpes a una de sus mellizas de 9 meses",
+     "url": "https://www.subrayado.com.uy/fiscalia-confirmo-pedido-45-anos-prision-la-mujer-que-mato-golpes-una-sus-mellizas-9-meses-n1021654",
+     "domain": "subrayado.com.uy",
+     "seendate": "20261023T230000Z"
+    },
+    {
+     "title": "Nacho Álvarez denuncia censura en los premios Martín Fierro uruguayos y apunta a los que cocinaron todo",
+     "url": "https://www.elpais.com.uy/tvshow/personajes/nacho-alvarez-denuncia-censura-en-los-martin-fierro-uruguayos-y-apunta-a-los-que-cocinaron-todo",
+     "domain": "elpais.com.uy",
+     "seendate": "20261023T230000Z"
+    },
+    {
+     "title": "Juventud vs . Peñarol en vivo por el Torneo Clausura : seguí el minuto a minuto y cómo va el partido",
+     "url": "https://www.elpais.com.uy/ovacion/futbol/juventud-vs-penarol-en-vivo-por-el-torneo-clausura-segui-el-minuto-a-minuto-y-como-va-el-partido",
+     "domain": "elpais.com.uy",
+     "seendate": "20261023T230000Z"
+    },
+    {
+     "title": "Newcastle en Brasil : Uruguay suspende temporalmente el ingreso de aves y productos avícolas",
+     "url": "https://infonegocios.biz/infoagro/newcastle-en-brasil-uruguay-suspende-temporalmente-el-ingreso-de-aves-y-productos-avicolas",
+     "domain": "infonegocios.biz",
+     "seendate": "20261023T230000Z"
+    },
+    {
+     "title": "El pronóstico para el sábado 24 de octubre de 2026 : cómo estará el tiempo en cada zona del país , según Inumet",
+     "url": "https://www.elpais.com.uy/informacion/servicios/el-pronostico-para-el-sabado-24-de-octubre-de-2026-como-estara-el-tiempo-en-cada-zona-del-pais-segun-inumet",
+     "domain": "elpais.com.uy",
+     "seendate": "20261023T230000Z"
+    },
     {
      "title": "A pocos días de su viaje a Uruguay , por recomendación médica el papa León XIV suspende visita al encuentro de Asís en Italia",
      "url": "https://www.subrayado.com.uy/a-pocos-dias-su-viaje-uruguay-recomendacion-medica-el-papa-leon-xiv-suspende-visita-al-encuentro-asis-italia-n1021596",
@@ -3231,72 +3171,6 @@
      "url": "https://www.elpais.com.uy/ovacion/futbol/uruguay-prepara-otro-amistoso-tras-visitar-a-argentina-por-fecha-fifa-detalles-a-definir-y-reserva-de-jugadores",
      "domain": "elpais.com.uy",
      "seendate": "20261022T144500Z"
-    },
-    {
-     "title": "BPS confirmó cuándo se pagan las asignaciones familiares de noviembre de 2026 : las fechas de cobro",
-     "url": "https://www.elpais.com.uy/negocios/noticias/bps-confirmo-cuando-se-pagan-las-asignaciones-familiares-de-noviembre-de-2026-las-fechas-de-cobro",
-     "domain": "elpais.com.uy",
-     "seendate": "20261022T144500Z"
-    },
-    {
-     "title": "Romance inesperado : Alejandro Astesiano y Mía Etcheverría fueron vistos juntos y crecen los rumores de amor",
-     "url": "https://www.elpais.com.uy/tvshow/personajes/romance-inesperado-alejandro-astesiano-y-mia-etcheverria-fueron-vistos-juntos-y-crecen-los-rumores-de-amor",
-     "domain": "elpais.com.uy",
-     "seendate": "20261022T144500Z"
-    },
-    {
-     "title": "Jorge Díaz aseguró que la pobreza va a bajar mucho más en 2027",
-     "url": "https://www.carasycaretas.com.uy/politica/jorge-diaz-aseguro-que-la-pobreza-va-bajar-mucho-mas-2027-n100387",
-     "domain": "carasycaretas.com.uy",
-     "seendate": "20261022T140000Z"
-    },
-    {
-     "title": "Río Uruguay profundizará descenso con techo de 10 , 90",
-     "url": "https://www.diariocambio.com.uy/rio-uruguay-profundizara-descenso-con-techo-de-1090",
-     "domain": "diariocambio.com.uy",
-     "seendate": "20261022T111500Z"
-    },
-    {
-     "title": "Libertad corre el domingo la Vuelta a los Puentes",
-     "url": "https://www.diariocambio.com.uy/libertad-corre-el-domingo-la-vuelta-los-puentes",
-     "domain": "diariocambio.com.uy",
-     "seendate": "20261022T111500Z"
-    },
-    {
-     "title": "Salto FC recibe a Bella Vista con un retorno : Se viene una etapa caliente en la C",
-     "url": "https://www.diariocambio.com.uy/salto-fc-recibe-bella-vista-con-un-retorno-se-viene-una-etapa-caliente-en-la-c",
-     "domain": "diariocambio.com.uy",
-     "seendate": "20261022T111500Z"
-    },
-    {
-     "title": "Qué se celebra hoy , jueves 22 de octubre de 2026 : efemérides de un día como hoy en la historia",
-     "url": "https://www.elpais.com.uy/vida-actual/efemerides/que-se-celebra-hoy-jueves-22-de-octubre-de-2026-efemerides-de-un-dia-como-hoy-en-la-historia",
-     "domain": "elpais.com.uy",
-     "seendate": "20261022T111500Z"
-    },
-    {
-     "title": "Impulsan encuentro para conectar la educación técnica con sector productivo",
-     "url": "https://www.diariocambio.com.uy/impulsan-encuentro-para-conectar-la-educacion-tecnica-con-sector-productivo",
-     "domain": "diariocambio.com.uy",
-     "seendate": "20261022T111500Z"
-    },
-    {
-     "title": "Un nuevo golpe al contrabando de insumos médicos en Salto supera el millón de pesos",
-     "url": "https://www.diariocambio.com.uy/un-nuevo-golpe-al-contrabando-de-insumos-medicos-en-salto-supera-el-millon-de-pesos",
-     "domain": "diariocambio.com.uy",
-     "seendate": "20261022T111500Z"
-    },
-    {
-     "title": "Mirá En Clave País , el streaming de El País , en vivo : entrevista a Falero y fotos inéditas de Charly García en Uruguay",
-     "url": "https://www.elpais.com.uy/informacion/en-clave-pais/mira-en-clave-pais-el-streaming-de-el-pais-en-vivo-jueves-22-de-setiembre-entrevista-a-falero-y-fotos-ineditas-de-charly-garcia-en-uruguay",
-     "domain": "elpais.com.uy",
-     "seendate": "20261022T111500Z"
-    },
-    {
-     "title": "Ediles de Salto y Artigas articularon una agenda común para enfrentar El Niño",
-     "url": "https://www.diariocambio.com.uy/ediles-de-salto-y-artigas-articularon-una-agenda-comun-para-enfrentar-el-nino",
-     "domain": "diariocambio.com.uy",
-     "seendate": "20261022T111500Z"
     }
    ]
   },
@@ -3357,6 +3231,78 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "'Comida tá cara', 'prometeu picanha', 'dúzia virou dez': Flávio usa preço de alimentos contra Lula no debate da Globo",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/comida-ta-cara-prometeu-picanha-duzia-virou-dez-flavio-usa-preco-de-alimentos-contra-lula-no-debate-da-globo.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T063001Z"
+    },
+    {
+     "title": "Risadas bolsonaristas, provocação sobre chocolate e dicas de Tarcísio a Flávio: o debate da TV Globo que você não viu",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/risadas-bolsonaristas-provocacao-sobre-chocolate-e-dicas-de-tarcisio-a-flavio-o-debate-da-tv-globo-que-voce-nao-viu.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T063001Z"
+    },
+    {
+     "title": "Amigo de Flávio Bolsonaro tentou usar decreto de Cláudio Castro para ampliar mansão em ilha disputada com Richarlison",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/24/amigo-de-flavio-bolsonaro-tentou-usar-decreto-de-claudio-castro-para-ampliar-mansao-em-ilha-disputada-com-richarlison.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T063001Z"
+    },
+    {
+     "title": "Milei só deve reconhecer resultado das eleições no caso de vitória de Flávio, avalia Planalto",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/milei-so-deve-reconhecer-resultado-das-eleicoes-no-caso-de-vitoria-de-flavio-avalia-planalto.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T063000Z"
+    },
+    {
+     "title": "Aliados veem vantagem de Flávio em debate, mas citam derrapadas em ironia sobre 'nove dedos' de Lula e no caso Ana Clara",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/aliados-veem-vantagem-de-flavio-em-debate-mas-citam-derrapadas-em-ironia-sobre-nove-dedos-de-lula-e-no-caso-ana-clara.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T063000Z"
+    },
+    {
+     "title": "Caso Ana Clara, disputa por ilha, 'nove dedos': o debate da TV Globo entre Flávio Bolsonaro e Lula em oito pontos",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/post/2026/10/caso-ana-clara-disputa-por-ilha-nove-dedos-o-debate-da-tv-globo-entre-flavio-bolsonaro-e-lula-em-oito-pontos.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T063000Z"
+    },
+    {
+     "title": "Jogo Político: Flávio ou Lula, quem vai ganhar a eleição? Marqueteiros e donos de institutos de pesquisa respondem",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/jogo-politico-flavio-ou-lula-quem-vai-ganhar-a-eleicao-marqueteiros-e-donos-de-institutos-de-pesquisa-respondem.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T063000Z"
+    },
+    {
+     "title": "Entrevista: ‘As classes aspiracionais acham que o Estado atrapalha e vão decidir a eleição', diz Rosana Pinheiro-Machado",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/entrevista-as-classes-aspiracionais-acham-que-o-estado-atrapalha-e-vao-decidir-a-eleicao-diz-rosana-pinheiro-machado.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T063000Z"
+    },
+    {
+     "title": "Infecções, falhas na assistência e inconsistências em prontuários: tudo sobre a morte de seis bebês em hospital de SP",
+     "url": "https://oglobo.globo.com/brasil/sao-paulo/noticia/2026/10/24/infeccoes-falhas-na-assistencia-e-inconsistencias-em-prontuarios-tudo-sobre-a-morte-de-seis-bebes-em-hospital-de-sp.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T063000Z"
+    },
+    {
+     "title": "Confronto direto com Flávio em debate leva Lula a defender legado e prejudica estratégia de apontar para o futuro",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/confronto-direto-com-flavio-em-debate-leva-lula-a-defender-legado-e-prejudica-estrategia-de-apontar-para-o-futuro.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T063000Z"
+    },
+    {
+     "title": "'Pai do bebê', 'dá um Google', 'irmão do tigrinho': Lula aposta nas redes e explora linguagem jovem no debate da Globo",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/pai-do-bebe-da-um-google-irmao-do-tigrinho-lula-aposta-nas-redes-e-explora-linguagem-jovem-no-debate-da-globo.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T063000Z"
+    },
+    {
+     "title": "Quem votou em primeiro turno pode votar no segundo?",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/guia/quem-votou-em-primeiro-turno-pode-votar-no-segundo.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T063000Z"
+    },
     {
      "title": "Conheça Nanuque, a cidade mineira 'mais dividida' nas últimas eleições presidenciais que foi destaque no New York Times",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/conheca-nanuque-a-cidade-mineira-mais-dividida-nas-ultimas-eleicoes-presidenciais-que-foi-destaque-no-new-york-times.ghtml",
@@ -3476,54 +3422,6 @@
      "url": "https://oglobo.globo.com/brasil/noticia/2026/10/23/policia-civil-identifica-10-autores-de-mortes-relacionadas-a-quatro-corpos-encontrados-na-capital.ghtml",
      "domain": "O Globo",
      "seendate": "20261023T224802Z"
-    },
-    {
-     "title": "Meta, Google e X dizem não haver irregularidades no canal 'Exército do Lula' após ordem de Nunes Marques",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/23/meta-diz-nao-ter-encontrado-irregularidades-no-canal-de-whatasapp-exercito-do-lula.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261023T223923Z"
-    },
-    {
-     "title": "TSE mantém canal 'Tropa do Flávio' no ar, mas manda retirar áudio de Gustavo Gayer sobre suposta fraude eleitoral",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/23/tse-mantem-canal-tropa-do-flavio-no-ar-mas-manda-retirar-audio-de-gustavo-gayer-sobre-suposta-fraude-eleitoral.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261023T221921Z"
-    },
-    {
-     "title": "Após pedido de Nunes Marques, Google e X dizem não terem identificado irregularidades em atuação coordenada de integrantes do canal 'Exército do Lula'",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/23/apos-pedido-de-nunes-marques-google-e-x-dizem-nao-terem-identificado-irregularidades-em-atuacao-coordenada-de-integrantes-do-canal-exercito-do-lula.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261023T221459Z"
-    },
-    {
-     "title": "Eduardo Bolsonaro volta a atacar urnas e defende que Flávio 'saia do país' em caso de derrota para Lula",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/23/eduardo-bolsonaro-volta-a-atacar-urnas-e-defende-que-flavio-saia-do-pais-em-caso-de-derrota-para-lula.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261023T213728Z"
-    },
-    {
-     "title": "Professora de escola de idiomas morre ao tentar ajudar aluno trancado no banheiro em Guarulhos, SP",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/23/professora-de-escola-de-idiomas-morre-ao-tentar-ajudar-aluno-trancado-no-banheiro-em-guarulhos-sp.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261023T211732Z"
-    },
-    {
-     "title": "Cármen Lúcia rejeita pedido para ampliar transporte gratuito a linhas interestaduais no segundo turno",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/23/carmen-lucia-rejeita-pedido-para-ampliar-transporte-gratuito-a-linhas-interestaduais-no-segundo-turno.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261023T205856Z"
-    },
-    {
-     "title": "Resolução proposta pelo Brasil, para cooperação internacional no combate a crimes ambientais, é aprovada na COP13",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/23/resolucao-proposta-pelo-brasil-para-cooperacao-internacional-no-combate-a-crimes-ambientais-e-aprovada-na-cop13.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261023T205317Z"
-    },
-    {
-     "title": "'Exército do Lula' alcança a marca de 10 milhões de seguidores a dois dias da eleição",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/23/exercito-do-lula-alcanca-a-marca-de-10-milhoes-de-seguidores-a-dois-dias-da-eleicao.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261023T205038Z"
     }
    ]
   }
