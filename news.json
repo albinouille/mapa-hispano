@@ -1,8 +1,14 @@
 {
- "updated": "2026-10-25T17:04:51+00:00",
+ "updated": "2026-10-25T17:32:18+00:00",
  "countries": {
   "ESP": {
    "articles": [
+    {
+     "title": "Al menos 20 heridos de gravedad en un accidente entre un autobús y un coche en Barcelona",
+     "url": "https://elpais.com/espana/catalunya/2026-10-25/al-menos-40-heridos-en-un-accidente-entre-un-autobus-y-un-coche-en-barcelona.html",
+     "domain": "El País",
+     "seendate": "20261025T172128Z"
+    },
     {
      "title": "El delegado del Gobierno en Madrid dimite tras quedarse fuera de las listas del PSOE para el 29-N",
      "url": "https://elpais.com/espana/madrid/2026-10-25/el-delegado-del-gobierno-en-madrid-dimite-tras-quedarse-fuera-de-las-listas-del-psoe-del-29-n.html",
@@ -44,12 +50,6 @@
      "url": "https://elpais.com/espana/comunidad-valenciana/2026-10-25/el-tsj-obliga-a-sanidad-a-facilitar-la-informacion-sobre-los-pagos-a-centros-privados-que-pidieron-los-socialistas-valencianos.html",
      "domain": "El País",
      "seendate": "20261025T125447Z"
-    },
-    {
-     "title": "Los jóvenes que provocaron altercados en Barcelona se convocaron por TikTok y organizaron por grupos de Telegram y Whatsapp",
-     "url": "https://elpais.com/espana/catalunya/2026-10-25/los-jovenes-que-provocaron-altercados-en-barcelona-se-convocaron-por-tiktok-y-organizaron-por-grupos-de-telegram-y-whatsapp.html",
-     "domain": "El País",
-     "seendate": "20261025T073210Z"
     },
     {
      "title": "Pedro Sánchez: “Un Gobierno del PP con Vox no es alternancia, es retroceder 50 años”",
@@ -139,6 +139,30 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "CNPC pide a la población tomar medidas preventivas ante huracán \"Vance\"; desplegará misión ECO",
+     "url": "https://www.eluniversal.com.mx/nacion/cnpc-pide-a-la-poblacion-tomar-medidas-preventivas-ante-huracan-vance-desplegara-mision-eco/",
+     "domain": "El Universal",
+     "seendate": "20261025T172030Z"
+    },
+    {
+     "title": "Marchas y concentraciones en CDMX este domingo 25 de octubre; prevén movilizaciones en Reforma y el Centro Histórico",
+     "url": "https://www.eluniversal.com.mx/metropoli/marchas-y-concentraciones-en-cdmx-este-domingo-25-de-octubre-preven-movilizaciones-en-reforma-y-el-centro-historico/",
+     "domain": "El Universal",
+     "seendate": "20261025T171602Z"
+    },
+    {
+     "title": "\"Espartacus\", binomio canino, halla metanfetamina en paquetes para videojuegos en el AICM; tenía como destino Reino Unido",
+     "url": "https://www.eluniversal.com.mx/nacion/espartacus-binomio-canino-halla-metanfetamina-en-paquetes-para-videojuegos-en-el-aicm-tenia-como-destino-reino-unido/",
+     "domain": "El Universal",
+     "seendate": "20261025T170941Z"
+    },
+    {
+     "title": "Con mensaje escrito a mano, César Jáuregui asegura estar “bien y muy fuerte” tras ser vinculado a proceso; agradece muestras de apoyo",
+     "url": "https://www.eluniversal.com.mx/estados/con-mensaje-escrito-a-mano-cesar-jauregui-asegura-estar-bien-y-muy-fuerte-tras-ser-vinculado-a-proceso-agradece-muestras-de-apoyo/",
+     "domain": "El Universal",
+     "seendate": "20261025T170520Z"
+    },
     {
      "title": "La SIP alerta por asesinatos de periodistas y presiones contra la prensa en México; reclama investigaciones exhaustivas",
      "url": "https://www.eluniversal.com.mx/nacion/la-sip-alerta-por-asesinatos-de-periodistas-y-presiones-contra-la-prensa-en-mexico-reclama-investigaciones-exhaustivas/",
@@ -1334,12 +1358,6 @@
      "seendate": "20261023T210005Z"
     },
     {
-     "title": "Último sorteo regional: la lotería fiscal dará el salto a lo digital",
-     "url": "https://www.prensa.com/sociedad/ultimo-sorteo-regional-la-loteria-fiscal-dara-el-salto-a-lo-digital/",
-     "domain": "La Prensa",
-     "seendate": "20261023T184934Z"
-    },
-    {
      "title": "Datos geolocalizados mejoran la coordinación de la respuesta tras el terremoto en Panamá",
      "url": "https://www.prensa.com/sociedad/datos-geolocalizados-mejoran-la-coordinacion-de-la-respuesta-tras-el-terremoto-en-panama/",
      "domain": "La Prensa",
@@ -1471,6 +1489,12 @@
   "COL": {
    "articles": [
     {
+     "title": "ONU Derechos Humanos pide reconstruir y reabrir la Casa de las Memorias de Cali, cerrada tras el terremoto",
+     "url": "https://www.eltiempo.com/colombia/cali/onu-derechos-humanos-pide-reconstruir-y-reabrir-la-casa-de-las-memorias-de-cali-cerrada-tras-el-terremoto-3596169",
+     "domain": "El Tiempo",
+     "seendate": "20261025T171634Z"
+    },
+    {
      "title": "Estados Unidos condenó a prisión a peruano-estadounidense por explotación sexual de menor: lo habían hallado con 16 adolescentes en Antioquia",
      "url": "https://www.eltiempo.com/colombia/medellin/estados-unidos-condeno-a-prision-a-peruano-estadounidense-por-explotacion-sexual-de-menor-lo-habian-hallado-con-16-adolescentes-en-antioquia-3596153",
      "domain": "El Tiempo",
@@ -1523,12 +1547,6 @@
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/las-7-recomendaciones-de-onu-derechos-humanos-al-congreso-para-la-ley-estatutaria-sobre-protesta-social-en-colombia-3596052",
      "domain": "El Tiempo",
      "seendate": "20261025T100100Z"
-    },
-    {
-     "title": "Accidente de tránsito en el puente Helicoidal de Calarcá, Quindío, terminó con un vehículo de carga volcado e incendiado",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/accidente-de-transito-en-el-puente-helicoidal-de-calarca-quindio-termino-con-un-vehiculo-de-carga-volcado-e-incendiado-3596131",
-     "domain": "El Tiempo",
-     "seendate": "20261025T050220Z"
     }
    ]
   },
@@ -1957,22 +1975,22 @@
      "url": "https://eluniverso.com/politica/expedientes/transferencias-y-cheques-al-portador-las-dos-vias-que-fiscalia-investiga-en-el-caso-laberinto-por-financiamiento-irregular-a-campana-de-luisa-gonzalez-nota/",
      "domain": "El Universo",
      "seendate": "20261024T192358Z"
-    },
-    {
-     "title": "Operativos de Fuerzas Armadas dejan detenidos en Guayaquil y Esmeraldas",
-     "url": "https://eluniverso.com/politica/seguridad/operativos-de-fuerzas-armadas-dejan-detenidos-guayaquil-y-esmeraldas-nota/",
-     "domain": "El Universo",
-     "seendate": "20261024T191351Z"
     }
    ]
   },
   "PER": {
    "articles": [
     {
+     "title": "Casi 1,5 millones de hogares aún cocinan solo con combustibles sólidos como la leña o el carbón, ¿dónde se concentra la brecha?",
+     "url": "https://elcomercio.pe/economia/peru/casi-15-millones-de-hogares-aun-cocinan-solo-con-combustibles-solidos-como-la-lena-o-el-carbon-donde-se-concentra-la-brecha-ipe-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261025T172500Z"
+    },
+    {
      "title": "Lluvias en Perú EN VIVO: últimas noticias sobre precipitaciones por El Niño extraordinario",
      "url": "https://elcomercio.pe/peru/lluvias-en-peru-en-vivo-ultimas-noticias-de-las-precipitaciones-en-piura-tumbes-y-trujillo-estado-de-emergencia-en-el-norte-senamhi-indeci-lloviznas-fenomeno-el-nino-lbposting-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261025T164459Z"
+     "seendate": "20261025T170536Z"
     }
    ]
   },
@@ -3169,12 +3187,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/25/piel-de-mariposa-que-es-la-enfermedad-que-afecta-a-16-pacientes-pediatricos-en-paraguay/",
      "domain": "ABC Color",
      "seendate": "20261025T143449Z"
-    },
-    {
-     "title": "Veda pesquera: ¿Qué reclaman los pescadores al Gobierno?",
-     "url": "https://www.abc.com.py/nacionales/2026/10/25/veda-pesquera-que-reclaman-los-pescadores-al-gobierno/",
-     "domain": "ABC Color",
-     "seendate": "20261025T135102Z"
     }
    ]
   },
@@ -3183,6 +3195,36 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "Amigos desde a infância, eleitores de Lula e Bolsonaro vão votar juntos no Rio: 'Nos consideramos irmãos'",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/amigos-desde-a-infancia-eleitores-de-lula-e-bolsonaro-vao-votar-juntos-no-rio-nos-consideramos-irmaos.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T171840Z"
+    },
+    {
+     "title": "Secretário de mobilidade de Salvador que tem ordem de prisão está em Paris, diz TV",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/secretario-de-mobilidade-de-salvador-pablo-souza-exterior.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T171434Z"
+    },
+    {
+     "title": "Como está a votação para presidente? Acompanhe a apuração no exterior",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/como-esta-a-votacao-para-presidente-acompanhe-a-apuracao-no-exterior.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T170206Z"
+    },
+    {
+     "title": "Além de São Paulo e Salvador, eleitores de outras cidades relatam dificuldades de acesso a transportes públicos no 2º turno das eleições",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/alem-de-sao-paulo-e-salvador-eleitores-de-outras-cidades-relatam-dificuldades-de-acesso-a-transportes-publicos-no-2o-turno-das-eleicoes.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T170124Z"
+    },
+    {
+     "title": "TSE registra 138 ocorrências até o meio-dia, diz presidente",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/presidente-do-tse-faz-balanco-das-primeiras-horas.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T165748Z"
+    },
     {
      "title": "Como votar nas Eleições 2026 no 2º turno: veja ordem de votação",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/como-votar-nas-eleicoes-2026-no-2o-turno-veja-ordem-de-votacao.ghtml",
@@ -3262,7 +3304,7 @@
      "seendate": "20261025T154824Z"
     },
     {
-     "title": "Justiça eleitoral ordena restabelecimento do transporte público em Salvador e uso de 100% da frota de ônibus em São Paulo",
+     "title": "Justiça manda prender secretário de mobilidade de Salvador e ordena retorno do transporte público na cidade",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/justica-eleitoral-bahia-transporte-publico-salvador.ghtml",
      "domain": "O Globo",
      "seendate": "20261025T154726Z"
@@ -3376,7 +3418,7 @@
      "seendate": "20261025T135042Z"
     },
     {
-     "title": "Mesmo com voto facultativo, idosos enfrentam chuva para votar: ‘Sou cidadã’",
+     "title": "Mesmo com voto facultativo, idosos enfrentam chuva e dificuldades de locomoção para ir às urnas no Rio",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/mesmo-com-voto-facultativo-idosos-enfretam-chuva-para-votar-sou-cidada.ghtml",
      "domain": "O Globo",
      "seendate": "20261025T134222Z"
