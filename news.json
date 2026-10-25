@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T12:33:21+00:00",
+ "updated": "2026-10-25T13:14:52+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -7,7 +7,13 @@
      "title": "Última hora de la actualidad política, en directo | Feijóo: “¿La alternancia es que Sánchez se suceda a sí mismo?”",
      "url": "https://elpais.com/espana/2026-10-25/ultima-hora-de-la-actualidad-politica-en-directo.html",
      "domain": "El País",
-     "seendate": "20261025T122306Z"
+     "seendate": "20261025T130131Z"
+    },
+    {
+     "title": "El TSJ obliga a Sanidad a facilitar la información sobre los pagos a centros privados que pidieron los socialistas valencianos",
+     "url": "https://elpais.com/espana/comunidad-valenciana/2026-10-25/el-tsj-obliga-a-sanidad-a-facilitar-la-informacion-sobre-los-pagos-a-centros-privados-que-pidieron-los-socialistas-valencianos.html",
+     "domain": "El País",
+     "seendate": "20261025T125447Z"
     },
     {
      "title": "Los jóvenes que provocaron altercados en Barcelona se convocaron por TikTok y organizaron por grupos de Telegram y Whatsapp",
@@ -90,12 +96,6 @@
     {
      "title": "La fiscalía de Cataluña niega a tres víctimas el acceso a la investigación sobre las violaciones que sufrieron",
      "url": "https://elpais.com/espana/2026-10-24/la-fiscalia-de-cataluna-niega-a-tres-victimas-el-acceso-a-la-investigacion-sobre-las-violaciones-que-sufrieron.html",
-     "domain": "El País",
-     "seendate": "20261024T033001Z"
-    },
-    {
-     "title": "La vida precaria de los bomberos de Ávila: alguien se olvidó de contratar la luz en la nueva estación",
-     "url": "https://elpais.com/espana/2026-10-24/la-vida-precaria-de-los-bomberos-de-avila-alguien-se-olvido-de-contratar-la-luz-en-la-nueva-estacion.html",
      "domain": "El País",
      "seendate": "20261024T033001Z"
     },
@@ -804,12 +804,6 @@
      "url": "https://diario1.com/mundo/cuatro-militares-salvadorenos-emboscados-por-grupos-criminales-en-haiti/",
      "domain": "diario1.com",
      "seendate": "20261019T131500Z"
-    },
-    {
-     "title": "Vicepresidente Félix Ulloa devela placa conmemorativa en Plaza El Salvador de Buenos Aires para honrar los lazos de amistad",
-     "url": "https://lapagina.com.sv/empresarial/vicepresidente-felix-ulloa-devela-placa-conmemorativa-en-plaza-el-salvador-de-buenos-aires-para-honrar-los-lazos-de-amistad/",
-     "domain": "lapagina.com.sv",
-     "seendate": "20261018T130000Z"
     }
    ]
   },
@@ -1160,18 +1154,6 @@
      "url": "https://www.nacion.com/sucesos/imn-anuncia-un-sabado-con-aguaceros-y-tormentas/DII26PB5EZDRFCFHJ5PWE22QNA/story/",
      "domain": "La Nación",
      "seendate": "20261024T121000Z"
-    },
-    {
-     "title": "Recortes presupuestarios de 2026 y 2027: qué se aprobó, qué sigue pendiente y quiénes serían afectados",
-     "url": "https://www.nacion.com/politica/recortes-presupuestarios-de-2026-y-2027-que-se/L6UMW7JXZBE5TBSZ4L4MUMBX3I/story/",
-     "domain": "La Nación",
-     "seendate": "20261024T073000Z"
-    },
-    {
-     "title": "Plantón en defensa de los derechos de las mujeres movilizó a manifestantes por San José: fotos y videos",
-     "url": "https://www.nacion.com/el-pais/planton-en-defensa-de-los-derechos-de-las-mujeres/Z4XN4LFGN5BCPJ7QEHCFVOQFJI/story/",
-     "domain": "La Nación",
-     "seendate": "20261024T042423Z"
     }
    ]
   },
@@ -1410,12 +1392,6 @@
      "seendate": "20261023T155656Z"
     },
     {
-     "title": "Robos en parques fotovoltaicos: 24 custodios detenidos por complicidad",
-     "url": "https://www.14ymedio.com/cuba/robos-parques-fotovoltaicos-24-custodios_1_1132311.html",
-     "domain": "14ymedio",
-     "seendate": "20261023T123524Z"
-    },
-    {
      "title": "“Un gobierno provisional de transición”, exigen 146 ex presos políticos cubanos",
      "url": "https://www.14ymedio.com/cuba/gobierno-provisional-transicion-exigen-146_1_1132294.html",
      "domain": "14ymedio",
@@ -1426,12 +1402,6 @@
      "url": "https://www.14ymedio.com/cuba/mar-abre-cubanos-estreno-primera_1_1132267.html",
      "domain": "14ymedio",
      "seendate": "20261022T171946Z"
-    },
-    {
-     "title": "Se dispara el número de vehículos eléctricos, pero faltan 'solineras'",
-     "url": "https://www.14ymedio.com/cuba/dispara-numero-vehiculos-electricos-faltan_1_1132266.html",
-     "domain": "14ymedio",
-     "seendate": "20261022T171443Z"
     }
    ]
   },
@@ -1440,6 +1410,18 @@
   },
   "COL": {
    "articles": [
+    {
+     "title": "Video | Las emotivas palabras del presidente De La Espriella a la mamá de la policía María José Recuero, quien murió al enfrentarse a ladrones en Cali",
+     "url": "https://www.eltiempo.com/colombia/cali/video-las-emotivas-palabras-del-presidente-de-la-espriella-a-la-mama-de-la-policia-maria-jose-recuero-quien-murio-al-enfrentarse-a-ladrones-en-cali-3596139",
+     "domain": "El Tiempo",
+     "seendate": "20261025T130518Z"
+    },
+    {
+     "title": "Asesinan a subintendente de la Policía en medio de un hurto en San Antero, Córdoba: le iban a robar una cadena de oro",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/asesinan-a-subintendente-de-la-policia-en-medio-de-un-hurto-en-san-antero-cordoba-le-iban-a-robar-una-cadena-de-oro-3596138",
+     "domain": "El Tiempo",
+     "seendate": "20261025T124115Z"
+    },
     {
      "title": "Temblor en Colombia hoy 25 de octubre: conozca epicentro, magnitud y detalles",
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-en-colombia-hoy-25-de-octubre-conozca-epicentro-magnitud-y-detalles-3596136",
@@ -1457,12 +1439,6 @@
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/accidente-de-transito-en-el-puente-helicoidal-de-calarca-quindio-termino-con-un-vehiculo-de-carga-volcado-e-incendiado-3596131",
      "domain": "El Tiempo",
      "seendate": "20261025T050220Z"
-    },
-    {
-     "title": "Emergencias por lluvias en el Caribe: primeros balances de inundaciones y desbordamientos en varias ciudades; se esperan más precipitaciones",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/alcaldia-de-santa-marta-declara-alerta-roja-por-inundaciones-y-riesgo-de-crecientes-subitas-en-dos-rios-estas-son-las-recomendaciones-del-ideam-3596073",
-     "domain": "El Tiempo",
-     "seendate": "20261025T041840Z"
     },
     {
      "title": "Colapsó una edificación en Pereira pendiente de demolición este sábado: Bomberos confirman que no se hallaron personas entre los escombros",
@@ -1493,12 +1469,6 @@
      "url": "https://www.eltiempo.com/colombia/medellin/como-medellin-y-el-gobierno-con-el-respaldo-de-estados-unidos-combatiran-estructuras-criminales-narcotrafico-y-mineria-que-alimentan-la-guerra-3596059",
      "domain": "El Tiempo",
      "seendate": "20261024T214946Z"
-    },
-    {
-     "title": "Lluvias en Cartagena provocan inundaciones y afectan el servicio de agua al 15 % de los usuarios por daños eléctricos en el sistema de acueducto",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/lluvias-en-cartagena-provocan-inundaciones-y-afectan-el-servicio-de-agua-al-15-de-los-usuarios-por-danos-electricos-en-el-sistema-de-acueducto-3596067",
-     "domain": "El Tiempo",
-     "seendate": "20261024T202810Z"
     }
    ]
   },
@@ -1891,18 +1861,6 @@
      "url": "https://eluniverso.com/comunidad/ecuador/sismo-de-magnitud-37-se-registro-cerca-de-puyo-este-sabado-24-de-octubre-nota/",
      "domain": "El Universo",
      "seendate": "20261024T114936Z"
-    },
-    {
-     "title": "Condenan a 40 años de prisión a cuatro hombres por secuestro y triple asesinato en Santo Domingo",
-     "url": "https://eluniverso.com/comunidad/ecuador/condenan-a-40-anos-de-prision-a-cuatro-hombres-por-secuestro-y-triple-asesinato-en-santo-domingo-nota/",
-     "domain": "El Universo",
-     "seendate": "20261024T114023Z"
-    },
-    {
-     "title": "Luisa González ya se encuentra en la cárcel de Riobamba",
-     "url": "https://eluniverso.com/politica/expedientes/luisa-gonzalez-ya-se-encuentra-en-la-carcel-de-riobamba-nota/",
-     "domain": "El Universo",
-     "seendate": "20261024T042418Z"
     }
    ]
   },
@@ -2753,53 +2711,17 @@
      "url": "https://www.lanacion.com.ar/economia/campo/avanza-la-cosecha-estadounidense-y-achata-los-precios-del-maiz-y-de-la-soja-nid24102026/",
      "domain": "La Nación",
      "seendate": "20261025T030240Z"
-    },
-    {
-     "title": "¿Es más fácil hoy crear una empresa en la Argentina? Las señales a favor y los obstáculos que persisten",
-     "url": "https://www.lanacion.com.ar/economia/es-mas-facil-hoy-crear-una-empresa-en-la-argentina-las-senales-a-favor-y-los-obstaculos-que-nid25102026/",
-     "domain": "La Nación",
-     "seendate": "20261025T030100Z"
-    },
-    {
-     "title": "Gonzalo Luchetti: “A pesar de todas las disrupciones, la resiliencia de la economía global ha sido muy fuerte”",
-     "url": "https://www.lanacion.com.ar/economia/gonzalo-luchetti-a-pesar-de-todas-las-disrupciones-la-resiliencia-de-la-economia-global-ha-sido-muy-nid25102026/",
-     "domain": "La Nación",
-     "seendate": "20261025T030100Z"
-    },
-    {
-     "title": "Tres exámenes para los mercados en el cierre de octubre",
-     "url": "https://www.lanacion.com.ar/economia/tres-examenes-para-los-mercados-en-el-cierre-de-octubre-nid25102026/",
-     "domain": "La Nación",
-     "seendate": "20261025T030100Z"
-    },
-    {
-     "title": "¿El plan económico debe ser reemplazado, recalibrado o mantenido?",
-     "url": "https://www.lanacion.com.ar/economia/el-plan-economico-debe-ser-reemplazado-recalibrado-o-mantenido-nid25102026/",
-     "domain": "La Nación",
-     "seendate": "20261025T030100Z"
-    },
-    {
-     "title": "La inteligencia de no saber y el aprendizaje en tiempos de la IA",
-     "url": "https://www.lanacion.com.ar/economia/la-inteligencia-de-no-saber-nid25102026/",
-     "domain": "La Nación",
-     "seendate": "20261025T030100Z"
-    },
-    {
-     "title": "Alejandro Guerrero, de Lockton Argentina: “Hay que permitir una competencia más sana en el mercado”",
-     "url": "https://www.lanacion.com.ar/economia/alejandro-guerrero-de-lockton-argentina-hay-que-permitir-una-competencia-mas-sana-en-el-mercado-nid25102026/",
-     "domain": "La Nación",
-     "seendate": "20261025T030100Z"
-    },
-    {
-     "title": "Economía del conocimiento: más de la mitad de los centros de servicios aumentó sus exportaciones",
-     "url": "https://www.lanacion.com.ar/economia/economia-del-conocimiento-mas-de-la-mitad-de-los-centros-de-servicios-aumento-sus-exportaciones-nid25102026/",
-     "domain": "La Nación",
-     "seendate": "20261025T030100Z"
     }
    ]
   },
   "URY": {
    "articles": [
+    {
+     "title": "Wanderers vs . Progreso en vivo por el Clausura : el Gaucho está obligado a ganar para seguir con vida",
+     "url": "https://www.elpais.com.uy/ovacion/futbol/wanderers-vs-progreso-en-vivo-por-el-clausura-el-gaucho-esta-obligado-a-ganar-para-seguir-con-vida",
+     "domain": "elpais.com.uy",
+     "seendate": "20261025T124500Z"
+    },
     {
      "title": "Unidad Indexada hoy : cuánto cotiza la UI este domingo 25 de octubre de 2026 en pesos uruguayos",
      "url": "https://www.elpais.com.uy/negocios/finanzas/unidad-indexada-hoy-cuanto-cotiza-la-ui-este-domingo-25-de-octubre-de-2026-en-pesos-uruguayos",
@@ -3153,17 +3075,23 @@
      "url": "https://rurales.elpais.com.uy/valor-agregado/no-veo-al-precio-bajando-en-el-corto-plazo-dijo-alisson-navarro-de-mbrf",
      "domain": "rurales.elpais.com.uy",
      "seendate": "20261023T001500Z"
-    },
-    {
-     "title": "Tiroteo en Reducto : No se puede vivir más así con esta locura de balacera todos los días , dijo comerciante",
-     "url": "https://www.subrayado.com.uy/tiroteo-reducto-no-se-puede-vivir-mas-asi-esta-locura-balacera-todos-los-dias-dijo-comerciante-n1021555",
-     "domain": "subrayado.com.uy",
-     "seendate": "20261023T000000Z"
     }
    ]
   },
   "PRY": {
    "articles": [
+    {
+     "title": "ANDE anuncia cortes de luz para este domingo: mirá las zonas y los horarios",
+     "url": "https://www.abc.com.py/nacionales/2026/10/25/ande-anuncia-cortes-de-luz-para-este-domingo-mira-las-zonas-y-los-horarios/",
+     "domain": "ABC Color",
+     "seendate": "20261025T124836Z"
+    },
+    {
+     "title": "Violencia doméstica: los 20 puntos claves que piden aplicar los juzgados de Paz",
+     "url": "https://www.abc.com.py/nacionales/2026/10/25/violencia-domestica-los-20-puntos-claves-que-piden-aplicar-los-juzgados-de-paz/",
+     "domain": "ABC Color",
+     "seendate": "20261025T124347Z"
+    },
     {
      "title": "Educación sexual: MEC insiste en cuestionados libros mientras asfixia a escuelas con “tijerazos” en Gratuidad",
      "url": "https://www.abc.com.py/nacionales/2026/10/25/educacion-sexual-mec-insiste-en-cuestionados-libros-mientras-asfixia-a-escuelas-con-tijerazos-en-gratuidad/",
@@ -3178,13 +3106,43 @@
   "BRA": {
    "articles": [
     {
+     "title": "Lula vota no ABC Paulista em sua última disputa presidencial e aguarda desfecho de eleição histórica",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/lula-vota-no-abc-paulista-em-sua-ultima-disputa-presidencial-e-aguarda-desfecho-de-eleicao-historica.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T130253Z"
+    },
+    {
+     "title": "Chuva forte causa danos em oito cidades paulistas e altera local de votação em Itapevi",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/25/chuva-forte-causa-danos-em-oito-cidades-paulistas-e-altera-local-de-votacao-em-itapevi.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T125842Z"
+    },
+    {
+     "title": "Vídeos mostram apoiadores de Lula e Flávio frente a frente em esquina de Londres; assista",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/videos-mostram-apoiadores-de-lula-e-flavio-frente-a-frente-em-esquina-de-londres-assista.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T124833Z"
+    },
+    {
+     "title": "André Mendonça vota em Brasília e agradece eleitores e servidores da Justiça Eleitoral",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/andre-mendonca-vota-em-brasilia.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T124409Z"
+    },
+    {
+     "title": "Eleições 2026: chuva altera locais de votação para mais de 7 mil eleitores no Paraná e em SC; veja a previsão no país",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/25/eleicoes-chuva-forte-ameaca-areas-do-sul-e-do-sudeste-neste-domingo-veja-a-previsao.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T123010Z"
+    },
+    {
      "title": "História de vida Lula vai pesar na hora do voto, diz Fernando Haddad",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/historia-de-vida-lula-vai-pesar-na-hora-do-voto-diz-fernando-haddad.ghtml",
      "domain": "O Globo",
      "seendate": "20261025T121900Z"
     },
     {
-     "title": "Boca de urna no exterior? Vídeos mostram manifestações de apoiadores de Lula em Londres e Lisboa",
+     "title": "Boca de urna no exterior? Vídeos mostram manifestações de apoiadores de Lula em Londres, Paris e Lisboa",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/boca-de-urna-no-exterior-videos-mostram-manifestacoes-de-apoiadores-de-lula-em-londres-e-lisboa.ghtml",
      "domain": "O Globo",
      "seendate": "20261025T120708Z"
