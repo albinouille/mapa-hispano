@@ -1,8 +1,14 @@
 {
- "updated": "2026-10-25T11:01:33+00:00",
+ "updated": "2026-10-25T11:29:47+00:00",
  "countries": {
   "ESP": {
    "articles": [
+    {
+     "title": "Última hora de la actualidad política, en directo | Feijóo reúne en Salamanca a los cabeza de lista al Congreso con la incógnita del Senado",
+     "url": "https://elpais.com/espana/2026-10-25/ultima-hora-de-la-actualidad-politica-en-directo.html",
+     "domain": "El País",
+     "seendate": "20261025T112129Z"
+    },
     {
      "title": "Los jóvenes que provocaron altercados en Barcelona se convocaron por TikTok y organizaron por grupos de Telegram y Whatsapp",
      "url": "https://elpais.com/espana/catalunya/2026-10-25/los-jovenes-que-provocaron-altercados-en-barcelona-se-convocaron-por-tiktok-y-organizaron-por-grupos-de-telegram-y-whatsapp.html",
@@ -12,12 +18,6 @@
     {
      "title": "Pedro Sánchez: “Un Gobierno del PP con Vox no es alternancia, es retroceder 50 años”",
      "url": "https://elpais.com/espana/elecciones-generales/2026-10-25/pedro-sanchez-un-gobierno-del-pp-con-vox-no-es-alternancia-es-retroceder-50-anos.html",
-     "domain": "El País",
-     "seendate": "20261025T043001Z"
-    },
-    {
-     "title": "Sánchez y Feijóo, por carriles paralelos",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-10-25/sanchez-y-feijoo-por-carriles-paralelos.html",
      "domain": "El País",
      "seendate": "20261025T043001Z"
     },
@@ -76,46 +76,10 @@
      "seendate": "20261025T043001Z"
     },
     {
-     "title": "El Ayuntamiento planea pasar los gastos de limpieza y desperfectos a los acampados de Sol: “Que no cueste un euro a los madrileños”",
-     "url": "https://elpais.com/espana/madrid/2026-10-24/el-ayuntamiento-planea-pasar-los-gastos-de-limpieza-y-desperfectos-a-los-acampados-de-sol-que-no-cueste-un-euro-a-los-madrilenos.html",
-     "domain": "El País",
-     "seendate": "20261024T033001Z"
-    },
-    {
-     "title": "Francina Armengol, presidenta del Congreso: “No hay una polarización, hay un clima de agresividad buscado”",
-     "url": "https://elpais.com/espana/2026-10-24/francina-armengol-presidenta-del-congreso-no-hay-una-polarizacion-hay-un-clima-de-agresividad-buscado.html",
-     "domain": "El País",
-     "seendate": "20261024T033001Z"
-    },
-    {
-     "title": "La fiscalía de Cataluña niega a tres víctimas el acceso a la investigación sobre las violaciones que sufrieron",
-     "url": "https://elpais.com/espana/2026-10-24/la-fiscalia-de-cataluna-niega-a-tres-victimas-el-acceso-a-la-investigacion-sobre-las-violaciones-que-sufrieron.html",
-     "domain": "El País",
-     "seendate": "20261024T033001Z"
-    },
-    {
-     "title": "La vida precaria de los bomberos de Ávila: alguien se olvidó de contratar la luz en la nueva estación",
-     "url": "https://elpais.com/espana/2026-10-24/la-vida-precaria-de-los-bomberos-de-avila-alguien-se-olvido-de-contratar-la-luz-en-la-nueva-estacion.html",
-     "domain": "El País",
-     "seendate": "20261024T033001Z"
-    },
-    {
      "title": "Una residencia de Madrid expulsa a varias personas con discapacidad y da marcha atrás cuando sale en la prensa",
      "url": "https://elpais.com/espana/madrid/2026-10-24/una-residencia-de-madrid-expulsa-a-varias-personas-con-discapacidad-y-da-marcha-atras-cuando-sale-en-la-prensa.html",
      "domain": "El País",
      "seendate": "20261024T033000Z"
-    },
-    {
-     "title": "Café a la sombra de Sócrates",
-     "url": "https://elpais.com/espana/catalunya/2026-10-24/cafe-a-la-sombra-de-socrates.html",
-     "domain": "El País",
-     "seendate": "20261024T031500Z"
-    },
-    {
-     "title": "Seis detenidos en un narcopiso de Getafe en el que se lanzaban las llaves a los consumidores para entrar",
-     "url": "https://elpais.com/espana/madrid/2026-10-23/seis-detenidos-en-un-narcopiso-de-getafe-en-el-que-se-lanzaban-las-llaves-a-los-consumidores-para-acceder.html",
-     "domain": "El País",
-     "seendate": "20261023T120035Z"
     },
     {
      "title": "Un colegio público de Madrid amanece con una pintada nazi dentro del patio: “¡Arriba España! Maricones fuera de aquí”",
@@ -1767,6 +1731,12 @@
   "ECU": {
    "articles": [
     {
+     "title": "Caso VaQnas: testigo cuenta a EL UNIVERSO que habría pagado $ 3.000 y señala posible esquema de cobros en otras empresas del Municipio de Quito",
+     "url": "https://eluniverso.com/politica/expedientes/quito-ecuador-municipio-de-quito-caso-vacunas-testigos-protegidos-como-avanza-el-caso-vacunas-que-es-el-caso-vacunas-empresa-de-pasajeros-quito-esquema-de-pagos-en-el-caso-vacunas-denuncia-publica-sobre-el-caso-vacunas-nota/",
+     "domain": "El Universo",
+     "seendate": "20261025T111500Z"
+    },
+    {
      "title": "Lluvias en Guayaquil: el Inamhi advierte sobre tormentas eléctricas e inundaciones hasta este domingo",
      "url": "https://eluniverso.com/comunidad/ecuador/lluvias-en-guayaquil-alerta-del-inamhi-por-tormentas-e-inundaciones-nota/",
      "domain": "El Universo",
@@ -1915,28 +1885,22 @@
      "url": "https://eluniverso.com/comunidad/ecuador/pronostico-del-clima-en-ecuador-para-este-sabado-24-de-octubre-lluvias-tormentas-y-temperaturas-de-hasta-335-c-nota/",
      "domain": "El Universo",
      "seendate": "20261024T032617Z"
-    },
-    {
-     "title": "Siete incendios forestales permanecen activos en Ecuador: Chimborazo y Tungurahua registran dos casos cada una",
-     "url": "https://eluniverso.com/comunidad/ecuador/siete-incendios-forestales-permanecen-activos-en-ecuador-chimborazo-y-tungurahua-registran-dos-casos-cada-una-nota/",
-     "domain": "El Universo",
-     "seendate": "20261024T031236Z"
     }
    ]
   },
   "PER": {
    "articles": [
     {
+     "title": "Sociedad Nacional de Industrias “Las ventas en el sector textil caerían un 50% en Navidad, estaremos ad portas o ya con un diluvio en el país”",
+     "url": "https://elcomercio.pe/economia/peru/sociedad-nacional-de-industrias-las-ventas-en-el-sector-textil-caerian-un-50-en-navidad-estaremos-ad-portas-o-ya-con-un-diluvio-en-el-pais-apuesplan-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261025T112000Z"
+    },
+    {
      "title": "Lluvias en Perú EN VIVO: últimas noticias sobre precipitaciones por El Niño extraordinario",
      "url": "https://elcomercio.pe/peru/lluvias-en-peru-en-vivo-ultimas-noticias-de-las-precipitaciones-en-piura-tumbes-y-trujillo-estado-de-emergencia-en-el-norte-senamhi-indeci-lloviznas-fenomeno-el-nino-lbposting-noticia/",
      "domain": "El Comercio",
      "seendate": "20261025T070429Z"
-    },
-    {
-     "title": "Último temblor hoy, sábado 24 de octubre: Sismos en Perú, lugar y magnitud según IGP",
-     "url": "https://elcomercio.pe/peru/ultimo-temblor-hoy-via-igp-reporte-el-epicentro-magnitud-y-mas-del-sismo-tdpe-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261025T023300Z"
     }
    ]
   },
@@ -2289,6 +2253,66 @@
   "CHL": {
    "articles": [
     {
+     "title": "PDI detiene a cuatro por microtráfico en La Reina : vendían drogas en una vivienda y en plena calle",
+     "url": "https://www.latercera.com/nacional/noticia/pdi-detiene-a-cuatro-por-microtrafico-en-la-reina-vendian-drogas-en-una-vivienda-y-en-plena-calle/",
+     "domain": "latercera.com",
+     "seendate": "20261025T110000Z"
+    },
+    {
+     "title": "Catalina Siles : Que hayan más niños es un bien social que trasciende posiciones valóricas que pueda tener este gobierno u otro",
+     "url": "https://www.latercera.com/politica/noticia/catalina-siles-que-hayan-mas-ninos-es-un-bien-social-que-trasciende-posiciones-valoricas-que-pueda-tener-este-gobierno-u-otro/",
+     "domain": "latercera.com",
+     "seendate": "20261025T110000Z"
+    },
+    {
+     "title": "Ñublense quiere romper su racha negativa y ganar frente a Coquimbo Unido",
+     "url": "https://www.elrancaguino.cl/2026/10/25/nublense-vs-coquimbo-unido-previa-horario-y-como-llegan-para-la-fecha-25-del-campeonato-chileno/",
+     "domain": "elrancaguino.cl",
+     "seendate": "20261025T104500Z"
+    },
+    {
+     "title": "CEO de Undurraga : Hay espacio para crecer , pero a costa de otros",
+     "url": "https://www.latercera.com/pulso/noticia/ceo-de-undurraga-hay-espacio-para-crecer-pero-a-costa-de-otros/",
+     "domain": "latercera.com",
+     "seendate": "20261025T103000Z"
+    },
+    {
+     "title": "Las crisis de las AFP puertas adentro : gerencias y directorios bajo escrutinio",
+     "url": "https://www.latercera.com/pulso/noticia/las-crisis-de-las-afp-puertas-adentro-gerencias-y-directorios-bajo-escrutinio/",
+     "domain": "latercera.com",
+     "seendate": "20261025T103000Z"
+    },
+    {
+     "title": "Ernesto Ottone : El Presidente debe transmitir seguridad , protección y esperanza . Y eso no ocurre con Kast",
+     "url": "https://www.latercera.com/politica/noticia/ernesto-ottone-el-presidente-debe-transmitir-seguridad-proteccion-y-esperanza-y-eso-no-ocurre-con-kast/",
+     "domain": "latercera.com",
+     "seendate": "20261025T103000Z"
+    },
+    {
+     "title": "El derrumbe del sueño venezolano en Chile",
+     "url": "https://www.latercera.com/nacional/noticia/el-derrumbe-del-sueno-venezolano-en-chile/",
+     "domain": "latercera.com",
+     "seendate": "20261025T103000Z"
+    },
+    {
+     "title": "Sebastián Edwards : La salida política para las AFP es transparencia total y reconocer que aquí hubo un error",
+     "url": "https://www.latercera.com/pulso/noticia/sebastian-edwards-la-salida-politica-para-las-afp-es-transparencia-total-y-reconocer-que-aqui-hubo-un-error/",
+     "domain": "latercera.com",
+     "seendate": "20261025T103000Z"
+    },
+    {
+     "title": "La encrucijada monetaria de fin de año del Banco Central",
+     "url": "https://www.latercera.com/pulso/noticia/la-encrucijada-de-fin-de-ano-del-banco-central/",
+     "domain": "latercera.com",
+     "seendate": "20261025T103000Z"
+    },
+    {
+     "title": "Las señales que pueden ayudarte a detectar una estafa con inteligencia artificial",
+     "url": "https://www.t13.cl/noticia/te-puede-servir/nacional/las-senales-pueden-ayudarte-detectar-una-estafa-inteligencia-artificial-25-10-2026",
+     "domain": "t13.cl",
+     "seendate": "20261025T081500Z"
+    },
+    {
      "title": "Bamba día 1 : Juanes cumple un sueño , el fervor popular de Los Vásquez y Jovanotti canta El Pueblo Unido",
      "url": "https://www.latercera.com/culto/noticia/bamba-dia-1-juanes-cumple-un-sueno-el-fervor-popular-de-los-vasquez-y-jovanotti-canta-el-pueblo-unido/",
      "domain": "latercera.com",
@@ -2329,12 +2353,6 @@
      "url": "https://www.diariofutrono.cl/noticia/educacion/2026/10/santo-tomas-valdivia-realizo-seminario-sobre-ia-y-ciberseguridad",
      "domain": "diariofutrono.cl",
      "seendate": "20261024T180000Z"
-    },
-    {
-     "title": "Ñublense quiere romper su racha negativa y ganar frente a Coquimbo Unido",
-     "url": "https://www.elrancaguino.cl/2026/10/24/nublense-vs-coquimbo-unido-previa-horario-y-como-llegan-para-la-fecha-25-del-campeonato-chileno/",
-     "domain": "elrancaguino.cl",
-     "seendate": "20261024T171500Z"
     },
     {
      "title": "Mario Velasco y su sincera revelación acerca de la paternidad : Me tocó criar a mi hija desde los 6 a los 12 años",
@@ -2581,71 +2599,17 @@
      "url": "https://www.prensafutbol.cl/river-plate-racing-hora-ver-la-liga-argentina/",
      "domain": "prensafutbol.cl",
      "seendate": "20261024T054500Z"
-    },
-    {
-     "title": "Miles de oportunidades de empleo en todo Chile : así será la Feria Laboral INACAP - CPC 2026",
-     "url": "https://www.diarioelcentro.cl/2026/10/23/miles-de-oportunidades-de-empleo-en-todo-chile-asi-sera-la-feria-laboral-inacap-cpc-2026/",
-     "domain": "diarioelcentro.cl",
-     "seendate": "20261024T023000Z"
-    },
-    {
-     "title": "Independiente vs . Boca Juniors : Hora , posible XI y dónde ver",
-     "url": "https://www.prensafutbol.cl/independiente-boca-juniors-hora-xi-donde-verlo/",
-     "domain": "prensafutbol.cl",
-     "seendate": "20261024T004500Z"
-    },
-    {
-     "title": "Industria pisquera gestiona continuidad de financiamiento tras alza de exportaciones - El Ovallino",
-     "url": "https://www.elovallino.cl/industria-pisquera-gestiona-continuidad-de-financiamiento-tras-alza-de-exportaciones/",
-     "domain": "elovallino.cl",
-     "seendate": "20261024T003000Z"
-    },
-    {
-     "title": "Paredones y San Vicente vivirán conciertos gratuitos con rock , cumbia y cueca brava",
-     "url": "https://eltipografo.cl/2026/10/paredones-y-san-vicente-viviran-conciertos-gratuitos-con-rock-cumbia-y-cueca-brava",
-     "domain": "eltipografo.cl",
-     "seendate": "20261024T003000Z"
-    },
-    {
-     "title": "Recién titulada : cuestionada asesora de ministro Rabat es una amiga cercana de su hija | bbcl _ investiga",
-     "url": "https://www.biobiochile.cl/especial/bbcl-investiga/noticias/de-pasillo/2026/10/23/recien-titulada-cuestionada-asesora-de-ministro-rabat-es-una-cercana-amiga-de-su-hija.shtml",
-     "domain": "biobiochile.cl",
-     "seendate": "20261024T003000Z"
-    },
-    {
-     "title": "Once detenidos quedan privados de libertad tras operativo antidrogas",
-     "url": "https://www.diarioeldia.cl/noticias/2026/10/23/154767-once-detenidos-quedan-privados-de-libertad-tras-operativo-antidrogas",
-     "domain": "diarioeldia.cl",
-     "seendate": "20261024T003000Z"
-    },
-    {
-     "title": "La Serena levanta sus primeros triunfos",
-     "url": "https://www.diarioeldia.cl/noticias/2026/10/23/154755-la-serena-levanta-sus-primeros-triunfos",
-     "domain": "diarioeldia.cl",
-     "seendate": "20261024T003000Z"
-    },
-    {
-     "title": "FloyyMenor supera los 9 mil millones de reproducciones",
-     "url": "https://www.diarioeldia.cl/noticias/2026/10/23/154764-floyymenor-supera-los-9-mil-millones-de-reproducciones",
-     "domain": "diarioeldia.cl",
-     "seendate": "20261024T003000Z"
-    },
-    {
-     "title": "Hija de Vale Saini y Sebastián Ramírez sorprende al postular a Miss 17 : Mi Mati se atrevió",
-     "url": "https://www.radioagricultura.cl/entretencion/hija-de-vale-saini-y-sebastian-ramirez-sorprende-al-postular-a-miss-17-mi-mati-se-atrevio_20261023/",
-     "domain": "radioagricultura.cl",
-     "seendate": "20261024T000000Z"
-    },
-    {
-     "title": "Chile y China revisan avances del TLC : comercio bilateral supera los US$45 mil millones en 2026",
-     "url": "https://www.radioagricultura.cl/noticias/economia/chile-y-china-revisan-avances-del-tlc-comercio-bilateral-supera-los-us45-mil-millones-en-2026_20261023/",
-     "domain": "radioagricultura.cl",
-     "seendate": "20261024T000000Z"
     }
    ]
   },
   "ARG": {
    "articles": [
+    {
+     "title": "El Patterson “criollo”: la nueva proyección del planisferio trabajada en la Argentina",
+     "url": "https://www.lanacion.com.ar/sociedad/el-patterson-criollo-la-nueva-proyeccion-del-planisferio-trabajada-en-la-argentina-nid25102026/",
+     "domain": "La Nación",
+     "seendate": "20261025T110000Z"
+    },
     {
      "title": "En un contexto crítico, las pymes deben enfrentar 62 obligaciones tributarias al año",
      "url": "https://www.lanacion.com.ar/economia/en-un-contexto-critico-las-pymes-deben-enfrentar-62-obligaciones-tributarias-al-ano-nid25102026/",
@@ -2779,14 +2743,14 @@
      "seendate": "20261025T030100Z"
     },
     {
-     "title": "Economía del conocimiento: más de la mitad de los centros de servicios aumentó sus exportaciones",
-     "url": "https://www.lanacion.com.ar/economia/economia-del-conocimiento-mas-de-la-mitad-de-los-centros-de-servicios-aumento-sus-exportaciones-nid25102026/",
+     "title": "Alejandro Guerrero, de Lockton Argentina: “Hay que permitir una competencia más sana en el mercado”",
+     "url": "https://www.lanacion.com.ar/economia/alejandro-guerrero-de-lockton-argentina-hay-que-permitir-una-competencia-mas-sana-en-el-mercado-nid25102026/",
      "domain": "La Nación",
      "seendate": "20261025T030100Z"
     },
     {
-     "title": "Alejandro Guerrero, de Lockton Argentina: “Hay que permitir una competencia más sana en el mercado”",
-     "url": "https://www.lanacion.com.ar/economia/alejandro-guerrero-de-lockton-argentina-hay-que-permitir-una-competencia-mas-sana-en-el-mercado-nid25102026/",
+     "title": "Economía del conocimiento: más de la mitad de los centros de servicios aumentó sus exportaciones",
+     "url": "https://www.lanacion.com.ar/economia/economia-del-conocimiento-mas-de-la-mitad-de-los-centros-de-servicios-aumento-sus-exportaciones-nid25102026/",
      "domain": "La Nación",
      "seendate": "20261025T030100Z"
     },
@@ -2813,12 +2777,6 @@
      "url": "https://www.lanacion.com.ar/politica/idea-llamo-a-un-debate-sin-agravios-tras-los-ataques-de-milei-a-la-nacion-nid24102026/",
      "domain": "La Nación",
      "seendate": "20261025T014626Z"
-    },
-    {
-     "title": "Caso $LIBRA. Jueces, fiscales y vínculos con el poder: el derrotero de una causa destinada al archivo",
-     "url": "https://www.lanacion.com.ar/politica/caso-libra-jueces-fiscales-y-vinculos-con-el-poder-el-derrotero-de-una-causa-destinada-al-archivo-nid24102026/",
-     "domain": "La Nación",
-     "seendate": "20261025T013318Z"
     }
    ]
   },
@@ -3550,6 +3508,12 @@
   "BRA": {
    "articles": [
     {
+     "title": "Imprensa internacional repercute eleições no Brasil e vê país como ‘campo de batalha’",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/25/imprensa-internacional-repercute-eleicoes-no-brasil-e-ve-pais-como-campo-de-batalha.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T111605Z"
+    },
+    {
      "title": "Eleições 2026 no exterior: brasileiros formam filas em Paris, Lisboa e Londres; veja onde Lula e Flávio já venceram na Ásia",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/eleicoes-2026-no-exterior-brasileiros-formam-filas-em-paris-lisboa-e-londres-veja-onde-lula-e-flavio-ja-venceram-na-asia.ghtml",
      "domain": "O Globo",
@@ -3574,7 +3538,7 @@
      "seendate": "20261025T095919Z"
     },
     {
-     "title": "Vereadora do PT é agredida durante ato em Minas Gerais e recebe atendimento médico; veja vídeo",
+     "title": "Vereadora do PT Iara Pimentel é agredida durante ato em Minas Gerais e recebe atendimento médico; veja vídeo",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/vereadora-e-agredida-durante-ato-em-minas-gerais-e-recebe-atendimento-medico.ghtml",
      "domain": "O Globo",
      "seendate": "20261025T094300Z"
@@ -3622,7 +3586,7 @@
      "seendate": "20261025T080500Z"
     },
     {
-     "title": "Eleições 2026: Votação é encerrada no Japão",
+     "title": "Eleições 2026: Votação é encerrada no Japão, e Flávio Bolsonaro vence Lula com quatro vezes mais votos",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/eleicoes-2026-votacao-e-encerrada-no-japao.ghtml",
      "domain": "O Globo",
      "seendate": "20261025T080236Z"
@@ -3678,18 +3642,6 @@
     {
      "title": "Máquina garante voto? Tempo de TV muda tudo? A polarização cansou? As máximas eleitorais colocadas em xeque em 2026",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/maquina-garante-voto-tempo-de-tv-muda-tudo-a-polarizacao-cansou-as-maximas-eleitorais-colocadas-em-xeque-em-2026.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T063000Z"
-    },
-    {
-     "title": "Ajuste fiscal, juros, produtividade, IA: a longa lista de desafios econômicos no horizonte do próximo presidente",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/ajuste-fiscal-juros-produtividade-ia-a-longa-lista-de-desafios-economicos-no-horizonte-do-proximo-presidente.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T063000Z"
-    },
-    {
-     "title": "Lulinha, Supremo, 'Dark horse': a cronologia da corrida presidencial em oito pontos",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/lulinha-supremo-dark-horse-a-cronologia-da-corrida-presidencial-em-oito-pontos.ghtml",
      "domain": "O Globo",
      "seendate": "20261025T063000Z"
     }
