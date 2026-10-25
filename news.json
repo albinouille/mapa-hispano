@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T15:29:39+00:00",
+ "updated": "2026-10-25T16:02:31+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -8,6 +8,12 @@
      "url": "https://elpais.com/espana/elecciones-generales/2026-10-25/feijoo-senala-a-sanchez-por-los-disturbios-en-barcelona-esta-jugando-con-fuego.html",
      "domain": "El País",
      "seendate": "20261025T140615Z"
+    },
+    {
+     "title": "Detenido en la acampada de Sol un hombre de 26 años por agredir sexualmente a una mujer de 22",
+     "url": "https://elpais.com/espana/madrid/2026-10-25/detenido-en-la-acampada-de-sol-un-hombre-de-26-anos-por-agredir-sexualmente-a-una-mujer-de-22.html",
+     "domain": "El País",
+     "seendate": "20261025T135219Z"
     },
     {
      "title": "Sol prepara su adiós: comienza a desmontarse el campamento a falta de un anuncio oficial",
@@ -139,6 +145,12 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Madre de Carlos Emilio exige esclarecer su desaparición en Mazatlán; pide investigar sin distinciones políticas",
+     "url": "https://www.eluniversal.com.mx/estados/madre-de-carlos-emilio-exige-esclarecer-su-desaparicion-en-mazatlan-pide-investigar-sin-distinciones-politicas/",
+     "domain": "El Universal",
+     "seendate": "20261025T154342Z"
+    },
     {
      "title": "Vinculan a proceso a César Jáuregui, exfiscal de Chihuahua; seguirá preso en el Altiplano",
      "url": "https://www.eluniversal.com.mx/nacion/vinculan-a-proceso-a-cesar-jauregui-exfiscal-de-chihuahua-seguira-preso-en-el-altiplano/",
@@ -1036,6 +1048,18 @@
   "CRI": {
    "articles": [
     {
+     "title": "Motociclista muere tras ser atacado a balazos en Puntarenas",
+     "url": "https://www.nacion.com/sucesos/motociclista-muere-tras-ser-atacado-a-balazos-en/2P5RMF47PZHYJPVXTYA4PNC7BA/story/",
+     "domain": "La Nación",
+     "seendate": "20261025T153014Z"
+    },
+    {
+     "title": "CCSS advierte que recursos disponibles para pagar licencias de cuido apenas alcanzarían hasta octubre 2026",
+     "url": "https://www.nacion.com/el-pais/ccss-advierte-que-recursos-disponibles-para-pagar/MXYUUTMMBFA2XJIVWPPUS5EJKU/story/",
+     "domain": "La Nación",
+     "seendate": "20261025T153000Z"
+    },
+    {
      "title": "IMN prevé un domingo nublado y pocas precipitaciones: ¿en cuáles zonas habrá lluvias dispersas?",
      "url": "https://www.nacion.com/el-pais/imn-preve-un-domingo-nublado-y-pocas/AB7IXTNOAFDSPAOYL4TGVHERSE/story/",
      "domain": "La Nación",
@@ -1108,7 +1132,7 @@
      "seendate": "20261024T220952Z"
     },
     {
-     "title": "MOPT anuncia nuevo plan para conexión de nueva vía a San Carlos con ruta 1: Así es como se ejecutará esa obra",
+     "title": "MOPT anuncia plan para conexión de nueva vía a San Carlos con ruta 1: Así es como se ejecutará esa obra",
      "url": "https://www.nacion.com/el-pais/mopt-anuncia-nuevo-plan-para-conexion-de-nueva-via/6UED2G6E45FVXFC3YFP635NHME/story/",
      "domain": "La Nación",
      "seendate": "20261024T210000Z"
@@ -1160,24 +1184,6 @@
      "url": "https://www.nacion.com/el-pais/costa-rica-bajo-las-estrellas-elija-las-tres/FYF4PKH5MZF3DHAUNH2IOFZDFM/story/",
      "domain": "La Nación",
      "seendate": "20261024T161328Z"
-    },
-    {
-     "title": "Encuentro en Curridabat reunirá a personas que afrontan el duelo por muerte por suicidio: conozca los detalles",
-     "url": "https://www.nacion.com/el-pais/encuentro-en-curridabat-reunira-a-personas-que/VYPLTCYWR5HD7K2TZHEJ3ZC4OY/story/",
-     "domain": "La Nación",
-     "seendate": "20261024T145606Z"
-    },
-    {
-     "title": "IMAS realizará pago de subsidios de octubre: consulte las fechas y cómo verificar su giro",
-     "url": "https://www.nacion.com/el-pais/imas-realizara-pago-de-subsidios-de-octubre/NXDQKLXVEZCHHJMSZ3SJ6NDCEU/story/",
-     "domain": "La Nación",
-     "seendate": "20261024T144154Z"
-    },
-    {
-     "title": "Corte de luz de la CNFL afectará una zona de San José este lunes 26 de octubre",
-     "url": "https://www.nacion.com/el-pais/corte-de-luz-de-la-cnfl-afectara-una-zona-de-san/DHYMNFBWMFHOJPPAG46CLLYSWI/story/",
-     "domain": "La Nación",
-     "seendate": "20261024T143900Z"
     }
    ]
   },
@@ -1778,6 +1784,12 @@
   },
   "ECU": {
    "articles": [
+    {
+     "title": "Sistema electoral para vigilar el dinero que ingresa a los partidos y movimientos operaría al 100 % tras cinco años de pruebas",
+     "url": "https://eluniverso.com/politica/elecciones/consejo-nacional-electoral-sistema-contable-campanas-electorales-dinero-control-nota/",
+     "domain": "El Universo",
+     "seendate": "20261025T153500Z"
+    },
     {
      "title": "Aula Digital incorporará inteligencia artificial y seguimiento académico para 2,8 millones de estudiantes",
      "url": "https://eluniverso.com/politica/ejecutivo/aula-digital-incorporara-inteligencia-artificial-y-seguimiento-academico-para-28-millones-de-estudiantes-nota/",
@@ -2617,6 +2629,12 @@
   "ARG": {
    "articles": [
     {
+     "title": "Una joven de 27 años fue hallada muerta en un departamento de Retiro tras una cita con un hombre",
+     "url": "https://www.lanacion.com.ar/seguridad/una-joven-de-27-anos-fue-hallada-muerta-en-un-departamento-de-retiro-tras-una-cita-con-un-hombre-nid25102026/",
+     "domain": "La Nación",
+     "seendate": "20261025T153737Z"
+    },
+    {
      "title": "A cuánto abre el dólar el lunes 26 de octubre",
      "url": "https://www.lanacion.com.ar/economia/dolar/a-cuanto-abre-el-dolar-el-lunes-26-de-octubre-nid24102026/",
      "domain": "La Nación",
@@ -2717,12 +2735,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/se-aproxima-un-nuevo-frente-que-provocara-altibajos-en-la-temperatura-nubosidad-variable-y-lloviznas-nid25102026/",
      "domain": "La Nación",
      "seendate": "20261025T080000Z"
-    },
-    {
-     "title": "La SIP distinguió a The New York Times por su defensa de la libertad de prensa y debatió cómo integrar la IA sin perder el criterio periodístico",
-     "url": "https://www.lanacion.com.ar/sociedad/la-sip-distinguio-a-the-new-york-times-por-su-defensa-de-la-prensa-y-debatio-como-integrar-la-ia-sin-nid25102026/",
-     "domain": "La Nación",
-     "seendate": "20261025T070125Z"
     }
    ]
   },
@@ -3093,6 +3105,12 @@
   "PRY": {
    "articles": [
     {
+     "title": "Aneaes detectó 100.000 títulos de carreras no acreditadas y remitirá informe a la Fiscalía",
+     "url": "https://www.abc.com.py/nacionales/2026/10/25/aneaes-detecto-100000-titulos-de-carreras-no-acreditadas-y-remitira-informe-a-la-fiscalia/",
+     "domain": "ABC Color",
+     "seendate": "20261025T153608Z"
+    },
+    {
      "title": "Caacupé: monseñor alerta sobre una sociedad cada vez más violenta y reclama recuperar los valores",
      "url": "https://www.abc.com.py/nacionales/2026/10/25/caacupe-monsenor-alerta-sobre-una-sociedad-cada-vez-mas-violenta-y-reclama-recuperar-los-valores/",
      "domain": "ABC Color",
@@ -3127,12 +3145,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/25/violencia-domestica-los-20-puntos-claves-que-piden-aplicar-los-juzgados-de-paz/",
      "domain": "ABC Color",
      "seendate": "20261025T124347Z"
-    },
-    {
-     "title": "Educación sexual: MEC insiste en cuestionados libros mientras asfixia a escuelas con “tijerazos” en Gratuidad",
-     "url": "https://www.abc.com.py/nacionales/2026/10/25/educacion-sexual-mec-insiste-en-cuestionados-libros-mientras-asfixia-a-escuelas-con-tijerazos-en-gratuidad/",
-     "domain": "ABC Color",
-     "seendate": "20261025T120000Z"
     }
    ]
   },
@@ -3141,6 +3153,54 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "Chuva provoca a morte de duas mulheres em Jundiaí, em São Paulo",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/25/chuva-provoca-a-morte-de-duas-mulheres-em-jundiai-em-sao-paulo.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T154540Z"
+    },
+    {
+     "title": "Ministério da Justiça contabiliza 89 ocorrências relacionadas às eleições até o meio-dia",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/ministerio-da-justica-contabiliza-89-ocorrencias-relacionadas-as-eleicoes-ate-o-meio-dia.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T154511Z"
+    },
+    {
+     "title": "Eleições 2026: Flávio diz que chegou a 'hora da mudança'; Lula fala que povo é 'exército da democracia'; acompanhe",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/ao-vivo/eleicoes-2026-acompanhe-ao-vivo-o-segundo-turno-ao-vivo-no-brasil.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T154332Z"
+    },
+    {
+     "title": "Após reclamação do PSOL, Justiça determina que Prefeitura de SP opere 100% da frota de ônibus no domingo de eleição",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/apos-reclamacao-do-psol-justica-determina-que-prefeitura-de-sp-opere-100percent-da-frota-de-onibus-no-domingo-de-eleicao.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T153445Z"
+    },
+    {
+     "title": "Da China à Bahia, brasileiros pegam ônibus, barco e avião para votar, e relatos de viagens se multiplicam nas redes",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/da-china-a-bahia-brasileiros-pegam-onibus-barco-e-aviao-para-votar-e-relatos-de-viagens-se-multiplicam-nas-redes.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T152846Z"
+    },
+    {
+     "title": "PF vai abrir inquérito para investigar agressão à vereadora do PT durante ato em Minas Gerais, diz diretor",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/pf-vai-abrir-inquerito-para-investigar-agressao-a-vereadora-do-pt-durante-ato-em-minas-gerais-diz-diretor.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T152313Z"
+    },
+    {
+     "title": "De barco, com traje típico gaúcho e até de peruca roxa, veja fotos de eleitores votando Brasil afora",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/de-barco-com-traje-tipico-gaucho-e-ate-de-peruca-roxa-veja-fotos-de-eleitores-votando-brasil-afora.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T152035Z"
+    },
+    {
+     "title": "PF apreendeu R$ 51,9 milhões em dinheiro e bens durante operações eleitorais em 2026",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/andrei-fala-balanco-da-manha.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T151448Z"
+    },
     {
      "title": "Abstenção cai no exterior em 11 países que já concluíram a votação: foram quase 9 mil eleitores a mais no segundo turno",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/abstencao-cai-no-exterior-em-11-paises-que-ja-concluiram-a-votacao-foram-quase-9-mil-eleitores-a-mais-no-segundo-turno.ghtml",
@@ -3154,7 +3214,7 @@
      "seendate": "20261025T150947Z"
     },
     {
-     "title": "Eleitores superam problemas do primeiro turno e decidem votar no segundo",
+     "title": "Eleitores que não votaram no 1º turno resgatam ânimo e superam problemas de saúde para comparecer às urnas",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/eleitores-superam-problemas-do-primeiro-turno-e-decidem-votar-no-segundo.ghtml",
      "domain": "O Globo",
      "seendate": "20261025T150520Z"
@@ -3176,12 +3236,6 @@
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/homem-negro-aparece-acorrentado-em-ato-de-apoio-a-flavio-bolsonaro-na-barra-veja-video.ghtml",
      "domain": "O Globo",
      "seendate": "20261025T144810Z"
-    },
-    {
-     "title": "Eleições 2026: Flávio diz que chegou a 'hora da mudança'; Lula fala que povo é 'exército da democracia'; acompanhe",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/ao-vivo/eleicoes-2026-acompanhe-ao-vivo-o-segundo-turno-ao-vivo-no-brasil.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T142720Z"
     },
     {
      "title": "TSE registra 1 milhão de justificativas pelo e-Título até as 9h",
@@ -3356,24 +3410,6 @@
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/eleicoes-2026-votacao-e-encerrada-na-coreia-do-sul.ghtml",
      "domain": "O Globo",
      "seendate": "20261025T084211Z"
-    },
-    {
-     "title": "O que acontece se eu não votar? Veja passo a passo de como justificar o voto",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/guia/o-que-acontece-se-eu-nao-votar-veja-passo-a-passo-de-como-justificar-o-voto-1.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T080603Z"
-    },
-    {
-     "title": "Eleições 2026: qual é a ordem de votação neste ano? Veja como votar",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/eleicoes-2026-qual-e-a-ordem-de-votacao-neste-ano-veja-como-votar.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T080500Z"
-    },
-    {
-     "title": "Eleições 2026: Votação é encerrada no Japão, e Flávio Bolsonaro vence Lula com quatro vezes mais votos",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/eleicoes-2026-votacao-e-encerrada-no-japao.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T080236Z"
     }
    ]
   }
