@@ -1,10 +1,16 @@
 {
- "updated": "2026-10-25T19:07:30+00:00",
+ "updated": "2026-10-25T19:56:23+00:00",
  "countries": {
   "ESP": {
    "articles": [
     {
-     "title": "Un accidente de autobús en Fogars de Montclús (Barcelona) se salda con 80 heridos, 22 de ellos graves",
+     "title": "Fallece la actriz Pepa Arenós a los 78 años",
+     "url": "https://elpais.com/espana/catalunya/2026-10-25/fallece-la-actriz-pepa-arenos-a-los-78-anos.html",
+     "domain": "El País",
+     "seendate": "20261025T191955Z"
+    },
+    {
+     "title": "Un accidente de autobús en Fogars de Montclús (Barcelona) se salda con 80 heridos, cinco de ellos hospitalizados",
      "url": "https://elpais.com/espana/catalunya/2026-10-25/al-menos-40-heridos-en-un-accidente-entre-un-autobus-y-un-coche-en-barcelona.html",
      "domain": "El País",
      "seendate": "20261025T172000Z"
@@ -22,13 +28,7 @@
      "seendate": "20261025T140615Z"
     },
     {
-     "title": "Detenido en la acampada de Sol un hombre de 26 años por agredir sexualmente a una mujer de 22",
-     "url": "https://elpais.com/espana/madrid/2026-10-25/detenido-en-la-acampada-de-sol-un-hombre-de-26-anos-por-agredir-sexualmente-a-una-mujer-de-22.html",
-     "domain": "El País",
-     "seendate": "20261025T135219Z"
-    },
-    {
-     "title": "Sol prepara su adiós: comienza a desmontarse el campamento a falta de un anuncio oficial",
+     "title": "Sol prepara su adiós: comienza a organizarse la marcha de los jóvenes a falta de fecha y anuncio oficial",
      "url": "https://elpais.com/espana/madrid/2026-10-25/sol-prepara-su-adios-comienzan-a-retirarse-lonas-y-carpas-a-falta-de-un-anuncio-oficial-de-desacampada.html",
      "domain": "El País",
      "seendate": "20261025T133055Z"
@@ -52,6 +52,12 @@
      "seendate": "20261025T125447Z"
     },
     {
+     "title": "Los jóvenes que provocaron altercados en Barcelona se convocaron por TikTok y organizaron por grupos de Telegram y Whatsapp",
+     "url": "https://elpais.com/espana/catalunya/2026-10-25/los-jovenes-que-provocaron-altercados-en-barcelona-se-convocaron-por-tiktok-y-organizaron-por-grupos-de-telegram-y-whatsapp.html",
+     "domain": "El País",
+     "seendate": "20261025T073210Z"
+    },
+    {
      "title": "Pedro Sánchez: “Un Gobierno del PP con Vox no es alternancia, es retroceder 50 años”",
      "url": "https://elpais.com/espana/elecciones-generales/2026-10-25/pedro-sanchez-un-gobierno-del-pp-con-vox-no-es-alternancia-es-retroceder-50-anos.html",
      "domain": "El País",
@@ -60,12 +66,6 @@
     {
      "title": "El acertijo de cada día en Madrid: ¿dónde le toca trabajar hoy a Ayuso?",
      "url": "https://elpais.com/espana/madrid/2026-10-25/el-acertijo-de-cada-dia-en-madrid-donde-le-toca-trabajar-hoy-a-ayuso.html",
-     "domain": "El País",
-     "seendate": "20261025T043001Z"
-    },
-    {
-     "title": "El 29-N desata la “hiperactividad” en el avispero de grupos en torno al PP y Vox",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-10-25/el-29-n-desata-la-hiperactividad-en-el-avispero-de-grupos-en-torno-al-pp-y-vox.html",
      "domain": "El País",
      "seendate": "20261025T043001Z"
     },
@@ -112,12 +112,6 @@
      "seendate": "20261024T033000Z"
     },
     {
-     "title": "Café a la sombra de Sócrates",
-     "url": "https://elpais.com/espana/catalunya/2026-10-24/cafe-a-la-sombra-de-socrates.html",
-     "domain": "El País",
-     "seendate": "20261024T031500Z"
-    },
-    {
      "title": "Seis detenidos en un narcopiso de Getafe en el que se lanzaban las llaves a los consumidores para entrar",
      "url": "https://elpais.com/espana/madrid/2026-10-23/seis-detenidos-en-un-narcopiso-de-getafe-en-el-que-se-lanzaban-las-llaves-a-los-consumidores-para-acceder.html",
      "domain": "El País",
@@ -139,6 +133,30 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Convocatoria a mega paro divide a transportistas; Segob mantiene llamado a no afectar a ciudadanía",
+     "url": "https://www.eluniversal.com.mx/nacion/convocatoria-a-mega-paro-divide-a-transportistas-segob-mantiene-llamado-a-no-afectar-a-ciudadania/",
+     "domain": "El Universal",
+     "seendate": "20261025T193354Z"
+    },
+    {
+     "title": "No debe haber corrupción ni privilegios en la 4T, insiste Sheinbaum; falso que instituciones públicas estén peor, dice",
+     "url": "https://www.eluniversal.com.mx/nacion/no-debe-haber-corrupcion-ni-privilegios-en-la-4t-insiste-sheinbaum-falso-que-instituciones-publicas-esten-peor-dice/",
+     "domain": "El Universal",
+     "seendate": "20261025T191248Z"
+    },
+    {
+     "title": "Más de 400 personas celebran el cuarto aniversario de la clase de trampolín más grande del mundo; se reúnen en la Glorieta de Insurgentes",
+     "url": "https://www.eluniversal.com.mx/metropoli/mas-de-400-personas-celebran-el-cuarto-aniversario-de-la-clase-de-trampolin-mas-grande-del-mundo-se-reunen-en-la-glorieta-de-insurgentes/",
+     "domain": "El Universal",
+     "seendate": "20261025T191225Z"
+    },
+    {
+     "title": "Horacio Duarte llama a la unidad en Morena; rumbo a las elecciones de 2027",
+     "url": "https://www.eluniversal.com.mx/metropoli/horacio-duarte-llama-a-la-unidad-en-morena-rumbo-a-las-elecciones-de-2027/",
+     "domain": "El Universal",
+     "seendate": "20261025T185900Z"
+    },
     {
      "title": "Asesinan a una mujer y hieren de gravedad a un hombre en Escuinapa; suman 19 víctimas en octubre en Sinaloa",
      "url": "https://www.eluniversal.com.mx/estados/asesinan-a-una-mujer-y-hieren-de-gravedad-a-un-hombre-en-escuinapa-suman-19-victimas-en-octubre-en-sinaloa/",
@@ -1120,6 +1138,18 @@
   "CRI": {
    "articles": [
     {
+     "title": "Embarcación con tres tripulantes permanece desaparecida en aguas del Caribe de Costa Rica",
+     "url": "https://www.nacion.com/sucesos/embarcacion-con-tres-tripulantes-permanece/P3B4OBOTOBBNBJGB3ARWHPPM6M/story/",
+     "domain": "La Nación",
+     "seendate": "20261025T193151Z"
+    },
+    {
+     "title": "Primer intercambio en vía a San Ramón estará listo en tres meses: ¿de cuál obra se trata?",
+     "url": "https://www.nacion.com/el-pais/primer-intercambio-en-via-a-san-ramon-estara-listo/GB3NOHKG45EWNECOO2NK24ANOQ/story/",
+     "domain": "La Nación",
+     "seendate": "20261025T190000Z"
+    },
+    {
      "title": "Asalto en el INA de La Uruca: esto dice la institución sobre el robo de armas a guardas de seguridad privada",
      "url": "https://www.nacion.com/sucesos/asalto-en-el-ina-de-la-uruca-esto-dice-la/JN3THYEC2FEXNB3KZOLYHJWQHE/story/",
      "domain": "La Nación",
@@ -1250,23 +1280,23 @@
      "url": "https://www.nacion.com/sucesos/seis-personas-rescatadas-tras-hundimiento-de-una/IH34JX7OZZCTRBHFAPTOK2MFBY/story/",
      "domain": "La Nación",
      "seendate": "20261024T175120Z"
-    },
-    {
-     "title": "Sentenciado por narco se entregó este sábado, tras error de Justicia que lo dejó libre",
-     "url": "https://www.nacion.com/sucesos/sentenciado-por-narco-se-entrego-este-sabado-tras/4TAEG32MUZHBNPFSH22FR4TJHY/story/",
-     "domain": "La Nación",
-     "seendate": "20261024T175044Z"
-    },
-    {
-     "title": "Flota aérea del Ministerio de Seguridad estaría en tierra por aceites de turbina vencidos, según denuncia",
-     "url": "https://www.nacion.com/el-pais/flota-aerea-del-ministerio-de-seguridad-estaria-en/FLTU3AOLIND2RH3HMQ2SS7GZOQ/story/",
-     "domain": "La Nación",
-     "seendate": "20261024T172043Z"
     }
    ]
   },
   "PAN": {
    "articles": [
+    {
+     "title": "Panamá será sede de la Asamblea General de la SIP en 2027",
+     "url": "https://www.prensa.com/politica/panama-sera-sede-de-la-asamblea-general-de-la-sip-en-2027/",
+     "domain": "La Prensa",
+     "seendate": "20261025T193417Z"
+    },
+    {
+     "title": "Monseñor Ulloa llama a que no se enfríe la solidaridad tras el terremoto: ‘La iglesia no se derrumba cuando se dañan sus paredes’",
+     "url": "https://www.prensa.com/sociedad/monsenor-ulloa-llama-a-que-no-se-enfrie-la-solidaridad-tras-el-terremoto-la-iglesia-no-se-derrumba-cuando-se-danan-sus-paredes-clone/",
+     "domain": "La Prensa",
+     "seendate": "20261025T190350Z"
+    },
     {
      "title": "Acoso judicial, censura y violencia amenazan al periodismo en las Américas, advierte la SIP",
      "url": "https://www.prensa.com/politica/acoso-judicial-censura-y-violencia-amenazan-al-periodismo-en-las-americas-advierte-la-sip/",
@@ -1382,12 +1412,6 @@
      "seendate": "20261023T050500Z"
     },
     {
-     "title": "La Contraloría pone la lupa en el subsidio poselectoral del PRD, pero excluye los millones de la campaña de 2024",
-     "url": "https://www.prensa.com/politica/la-contraloria-pone-la-lupa-en-el-subsidio-poselectoral-del-prd-pero-excluye-los-millones-de-la-campana-de-2024/",
-     "domain": "La Prensa",
-     "seendate": "20261023T050300Z"
-    },
-    {
      "title": "Más de 12,000 viviendas afectadas por el terremoto en Panamá",
      "url": "https://www.prensa.com/politica/el-ejecutivo-actualiza-el-balance-de-areas-afectadas-por-el-terremoto/",
      "domain": "La Prensa",
@@ -1415,6 +1439,12 @@
   },
   "CUB": {
    "articles": [
+    {
+     "title": "La magia de Harry Potter llega a La Habana con precios de hechicería",
+     "url": "https://www.14ymedio.com/cuba/magia-harry-potter-llega-habana_1_1132408.html",
+     "domain": "14ymedio",
+     "seendate": "20261025T191443Z"
+    },
     {
      "title": "Santiago de Cuba y Guantánamo se desconectan del SEN por el disparo de una línea de alta tensión",
      "url": "https://www.14ymedio.com/cuba/santiago-cuba-guantanamo-desconectan-sen_1_1132404.html",
@@ -1559,16 +1589,88 @@
   "VEN": {
    "articles": [
     {
+     "title": "El pueblo te estaba esperando : Voluntad Popular insta a consolidar la unidad tras el regreso de María Corina Machado a Venezuela",
+     "url": "https://www.ntn24.com/noticias-actualidad/el-pueblo-te-estaba-esperando-voluntad-popular-insta-a-consolidar-la-unidad-tras-el-regreso-de-maria-corina-machado-a-venezuela-661143",
+     "domain": "ntn24.com",
+     "seendate": "20261025T191500Z"
+    },
+    {
+     "title": "Proyecto comunal en Hato Romar en Sucre entra en su fase final - Agencia Venezolana de Noticias",
+     "url": "https://avn.info.ve/proyecto-comunal-en-hato-romar-en-sucre-entra-en-su-fase-final/",
+     "domain": "avn.info.ve",
+     "seendate": "20261025T191500Z"
+    },
+    {
+     "title": "María Corina Machado regresa a territorio venezolano : Estoy aquí . Con ustedes",
+     "url": "https://www.ntn24.com/noticias-actualidad/maria-corina-machado-esta-en-territorio-venezolano-asi-lo-confirmo-la-lider-de-la-democracia-y-edmundo-gonzalez-661116",
+     "domain": "ntn24.com",
+     "seendate": "20261025T191500Z"
+    },
+    {
+     "title": "Reacciones internacionales a la llegada de María Corina Machado : dirigentes internacionales manifiestan su apoyo a su regreso y advierten al régimen sobre su integridad",
+     "url": "https://www.ntn24.com/noticias-actualidad/reacciones-internacionales-a-la-llegada-de-maria-corina-machado-dirigentes-internacionales-manifiestan-su-apoyo-a-su-regreso-y-advierten-al-regimen-sobre-su-integridad-661124",
+     "domain": "ntn24.com",
+     "seendate": "20261025T191500Z"
+    },
+    {
+     "title": "Es una mujer muy agradable ; espero que esté a salvo : Trump se pronuncia sobre el regreso de María Corina Machado a Venezuela",
+     "url": "https://www.ntn24.com/noticias-actualidad/es-una-mujer-muy-agradable-espero-que-este-a-salvo-trump-se-pronuncia-sobre-el-regreso-de-maria-corina-machado-a-venezuela-661136",
+     "domain": "ntn24.com",
+     "seendate": "20261025T191500Z"
+    },
+    {
+     "title": "Foro Mundial de Inversiones 2026 es inaugurado en Qatar - Agencia Venezolana de Noticias",
+     "url": "https://avn.info.ve/foro-mundial-de-inversiones-2026-es-inaugurado-en-qatar/",
+     "domain": "avn.info.ve",
+     "seendate": "20261025T191500Z"
+    },
+    {
+     "title": "González Urrutia asegura que María Corina Machado ya se encuentra en Venezuela",
+     "url": "https://www.el-carabobeno.com/gonzalez-urrutia-asegura-que-maria-corina-machado-ya-se-encuentra-en-venezuela-avance/",
+     "domain": "el-carabobeno.com",
+     "seendate": "20261025T180000Z"
+    },
+    {
+     "title": "Inicio | Periódico CiudadCCS",
+     "url": "https://ciudadccs.info/publicacion/52516-gobierno-preve-fortalecer-la-atencion-diaria-de-ninos-mediante-el-pae",
+     "domain": "ciudadccs.info",
+     "seendate": "20261025T180000Z"
+    },
+    {
+     "title": "Trump tras regreso de María Corina Machado a Venezuela : Espero que esté a salvo",
+     "url": "https://www.el-carabobeno.com/trump-tras-regreso-de-maria-corina-machado-a-venezuela-espero-que-este-a-salvo/",
+     "domain": "el-carabobeno.com",
+     "seendate": "20261025T180000Z"
+    },
+    {
+     "title": "Las primeras imágenes del regreso de María Corina Machado a Venezuela : visitó la iglesia de Santa Rosa en Lara",
+     "url": "https://www.el-carabobeno.com/las-primeras-imagenes-del-regreso-de-maria-corina-machado-a-venezuela-visito-la-iglesia-de-santa-rosa-en-lara/",
+     "domain": "el-carabobeno.com",
+     "seendate": "20261025T180000Z"
+    },
+    {
+     "title": "Transición gradual de Figuera enfrenta presión opositora por falta de fecha electoral",
+     "url": "https://www.el-carabobeno.com/transicion-gradual-de-figuera-enfrenta-presion-opositora-por-falta-de-fecha-electoral/",
+     "domain": "el-carabobeno.com",
+     "seendate": "20261025T180000Z"
+    },
+    {
+     "title": "Al presbítero José Cecilio Avila , hijo ilustre de Carlos Arvelo , en los 193 años de su fallecimiento",
+     "url": "https://www.el-carabobeno.com/al-presbitero-jose-cecilio-avila-hijo-ilustre-de-carlos-arvelo-en-los-193-anos-de-su-fallecimiento/",
+     "domain": "el-carabobeno.com",
+     "seendate": "20261025T180000Z"
+    },
+    {
+     "title": "La SIP advierte : libertad de prensa en Venezuela sigue condicionada pese a avances",
+     "url": "https://www.el-carabobeno.com/la-sip-advierte-libertad-de-prensa-en-venezuela-sigue-condicionada-pese-a-avances/",
+     "domain": "el-carabobeno.com",
+     "seendate": "20261025T180000Z"
+    },
+    {
      "title": "Dr . Javier Soteldo , vicepresidente de la Sociedad Anticancerosa de Venezuela , visitó Guayana para abordar los desafíos del cáncer de mama - Yvke Mundial",
      "url": "https://radiomundial.com.ve/dr-javier-soteldo-vicepresidente-de-la-sociedad-anticancerosa-de-venezuela-visito-guayana-para-abordar-los-desafios-del-cancer-de-mama/",
      "domain": "radiomundial.com.ve",
      "seendate": "20261025T123000Z"
-    },
-    {
-     "title": "Inicio | Periódico CiudadCCS",
-     "url": "http://ciudadccs.info/publicacion/52516-gobierno-preve-fortalecer-la-atencion-diaria-de-ninos-mediante-el-pae",
-     "domain": "ciudadccs.info",
-     "seendate": "20261025T111500Z"
     },
     {
      "title": "Lluvias extremas en Venezuela : inundaciones , pocos datos y la urgencia de evitar el colapso",
@@ -1785,77 +1887,17 @@
      "url": "https://www.globovision.com/sociedad/63597/presidenta-delcy-rodriguez-reitera-llamado-a-la-preservacion-de-las-especies-autoctonas-y-el-medio",
      "domain": "globovision.com",
      "seendate": "20261024T171500Z"
-    },
-    {
-     "title": "Fundaprocura celebra una nueva edición de",
-     "url": "https://www.globovision.com/sociedad/63595/fundaprocura-celebra-una-nueva-edicion-de-el-bazar-de-los-bazares-en-el-caracas-country-club",
-     "domain": "globovision.com",
-     "seendate": "20261024T171500Z"
-    },
-    {
-     "title": "Protesta juvenil - Últimas Noticias",
-     "url": "https://ultimasnoticias.com.ve/pare-de-sufrir/protesta-juvenil-2/",
-     "domain": "ultimasnoticias.com.ve",
-     "seendate": "20261024T161500Z"
-    },
-    {
-     "title": "Arrancó desde el estado Sucre el plan nacional del Cacao",
-     "url": "https://ultimasnoticias.com.ve/actualidad/arranco-desde-el-estado-sucre-el-plan-nacional-del-cacao/",
-     "domain": "ultimasnoticias.com.ve",
-     "seendate": "20261024T161500Z"
-    },
-    {
-     "title": "Ÿš˜Autofest 2026 enciende motores ðŸ ›» en Caracas con facilidades de crédito ðŸ ˆy nuevos lanzamientosðŸš™",
-     "url": "https://ultimasnoticias.com.ve/zoom/%F0%9F%9A%98autofest-2026-enciende-motores-%F0%9F%9B%BBen-caracas-con-facilidades-de-credito-%F0%9F%93%88y-nuevos-lanzamientos%F0%9F%9A%99/",
-     "domain": "ultimasnoticias.com.ve",
-     "seendate": "20261024T161500Z"
-    },
-    {
-     "title": "Ver el pasado - Últimas Noticias",
-     "url": "https://ultimasnoticias.com.ve/cultura/ver-el-pasado/",
-     "domain": "ultimasnoticias.com.ve",
-     "seendate": "20261024T161500Z"
-    },
-    {
-     "title": "Capriles envía palabras de aliento a víctimas del doble terremoto a 4 meses del 24J",
-     "url": "https://noticierodigital.com/2026/10/capriles-envia-palabras-de-aliento-a-victimas-del-doble-terremoto-a-4-meses-del-24j/",
-     "domain": "noticierodigital.com",
-     "seendate": "20261024T161500Z"
-    },
-    {
-     "title": "Limpieza de escombros cambia la cara al Litoral",
-     "url": "https://ultimasnoticias.com.ve/la-guaira/limpieza-de-escombros-cambia-la-cara-al-litoral/",
-     "domain": "ultimasnoticias.com.ve",
-     "seendate": "20261024T161500Z"
-    },
-    {
-     "title": "Metro de Caracas prestará servicio especial por eventos en La Rinconada",
-     "url": "https://ultimasnoticias.com.ve/actualidad/metro-de-caracas-prestara-servicio-especial-por-eventos-en-la-rinconada/",
-     "domain": "ultimasnoticias.com.ve",
-     "seendate": "20261024T161500Z"
-    },
-    {
-     "title": "GWM refuerza su apuesta con la llegada de la SUV Haval H7 y ofrece hasta 100 % de financiamiento",
-     "url": "https://ultimasnoticias.com.ve/zoom/gwm-refuerza-su-apuesta-con-la-llegada-de-la-suv-haval-h7-y-ofrece-hasta-100-de-financiamiento/",
-     "domain": "ultimasnoticias.com.ve",
-     "seendate": "20261024T161500Z"
-    },
-    {
-     "title": "GE Vernova advierte que mejorar el servicio eléctrico podría requerir entre ocho meses y un año",
-     "url": "https://www.descifrado.com/2026/10/24/ge-vernova-advierte-que-mejorar-el-servicio-electrico-podria-requerir-entre-ocho-meses-y-un-ano/",
-     "domain": "descifrado.com",
-     "seendate": "20261024T154500Z"
-    },
-    {
-     "title": "Lo que aprendí de los LLMs",
-     "url": "https://www.eluniversal.com/el-universal/243853/lo-que-aprendi-de-los-llms",
-     "domain": "eluniversal.com",
-     "seendate": "20261024T151500Z"
     }
    ]
   },
   "ECU": {
    "articles": [
+    {
+     "title": "Lluvias vinculadas a El Niño dejan tres muertos y más de 28.000 afectados en Ecuador",
+     "url": "https://eluniverso.com/comunidad/ecuador/lluvias-vinculadas-a-el-nino-dejan-tres-muertos-y-mas-de-28000-afectados-en-ecuador-nota/",
+     "domain": "El Universo",
+     "seendate": "20261025T191814Z"
+    },
     {
      "title": "Misa para despedir a los siameses de Milagro se transmitirá por TikTok",
      "url": "https://eluniverso.com/comunidad/ecuador/misa-para-despedir-a-los-siameses-de-milagro-se-transmitira-por-tiktok-nota/",
@@ -1951,12 +1993,6 @@
      "url": "https://eluniverso.com/comunidad/ecuador/juliana-munoz-bravo-reina-de-cuenca-2026-2027-nota/",
      "domain": "El Universo",
      "seendate": "20261024T221138Z"
-    },
-    {
-     "title": "Tres hombres y un menor de edad fueron capturados tras balacera en una funeraria en Morona Santiago",
-     "url": "https://eluniverso.com/politica/seguridad/tres-hombres-un-menor-edad-capturados-balacera-funeraria-morona-santiago-nota/",
-     "domain": "El Universo",
-     "seendate": "20261024T214138Z"
     },
     {
      "title": "Transferencias y cheques al portador: las dos vías que Fiscalía investiga en el caso Laberinto por financiamiento irregular a campaña de Luisa González",
@@ -2689,10 +2725,40 @@
   "ARG": {
    "articles": [
     {
-     "title": "Autopsia digital: efectuaron un estudio pionero que podría transformar las investigaciones forenses en la Argentina",
+     "title": "La UCR y el Frente Renovador condenaron los ataques de Milei a periodistas: “Pasó todos los límites”",
+     "url": "https://www.lanacion.com.ar/politica/la-ucr-y-el-frente-renovador-condenaron-los-ataques-de-milei-a-periodistas-paso-todos-los-limites-nid25102026/",
+     "domain": "La Nación",
+     "seendate": "20261025T193530Z"
+    },
+    {
+     "title": "Autopsia digital: el estudio inédito que podría transformar las investigaciones forenses en la Argentina",
      "url": "https://www.lanacion.com.ar/sociedad/autopsia-digital-efectuaron-un-estudio-pionero-que-podria-transformar-las-investigaciones-forenses-nid25102026/",
      "domain": "La Nación",
-     "seendate": "20261025T185339Z"
+     "seendate": "20261025T192433Z"
+    },
+    {
+     "title": "Parque Chacabuco: fueron a buscar armas por una denuncia de violencia de género y encontraron 52 plantas de marihuana",
+     "url": "https://www.lanacion.com.ar/seguridad/parque-chacabuco-fueron-a-buscar-armas-por-una-denuncia-de-violencia-de-genero-y-encontraron-52-nid25102026/",
+     "domain": "La Nación",
+     "seendate": "20261025T192239Z"
+    },
+    {
+     "title": "Mauricio, de 37 años, dejó su trabajo en una automotriz y se mudó al monte: “Si uno tiene herramientas y la voluntad, el trabajo siempre sale”",
+     "url": "https://www.lanacion.com.ar/sociedad/mauricio-de-37-anos-dejo-su-trabajo-en-una-automotriz-y-se-mudo-al-monte-si-uno-tiene-herramientas-y-nid24102026/",
+     "domain": "La Nación",
+     "seendate": "20261025T191638Z"
+    },
+    {
+     "title": "Carlos Jornet, nuevo presidente de la SIP: “Si no apoyamos al periodismo, la próxima consecuencia será un acelerado deterioro democrático e institucional”",
+     "url": "https://www.lanacion.com.ar/sociedad/carlos-jornet-nuevo-presidente-de-la-sip-si-no-apoyamos-al-periodismo-la-proxima-consecuencia-sera-nid25102026/",
+     "domain": "La Nación",
+     "seendate": "20261025T190959Z"
+    },
+    {
+     "title": "Jorge Tartaglione, médico, sobre accidentes en casa: “Si un niño toma lavandina, no hay que provocarle el vómito”",
+     "url": "https://www.lanacion.com.ar/sociedad/jorge-tartaglione-medico-sobre-accidentes-en-casa-si-un-nino-toma-lavandina-no-hay-que-provocarle-el-nid25102026/",
+     "domain": "La Nación",
+     "seendate": "20261025T190000Z"
     },
     {
      "title": "La SIP advirtió sobre el aumento de la violencia contra periodistas y las presiones de los gobiernos en América",
@@ -2719,46 +2785,16 @@
      "seendate": "20261025T175920Z"
     },
     {
-     "title": "La UCR y el Frente Renovador condenaron los ataques de Milei a periodistas: “Pasó todos los límites”",
-     "url": "https://www.lanacion.com.ar/politica/la-ucr-y-el-frente-renovador-condenaron-los-ataques-de-milei-a-periodistas-paso-todos-los-limites-nid25102026/",
-     "domain": "La Nación",
-     "seendate": "20261025T174538Z"
-    },
-    {
      "title": "A cuánto abre el dólar el lunes 26 de octubre",
      "url": "https://www.lanacion.com.ar/economia/dolar/a-cuanto-abre-el-dolar-el-lunes-26-de-octubre-nid24102026/",
      "domain": "La Nación",
      "seendate": "20261025T144927Z"
     },
     {
-     "title": "Carlos Jornet, nuevo presidente de la SIP: “Si no apoyamos al periodismo, la próxima consecuencia será un acelerado deterioro democrático e institucional”",
-     "url": "https://www.lanacion.com.ar/sociedad/carlos-jornet-nuevo-presidente-de-la-sip-si-no-apoyamos-al-periodismo-la-proxima-consecuencia-sera-nid25102026/",
-     "domain": "La Nación",
-     "seendate": "20261025T144641Z"
-    },
-    {
      "title": "Intiman a retirar el único puesto de diarios de Puerto Madero: el dueño pide quedarse y los vecinos lo respaldan",
      "url": "https://www.lanacion.com.ar/sociedad/intiman-a-retirar-el-unico-puesto-de-diarios-de-puerto-madero-el-dueno-pide-quedarse-y-los-vecinos-nid23102026/",
      "domain": "La Nación",
      "seendate": "20261025T141409Z"
-    },
-    {
-     "title": "Más de 7000 visitantes recorrieron el “hospital de las estatuas” porteño, que celebró 70 años en una noche especial",
-     "url": "https://www.lanacion.com.ar/sociedad/mas-de-7000-visitantes-recorrieron-el-hospital-de-las-estatuas-porteno-que-celebro-70-anos-en-una-nid25102026/",
-     "domain": "La Nación",
-     "seendate": "20261025T132452Z"
-    },
-    {
-     "title": "Mauricio, de 37 años, dejó su trabajo en una automotriz y se mudó al monte: “Si uno tiene herramientas y la voluntad, el trabajo siempre sale”",
-     "url": "https://www.lanacion.com.ar/sociedad/mauricio-de-37-anos-dejo-su-trabajo-en-una-automotriz-y-se-mudo-al-monte-si-uno-tiene-herramientas-y-nid24102026/",
-     "domain": "La Nación",
-     "seendate": "20261025T120610Z"
-    },
-    {
-     "title": "“No es solo excavar”: el streaming interactivo de arqueólogos argentinos en el sitio austral más icónico del Imperio Inca",
-     "url": "https://www.lanacion.com.ar/sociedad/no-es-solo-excavar-el-streaming-interactivo-de-arqueologos-argentinos-en-el-sitio-austral-mas-nid25102026/",
-     "domain": "La Nación",
-     "seendate": "20261025T120000Z"
     }
    ]
   },
@@ -3145,12 +3181,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/25/portico-de-identidad-la-obra-turistica-en-la-laguna-punta-pora-de-pedro-juan-caballero/",
      "domain": "ABC Color",
      "seendate": "20261025T164132Z"
-    },
-    {
-     "title": "Caacupé: monseñor alerta sobre una sociedad cada vez más violenta y reclama recuperar los valores",
-     "url": "https://www.abc.com.py/nacionales/2026/10/25/caacupe-monsenor-alerta-sobre-una-sociedad-cada-vez-mas-violenta-y-reclama-recuperar-los-valores/",
-     "domain": "ABC Color",
-     "seendate": "20261025T150653Z"
     }
    ]
   },
@@ -3160,7 +3190,61 @@
   "BRA": {
    "articles": [
     {
-     "title": "Campanha de Lula e PT pedem ao TSE extensão da votação até as 19h em dez estados",
+     "title": "Eleitores organizam caronas solidárias para locais de votação após relatos de falta de ônibus",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/eleitores-organizam-caronas-solidarias-para-locais-de-votacao-apos-relatos-de-falta-de-onibus.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T194912Z"
+    },
+    {
+     "title": "Deputado Federal do PT Pedro Roussef sofre acidente em rodovia",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/deputado-federal-do-pt-pedro-roussef-sofre-acidente-em-rodovia.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T194843Z"
+    },
+    {
+     "title": "Lula x Flávio no exterior: Relembre como foi o resultado da eleição fora do Brasil no primeiro turno",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/lula-x-flavio-no-exterior-relembre-como-foi-o-resultado-da-eleicao-fora-do-brasil-no-primeiro-turno.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T194200Z"
+    },
+    {
+     "title": "Campanha de Lula aciona o STF pedindo extensão até as 19h de votação em todo o país após problemas no transporte",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/25/campanha-de-lula-aciona-o-stf-pedindo-extensao-ate-as-19h-de-votacao-em-todo-o-pais-apos-problemas-no-transporte.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T193900Z"
+    },
+    {
+     "title": "Campanha de Flávio segue Lula e também pede adiamento do horário de fechamento das urnas em SP, SC e PR",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/campanha-de-flavio-segue-lula-e-tambem-pede-adiamento-do-horario-de-fechamento-das-urnas.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T193603Z"
+    },
+    {
+     "title": "Campanha de Lula aciona o STF pedindo extensão ate as 19h de votação em Salvador e mais duas cidades da Bahia",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/25/campanha-de-lula-aciona-o-stf-pedindo-extensao-ate-as-19h-de-votacao-em-salvador-e-mais-duas-cidades-da-bahia.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T193334Z"
+    },
+    {
+     "title": "Quem ganhou as eleições 2026 no exterior? Veja diferença do 1º e 2º turno entre Lula e Bolsonaro",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/quem-ganhou-as-eleicoes-2026-no-exterior-veja-diferenca-do-1-e-2-turno-entre-lula-e-bolsonaro.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T191608Z"
+    },
+    {
+     "title": "Nunes Marques pede que TRE-BA preste informações em meia hora sobre redução da frota de ônibus em Salvador",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/25/nunes-marques-pede-que-tre-ba-preste-informacoes-em-meia-hora-sobre-reducao-da-frota-de-onibus-em-salvador.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T191153Z"
+    },
+    {
+     "title": "Que horas acaba a apuração dos votos nas eleições 2026?",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/guia/que-horas-acaba-a-apuracao-dos-votos-nas-eleicoes-2026.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T190524Z"
+    },
+    {
+     "title": "Campanha de Lula pede ao TSE extensão da votação até as 19h em dez estados que reúnem 77 milhões de eleitores",
      "url": "https://oglobo.globo.com/politica/noticia/2026/10/25/campanha-de-lula-e-pt-pedem-ao-tse-extensao-da-votacao-ate-as-19h-em-dez-estados.ghtml",
      "domain": "O Globo",
      "seendate": "20261025T185727Z"
@@ -3268,7 +3352,7 @@
      "seendate": "20261025T170206Z"
     },
     {
-     "title": "Além de São Paulo e Salvador, eleitores de outras cidades relatam dificuldades de acesso a transportes públicos no 2º turno das eleições",
+     "title": "Além de São Paulo e Salvador, eleitores de mais cidades relatam dificuldades de acesso a transportes; Lula cobra prorrogação do prazo",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/alem-de-sao-paulo-e-salvador-eleitores-de-outras-cidades-relatam-dificuldades-de-acesso-a-transportes-publicos-no-2o-turno-das-eleicoes.ghtml",
      "domain": "O Globo",
      "seendate": "20261025T170124Z"
@@ -3440,84 +3524,6 @@
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/homem-negro-aparece-acorrentado-em-ato-de-apoio-a-flavio-bolsonaro-na-barra-veja-video.ghtml",
      "domain": "O Globo",
      "seendate": "20261025T144810Z"
-    },
-    {
-     "title": "TSE registra 1 milhão de justificativas pelo e-Título até as 9h",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/tse-registra-justificativas-pelo-e-titulo.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T141837Z"
-    },
-    {
-     "title": "Fachin vota em Brasília, pede respeito ao resultado das urnas e diz que Brasil precisa de 'paz e tranquilidade'",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/fachin-vota-em-brasilia.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T141235Z"
-    },
-    {
-     "title": "Eleitores chegam de barco para votar no Amazonas; governo prevê transporte fluvial para comunidades tradicionais",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/eleitores-chegam-de-barco-para-votar-no-amazonas-governo-preve-transporte-fluvial-para-comunidades-tradicionais.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T135950Z"
-    },
-    {
-     "title": "TRE- RJ mobiliza Forças Armadas para garantir a segurança no segundo turno; presidente faz apelo para que eleitores compareçam às urnas",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/tre-rj-mobiliza-forcas-armadas-para-garantir-a-seguranca-no-segundo-turno-presidente-faz-apelo-para-que-eleitores-comparecam-as-urnas.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T135843Z"
-    },
-    {
-     "title": "Até que horas pode votar? Veja horário de votação nas eleições 2026",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/guia/ate-que-horas-pode-votar-veja-horario-de-votacao-nas-eleicoes-2026.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T135042Z"
-    },
-    {
-     "title": "Mesmo com voto facultativo, idosos enfrentam chuva e dificuldades de locomoção para ir às urnas no Rio",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/mesmo-com-voto-facultativo-idosos-enfretam-chuva-para-votar-sou-cidada.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T134222Z"
-    },
-    {
-     "title": "Candidatos à Presidência votam; Flávio fala em ‘campanha limpa’ e ‘mudança’, e Lula agradece mobilização e cita ‘exército da democracia’",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/candidatos-a-presidencia-votam-flavio-fala-em-campanha-limpa-e-mudanca-e-lula-agradece-mobilizacao-e-cita-exercito-da-democracia.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T133521Z"
-    },
-    {
-     "title": "Após decisão do TSE, governo adota medidas para garantir acesso de indígenas à votação",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/apos-decisao-do-tse-governo-adota-medidas-para-garantir-acesso-de-indigenas-a-votacao.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T131546Z"
-    },
-    {
-     "title": "Flávio Bolsonaro vota no Rio acompanhado da família e diz que chegou a hora da 'mudança de verdade'",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/flavio-bolsonaro-vota-no-rio-acompanhado-da-familia-e-diz-que-chegou-a-hora-da-mudanca-de-verdade.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T130916Z"
-    },
-    {
-     "title": "Lula vota no ABC Paulista em sua última disputa presidencial e aguarda desfecho de eleição histórica",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/lula-vota-no-abc-paulista-em-sua-ultima-disputa-presidencial-e-aguarda-desfecho-de-eleicao-historica.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T130253Z"
-    },
-    {
-     "title": "Chuva forte causa danos em oito cidades paulistas e altera local de votação em Itapevi",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/25/chuva-forte-causa-danos-em-oito-cidades-paulistas-e-altera-local-de-votacao-em-itapevi.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T125842Z"
-    },
-    {
-     "title": "Vídeos mostram apoiadores de Lula e Flávio frente a frente em esquina de Londres; assista",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/videos-mostram-apoiadores-de-lula-e-flavio-frente-a-frente-em-esquina-de-londres-assista.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T124833Z"
-    },
-    {
-     "title": "Ao votar em Brasília, André Mendonça é presenteado com Bíblia; veja vídeo",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/andre-mendonca-vota-em-brasilia.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T124409Z"
     }
    ]
   }
