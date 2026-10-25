@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T23:23:00+00:00",
+ "updated": "2026-10-25T23:55:03+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -1250,12 +1250,6 @@
      "url": "https://www.nacion.com/el-pais/policia-municipal-sorprende-in-fraganti-a-camion/FEJDQXWLNRANBMMDY7EUXVXRTY/story/",
      "domain": "La Nación",
      "seendate": "20261025T005724Z"
-    },
-    {
-     "title": "OIJ pide ayuda para localizar a cinco menores desaparecidos en Limón, Guanacaste, Heredia y Puntarenas",
-     "url": "https://www.nacion.com/sucesos/oij-pide-ayuda-para-localizar-a-cinco-menores/O5HTJOSWSVDWDBORBV37BZPBIA/story/",
-     "domain": "La Nación",
-     "seendate": "20261024T232020Z"
     }
    ]
   },
@@ -2707,6 +2701,12 @@
   "ARG": {
    "articles": [
     {
+     "title": "Reacciones de las elecciones en Brasil 2026: mensajes, tuits y declaraciones",
+     "url": "https://www.lanacion.com.ar/politica/reacciones-de-las-elecciones-en-brasil-2026-mensajes-tuits-y-declaraciones-nid25102026/",
+     "domain": "La Nación",
+     "seendate": "20261025T233012Z"
+    },
+    {
      "title": "Patricia Bullrich cuestionó a Milei por sus ataques al periodismo: “Se cruzó un límite”",
      "url": "https://www.lanacion.com.ar/politica/patricia-bullrich-cuestiono-a-milei-por-sus-ataques-al-periodismo-se-cruzo-un-limite-nid25102026/",
      "domain": "La Nación",
@@ -2818,6 +2818,24 @@
   },
   "URY": {
    "articles": [
+    {
+     "title": "¿ Qué personas pueden acceder a las jubilaciones y pensiones especiales reparatorias que otorga BPS ?",
+     "url": "https://www.elpais.com.uy/negocios/noticias/que-personas-pueden-acceder-a-las-jubilaciones-y-pensiones-especiales-reparatorias-que-otorga-bps",
+     "domain": "elpais.com.uy",
+     "seendate": "20261025T180000Z"
+    },
+    {
+     "title": "¿ A qué hora comienza el conteo de votos en las elecciones en Brasil ?",
+     "url": "https://www.elpais.com.uy/mundo/a-que-hora-comienza-el-conteo-de-votos-en-las-elecciones-en-brasil",
+     "domain": "elpais.com.uy",
+     "seendate": "20261025T180000Z"
+    },
+    {
+     "title": "Trancando con la cabeza : Ronald Araujo se llevó todos los aplausos al despejar una pelota en el área de Liverpool",
+     "url": "https://www.elpais.com.uy/ovacion/futbol/trancando-con-la-cabeza-ronald-araujo-se-llevo-todos-los-aplausos-al-despejar-una-pelota-en-el-area-de-liverpool",
+     "domain": "elpais.com.uy",
+     "seendate": "20261025T180000Z"
+    },
     {
      "title": "Wanderers vs . Progreso en vivo por el Clausura : el Gaucho está obligado a ganar para seguir con vida",
      "url": "https://www.elpais.com.uy/ovacion/futbol/wanderers-vs-progreso-en-vivo-por-el-clausura-el-gaucho-esta-obligado-a-ganar-para-seguir-con-vida",
@@ -3159,40 +3177,22 @@
      "url": "https://www.elpais.com.uy/tvshow/cine/el-bano-del-papa-volvio-a-los-cines-con-su-esplendor-renovado-y-sus-directores-cuentan-sus-secretos",
      "domain": "elpais.com.uy",
      "seendate": "20261023T033000Z"
-    },
-    {
-     "title": "¿ Quién es el uruguayo que tiene más aura ? Cuatro figuras del medio artístico dan su opinión",
-     "url": "https://www.elpais.com.uy/sabado-show/quien-es-el-uruguayo-que-tiene-mas-aura-cuatro-figuras-del-medio-artistico-dan-su-opinion",
-     "domain": "elpais.com.uy",
-     "seendate": "20261023T021500Z"
-    },
-    {
-     "title": "Franco Reyes compite en Mister Model Internacional y revela : Salí en secreto con un conductor de la tv uruguaya",
-     "url": "https://www.elpais.com.uy/sabado-show/franco-reyes-compite-en-mister-model-internacional-y-revela-sali-en-secreto-con-un-conductor-de-la-tv-uruguaya",
-     "domain": "elpais.com.uy",
-     "seendate": "20261023T011500Z"
-    },
-    {
-     "title": "No veo al precio bajando en el corto plazo , dijo Alisson Navarro de MBRF - Rurales",
-     "url": "https://rurales.elpais.com.uy/valor-agregado/no-veo-al-precio-bajando-en-el-corto-plazo-dijo-alisson-navarro-de-mbrf",
-     "domain": "rurales.elpais.com.uy",
-     "seendate": "20261023T001500Z"
     }
    ]
   },
   "PRY": {
    "articles": [
     {
+     "title": "Bioquímicos de Guairá se suman a huelga nacional y anuncian paro en 10 servicios de salud",
+     "url": "https://www.abc.com.py/nacionales/2026/10/25/bioquimicos-de-guaira-se-suman-a-huelga-nacional-y-anuncian-paro-en-10-servicios-de-salud/",
+     "domain": "ABC Color",
+     "seendate": "20261025T233435Z"
+    },
+    {
      "title": "“El cristiano comprometido no se vende a la corrupción”: Iglesia celebra 60 años de cursillos de cristiandad con masiva Ultreya",
      "url": "https://www.abc.com.py/nacionales/2026/10/25/el-cristiano-comprometido-no-se-vende-a-la-corrupcion-iglesia-celebra-60-anos-de-cursillos-de-cristiandad-con-masiva-ultreya/",
      "domain": "ABC Color",
      "seendate": "20261025T183303Z"
-    },
-    {
-     "title": "San Bernardino promovió sus atractivos turísticos con el city tour “Conociendo San Ber”",
-     "url": "https://www.abc.com.py/nacionales/2026/10/25/san-bernardino-promovio-sus-atractivos-turisticos-con-el-city-tour-conociendo-san-ber/",
-     "domain": "ABC Color",
-     "seendate": "20261025T181523Z"
     }
    ]
   },
@@ -3202,10 +3202,34 @@
   "BRA": {
    "articles": [
     {
-     "title": "Eleições 2026: Com 30,25% das urnas apuradas, Flávio Bolsonaro lidera corrida presidencial contra Lula; siga a apuração ao vivo",
+     "title": "Frota reduzida, ordem de prisão e pedidos de Lula e Flávio: veja cronologia que levou à prorrogação do horário de votação no país",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/25/frota-reduzida-ordem-de-prisao-e-pedidos-de-lula-e-flavio-veja-cronologia-que-levou-a-prorrogacao-do-horario-de-votacao-no-pais.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T233330Z"
+    },
+    {
+     "title": "Omar Aziz é eleito governador do Amazonas em segundo turno",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/omar-aziz-e-eleito-governador-do-amazonas-em-segundo-turno.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T233222Z"
+    },
+    {
+     "title": "Eleições 2026: Com 47,62% das urnas apuradas, Lula passa à frente de Flávio Bolsonaro e lidera corrida presidencial; siga a apuração ao vivo",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/ao-vivo/eleicoes-2026-acompanhe-ao-vivo-o-segundo-turno-ao-vivo-no-brasil.ghtml",
      "domain": "O Globo",
-     "seendate": "20261025T230913Z"
+     "seendate": "20261025T232641Z"
+    },
+    {
+     "title": "Mailza Assis é reeleita governadora do Acre em segundo turno",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/mailza-assis-e-reeleita-governadora-do-acre-em-segundo-turno.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T232619Z"
+    },
+    {
+     "title": "Resultado das eleições no Brasil: veja apuração de votos para presidente em 2026",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/resultado-das-eleicoes-no-brasil-veja-apuracao-de-votos-para-presidente-em-2026.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T231435Z"
     },
     {
      "title": "Celina Leão (PP) é reeleita governadora do DF no segundo turno",
@@ -3440,24 +3464,6 @@
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/lula-pede-prorrogacao-do-horario-de-votacao-apos-problemas-com-onibus-em-sp-e-salvador-nao-vamos-permitir-que-haja-roubalheira.ghtml",
      "domain": "O Globo",
      "seendate": "20261025T184029Z"
-    },
-    {
-     "title": "Justiça eleitoral manda prefeitura de São Paulo prestar informações sobre frota reduzida de ônibus",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/justica-manda-prefeitura-de-sao-paulo-prestar-informacoes-sobre-frota-reduzida-de-onibus.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T183225Z"
-    },
-    {
-     "title": "Quem ganhou as eleições 2026 no Japão? Veja resultado da apuração entre Lula e Bolsonaro",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/quem-ganhou-as-eleicoes-2026-no-japao-veja-resultado-da-apuracao-entre-lula-e-bolsonaro.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T182323Z"
-    },
-    {
-     "title": "'Tive que andar 40 minutos até minha seção': espera de eleitores por ônibus em São Gonçalo (RJ) chega até a uma hora",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/tive-que-andar-40-minutos-ate-minha-secao-espera-de-eleitores-por-onibus-em-sao-goncalo-rj-chega-ate-uma-hora.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T182319Z"
     }
    ]
   }
