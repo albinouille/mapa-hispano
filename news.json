@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T10:26:13+00:00",
+ "updated": "2026-10-25T11:01:33+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -64,7 +64,7 @@
      "seendate": "20261025T043001Z"
     },
     {
-     "title": "El Rey, operado en Oviedo por una catarata en el ojo izquierdo",
+     "title": "El Rey recibe el alta tras ser operado en Oviedo de una catarata en el ojo izquierdo",
      "url": "https://elpais.com/espana/2026-10-24/felipe-vi-operado-de-cataratas-del-ojo-izquierdo-en-oviedo.html",
      "domain": "El País",
      "seendate": "20261025T043001Z"
@@ -104,6 +104,12 @@
      "url": "https://elpais.com/espana/madrid/2026-10-24/una-residencia-de-madrid-expulsa-a-varias-personas-con-discapacidad-y-da-marcha-atras-cuando-sale-en-la-prensa.html",
      "domain": "El País",
      "seendate": "20261024T033000Z"
+    },
+    {
+     "title": "Café a la sombra de Sócrates",
+     "url": "https://elpais.com/espana/catalunya/2026-10-24/cafe-a-la-sombra-de-socrates.html",
+     "domain": "El País",
+     "seendate": "20261024T031500Z"
     },
     {
      "title": "Seis detenidos en un narcopiso de Getafe en el que se lanzaban las llaves a los consumidores para entrar",
@@ -1937,10 +1943,16 @@
   "BOL": {
    "articles": [
     {
-     "title": "Operativos en la Entrada Universitaria deja 12 arrestados en Oruro",
-     "url": "https://eju.tv/2026/10/operativos-en-la-entrada-universitaria-deja-12-arrestados-en-oruro/",
-     "domain": "eju.tv",
-     "seendate": "20261025T033000Z"
+     "title": "Always con la obligación de ganar a Real Oruro",
+     "url": "https://www.erbol.com.bo/deporte/always-con-la-obligaci%C3%B3n-de-ganar-real-oruro",
+     "domain": "erbol.com.bo",
+     "seendate": "20261025T053000Z"
+    },
+    {
+     "title": "The Strongest visita a Oriente",
+     "url": "https://www.erbol.com.bo/deporte/strongest-visita-oriente",
+     "domain": "erbol.com.bo",
+     "seendate": "20261025T053000Z"
     },
     {
      "title": "BID aprobó $us 492 , 2 millones en créditos para Bolivia durante el Gobierno de Paz",
@@ -1963,6 +1975,12 @@
     {
      "title": "Rodríguez Veltzé rechaza que la Justicia boliviana necesite a la DEA",
      "url": "https://eju.tv/2026/10/rodriguez-veltze-rechaza-que-la-justicia-boliviana-necesite-a-la-dea/",
+     "domain": "eju.tv",
+     "seendate": "20261025T033000Z"
+    },
+    {
+     "title": "Operativos en la Entrada Universitaria deja 12 arrestados en Oruro",
+     "url": "https://eju.tv/2026/10/operativos-en-la-entrada-universitaria-deja-12-arrestados-en-oruro/",
      "domain": "eju.tv",
      "seendate": "20261025T033000Z"
     },
@@ -2265,18 +2283,6 @@
      "url": "https://www.opinion.com.bo/policial/fiscalia-confirma-infanticidio-bebe-hallado-vida-pozo-sipe-sipe/20261022154416998023.html",
      "domain": "opinion.com.bo",
      "seendate": "20261022T231500Z"
-    },
-    {
-     "title": "Bolivia Verifica desmiente a Zamora : su charla con Cerimedo es real y no una « chacota » – www . bolpress . com",
-     "url": "https://bolpress.com/2026/10/22/bolivia-verifica-desmiente-a-zamora-su-charla-con-cerimedo-es-real-y-no-una-chacota/",
-     "domain": "bolpress.com",
-     "seendate": "20261022T230000Z"
-    },
-    {
-     "title": "TSJ pide salida a magistrados salpicados por Washington",
-     "url": "https://hoybolivia.com/Noticia.php?IdNoticia=374424",
-     "domain": "hoybolivia.com",
-     "seendate": "20261022T224500Z"
     }
    ]
   },
@@ -2641,6 +2647,30 @@
   "ARG": {
    "articles": [
     {
+     "title": "En un contexto crítico, las pymes deben enfrentar 62 obligaciones tributarias al año",
+     "url": "https://www.lanacion.com.ar/economia/en-un-contexto-critico-las-pymes-deben-enfrentar-62-obligaciones-tributarias-al-ano-nid25102026/",
+     "domain": "La Nación",
+     "seendate": "20261025T103151Z"
+    },
+    {
+     "title": "El pronóstico del tiempo para este domingo 25 de octubre en todo el país",
+     "url": "https://www.lanacion.com.ar/sociedad/el-pronostico-del-tiempo-para-este-domingo-25-de-octubre-en-todo-el-pais-nid25102026/",
+     "domain": "La Nación",
+     "seendate": "20261025T103009Z"
+    },
+    {
+     "title": "En el Gobierno debaten medidas de reactivación económica pero Milei se muestra inflexible",
+     "url": "https://www.lanacion.com.ar/politica/en-el-gobierno-debaten-medidas-de-reactivacion-economica-pero-milei-se-muestra-inflexible-nid25102026/",
+     "domain": "La Nación",
+     "seendate": "20261025T102737Z"
+    },
+    {
+     "title": "Los fallos anteriores de los jueces de Hotesur - Los Sauces: la “ruta del dinero K”, los bolsos de López y Oil Combustibles",
+     "url": "https://www.lanacion.com.ar/politica/los-fallos-anteriores-de-los-jueces-de-hotesur-los-sauces-la-ruta-del-dinero-k-los-bolsos-de-lopez-y-nid25102026/",
+     "domain": "La Nación",
+     "seendate": "20261025T102231Z"
+    },
+    {
      "title": "Hotesur - Los Sauces: las irregularidades bancarias y el presunto lavado detrás de la compra del departamento donde Cristina Kirchner cumple su condena",
      "url": "https://www.lanacion.com.ar/politica/hotesur-los-sauces-las-irregularidades-bancarias-y-el-presunto-lavado-detras-de-la-compra-del-nid25102026/",
      "domain": "La Nación",
@@ -2701,12 +2731,6 @@
      "seendate": "20261025T042744Z"
     },
     {
-     "title": "El pronóstico del tiempo para este domingo 25 de octubre en todo el país",
-     "url": "https://www.lanacion.com.ar/sociedad/el-pronostico-del-tiempo-para-este-domingo-25-de-octubre-en-todo-el-pais-nid25102026/",
-     "domain": "La Nación",
-     "seendate": "20261025T034143Z"
-    },
-    {
      "title": "Hogueras en nombre de la libertad",
      "url": "https://www.lanacion.com.ar/politica/hogueras-en-nombre-de-la-libertad-nid25102026/",
      "domain": "La Nación",
@@ -2725,8 +2749,8 @@
      "seendate": "20261025T030240Z"
     },
     {
-     "title": "¿El plan económico debe ser reemplazado, recalibrado o mantenido?",
-     "url": "https://www.lanacion.com.ar/economia/el-plan-economico-debe-ser-reemplazado-recalibrado-o-mantenido-nid25102026/",
+     "title": "¿Es más fácil hoy crear una empresa en la Argentina? Las señales a favor y los obstáculos que persisten",
+     "url": "https://www.lanacion.com.ar/economia/es-mas-facil-hoy-crear-una-empresa-en-la-argentina-las-senales-a-favor-y-los-obstaculos-que-nid25102026/",
      "domain": "La Nación",
      "seendate": "20261025T030100Z"
     },
@@ -2743,8 +2767,8 @@
      "seendate": "20261025T030100Z"
     },
     {
-     "title": "¿Es más fácil hoy crear una empresa en la Argentina? Las señales a favor y los obstáculos que persisten",
-     "url": "https://www.lanacion.com.ar/economia/es-mas-facil-hoy-crear-una-empresa-en-la-argentina-las-senales-a-favor-y-los-obstaculos-que-nid25102026/",
+     "title": "¿El plan económico debe ser reemplazado, recalibrado o mantenido?",
+     "url": "https://www.lanacion.com.ar/economia/el-plan-economico-debe-ser-reemplazado-recalibrado-o-mantenido-nid25102026/",
      "domain": "La Nación",
      "seendate": "20261025T030100Z"
     },
@@ -2795,12 +2819,6 @@
      "url": "https://www.lanacion.com.ar/politica/caso-libra-jueces-fiscales-y-vinculos-con-el-poder-el-derrotero-de-una-causa-destinada-al-archivo-nid24102026/",
      "domain": "La Nación",
      "seendate": "20261025T013318Z"
-    },
-    {
-     "title": "Tras los reclamos de Estados Unidos, el Gobierno diluye el proyecto de Malvinas y le suma más cambios",
-     "url": "https://www.lanacion.com.ar/politica/tras-los-reclamos-de-estados-unidos-el-gobierno-diluye-el-proyecto-de-malvinas-y-le-suma-mas-cambios-nid24102026/",
-     "domain": "La Nación",
-     "seendate": "20261025T011947Z"
     }
    ]
   },
@@ -3532,6 +3550,18 @@
   "BRA": {
    "articles": [
     {
+     "title": "Eleições 2026 no exterior: brasileiros formam filas em Paris, Lisboa e Londres; veja onde Lula e Flávio já venceram na Ásia",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/eleicoes-2026-no-exterior-brasileiros-formam-filas-em-paris-lisboa-e-londres-veja-onde-lula-e-flavio-ja-venceram-na-asia.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T102727Z"
+    },
+    {
+     "title": "Eleições 2026: acompanhe ao vivo o segundo turno no Brasil",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/ao-vivo/eleicoes-2026-acompanhe-ao-vivo-o-segundo-turno-ao-vivo-no-brasil.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T102626Z"
+    },
+    {
      "title": "Lula ou Flávio Bolsonaro? Eleitores explicam motivos que os fizeram optar pelos candidatos",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/lula-ou-flavio-bolsonaro-eleitores-explicam-motivos-que-os-fizeram-optar-pelos-candidatos.ghtml",
      "domain": "O Globo",
@@ -3544,7 +3574,7 @@
      "seendate": "20261025T095919Z"
     },
     {
-     "title": "Vereadora é agredida durante ato em Minas Gerais e recebe atendimento médico; veja vídeo",
+     "title": "Vereadora do PT é agredida durante ato em Minas Gerais e recebe atendimento médico; veja vídeo",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/vereadora-e-agredida-durante-ato-em-minas-gerais-e-recebe-atendimento-medico.ghtml",
      "domain": "O Globo",
      "seendate": "20261025T094300Z"
@@ -3616,7 +3646,7 @@
      "seendate": "20261025T070500Z"
     },
     {
-     "title": "Lula vence na Nova Zelândia e na Coreia do Sul; veja países que já encerraram a votação",
+     "title": "Lula vence na Nova Zelândia, Coreia do Sul e China; Flávio Bolsonaro ganha no Japão e Malásia",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/veja-locais-onde-a-votacao-nas-eleicoes-no-brasil-ja-foi-encerrada.ghtml",
      "domain": "O Globo",
      "seendate": "20261025T070223Z"
@@ -3660,18 +3690,6 @@
     {
      "title": "Lulinha, Supremo, 'Dark horse': a cronologia da corrida presidencial em oito pontos",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/lulinha-supremo-dark-horse-a-cronologia-da-corrida-presidencial-em-oito-pontos.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T063000Z"
-    },
-    {
-     "title": "A última dança por uma virada inédita: surpreendido no primeiro turno, Lula ressurge aprendendo com as ruas e as redes",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/especial/a-ultima-danca-por-uma-virada-inedita-surpreendido-no-primeiro-turno-lula-ressurge-aprendendo-com-as-ruas-e-as-redes.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T063000Z"
-    },
-    {
-     "title": "Seja Flávio ou Lula: do Supremo ao Congresso, presidente eleito terá de lidar com tensão elevada entre Poderes",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/seja-flavio-ou-lula-do-supremo-ao-congresso-presidente-eleito-tera-de-lidar-com-tensao-elevada-entre-poderes.ghtml",
      "domain": "O Globo",
      "seendate": "20261025T063000Z"
     }
