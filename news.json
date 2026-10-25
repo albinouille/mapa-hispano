@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T21:58:32+00:00",
+ "updated": "2026-10-25T22:23:23+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -52,12 +52,6 @@
      "seendate": "20261025T131219Z"
     },
     {
-     "title": "El TSJ obliga a Sanidad a facilitar la información sobre los pagos a centros privados que pidieron los socialistas valencianos",
-     "url": "https://elpais.com/espana/comunidad-valenciana/2026-10-25/el-tsj-obliga-a-sanidad-a-facilitar-la-informacion-sobre-los-pagos-a-centros-privados-que-pidieron-los-socialistas-valencianos.html",
-     "domain": "El País",
-     "seendate": "20261025T125447Z"
-    },
-    {
      "title": "Los jóvenes que provocaron altercados en Barcelona se convocaron por TikTok y organizaron por grupos de Telegram y Whatsapp",
      "url": "https://elpais.com/espana/catalunya/2026-10-25/los-jovenes-que-provocaron-altercados-en-barcelona-se-convocaron-por-tiktok-y-organizaron-por-grupos-de-telegram-y-whatsapp.html",
      "domain": "El País",
@@ -82,12 +76,6 @@
      "seendate": "20261025T043001Z"
     },
     {
-     "title": "El Rey recibe el alta tras ser operado en Oviedo de una catarata en el ojo izquierdo",
-     "url": "https://elpais.com/espana/2026-10-24/felipe-vi-operado-de-cataratas-del-ojo-izquierdo-en-oviedo.html",
-     "domain": "El País",
-     "seendate": "20261025T043001Z"
-    },
-    {
      "title": "Entre Banca Catalana y el Cártel de Sinaloa",
      "url": "https://elpais.com/espana/catalunya/2026-10-25/entre-banca-catalana-y-el-cartel-de-sinaloa.html",
      "domain": "El País",
@@ -96,6 +84,12 @@
     {
      "title": "La familia del preso asesinado en la celda 105 de Quatre Camins: “No nos quitamos de la cabeza que se podría haber evitado”",
      "url": "https://elpais.com/espana/catalunya/2026-10-25/la-familia-del-preso-asesinado-en-la-celda-105-de-quatre-camins-no-nos-quitamos-de-la-cabeza-que-se-podria-haber-evitado.html",
+     "domain": "El País",
+     "seendate": "20261025T043001Z"
+    },
+    {
+     "title": "El Rey recibe el alta tras ser operado en Oviedo de una catarata en el ojo izquierdo",
+     "url": "https://elpais.com/espana/2026-10-24/felipe-vi-operado-de-cataratas-del-ojo-izquierdo-en-oviedo.html",
      "domain": "El País",
      "seendate": "20261025T043001Z"
     },
@@ -139,6 +133,18 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "INE difunde renuncia de Taddei; luego borra comunicado",
+     "url": "https://www.eluniversal.com.mx/nacion/ine-difunde-renuncia-de-taddei-luego-borra-comunicado/",
+     "domain": "El Universal",
+     "seendate": "20261025T221006Z"
+    },
+    {
+     "title": "Mega Procesión de Catrinas 2026 en CDMX; sigue EN VIVO el recorrido y consulta las alternativas viales",
+     "url": "https://www.eluniversal.com.mx/metropoli/mega-procesion-de-catrinas-2026-en-cdmx-sigue-en-vivo-el-recorrido-y-consulta-las-alternativas-viales/",
+     "domain": "El Universal",
+     "seendate": "20261025T215212Z"
+    },
     {
      "title": "Reportan desaparición de sacerdote en Culiacán; piden ayuda en redes para localizarlo",
      "url": "https://www.eluniversal.com.mx/estados/reportan-desaparicion-de-sacerdote-en-culiacan-piden-ayuda-en-redes-para-localizarlo/",
@@ -1286,12 +1292,6 @@
      "url": "https://www.nacion.com/sucesos/choque-entre-autobus-y-vehiculo-en-cartago-deja/FVUEIU4TFRGCTDV3DCVTCL56XE/story/",
      "domain": "La Nación",
      "seendate": "20261024T220952Z"
-    },
-    {
-     "title": "MOPT anuncia plan para conexión de nueva vía a San Carlos con ruta 1: Así es como se ejecutará esa obra",
-     "url": "https://www.nacion.com/el-pais/mopt-anuncia-nuevo-plan-para-conexion-de-nueva-via/6UED2G6E45FVXFC3YFP635NHME/story/",
-     "domain": "La Nación",
-     "seendate": "20261024T210000Z"
     }
    ]
   },
@@ -1519,10 +1519,16 @@
   "COL": {
    "articles": [
     {
+     "title": "Estados Unidos condenó a prisión a un peruano-estadounidense por explotación sexual de menor: lo habían hallado con 16 adolescentes en Antioquia",
+     "url": "https://www.eltiempo.com/colombia/medellin/estados-unidos-condeno-a-prision-a-peruano-estadounidense-por-explotacion-sexual-de-menor-lo-habian-hallado-con-16-adolescentes-en-antioquia-3596153",
+     "domain": "El Tiempo",
+     "seendate": "20261025T215530Z"
+    },
+    {
      "title": "Lo que se sabe del fatal accidente de tránsito entre un carro particular y una moto en Cali: ¿quiénes eran las víctimas de una empresa de transporte?",
      "url": "https://www.eltiempo.com/colombia/cali/lo-que-se-sabe-del-fatal-accidente-de-transito-entre-un-carro-particular-y-una-moto-en-cali-quienes-eran-las-victimas-de-una-empresa-de-transporte-3596199",
      "domain": "El Tiempo",
-     "seendate": "20261025T213455Z"
+     "seendate": "20261025T214716Z"
     },
     {
      "title": "Nuevo aumento de Air-e golpeará recibos de energía en el Caribe: kilovatio pasa de $873 a $936 y usuarios piden intervención del Gobierno",
@@ -1565,12 +1571,6 @@
      "url": "https://www.eltiempo.com/colombia/cali/onu-derechos-humanos-pide-reconstruir-y-reabrir-la-casa-de-las-memorias-de-cali-cerrada-tras-el-terremoto-3596169",
      "domain": "El Tiempo",
      "seendate": "20261025T171634Z"
-    },
-    {
-     "title": "Estados Unidos condenó a prisión a peruano-estadounidense por explotación sexual de menor: lo habían hallado con 16 adolescentes en Antioquia",
-     "url": "https://www.eltiempo.com/colombia/medellin/estados-unidos-condeno-a-prision-a-peruano-estadounidense-por-explotacion-sexual-de-menor-lo-habian-hallado-con-16-adolescentes-en-antioquia-3596153",
-     "domain": "El Tiempo",
-     "seendate": "20261025T164057Z"
     },
     {
      "title": "Barranquilla prohíbe caravanas y saca las motos del Gran Malecón durante dos fines de semana, incluido el de Halloween",
@@ -1887,6 +1887,12 @@
   "ECU": {
    "articles": [
     {
+     "title": "CPCCS evacua todas las apelaciones y el concurso de fiscal general continuará con cinco aspirantes",
+     "url": "https://eluniverso.com/politica/transparencia/cpccs-evacua-todas-las-apelaciones-y-el-concurso-de-fiscal-general-continuara-con-cinco-aspirantes-nota/",
+     "domain": "El Universo",
+     "seendate": "20261025T214957Z"
+    },
+    {
      "title": "Gobierno distribuye kits de ayuda a familias afectadas por inundaciones en seis cantones de Ecuador",
      "url": "https://eluniverso.com/comunidad/ecuador/sngr-entrega-ayuda-humanitaria-por-las-lluvias-en-ecuador-nota/",
      "domain": "El Universo",
@@ -1987,12 +1993,6 @@
      "url": "https://eluniverso.com/comunidad/ecuador/radiacion-uv-en-ecuador-pronostico-del-inamhi-para-el-25-de-octubre-nota/",
      "domain": "El Universo",
      "seendate": "20261025T013406Z"
-    },
-    {
-     "title": "Policía Nacional aprehende a cuatro personas en Esmeraldas por doble asesinato",
-     "url": "https://eluniverso.com/politica/seguridad/policia-nacional-aprehende-cuatro-personas-esmeraldas-doble-asesinato-nota/",
-     "domain": "El Universo",
-     "seendate": "20261024T234230Z"
     },
     {
      "title": "Transferencias y cheques al portador: las dos vías que Fiscalía investiga en el caso Laberinto por financiamiento irregular a campaña de Luisa González",
@@ -2725,16 +2725,22 @@
   "ARG": {
    "articles": [
     {
+     "title": "Patricia Bullrich cuestionó a Milei por sus ataques al periodismo: “Se cruzó un límite”",
+     "url": "https://www.lanacion.com.ar/politica/patricia-bullrich-cuestiono-a-milei-por-sus-ataques-al-periodismo-se-cruzo-un-limite-nid25102026/",
+     "domain": "La Nación",
+     "seendate": "20261025T222143Z"
+    },
+    {
+     "title": "Doce diputados libertarios viajaron a Brasil para respaldar a Flavio Bolsonaro y esperan los resultados en Río de Janeiro",
+     "url": "https://www.lanacion.com.ar/politica/doce-diputados-libertarios-viajaron-a-brasil-para-respaldar-a-flavio-bolsonaro-y-esperan-los-nid25102026/",
+     "domain": "La Nación",
+     "seendate": "20261025T215950Z"
+    },
+    {
      "title": "Polémica en Mendoza con una ministra que hizo una costosa capacitación con fondos del Estado provincial",
      "url": "https://www.lanacion.com.ar/politica/polemica-en-mendoza-con-una-ministra-que-hizo-una-costosa-capacitacion-con-fondos-del-estado-nid25102026/",
      "domain": "La Nación",
      "seendate": "20261025T215232Z"
-    },
-    {
-     "title": "Patricia Bullrich cuestionó a Milei por sus ataques al periodismo: “Se cruzó un límite”",
-     "url": "https://www.lanacion.com.ar/politica/patricia-bullrich-cuestiono-a-milei-por-sus-ataques-al-periodismo-se-cruzo-un-limite-nid25102026/",
-     "domain": "La Nación",
-     "seendate": "20261025T215214Z"
     },
     {
      "title": "Robin Sharma, especialista en desarrollo personal: “Sé de personas excepcionales que protegen su tiempo y eso no significa que tengan que matarse trabajando”",
@@ -2825,18 +2831,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/carlos-jornet-nuevo-presidente-de-la-sip-si-no-apoyamos-al-periodismo-la-proxima-consecuencia-sera-nid25102026/",
      "domain": "La Nación",
      "seendate": "20261025T190959Z"
-    },
-    {
-     "title": "La SIP advirtió sobre el aumento de la violencia contra periodistas y las presiones de los gobiernos en América",
-     "url": "https://www.lanacion.com.ar/sociedad/la-sip-advirtio-sobre-el-aumento-de-la-violencia-contra-periodistas-y-las-presiones-de-los-gobiernos-nid25102026/",
-     "domain": "La Nación",
-     "seendate": "20261025T181517Z"
-    },
-    {
-     "title": "Una joven de 27 años fue hallada muerta en un departamento de Retiro tras una cita con un hombre",
-     "url": "https://www.lanacion.com.ar/seguridad/una-joven-de-27-anos-fue-hallada-muerta-en-un-departamento-de-retiro-tras-una-cita-con-un-hombre-nid25102026/",
-     "domain": "La Nación",
-     "seendate": "20261025T180349Z"
     }
    ]
   },
@@ -3226,6 +3220,36 @@
   "BRA": {
    "articles": [
     {
+     "title": "Eleições 2026: TSE retoma apuração dos votos após prorrogação de horário; Lula aparece na frente de Flávio Bolsonaro",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/ao-vivo/eleicoes-2026-acompanhe-ao-vivo-o-segundo-turno-ao-vivo-no-brasil.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T220543Z"
+    },
+    {
+     "title": "Adiamento do horário de votação provoca confusão nas principais zonas eleitorais de São Paulo",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/adiamento-do-horario-de-votacao-provoca-confusao-nas-principais-zonas-eleitorais-de-sao-paulo.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T220024Z"
+    },
+    {
+     "title": "Quem está ganhando a eleição para presidente? Veja o resultado parcial da apuração do TSE ao vivo",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/quem-esta-ganhando-a-eleicao-para-presidente-veja-o-resultado-parcial-da-apuracao-do-tse-ao-vivo.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T215934Z"
+    },
+    {
+     "title": "Campanha de Lula critica demora de Nunes Marques, e coordenador de Flávio ataca decisão de Zanin que prorrogou votação",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/campanha-de-lula-critica-demora-de-nunes-marques-e-coordenador-de-flavio-ataca-decisao-de-zanin-que-prorrogou-votacao.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T215556Z"
+    },
+    {
+     "title": "Prorrogação da votação repercute na imprensa internacional, que destaca urnas desligadas e confusão em seções",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/prorrogacao-da-votacao-repercute-na-imprensa-internacional-que-destaca-urnas-desligadas-e-confusao-em-secoes.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T214746Z"
+    },
+    {
      "title": "TSE diz que vai retomar divulgação dos resultados da eleição depois das 19h, ao fim da votação",
      "url": "https://oglobo.globo.com/politica/noticia/2026/10/25/tse-diz-que-vai-retomar-divulgacao-dos-resultados-da-eleicao-depois-das-19h-ao-fim-da-votacao.ghtml",
      "domain": "O Globo",
@@ -3254,12 +3278,6 @@
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/tre-do-rio-determina-que-secoes-abertas-mantenham-votacao-ate-as-19h-e-orienta-registro-de-eleitores-em-urnas-ja-encerradas.ghtml",
      "domain": "O Globo",
      "seendate": "20261025T211711Z"
-    },
-    {
-     "title": "Eleições 2026: ministro do STF prorroga horário de votação até 19h em todo o Brasil; TSE manda parar apuração dos votos",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/ao-vivo/eleicoes-2026-acompanhe-ao-vivo-o-segundo-turno-ao-vivo-no-brasil.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T211236Z"
     },
     {
      "title": "Zanin, do STF, determina extensão da votação em todo o país até as 19h após denúncias de problemas no transporte",
@@ -3446,66 +3464,6 @@
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/quem-ganhou-as-eleicoes-2026-na-china-veja-resultado-da-apuracao-entre-lula-e-bolsonaro.ghtml",
      "domain": "O Globo",
      "seendate": "20261025T180217Z"
-    },
-    {
-     "title": "PT alega frota de ônibus reduzida em São Paulo e pede prisão de secretário de Transporte",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/pt-alega-frota-de-onibus-reduzida-em-sao-paulo-e-pede-prisao-de-secretario-de-transportes.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T175157Z"
-    },
-    {
-     "title": "Nunes Marques vai decidir se estende votação até as 19h em Salvador, Feira de Santana e Lauro de Freitas após pedido do PT",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/25/corregedor-do-tse-pede-informacoes-sobre-frota-de-onibus-reduzida-em-salvador-e-determina-que-tre-ba-garanta-o-voto-de-quem-chegar-ate-17h.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T174605Z"
-    },
-    {
-     "title": "Eleitora de Flávio Bolsonaro, com boné de Donald Trump, faz saudação nazista ao votar em colégio do Rio",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/eleitora-de-flavio-bolsonaro-com-bone-de-donald-trump-faz-saudacao-nazista-ao-votar-em-colegio-do-rio.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T174535Z"
-    },
-    {
-     "title": "Apuração do 2º turno das Eleições 2026 no exterior: veja como está a contagem de votos",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/apuracao-do-2o-turno-das-eleicoes-2026-no-exterior-veja-como-esta-a-contagem-de-votos.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T173957Z"
-    },
-    {
-     "title": "Aos 96 anos, José Sarney publica vídeo na seção eleitoral e celebra democracia: 'Parabéns ao povo brasileiro'",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/25/aos-96-anos-jose-sarney-publica-video-na-secao-eleitoral-e-celebra-democracia-parabens-ao-povo-brasileiro.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T173726Z"
-    },
-    {
-     "title": "Amigos desde a infância, eleitores de Lula e Bolsonaro vão votar juntos no Rio: 'Nos consideramos irmãos'",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/amigos-desde-a-infancia-eleitores-de-lula-e-bolsonaro-vao-votar-juntos-no-rio-nos-consideramos-irmaos.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T171840Z"
-    },
-    {
-     "title": "Secretário de mobilidade de Salvador que tem ordem de prisão está em Paris, diz TV",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/secretario-de-mobilidade-de-salvador-pablo-souza-exterior.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T171434Z"
-    },
-    {
-     "title": "Como está a votação para presidente? Acompanhe a apuração no exterior",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/como-esta-a-votacao-para-presidente-acompanhe-a-apuracao-no-exterior.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T170206Z"
-    },
-    {
-     "title": "Além de São Paulo e Salvador, eleitores de mais cidades relatam dificuldades de acesso a transportes; Lula cobra prorrogação do prazo",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/alem-de-sao-paulo-e-salvador-eleitores-de-outras-cidades-relatam-dificuldades-de-acesso-a-transportes-publicos-no-2o-turno-das-eleicoes.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T170124Z"
-    },
-    {
-     "title": "Presidente do TSE diz que dificuldade de transporte nas eleições está sendo 'corrigida' após relatos de problemas em São Paulo e Salvador",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/presidente-do-tse-faz-balanco-das-primeiras-horas.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T165748Z"
     }
    ]
   }
