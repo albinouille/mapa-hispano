@@ -1,8 +1,14 @@
 {
- "updated": "2026-10-25T20:59:13+00:00",
+ "updated": "2026-10-25T21:26:20+00:00",
  "countries": {
   "ESP": {
    "articles": [
+    {
+     "title": "Podemos renuncia a presentarse en Baleares y su candidata se integrará en la coalición de izquierdas",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-10-25/podemos-renuncia-a-presentarse-en-baleares-y-su-candidata-se-integrara-en-la-coalicion-de-izquierdas.html",
+     "domain": "El País",
+     "seendate": "20261025T210057Z"
+    },
     {
      "title": "Fallece la actriz Pepa Arenós a los 78 años",
      "url": "https://elpais.com/espana/catalunya/2026-10-25/fallece-la-actriz-pepa-arenos-a-los-78-anos.html",
@@ -76,12 +82,6 @@
      "seendate": "20261025T043001Z"
     },
     {
-     "title": "La familia del preso asesinado en la celda 105 de Quatre Camins: “No nos quitamos de la cabeza que se podría haber evitado”",
-     "url": "https://elpais.com/espana/catalunya/2026-10-25/la-familia-del-preso-asesinado-en-la-celda-105-de-quatre-camins-no-nos-quitamos-de-la-cabeza-que-se-podria-haber-evitado.html",
-     "domain": "El País",
-     "seendate": "20261025T043001Z"
-    },
-    {
      "title": "El Rey recibe el alta tras ser operado en Oviedo de una catarata en el ojo izquierdo",
      "url": "https://elpais.com/espana/2026-10-24/felipe-vi-operado-de-cataratas-del-ojo-izquierdo-en-oviedo.html",
      "domain": "El País",
@@ -90,6 +90,12 @@
     {
      "title": "Entre Banca Catalana y el Cártel de Sinaloa",
      "url": "https://elpais.com/espana/catalunya/2026-10-25/entre-banca-catalana-y-el-cartel-de-sinaloa.html",
+     "domain": "El País",
+     "seendate": "20261025T043001Z"
+    },
+    {
+     "title": "La familia del preso asesinado en la celda 105 de Quatre Camins: “No nos quitamos de la cabeza que se podría haber evitado”",
+     "url": "https://elpais.com/espana/catalunya/2026-10-25/la-familia-del-preso-asesinado-en-la-celda-105-de-quatre-camins-no-nos-quitamos-de-la-cabeza-que-se-podria-haber-evitado.html",
      "domain": "El País",
      "seendate": "20261025T043001Z"
     },
@@ -133,6 +139,12 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Brugada inaugura Utopía “La Soberana”; requirió una inversión de casi 300 mdp",
+     "url": "https://www.eluniversal.com.mx/metropoli/clara-brugada-inaugura-la-utopia-mas-grande-de-cdmx-anuncian-otros-100-mil-metros-cuadrados-para-nuevos-servicios/",
+     "domain": "El Universal",
+     "seendate": "20261025T210609Z"
+    },
     {
      "title": "Taddei, víctima de campaña neofascista: Noroña; \"Que dé un paso al costado\", dice senador Manuel Huerta",
      "url": "https://www.eluniversal.com.mx/nacion/taddei-victima-de-campana-neofascista-norona-que-de-un-paso-al-costado-dice-senador-manuel-huerta/",
@@ -302,18 +314,6 @@
      "seendate": "20261025T094855Z"
     },
     {
-     "title": "\"Hemos perdido el miedo para seguir buscando\": madre buscadora",
-     "url": "https://www.eluniversal.com.mx/estados/hemos-perdido-el-miedo-para-seguir-buscando-madre-buscadora/",
-     "domain": "El Universal",
-     "seendate": "20261025T094314Z"
-    },
-    {
-     "title": "Vencer el cáncer \"es como volver a nacer\"",
-     "url": "https://www.eluniversal.com.mx/nacion/vencer-el-cancer-es-como-volver-a-nacer/",
-     "domain": "El Universal",
-     "seendate": "20261025T093948Z"
-    },
-    {
      "title": "Comienza reparación de casas dañadas por tren al AIFA",
      "url": "https://www.eluniversal.com.mx/metropoli/comienza-reparacion-de-casas-danadas-por-tren-al-aifa/",
      "domain": "El Universal",
@@ -399,6 +399,30 @@
   },
   "HND": {
    "articles": [
+    {
+     "title": "EN VIVO Motagua vs Juticalpa hoy , por el Apertura 2026",
+     "url": "https://www.laprensa.hn/deportes/motagua-vs-juticalpa-en-vivo-hoy-jornada-11-torneo-apertura-liga-nacional-juego-GG32432598",
+     "domain": "laprensa.hn",
+     "seendate": "20261025T191500Z"
+    },
+    {
+     "title": "Precio del dólar este domingo 25 de octubre en Honduras",
+     "url": "https://www.laprensa.hn/economia/honduras-precio-dolar-domingo-25-octubre-bch-CG32431065",
+     "domain": "laprensa.hn",
+     "seendate": "20261025T191500Z"
+    },
+    {
+     "title": "Comerciantes de Juticalpa protestan contra tiendas chinas",
+     "url": "https://www.laprensa.hn/honduras/olancho-juticalpa-comerciantes-protestan-tiendas-chinas-FG32431343",
+     "domain": "laprensa.hn",
+     "seendate": "20261025T191500Z"
+    },
+    {
+     "title": "Martín Ortiz celebra su cumpleaños con coleccion de juguetes para niños de Macuelizo , Santa Bárbara",
+     "url": "https://www.laprensa.hn/sociales/martin-ortiz-cumpleanos-ninos-macuelizo-santa-barbara-telemundo-premios-emmy-CH32429308",
+     "domain": "laprensa.hn",
+     "seendate": "20261025T191500Z"
+    },
     {
      "title": "Quinceañera salió de su casa y horas después la hallaron muerta en Santa Bárbara",
      "url": "http://www.laprensa.hn/sucesos/quinceanera-salio-casa-horas-despues-hallaron-muerta-zacapa-santa-barbara-NE32411491",
@@ -734,30 +758,6 @@
      "url": "https://abriendobrecha.tv/nacionales/copeco-emite-alerta-verde-por-crecida-del-rio-ulua-en-zonas-bajas-del-valle-de-sula/",
      "domain": "abriendobrecha.tv",
      "seendate": "20261020T204500Z"
-    },
-    {
-     "title": "Todos vimos cómo te pasaba la ley por el arco del triunfo : Kilvett Bertrand sobre requerimiento a Luis Redondo",
-     "url": "https://abriendobrecha.tv/politica/todos-vimos-como-te-pasaba-la-ley-por-el-arco-del-triunfo-kilvett-bertrand-sobre-requerimiento-a-luis-redondo/",
-     "domain": "abriendobrecha.tv",
-     "seendate": "20261020T204500Z"
-    },
-    {
-     "title": "Cortes de energía para hoy martes 20 de octubre en Honduras",
-     "url": "https://www.elheraldo.hn/honduras/cortes-energia-honduras-martes-20-octubre-GF32377463",
-     "domain": "elheraldo.hn",
-     "seendate": "20261020T153000Z"
-    },
-    {
-     "title": "Marcos Paz : Estamos dando las herramientas para combatir el crimen organizado",
-     "url": "https://www.elheraldo.hn/honduras/marcos-paz-congreso-esta-dando-todas-herramientas-combatir-crimen-organizado-HF32376724",
-     "domain": "elheraldo.hn",
-     "seendate": "20261020T153000Z"
-    },
-    {
-     "title": "Identidad propia",
-     "url": "https://www.elheraldo.hn/opinion/cartasaleditor/identidad-propia-KF32378637",
-     "domain": "elheraldo.hn",
-     "seendate": "20261020T071500Z"
     }
    ]
   },
@@ -1168,6 +1168,12 @@
   "CRI": {
    "articles": [
     {
+     "title": "Anticoncepción de emergencia: qué es, cómo actúa en el cuerpo y por qué no interrumpe el embarazo",
+     "url": "https://www.nacion.com/el-pais/anticoncepcion-de-emergencia-que-es-como-actua-en/P7DTUQOTYZDAZBPQXYPVBPD3NU/story/",
+     "domain": "La Nación",
+     "seendate": "20261025T210158Z"
+    },
+    {
      "title": "Tras nueve años en ejecución, ICE confirma nueva prórroga para planta geotérmica Borinquen",
      "url": "https://www.nacion.com/el-pais/tras-nueve-anos-en-ejecucion-ice-confirma-nueva/GGB6RW4XTJB27IIB5FNLIEVOLY/story/",
      "domain": "La Nación",
@@ -1292,12 +1298,6 @@
      "url": "https://www.nacion.com/el-pais/mopt-anuncia-nuevo-plan-para-conexion-de-nueva-via/6UED2G6E45FVXFC3YFP635NHME/story/",
      "domain": "La Nación",
      "seendate": "20261024T210000Z"
-    },
-    {
-     "title": "Accidente en ruta 27 en Turrúcares: cinco vehículos involucrados y un paciente trasladado",
-     "url": "https://www.nacion.com/sucesos/accidente-en-ruta-27-en-turrucares-cinco-vehiculos/ROP4EMSRAFEOTEKVKEGATC4EBQ/story/",
-     "domain": "La Nación",
-     "seendate": "20261024T193807Z"
     }
    ]
   },
@@ -1442,12 +1442,6 @@
      "seendate": "20261022T201535Z"
     },
     {
-     "title": "La ayuda tras el terremoto: entre las bolsas de alimentos y los refugios",
-     "url": "https://www.prensa.com/sociedad/la-ayuda-tras-el-terremoto-entre-las-bolsas-de-alimentos-y-los-refugios/",
-     "domain": "La Prensa",
-     "seendate": "20261022T050500Z"
-    },
-    {
      "title": "Terremoto en Azuero: la emergencia que enfrentan las personas con discapacidad",
      "url": "https://www.prensa.com/sociedad/terremoto-en-azuero-la-emergencia-que-enfrentan-las-personas-con-discapacidad/",
      "domain": "La Prensa",
@@ -1543,10 +1537,34 @@
   "COL": {
    "articles": [
     {
+     "title": "Nuevo aumento de Air-e golpeará recibos de energía en el Caribe: kilovatio pasa de $873 a $936 y usuarios piden intervención del Gobierno",
+     "url": "https://www.eltiempo.com/colombia/barranquilla/nuevo-aumento-de-air-e-golpeara-recibos-de-energia-en-el-caribe-kilovatio-pasa-de-873-a-936-y-usuarios-piden-intervencion-del-gobierno-3596197",
+     "domain": "El Tiempo",
+     "seendate": "20261025T210659Z"
+    },
+    {
      "title": "El perfil criminal del presunto asesino de la niña Jhady Sofía, cuyo crimen conmocionó a Frontino, Antioquia: la evidencia reina para capturarlo",
      "url": "https://www.eltiempo.com/colombia/medellin/el-perfil-criminal-del-presunto-asesino-de-la-nina-jhady-sofia-cuyo-crimen-conmociono-a-frontino-antioquia-la-evidencia-reina-para-capturarlo-3596184",
      "domain": "El Tiempo",
-     "seendate": "20261025T202744Z"
+     "seendate": "20261025T210509Z"
+    },
+    {
+     "title": "Cartagena atiende emergencia por lluvias: intervienen canales con maquinaria pesada y realizan censo de familias afectadas",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/cartagena-atiende-emergencia-por-lluvias-intervienen-canales-con-maquinaria-pesada-y-realizan-censo-de-familias-afectadas-3596152",
+     "domain": "El Tiempo",
+     "seendate": "20261025T210210Z"
+    },
+    {
+     "title": "Imágenes del accidente en Manizales en el que murieron dos obreros electrocutados: así quedó el edificio que estaban pintando",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/imagenes-del-accidente-en-manizales-en-el-que-murieron-dos-obreros-electrocutados-asi-quedo-el-edificio-que-estaban-pintando-3596198",
+     "domain": "El Tiempo",
+     "seendate": "20261025T210157Z"
+    },
+    {
+     "title": "Alerta por la fuga de ocho sindicados de un CAI de la Policía en Palmira, Valle del Cauca: van tres fugas de detenidos de sedes policiales en un mes",
+     "url": "https://www.eltiempo.com/colombia/cali/alerta-por-la-fuga-de-ocho-detenidos-del-cai-las-delicias-en-palmira-valle-del-cauca-eran-sindicados-a-la-espera-de-la-sentencia-de-un-juez-3596179",
+     "domain": "El Tiempo",
+     "seendate": "20261025T210038Z"
     },
     {
      "title": "Lluvias golpean al Caribe: más de 670 viviendas y familias afectadas en Cartagena y Santa Marta; inundaciones y emergencias en cinco departamentos",
@@ -1555,22 +1573,10 @@
      "seendate": "20261025T184158Z"
     },
     {
-     "title": "Alerta por la fuga de ocho sindicados de un CAI de la Policía en Palmira, Valle del Cauca: van tres fugas de detenidos de sedes policiales en un mes",
-     "url": "https://www.eltiempo.com/colombia/cali/alerta-por-la-fuga-de-ocho-detenidos-del-cai-las-delicias-en-palmira-valle-del-cauca-eran-sindicados-a-la-espera-de-la-sentencia-de-un-juez-3596179",
-     "domain": "El Tiempo",
-     "seendate": "20261025T183833Z"
-    },
-    {
      "title": "Así fue el rescate del soldado que sobrevivió seis días en la selva tras un ataque con drones por las disidencias en Antioquia: '¡Mamá, estoy vivo!'",
      "url": "https://www.eltiempo.com/colombia/medellin/asi-fue-el-rescate-del-soldado-que-sobrevivio-seis-dias-en-la-selva-tras-un-ataque-con-drones-por-las-disidencias-en-antioquia-mama-estoy-vivo-3596166",
      "domain": "El Tiempo",
      "seendate": "20261025T183125Z"
-    },
-    {
-     "title": "Dolorosos momentos durante la velatón por la policía María José Recuero, quien murió tras un acto de heroísmo al enfrentarse a unos ladrones en Cali",
-     "url": "https://www.eltiempo.com/colombia/cali/dolorosos-momentos-durante-la-velaton-por-la-policia-maria-jose-recuerdo-quien-murio-tras-un-acto-de-heroismo-al-enfrentarse-a-unos-ladrones-en-cali-3596143",
-     "domain": "El Tiempo",
-     "seendate": "20261025T172910Z"
     },
     {
      "title": "ONU Derechos Humanos pide reconstruir y reabrir la Casa de las Memorias de Cali, cerrada tras el terremoto",
@@ -1589,18 +1595,6 @@
      "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-prohibe-caravanas-y-saca-las-motos-del-gran-malecon-durante-dos-fines-de-semana-incluido-el-de-halloween-3596158",
      "domain": "El Tiempo",
      "seendate": "20261025T155531Z"
-    },
-    {
-     "title": "Cartagena atiende emergencia por lluvias: intervienen canales con maquinaria pesada y realizan censo de familias afectadas",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/cartagena-atiende-emergencia-por-lluvias-intervienen-canales-con-maquinaria-pesada-y-realizan-censo-de-familias-afectadas-3596152",
-     "domain": "El Tiempo",
-     "seendate": "20261025T151958Z"
-    },
-    {
-     "title": "Video revela el momento exacto del volcamiento de un bus con peregrinos en Medellín: viajaban 48 personas",
-     "url": "https://www.eltiempo.com/colombia/medellin/video-revela-el-momento-exacto-del-volcamiento-de-un-bus-con-peregrinos-en-medellin-viajaban-48-personas-3596140",
-     "domain": "El Tiempo",
-     "seendate": "20261025T144606Z"
     }
    ]
   },
@@ -1911,6 +1905,12 @@
   "ECU": {
    "articles": [
     {
+     "title": "CNEL atiende más 300 incidencias eléctricas por últimas lluvias en Guayaquil, Durán, Samborondón y Daule",
+     "url": "https://eluniverso.com/comunidad/ecuador/cnel-atiende-mas-300-incidencias-electricas-por-ultimas-lluvias-en-guayaquil-duran-samborondon-y-daule-nota/",
+     "domain": "El Universo",
+     "seendate": "20261025T212014Z"
+    },
+    {
      "title": "Lluvias vinculadas a El Niño dejan tres muertos y más de 28.000 afectados en Ecuador",
      "url": "https://eluniverso.com/comunidad/ecuador/lluvias-vinculadas-a-el-nino-dejan-tres-muertos-y-mas-de-28000-afectados-en-ecuador-nota/",
      "domain": "El Universo",
@@ -2016,6 +2016,12 @@
   },
   "PER": {
    "articles": [
+    {
+     "title": "Sociedad Nacional de Industrias “Las ventas en el sector textil caerían un 50% en Navidad, estaremos ad portas o ya con un diluvio en el país”",
+     "url": "https://elcomercio.pe/economia/peru/sociedad-nacional-de-industrias-las-ventas-en-el-sector-textil-caerian-un-50-en-navidad-estaremos-ad-portas-o-ya-con-un-diluvio-en-el-pais-apuesplan-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261025T211800Z"
+    },
     {
      "title": "Lluvias en Perú EN VIVO: últimas noticias sobre precipitaciones por El Niño extraordinario",
      "url": "https://elcomercio.pe/peru/lluvias-en-peru-en-vivo-ultimas-noticias-de-las-precipitaciones-en-piura-tumbes-y-trujillo-estado-de-emergencia-en-el-norte-senamhi-indeci-lloviznas-fenomeno-el-nino-lbposting-noticia/",
@@ -2725,10 +2731,16 @@
   "ARG": {
    "articles": [
     {
-     "title": "La UCR y el Frente Renovador condenaron los ataques de Milei a periodistas: “Pasó todos los límites”",
+     "title": "Dirigentes políticos e intelectuales condenaron los ataques de Milei a periodistas: “Pasó todos los límites”",
      "url": "https://www.lanacion.com.ar/politica/la-ucr-y-el-frente-renovador-condenaron-los-ataques-de-milei-a-periodistas-paso-todos-los-limites-nid25102026/",
      "domain": "La Nación",
-     "seendate": "20261025T205326Z"
+     "seendate": "20261025T211324Z"
+    },
+    {
+     "title": "Robin Sharma, especialista en desarrollo personal: “Sé de personas excepcionales que protegen su tiempo y eso no significa que tengan que matarse trabajando”",
+     "url": "https://www.lanacion.com.ar/sociedad/robin-sharma-especialista-en-desarrollo-personal-se-de-personas-excepcionales-que-protegen-su-tiempo-nid25102026/",
+     "domain": "La Nación",
+     "seendate": "20261025T210000Z"
     },
     {
      "title": "Viraje en el PJ: el peronismo revisa su relación con la Justicia y disputa los espacios de poder del kirchnerismo",
