@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T02:04:58+00:00",
+ "updated": "2026-10-25T03:04:36+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -7,7 +7,7 @@
      "title": "El Rey, operado en Oviedo por una catarata en el ojo izquierdo",
      "url": "https://elpais.com/espana/2026-10-24/felipe-vi-operado-de-cataratas-del-ojo-izquierdo-en-oviedo.html",
      "domain": "El País",
-     "seendate": "20261025T020047Z"
+     "seendate": "20261025T030022Z"
     },
     {
      "title": "Cien detenidos por los disturbios en el centro de Barcelona",
@@ -116,6 +116,18 @@
   "MEX": {
    "articles": [
     {
+     "title": "Intentan linchar a presuntos feminicidas de niña y su abuela en Chiapas; \"la justicia por propia mano no nos devuelve la paz\": gobernador",
+     "url": "https://www.eluniversal.com.mx/estados/intentan-linchar-a-presuntos-feminicidas-de-nina-y-su-abuela-en-chiapas-la-justicia-por-propia-mano-no-nos-devuelve-la-paz-gobernador/",
+     "domain": "El Universal",
+     "seendate": "20261025T025338Z"
+    },
+    {
+     "title": "Catrinas y personajes de terror invaden el Paseo Ciclista Nocturno de Día de Muertos; autoridades estiman asistencia de más de 100 mil personas",
+     "url": "https://www.eluniversal.com.mx/metropoli/catrinas-y-personajes-de-terror-invaden-el-paseo-ciclista-nocturno-de-dia-de-muertos-autoridades-estiman-asistencia-de-mas-de-100-mil-personas/",
+     "domain": "El Universal",
+     "seendate": "20261025T024506Z"
+    },
+    {
      "title": "Mujer estadounidense es auxiliada por elementos de la Policía Turística; pide volver a su país",
      "url": "https://www.eluniversal.com.mx/metropoli/mujer-estadounidense-es-auxiliada-por-elementos-de-la-policia-turistica-pide-volver-a-su-pais/",
      "domain": "El Universal",
@@ -128,7 +140,7 @@
      "seendate": "20261025T015003Z"
     },
     {
-     "title": "Abaten en Sonora a \"El Meny Carranza\", ofrecían un millón de pesos por su cabeza; detienen a cuatro más",
+     "title": "Abaten en Sonora a \"El Meny Carranza\", ofrecían un millón de pesos por su captura; detienen a cuatro más",
      "url": "https://www.eluniversal.com.mx/nacion/abaten-en-sonora-a-el-meny-carranza-ofrecian-un-millon-de-pesos-por-su-cabeza-detienen-a-cuatro-mas/",
      "domain": "El Universal",
      "seendate": "20261025T012244Z"
@@ -360,18 +372,6 @@
      "url": "https://www.eluniversal.com.mx/metropoli/metro-obtiene-su-primer-record-guinness-mural-holografico-en-la-estacion-auditorio-fue-reconocido-como-el-mas-grande-del-mundo/",
      "domain": "El Universal",
      "seendate": "20261024T183449Z"
-    },
-    {
-     "title": "Benito Juárez refuerza seguridad con reuniones vecinales en sus 56 colonias; busca mantener cercanía con la ciudadanía",
-     "url": "https://www.eluniversal.com.mx/metropoli/benito-juarez-refuerza-seguridad-con-reuniones-vecinales-en-sus-56-colonias-busca-mantener-cercania-con-la-ciudadania/",
-     "domain": "El Universal",
-     "seendate": "20261024T181328Z"
-    },
-    {
-     "title": "“No pedimos privilegios. Pedimos justicia”: Realizan en Chihuahua caravana a favor del César Jáuregui; exigen la liberación del exfiscal",
-     "url": "https://www.eluniversal.com.mx/estados/no-pedimos-privilegios-pedimos-justicia-realizan-en-chihuahua-caravana-a-favor-del-cesar-jauregui-exigen-la-liberacion-del-exfiscal/",
-     "domain": "El Universal",
-     "seendate": "20261024T180956Z"
     },
     {
      "title": "Desfile de la \"Feria de Ferias\" llena de color y tradición el Centro Histórico de Tlaxcala; participan 90 contingentes",
@@ -1382,12 +1382,6 @@
      "url": "https://www.nacion.com/politica/quien-dirigira-la-eleccion-de-la-presidencia-de-la/U4VLCBG4FRA23JHY3ECMBLAEG4/story/",
      "domain": "La Nación",
      "seendate": "20261023T214648Z"
-    },
-    {
-     "title": "Asamblea Legislativa inició entrevistas para elegir a una magistratura de la Sala III: primer candidato critica ‘apatía judicial’ y ‘endogamia burocrática’",
-     "url": "https://www.nacion.com/politica/asamblea-legislativa-inicio-entrevistas-para/ZDTIFOWS6NCMVOZD3IYES42KTQ/story/",
-     "domain": "La Nación",
-     "seendate": "20261023T213553Z"
     }
    ]
   },
@@ -1651,6 +1645,12 @@
   "COL": {
    "articles": [
     {
+     "title": "Colapsó una edificación en Pereira pendiente de demolición este sábado: Bomberos confirman que no se hallaron personas entre los escombros",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/emergencia-en-pereira-colapso-una-edificacion-que-estaba-pendiente-de-demolicion-tras-el-terremoto-hallaron-dos-cuerpos-sin-vida-entre-los-escombros-3596082",
+     "domain": "El Tiempo",
+     "seendate": "20261025T023940Z"
+    },
+    {
      "title": "Inédito: falso accidente terminó en el robo de $260 millones en lingotes de plata en Girón, Santander",
      "url": "https://www.eltiempo.com/colombia/santander/inedito-falso-reten-policial-termino-en-robo-de-260-millones-en-lingotes-de-plata-en-giron-3596056",
      "domain": "El Tiempo",
@@ -1679,12 +1679,6 @@
      "url": "https://www.eltiempo.com/colombia/cali/obras-por-impuestos-viabilizan-mejoras-en-colegios-publicos-para-beneficiar-a-1-101-estudiantes-en-el-municipio-de-florida-valle-3596083",
      "domain": "El Tiempo",
      "seendate": "20261024T231750Z"
-    },
-    {
-     "title": "Colapsó una edificación en Pereira pendiente de demolición este sábado: hallaron dos cuerpos sin vida entre los escombros",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/emergencia-en-pereira-colapso-una-edificacion-que-estaba-pendiente-de-demolicion-tras-el-terremoto-hallaron-dos-cuerpos-sin-vida-entre-los-escombros-3596082",
-     "domain": "El Tiempo",
-     "seendate": "20261024T231608Z"
     },
     {
      "title": "Emergencia en Cartagena por aguacero: crecen los reportes de carros arrastrados por arroyos, calles inundadas y trancones en varios sectores",
@@ -1959,6 +1953,18 @@
   "ECU": {
    "articles": [
     {
+     "title": "Lotto, sorteo 3482: estos son los números ganadores del 24 de octubre",
+     "url": "https://eluniverso.com/comunidad/ecuador/lotto-sorteo-3482-estos-son-los-numeros-ganadores-del-24-de-octubre-nota/",
+     "domain": "El Universo",
+     "seendate": "20261025T025320Z"
+    },
+    {
+     "title": "Inamhi advierte sobre lluvias y tormentas en Ecuador: estas provincias tendrán precipitaciones intensas este domingo",
+     "url": "https://eluniverso.com/comunidad/ecuador/inamhi-alerta-por-lluvias-tormentas-e-inundaciones-en-ecuador-nota/",
+     "domain": "El Universo",
+     "seendate": "20261025T023500Z"
+    },
+    {
      "title": "Inamhi prevé radiación ultravioleta de hasta 10 en Ecuador: estas son las provincias con mayor índice",
      "url": "https://eluniverso.com/comunidad/ecuador/radiacion-uv-en-ecuador-pronostico-del-inamhi-para-el-25-de-octubre-nota/",
      "domain": "El Universo",
@@ -2101,28 +2107,28 @@
   "PER": {
    "articles": [
     {
+     "title": "Lluvias en Perú EN VIVO hoy: Senamhi advierte precipitaciones extremas por El Niño extraordinario",
+     "url": "https://elcomercio.pe/peru/lluvias-en-peru-en-vivo-ultimas-noticias-de-las-precipitaciones-en-piura-tumbes-y-trujillo-estado-de-emergencia-en-el-norte-senamhi-indeci-lloviznas-fenomeno-el-nino-lbposting-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261025T025043Z"
+    },
+    {
+     "title": "Último temblor hoy, sábado 24 de octubre: Sismos en Perú, lugar y magnitud según IGP",
+     "url": "https://elcomercio.pe/peru/ultimo-temblor-hoy-via-igp-reporte-el-epicentro-magnitud-y-mas-del-sismo-tdpe-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261025T023300Z"
+    },
+    {
      "title": "Sociedad Nacional de Industrias “Las ventas en el sector textil caerían un 50% en Navidad, estaremos ad portas o ya con un diluvio en el país”",
      "url": "https://elcomercio.pe/economia/peru/sociedad-nacional-de-industrias-las-ventas-en-el-sector-textil-caerian-un-50-en-navidad-estaremos-ad-portas-o-ya-con-un-diluvio-en-el-pais-apuesplan-noticia/",
      "domain": "El Comercio",
      "seendate": "20261025T012016Z"
     },
     {
-     "title": "Lluvias en Perú EN VIVO hoy: Senamhi advierte precipitaciones extremas por El Niño extraordinario",
-     "url": "https://elcomercio.pe/peru/lluvias-en-peru-en-vivo-ultimas-noticias-de-las-precipitaciones-en-piura-tumbes-y-trujillo-estado-de-emergencia-en-el-norte-senamhi-indeci-lloviznas-fenomeno-el-nino-lbposting-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261025T010557Z"
-    },
-    {
      "title": "Vientos de más de 30 km/h afectan la costa de Ica y dificultan el tránsito vehicular",
      "url": "https://elcomercio.pe/peru/ica/pisco-vientos-de-mas-de-30-kmh-afectan-la-costa-de-ica-y-dificultan-el-transito-vehicular-ultimas-noticia/",
      "domain": "El Comercio",
      "seendate": "20261024T225000Z"
-    },
-    {
-     "title": "Último temblor hoy, sábado 24 de octubre: Sismos en Perú, lugar y magnitud según IGP",
-     "url": "https://elcomercio.pe/peru/ultimo-temblor-hoy-via-igp-reporte-el-epicentro-magnitud-y-mas-del-sismo-tdpe-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261024T223312Z"
     }
    ]
   },
@@ -2833,6 +2839,18 @@
   "ARG": {
    "articles": [
     {
+     "title": "La visita del Papa: la Iglesia espera la “última avanzada” y el Gobierno adjudicó un contrato millonario para producir los eventos masivos",
+     "url": "https://www.lanacion.com.ar/politica/la-visita-del-papa-la-iglesia-espera-la-ultima-avanzada-y-el-gobierno-adjudico-un-contrato-nid25102026/",
+     "domain": "La Nación",
+     "seendate": "20261025T030000Z"
+    },
+    {
+     "title": "Sergio Massa respaldó a Lula previo a las elecciones presidenciales en Brasil",
+     "url": "https://www.lanacion.com.ar/politica/sergio-massa-respaldo-a-lula-previo-a-las-elecciones-presidenciales-en-brasil-nid24102026/",
+     "domain": "La Nación",
+     "seendate": "20261025T020354Z"
+    },
+    {
      "title": "El momento bisagra para Milei",
      "url": "https://www.lanacion.com.ar/politica/el-momento-bisagra-para-milei-nid24102026/",
      "domain": "La Nación",
@@ -2957,24 +2975,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/leon-xiv-en-la-argentina-como-se-prepara-la-familia-agustiniana-para-recibirlo-que-regalo-le-haran-y-nid24102026/",
      "domain": "La Nación",
      "seendate": "20261024T203319Z"
-    },
-    {
-     "title": "Fue asesinado de cinco balazos en la calle, en un crimen con el sello de una venganza entre bandas internacionales",
-     "url": "https://www.lanacion.com.ar/seguridad/fue-asesinado-de-cinco-balazos-en-la-calle-en-un-crimen-con-el-sello-de-una-venganza-entre-bandas-nid24102026/",
-     "domain": "La Nación",
-     "seendate": "20261024T202641Z"
-    },
-    {
-     "title": "Quejas en Mendoza: otro trastorno que el Súper Niño sacó a la luz y que las autoridades admiten es difícil de solucionar",
-     "url": "https://www.lanacion.com.ar/sociedad/reclamos-en-mendoza-otro-trastorno-que-el-super-nino-saco-a-la-luz-y-las-autoridades-admiten-nid24102026/",
-     "domain": "La Nación",
-     "seendate": "20261024T200700Z"
-    },
-    {
-     "title": "Los reiterados ataques de quemacoches preocupan a los vecinos de un barrio del conurbano",
-     "url": "https://www.lanacion.com.ar/seguridad/los-reiterados-ataques-de-quemacoches-preocupan-a-los-vecinos-de-un-barrio-del-conurbano-nid24102026/",
-     "domain": "La Nación",
-     "seendate": "20261024T200611Z"
     }
    ]
   },
