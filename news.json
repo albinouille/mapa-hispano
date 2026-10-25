@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-25T12:00:10+00:00",
+ "updated": "2026-10-25T12:33:21+00:00",
  "countries": {
   "ESP": {
    "articles": [
     {
-     "title": "Última hora de la actualidad política, en directo | Feijóo reúne en Salamanca a los cabeza de lista al Congreso con la incógnita del Senado",
+     "title": "Última hora de la actualidad política, en directo | Feijóo: “¿La alternancia es que Sánchez se suceda a sí mismo?”",
      "url": "https://elpais.com/espana/2026-10-25/ultima-hora-de-la-actualidad-politica-en-directo.html",
      "domain": "El País",
-     "seendate": "20261025T115133Z"
+     "seendate": "20261025T122306Z"
     },
     {
      "title": "Los jóvenes que provocaron altercados en Barcelona se convocaron por TikTok y organizaron por grupos de Telegram y Whatsapp",
@@ -1332,6 +1332,12 @@
   "CUB": {
    "articles": [
     {
+     "title": "Cuba mantendrá el horario de verano todo el año para ahorrar energía",
+     "url": "https://www.14ymedio.com/cuba/cuba-mantendra-horario-verano-ano_1_1132373.html",
+     "domain": "14ymedio",
+     "seendate": "20261025T122201Z"
+    },
+    {
      "title": "Un enorme bache se convierte en cascada y trampa para transeúntes en el Cerro habanero",
      "url": "https://www.14ymedio.com/cuba/enorme-bache-convierte-cascada-trampa_1_1132367.html",
      "domain": "14ymedio",
@@ -1438,7 +1444,7 @@
      "title": "Temblor en Colombia hoy 25 de octubre: conozca epicentro, magnitud y detalles",
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-en-colombia-hoy-25-de-octubre-conozca-epicentro-magnitud-y-detalles-3596136",
      "domain": "El Tiempo",
-     "seendate": "20261025T113141Z"
+     "seendate": "20261025T115012Z"
     },
     {
      "title": "Las 7 recomendaciones de ONU Derechos Humanos al Congreso para la ley estatutaria sobre protesta social en Colombia",
@@ -1881,12 +1887,6 @@
      "seendate": "20261024T150326Z"
     },
     {
-     "title": "Quinto Puente: avanzan los trabajos en Guayaquil con cinco frentes activos",
-     "url": "https://eluniverso.com/politica/ejecutivo/quinto-puente-avanzan-los-trabajos-en-guayaquil-con-cinco-frentes-activos-nota/",
-     "domain": "El Universo",
-     "seendate": "20261024T143000Z"
-    },
-    {
      "title": "Sismo de magnitud 3,7 se registró cerca de Puyo este sábado, 24 de octubre",
      "url": "https://eluniverso.com/comunidad/ecuador/sismo-de-magnitud-37-se-registro-cerca-de-puyo-este-sabado-24-de-octubre-nota/",
      "domain": "El Universo",
@@ -1903,17 +1903,17 @@
      "url": "https://eluniverso.com/politica/expedientes/luisa-gonzalez-ya-se-encuentra-en-la-carcel-de-riobamba-nota/",
      "domain": "El Universo",
      "seendate": "20261024T042418Z"
-    },
-    {
-     "title": "Guayaquil tendrá un sábado caluroso, con temperaturas de hasta 33,5 °C y lluvias por la tarde",
-     "url": "https://eluniverso.com/comunidad/ecuador/guayaquil-tendra-un-sabado-caluroso-con-temperaturas-de-hasta-335-c-y-lluvias-por-la-tarde-nota/",
-     "domain": "El Universo",
-     "seendate": "20261024T034046Z"
     }
    ]
   },
   "PER": {
    "articles": [
+    {
+     "title": "Lluvias en Perú EN VIVO: últimas noticias sobre precipitaciones por El Niño extraordinario",
+     "url": "https://elcomercio.pe/peru/lluvias-en-peru-en-vivo-ultimas-noticias-de-las-precipitaciones-en-piura-tumbes-y-trujillo-estado-de-emergencia-en-el-norte-senamhi-indeci-lloviznas-fenomeno-el-nino-lbposting-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261025T120000Z"
+    },
     {
      "title": "Casi 1,5 millones de hogares aún cocinan solo con combustibles sólidos como la leña o el carbón, ¿dónde se concentra la brecha?",
      "url": "https://elcomercio.pe/economia/peru/casi-15-millones-de-hogares-aun-cocinan-solo-con-combustibles-solidos-como-la-lena-o-el-carbon-donde-se-concentra-la-brecha-ipe-noticia/",
@@ -1925,12 +1925,6 @@
      "url": "https://elcomercio.pe/economia/peru/sociedad-nacional-de-industrias-las-ventas-en-el-sector-textil-caerian-un-50-en-navidad-estaremos-ad-portas-o-ya-con-un-diluvio-en-el-pais-apuesplan-noticia/",
      "domain": "El Comercio",
      "seendate": "20261025T112000Z"
-    },
-    {
-     "title": "Lluvias en Perú EN VIVO: últimas noticias sobre precipitaciones por El Niño extraordinario",
-     "url": "https://elcomercio.pe/peru/lluvias-en-peru-en-vivo-ultimas-noticias-de-las-precipitaciones-en-piura-tumbes-y-trujillo-estado-de-emergencia-en-el-norte-senamhi-indeci-lloviznas-fenomeno-el-nino-lbposting-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261025T070429Z"
     }
    ]
   },
@@ -2635,6 +2629,30 @@
   "ARG": {
    "articles": [
     {
+     "title": "Mauricio, de 37 años, dejó su trabajo en una automotriz y se mudó al monte: “Si uno tiene herramientas y la voluntad, el trabajo siempre sale”",
+     "url": "https://www.lanacion.com.ar/sociedad/mauricio-de-37-anos-dejo-su-trabajo-en-una-automotriz-y-se-mudo-al-monte-si-uno-tiene-herramientas-y-nid24102026/",
+     "domain": "La Nación",
+     "seendate": "20261025T120610Z"
+    },
+    {
+     "title": "Visec Carne: así funciona el mundo de los negocios, guste o no",
+     "url": "https://www.lanacion.com.ar/economia/campo/visec-carne-asi-funciona-el-mundo-de-los-negocios-guste-o-no-nid25102026/",
+     "domain": "La Nación",
+     "seendate": "20261025T120607Z"
+    },
+    {
+     "title": "“No es solo excavar”: el streaming interactivo de arqueólogos argentinos en el sitio austral más icónico del Imperio Inca",
+     "url": "https://www.lanacion.com.ar/sociedad/no-es-solo-excavar-el-streaming-interactivo-de-arqueologos-argentinos-en-el-sitio-austral-mas-nid25102026/",
+     "domain": "La Nación",
+     "seendate": "20261025T120000Z"
+    },
+    {
+     "title": "Hugo Lattanzi, productor que invirtió en un campo en Río Negro: “Siempre vi a la zona con mucho potencial”",
+     "url": "https://www.lanacion.com.ar/economia/campo/hugo-lattanzi-productor-que-invirtio-en-un-campo-en-rio-negro-siempre-vi-a-la-zona-con-mucho-nid25102026/",
+     "domain": "La Nación",
+     "seendate": "20261025T120000Z"
+    },
+    {
      "title": "El Patterson “criollo”: la nueva proyección del planisferio trabajada en la Argentina",
      "url": "https://www.lanacion.com.ar/sociedad/el-patterson-criollo-la-nueva-proyeccion-del-planisferio-trabajada-en-la-argentina-nid25102026/",
      "domain": "La Nación",
@@ -2679,12 +2697,6 @@
     {
      "title": "Opinión: No a todo el campo le va bien",
      "url": "https://www.lanacion.com.ar/economia/campo/opinion-no-a-todo-el-campo-le-va-bien-nid25102026/",
-     "domain": "La Nación",
-     "seendate": "20261025T093000Z"
-    },
-    {
-     "title": "Visec Carne: así funciona el mundo de los negocios, guste o no",
-     "url": "https://www.lanacion.com.ar/economia/campo/visec-carne-asi-funciona-el-mundo-de-los-negocios-guste-o-no-nid25102026/",
      "domain": "La Nación",
      "seendate": "20261025T093000Z"
     },
@@ -2783,17 +2795,71 @@
      "url": "https://www.lanacion.com.ar/economia/economia-del-conocimiento-mas-de-la-mitad-de-los-centros-de-servicios-aumento-sus-exportaciones-nid25102026/",
      "domain": "La Nación",
      "seendate": "20261025T030100Z"
-    },
-    {
-     "title": "La visita del Papa: la Iglesia espera la “última avanzada” y el Gobierno adjudicó un contrato millonario para producir los eventos masivos",
-     "url": "https://www.lanacion.com.ar/politica/la-visita-del-papa-la-iglesia-espera-la-ultima-avanzada-y-el-gobierno-adjudico-un-contrato-nid25102026/",
-     "domain": "La Nación",
-     "seendate": "20261025T030000Z"
     }
    ]
   },
   "URY": {
    "articles": [
+    {
+     "title": "Unidad Indexada hoy : cuánto cotiza la UI este domingo 25 de octubre de 2026 en pesos uruguayos",
+     "url": "https://www.elpais.com.uy/negocios/finanzas/unidad-indexada-hoy-cuanto-cotiza-la-ui-este-domingo-25-de-octubre-de-2026-en-pesos-uruguayos",
+     "domain": "elpais.com.uy",
+     "seendate": "20261025T093000Z"
+    },
+    {
+     "title": "Consultora de industrias laneras en China dijo : No somos nada , sin productores ovinos - Rurales",
+     "url": "https://rurales.elpais.com.uy/ganaderia/consultora-de-industrias-laneras-en-china-dijo-no-somos-nada-sin-productores-ovinos",
+     "domain": "rurales.elpais.com.uy",
+     "seendate": "20261025T081500Z"
+    },
+    {
+     "title": "Agronegocios entre mercados y finanzas - Rurales",
+     "url": "https://rurales.elpais.com.uy/opinion/agronegocios-entre-mercados-y-finanzas",
+     "domain": "rurales.elpais.com.uy",
+     "seendate": "20261025T081500Z"
+    },
+    {
+     "title": "Como siempre : sabor , calidad y precio - Rurales",
+     "url": "https://rurales.elpais.com.uy/opinion/como-siempre-sabor-calidad-y-precio",
+     "domain": "rurales.elpais.com.uy",
+     "seendate": "20261025T081500Z"
+    },
+    {
+     "title": "Carniceros alertan por merma en el consumo",
+     "url": "https://rurales.elpais.com.uy/mercados/carniceros-alertan-por-merma-en-el-consumo",
+     "domain": "rurales.elpais.com.uy",
+     "seendate": "20261025T081500Z"
+    },
+    {
+     "title": "El secreto de nuestras carnes : un ciclo de charlas con niños de educación primaria para acercarlos a la producción",
+     "url": "https://rurales.elpais.com.uy/historias/el-secreto-de-nuestras-carnes-un-ciclo-de-charlas-con-ninos-de-educacion-primaria-para-acercarlos-a-la-produccion",
+     "domain": "rurales.elpais.com.uy",
+     "seendate": "20261025T081500Z"
+    },
+    {
+     "title": "La voz que hizo de las jineteadas una forma de vida",
+     "url": "https://rurales.elpais.com.uy/historias/la-voz-que-hizo-de-las-jineteadas-una-forma-de-vida",
+     "domain": "rurales.elpais.com.uy",
+     "seendate": "20261025T081500Z"
+    },
+    {
+     "title": "Nicolás Udaquiola : Hay que seguir de cerca lo que pase con las tasas porque puede haber un cambio de tendencia",
+     "url": "https://rurales.elpais.com.uy/agricultura/nicolas-udaquiola-hay-que-seguir-de-cerca-lo-que-pase-con-las-tasas-porque-puede-haber-un-cambio-de-tendencia",
+     "domain": "rurales.elpais.com.uy",
+     "seendate": "20261025T081500Z"
+    },
+    {
+     "title": "La mujer rural",
+     "url": "https://www.elpais.com.uy/opinion/ecos/la-mujer-rural-22-10",
+     "domain": "elpais.com.uy",
+     "seendate": "20261025T081500Z"
+    },
+    {
+     "title": "Elecciones en Brasil : gobierno sigue atento el proceso mientras piensa cómo construir agenda si gana Bolsonaro",
+     "url": "https://www.elpais.com.uy/informacion/politica/elecciones-en-brasil-gobierno-sigue-atento-el-proceso-mientras-piensa-como-construir-agenda-si-gana-bolsonaro",
+     "domain": "elpais.com.uy",
+     "seendate": "20261025T081500Z"
+    },
     {
      "title": "Deportivo Maldonado vs . Danubio en vivo por el Torneo Clausura : el fernandino quiere ganar por la Tabla Anual",
      "url": "https://www.elpais.com.uy/ovacion/futbol/deportivo-maldonado-vs-danubio-en-vivo-por-el-torneo-clausura-el-fernandino-quiere-ganar-por-la-tabla-anual",
@@ -3093,424 +3159,16 @@
      "url": "https://www.subrayado.com.uy/tiroteo-reducto-no-se-puede-vivir-mas-asi-esta-locura-balacera-todos-los-dias-dijo-comerciante-n1021555",
      "domain": "subrayado.com.uy",
      "seendate": "20261023T000000Z"
-    },
-    {
-     "title": "La Iglesia lanza este viernes las entradas gratuitas para las actividades con el papa León XIV",
-     "url": "https://www.radiomontecarlo.com.uy/2026/10/22/nacionales/la-iglesia-lanza-este-viernes-las-entradas-gratuitas-para-las-actividades-con-el-papa-leon-xiv/",
-     "domain": "radiomontecarlo.com.uy",
-     "seendate": "20261022T233000Z"
-    },
-    {
-     "title": "El intendente de Florida sostuvo que los preparativos para recibir al papa León XIV continúan sin ca",
-     "url": "https://www.radiomontecarlo.com.uy/2026/10/22/nacionales/el-intendente-de-florida-sostuvo-que-los-preparativos-para-recibir-al-papa-leon-xiv-continuan-sin-cambios/",
-     "domain": "radiomontecarlo.com.uy",
-     "seendate": "20261022T233000Z"
-    },
-    {
-     "title": "El guitarrista uruguayo Maikel Pereyra regresa este sábado a Canelones con un tributo a Paco de Lucía",
-     "url": "https://hoycanelones.com.uy/?p=74712",
-     "domain": "hoycanelones.com.uy",
-     "seendate": "20261022T233000Z"
-    },
-    {
-     "title": "Suelta de libros , club de reparadores y más : La Biblioteca Pública celebra éste viernes y sábado",
-     "url": "https://hoycanelones.com.uy/?p=74701",
-     "domain": "hoycanelones.com.uy",
-     "seendate": "20261022T233000Z"
-    },
-    {
-     "title": "El pronóstico para el viernes 23 de octubre de 2026 : cómo estará el tiempo en cada zona del país , según Inumet",
-     "url": "https://www.elpais.com.uy/informacion/servicios/el-pronostico-para-el-viernes-23-de-octubre-de-2026-como-estara-el-tiempo-en-cada-zona-del-pais-segun-inumet",
-     "domain": "elpais.com.uy",
-     "seendate": "20261022T231500Z"
-    },
-    {
-     "title": "Centros María Espínola : datos , metas sin cumplir y miradas contrapuestas",
-     "url": "https://www.carasycaretas.com.uy/politica/centros-maria-espinola-datos-metas-cumplir-y-miradas-contrapuestas-n100403",
-     "domain": "carasycaretas.com.uy",
-     "seendate": "20261022T231500Z"
-    },
-    {
-     "title": "El Ministerio del Interior trabaja en represión focalizada al crimen organizado para disminuir homicidios",
-     "url": "https://www.carasycaretas.com.uy/politica/el-ministerio-del-interior-trabaja-represion-focalizada-al-crimen-organizado-disminuir-homicidios-n100415",
-     "domain": "carasycaretas.com.uy",
-     "seendate": "20261022T231500Z"
-    },
-    {
-     "title": "Orsi destacó importancia de que se expanda área destinada a forestación",
-     "url": "https://www.carasycaretas.com.uy/politica/orsi-destaco-importancia-que-se-expanda-area-destinada-forestacion-n100416",
-     "domain": "carasycaretas.com.uy",
-     "seendate": "20261022T231500Z"
-    },
-    {
-     "title": "Emotiva carta del exnovio de la hija de Lucas Sugo al artista : Flor me regaló los mejores años de mi vida",
-     "url": "https://www.elpais.com.uy/tvshow/personajes/emotiva-carta-del-exnovio-de-la-hija-de-lucas-sugo-al-artista-flor-me-regalo-los-mejores-anos-de-mi-vida",
-     "domain": "elpais.com.uy",
-     "seendate": "20261022T230000Z"
     }
    ]
   },
   "PRY": {
    "articles": [
     {
-     "title": "El Niño podría intensificarse en noviembre - diciembre , dice el MAG - ABC Rural",
-     "url": "https://www.abc.com.py/negocios/abc-campo/2026/10/25/el-nino-podria-intensificarse-en-noviembre-diciembre-dice-el-mag/",
-     "domain": "abc.com.py",
-     "seendate": "20261025T100000Z"
-    },
-    {
-     "title": "En debate de economistas , reconocen que en 10 años no se podrá volver al límite de déficit fiscal - Economía",
-     "url": "https://www.abc.com.py/economia/2026/10/25/en-debate-de-economistas-reconocen-que-en-10-anos-no-se-podra-volver-al-limite-de-deficit-fiscal/",
-     "domain": "abc.com.py",
-     "seendate": "20261025T100000Z"
-    },
-    {
-     "title": "Cuestionan al MOPC por cortes de caminos en Paso de Patria - Clima",
-     "url": "https://www.abc.com.py/clima/2026/10/25/cuestionan-al-mopc-por-cortes-de-caminos-en-paso-de-patria/",
-     "domain": "abc.com.py",
-     "seendate": "20261025T100000Z"
-    },
-    {
-     "title": "Millonaria obra proyecta la Dinac en el aeropuerto Silvio Pettirossi - Económico",
-     "url": "https://www.abc.com.py/edicion-impresa/suplementos/economico/2026/10/25/millonaria-obra-proyecta-la-dinac-en-el-aeropuerto-silvio-pettirossi/",
-     "domain": "abc.com.py",
-     "seendate": "20261025T100000Z"
-    },
-    {
-     "title": "Cartes y Abdo se volverán a reunir de cara al neopeñismo , anuncia el senador Varela - Política",
-     "url": "https://www.abc.com.py/politica/2026/10/24/cartes-y-abdo-se-volveran-a-reunir-de-cara-al-neopenismo-anuncia-el-senador-varela/",
-     "domain": "abc.com.py",
-     "seendate": "20261024T191500Z"
-    },
-    {
-     "title": "La Nación / Peña verificó obras en Luque y destacó la mayor inversión en infraestructura urbana",
-     "url": "https://www.lanacion.com.py/politica/2026/10/24/pena-verifico-obras-en-luque-y-destaco-la-mayor-inversion-en-infraestructura-urbana/",
-     "domain": "lanacion.com.py",
-     "seendate": "20261024T191500Z"
-    },
-    {
-     "title": "Ganaderos sobre la investigación de la Conacom a industrias - ABC Rural",
-     "url": "https://www.abc.com.py/negocios/abc-campo/2026/10/24/appec-espera-que-la-investigacion-de-conacom-aclare-competencia-entre-frigorificos/",
-     "domain": "abc.com.py",
-     "seendate": "20261024T191500Z"
-    },
-    {
-     "title": "El Rally del Chaco 2026 , en marcha con las verificaciones - ABC Motor",
-     "url": "https://www.abc.com.py/deportes/motor/2026/10/24/el-rally-del-chaco-esta-en-marcha-de-las-verificaciones-a-la-partida-simbolica/",
-     "domain": "abc.com.py",
-     "seendate": "20261024T191500Z"
-    },
-    {
-     "title": "La Nación / Rasmussen propone la unidad opositora como prioridad para las elecciones del 2028",
-     "url": "https://www.lanacion.com.py/politica/2026/10/24/rasmussen-propone-la-unidad-opositora-como-prioridad-para-las-elecciones-del-2028/",
-     "domain": "lanacion.com.py",
-     "seendate": "20261024T191500Z"
-    },
-    {
-     "title": "Quiebre del cartismo : senador Barrios afirma que Cartes busca calmar tensiones - Política",
-     "url": "https://www.abc.com.py/politica/2026/10/24/quiebre-del-cartismo-senador-barrios-afirma-que-cartes-busca-calmar-tensiones/",
-     "domain": "abc.com.py",
-     "seendate": "20261024T191500Z"
-    },
-    {
-     "title": "El orden de la largada ceremonial del Rally del Chaco 2026 - ABC Motor",
-     "url": "https://www.abc.com.py/deportes/motor/2026/10/24/el-orden-de-la-largada-ceremonial-del-rally-del-chaco-2026/",
-     "domain": "abc.com.py",
-     "seendate": "20261024T191500Z"
-    },
-    {
-     "title": "Protestas contra el coste de la vida y el Gobierno sacuden varias ciudades de Italia - Mundo",
-     "url": "https://www.abc.com.py/internacionales/2026/10/24/las-protestas-contra-el-coste-de-la-vida-y-el-gobierno-sacuden-varias-ciudades-italianas/",
-     "domain": "abc.com.py",
-     "seendate": "20261024T191500Z"
-    },
-    {
-     "title": "Nihon Matsuri 2026 : agenda y qué dice la organización ante el pronóstico de lluvias - Cultura",
-     "url": "https://www.abc.com.py/espectaculos/cultura/2026/10/24/nihon-matsuri-2026-agenda-y-que-dice-la-organizacion-ante-el-pronostico-de-lluvias/",
-     "domain": "abc.com.py",
-     "seendate": "20261024T191500Z"
-    },
-    {
-     "title": "Senado tratará proyecto de juzgados especializados en violencia contra la mujer : una es asesinada cada 11 días - Política",
-     "url": "https://www.abc.com.py/politica/2026/10/24/senado-tratara-proyecto-de-juzgados-especializados-en-violencia-contra-la-mujer-una-es-asesinada-cada-11-dias/",
-     "domain": "abc.com.py",
-     "seendate": "20261024T171500Z"
-    },
-    {
-     "title": "Ingenieros de la ANDE piden concurso para dar energía a centros de IA y calculan US$ 98 millones más al año - Economía",
-     "url": "https://www.abc.com.py/economia/2026/10/24/ingenieros-de-la-ande-piden-concurso-para-dar-energia-a-centros-de-ia-y-calculan-us-98-millones-mas-al-ano/",
-     "domain": "abc.com.py",
-     "seendate": "20261024T171500Z"
-    },
-    {
-     "title": "Hugo Meza revela que Peña analiza cambios en ministerios y descarta a Riquelme para la chapa - Política",
-     "url": "https://www.abc.com.py/politica/2026/10/24/hugo-meza-revela-que-pena-analiza-cambios-en-ministerios-y-descarta-a-riquelme-para-la-chapa/",
-     "domain": "abc.com.py",
-     "seendate": "20261024T171500Z"
-    },
-    {
-     "title": "Tormentas y granizo en Paraguay : siete departamentos en alerta este sábado - Clima",
-     "url": "https://www.abc.com.py/clima/2026/10/24/tormentas-y-granizo-en-paraguay-siete-departamentos-en-alerta-este-sabado/",
-     "domain": "abc.com.py",
-     "seendate": "20261024T171500Z"
-    },
-    {
-     "title": "Ataque a cajero automático : ¿ vuelve el oxicorte ? - Policiales",
-     "url": "https://www.abc.com.py/policiales/2026/10/24/ataque-a-cajero-automatico-vuelve-el-oxicorte/",
-     "domain": "abc.com.py",
-     "seendate": "20261024T151500Z"
-    },
-    {
-     "title": "Meteorología emite alerta por tormentas severas para el sur de la Región Oriental - Clima",
-     "url": "https://www.abc.com.py/clima/2026/10/24/meteorologia-emite-alerta-por-tormentas-severas-para-el-sur-de-la-region-oriental/",
-     "domain": "abc.com.py",
-     "seendate": "20261024T151500Z"
-    },
-    {
-     "title": "Juez favorece con prisión domiciliaria a narco condenado a 16 años de cárcel - Nacionales",
-     "url": "https://www.abc.com.py/nacionales/2026/10/24/juez-favorece-con-prision-domiciliaria-a-narco-condenado-a-16-anos-de-carcel/",
-     "domain": "abc.com.py",
-     "seendate": "20261024T151500Z"
-    },
-    {
-     "title": "Corte IDH insta al Estado cumplir medidas de reparación en caso Yakye Axa - Política",
-     "url": "https://www.abc.com.py/politica/2026/10/24/corte-idh-insta-al-estado-cumplir-medidas-de-reparacion-en-caso-yakye-axa/",
-     "domain": "abc.com.py",
-     "seendate": "20261024T151500Z"
-    },
-    {
-     "title": "Conviene a Paraguay que gane Lula y será el mejor momento para renegociar Itaipú , afirma experto - Política",
-     "url": "https://www.abc.com.py/politica/2026/10/24/conviene-a-paraguay-que-gane-lula-y-sera-el-mejor-momento-para-renegociar-itaipu-afirma-experto/",
-     "domain": "abc.com.py",
-     "seendate": "20261024T151500Z"
-    },
-    {
-     "title": "Clima en Paraguay : Anuncian frente frío - Clima",
-     "url": "https://www.abc.com.py/clima/2026/10/24/pronostican-ingreso-de-un-frente-frio-a-paraguay-cuando-llegara/",
-     "domain": "abc.com.py",
-     "seendate": "20261024T151500Z"
-    },
-    {
-     "title": "Diario HOY | Taiwán suspende actividades por tifón , paraguayos están a salvo",
-     "url": "https://www.hoy.com.py/nacionales/2026/10/24/taiwan-suspende-actividades-por-tifon-paraguayos-estan-a-salvo",
-     "domain": "hoy.com.py",
-     "seendate": "20261024T151500Z"
-    },
-    {
-     "title": "Subcomité de la ONU contra la tortura visitará penitenciarías de Paraguay - Política",
-     "url": "https://www.abc.com.py/politica/2026/10/24/subcomite-de-la-onu-contra-la-tortura-visitara-penitenciarias-de-paraguay/",
-     "domain": "abc.com.py",
-     "seendate": "20261024T151500Z"
-    },
-    {
-     "title": "El paraguayo Clar desperdicia un penal en la derrota del Atlante - Fútbol Internacional",
-     "url": "https://www.abc.com.py/deportes/futbol/internacional/2026/10/24/el-paraguayo-walter-clar-falla-un-penalti-y-san-luis-derrota-al-atlante-en-el-apertura/",
-     "domain": "abc.com.py",
-     "seendate": "20261024T151500Z"
-    },
-    {
-     "title": "Leah Ashmore , Miss Universo Paraguay 2022 , cuenta los días para tener a su bebé en brazos - Gente",
-     "url": "https://www.abc.com.py/gente/2026/10/24/leah-ashmore-miss-universo-paraguay-2022-cuenta-los-dias-para-tener-a-su-bebe-en-brazos/",
-     "domain": "abc.com.py",
-     "seendate": "20261024T151500Z"
-    },
-    {
-     "title": "Paraguay se une a Pax Silica , la alianza de EEUU para la cadena de suministro de la IA",
-     "url": "https://www.ultimahora.com/paraguay-se-une-a-pax-silica-la-alianza-de-eeuu-para-la-cadena-de-suministro-de-la-ia",
-     "domain": "ultimahora.com",
-     "seendate": "20261024T141500Z"
-    },
-    {
-     "title": "Sábado con lluvias y tormentas en varias zonas de Paraguay , prevé Meteorología",
-     "url": "https://www.ultimahora.com/sabado-con-lluvias-y-tormentas-en-varias-zonas-de-paraguay-preve-meteorologia",
-     "domain": "ultimahora.com",
-     "seendate": "20261024T141500Z"
-    },
-    {
-     "title": "La Nación / Nakayama considera necesario crear un Ministerio de Minas y Energía",
-     "url": "https://www.lanacion.com.py/politica/2026/10/24/nakayama-considera-necesario-crear-un-ministerio-de-minas-y-energia/",
-     "domain": "lanacion.com.py",
-     "seendate": "20261024T141500Z"
-    },
-    {
-     "title": "La Nación / Embajada reporta que paraguayos en Taiwán están a salvo tras el paso del tifón Champi",
-     "url": "https://www.lanacion.com.py/politica/2026/10/24/embajada-reporta-que-paraguayos-en-taiwan-estan-a-salvo-tras-el-paso-del-tifon-champi/",
-     "domain": "lanacion.com.py",
-     "seendate": "20261024T141500Z"
-    },
-    {
-     "title": "Crecida del Paraná obliga a reforzar defensas de la hidroeléctrica Yacyretá",
-     "url": "https://www.adndigital.com.py/crecida-del-parana-obliga-a-reforzar-defensas-de-la-hidroelectrica-yacyreta/",
-     "domain": "adndigital.com.py",
-     "seendate": "20261024T131500Z"
-    },
-    {
-     "title": "Rhinovirus encabeza las internaciones por infecciones respiratorias",
-     "url": "https://www.adndigital.com.py/rhinovirus-encabeza-las-internaciones-por-infecciones-respiratorias/",
-     "domain": "adndigital.com.py",
-     "seendate": "20261024T131500Z"
-    },
-    {
-     "title": "La Nación / El Gobierno entregará títulos de propiedad a familias de Arroyito y de cinco colonias",
-     "url": "https://www.lanacion.com.py/politica/2026/10/24/el-gobierno-entregara-titulos-de-propiedad-a-familias-de-arroyito-y-de-cinco-colonias/",
-     "domain": "lanacion.com.py",
-     "seendate": "20261024T113000Z"
-    },
-    {
-     "title": "La Nación / Inundaciones por El Niño en el noreste de Argentina dejan dos muertos y 2 . 000 evacuados",
-     "url": "https://www.lanacion.com.py/mundo/2026/10/24/inundaciones-por-el-nino-en-el-noreste-de-argentina-dejan-dos-muertos-y-2000-evacuados/",
-     "domain": "lanacion.com.py",
-     "seendate": "20261024T113000Z"
-    },
-    {
-     "title": "La Nación / Buscan expandir economía con explotación de uranio",
-     "url": "https://www.lanacion.com.py/negocios_edicion_impresa/2026/10/24/buscan-expandir-economia-con-explotacion-de-uranio/",
-     "domain": "lanacion.com.py",
-     "seendate": "20261024T113000Z"
-    },
-    {
-     "title": "La Nación / Cuatro paraguayos , en final de Libertadores",
-     "url": "https://www.lanacion.com.py/futboledicion-impresa/2026/10/24/cuatro-paraguayos-en-final-de-libertadores/",
-     "domain": "lanacion.com.py",
-     "seendate": "20261024T113000Z"
-    },
-    {
-     "title": "Este fin de semana , descubrí la artesanía paraguaya en La Recova",
-     "url": "https://foco.lanacion.com.py/2026/10/24/este-fin-de-semana-descubri-la-artesania-paraguaya-en-la-recova/",
-     "domain": "foco.lanacion.com.py",
-     "seendate": "20261024T113000Z"
-    },
-    {
-     "title": "La Nación / Apenas el 8 % de los pobladores rurales accedió a títulos de propiedad en 140 años",
-     "url": "https://www.lanacion.com.py/politica/2026/10/24/apenas-el-8-de-los-pobladores-rurales-accedio-a-titulos-de-propiedad-en-140-anos/",
-     "domain": "lanacion.com.py",
-     "seendate": "20261024T113000Z"
-    },
-    {
-     "title": "La Nación / Inauguran planta metalúrgica de 45 millones de dólares en Limpio",
-     "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/24/inauguran-planta-metalurgica-de-45-millones-de-dolares-en-limpio/",
-     "domain": "lanacion.com.py",
-     "seendate": "20261024T113000Z"
-    },
-    {
-     "title": "La Nación / Terrazas verdes y jardines : la joya oculta de la Embajada Argentina",
-     "url": "https://www.lanacion.com.py/la-nacion-del-finde/2026/10/24/terrazas-verdes-y-jardines-la-joya-oculta-de-la-embajada-argentina/",
-     "domain": "lanacion.com.py",
-     "seendate": "20261024T064500Z"
-    },
-    {
-     "title": "La Nación / Prosigue en el Puerto Oxígeno Feria de Arte",
-     "url": "https://www.lanacion.com.py/la-nacion-del-finde/2026/10/24/prosigue-en-el-puerto-oxigeno-feria-de-arte/",
-     "domain": "lanacion.com.py",
-     "seendate": "20261024T064500Z"
-    },
-    {
-     "title": "La Nación / Harán muestra de Cine Analógico",
-     "url": "https://www.lanacion.com.py/la-nacion-del-finde/2026/10/24/haran-muestra-de-cine-analogico/",
-     "domain": "lanacion.com.py",
-     "seendate": "20261024T064500Z"
-    },
-    {
-     "title": "La Nación / Peña consolida alianza estratégica en tecnología e IA con los EE . UU .",
-     "url": "https://www.lanacion.com.py/politica_edicion_impresa/2026/10/24/pena-consolida-alianza-estrategica-en-tecnologia-e-ia-con-los-ee-uu/",
-     "domain": "lanacion.com.py",
-     "seendate": "20261024T064500Z"
-    },
-    {
-     "title": "Hambre Cero : MEF anuncia transferencias por obligaciones de agosto ante reclamo de proveedores - Economía",
-     "url": "https://www.abc.com.py/economia/2026/10/23/hambre-cero-mef-anuncia-transferencias-por-obligaciones-de-agosto-ante-reclamo-de-proveedores/",
-     "domain": "abc.com.py",
-     "seendate": "20261024T024500Z"
-    },
-    {
-     "title": "Emblemas privados reajustarán el precio del diésel desde el lunes",
-     "url": "https://www.ultimahora.com/emblemas-privados-reajustaran-el-precio-del-diesel-desde-el-lunes",
-     "domain": "ultimahora.com",
-     "seendate": "20261024T011500Z"
-    },
-    {
-     "title": "La Nación / Embajador Alejandro Rubín presentó sus cartas credenciales ante el gobierno de Chipre",
-     "url": "https://www.lanacion.com.py/politica/2026/10/23/embajador-alejandro-rubin-presento-sus-cartas-credenciales-ante-el-gobierno-de-chipre/",
-     "domain": "lanacion.com.py",
-     "seendate": "20261024T000000Z"
-    },
-    {
-     "title": "La Nación / Paraguay busca ganar protagonismo tecnológico tras su ingreso a Pax Silica",
-     "url": "https://www.lanacion.com.py/politica/2026/10/23/paraguay-busca-ganar-protagonismo-tecnologico-tras-su-ingreso-a-pax-silica/",
-     "domain": "lanacion.com.py",
-     "seendate": "20261024T000000Z"
-    },
-    {
-     "title": "La selección paraguaya se estrena mañana en el novedoso Mundial 15 - Selección Paraguaya",
-     "url": "https://www.abc.com.py/deportes/futbol/seleccion-paraguaya/2026/10/23/la-seleccion-paraguaya-se-estrena-manana-en-el-novedoso-mundial-15/",
-     "domain": "abc.com.py",
-     "seendate": "20261023T230000Z"
-    },
-    {
-     "title": "ANDE recibiría unos US$ 10 millones mensuales cuando el Centro de IA esté plenamente operativo , afirman - Economía",
-     "url": "https://www.abc.com.py/economia/2026/10/23/ande-recibiria-unos-us-10-millones-mensuales-cuando-el-centro-de-ia-este-plenamente-operativo-afirman/",
-     "domain": "abc.com.py",
-     "seendate": "20261023T230000Z"
-    },
-    {
-     "title": "¿ Paraguay tiene que comunicarle a Brasil ?: Báez responde a las críticas brasileñas por decisiones sobre Itaipú - Economía",
-     "url": "https://www.abc.com.py/economia/2026/10/23/paraguay-tiene-que-comunicarle-a-brasil-baez-responde-a-las-criticas-brasilenas-por-decisiones-sobre-itaipu/",
-     "domain": "abc.com.py",
-     "seendate": "20261023T230000Z"
-    },
-    {
-     "title": "La IA como motor de destrucción creativa : una reflexión sobre su impacto en el mercado laboral paraguayo - Negocios",
-     "url": "https://www.abc.com.py/negocios/2026/10/23/la-ia-como-motor-de-destruccion-creativa-una-reflexion-sobre-su-impacto-en-el-mercado-laboral-paraguayo/",
-     "domain": "abc.com.py",
-     "seendate": "20261023T230000Z"
-    },
-    {
-     "title": "Circular Tour 2026 : el recorrido de Coca - Cola Paresa que pone en valor a las industrias que dan nueva vida a los residuos - Negocios",
-     "url": "https://www.abc.com.py/negocios/2026/10/23/circular-tour-2026-el-recorrido-de-coca-cola-paresa-que-pone-en-valor-a-las-industrias-que-dan-nueva-vida-a-los-residuos/",
-     "domain": "abc.com.py",
-     "seendate": "20261023T230000Z"
-    },
-    {
-     "title": "Gobierno firma con EE . UU . ceder energía y tierras raras para centros IA - Política",
-     "url": "https://www.abc.com.py/politica/2026/10/23/gobierno-firma-con-eeuu-ceder-energia-y-tierras-raras-para-centros-ia/",
-     "domain": "abc.com.py",
-     "seendate": "20261023T230000Z"
-    },
-    {
-     "title": "Crusoe y Araico preparan un megaproyecto de IA que podría convertirse en la mayor inversión extranjera privada del país",
-     "url": "https://infonegocios.com.py/nota-principal/crusoe-y-araico-preparan-un-megaproyecto-de-ia-que-podria-convertirse-en-la-mayor-inversion-extranjera-privada-del-pais",
-     "domain": "infonegocios.com.py",
-     "seendate": "20261023T230000Z"
-    },
-    {
-     "title": "Nicolás Occhiato habla sobre el fenómeno de Nadie dice nada en Paraguay : Todavía me sorprende - Cine y TV",
-     "url": "https://www.abc.com.py/espectaculos/cine-y-tv/2026/10/23/nicolas-occhiato-habla-sobre-el-fenomeno-de-nadie-dice-nada-en-paraguay-todavia-me-sorprende/",
-     "domain": "abc.com.py",
-     "seendate": "20261023T230000Z"
-    },
-    {
-     "title": "La Nación / Investigador paraguayo impulsa en Madrid cooperación con Taiwán en inteligencia artificial y educación",
-     "url": "https://www.lanacion.com.py/pais/2026/10/23/investigador-paraguayo-impulsa-en-madrid-cooperacion-con-taiwan-en-inteligencia-artificial-y-educacion/",
-     "domain": "lanacion.com.py",
-     "seendate": "20261023T150000Z"
-    },
-    {
-     "title": "La Nación / Puerto Casado suma rayos X digital y Alto Paraguay supera las 7 . 900 atenciones médicas",
-     "url": "https://www.lanacion.com.py/pais/2026/10/23/puerto-casado-suma-rayos-x-digital-y-alto-paraguay-supera-las-7900-atenciones-medicas/",
-     "domain": "lanacion.com.py",
-     "seendate": "20261023T150000Z"
-    },
-    {
-     "title": "La Nación / La obra Heroicos sube a escena en el Teatro Municipal a beneficio de Félix Toranzos",
-     "url": "https://www.lanacion.com.py/espectaculo/2026/10/23/la-obra-heroicos-sube-a-escena-en-el-teatro-municipal-a-beneficio-de-felix-toranzos/",
-     "domain": "lanacion.com.py",
-     "seendate": "20261023T113000Z"
-    },
-    {
-     "title": "Brasil y Paraguay , aliados por ventajas comunes",
-     "url": "https://foco.lanacion.com.py/2026/10/23/brasil-y-paraguay-aliados-por-ventajas-comunes/",
-     "domain": "foco.lanacion.com.py",
-     "seendate": "20261023T113000Z"
+     "title": "Educación sexual: MEC insiste en cuestionados libros mientras asfixia a escuelas con “tijerazos” en Gratuidad",
+     "url": "https://www.abc.com.py/nacionales/2026/10/25/educacion-sexual-mec-insiste-en-cuestionados-libros-mientras-asfixia-a-escuelas-con-tijerazos-en-gratuidad/",
+     "domain": "ABC Color",
+     "seendate": "20261025T120000Z"
     }
    ]
   },
@@ -3519,6 +3177,18 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "História de vida Lula vai pesar na hora do voto, diz Fernando Haddad",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/historia-de-vida-lula-vai-pesar-na-hora-do-voto-diz-fernando-haddad.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T121900Z"
+    },
+    {
+     "title": "Boca de urna no exterior? Vídeos mostram manifestações de apoiadores de Lula em Londres e Lisboa",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/boca-de-urna-no-exterior-videos-mostram-manifestacoes-de-apoiadores-de-lula-em-londres-e-lisboa.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T120708Z"
+    },
     {
      "title": "Eleições no exterior: veja resultado de Lula x Flávio Bolsonaro em cada país",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/eleicoes-no-exterior-veja-resultado-de-lula-x-flavio-bolsonaro-em-cada-pais.ghtml",
@@ -3544,7 +3214,7 @@
      "seendate": "20261025T111605Z"
     },
     {
-     "title": "Eleições 2026 no exterior: brasileiros formam filas em Paris, Lisboa e Londres; veja onde Lula e Flávio já venceram na Ásia",
+     "title": "Eleições 2026 no exterior têm filas em Paris, Lisboa e Londres; veja onde Lula e Flávio já venceram",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/eleicoes-2026-no-exterior-brasileiros-formam-filas-em-paris-lisboa-e-londres-veja-onde-lula-e-flavio-ja-venceram-na-asia.ghtml",
      "domain": "O Globo",
      "seendate": "20261025T102727Z"
@@ -3650,12 +3320,6 @@
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/eleicoes-2026-votacao-e-encerrada-na-australia.ghtml",
      "domain": "O Globo",
      "seendate": "20261025T070117Z"
-    },
-    {
-     "title": "Um herdeiro de clã em constante provação: Flávio Bolsonaro supera desconfiança sob o desafio de aplacar divisões",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/especial/um-herdeiro-de-cla-em-constante-provacao-flavio-bolsonaro-supera-desconfianca-sob-o-desafio-de-aplacar-divisoes.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T063001Z"
     }
    ]
   }
