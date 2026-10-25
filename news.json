@@ -1,8 +1,14 @@
 {
- "updated": "2026-10-25T16:31:52+00:00",
+ "updated": "2026-10-25T17:04:51+00:00",
  "countries": {
   "ESP": {
    "articles": [
+    {
+     "title": "El delegado del Gobierno en Madrid dimite tras quedarse fuera de las listas del PSOE para el 29-N",
+     "url": "https://elpais.com/espana/madrid/2026-10-25/el-delegado-del-gobierno-en-madrid-dimite-tras-quedarse-fuera-de-las-listas-del-psoe-del-29-n.html",
+     "domain": "El País",
+     "seendate": "20261025T163042Z"
+    },
     {
      "title": "Feijóo señala a Sánchez por los disturbios en Barcelona: “Está jugando con fuego”",
      "url": "https://elpais.com/espana/elecciones-generales/2026-10-25/feijoo-senala-a-sanchez-por-los-disturbios-en-barcelona-esta-jugando-con-fuego.html",
@@ -58,20 +64,8 @@
      "seendate": "20261025T043001Z"
     },
     {
-     "title": "No está tan enfadado Milei para insultar tanto. Vosotros tampoco",
-     "url": "https://elpais.com/espana/2026-10-25/no-esta-tan-enfadado-milei-para-insultar-tanto-vosotros-tampoco.html",
-     "domain": "El País",
-     "seendate": "20261025T043001Z"
-    },
-    {
      "title": "El 29-N desata la “hiperactividad” en el avispero de grupos en torno al PP y Vox",
      "url": "https://elpais.com/espana/elecciones-generales/2026-10-25/el-29-n-desata-la-hiperactividad-en-el-avispero-de-grupos-en-torno-al-pp-y-vox.html",
-     "domain": "El País",
-     "seendate": "20261025T043001Z"
-    },
-    {
-     "title": "El Supremo y el Constitucional, cuatro décadas de relación jurídica tormentosa",
-     "url": "https://elpais.com/espana/2026-10-25/viaje-a-la-relacion-tormentosa-entre-el-interprete-de-la-ley-y-el-guardian-de-la-constitucion.html",
      "domain": "El País",
      "seendate": "20261025T043001Z"
     },
@@ -100,14 +94,14 @@
      "seendate": "20261025T043001Z"
     },
     {
-     "title": "El Ayuntamiento planea pasar los gastos de limpieza y desperfectos a los acampados de Sol: “Que no cueste un euro a los madrileños”",
-     "url": "https://elpais.com/espana/madrid/2026-10-24/el-ayuntamiento-planea-pasar-los-gastos-de-limpieza-y-desperfectos-a-los-acampados-de-sol-que-no-cueste-un-euro-a-los-madrilenos.html",
+     "title": "El Supremo y el Constitucional, cuatro décadas de relación jurídica tormentosa",
+     "url": "https://elpais.com/espana/2026-10-25/viaje-a-la-relacion-tormentosa-entre-el-interprete-de-la-ley-y-el-guardian-de-la-constitucion.html",
      "domain": "El País",
-     "seendate": "20261024T033001Z"
+     "seendate": "20261025T043001Z"
     },
     {
-     "title": "Francina Armengol, presidenta del Congreso: “No hay una polarización, hay un clima de agresividad buscado”",
-     "url": "https://elpais.com/espana/2026-10-24/francina-armengol-presidenta-del-congreso-no-hay-una-polarizacion-hay-un-clima-de-agresividad-buscado.html",
+     "title": "El Ayuntamiento planea pasar los gastos de limpieza y desperfectos a los acampados de Sol: “Que no cueste un euro a los madrileños”",
+     "url": "https://elpais.com/espana/madrid/2026-10-24/el-ayuntamiento-planea-pasar-los-gastos-de-limpieza-y-desperfectos-a-los-acampados-de-sol-que-no-cueste-un-euro-a-los-madrilenos.html",
      "domain": "El País",
      "seendate": "20261024T033001Z"
     },
@@ -145,6 +139,30 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "La SIP alerta por asesinatos de periodistas y presiones contra la prensa en México; reclama investigaciones exhaustivas",
+     "url": "https://www.eluniversal.com.mx/nacion/la-sip-alerta-por-asesinatos-de-periodistas-y-presiones-contra-la-prensa-en-mexico-reclama-investigaciones-exhaustivas/",
+     "domain": "El Universal",
+     "seendate": "20261025T165237Z"
+    },
+    {
+     "title": "Cozumel tendrá su primer vuelo directo desde Europa; ruta Milán-Cozumel iniciará el 24 de diciembre",
+     "url": "https://www.eluniversal.com.mx/estados/cozumel-tendra-su-primer-vuelo-directo-desde-europa-ruta-milan-cozumel-iniciara-el-24-de-diciembre/",
+     "domain": "El Universal",
+     "seendate": "20261025T164030Z"
+    },
+    {
+     "title": "Senadora Alejandra Barrales propone incorporar en la ley concepto de \"embarazo infantil forzado\"; va por protocolos de protección",
+     "url": "https://www.eluniversal.com.mx/nacion/mc-propone-incorporar-en-la-ley-concepto-de-embarazo-infantil-forzado/",
+     "domain": "El Universal",
+     "seendate": "20261025T163241Z"
+    },
+    {
+     "title": "Metrobús CDMX reporta seis incidentes en una semana; 37 lesionados y una persona fallecida",
+     "url": "https://www.eluniversal.com.mx/metropoli/metrobus-cdmx-reporta-seis-incidentes-en-una-semana-37-lesionados-y-una-persona-fallecida/",
+     "domain": "El Universal",
+     "seendate": "20261025T162856Z"
+    },
     {
      "title": "Huracán Vance provocará lluvias muy fuertes en cuatro estados; alertan por oleaje de hasta 5 metros",
      "url": "https://www.eluniversal.com.mx/estados/huracan-vance-provocara-lluvias-muy-fuertes-en-cuatro-estados-alertan-por-oleaje-de-hasta-5-metros/",
@@ -1066,6 +1084,18 @@
   "CRI": {
    "articles": [
     {
+     "title": "Juez impone medidas cautelares a cabecilla de los ‘Family Laden’ y 6 miembros de organización de cobros extorsivos por gota a gota",
+     "url": "https://www.nacion.com/sucesos/juez-impone-medidas-cautelares-a-cabecilla-de-los/KROGRNP2IVGA5OSJZHN5EYU7GI/story/",
+     "domain": "La Nación",
+     "seendate": "20261025T164327Z"
+    },
+    {
+     "title": "Rehabilitación de puente sobre río Grande de Térraba alcanza 70% de avance en Palmar Norte",
+     "url": "https://www.nacion.com/el-pais/rehabilitacion-de-puente-sobre-rio-grande-de/TQJGQVFM3NGF7OKOGHYY7TKRG4/story/",
+     "domain": "La Nación",
+     "seendate": "20261025T163205Z"
+    },
+    {
      "title": "Motociclista muere tras ser atacado a balazos en Puntarenas",
      "url": "https://www.nacion.com/sucesos/motociclista-muere-tras-ser-atacado-a-balazos-en/2P5RMF47PZHYJPVXTYA4PNC7BA/story/",
      "domain": "La Nación",
@@ -1441,16 +1471,16 @@
   "COL": {
    "articles": [
     {
+     "title": "Estados Unidos condenó a prisión a peruano-estadounidense por explotación sexual de menor: lo habían hallado con 16 adolescentes en Antioquia",
+     "url": "https://www.eltiempo.com/colombia/medellin/estados-unidos-condeno-a-prision-a-peruano-estadounidense-por-explotacion-sexual-de-menor-lo-habian-hallado-con-16-adolescentes-en-antioquia-3596153",
+     "domain": "El Tiempo",
+     "seendate": "20261025T164057Z"
+    },
+    {
      "title": "Barranquilla prohíbe caravanas y saca las motos del Gran Malecón durante dos fines de semana, incluido el de Halloween",
      "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-prohibe-caravanas-y-saca-las-motos-del-gran-malecon-durante-dos-fines-de-semana-incluido-el-de-halloween-3596158",
      "domain": "El Tiempo",
      "seendate": "20261025T155531Z"
-    },
-    {
-     "title": "Estados Unidos condenó a prisión a peruano-estadounidense por explotación sexual de menor: lo habían hallado con 16 adolescentes en Antioquia",
-     "url": "https://www.eltiempo.com/colombia/medellin/estados-unidos-condeno-a-prision-a-peruano-estadounidense-por-explotacion-sexual-de-menor-lo-habian-hallado-con-16-adolescentes-en-antioquia-3596153",
-     "domain": "El Tiempo",
-     "seendate": "20261025T155119Z"
     },
     {
      "title": "Cartagena atiende emergencia por lluvias: intervienen canales con maquinaria pesada y realizan censo de familias afectadas",
@@ -1803,7 +1833,13 @@
   "ECU": {
    "articles": [
     {
-     "title": "Caso VaQunas: Juan Esteban Guarderas confirma que sigue recibiendo denuncias y anticipa que acudirá al TCE",
+     "title": "Lluvias y crecidas de ríos mantienen en alerta a poblaciones y vías de Santo Domingo de los Tsáchilas",
+     "url": "https://eluniverso.com/comunidad/ecuador/lluvias-y-crecidas-de-rios-mantienen-en-alerta-a-poblaciones-y-vias-de-santo-domingo-de-los-tsachilas-nota/",
+     "domain": "El Universo",
+     "seendate": "20261025T163208Z"
+    },
+    {
+     "title": "Caso VaQnas: Juan Esteban Guarderas confirma que sigue recibiendo denuncias y anticipa que acudirá al TCE",
      "url": "https://eluniverso.com/politica/elecciones/caso-vacunas-juan-esteban-guarderas-confirma-sigue-recibiendo-denuncias-anticipa-acudira-tce-nota/",
      "domain": "El Universo",
      "seendate": "20261025T161606Z"
@@ -1927,28 +1963,16 @@
      "url": "https://eluniverso.com/politica/seguridad/operativos-de-fuerzas-armadas-dejan-detenidos-guayaquil-y-esmeraldas-nota/",
      "domain": "El Universo",
      "seendate": "20261024T191351Z"
-    },
-    {
-     "title": "Familia de los siameses José Luis y José Armando Cevallos pide intimidad para velorio y sepelio en Milagro",
-     "url": "https://eluniverso.com/comunidad/ecuador/familia-de-los-siameses-jose-luis-y-jose-armando-pide-intimidad-para-velorio-y-sepelio-en-milagro-nota/",
-     "domain": "El Universo",
-     "seendate": "20261024T184404Z"
-    },
-    {
-     "title": "Equipo del Centro de Adolescentes Infractores logra el tercer lugar en el Campeonato Intercontinental de Ajedrez",
-     "url": "https://eluniverso.com/comunidad/ecuador/ecuador-logra-tercer-lugar-en-torneo-intercontinental-de-ajedrez-2026-nota/",
-     "domain": "El Universo",
-     "seendate": "20261024T182317Z"
     }
    ]
   },
   "PER": {
    "articles": [
     {
-     "title": "Casi 1,5 millones de hogares aún cocinan solo con combustibles sólidos como la leña o el carbón, ¿dónde se concentra la brecha?",
-     "url": "https://elcomercio.pe/economia/peru/casi-15-millones-de-hogares-aun-cocinan-solo-con-combustibles-solidos-como-la-lena-o-el-carbon-donde-se-concentra-la-brecha-ipe-noticia/",
+     "title": "Lluvias en Perú EN VIVO: últimas noticias sobre precipitaciones por El Niño extraordinario",
+     "url": "https://elcomercio.pe/peru/lluvias-en-peru-en-vivo-ultimas-noticias-de-las-precipitaciones-en-piura-tumbes-y-trujillo-estado-de-emergencia-en-el-norte-senamhi-indeci-lloviznas-fenomeno-el-nino-lbposting-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261025T141349Z"
+     "seendate": "20261025T164459Z"
     }
    ]
   },
@@ -2747,12 +2771,6 @@
      "url": "https://www.lanacion.com.ar/economia/campo/opinion-no-a-todo-el-campo-le-va-bien-nid25102026/",
      "domain": "La Nación",
      "seendate": "20261025T093000Z"
-    },
-    {
-     "title": "Se aproxima un nuevo frente que provocará altibajos en la temperatura, nubosidad variable y lloviznas en medio del avance del Súper Niño: las zonas afectadas",
-     "url": "https://www.lanacion.com.ar/sociedad/se-aproxima-un-nuevo-frente-que-provocara-altibajos-en-la-temperatura-nubosidad-variable-y-lloviznas-nid25102026/",
-     "domain": "La Nación",
-     "seendate": "20261025T080000Z"
     }
    ]
   },
@@ -3123,6 +3141,12 @@
   "PRY": {
    "articles": [
     {
+     "title": "Pórtico de identidad: la obra turística en la Laguna Punta Porã de Pedro Juan Caballero",
+     "url": "https://www.abc.com.py/nacionales/2026/10/25/portico-de-identidad-la-obra-turistica-en-la-laguna-punta-pora-de-pedro-juan-caballero/",
+     "domain": "ABC Color",
+     "seendate": "20261025T164132Z"
+    },
+    {
      "title": "Aneaes detectó 100.000 títulos de carreras no acreditadas y remitirá informe a la Fiscalía",
      "url": "https://www.abc.com.py/nacionales/2026/10/25/aneaes-detecto-100000-titulos-de-carreras-no-acreditadas-y-remitira-informe-a-la-fiscalia/",
      "domain": "ABC Color",
@@ -3159,6 +3183,42 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "Como votar nas Eleições 2026 no 2º turno: veja ordem de votação",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/como-votar-nas-eleicoes-2026-no-2o-turno-veja-ordem-de-votacao.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T164812Z"
+    },
+    {
+     "title": "Sistema eleitoral brasileiro ‘é muito sólido e muito claro', diz observador da OEA após acompanhar votação",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/sistema-eleitoral-brasileiro-e-muito-solido-e-muito-claro-diz-observador-da-oea-apos-acompanhar-votacao.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T164356Z"
+    },
+    {
+     "title": "Até que horas pode votar nas Eleições 2026? Veja horário de encerramento da votação",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/ate-que-horas-pode-votar-nas-eleicoes-2026-veja-horario-de-encerramento-da-votacao.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T164222Z"
+    },
+    {
+     "title": "'Estamos confiantes', diz Alckmin ao votar em São Paulo",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/estamos-confiantes-diz-alckmin-ao-votar-em-sao-paulo.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T163334Z"
+    },
+    {
+     "title": "Eleições 2026: Flávio diz que chegou a 'hora da mudança'; Lula fala que povo é 'exército da democracia'; acompanhe",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/ao-vivo/eleicoes-2026-acompanhe-ao-vivo-o-segundo-turno-ao-vivo-no-brasil.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T163034Z"
+    },
+    {
+     "title": "TRE da Bahia manda prender secretário de mobilidade de Salvador",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/tre-da-bahia-manda-prender-secretario-de-mobilidade-de-salvador.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T163006Z"
+    },
     {
      "title": "TSE registra 2,6 milhões de justificativas de ausência pelo e-título até o meio-dia",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/guia/tse-registra-23-milhoes-de-justificativas-de-ausencia-pelo-e-titulo-ate-o-meio-dia.ghtml",
@@ -3220,13 +3280,7 @@
      "seendate": "20261025T154511Z"
     },
     {
-     "title": "Eleições 2026: Flávio diz que chegou a 'hora da mudança'; Lula fala que povo é 'exército da democracia'; acompanhe",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/ao-vivo/eleicoes-2026-acompanhe-ao-vivo-o-segundo-turno-ao-vivo-no-brasil.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T154332Z"
-    },
-    {
-     "title": "PT aciona TRE por falta de ônibus em SP após Justiça determinar frota total",
+     "title": "PT cita falta de ônibus em SP e pede apuração ao TRE após Justiça determinar frota total",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/apos-reclamacao-do-psol-justica-determina-que-prefeitura-de-sp-opere-100percent-da-frota-de-onibus-no-domingo-de-eleicao.ghtml",
      "domain": "O Globo",
      "seendate": "20261025T153445Z"
@@ -3434,30 +3488,6 @@
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/vereadora-e-agredida-durante-ato-em-minas-gerais-e-recebe-atendimento-medico.ghtml",
      "domain": "O Globo",
      "seendate": "20261025T094300Z"
-    },
-    {
-     "title": "Quem não votou no primeiro turno pode votar no segundo?",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/guia/quem-nao-votou-no-primeiro-turno-pode-votar-no-segundo.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T091100Z"
-    },
-    {
-     "title": "Quem tem prioridade na fila de votação no segundo turno?",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/guia/quem-tem-prioridade-na-fila-de-votacao-no-segundo-turno-1.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T090700Z"
-    },
-    {
-     "title": "Entrar com celular está proibido na cabine de votação; eleitor pode levar cola de papel",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/guia/entrar-com-celular-esta-proibido-na-cabine-de-votacao-eleitor-pode-levar-cola-de-papel-1.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T090400Z"
-    },
-    {
-     "title": "Horário da votação: que horas pode votar e que horas termina o segundo turno?",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/guia/horario-da-eleicao-que-horas-comeca-e-termina-a-votacao-do-segundo-turno-1.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T090300Z"
     }
    ]
   }
