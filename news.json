@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T01:14:53+00:00",
+ "updated": "2026-10-25T02:04:58+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -7,7 +7,7 @@
      "title": "El Rey, operado en Oviedo por una catarata en el ojo izquierdo",
      "url": "https://elpais.com/espana/2026-10-24/felipe-vi-operado-de-cataratas-del-ojo-izquierdo-en-oviedo.html",
      "domain": "El País",
-     "seendate": "20261025T011046Z"
+     "seendate": "20261025T020047Z"
     },
     {
      "title": "Cien detenidos por los disturbios en el centro de Barcelona",
@@ -115,6 +115,30 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Mujer estadounidense es auxiliada por elementos de la Policía Turística; pide volver a su país",
+     "url": "https://www.eluniversal.com.mx/metropoli/mujer-estadounidense-es-auxiliada-por-elementos-de-la-policia-turistica-pide-volver-a-su-pais/",
+     "domain": "El Universal",
+     "seendate": "20261025T015153Z"
+    },
+    {
+     "title": "Tromba marina se forma frente a Puerto Libertad, Sonora; condiciones fueron favorecidas por Frente Frío número 3",
+     "url": "https://www.eluniversal.com.mx/estados/tromba-marina-se-forma-frente-a-puerto-libertad-sonora-condiciones-fueron-favorecidas-por-frente-frio-numero-3/",
+     "domain": "El Universal",
+     "seendate": "20261025T015003Z"
+    },
+    {
+     "title": "Abaten en Sonora a \"El Meny Carranza\", ofrecían un millón de pesos por su cabeza; detienen a cuatro más",
+     "url": "https://www.eluniversal.com.mx/nacion/abaten-en-sonora-a-el-meny-carranza-ofrecian-un-millon-de-pesos-por-su-cabeza-detienen-a-cuatro-mas/",
+     "domain": "El Universal",
+     "seendate": "20261025T012244Z"
+    },
+    {
+     "title": "Caen presuntos feminicidas de mujer y su nieta en Chiapas; gobernador asegura que no habrá impunidad",
+     "url": "https://www.eluniversal.com.mx/estados/caen-presuntos-feminicidas-de-mujer-y-su-nieta-en-chiapas-gobernador-asegura-que-no-habra-impunidad/",
+     "domain": "El Universal",
+     "seendate": "20261025T011014Z"
+    },
     {
      "title": "Línea 2 del Metro suspende servicio durante 17 minutos; hombre salta reja e ingresa a la zona de vías en Calzada de Tlalpan",
      "url": "https://www.eluniversal.com.mx/metropoli/linea-2-del-metro-suspende-servicio-durante-17-minutos-hombre-salta-reja-e-ingresa-a-la-zona-de-vias-en-calzada-de-tlalpan/",
@@ -350,22 +374,10 @@
      "seendate": "20261024T180956Z"
     },
     {
-     "title": "Alistan operativo \"Día de Muertos\" en panteones de Sinaloa; plan contempla estrategias de vigilancia, prevención y seguridad",
-     "url": "https://www.eluniversal.com.mx/estados/alistan-operativo-dia-de-muertos-en-panteones-de-sinaloa-plan-contempla-estrategias-de-vigilancia-prevencion-y-seguridad/",
-     "domain": "El Universal",
-     "seendate": "20261024T173905Z"
-    },
-    {
      "title": "Desfile de la \"Feria de Ferias\" llena de color y tradición el Centro Histórico de Tlaxcala; participan 90 contingentes",
      "url": "https://www.eluniversal.com.mx/estados/desfile-de-la-feria-de-ferias-llena-de-color-y-tradicion-el-centro-historico-de-tlaxcala-participan-90-contingentes/",
      "domain": "El Universal",
      "seendate": "20261024T165044Z"
-    },
-    {
-     "title": "\"Ya, ya, ya, después platicamos de eso\"; Sheinbaum evita dar declaraciones sobre investigación contra el INE",
-     "url": "https://www.eluniversal.com.mx/nacion/ya-ya-ya-despues-platicamos-de-eso-sheinbaum-evita-dar-declaraciones-sobre-investigacion-contra-el-ine/",
-     "domain": "El Universal",
-     "seendate": "20261024T164054Z"
     },
     {
      "title": "Sismo del 19S derribó su casa y ellos sembraron un campo de cempasúchil; productores llaman a consumir flores mexicanas",
@@ -1376,12 +1388,6 @@
      "url": "https://www.nacion.com/politica/asamblea-legislativa-inicio-entrevistas-para/ZDTIFOWS6NCMVOZD3IYES42KTQ/story/",
      "domain": "La Nación",
      "seendate": "20261023T213553Z"
-    },
-    {
-     "title": "PPSO anuncia dudas de última hora que frenan cambios al reglamento contra la violencia hacia mujeres en política: denuncias acumulan ocho semanas frenadas",
-     "url": "https://www.nacion.com/politica/ppso-anuncia-dudas-de-ultima-hora-que-frenan/JYJEZG74IFGXJPRHH3VYNWYSSE/story/",
-     "domain": "La Nación",
-     "seendate": "20261023T211610Z"
     }
    ]
   },
@@ -1645,6 +1651,24 @@
   "COL": {
    "articles": [
     {
+     "title": "Inédito: falso accidente terminó en el robo de $260 millones en lingotes de plata en Girón, Santander",
+     "url": "https://www.eltiempo.com/colombia/santander/inedito-falso-reten-policial-termino-en-robo-de-260-millones-en-lingotes-de-plata-en-giron-3596056",
+     "domain": "El Tiempo",
+     "seendate": "20261025T013845Z"
+    },
+    {
+     "title": "Entre el calor y el recibo de la luz: el dilema de las familias del Caribe que temen pagar más por consumir energía",
+     "url": "https://www.eltiempo.com/colombia/barranquilla/entre-el-calor-y-el-recibo-de-la-luz-el-dilema-de-las-familias-del-caribe-que-temen-pagar-mas-por-consumir-energia-3596088",
+     "domain": "El Tiempo",
+     "seendate": "20261025T013500Z"
+    },
+    {
+     "title": "Meses de conflicto entre vecinos terminaron con la muerte de un hombre en Barranquilla: recibió un golpe en la cabeza",
+     "url": "https://www.eltiempo.com/colombia/barranquilla/meses-de-conflicto-entre-vecinos-terminaron-con-la-muerte-de-un-hombre-en-barranquilla-recibio-un-golpe-en-la-cabeza-3596100",
+     "domain": "El Tiempo",
+     "seendate": "20261025T010844Z"
+    },
+    {
      "title": "Emergencias por lluvias en el Caribe: primeros balances de inundaciones y desbordamientos en varias ciudades; se esperan más precipitaciones",
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/alcaldia-de-santa-marta-declara-alerta-roja-por-inundaciones-y-riesgo-de-crecientes-subitas-en-dos-rios-estas-son-las-recomendaciones-del-ideam-3596073",
      "domain": "El Tiempo",
@@ -1675,12 +1699,6 @@
      "seendate": "20261024T214946Z"
     },
     {
-     "title": "Inédito: falso retén policial terminó en el robo de $260 millones en lingotes de plata en Girón, Santander",
-     "url": "https://www.eltiempo.com/colombia/santander/inedito-falso-reten-policial-termino-en-robo-de-260-millones-en-lingotes-de-plata-en-giron-3596056",
-     "domain": "El Tiempo",
-     "seendate": "20261024T203509Z"
-    },
-    {
      "title": "Lluvias en Cartagena provocan inundaciones y afectan el servicio de agua al 15 % de los usuarios por daños eléctricos en el sistema de acueducto",
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/lluvias-en-cartagena-provocan-inundaciones-y-afectan-el-servicio-de-agua-al-15-de-los-usuarios-por-danos-electricos-en-el-sistema-de-acueducto-3596067",
      "domain": "El Tiempo",
@@ -1691,18 +1709,6 @@
      "url": "https://www.eltiempo.com/colombia/medellin/un-bus-con-mas-de-40-pasajeros-hacia-una-peregrinacion-la-mayoria-adultos-mayores-se-volco-en-medellin-16-personas-quedaron-heridas-3596050",
      "domain": "El Tiempo",
      "seendate": "20261024T190817Z"
-    },
-    {
-     "title": "Video | Rescatan a conductor en Cartagena quien fue arrastrado por la corriente en el barrio San Fernando tras fuertes lluvias",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/video-rescatan-a-conductor-en-cartagena-quien-fue-arrastrado-por-la-corriente-en-el-barrio-san-fernando-tras-fuertes-lluvias-3596048",
-     "domain": "El Tiempo",
-     "seendate": "20261024T182432Z"
-    },
-    {
-     "title": "Lluvias inundan calles de Cartagena y Montería: reportan vehículos atrapados y aplazan inauguración del Gran Malecón del Mar prevista para este sábado",
-     "url": "https://www.eltiempo.com/colombia/barranquilla/lluvias-inundan-calles-de-cartagena-y-monteria-reportan-vehiculos-atrapados-y-aplazan-inauguracion-del-gran-malecon-del-mar-prevista-para-este-sabado-3596046",
-     "domain": "El Tiempo",
-     "seendate": "20261024T182040Z"
     }
    ]
   },
@@ -1953,6 +1959,12 @@
   "ECU": {
    "articles": [
     {
+     "title": "Inamhi prevé radiación ultravioleta de hasta 10 en Ecuador: estas son las provincias con mayor índice",
+     "url": "https://eluniverso.com/comunidad/ecuador/radiacion-uv-en-ecuador-pronostico-del-inamhi-para-el-25-de-octubre-nota/",
+     "domain": "El Universo",
+     "seendate": "20261025T013406Z"
+    },
+    {
      "title": "Policía Nacional aprehende a cuatro personas en Esmeraldas por doble asesinato",
      "url": "https://eluniverso.com/politica/seguridad/policia-nacional-aprehende-cuatro-personas-esmeraldas-doble-asesinato-nota/",
      "domain": "El Universo",
@@ -2088,6 +2100,12 @@
   },
   "PER": {
    "articles": [
+    {
+     "title": "Sociedad Nacional de Industrias “Las ventas en el sector textil caerían un 50% en Navidad, estaremos ad portas o ya con un diluvio en el país”",
+     "url": "https://elcomercio.pe/economia/peru/sociedad-nacional-de-industrias-las-ventas-en-el-sector-textil-caerian-un-50-en-navidad-estaremos-ad-portas-o-ya-con-un-diluvio-en-el-pais-apuesplan-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261025T012016Z"
+    },
     {
      "title": "Lluvias en Perú EN VIVO hoy: Senamhi advierte precipitaciones extremas por El Niño extraordinario",
      "url": "https://elcomercio.pe/peru/lluvias-en-peru-en-vivo-ultimas-noticias-de-las-precipitaciones-en-piura-tumbes-y-trujillo-estado-de-emergencia-en-el-norte-senamhi-indeci-lloviznas-fenomeno-el-nino-lbposting-noticia/",
@@ -2815,10 +2833,28 @@
   "ARG": {
    "articles": [
     {
+     "title": "El momento bisagra para Milei",
+     "url": "https://www.lanacion.com.ar/politica/el-momento-bisagra-para-milei-nid24102026/",
+     "domain": "La Nación",
+     "seendate": "20261025T015000Z"
+    },
+    {
+     "title": "IDEA llamó a un debate “sin agravios” tras los ataques de Milei a LA NACION",
+     "url": "https://www.lanacion.com.ar/politica/idea-llamo-a-un-debate-sin-agravios-tras-los-ataques-de-milei-a-la-nacion-nid24102026/",
+     "domain": "La Nación",
+     "seendate": "20261025T014626Z"
+    },
+    {
+     "title": "Caso $LIBRA. Jueces, fiscales y vínculos con el poder: el derrotero de una causa destinada al archivo",
+     "url": "https://www.lanacion.com.ar/politica/caso-libra-jueces-fiscales-y-vinculos-con-el-poder-el-derrotero-de-una-causa-destinada-al-archivo-nid24102026/",
+     "domain": "La Nación",
+     "seendate": "20261025T013318Z"
+    },
+    {
      "title": "Tras los reclamos de Estados Unidos, el Gobierno diluye el proyecto de Malvinas y le suma más cambios",
      "url": "https://www.lanacion.com.ar/politica/tras-los-reclamos-de-estados-unidos-el-gobierno-diluye-el-proyecto-de-malvinas-y-le-suma-mas-cambios-nid24102026/",
      "domain": "La Nación",
-     "seendate": "20261025T010835Z"
+     "seendate": "20261025T011947Z"
     },
     {
      "title": "Qué le hace la papa al cuerpo y por qué se puede comer todos los días sin culpa, según una nutricionista",
@@ -2939,18 +2975,6 @@
      "url": "https://www.lanacion.com.ar/seguridad/los-reiterados-ataques-de-quemacoches-preocupan-a-los-vecinos-de-un-barrio-del-conurbano-nid24102026/",
      "domain": "La Nación",
      "seendate": "20261024T200611Z"
-    },
-    {
-     "title": "De las grandes estancias a los puestos patagónicos: la fábrica de 128 años que mantiene vivo el fuego de la cocina a leña",
-     "url": "https://www.lanacion.com.ar/economia/campo/de-las-grandes-estancias-a-los-puestos-patagonicos-la-fabrica-de-128-anos-que-mantiene-vivo-el-fuego-nid24102026/",
-     "domain": "La Nación",
-     "seendate": "20261024T183435Z"
-    },
-    {
-     "title": "Introducido por un escocés y discutido en sus comienzos, el alambrado marcó un antes y un después en el campo argentino",
-     "url": "https://www.lanacion.com.ar/economia/campo/introducido-por-un-escoces-y-discutido-en-sus-comienzos-el-alambrado-marco-un-antes-y-un-despues-en-nid24102026/",
-     "domain": "La Nación",
-     "seendate": "20261024T183411Z"
     }
    ]
   },
@@ -3346,16 +3370,190 @@
   "BRA": {
    "articles": [
     {
-     "title": "TSE presenteia estudante de MG com broche da urna após carta",
-     "url": "https://www.otempo.com.br/eleicoes/2026/2026/10/22/estudante-escreve-carta-pede-broche-de-urna-eletronica-e-e-presentado-pelo-tse",
-     "domain": "otempo.com.br",
-     "seendate": "20261023T011500Z"
+     "title": "Lula discursa para apoiadores da janela de sua casa, em SP, e diz que 'vitória é do povo brasileiro'; veja vídeo",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/lula-discursa-para-apoiadores-da-janela-de-sua-casa-em-sp-e-diz-que-vitoria-e-do-povo-brasileiro-veja-video.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T005602Z"
     },
     {
-     "title": "TSE vai presentear estudante que pediu broche utilizado por Kassio Nunes",
-     "url": "https://www.correiobraziliense.com.br/brasil/2026/10/7524629-tse-vai-presentear-estudante-que-pediu-broche-utilizado-por-kassio-nunes.html",
-     "domain": "correiobraziliense.com.br",
-     "seendate": "20261021T023000Z"
+     "title": "Presidente do TSE alerta para desinformação e pede que eleitores desconfiem de ataques a candidatos e à Justiça Eleitoral",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/presidente-do-tse-alerta-para-desinformacao-e-pede-que-eleitores-desconfiem-de-ataques-a-candidatos-e-a-justica-eleitoral.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T235000Z"
+    },
+    {
+     "title": "Número de seções eleitorais alteradas sobe para 394 na véspera do segundo turno e atinge 123 mil eleitores",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/numero-de-secoes-eleitorais-alteradas-sobe-para-394-na-vespera-do-segundo-turno-e-atinge-123-mil-eleitores.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T233941Z"
+    },
+    {
+     "title": "Flávio faz live com Gusttavo Lima na véspera da votação, reza Pai Nosso e diz que pessoas devem depender menos do Estado",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/flavio-faz-live-com-gusttavo-lima-na-vespera-da-votacao-reza-pai-nosso-e-diz-que-pessoas-devem-depender-menos-do-estado.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T233840Z"
+    },
+    {
+     "title": "Nunes Marques recua de decisão que restringia transporte de indígenas no segundo turno",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/24/nunes-marques-recua-de-decisao-que-restringia-transporte-de-indigenas-no-segundo-turno.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T232955Z"
+    },
+    {
+     "title": "Quaest e Datafolha: 'Muito ruim' para Lula, apesar de empate técnico; colunistas do GLOBO analisam pesquisas",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/quaest-e-datafolha-muito-ruim-para-lula-apesar-de-empate-tecnico-colunistas-do-globo-analisam-pesquisas.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T231417Z"
+    },
+    {
+     "title": "Campanha de Flávio vê favoritismo de candidato após Quaest e Datafolha, enquanto grupo de Lula aposta em redução de abstenção e crescimento no Nordeste",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/campanha-de-flavio-ve-favoritismo-de-candidato-apos-quaest-e-datafolha-enquanto-grupo-de-lula-aposta-em-reducao-de-abstencao-e-crescimento-no-nordeste.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T230242Z"
+    },
+    {
+     "title": "STF torna réu blogueiro aliado de Bolsonaro por associação criminosa ligada ao 8 de janeiro",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/24/stf-torna-reu-blogueiro-aliado-de-bolsonaro-por-associacao-criminosa-ligada-ao-8-de-janeiro.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T214258Z"
+    },
+    {
+     "title": "Jiboia de mais de 1,5 metro é encontrada em motor de carro no Sul de Minas",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/24/jiboia-de-mais-de-15-metro-e-encontrada-em-motor-de-carro-no-sul-de-minas.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T213232Z"
+    },
+    {
+     "title": "Último ato do 2º turno: Flávio Bolsonaro encerra campanha no Rio, e Lula retorna à Avenida Paulista",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/ultimo-ato-do-2o-turno-flavio-bolsonaro-encerra-campanha-no-rio-e-lula-retorna-a-avenida-paulista.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T202332Z"
+    },
+    {
+     "title": "Eleições: 2º turno começa no exterior, e brasileiros já vão às urnas na Nova Zelândia",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/eleicoes-2o-turno-comeca-no-exterior-e-brasileiros-ja-vao-as-urnas-na-nova-zelandia.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T195314Z"
+    },
+    {
+     "title": "Lula encerra campanha com ato na Paulista, diz que Brasil quer 'mudança estrutural' e associa Flávio ao 'retrocesso'",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/lula-encerra-campanha-com-ato-na-paulista-diz-que-brasil-quer-mudanca-estrutural-e-associa-flavio-ao-retrocesso.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T195042Z"
+    },
+    {
+     "title": "MP Eleitoral se manifesta contra suspensão do canal 'Exército do Lula' e diz que mobilização de apoiadores é legítima",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/mp-eleitoral-se-manifesta-contra-suspensao-do-canal-exercito-do-lula-e-diz-que-mobilizacao-de-apoiadores-e-legitima.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T194819Z"
+    },
+    {
+     "title": "'Nove dedos', segurança pública e caso Ana Clara: pesquisas revelam altos e baixos de Lula e Flávio Bolsonaro no debate da Globo",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/nove-dedos-seguranca-publica-e-caso-ana-clara-pesquisas-revelam-altos-e-baixos-de-lula-e-flavio-bolsonaro-no-debate-da-globo.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T191738Z"
+    },
+    {
+     "title": "Flávio Bolsonaro encerra campanha no Rio, exalta Nikolas Ferreira e volta a orar 'Pai-Nosso'",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/flavio-bolsonaro-reune-apoiadores-na-barra-da-tijuca-em-ultimo-ato-de-campanha-nas-ruas.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T190738Z"
+    },
+    {
+     "title": "Quem é o idoso que viralizou ao ficar sentado durante redemoinho de areia no Piauí; veja vídeo",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/24/quem-e-o-idoso-que-viralizou-ao-ficar-sentado-durante-redemoinho-de-areia-no-piaui.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T184524Z"
+    },
+    {
+     "title": "TSE manda Meta e X monitorarem publicações de Nikolas e Marçal a cada seis horas até o segundo turno",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/tse-manda-meta-e-x-monitorarem-publicacoes-de-nikolas-e-marcal-a-cada-seis-horas-ate-o-segundo-turno.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T182736Z"
+    },
+    {
+     "title": "Mãe de Ana Clara participa de ato de Lula em Copacabana após embate com Flávio Bolsonaro em debate",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/mae-de-ana-clara-participa-de-ato-de-lula-em-copacabana-apos-embate-com-flavio-bolsonaro-em-debate.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T181859Z"
+    },
+    {
+     "title": "Toffoli defende que TSE edite regras para que propagandas e debates não sejam 'ringues' e 'voltem' a discutir política",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/toffoli-defende-que-tse-edite-regras-para-que-propagandas-e-debates-nao-sejam-ringues-e-voltem-a-discutir-politica.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T181536Z"
+    },
+    {
+     "title": "PGR pede ao STF para suspender decisão de Nunes Marques que restringe transporte de indígenas no segundo turno",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/24/pgr-pede-ao-stf-para-suspender-decisao-de-nunes-marques-que-restringe-transporte-de-indigenas-no-segundo-turno.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T181356Z"
+    },
+    {
+     "title": "Lula discursa no Rio e Flávio evita falar em BH: entenda o que a lei permite na véspera da eleição",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/lula-discursa-no-rio-e-flavio-evita-falar-em-bh-entenda-o-que-a-lei-permite-na-vespera-da-eleicao.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T180847Z"
+    },
+    {
+     "title": "Com volume recorde de processos, TSE terá de julgar ações que vão desde acusação de favorecimento de plataformas a 'rede de desinformação'",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/24/com-volume-recorde-de-processos-tse-tera-de-julgar-acoes-que-vao-desde-acusacao-de-favorecimento-de-plataformas-a-rede-de-desinformacao.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T175458Z"
+    },
+    {
+     "title": "Lula volta à Paulista no último dia de campanha; aposta em atos de rua marcou segundo turno",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/lula-volta-a-paulista-no-ultimo-dia-de-campanha-aposta-em-atos-de-rua-marcou-segundo-turno.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T175305Z"
+    },
+    {
+     "title": "Número do telefone de Lula vaza em live de Janones",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/post/2026/10/numero-do-telefone-de-lula-vaza-em-live-de-janones.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T175243Z"
+    },
+    {
+     "title": "Lula faz ato em Copacabana, e Flávio Bolsonaro reúne apoiadores em BH na véspera do segundo turno",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/lula-faz-ato-em-copacabana-e-flavio-bolsonaro-reune-apoiadores-em-bh-na-vespera-do-segundo-turno.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T164827Z"
+    },
+    {
+     "title": "Com a Palavra: levantamento com IA mostra que Flávio explorou mais termos como ‘dívida’ e ‘Bolsa Família’ em debate, e Lula focou em ‘salário mínimo’ e ‘Polícia Federal’",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/24/com-a-palavra-levantamento-com-ia-mostra-que-flavio-explorou-mais-termos-como-divida-e-bolsa-familia-em-debate-e-lula-focou-em-salario-minimo-e-policia-federal.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T164526Z"
+    },
+    {
+     "title": "Pneu de carro fura em ato no Rio e Lula aproveita contratempo para alfinetar Flávio: 'Ele diria que iria voando'",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/pneu-de-carro-fura-em-ato-no-rio-e-lula-aproveita-contratempo-para-alfinetar-flavio-ele-diria-que-iria-voando.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T160810Z"
+    },
+    {
+     "title": "TSE verifica urnas para eleição e emite relatório de segurança para totalização de votos no segundo turno",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/tse-verifica-urnas-para-eleicao-e-emite-relatorio-de-seguranca-para-totalizacao-de-votos-no-segundo-turno.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T155611Z"
+    },
+    {
+     "title": "Guindaste cai sobre linha do monotrilho em SP e operador fica ferido; veja vídeo",
+     "url": "https://oglobo.globo.com/brasil/sao-paulo/noticia/2026/10/24/guindaste-cai-sobre-linha-do-monotrilho-em-sp-operador-fica-ferido.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T155156Z"
+    },
+    {
+     "title": "'Vamos brigar para tomar a ilha que Tomaz e Flávio roubaram' de Richarlison, diz Lula no Rio",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/vamos-brigar-para-tomar-a-ilha-que-tomaz-e-flavio-roubaram-de-richarlison-diz-lula-em-ato-no-rio.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T152959Z"
+    },
+    {
+     "title": "Quem foi melhor no debate da Globo: Lula ou Flávio Bolsonaro? Colunistas do GLOBO dão notas para cada candidato",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/quem-foi-melhor-no-debate-da-globo-lula-ou-flavio-bolsonaro-colunistas-do-globo-dao-notas-para-cada-candidato.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261024T150659Z"
     }
    ]
   }
