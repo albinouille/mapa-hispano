@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T21:26:20+00:00",
+ "updated": "2026-10-25T21:58:32+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -139,6 +139,12 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Reportan desaparición de sacerdote en Culiacán; piden ayuda en redes para localizarlo",
+     "url": "https://www.eluniversal.com.mx/estados/reportan-desaparicion-de-sacerdote-en-culiacan-piden-ayuda-en-redes-para-localizarlo/",
+     "domain": "El Universal",
+     "seendate": "20261025T212849Z"
+    },
     {
      "title": "Brugada inaugura Utopía “La Soberana”; requirió una inversión de casi 300 mdp",
      "url": "https://www.eluniversal.com.mx/metropoli/clara-brugada-inaugura-la-utopia-mas-grande-de-cdmx-anuncian-otros-100-mil-metros-cuadrados-para-nuevos-servicios/",
@@ -306,24 +312,6 @@
      "url": "https://www.eluniversal.com.mx/nacion/vinculan-a-proceso-a-cesar-jauregui-exfiscal-de-chihuahua-seguira-preso-en-el-altiplano/",
      "domain": "El Universal",
      "seendate": "20261025T141912Z"
-    },
-    {
-     "title": "Osos, de visitantes ocasionales a habitantes frecuentes",
-     "url": "https://www.eluniversal.com.mx/estados/osos-de-visitantes-ocasionales-a-habitantes-frecuentes/",
-     "domain": "El Universal",
-     "seendate": "20261025T094855Z"
-    },
-    {
-     "title": "Comienza reparación de casas dañadas por tren al AIFA",
-     "url": "https://www.eluniversal.com.mx/metropoli/comienza-reparacion-de-casas-danadas-por-tren-al-aifa/",
-     "domain": "El Universal",
-     "seendate": "20261025T060100Z"
-    },
-    {
-     "title": "Catrinas guían a los vivos hacia el cempasúchil",
-     "url": "https://www.eluniversal.com.mx/metropoli/catrinas-guian-a-los-vivos-hacia-el-cempasuchil/",
-     "domain": "El Universal",
-     "seendate": "20261025T060000Z"
     },
     {
      "title": "México cumple primer año de entregas de agua del Río Bravo a EU",
@@ -1168,6 +1156,12 @@
   "CRI": {
    "articles": [
     {
+     "title": "Decomisan más de 2,5 toneladas de cocaína y marihuana en lancha interceptada en el Pacífico sur",
+     "url": "https://www.nacion.com/sucesos/decomisan-mas-de-25-toneladas-de-cocaina-y/5XWCBWV3KBDG7COVGKTKA2DSGM/story/",
+     "domain": "La Nación",
+     "seendate": "20261025T214133Z"
+    },
+    {
      "title": "Anticoncepción de emergencia: qué es, cómo actúa en el cuerpo y por qué no interrumpe el embarazo",
      "url": "https://www.nacion.com/el-pais/anticoncepcion-de-emergencia-que-es-como-actua-en/P7DTUQOTYZDAZBPQXYPVBPD3NU/story/",
      "domain": "La Nación",
@@ -1430,22 +1424,10 @@
      "seendate": "20261023T050500Z"
     },
     {
-     "title": "Más de 12,000 viviendas afectadas por el terremoto en Panamá",
-     "url": "https://www.prensa.com/politica/el-ejecutivo-actualiza-el-balance-de-areas-afectadas-por-el-terremoto/",
-     "domain": "La Prensa",
-     "seendate": "20261023T002742Z"
-    },
-    {
      "title": "Jubilados: diputados aprueban en primer debate proyecto de aumentos de descuentos",
      "url": "https://www.prensa.com/sociedad/jubilados-diputados-aprueban-en-primer-debate-proyecto-de-aumentos-de-descuentos/",
      "domain": "La Prensa",
      "seendate": "20261022T201535Z"
-    },
-    {
-     "title": "Terremoto en Azuero: la emergencia que enfrentan las personas con discapacidad",
-     "url": "https://www.prensa.com/sociedad/terremoto-en-azuero-la-emergencia-que-enfrentan-las-personas-con-discapacidad/",
-     "domain": "La Prensa",
-     "seendate": "20261022T050400Z"
     }
    ]
   },
@@ -1537,22 +1519,22 @@
   "COL": {
    "articles": [
     {
+     "title": "Lo que se sabe del fatal accidente de tránsito entre un carro particular y una moto en Cali: ¿quiénes eran las víctimas de una empresa de transporte?",
+     "url": "https://www.eltiempo.com/colombia/cali/lo-que-se-sabe-del-fatal-accidente-de-transito-entre-un-carro-particular-y-una-moto-en-cali-quienes-eran-las-victimas-de-una-empresa-de-transporte-3596199",
+     "domain": "El Tiempo",
+     "seendate": "20261025T213455Z"
+    },
+    {
      "title": "Nuevo aumento de Air-e golpeará recibos de energía en el Caribe: kilovatio pasa de $873 a $936 y usuarios piden intervención del Gobierno",
      "url": "https://www.eltiempo.com/colombia/barranquilla/nuevo-aumento-de-air-e-golpeara-recibos-de-energia-en-el-caribe-kilovatio-pasa-de-873-a-936-y-usuarios-piden-intervencion-del-gobierno-3596197",
      "domain": "El Tiempo",
-     "seendate": "20261025T210659Z"
+     "seendate": "20261025T211607Z"
     },
     {
      "title": "El perfil criminal del presunto asesino de la niña Jhady Sofía, cuyo crimen conmocionó a Frontino, Antioquia: la evidencia reina para capturarlo",
      "url": "https://www.eltiempo.com/colombia/medellin/el-perfil-criminal-del-presunto-asesino-de-la-nina-jhady-sofia-cuyo-crimen-conmociono-a-frontino-antioquia-la-evidencia-reina-para-capturarlo-3596184",
      "domain": "El Tiempo",
      "seendate": "20261025T210509Z"
-    },
-    {
-     "title": "Cartagena atiende emergencia por lluvias: intervienen canales con maquinaria pesada y realizan censo de familias afectadas",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/cartagena-atiende-emergencia-por-lluvias-intervienen-canales-con-maquinaria-pesada-y-realizan-censo-de-familias-afectadas-3596152",
-     "domain": "El Tiempo",
-     "seendate": "20261025T210210Z"
     },
     {
      "title": "Imágenes del accidente en Manizales en el que murieron dos obreros electrocutados: así quedó el edificio que estaban pintando",
@@ -1905,7 +1887,13 @@
   "ECU": {
    "articles": [
     {
-     "title": "CNEL atiende más 300 incidencias eléctricas por últimas lluvias en Guayaquil, Durán, Samborondón y Daule",
+     "title": "Gobierno distribuye kits de ayuda a familias afectadas por inundaciones en seis cantones de Ecuador",
+     "url": "https://eluniverso.com/comunidad/ecuador/sngr-entrega-ayuda-humanitaria-por-las-lluvias-en-ecuador-nota/",
+     "domain": "El Universo",
+     "seendate": "20261025T214814Z"
+    },
+    {
+     "title": "CNEL atiende más de 300 incidencias eléctricas por últimas lluvias en Guayaquil, Durán, Samborondón y Daule",
      "url": "https://eluniverso.com/comunidad/ecuador/cnel-atiende-mas-300-incidencias-electricas-por-ultimas-lluvias-en-guayaquil-duran-samborondon-y-daule-nota/",
      "domain": "El Universo",
      "seendate": "20261025T212014Z"
@@ -2016,6 +2004,12 @@
   },
   "PER": {
    "articles": [
+    {
+     "title": "Último temblor en Perú hoy, domingo 25 de octubre: epicentro y magnitud del sismo según IGP",
+     "url": "https://elcomercio.pe/peru/ultimo-temblor-hoy-sismos-en-peru-lugar-y-magnitud-segun-igp-arequipa-cusco-lima-reportes-tdpe-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261025T213300Z"
+    },
     {
      "title": "Sociedad Nacional de Industrias “Las ventas en el sector textil caerían un 50% en Navidad, estaremos ad portas o ya con un diluvio en el país”",
      "url": "https://elcomercio.pe/economia/peru/sociedad-nacional-de-industrias-las-ventas-en-el-sector-textil-caerian-un-50-en-navidad-estaremos-ad-portas-o-ya-con-un-diluvio-en-el-pais-apuesplan-noticia/",
@@ -2731,16 +2725,58 @@
   "ARG": {
    "articles": [
     {
-     "title": "Dirigentes políticos e intelectuales condenaron los ataques de Milei a periodistas: “Pasó todos los límites”",
-     "url": "https://www.lanacion.com.ar/politica/la-ucr-y-el-frente-renovador-condenaron-los-ataques-de-milei-a-periodistas-paso-todos-los-limites-nid25102026/",
+     "title": "Polémica en Mendoza con una ministra que hizo una costosa capacitación con fondos del Estado provincial",
+     "url": "https://www.lanacion.com.ar/politica/polemica-en-mendoza-con-una-ministra-que-hizo-una-costosa-capacitacion-con-fondos-del-estado-nid25102026/",
      "domain": "La Nación",
-     "seendate": "20261025T211324Z"
+     "seendate": "20261025T215232Z"
+    },
+    {
+     "title": "Patricia Bullrich cuestionó a Milei por sus ataques al periodismo: “Se cruzó un límite”",
+     "url": "https://www.lanacion.com.ar/politica/patricia-bullrich-cuestiono-a-milei-por-sus-ataques-al-periodismo-se-cruzo-un-limite-nid25102026/",
+     "domain": "La Nación",
+     "seendate": "20261025T215214Z"
     },
     {
      "title": "Robin Sharma, especialista en desarrollo personal: “Sé de personas excepcionales que protegen su tiempo y eso no significa que tengan que matarse trabajando”",
      "url": "https://www.lanacion.com.ar/sociedad/robin-sharma-especialista-en-desarrollo-personal-se-de-personas-excepcionales-que-protegen-su-tiempo-nid25102026/",
      "domain": "La Nación",
-     "seendate": "20261025T210000Z"
+     "seendate": "20261025T214345Z"
+    },
+    {
+     "title": "Jorge Tartaglione, médico, sobre accidentes en casa: “Si un niño toma lavandina, no hay que provocarle el vómito”",
+     "url": "https://www.lanacion.com.ar/sociedad/jorge-tartaglione-medico-sobre-accidentes-en-casa-si-un-nino-toma-lavandina-no-hay-que-provocarle-el-nid25102026/",
+     "domain": "La Nación",
+     "seendate": "20261025T214337Z"
+    },
+    {
+     "title": "Se aproxima un nuevo frente que provocará altibajos en la temperatura, nubosidad variable y lloviznas en medio del avance del Súper Niño: las zonas afectadas",
+     "url": "https://www.lanacion.com.ar/sociedad/se-aproxima-un-nuevo-frente-que-provocara-altibajos-en-la-temperatura-nubosidad-variable-y-lloviznas-nid25102026/",
+     "domain": "La Nación",
+     "seendate": "20261025T214311Z"
+    },
+    {
+     "title": "La fórmula para que el cerebro descanse de verdad (y deje de pensar en todo)",
+     "url": "https://www.lanacion.com.ar/sociedad/la-formula-para-que-el-cerebro-descanse-de-verdad-y-deje-de-pensar-en-todo-nid25102026/",
+     "domain": "La Nación",
+     "seendate": "20261025T214304Z"
+    },
+    {
+     "title": "Qué le hace la papa al cuerpo y por qué se puede comer todos los días sin culpa, según una nutricionista",
+     "url": "https://www.lanacion.com.ar/sociedad/que-le-hace-la-papa-al-cuerpo-y-por-que-se-puede-comer-todos-los-dias-sin-culpa-segun-una-nid24102026/",
+     "domain": "La Nación",
+     "seendate": "20261025T214300Z"
+    },
+    {
+     "title": "Inti Bonomo, experto en Ciencias Ambientales, sobre el avance del fenómeno del Súper Niño: “Va a seguir creciendo y el pico va a ser en diciembre”",
+     "url": "https://www.lanacion.com.ar/sociedad/inti-bonomo-experto-en-ciencias-ambientales-sobre-el-avance-del-fenomeno-del-super-nino-va-a-seguir-nid24102026/",
+     "domain": "La Nación",
+     "seendate": "20261025T214252Z"
+    },
+    {
+     "title": "Dirigentes políticos e intelectuales condenaron los ataques de Milei a periodistas: “Pasó todos los límites”",
+     "url": "https://www.lanacion.com.ar/politica/la-ucr-y-el-frente-renovador-condenaron-los-ataques-de-milei-a-periodistas-paso-todos-los-limites-nid25102026/",
+     "domain": "La Nación",
+     "seendate": "20261025T211324Z"
     },
     {
      "title": "Viraje en el PJ: el peronismo revisa su relación con la Justicia y disputa los espacios de poder del kirchnerismo",
@@ -2791,12 +2827,6 @@
      "seendate": "20261025T190959Z"
     },
     {
-     "title": "Jorge Tartaglione, médico, sobre accidentes en casa: “Si un niño toma lavandina, no hay que provocarle el vómito”",
-     "url": "https://www.lanacion.com.ar/sociedad/jorge-tartaglione-medico-sobre-accidentes-en-casa-si-un-nino-toma-lavandina-no-hay-que-provocarle-el-nid25102026/",
-     "domain": "La Nación",
-     "seendate": "20261025T190000Z"
-    },
-    {
      "title": "La SIP advirtió sobre el aumento de la violencia contra periodistas y las presiones de los gobiernos en América",
      "url": "https://www.lanacion.com.ar/sociedad/la-sip-advirtio-sobre-el-aumento-de-la-violencia-contra-periodistas-y-las-presiones-de-los-gobiernos-nid25102026/",
      "domain": "La Nación",
@@ -2807,18 +2837,6 @@
      "url": "https://www.lanacion.com.ar/seguridad/una-joven-de-27-anos-fue-hallada-muerta-en-un-departamento-de-retiro-tras-una-cita-con-un-hombre-nid25102026/",
      "domain": "La Nación",
      "seendate": "20261025T180349Z"
-    },
-    {
-     "title": "Hugo Lattanzi, productor que invirtió en un campo en Río Negro: “Siempre vi a la zona con mucho potencial”",
-     "url": "https://www.lanacion.com.ar/economia/campo/hugo-lattanzi-productor-que-invirtio-en-un-campo-en-rio-negro-siempre-vi-a-la-zona-con-mucho-nid25102026/",
-     "domain": "La Nación",
-     "seendate": "20261025T180224Z"
-    },
-    {
-     "title": "Visec Carne: así funciona el mundo de los negocios, guste o no",
-     "url": "https://www.lanacion.com.ar/economia/campo/visec-carne-asi-funciona-el-mundo-de-los-negocios-guste-o-no-nid25102026/",
-     "domain": "La Nación",
-     "seendate": "20261025T175920Z"
     }
    ]
   },
@@ -3199,12 +3217,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/25/san-bernardino-promovio-sus-atractivos-turisticos-con-el-city-tour-conociendo-san-ber/",
      "domain": "ABC Color",
      "seendate": "20261025T181523Z"
-    },
-    {
-     "title": "Pórtico de identidad: la obra turística en la Laguna Punta Porã de Pedro Juan Caballero",
-     "url": "https://www.abc.com.py/nacionales/2026/10/25/portico-de-identidad-la-obra-turistica-en-la-laguna-punta-pora-de-pedro-juan-caballero/",
-     "domain": "ABC Color",
-     "seendate": "20261025T164132Z"
     }
    ]
   },
@@ -3214,10 +3226,64 @@
   "BRA": {
    "articles": [
     {
+     "title": "TSE diz que vai retomar divulgação dos resultados da eleição depois das 19h, ao fim da votação",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/25/tse-diz-que-vai-retomar-divulgacao-dos-resultados-da-eleicao-depois-das-19h-ao-fim-da-votacao.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T213932Z"
+    },
+    {
+     "title": "Quem está ganhando a eleição para presidente? Acompanhe a apuração dos votos",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/quem-esta-ganhando-a-eleicao-para-presidente-acompanhe-a-apuracao-dos-votos.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T213914Z"
+    },
+    {
+     "title": "Falta de ônibus e decisão de Zanin criam desafio 'inédito' para eleições, avaliam juristas",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/falta-de-onibus-e-decisao-de-zanin-criam-desafio-inedito-para-eleicoes-avaliam-juristas.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T212108Z"
+    },
+    {
+     "title": "PF abre inquérito para investigar suspeita de crime em denúncias sobre transporte de eleitores no país",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/pf-abre-inquerito-para-investigar-suspeita-de-crime-em-denuncias-sobre-transporte-de-eleitores-no-pais.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T212012Z"
+    },
+    {
+     "title": "TRE do Rio determina que seções abertas mantenham votação até as 19h e orienta registro de eleitores em urnas já encerradas",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/tre-do-rio-determina-que-secoes-abertas-mantenham-votacao-ate-as-19h-e-orienta-registro-de-eleitores-em-urnas-ja-encerradas.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T211711Z"
+    },
+    {
      "title": "Eleições 2026: ministro do STF prorroga horário de votação até 19h em todo o Brasil; TSE manda parar apuração dos votos",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/ao-vivo/eleicoes-2026-acompanhe-ao-vivo-o-segundo-turno-ao-vivo-no-brasil.ghtml",
      "domain": "O Globo",
-     "seendate": "20261025T203447Z"
+     "seendate": "20261025T211236Z"
+    },
+    {
+     "title": "Zanin, do STF, determina extensão da votação em todo o país até as 19h após denúncias de problemas no transporte",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/25/zanin-do-stf-determina-extensao-da-votacao-em-todo-o-pais-ate-as-19h-apos-problemas-no-transporte-1.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T210557Z"
+    },
+    {
+     "title": "Após Zanin prorrogar votação, presidente do TSE orienta TREs a fecharem as urnas às 19h",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/apos-zanin-prorrogar-votacao-presidente-do-tse-comunica-tres-para-fechamento-das-urnas-as-19h.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T210521Z"
+    },
+    {
+     "title": "Zanin diz que decisão sobre prorrogação do horário de votação para 19h vale para urnas ainda abertas",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/zanin-diz-que-decisao-sobre-prorrogacao-do-horario-de-votacao-para-19h-vale-para-urnas-que-nao-foram-fechadas.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T210131Z"
+    },
+    {
+     "title": "Decisão de Zanin não chega a tempo, e parte das urnas é fechada pelo Brasil; veja relatos",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/decisao-de-zanin-nao-chega-a-tempo-e-votacao-e-encerrada-em-todo-o-brasil-veja-relatos.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T205323Z"
     },
     {
      "title": "Decisão de Zanin não chega a tempo e votação nas urnas é encerrada em parte das seções eleitorais no Rio",
@@ -3242,12 +3308,6 @@
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/mp-eleitoral-diz-ao-tse-ser-contrario-a-extensao-de-horario-de-votacao-no-pais-zanin-determina-prorrogacao-ate-19h.ghtml",
      "domain": "O Globo",
      "seendate": "20261025T201723Z"
-    },
-    {
-     "title": "Zanin, do STF, determina extensão da votação em todo o país até as 19h após denúncias de problemas no transporte",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/25/zanin-do-stf-determina-extensao-da-votacao-em-todo-o-pais-ate-as-19h-apos-problemas-no-transporte.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T200345Z"
     },
     {
      "title": "Parcial dos votos para presidente: acompanhe a evolução da apuração das eleições 2026",
@@ -3446,96 +3506,6 @@
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/presidente-do-tse-faz-balanco-das-primeiras-horas.ghtml",
      "domain": "O Globo",
      "seendate": "20261025T165748Z"
-    },
-    {
-     "title": "Como votar nas Eleições 2026 no 2º turno: veja ordem de votação",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/como-votar-nas-eleicoes-2026-no-2o-turno-veja-ordem-de-votacao.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T164812Z"
-    },
-    {
-     "title": "Sistema eleitoral brasileiro ‘é muito sólido e muito claro', diz observador da OEA após acompanhar votação",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/sistema-eleitoral-brasileiro-e-muito-solido-e-muito-claro-diz-observador-da-oea-apos-acompanhar-votacao.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T164356Z"
-    },
-    {
-     "title": "Até que horas pode votar nas Eleições 2026? Veja horário de encerramento da votação",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/ate-que-horas-pode-votar-nas-eleicoes-2026-veja-horario-de-encerramento-da-votacao.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T164222Z"
-    },
-    {
-     "title": "'Estamos confiantes', diz Alckmin ao votar em São Paulo",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/estamos-confiantes-diz-alckmin-ao-votar-em-sao-paulo.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T163334Z"
-    },
-    {
-     "title": "TRE da Bahia manda prender secretário de mobilidade de Salvador",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/tre-da-bahia-manda-prender-secretario-de-mobilidade-de-salvador.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T163006Z"
-    },
-    {
-     "title": "TSE registra 2,6 milhões de justificativas de ausência pelo e-título até o meio-dia",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/guia/tse-registra-23-milhoes-de-justificativas-de-ausencia-pelo-e-titulo-ate-o-meio-dia.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T162007Z"
-    },
-    {
-     "title": "Moraes autoriza Bolsonaro a retomar reuniões semanais com grupo de oração",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/25/moraes-autoriza-bolsonaro-a-retomar-reunioes-semanais-com-grupo-de-oracao.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T161842Z"
-    },
-    {
-     "title": "Presidentes do Senado e da Câmara fazem visita ao TSE",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/presidentes-do-senado-e-da-camara-fazem-visita-ao-tse.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T161352Z"
-    },
-    {
-     "title": "Tarcísio vota em São Paulo e diz que Brasil quer mudança",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/tarcisio-vota-em-sao-paulo-e-diz-que-brasil-quer-mudanca.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T161206Z"
-    },
-    {
-     "title": "Infestação de pulgas muda local de votação de 3 mil eleitores no Rio",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/infestacao-de-pulgas-muda-local-de-votacao-de-3-mil-eleitores-no-rio.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T160657Z"
-    },
-    {
-     "title": "Que horas começa a apuração do segundo turno das eleições de 2026?",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/guia/que-horas-comeca-a-apuracao-do-segundo-turno-das-eleicoes-de-2026.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T155601Z"
-    },
-    {
-     "title": "Chuva bloqueia três trechos de rodovias no Paraná, e PRF busca rotas alternativas para eleitores",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/chuva-bloqueia-tres-trechos-de-rodovias-no-parana-e-prf-busca-rotas-alternativas-para-eleitores.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T154824Z"
-    },
-    {
-     "title": "Justiça manda prender secretário de mobilidade de Salvador, que está em Paris",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/justica-eleitoral-bahia-transporte-publico-salvador.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T154726Z"
-    },
-    {
-     "title": "Chuva provoca a morte de duas mulheres em Jundiaí, em São Paulo",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/25/chuva-provoca-a-morte-de-duas-mulheres-em-jundiai-em-sao-paulo.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T154540Z"
-    },
-    {
-     "title": "Ministério da Justiça contabiliza 89 ocorrências relacionadas às eleições até o meio-dia",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/ministerio-da-justica-contabiliza-89-ocorrencias-relacionadas-as-eleicoes-ate-o-meio-dia.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T154511Z"
     }
    ]
   }
