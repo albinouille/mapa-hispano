@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-25T17:32:18+00:00",
+ "updated": "2026-10-25T18:00:21+00:00",
  "countries": {
   "ESP": {
    "articles": [
     {
-     "title": "Al menos 20 heridos de gravedad en un accidente entre un autobús y un coche en Barcelona",
+     "title": "Al menos 20 heridos de gravedad en un accidente de autobús que ha caído veinte metros en Fogars de Montclús (Barcelona)",
      "url": "https://elpais.com/espana/catalunya/2026-10-25/al-menos-40-heridos-en-un-accidente-entre-un-autobus-y-un-coche-en-barcelona.html",
      "domain": "El País",
-     "seendate": "20261025T172128Z"
+     "seendate": "20261025T172000Z"
     },
     {
      "title": "El delegado del Gobierno en Madrid dimite tras quedarse fuera de las listas del PSOE para el 29-N",
@@ -139,6 +139,12 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Clara Brugada regalará boletos para la Fórmula 1 en CDMX; anuncia próximo mecanismo de entrega",
+     "url": "https://www.eluniversal.com.mx/metropoli/clara-brugada-regalara-boletos-para-la-formula-1-en-cdmx-anuncia-proximo-mecanismo-de-entrega/",
+     "domain": "El Universal",
+     "seendate": "20261025T172520Z"
+    },
     {
      "title": "CNPC pide a la población tomar medidas preventivas ante huracán \"Vance\"; desplegará misión ECO",
      "url": "https://www.eluniversal.com.mx/nacion/cnpc-pide-a-la-poblacion-tomar-medidas-preventivas-ante-huracan-vance-desplegara-mision-eco/",
@@ -1250,12 +1256,6 @@
      "url": "https://www.nacion.com/el-pais/hospital-nacional-de-ninos-suma-17-muertes-por/YKHMNAIGBVDDTKXIJBQZHSLS6Y/story/",
      "domain": "La Nación",
      "seendate": "20261024T164507Z"
-    },
-    {
-     "title": "Costa Rica bajo las estrellas: elija las tres mejores fotos de este concurso",
-     "url": "https://www.nacion.com/el-pais/costa-rica-bajo-las-estrellas-elija-las-tres/FYF4PKH5MZF3DHAUNH2IOFZDFM/story/",
-     "domain": "La Nación",
-     "seendate": "20261024T161328Z"
     }
    ]
   },
@@ -1489,6 +1489,18 @@
   "COL": {
    "articles": [
     {
+     "title": "Así fue el rescate del soldado que sobrevivió seis días en la selva tras un ataque con drones por las disidencias en Antioquia: '¡Mamá, estoy vivo!'",
+     "url": "https://www.eltiempo.com/colombia/medellin/asi-fue-el-rescate-del-soldado-que-sobrevivio-seis-dias-en-la-selva-tras-un-ataque-con-drones-por-las-disidencias-en-antioquia-mama-estoy-vivo-3596166",
+     "domain": "El Tiempo",
+     "seendate": "20261025T175148Z"
+    },
+    {
+     "title": "Dolorosos momentos durante la velatón por la policía María José Recuero, quien murió tras un acto de heroísmo al enfrentarse a unos ladrones en Cali",
+     "url": "https://www.eltiempo.com/colombia/cali/dolorosos-momentos-durante-la-velaton-por-la-policia-maria-jose-recuerdo-quien-murio-tras-un-acto-de-heroismo-al-enfrentarse-a-unos-ladrones-en-cali-3596143",
+     "domain": "El Tiempo",
+     "seendate": "20261025T172910Z"
+    },
+    {
      "title": "ONU Derechos Humanos pide reconstruir y reabrir la Casa de las Memorias de Cali, cerrada tras el terremoto",
      "url": "https://www.eltiempo.com/colombia/cali/onu-derechos-humanos-pide-reconstruir-y-reabrir-la-casa-de-las-memorias-de-cali-cerrada-tras-el-terremoto-3596169",
      "domain": "El Tiempo",
@@ -1513,12 +1525,6 @@
      "seendate": "20261025T151958Z"
     },
     {
-     "title": "Dolorosos momentos durante la velatón por la policía María José Recuero, quien murió tras un acto de heroísmo al enfrentarse a unos ladrones en Cali",
-     "url": "https://www.eltiempo.com/colombia/cali/dolorosos-momentos-durante-la-velaton-por-la-policia-maria-jose-recuerdo-quien-murio-tras-un-acto-de-heroismo-al-enfrentarse-a-unos-ladrones-en-cali-3596143",
-     "domain": "El Tiempo",
-     "seendate": "20261025T151412Z"
-    },
-    {
      "title": "Video revela el momento exacto del volcamiento de un bus con peregrinos en Medellín: viajaban 48 personas",
      "url": "https://www.eltiempo.com/colombia/medellin/video-revela-el-momento-exacto-del-volcamiento-de-un-bus-con-peregrinos-en-medellin-viajaban-48-personas-3596140",
      "domain": "El Tiempo",
@@ -1541,12 +1547,6 @@
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-en-colombia-hoy-25-de-octubre-conozca-epicentro-magnitud-y-detalles-3596136",
      "domain": "El Tiempo",
      "seendate": "20261025T115012Z"
-    },
-    {
-     "title": "Las 7 recomendaciones de ONU Derechos Humanos al Congreso para la ley estatutaria sobre protesta social en Colombia",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/las-7-recomendaciones-de-onu-derechos-humanos-al-congreso-para-la-ley-estatutaria-sobre-protesta-social-en-colombia-3596052",
-     "domain": "El Tiempo",
-     "seendate": "20261025T100100Z"
     }
    ]
   },
@@ -1850,6 +1850,12 @@
   },
   "ECU": {
    "articles": [
+    {
+     "title": "Las fuertes lluvias en Ecuador dejan 24 eventos adversos y 11 ríos desbordados",
+     "url": "https://eluniverso.com/comunidad/ecuador/lluvias-ecuador-familias-afectadas-danos-viviendas-rios-desbordados-gestion-de-riesgos-nota/",
+     "domain": "El Universo",
+     "seendate": "20261025T174133Z"
+    },
     {
      "title": "Lluvias y crecidas de ríos mantienen en alerta a poblaciones y vías de Santo Domingo de los Tsáchilas",
      "url": "https://eluniverso.com/comunidad/ecuador/lluvias-y-crecidas-de-rios-mantienen-en-alerta-a-poblaciones-y-vias-de-santo-domingo-de-los-tsachilas-nota/",
@@ -2689,6 +2695,12 @@
   "ARG": {
    "articles": [
     {
+     "title": "La UCR y el Frente Renovador condenaron los ataques de Milei a periodistas: “Pasó todos los límites”",
+     "url": "https://www.lanacion.com.ar/politica/la-ucr-y-el-frente-renovador-condenaron-los-ataques-de-milei-a-periodistas-paso-todos-los-limites-nid25102026/",
+     "domain": "La Nación",
+     "seendate": "20261025T174538Z"
+    },
+    {
      "title": "Una joven de 27 años fue hallada muerta en un departamento de Retiro tras una cita con un hombre",
      "url": "https://www.lanacion.com.ar/seguridad/una-joven-de-27-anos-fue-hallada-muerta-en-un-departamento-de-retiro-tras-una-cita-con-un-hombre-nid25102026/",
      "domain": "La Nación",
@@ -3175,18 +3187,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/25/caacupe-monsenor-alerta-sobre-una-sociedad-cada-vez-mas-violenta-y-reclama-recuperar-los-valores/",
      "domain": "ABC Color",
      "seendate": "20261025T150653Z"
-    },
-    {
-     "title": "Alicia Pucheta: ¿tiene los días contados en el CM y el JEM?",
-     "url": "https://www.abc.com.py/nacionales/2026/10/25/alicia-pucheta-tiene-los-dias-contados-en-el-cm-y-el-jem/",
-     "domain": "ABC Color",
-     "seendate": "20261025T143835Z"
-    },
-    {
-     "title": "Piel de mariposa: qué es la enfermedad que afecta a 16 pacientes pediátricos en Paraguay",
-     "url": "https://www.abc.com.py/nacionales/2026/10/25/piel-de-mariposa-que-es-la-enfermedad-que-afecta-a-16-pacientes-pediatricos-en-paraguay/",
-     "domain": "ABC Color",
-     "seendate": "20261025T143449Z"
     }
    ]
   },
@@ -3195,6 +3195,30 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "Corregedor do TSE pede informações sobre frota de ônibus reduzida em Salvador e determina que TRE-BA garanta o voto de quem chegar até 17h",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/25/corregedor-do-tse-pede-informacoes-sobre-frota-de-onibus-reduzida-em-salvador-e-determina-que-tre-ba-garanta-o-voto-de-quem-chegar-ate-17h.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T174605Z"
+    },
+    {
+     "title": "Eleitora de Flávio Bolsonaro, com boné de Donald Trump, faz saudação nazista ao votar em colégio do Rio",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/eleitora-de-flavio-bolsonaro-com-bone-de-donald-trump-faz-saudacao-nazista-ao-votar-em-colegio-do-rio.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T174535Z"
+    },
+    {
+     "title": "Apuração do 2º turno das Eleições 2026 no exterior: veja como está a contagem de votos",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/apuracao-do-2o-turno-das-eleicoes-2026-no-exterior-veja-como-esta-a-contagem-de-votos.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T173957Z"
+    },
+    {
+     "title": "Aos 96 anos, José Sarney publica vídeo na seção eleitoral e celebra democracia: 'Parabéns ao povo brasileiro'",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/25/aos-96-anos-jose-sarney-publica-video-na-secao-eleitoral-e-celebra-democracia-parabens-ao-povo-brasileiro.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T173726Z"
+    },
     {
      "title": "Amigos desde a infância, eleitores de Lula e Bolsonaro vão votar juntos no Rio: 'Nos consideramos irmãos'",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/amigos-desde-a-infancia-eleitores-de-lula-e-bolsonaro-vao-votar-juntos-no-rio-nos-consideramos-irmaos.ghtml",
@@ -3220,7 +3244,7 @@
      "seendate": "20261025T170124Z"
     },
     {
-     "title": "TSE registra 138 ocorrências até o meio-dia, diz presidente",
+     "title": "Presidente do TSE diz que dificuldade de transporte nas eleições está sendo 'corrigida'",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/presidente-do-tse-faz-balanco-das-primeiras-horas.ghtml",
      "domain": "O Globo",
      "seendate": "20261025T165748Z"
@@ -3304,7 +3328,7 @@
      "seendate": "20261025T154824Z"
     },
     {
-     "title": "Justiça manda prender secretário de mobilidade de Salvador e ordena retorno do transporte público na cidade",
+     "title": "Justiça manda prender secretário de mobilidade de Salvador, que está em Paris",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/justica-eleitoral-bahia-transporte-publico-salvador.ghtml",
      "domain": "O Globo",
      "seendate": "20261025T154726Z"
