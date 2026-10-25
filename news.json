@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T14:34:59+00:00",
+ "updated": "2026-10-25T15:00:29+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -1036,6 +1036,12 @@
   "CRI": {
    "articles": [
     {
+     "title": "Cortes de luz de la CNFL afectarán zonas de San José, Desamparados y Alajuela este martes 27 de octubre",
+     "url": "https://www.nacion.com/el-pais/cortes-de-luz-de-la-cnfl-afectaran-zonas-de-san/LO7L5UWNBNDIHHQENFCGCEAFUY/story/",
+     "domain": "La Nación",
+     "seendate": "20261025T142200Z"
+    },
+    {
      "title": "De 1826 a 2026: Estos son los 57 presidentes de la Corte Suprema de Justicia de Costa Rica en sus 200 años de historia",
      "url": "https://www.nacion.com/politica/de-1826-a-2026-estos-son-los-57-presidentes-de-la/ILWJ3WOB7NETFBRS5YZCYZGQWU/story/",
      "domain": "La Nación",
@@ -1160,17 +1166,17 @@
      "url": "https://www.nacion.com/el-pais/corte-de-luz-de-la-cnfl-afectara-una-zona-de-san/DHYMNFBWMFHOJPPAG46CLLYSWI/story/",
      "domain": "La Nación",
      "seendate": "20261024T143900Z"
-    },
-    {
-     "title": "IMN anuncia un sábado con aguaceros y tormentas: ¿cuáles zonas tendrán lluvias?",
-     "url": "https://www.nacion.com/sucesos/imn-anuncia-un-sabado-con-aguaceros-y-tormentas/DII26PB5EZDRFCFHJ5PWE22QNA/story/",
-     "domain": "La Nación",
-     "seendate": "20261024T121000Z"
     }
    ]
   },
   "PAN": {
    "articles": [
+    {
+     "title": "Libertad de prensa en Panamá: denuncian ante la SIP presiones, descalificaciones y amenazas",
+     "url": "https://www.prensa.com/politica/libertad-de-prensa-en-panama-enfrenta-obstaculos-presiones-descalificaciones-y-amenazas/",
+     "domain": "La Prensa",
+     "seendate": "20261025T143413Z"
+    },
     {
      "title": "¿Cuánto falta para volver a casa? Las cuentas de la compleja reconstrucción en Azuero",
      "url": "https://www.prensa.com/sociedad/cuanto-falta-para-volver-a-casa-las-cuentas-de-la-compleja-reconstruccion-en-azuero/",
@@ -1272,12 +1278,6 @@
      "url": "https://www.prensa.com/sociedad/autobus-8b-06-un-infierno-de-400-grados-centigrados/",
      "domain": "La Prensa",
      "seendate": "20261023T170535Z"
-    },
-    {
-     "title": "Retrasos masivos: Falla en el sistema eléctrico paralizó parcialmente tramos de la Línea 1 del Metro de Panamá",
-     "url": "https://www.prensa.com/sociedad/retrasos-masivos-falla-en-el-sistema-electrico-paraliza-parcialmente-tramos-de-la-linea-1-del-metro-de-panama/",
-     "domain": "La Prensa",
-     "seendate": "20261023T132451Z"
     },
     {
      "title": "La ruta de las donaciones y el sueño de un techo en La Miel",
@@ -1396,12 +1396,6 @@
      "url": "https://www.14ymedio.com/cuba/accidente-masivo-carbonera-deja-22_1_1132323.html",
      "domain": "14ymedio",
      "seendate": "20261023T155656Z"
-    },
-    {
-     "title": "El mar se abre a los cubanos con el estreno de la primera tienda náutica en La Habana",
-     "url": "https://www.14ymedio.com/cuba/mar-abre-cubanos-estreno-primera_1_1132267.html",
-     "domain": "14ymedio",
-     "seendate": "20261022T171946Z"
     }
    ]
   },
@@ -1410,6 +1404,12 @@
   },
   "COL": {
    "articles": [
+    {
+     "title": "Video revela el momento exacto del volcamiento de un bus con peregrinos en Medellín: viajaban 48 personas",
+     "url": "https://www.eltiempo.com/colombia/medellin/video-revela-el-momento-exacto-del-volcamiento-de-un-bus-con-peregrinos-en-medellin-viajaban-48-personas-3596140",
+     "domain": "El Tiempo",
+     "seendate": "20261025T144606Z"
+    },
     {
      "title": "En video, emotivas palabras del presidente De La Espriella a la mamá de la policía María José Recuero, quien murió al enfrentarse a ladrones en Cali",
      "url": "https://www.eltiempo.com/colombia/cali/video-las-emotivas-palabras-del-presidente-de-la-espriella-a-la-mama-de-la-policia-maria-jose-recuero-quien-murio-al-enfrentarse-a-ladrones-en-cali-3596139",
@@ -1463,17 +1463,71 @@
      "url": "https://www.eltiempo.com/colombia/cali/obras-por-impuestos-viabilizan-mejoras-en-colegios-publicos-para-beneficiar-a-1-101-estudiantes-en-el-municipio-de-florida-valle-3596083",
      "domain": "El Tiempo",
      "seendate": "20261024T231750Z"
-    },
-    {
-     "title": "¿Cómo Medellín y el Gobierno, con el respaldo de Estados Unidos, combatirán estructuras criminales, narcotráfico y minería que alimentan la guerra?",
-     "url": "https://www.eltiempo.com/colombia/medellin/como-medellin-y-el-gobierno-con-el-respaldo-de-estados-unidos-combatiran-estructuras-criminales-narcotrafico-y-mineria-que-alimentan-la-guerra-3596059",
-     "domain": "El Tiempo",
-     "seendate": "20261024T214946Z"
     }
    ]
   },
   "VEN": {
    "articles": [
+    {
+     "title": "Dr . Javier Soteldo , vicepresidente de la Sociedad Anticancerosa de Venezuela , visitó Guayana para abordar los desafíos del cáncer de mama - Yvke Mundial",
+     "url": "https://radiomundial.com.ve/dr-javier-soteldo-vicepresidente-de-la-sociedad-anticancerosa-de-venezuela-visito-guayana-para-abordar-los-desafios-del-cancer-de-mama/",
+     "domain": "radiomundial.com.ve",
+     "seendate": "20261025T123000Z"
+    },
+    {
+     "title": "Inicio | Periódico CiudadCCS",
+     "url": "http://ciudadccs.info/publicacion/52516-gobierno-preve-fortalecer-la-atencion-diaria-de-ninos-mediante-el-pae",
+     "domain": "ciudadccs.info",
+     "seendate": "20261025T111500Z"
+    },
+    {
+     "title": "Lluvias extremas en Venezuela : inundaciones , pocos datos y la urgencia de evitar el colapso",
+     "url": "https://talcualdigital.com/a-fondo/lluvias-extremas-en-venezuela-inundaciones-pocos-datos-y-la-urgencia-de-evitar-el-colapso/",
+     "domain": "talcualdigital.com",
+     "seendate": "20261025T104500Z"
+    },
+    {
+     "title": "25Oct : Día Mundial del Karate",
+     "url": "https://www.informe21.com/post/25oct-d%C3%ADa-mundial-del-karate",
+     "domain": "informe21.com",
+     "seendate": "20261025T104500Z"
+    },
+    {
+     "title": "Por el camino de nuestros santos",
+     "url": "https://www.informe21.com/post/por-el-camino-de-nuestros-santos",
+     "domain": "informe21.com",
+     "seendate": "20261025T104500Z"
+    },
+    {
+     "title": "Bloomberg : Venezuela reactivará la central eléctrica Planta Centro con apoyo de China para aliviar los apagones",
+     "url": "https://confirmado.com.ve/bloomberg-venezuela-reactivara-la-central-electrica-planta-centro-con-apoyo-de-china-para-aliviar-los-apagones/",
+     "domain": "confirmado.com.ve",
+     "seendate": "20261025T093000Z"
+    },
+    {
+     "title": "Seniat fija en Gaceta Oficial los nuevos criterios para contribuyentes especiales",
+     "url": "https://confirmado.com.ve/seniat-fija-en-gaceta-oficial-los-nuevos-criterios-para-contribuyentes-especiales/",
+     "domain": "confirmado.com.ve",
+     "seendate": "20261025T093000Z"
+    },
+    {
+     "title": "Gehard Cartay Ramírez : La importancia de la memoria histórica",
+     "url": "https://confirmado.com.ve/gehard-cartay-ramirez-la-importancia-de-la-memoria-historica/",
+     "domain": "confirmado.com.ve",
+     "seendate": "20261025T093000Z"
+    },
+    {
+     "title": "David Morán Bohórquez : Comiendo arepas con Sir Richard Branson en La Guaira",
+     "url": "https://confirmado.com.ve/david-moran-bohorquez-comiendo-arepas-con-sir-richard-branson-en-la-guaira/",
+     "domain": "confirmado.com.ve",
+     "seendate": "20261025T093000Z"
+    },
+    {
+     "title": "Leopoldo Martinez Nucete : Venezuela : una negociación enfocada para abrir el horizonte electoral",
+     "url": "https://confirmado.com.ve/leopoldo-martinez-nucete-venezuela-una-negociacion-enfocada-para-abrir-el-horizonte-electoral/",
+     "domain": "confirmado.com.ve",
+     "seendate": "20261025T093000Z"
+    },
     {
      "title": "Buscando un unicornio",
      "url": "https://www.el-carabobeno.com/buscando-un-unicornio/",
@@ -1643,12 +1697,6 @@
      "seendate": "20261024T171500Z"
     },
     {
-     "title": "Inicio | Periódico CiudadCCS",
-     "url": "https://www.ciudadccs.info/publicacion/52496-bautizan-libro-sobre-pensamiento-cientifico-de-jose-gregorio-hernandez",
-     "domain": "ciudadccs.info",
-     "seendate": "20261024T171500Z"
-    },
-    {
      "title": "Fundaprocura celebra una nueva edición de",
      "url": "https://www.globovision.com/sociedad/63595/fundaprocura-celebra-una-nueva-edicion-de-el-bazar-de-los-bazares-en-el-caracas-country-club",
      "domain": "globovision.com",
@@ -1713,29 +1761,23 @@
      "url": "https://www.eluniversal.com/el-universal/243853/lo-que-aprendi-de-los-llms",
      "domain": "eluniversal.com",
      "seendate": "20261024T151500Z"
-    },
-    {
-     "title": "Bravos vencen a Tiburones y barren la serie en Margarita",
-     "url": "https://rnv.gob.ve/bravos-vencen-a-tiburones-y-barren-la-serie-en-margarita/",
-     "domain": "rnv.gob.ve",
-     "seendate": "20261024T151500Z"
-    },
-    {
-     "title": "Obispos exigen elecciones libres , cese de inhabilitaciones y renovación del CNE y TSJ",
-     "url": "https://www.informe21.com/post/obispos-exigen-elecciones-libres-cese-de-inhabilitaciones-y-renovaci%C3%B3n-del-cne-y-tsj",
-     "domain": "informe21.com",
-     "seendate": "20261024T151500Z"
-    },
-    {
-     "title": "Sin Estado no hay transición ( II )",
-     "url": "https://www.eluniversal.com/el-universal/243857/sin-estado-no-hay-transicion-ii",
-     "domain": "eluniversal.com",
-     "seendate": "20261024T151500Z"
     }
    ]
   },
   "ECU": {
    "articles": [
+    {
+     "title": "Aula Digital incorporará inteligencia artificial y seguimiento académico para 2,8 millones de estudiantes",
+     "url": "https://eluniverso.com/politica/ejecutivo/aula-digital-incorporara-inteligencia-artificial-y-seguimiento-academico-para-28-millones-de-estudiantes-nota/",
+     "domain": "El Universo",
+     "seendate": "20261025T143000Z"
+    },
+    {
+     "title": "Inundaciones en Machala tras más de seis horas de lluvia: canal El Macho se desbordó",
+     "url": "https://eluniverso.com/comunidad/ecuador/inundaciones-en-machala-tras-mas-de-seis-horas-de-lluvia-canal-el-macho-se-desbordo-nota/",
+     "domain": "El Universo",
+     "seendate": "20261025T142702Z"
+    },
     {
      "title": "Gobierno busca identificar zonas vulnerables y reforzar el monitoreo ante el fenómeno de El Niño",
      "url": "https://eluniverso.com/politica/ejecutivo/gobierno-busca-identificar-zonas-vulnerables-y-reforzar-el-monitoreo-ante-el-fenomeno-de-el-nino-nota/",
@@ -2569,6 +2611,18 @@
   "ARG": {
    "articles": [
     {
+     "title": "A cuánto abre el dólar el lunes 26 de octubre",
+     "url": "https://www.lanacion.com.ar/economia/dolar/a-cuanto-abre-el-dolar-el-lunes-26-de-octubre-nid24102026/",
+     "domain": "La Nación",
+     "seendate": "20261025T144927Z"
+    },
+    {
+     "title": "Carlos Jornet, nuevo presidente de la SIP: “Si no apoyamos al periodismo, la próxima consecuencia será un acelerado deterioro democrático e institucional”",
+     "url": "https://www.lanacion.com.ar/sociedad/carlos-jornet-nuevo-presidente-de-la-sip-si-no-apoyamos-al-periodismo-la-proxima-consecuencia-sera-nid25102026/",
+     "domain": "La Nación",
+     "seendate": "20261025T144641Z"
+    },
+    {
      "title": "Intiman a retirar el único puesto de diarios de Puerto Madero: el dueño pide quedarse y los vecinos lo respaldan",
      "url": "https://www.lanacion.com.ar/sociedad/intiman-a-retirar-el-unico-puesto-de-diarios-de-puerto-madero-el-dueno-pide-quedarse-y-los-vecinos-nid23102026/",
      "domain": "La Nación",
@@ -2669,24 +2723,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/la-formula-para-que-el-cerebro-descanse-de-verdad-y-deje-de-pensar-en-todo-nid25102026/",
      "domain": "La Nación",
      "seendate": "20261025T060000Z"
-    },
-    {
-     "title": "Lorenzetti justificó la inhabilitación a Cristina Kirchner: “No fue el primer caso”",
-     "url": "https://www.lanacion.com.ar/politica/lorenzetti-justifico-la-inhabilitacion-de-cristina-kirchner-no-fue-el-primer-caso-nid25102026/",
-     "domain": "La Nación",
-     "seendate": "20261025T050905Z"
-    },
-    {
-     "title": "De las grandes estancias a los puestos patagónicos: la fábrica de 128 años que mantiene vivo el fuego de la cocina a leña",
-     "url": "https://www.lanacion.com.ar/economia/campo/de-las-grandes-estancias-a-los-puestos-patagonicos-la-fabrica-de-128-anos-que-mantiene-vivo-el-fuego-nid24102026/",
-     "domain": "La Nación",
-     "seendate": "20261025T042814Z"
-    },
-    {
-     "title": "Federico Pastrana: “El Gobierno domina el dólar, pero el riesgo país sube, la popularidad cae y hay una crisis sin perspectiva de salida”",
-     "url": "https://www.lanacion.com.ar/economia/federico-pastrana-el-gobierno-domina-el-dolar-pero-el-riesgo-pais-sube-la-popularidad-cae-y-hay-una-nid25102026/",
-     "domain": "La Nación",
-     "seendate": "20261025T042744Z"
     }
    ]
   },
@@ -3057,6 +3093,18 @@
   "PRY": {
    "articles": [
     {
+     "title": "Alicia Pucheta: ¿tiene los días contados en el CM y el JEM?",
+     "url": "https://www.abc.com.py/nacionales/2026/10/25/alicia-pucheta-tiene-los-dias-contados-en-el-cm-y-el-jem/",
+     "domain": "ABC Color",
+     "seendate": "20261025T143835Z"
+    },
+    {
+     "title": "Piel de mariposa: qué es la enfermedad que afecta a 16 pacientes pediátricos en Paraguay",
+     "url": "https://www.abc.com.py/nacionales/2026/10/25/piel-de-mariposa-que-es-la-enfermedad-que-afecta-a-16-pacientes-pediatricos-en-paraguay/",
+     "domain": "ABC Color",
+     "seendate": "20261025T143449Z"
+    },
+    {
      "title": "Veda pesquera: ¿Qué reclaman los pescadores al Gobierno?",
      "url": "https://www.abc.com.py/nacionales/2026/10/25/veda-pesquera-que-reclaman-los-pescadores-al-gobierno/",
      "domain": "ABC Color",
@@ -3088,22 +3136,22 @@
   "BRA": {
    "articles": [
     {
+     "title": "Eleições 2026: Flávio diz que chegou a 'hora da mudança'; Lula fala que povo é 'exército da democracia'; acompanhe",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/ao-vivo/eleicoes-2026-acompanhe-ao-vivo-o-segundo-turno-ao-vivo-no-brasil.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T142720Z"
+    },
+    {
      "title": "TSE registra 1 milhão de justificativas pelo e-Título até às 9h",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/tse-registra-justificativas-pelo-e-titulo.ghtml",
      "domain": "O Globo",
      "seendate": "20261025T141837Z"
     },
     {
-     "title": "Fachin vota em Brasília",
+     "title": "Fachin vota em Brasília, pede respeito ao resultado das urnas e diz que Brasil precisa de 'paz e tranquilidade'",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/fachin-vota-em-brasilia.ghtml",
      "domain": "O Globo",
      "seendate": "20261025T141235Z"
-    },
-    {
-     "title": "Eleições 2026: Flávio diz que chegou a 'hora da mudança'; Lula fala que povo é 'exército da democracia'; acompanhe",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/ao-vivo/eleicoes-2026-acompanhe-ao-vivo-o-segundo-turno-ao-vivo-no-brasil.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T140305Z"
     },
     {
      "title": "Eleitores chegam de barco para votar no Amazonas; governo prevê transporte fluvial para comunidades tradicionais",
