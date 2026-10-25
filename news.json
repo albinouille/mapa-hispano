@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T22:23:23+00:00",
+ "updated": "2026-10-25T22:56:38+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -134,7 +134,19 @@
   "MEX": {
    "articles": [
     {
-     "title": "INE difunde renuncia de Taddei; luego borra comunicado",
+     "title": "Morena CDMX anuncia colecta de firmas en apoyo a Ley de Rentas; diputados guindas inician parlamento abierto",
+     "url": "https://www.eluniversal.com.mx/metropoli/morena-cdmx-anuncia-colecta-de-firmas-en-apoyo-a-ley-de-rentas-diputados-guindas-inician-parlamento-abierto/",
+     "domain": "El Universal",
+     "seendate": "20261025T224205Z"
+    },
+    {
+     "title": "Venustiano Carranza reduce percepción de inseguridad; ocupa segundo lugar entre alcaldías de CDMX",
+     "url": "https://www.eluniversal.com.mx/metropoli/venustiano-carranza-reduce-percepcion-de-inseguridad-ocupa-segundo-lugar-entre-alcaldias-de-cdmx/",
+     "domain": "El Universal",
+     "seendate": "20261025T223945Z"
+    },
+    {
+     "title": "INE difunde renuncia de Taddei; decisión busca proteger al Instituto, afirma",
      "url": "https://www.eluniversal.com.mx/nacion/ine-difunde-renuncia-de-taddei-luego-borra-comunicado/",
      "domain": "El Universal",
      "seendate": "20261025T221006Z"
@@ -318,12 +330,6 @@
      "url": "https://www.eluniversal.com.mx/nacion/vinculan-a-proceso-a-cesar-jauregui-exfiscal-de-chihuahua-seguira-preso-en-el-altiplano/",
      "domain": "El Universal",
      "seendate": "20261025T141912Z"
-    },
-    {
-     "title": "México cumple primer año de entregas de agua del Río Bravo a EU",
-     "url": "https://www.eluniversal.com.mx/nacion/mexico-concluye-primer-ano-del-ciclo-de-37-entregas-de-agua-del-rio-bravo-a-eu-hemos-actuado-con-responsabilidad-sre/",
-     "domain": "El Universal",
-     "seendate": "20261025T025943Z"
     }
    ]
   },
@@ -1162,6 +1168,12 @@
   "CRI": {
    "articles": [
     {
+     "title": "Cuidados intensivos del Hospital Nacional de Niños llega a su capacidad máxima: CCSS pide prevención",
+     "url": "https://www.nacion.com/el-pais/cuidados-intensivos-del-hospital-nacional-de-ninos/WUBQPSADEBHHTGYVIRYAKFW4ZI/story/",
+     "domain": "La Nación",
+     "seendate": "20261025T222739Z"
+    },
+    {
      "title": "Decomisan más de 2,5 toneladas de cocaína y marihuana en lancha interceptada en el Pacífico sur",
      "url": "https://www.nacion.com/sucesos/decomisan-mas-de-25-toneladas-de-cocaina-y/5XWCBWV3KBDG7COVGKTKA2DSGM/story/",
      "domain": "La Nación",
@@ -1352,6 +1364,12 @@
      "seendate": "20261025T050200Z"
     },
     {
+     "title": "La primera vivienda construida tras el terremoto: 14 días de obra en Soná",
+     "url": "https://www.prensa.com/sociedad/la-primera-vivienda-construida-tras-el-terremoto-14-dias-de-obra-en-sona/",
+     "domain": "La Prensa",
+     "seendate": "20261025T045500Z"
+    },
+    {
      "title": "De la calle a la recuperación: ¿quiénes pueden ingresar al centro de rehabilitación de Las Garzas?",
      "url": "https://www.prensa.com/sociedad/de-la-calle-a-la-recuperacion-quienes-pueden-ingresar-al-centro-de-rehabilitacion-de-las-garzas/",
      "domain": "La Prensa",
@@ -1362,12 +1380,6 @@
      "url": "https://www.prensa.com/sociedad/inicia-demolicion-de-una-escuela-afectada-por-el-terremoto-otras-40-seran-intervenidas/",
      "domain": "La Prensa",
      "seendate": "20261024T192933Z"
-    },
-    {
-     "title": "La primera vivienda construida tras el terremoto: 14 días de obra en Soná",
-     "url": "https://www.prensa.com/sociedad/la-primera-vivienda-construida-tras-el-terremoto-14-dias-de-obra-en-sona/",
-     "domain": "La Prensa",
-     "seendate": "20261024T182409Z"
     },
     {
      "title": "Azuero: ¿qué decían los índices de pobreza antes del terremoto?",
@@ -1519,10 +1531,10 @@
   "COL": {
    "articles": [
     {
-     "title": "Estados Unidos condenó a prisión a un peruano-estadounidense por explotación sexual de menor: lo habían hallado con 16 adolescentes en Antioquia",
-     "url": "https://www.eltiempo.com/colombia/medellin/estados-unidos-condeno-a-prision-a-peruano-estadounidense-por-explotacion-sexual-de-menor-lo-habian-hallado-con-16-adolescentes-en-antioquia-3596153",
+     "title": "Barranquilla proyecta invertir $1,7 billones en educación y $792.000 millones en vivienda en 2027: Concejo revisa presupuesto de $9,25 billones",
+     "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-proyecta-invertir-1-7-billones-en-educacion-y-792-000-millones-en-vivienda-en-2027-concejo-revisa-presupuesto-de-9-25-billones-3596203",
      "domain": "El Tiempo",
-     "seendate": "20261025T215530Z"
+     "seendate": "20261025T223039Z"
     },
     {
      "title": "Lo que se sabe del fatal accidente de tránsito entre un carro particular y una moto en Cali: ¿quiénes eran las víctimas de una empresa de transporte?",
@@ -1887,6 +1899,24 @@
   "ECU": {
    "articles": [
     {
+     "title": "Fuerzas Armadas ejecutan controles en cárceles y provincias bajo estado de excepción",
+     "url": "https://eluniverso.com/politica/seguridad/fuerzas-armadas-ejecutan-controles-carceles-provincias-bajo-estado-excepcion-nota/",
+     "domain": "El Universo",
+     "seendate": "20261025T223448Z"
+    },
+    {
+     "title": "Más de 51.600 candidatos están en firme para las elecciones seccionales del 29 de noviembre",
+     "url": "https://eluniverso.com/politica/elecciones/candidatos-en-firme-elecciones-seccionales-noviembre-nota/",
+     "domain": "El Universo",
+     "seendate": "20261025T223426Z"
+    },
+    {
+     "title": "Inamhi advierte de lluvias intensas en Ecuador este lunes: estas son las provincias bajo este pronóstico",
+     "url": "https://eluniverso.com/comunidad/ecuador/inamhi-alerta-por-lluvias-intensas-en-ecuador-hasta-el-28-de-octubre-nota/",
+     "domain": "El Universo",
+     "seendate": "20261025T223000Z"
+    },
+    {
      "title": "CPCCS evacua todas las apelaciones y el concurso de fiscal general continuará con cinco aspirantes",
      "url": "https://eluniverso.com/politica/transparencia/cpccs-evacua-todas-las-apelaciones-y-el-concurso-de-fiscal-general-continuara-con-cinco-aspirantes-nota/",
      "domain": "El Universo",
@@ -1993,17 +2023,17 @@
      "url": "https://eluniverso.com/comunidad/ecuador/radiacion-uv-en-ecuador-pronostico-del-inamhi-para-el-25-de-octubre-nota/",
      "domain": "El Universo",
      "seendate": "20261025T013406Z"
-    },
-    {
-     "title": "Transferencias y cheques al portador: las dos vías que Fiscalía investiga en el caso Laberinto por financiamiento irregular a campaña de Luisa González",
-     "url": "https://eluniverso.com/politica/expedientes/transferencias-y-cheques-al-portador-las-dos-vias-que-fiscalia-investiga-en-el-caso-laberinto-por-financiamiento-irregular-a-campana-de-luisa-gonzalez-nota/",
-     "domain": "El Universo",
-     "seendate": "20261024T192358Z"
     }
    ]
   },
   "PER": {
    "articles": [
+    {
+     "title": "Junín: Desbaratan banda criminal que dopaba a sus víctimas para robarles celulares y vaciar sus cuentas",
+     "url": "https://elcomercio.pe/peru/junin/junin-desbaratan-banda-criminal-que-dopaba-a-sus-victimas-para-robarles-celulares-y-vaciar-sus-cuentas-los-intocables-del-centro-ultimas-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261025T223748Z"
+    },
     {
      "title": "Último temblor en Perú hoy, domingo 25 de octubre: epicentro y magnitud del sismo según IGP",
      "url": "https://elcomercio.pe/peru/ultimo-temblor-hoy-sismos-en-peru-lugar-y-magnitud-segun-igp-arequipa-cusco-lima-reportes-tdpe-noticia/",
@@ -2728,7 +2758,13 @@
      "title": "Patricia Bullrich cuestionó a Milei por sus ataques al periodismo: “Se cruzó un límite”",
      "url": "https://www.lanacion.com.ar/politica/patricia-bullrich-cuestiono-a-milei-por-sus-ataques-al-periodismo-se-cruzo-un-limite-nid25102026/",
      "domain": "La Nación",
-     "seendate": "20261025T222143Z"
+     "seendate": "20261025T224642Z"
+    },
+    {
+     "title": "Los reiterados ataques de quemacoches preocupan a los vecinos de un barrio del conurbano",
+     "url": "https://www.lanacion.com.ar/seguridad/los-reiterados-ataques-de-quemacoches-preocupan-a-los-vecinos-de-un-barrio-del-conurbano-nid24102026/",
+     "domain": "La Nación",
+     "seendate": "20261025T222812Z"
     },
     {
      "title": "Doce diputados libertarios viajaron a Brasil para respaldar a Flavio Bolsonaro y esperan los resultados en Río de Janeiro",
@@ -2825,12 +2861,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/mauricio-de-37-anos-dejo-su-trabajo-en-una-automotriz-y-se-mudo-al-monte-si-uno-tiene-herramientas-y-nid24102026/",
      "domain": "La Nación",
      "seendate": "20261025T191638Z"
-    },
-    {
-     "title": "Carlos Jornet, nuevo presidente de la SIP: “Si no apoyamos al periodismo, la próxima consecuencia será un acelerado deterioro democrático e institucional”",
-     "url": "https://www.lanacion.com.ar/sociedad/carlos-jornet-nuevo-presidente-de-la-sip-si-no-apoyamos-al-periodismo-la-proxima-consecuencia-sera-nid25102026/",
-     "domain": "La Nación",
-     "seendate": "20261025T190959Z"
     }
    ]
   },
@@ -3220,10 +3250,22 @@
   "BRA": {
    "articles": [
     {
-     "title": "Eleições 2026: TSE retoma apuração dos votos após prorrogação de horário; Lula aparece na frente de Flávio Bolsonaro",
+     "title": "Eleições 2026: Com 9,99% das urnas apuradas, Lula tem 50,48% dos votos e Flávio Bolsonaro acumula 49,52%; siga ao vivo",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/ao-vivo/eleicoes-2026-acompanhe-ao-vivo-o-segundo-turno-ao-vivo-no-brasil.ghtml",
      "domain": "O Globo",
-     "seendate": "20261025T220543Z"
+     "seendate": "20261025T223952Z"
+    },
+    {
+     "title": "'Caótica', 'confusa' e 'polêmica': Imprensa internacional repercute segundo turno das eleições no Brasil",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/caotica-confusa-e-polemica-imprensa-internacional-repercute-segundo-turno-das-eleicoes-no-brasil.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T223244Z"
+    },
+    {
+     "title": "Flávio Bolsonaro x Lula no exterior: compare votação entre 1º e 2º turnos e em 2022",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/flavio-bolsonaro-x-lula-no-exterior-compare-votacao-entre-1o-e-2o-turnos-e-em-2022.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T222024Z"
     },
     {
      "title": "Adiamento do horário de votação provoca confusão nas principais zonas eleitorais de São Paulo",
@@ -3458,12 +3500,6 @@
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/flavio-reune-tarcisio-nunes-e-zucco-para-acompanhar-apuracao-enquanto-michelle-deve-aguardar-resultado-ao-lado-de-bolsonaro.ghtml",
      "domain": "O Globo",
      "seendate": "20261025T180730Z"
-    },
-    {
-     "title": "Quem ganhou as eleições 2026 na China? Veja resultado da apuração entre Lula e Bolsonaro",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/quem-ganhou-as-eleicoes-2026-na-china-veja-resultado-da-apuracao-entre-lula-e-bolsonaro.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T180217Z"
     }
    ]
   }
