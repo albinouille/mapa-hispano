@@ -1,8 +1,20 @@
 {
- "updated": "2026-10-26T15:37:24+00:00",
+ "updated": "2026-10-26T16:47:29+00:00",
  "countries": {
   "ESP": {
    "articles": [
+    {
+     "title": "Los acusados de difundir el bulo del ‘bar España’: “Nos lo creímos todo”",
+     "url": "https://elpais.com/espana/comunidad-valenciana/2026-10-26/los-acusados-de-difundir-el-mayor-bulo-de-espana-nos-lo-creimos-todo.html",
+     "domain": "El País",
+     "seendate": "20261026T160612Z"
+    },
+    {
+     "title": "La dimisión del delegado del Gobierno enfada a la dirección del PSOE: “No le beneficia ni a él ni a la organización”",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-10-26/la-dimision-del-delegado-del-gobierno-enfada-a-la-direccion-del-psoe-no-le-beneficia-ni-a-el-ni-a-la-organizacion.html",
+     "domain": "El País",
+     "seendate": "20261026T153844Z"
+    },
     {
      "title": "Un mando de la Guardia Civil de Ceuta explica que se mantuvo abierta una puerta de la valla por riesgo de “tapón” humano en la entrada masiva",
      "url": "https://elpais.com/espana/2026-10-26/un-mando-de-la-guardia-civil-de-ceuta-explica-que-se-mantuvo-abierta-una-puerta-de-la-valla-por-riesgo-de-tapon-humano-en-la-entrada-masiva.html",
@@ -60,12 +72,6 @@
     {
      "title": "El Ayuntamiento recalifica la ciudad del Real Madrid con un informe que calcula mal el beneficio: sube de 1,46 a 98,6 millones",
      "url": "https://elpais.com/espana/madrid/2026-10-26/el-ayuntamiento-recalifica-la-ciudad-del-real-madrid-con-un-informe-que-calcula-mal-el-beneficio-para-la-capital-aumenta-de-146-a-986-millones.html",
-     "domain": "El País",
-     "seendate": "20261026T043001Z"
-    },
-    {
-     "title": "“Para nosotros es histórico”: cómo Jordi Wild logró el sí de Sánchez, Feijóo, Abascal y Colau para ir a su casa",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-10-26/para-nosotros-es-historico-como-jordi-wild-logro-el-si-de-sanchez-feijoo-abascal-y-colau-para-ir-a-su-casa.html",
      "domain": "El País",
      "seendate": "20261026T043001Z"
     },
@@ -134,17 +140,53 @@
      "url": "https://elpais.com/espana/pais-vasco/2026-10-25/la-presion-popular-trata-de-impedir-la-apertura-de-un-mcdonalds-frente-al-mayor-colegio-de-gipuzkoa.html",
      "domain": "El País",
      "seendate": "20261025T043001Z"
-    },
-    {
-     "title": "Muere un trabajador forestal por un ataque masivo de avispas velutinas en Ourense",
-     "url": "https://elpais.com/espana/galicia/2026-10-21/muere-un-trabajador-forestal-por-un-ataque-masivo-de-velutinas-en-ourense.html",
-     "domain": "El País",
-     "seendate": "20261021T161610Z"
     }
    ]
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Segob reporta paro de transportistas en 19 estados con menos de mil personas; refrenda diálogo",
+     "url": "https://www.eluniversal.com.mx/nacion/segob-reporta-paro-de-transportistas-en-19-estados-con-menos-de-mil-personas-refrenda-dialogo/",
+     "domain": "El Universal",
+     "seendate": "20261026T162253Z"
+    },
+    {
+     "title": "Canaco CDMX estima más de 12 mil mdp en derrama económica por Día de Muertos; aumentó 5% en comparación al 2025",
+     "url": "https://www.eluniversal.com.mx/metropoli/canaco-cdmx-estima-mas-de-12-mil-mdp-en-derrama-economica-por-dia-de-muertos-aumento-5-en-comparacion-al-2025/",
+     "domain": "El Universal",
+     "seendate": "20261026T161231Z"
+    },
+    {
+     "title": "Sheinbaum habla sobre tratado comercial de México con EU; \"Vamos muy avanzados, pero todavía falta\", reconoce",
+     "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-habla-sobre-tratado-comercial-de-mexico-con-eu-vamos-muy-avanzados-pero-todavia-falta-reconoce/",
+     "domain": "El Universal",
+     "seendate": "20261026T161223Z"
+    },
+    {
+     "title": "Sheinbaum y gobernador de Jalisco alistan proyecto integral de agua para Guadalajara; van por garantizar agua limpia",
+     "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-y-gobernador-de-jalisco-alistan-proyecto-integral-de-agua-para-guadalajara-van-por-garantizar-agua-limpia/",
+     "domain": "El Universal",
+     "seendate": "20261026T155454Z"
+    },
+    {
+     "title": "Este es el clima hoy en CDMX; pronostican lluvias ligeras",
+     "url": "https://www.eluniversal.com.mx/metropoli/este-es-el-clima-hoy-en-cdmx-pronostican-lluvias-ligeras/",
+     "domain": "El Universal",
+     "seendate": "20261026T155414Z"
+    },
+    {
+     "title": "Sheinbaum defiende desempeño de médicos cubanos en México; asegura que tienen contratos justos",
+     "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-defiende-desempeno-de-medicos-cubanos-en-mexico-asegura-que-tienen-contratos-justos/",
+     "domain": "El Universal",
+     "seendate": "20261026T155210Z"
+    },
+    {
+     "title": "Sheinbaum niega que otros consejeros del INE deban renunciar; señalamientos son sólo en contra de Taddei, dice",
+     "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-niega-que-otros-consejeros-del-ine-deban-renunciar-senalamientos-son-solo-en-contra-de-taddei-dice/",
+     "domain": "El Universal",
+     "seendate": "20261026T153604Z"
+    },
     {
      "title": "Bienestar anuncia periodo de pago de Pensiones y Programas del Bienestar; inicia el 3 de noviembre",
      "url": "https://www.eluniversal.com.mx/nacion/bienestar-anuncia-periodo-de-pago-de-pensiones-y-programas-del-bienestar-inicia-el-3-de-noviembre/",
@@ -1132,10 +1174,52 @@
   "CRI": {
    "articles": [
     {
-     "title": "La carrera por la presidencia de la Corte empieza hoy. Siga las incidencias de la elección aquí",
+     "title": "La carrera por la presidencia de la Corte empieza hoy. Magistrados candidatos exponen sus propuestas",
      "url": "https://www.nacion.com/sucesos/la-carrera-por-la-presidencia-de-la-corte-empieza/CFXNOYMSLZA6VIAYIHJTHXHAMU/story/",
      "domain": "La Nación",
-     "seendate": "20261026T152350Z"
+     "seendate": "20261026T163540Z"
+    },
+    {
+     "title": "MOPT nombra a exjefe policial de Cartago como nuevo director de Tránsito",
+     "url": "https://www.nacion.com/el-pais/mopt-nombra-a-exjefe-policial-de-cartago-como/F64FW5EBPVB4FNFJGKZBQCYOE4/story/",
+     "domain": "La Nación",
+     "seendate": "20261026T163539Z"
+    },
+    {
+     "title": "Audiencia de medidas cautelares contra Chonta Mullins, exnuera de Pecho de Rata, se atrasa por recusación",
+     "url": "https://www.nacion.com/sucesos/audiencia-de-medidas-cautelares-contra-chonta/O7ZVLZ3HRBE4LNH6EX43CZPBCQ/story/",
+     "domain": "La Nación",
+     "seendate": "20261026T162946Z"
+    },
+    {
+     "title": "Corte de luz del ICE afectará una localidad en Puriscal este miércoles 28 de octubre",
+     "url": "https://www.nacion.com/el-pais/corte-de-luz-del-ice-afectara-una-localidad-en/YAIP44YLGZE25I376BKU6SVO6U/story/",
+     "domain": "La Nación",
+     "seendate": "20261026T162001Z"
+    },
+    {
+     "title": "Chonta Mullins, exnuera de Pecho de Rata, trabajó siete meses en hotel de Suiza con beneficio de ese gobierno, afirma su abogado",
+     "url": "https://www.nacion.com/sucesos/chonta-mullins-exnuera-de-pecho-de-rata-trabajo/Q66XCCLMRVC6DAEBFWNOOAUEMY/story/",
+     "domain": "La Nación",
+     "seendate": "20261026T161705Z"
+    },
+    {
+     "title": "Así votan los diputados en la Asamblea Legislativa: consulte qué proyectos apoyaron o rechazaron",
+     "url": "https://www.nacion.com/politica/que-proyectos-apoyo-o-rechazo-cada-diputado/XC5H5MQBLNBILBAMHG7U3BO4Z4/story/",
+     "domain": "La Nación",
+     "seendate": "20261026T155535Z"
+    },
+    {
+     "title": "Ministerio de Salud alerta por versión falsa de gotas para los ojos detectada en Estados Unidos",
+     "url": "https://www.nacion.com/el-pais/ministerio-de-salud-alerta-por-version-falsa-de/22EAMIZ7ARAM3E2PGSEA4F3C2M/story/",
+     "domain": "La Nación",
+     "seendate": "20261026T153738Z"
+    },
+    {
+     "title": "Procuraduría apeló fallo que excluyó a universidades públicas de las reglas salariales de la reforma fiscal",
+     "url": "https://www.nacion.com/el-pais/procuraduria-apelo-fallo-que-excluyo-a/Q2ZT3HDRQ5CT7M4GNBG2M46R3E/story/",
+     "domain": "La Nación",
+     "seendate": "20261026T153322Z"
     },
     {
      "title": "Vea en vivo la transmisión de la votación para elegir la Presidencia de la Corte Suprema de Justicia",
@@ -1238,36 +1322,6 @@
      "url": "https://www.nacion.com/sucesos/juez-impone-medidas-cautelares-a-cabecilla-de-los/KROGRNP2IVGA5OSJZHN5EYU7GI/story/",
      "domain": "La Nación",
      "seendate": "20261025T164327Z"
-    },
-    {
-     "title": "Rehabilitación de puente sobre río Grande de Térraba alcanza 70% de avance en Palmar Norte",
-     "url": "https://www.nacion.com/el-pais/rehabilitacion-de-puente-sobre-rio-grande-de/TQJGQVFM3NGF7OKOGHYY7TKRG4/story/",
-     "domain": "La Nación",
-     "seendate": "20261025T163205Z"
-    },
-    {
-     "title": "Motociclista muere tras ser atacado a balazos en Puntarenas",
-     "url": "https://www.nacion.com/sucesos/motociclista-muere-tras-ser-atacado-a-balazos-en/2P5RMF47PZHYJPVXTYA4PNC7BA/story/",
-     "domain": "La Nación",
-     "seendate": "20261025T153014Z"
-    },
-    {
-     "title": "CCSS advierte que recursos disponibles para pagar licencias de cuido apenas alcanzarían hasta octubre 2026",
-     "url": "https://www.nacion.com/el-pais/ccss-advierte-que-recursos-disponibles-para-pagar/MXYUUTMMBFA2XJIVWPPUS5EJKU/story/",
-     "domain": "La Nación",
-     "seendate": "20261025T153000Z"
-    },
-    {
-     "title": "IMN prevé un domingo nublado y pocas precipitaciones: ¿en cuáles zonas habrá lluvias dispersas?",
-     "url": "https://www.nacion.com/el-pais/imn-preve-un-domingo-nublado-y-pocas/AB7IXTNOAFDSPAOYL4TGVHERSE/story/",
-     "domain": "La Nación",
-     "seendate": "20261025T150153Z"
-    },
-    {
-     "title": "Asesinan a joven de 26 años en Siquirres: familiar lo fue a buscar y lo halló muerto dentro de casa",
-     "url": "https://www.nacion.com/sucesos/asesinan-a-joven-de-26-anos-en-siquirres-familiar/INWNO644MNBAXCREQZWL4DSNQM/story/",
-     "domain": "La Nación",
-     "seendate": "20261025T150045Z"
     }
    ]
   },
@@ -1513,6 +1567,36 @@
   "COL": {
    "articles": [
     {
+     "title": "Emergencias en Turbaco (Bolívar) tras fuertes aguaceros: el agua se desbordó en seis sectores y dejó más de 250 familias afectadas",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/emergencias-en-turbaco-bolivar-tras-fuertes-aguaceros-el-agua-se-desbordo-en-seis-sectores-y-dejo-mas-de-250-familias-afectadas-3596384",
+     "domain": "El Tiempo",
+     "seendate": "20261026T162745Z"
+    },
+    {
+     "title": "El fenómeno de El Niño no frena las lluvias: ¿por qué sigue lloviendo en el Valle de Aburrá?",
+     "url": "https://www.eltiempo.com/colombia/medellin/el-fenomeno-de-el-nino-no-frena-las-lluvias-por-que-sigue-lloviendo-en-el-valle-de-aburra-3596371",
+     "domain": "El Tiempo",
+     "seendate": "20261026T155317Z"
+    },
+    {
+     "title": "Por una libra de arroz, vendedor mató a un joven que, presuntamente se negó a pagarle en Huila: la Policía busca al agresor",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/por-una-libra-de-arroz-vendedor-mato-a-un-joven-que-presuntamente-se-nego-a-pagarle-en-huila-la-policia-busca-al-agresor-3596346",
+     "domain": "El Tiempo",
+     "seendate": "20261026T155234Z"
+    },
+    {
+     "title": "Disparan contra el vehículo del líder indígena Jorge Ulcué a la altura de Santander de Quilichao, en la vía Panamericana, en Cauca: lo que se sabe",
+     "url": "https://www.eltiempo.com/colombia/cali/disparan-contra-el-vehiculo-del-lider-indigena-jorge-ulcue-a-la-altura-de-santander-de-quilichao-en-la-via-panamericana-en-cauca-lo-que-se-sabe-3596357",
+     "domain": "El Tiempo",
+     "seendate": "20261026T155026Z"
+    },
+    {
+     "title": "En Cartagena, 38 extranjeros han sido inadmitidos tras ofensiva conjunta con EE. UU. contra la explotación sexual infantil",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/en-cartagena-38-extranjeros-han-sido-inadmitidos-tras-ofensiva-conjunta-con-ee-uu-contra-la-explotacion-sexual-infantil-3596335",
+     "domain": "El Tiempo",
+     "seendate": "20261026T154002Z"
+    },
+    {
      "title": "El batazo que hizo historia: hace 29 años, Édgar Rentería puso a Barranquilla a celebrar un título de la Serie Mundial",
      "url": "https://www.eltiempo.com/colombia/barranquilla/el-batazo-que-hizo-historia-hace-29-anos-edgar-renteria-puso-a-barranquilla-a-celebrar-un-titulo-de-la-serie-mundial-3596349",
      "domain": "El Tiempo",
@@ -1537,40 +1621,10 @@
      "seendate": "20261026T143656Z"
     },
     {
-     "title": "Corte Suprema de Justicia le pone la lupa a la gentrificación, el turismo depredador y el derecho al territorio en barrios patrimoniales de Cartagena",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/la-corte-suprema-de-justicia-le-pone-la-lupa-a-la-gentrificacion-el-turismo-depredador-y-derecho-al-territorio-en-barrios-patrimoniales-de-cartagena-3596321",
-     "domain": "El Tiempo",
-     "seendate": "20261026T143255Z"
-    },
-    {
      "title": "Bloqueos viales en Bucaramanga y su área metropolitana por el alza en el impuesto predial: conozca en qué partes se están originando los cierres",
      "url": "https://www.eltiempo.com/colombia/santander/bloqueos-viales-en-bucaramanga-y-su-area-metropolitana-por-el-alza-en-el-impuesto-predial-conozca-en-que-partes-se-estan-originando-los-cierres-3596328",
      "domain": "El Tiempo",
      "seendate": "20261026T142904Z"
-    },
-    {
-     "title": "Cali despidió con honores a María José Recuero, la valiente policía que murió enfrentando a unos ladrones: el tributo en su natal Córdoba",
-     "url": "https://www.eltiempo.com/colombia/cali/cali-despidio-con-honores-a-maria-jose-recuero-la-valiente-policia-que-murio-enfrentando-a-unos-ladrones-el-tributo-en-su-natal-cordoba-3596311",
-     "domain": "El Tiempo",
-     "seendate": "20261026T140709Z"
-    },
-    {
-     "title": "Porcicultores de Santander piden una planta de sacrificio animal en Bucaramanga: aseguran que gran parte del gremio está cerrando sus granjas",
-     "url": "https://www.eltiempo.com/colombia/santander/porcicultores-de-santander-piden-una-planta-de-sacrificio-animal-en-bucaramanga-aseguran-que-gran-parte-del-gremio-esta-cerrando-sus-granjas-3596309",
-     "domain": "El Tiempo",
-     "seendate": "20261026T140622Z"
-    },
-    {
-     "title": "Incendio en Medellín dejó al menos tres locales afectados: el alcalde de la ciudad, Federico Gutiérrez, confirmó que la emergencia fue controlada",
-     "url": "https://www.eltiempo.com/colombia/medellin/incendio-en-medellin-dejo-al-menos-tres-locales-afectados-el-alcalde-de-la-ciudad-federico-gutierrez-confirmo-que-la-emergencia-fue-controlada-3596282",
-     "domain": "El Tiempo",
-     "seendate": "20261026T134849Z"
-    },
-    {
-     "title": "Turista vino del Valle a pasar vacaciones en Santa Marta y murió embestido por una lancha mientras hacía careteo; esto es lo que se sabe",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/turista-vino-del-valle-a-pasar-vacaciones-en-santa-marta-y-murio-embestido-por-una-lancha-mientras-hacia-careteo-esto-es-lo-que-se-sabe-3596293",
-     "domain": "El Tiempo",
-     "seendate": "20261026T124948Z"
     }
    ]
   },
@@ -1881,6 +1935,24 @@
   "ECU": {
    "articles": [
     {
+     "title": "Alias ‘Gissela’, vinculada a Los Lobos, fue capturada por el Bloque de Seguridad",
+     "url": "https://eluniverso.com/politica/seguridad/alias-gissela-vinculada-a-los-lobos-fue-capturada-por-el-bloque-de-seguridad-nota/",
+     "domain": "El Universo",
+     "seendate": "20261026T160738Z"
+    },
+    {
+     "title": "Daniel Noboa afirma que se han evidenciado nexos de tres partidos políticos con el narcotráfico",
+     "url": "https://eluniverso.com/politica/ejecutivo/daniel-noboa-afirma-que-se-han-evidenciado-nexos-de-tres-partidos-politicos-con-el-narcotrafico-nota/",
+     "domain": "El Universo",
+     "seendate": "20261026T154816Z"
+    },
+    {
+     "title": "Menos de un mes le resta al CJ para designar y posesionar a jueces temporales que completen el proceso de selección",
+     "url": "https://eluniverso.com/politica/expedientes/menos-mes-resta-cj-designar-posesionar-jueces-temporales-completen-proceso-seleccion-nota/",
+     "domain": "El Universo",
+     "seendate": "20261026T154202Z"
+    },
+    {
      "title": "Desbordamiento de ríos en 11 localidades afecta a cuatro provincias del país",
      "url": "https://eluniverso.com/comunidad/ecuador/desbordamiento-de-rios-en-11-localidades-afecta-a-cuatro-provincias-del-pais-nota/",
      "domain": "El Universo",
@@ -1993,40 +2065,52 @@
      "url": "https://eluniverso.com/comunidad/ecuador/inamhi-alerta-por-lluvias-intensas-en-ecuador-hasta-el-28-de-octubre-nota/",
      "domain": "El Universo",
      "seendate": "20261025T223000Z"
-    },
-    {
-     "title": "CPCCS evacua todas las apelaciones y el concurso de fiscal general continuará con cinco aspirantes",
-     "url": "https://eluniverso.com/politica/transparencia/cpccs-evacua-todas-las-apelaciones-y-el-concurso-de-fiscal-general-continuara-con-cinco-aspirantes-nota/",
-     "domain": "El Universo",
-     "seendate": "20261025T214957Z"
-    },
-    {
-     "title": "Gobierno distribuye kits de ayuda a familias afectadas por inundaciones en seis cantones de Ecuador",
-     "url": "https://eluniverso.com/comunidad/ecuador/sngr-entrega-ayuda-humanitaria-por-las-lluvias-en-ecuador-nota/",
-     "domain": "El Universo",
-     "seendate": "20261025T214814Z"
-    },
-    {
-     "title": "CNEL atiende más de 300 incidencias eléctricas por últimas lluvias en Guayaquil, Durán, Samborondón y Daule",
-     "url": "https://eluniverso.com/comunidad/ecuador/cnel-atiende-mas-300-incidencias-electricas-por-ultimas-lluvias-en-guayaquil-duran-samborondon-y-daule-nota/",
-     "domain": "El Universo",
-     "seendate": "20261025T212014Z"
-    },
-    {
-     "title": "Lluvias vinculadas a El Niño dejan tres muertos y más de 28.000 afectados en Ecuador",
-     "url": "https://eluniverso.com/comunidad/ecuador/lluvias-vinculadas-a-el-nino-dejan-tres-muertos-y-mas-de-28000-afectados-en-ecuador-nota/",
-     "domain": "El Universo",
-     "seendate": "20261025T191814Z"
     }
    ]
   },
   "PER": {
    "articles": [
     {
+     "title": "Nuam: La Cámara de Compensaciones comenzaría a operar a inicios del 2027",
+     "url": "https://elcomercio.pe/economia/peru/nuam-la-camara-de-compensaciones-comenzaria-a-operar-a-inicios-del-2027-inperu-bolsa-de-valores-de-lima-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261026T162809Z"
+    },
+    {
+     "title": "Sociedad Nacional de Industrias “Las ventas en el sector textil caerían un 50% en Navidad, estaremos ad portas o ya con un diluvio en el país”",
+     "url": "https://elcomercio.pe/economia/peru/sociedad-nacional-de-industrias-las-ventas-en-el-sector-textil-caerian-un-50-en-navidad-estaremos-ad-portas-o-ya-con-un-diluvio-en-el-pais-apuesplan-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261026T162738Z"
+    },
+    {
+     "title": "Casi 1,5 millones de hogares aún cocinan solo con combustibles sólidos como la leña o el carbón, ¿dónde se concentra la brecha?",
+     "url": "https://elcomercio.pe/economia/peru/casi-15-millones-de-hogares-aun-cocinan-solo-con-combustibles-solidos-como-la-lena-o-el-carbon-donde-se-concentra-la-brecha-ipe-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261026T162716Z"
+    },
+    {
+     "title": "Elmer Cuba, ministro de Economía: “Mientras estemos en el ministerio no plantearemos cambiar ninguna tasa de impuestos, IGV o impuesto a la renta”",
+     "url": "https://elcomercio.pe/economia/peru/elmer-cuba-ministro-de-economia-mientras-estemos-en-el-ministerio-no-plantearemos-cambiar-ninguna-tasa-de-impuestos-igv-o-impuesto-a-la-renta-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261026T162321Z"
+    },
+    {
      "title": "Lluvias en el norte del Perú: noticias de precipitaciones en Piura y otras regiones",
      "url": "https://elcomercio.pe/peru/lluvias-en-peru-en-vivo-ultimas-noticias-de-las-precipitaciones-en-piura-tumbes-y-trujillo-estado-de-emergencia-en-el-norte-senamhi-indeci-lloviznas-fenomeno-el-nino-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261026T152429Z"
+     "seendate": "20261026T161603Z"
+    },
+    {
+     "title": "Negocios aumentan hasta 20% su inversión para Halloween y el Día de la Canción Criolla, ¿será una buena campaña de ‘dulce o truco’ y jarana?",
+     "url": "https://elcomercio.pe/economia/peru/negocios-aumentan-hasta-20-su-inversion-para-halloween-y-el-dia-de-la-cancion-criolla-31-de-octubre-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261026T154349Z"
+    },
+    {
+     "title": "Reporte de temblor en Perú hoy, lunes 26 de octubre: lugar del epicentro y magnitud del sismo",
+     "url": "https://elcomercio.pe/peru/ultimo-temblor-hoy-sismos-en-peru-lugar-y-magnitud-segun-igp-arequipa-cusco-lima-reportes-tdpe-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261026T154300Z"
     },
     {
      "title": "El ‘Mega Niño’ podría afectar producción de arándanos, uva y mango hacia finales del año, prevé el Midagri",
@@ -2035,28 +2119,22 @@
      "seendate": "20261026T151149Z"
     },
     {
-     "title": "Papa León XIV en Perú: museos de Lambayeque atenderán hasta las 8 p.m. en noviembre",
-     "url": "https://elcomercio.pe/peru/lambayeque/papa-leon-xiv-en-peru-museos-de-lambayeque-atenderan-hasta-las-8-pm-en-noviembre-apuesplan-ultimas-noticia/",
+     "title": "Ministro Guillermo Shinno Huamaní inaugura Central Solar Expansión Intipampa en Moquegua",
+     "url": "https://elcomercio.pe/economia/peru/ministro-guillermo-shinno-huamani-inaugura-central-solar-expansion-intipampa-en-moquegua-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261026T134003Z"
+     "seendate": "20261024T191143Z"
     },
     {
-     "title": "Temblor en Perú hoy, lunes 26 de octubre: dónde fue el lugar del epicentro y magnitud",
-     "url": "https://elcomercio.pe/peru/ultimo-temblor-hoy-sismos-en-peru-lugar-y-magnitud-segun-igp-arequipa-cusco-lima-reportes-tdpe-noticia/",
+     "title": "Lote 192: Petroloreto asumirá el 75% de participación y la operación por 27 años",
+     "url": "https://elcomercio.pe/economia/peru/lote-192-petroloreto-asumira-el-75-de-participacion-y-la-operacion-por-27-anos-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261026T133845Z"
+     "seendate": "20261024T163929Z"
     },
     {
-     "title": "Lluvias en Perú EN VIVO: noticias sobre precipitaciones por El Niño extraordinario",
-     "url": "https://elcomercio.pe/peru/lluvias-en-peru-en-vivo-ultimas-noticias-de-las-precipitaciones-en-piura-tumbes-y-trujillo-estado-de-emergencia-en-el-norte-senamhi-indeci-lloviznas-fenomeno-el-nino-lbposting-noticia/",
+     "title": "El Niño: Capeco plantea acelerar la reconstrucción de viviendas ante brechas en prevención",
+     "url": "https://elcomercio.pe/economia/peru/el-nino-capeco-plantea-acelerar-la-reconstruccion-de-viviendas-ante-brechas-en-prevencion-fen-fenomeno-de-el-nino-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261026T110001Z"
-    },
-    {
-     "title": "Casi 1,5 millones de hogares aún cocinan solo con combustibles sólidos como la leña o el carbón, ¿dónde se concentra la brecha?",
-     "url": "https://elcomercio.pe/economia/peru/casi-15-millones-de-hogares-aun-cocinan-solo-con-combustibles-solidos-como-la-lena-o-el-carbon-donde-se-concentra-la-brecha-ipe-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261025T201700Z"
+     "seendate": "20261024T133947Z"
     }
    ]
   },
@@ -2755,10 +2833,88 @@
   "ARG": {
    "articles": [
     {
+     "title": "Un camarista federal de La Rioja denunciado por acoso designó en los tribunales a la hija del juez que lo investiga",
+     "url": "https://www.lanacion.com.ar/politica/un-camarista-federal-de-la-rioja-denunciado-por-acoso-designo-en-los-tribunales-a-la-hija-del-juez-nid26102026/",
+     "domain": "La Nación",
+     "seendate": "20261026T164059Z"
+    },
+    {
+     "title": "Dura reacción de los mercados por el triunfo de Lula en Brasil: las acciones que más se desplomaron y el impacto en el real",
+     "url": "https://www.lanacion.com.ar/economia/dura-reaccion-de-los-mercados-por-el-triunfo-de-lula-en-brasil-las-acciones-que-mas-se-desplomaron-y-nid26102026/",
+     "domain": "La Nación",
+     "seendate": "20261026T164018Z"
+    },
+    {
+     "title": "Golpe en Chicago: la soja se desploma y toca su valor más bajo en dos meses tras las elecciones en Brasil y un dato de Estados Unidos",
+     "url": "https://www.lanacion.com.ar/economia/campo/golpe-en-chicago-la-soja-se-desploma-y-toca-su-valor-mas-bajo-en-dos-meses-tras-las-elecciones-en-nid26102026/",
+     "domain": "La Nación",
+     "seendate": "20261026T163719Z"
+    },
+    {
+     "title": "Detuvieron al sospechoso del crimen de Daniela Villalba: también lo investigan por la muerte de una trabajadora sexual en Retiro",
+     "url": "https://www.lanacion.com.ar/seguridad/detuvieron-al-sospechoso-del-crimen-de-daniela-villalba-tambien-lo-acusan-de-la-muerte-de-la-nid26102026/",
+     "domain": "La Nación",
+     "seendate": "20261026T163648Z"
+    },
+    {
+     "title": "Amnistía Internacional denunciará a Milei ante la ONU por sus insultos a periodistas",
+     "url": "https://www.lanacion.com.ar/politica/amnistia-internacional-denunciara-a-milei-ante-la-onu-por-sus-insultos-a-periodistas-nid26102026/",
+     "domain": "La Nación",
+     "seendate": "20261026T163309Z"
+    },
+    {
+     "title": "Qué significa no mirar fijamente a los ojos, según la psicología",
+     "url": "https://www.lanacion.com.ar/sociedad/que-significa-no-mirar-fijamente-a-los-ojos-segun-la-psicologia-nid26102026/",
+     "domain": "La Nación",
+     "seendate": "20261026T163006Z"
+    },
+    {
+     "title": "Milei le pidió a su gabinete cerrar filas con el plan económico: se ausentó Patricia Bullrich",
+     "url": "https://www.lanacion.com.ar/politica/milei-le-pidio-a-su-gabinete-cerrar-filas-con-el-plan-economico-se-ausento-patricia-bullrich-nid26102026/",
+     "domain": "La Nación",
+     "seendate": "20261026T162908Z"
+    },
+    {
+     "title": "Visita del papa León XIV a la Argentina: cómo quedan los feriados de noviembre tras la confirmación del Vaticano",
+     "url": "https://www.lanacion.com.ar/sociedad/visita-del-papa-leon-xiv-a-la-argentina-como-quedan-los-feriados-tras-la-confirmacion-del-vaticano-nid26102026/",
+     "domain": "La Nación",
+     "seendate": "20261026T162303Z"
+    },
+    {
+     "title": "Javier Milei y sus medidas, en vivo: el Presidente acusó a Lula de querer “robar” las elecciones en Brasil",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-acuso-a-lula-de-querer-robar-las-elecciones-en-nid26102026/",
+     "domain": "La Nación",
+     "seendate": "20261026T162100Z"
+    },
+    {
      "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este lunes 26 de octubre, minuto a minuto",
      "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid26102026/",
      "domain": "La Nación",
-     "seendate": "20261026T153041Z"
+     "seendate": "20261026T161000Z"
+    },
+    {
+     "title": "Quién es Renato Iván Tabella, el joven a acusado de asesinar a una escort en Córdoba e investigado por una muerte en Retiro",
+     "url": "https://www.lanacion.com.ar/seguridad/quien-es-renato-ivan-tavella-el-joven-a-acusado-de-asesinar-a-una-escort-en-cordoba-e-investigado-nid26102026/",
+     "domain": "La Nación",
+     "seendate": "20261026T160656Z"
+    },
+    {
+     "title": "Cataratas del Iguazú: por la crecida del río, vuelven a cerrar circuitos y paseos",
+     "url": "https://www.lanacion.com.ar/sociedad/cataratas-del-iguazu-por-la-crecida-del-rio-vuelven-a-cerrar-circuitos-y-paseos-nid26102026/",
+     "domain": "La Nación",
+     "seendate": "20261026T154247Z"
+    },
+    {
+     "title": "Inti Bonomo, experto en Ciencias Ambientales, sobre el avance del fenómeno del Súper Niño: “Va a seguir creciendo y el pico va a ser en diciembre”",
+     "url": "https://www.lanacion.com.ar/sociedad/inti-bonomo-experto-en-ciencias-ambientales-sobre-el-avance-del-fenomeno-del-super-nino-va-a-seguir-nid24102026/",
+     "domain": "La Nación",
+     "seendate": "20261026T153905Z"
+    },
+    {
+     "title": "Se aproxima un nuevo frente que provocará altibajos en la temperatura, nubosidad variable y lloviznas en medio del avance del Súper Niño: las zonas afectadas",
+     "url": "https://www.lanacion.com.ar/sociedad/se-aproxima-un-nuevo-frente-que-provocara-altibajos-en-la-temperatura-nubosidad-variable-y-lloviznas-nid25102026/",
+     "domain": "La Nación",
+     "seendate": "20261026T153853Z"
     },
     {
      "title": "“Gravísima situación”: abrieron la inscripción para comprar activos de la quiebra de Algodonera Avellaneda y un edificio tiene una base de US$1,75 millones",
@@ -2791,40 +2947,10 @@
      "seendate": "20261026T151005Z"
     },
     {
-     "title": "Javier Milei y sus medidas, en vivo: el Presidente acusó a Lula de querer “robar” las elecciones en Brasil",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-acuso-a-lula-de-querer-robar-las-elecciones-en-nid26102026/",
-     "domain": "La Nación",
-     "seendate": "20261026T150555Z"
-    },
-    {
-     "title": "Dura reacción de los mercados por el triunfo de Lula en Brasil: las acciones que más se desplomaron y el impacto en el real",
-     "url": "https://www.lanacion.com.ar/economia/dura-reaccion-de-los-mercados-por-el-triunfo-de-lula-en-brasil-las-acciones-que-mas-se-desplomaron-y-nid26102026/",
-     "domain": "La Nación",
-     "seendate": "20261026T150034Z"
-    },
-    {
-     "title": "Golpe en Chicago: la soja se desploma y toca su valor más bajo en dos meses tras las elecciones en Brasil y un dato de Estados Unidos",
-     "url": "https://www.lanacion.com.ar/economia/campo/golpe-en-chicago-la-soja-se-desploma-y-toca-su-valor-mas-bajo-en-dos-meses-tras-las-elecciones-en-nid26102026/",
-     "domain": "La Nación",
-     "seendate": "20261026T145850Z"
-    },
-    {
      "title": "Violencia en una liga de fútbol cordobesa: dos jugadores debieron ser hospitalizados",
      "url": "https://www.lanacion.com.ar/sociedad/violencia-en-una-liga-de-futbol-cordobesa-dos-jugadores-debieron-ser-hospitalizados-nid26102026/",
      "domain": "La Nación",
      "seendate": "20261026T145751Z"
-    },
-    {
-     "title": "Quién es Renato Iván Tavella, el joven a acusado de asesinar a una escort en Córdoba e investigado por una muerte en Retiro",
-     "url": "https://www.lanacion.com.ar/seguridad/quien-es-renato-ivan-tavella-el-joven-a-acusado-de-asesinar-a-una-escort-en-cordoba-e-investigado-nid26102026/",
-     "domain": "La Nación",
-     "seendate": "20261026T145425Z"
-    },
-    {
-     "title": "Detuvieron al sospechoso del crimen de Daniela Villalba: también lo investigan por la muerte de una trabajadora sexual en Retiro",
-     "url": "https://www.lanacion.com.ar/seguridad/detuvieron-al-sospechoso-del-crimen-de-daniela-villalba-tambien-lo-acusan-de-la-muerte-de-la-nid26102026/",
-     "domain": "La Nación",
-     "seendate": "20261026T144711Z"
     },
     {
      "title": "Recicló más de 15 toneladas de residuos de las playas de Mar del Plata y con eso armó un emprendimiento exitoso",
@@ -2855,18 +2981,6 @@
      "url": "https://www.lanacion.com.ar/economia/real-dolar-y-vacaciones-en-brasil-cuanto-cuesta-viajar-este-verano-nid26102026/",
      "domain": "La Nación",
      "seendate": "20261026T140934Z"
-    },
-    {
-     "title": "Inti Bonomo, experto en Ciencias Ambientales, sobre el avance del fenómeno del Súper Niño: “Va a seguir creciendo y el pico va a ser en diciembre”",
-     "url": "https://www.lanacion.com.ar/sociedad/inti-bonomo-experto-en-ciencias-ambientales-sobre-el-avance-del-fenomeno-del-super-nino-va-a-seguir-nid24102026/",
-     "domain": "La Nación",
-     "seendate": "20261026T134903Z"
-    },
-    {
-     "title": "Se aproxima un nuevo frente que provocará altibajos en la temperatura, nubosidad variable y lloviznas en medio del avance del Súper Niño: las zonas afectadas",
-     "url": "https://www.lanacion.com.ar/sociedad/se-aproxima-un-nuevo-frente-que-provocara-altibajos-en-la-temperatura-nubosidad-variable-y-lloviznas-nid25102026/",
-     "domain": "La Nación",
-     "seendate": "20261026T134856Z"
     },
     {
      "title": "Un cardiólogo reveló cuál es el mayor miedo que tienen sus pacientes: “Todos me dicen lo mismo”",
@@ -2903,72 +3017,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/que-le-hace-la-papa-al-cuerpo-y-por-que-se-puede-comer-todos-los-dias-sin-culpa-segun-una-nid24102026/",
      "domain": "La Nación",
      "seendate": "20261026T134723Z"
-    },
-    {
-     "title": "Real, dólar y vacaciones en Brasil: cuánto cuesta viajar este verano, precios de vuelos y formas de pago",
-     "url": "https://www.lanacion.com.ar/economia/real-dolar-y-vacaciones-en-brasil-cuanto-cuesta-viajar-este-verano-precios-de-vuelos-y-formas-de-nid26102026/",
-     "domain": "La Nación",
-     "seendate": "20261026T133719Z"
-    },
-    {
-     "title": "Fitosanitarios: empieza una capacitación gratuita",
-     "url": "https://www.lanacion.com.ar/economia/campo/fitosanitarios-empieza-una-capacitacion-gratuita-nid26102026/",
-     "domain": "La Nación",
-     "seendate": "20261026T133024Z"
-    },
-    {
-     "title": "La reacción de las acciones de Mercado Libre tras la victoria de Lula da Silva sobre Flavio Bolsonaro en el balotaje",
-     "url": "https://www.lanacion.com.ar/economia/la-reaccion-de-las-acciones-de-mercado-libre-tras-la-victoria-de-lula-da-silva-sobre-flavio-nid26102026/",
-     "domain": "La Nación",
-     "seendate": "20261026T132140Z"
-    },
-    {
-     "title": "SUAF de Anses: el monto de las asignaciones familiares en noviembre de 2026",
-     "url": "https://www.lanacion.com.ar/economia/suaf-de-anses-el-monto-de-las-asignaciones-familiares-en-noviembre-de-2026-nid21102026/",
-     "domain": "La Nación",
-     "seendate": "20261026T130402Z"
-    },
-    {
-     "title": "A cuánto llega la PUAM en noviembre de 2026 con el aumento confirmado",
-     "url": "https://www.lanacion.com.ar/economia/a-cuanto-llega-la-puam-en-noviembre-de-2026-con-el-aumento-confirmado-nid20102026/",
-     "domain": "La Nación",
-     "seendate": "20261026T130400Z"
-    },
-    {
-     "title": "PNC de Anses: cuál es el monto de las Pensiones No Contributivas en noviembre de 2026",
-     "url": "https://www.lanacion.com.ar/economia/pnc-de-anses-cual-es-el-monto-de-las-pensiones-no-contributivas-en-noviembre-de-2026-nid19102026/",
-     "domain": "La Nación",
-     "seendate": "20261026T130358Z"
-    },
-    {
-     "title": "Monto de la Asignación Universal por Hijo: de cuánto es la AUH en noviembre 2026, con el aumento oficial",
-     "url": "https://www.lanacion.com.ar/economia/monto-de-la-asignacion-universal-por-hijo-de-cuanto-es-la-auh-en-noviembre-2026-con-el-aumento-nid15102026/",
-     "domain": "La Nación",
-     "seendate": "20261026T130355Z"
-    },
-    {
-     "title": "Jubilaciones de Anses: cuánto cobro en noviembre 2026, con el bono oficial y el aumento confirmado",
-     "url": "https://www.lanacion.com.ar/economia/jubilaciones-de-anses-cuanto-cobro-en-noviembre-2026-con-el-bono-oficial-y-el-aumento-confirmado-nid14102026/",
-     "domain": "La Nación",
-     "seendate": "20261026T130353Z"
-    },
-    {
-     "title": "Cuándo cobro Anses: el calendario completo de octubre 2026",
-     "url": "https://www.lanacion.com.ar/economia/cuando-cobro-anses-el-calendario-completo-de-octubre-2026-nid30092026/",
-     "domain": "La Nación",
-     "seendate": "20261026T130351Z"
-    },
-    {
-     "title": "Servicio doméstico en noviembre 2026: cuánto cobran, quiénes reciben el aumento y cómo se incorpora el bono",
-     "url": "https://www.lanacion.com.ar/economia/servicio-domestico-en-noviembre-de-2026-cuanto-cobran-las-empleadas-quienes-reciben-el-aumento-y-nid22102026/",
-     "domain": "La Nación",
-     "seendate": "20261026T130349Z"
-    },
-    {
-     "title": "Siembra con drones en una zona quemada: el megaplan que prometen recuperar 200 hectáreas de bosque patagónico en el Parque Nacional Lanín con semillas de araucaria",
-     "url": "https://www.lanacion.com.ar/sociedad/siembra-con-drones-en-una-zona-quemada-el-megaplan-que-prometen-recuperar-200-hectareas-de-bosque-nid22102026/",
-     "domain": "La Nación",
-     "seendate": "20261026T130346Z"
     }
    ]
   },
@@ -3339,6 +3387,18 @@
   "PRY": {
    "articles": [
     {
+     "title": "Fiscalía pide analizar bienes del exdirector jurídico de IPS “José’i” González",
+     "url": "https://www.abc.com.py/nacionales/2026/10/26/fiscalia-pide-analizar-bienes-del-exdirector-juridico-de-ips-josei-gonzalez/",
+     "domain": "ABC Color",
+     "seendate": "20261026T160153Z"
+    },
+    {
+     "title": "Curiosos datos sobre la fuga de presos: “Es difícil que se haya dado sin complicidad”, dice fiscala",
+     "url": "https://www.abc.com.py/nacionales/2026/10/26/fiscala-fabiola-sosa-sobre-la-fuga-de-presos-es-dificil-que-se-haya-dado-sin-complicidad/",
+     "domain": "ABC Color",
+     "seendate": "20261026T153606Z"
+    },
+    {
      "title": "Denuncian deplorable estado de los baños del Hospital Regional de Caacupé",
      "url": "https://www.abc.com.py/nacionales/2026/10/26/denuncian-deplorable-estado-de-los-banos-del-hospital-regional-de-caacupe/",
      "domain": "ABC Color",
@@ -3369,24 +3429,6 @@
      "seendate": "20261026T141630Z"
     },
     {
-     "title": "Cáncer de próstata: un diagnóstico oportuno es la clave para ganar la batalla",
-     "url": "https://www.abc.com.py/nacionales/2025/11/24/cancer-de-prostata-un-diagnostico-oportuno-es-la-clave-para-ganar-la-batalla/",
-     "domain": "ABC Color",
-     "seendate": "20261026T140759Z"
-    },
-    {
-     "title": "El tacto rectal y otros miedos de los hombres desmitificados para realizarse los controles en el noviembre azul",
-     "url": "https://www.abc.com.py/nacionales/2024/11/26/el-tacto-rectal-y-otros-miedos-de-los-hombres-desmitificados-para-realizarse-los-controles-en-el-noviembre-azul/",
-     "domain": "ABC Color",
-     "seendate": "20261026T140659Z"
-    },
-    {
-     "title": "Lo que todo hombre debe saber para prevenir problemas de próstata",
-     "url": "https://www.abc.com.py/nacionales/2025/10/27/lo-que-todo-hombre-debe-saber-para-prevenir-problemas-de-prostata/",
-     "domain": "ABC Color",
-     "seendate": "20261026T140531Z"
-    },
-    {
      "title": "Caso Guillermo Moral: supuesto financista seguirá en prisión hasta su preliminar",
      "url": "https://www.abc.com.py/nacionales/2026/10/26/caso-guillermo-moral-supuesto-financista-seguira-en-prision-hasta-su-preliminar/",
      "domain": "ABC Color",
@@ -3405,6 +3447,66 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "Após virada histórica, Lula deve descansar nos próximos dias",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/26/apos-virada-historica-lula-deve-descansar-nos-proximos-dias.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261026T163825Z"
+    },
+    {
+     "title": "Deputada estadual mais votada do Rio compartilha posts que sugerem demissão de eleitores de Lula",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/26/deputada-estadual-mais-votada-do-rio-compartilha-posts-que-sugerem-demissao-de-eleitores-de-lula.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261026T163148Z"
+    },
+    {
+     "title": "No 2º turno, apenas 35 mil votos foram registrados após 17h; vantagem de Lula sobre Flávio foi de 4,4 milhões",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/26/eleicoes-35-mil-votos-foram-registrados-apos-as-17h-vantagem-de-lula-sobre-flavio-foi-de-44-milhoes.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261026T162214Z"
+    },
+    {
+     "title": "Lula aumenta vitórias nas urnas em capitais na comparação com o resultado de 2022; veja quais",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/26/lula-aumenta-vitorias-em-capitais-de-estados-na-comparacao-com-o-resultado-de-2022-veja-quais.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261026T161812Z"
+    },
+    {
+     "title": "Lula virou na sua cidade? Veja como votou o município onde você mora",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/26/lula-virou-na-sua-cidade-veja-como-votou-o-municipio-onde-voce-mora.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261026T161232Z"
+    },
+    {
+     "title": "PT volta a ganhar na cidade do Rio de Janeiro pela primeira vez desde 2014; Lula vira em seis seções em relação a 2022",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/26/pt-volta-a-ganhar-na-cidade-do-rio-de-janeiro-pela-primeira-vez-desde-2014-lula-vira-em-seis-secoes-em-relacao-a-2022.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261026T155634Z"
+    },
+    {
+     "title": "Partidos que apoiaram Flávio, União Brasil, Republicanos e Podemos reconhecem vitória de Lula nas urnas",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/26/partidos-que-apoiaram-flavio-uniao-brasil-republicanos-e-podemos-reconhecem-vitoria-de-lula-nas-urnas.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261026T155500Z"
+    },
+    {
+     "title": "Salvador e São Paulo despontam como cidades mais importantes para virada de Lula; veja mapa",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/26/salvador-e-sao-paulo-despontam-como-cidades-mais-importantes-para-a-vitoria-de-lula-veja-mapa-de-municipios.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261026T155125Z"
+    },
+    {
+     "title": "Deputada eleita no Paraná pede a seguidores que demitam funcionários que votaram no Lula",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/26/deputada-eleita-no-parana-pede-a-seguidores-que-demitam-funcionarios-que-votaram-no-lula.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261026T155104Z"
+    },
+    {
+     "title": "PF registra 86 ocorrências de crime eleitoral no segundo turno e apreende R$ 41 mil em bens e valores",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/26/pf-registra-86-ocorrencias-de-crime-eleitoral-no-segundo-turno-e-apreende-r-41-mil-em-bens-e-valores.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261026T154628Z"
+    },
     {
      "title": "Quem é Rafael Fonteles, governador reeleito do Piauí e que se juntou a Lula no segundo turno",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/26/quem-e-rafael-fonteles-governador-reeleito-do-piaui-e-que-se-juntou-a-lula-no-segundo-turno.ghtml",
@@ -3496,7 +3598,7 @@
      "seendate": "20261026T141858Z"
     },
     {
-     "title": "Vice de Tarcísio diz confiar no processo eleitoral e respeitar o resultado das urnas",
+     "title": "Vice de Tarcísio diz confiar no processo eleitoral e respeitar o resultado das urnas; Nunes pede 'harmonia'",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/26/vice-de-tarcisio-diz-confiar-no-processo-eleitoral-e-respeitar-o-resultado-das-urnas.ghtml",
      "domain": "O Globo",
      "seendate": "20261026T141621Z"
@@ -3560,24 +3662,6 @@
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/26/apos-reeleicao-lula-retorna-a-brasilia-e-passa-manha-no-alvorada-sem-agenda-publica.ghtml",
      "domain": "O Globo",
      "seendate": "20261026T125148Z"
-    },
-    {
-     "title": "Seu bairro votou em quem? Veja o mapa da eleição no Rio e saiba onde Lula e Flávio foram mais votados",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/26/seu-bairro-votou-em-quem-veja-o-mapa-da-eleicao-no-rio-e-saiba-onde-lula-e-flavio-foram-mais-votados.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261026T121710Z"
-    },
-    {
-     "title": "O governo Lula 4 começa sem tempo para transição",
-     "url": "https://oglobo.globo.com/politica/thomas-traumann/coluna/2026/10/o-governo-lula-4-comeca-sem-tempo-para-transicao.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261026T120000Z"
-    },
-    {
-     "title": "Leia o discurso de Lula na íntegra após vitória sobre Flávio Bolsonaro nas Eleições 2026",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/26/leia-o-discurso-de-lula-na-integra-apos-vitoria-sobre-flavio-bolsonaro-nas-eleicoes-2026.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261026T114623Z"
     }
    ]
   }
