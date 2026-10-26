@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T21:09:26+00:00",
+ "updated": "2026-10-26T22:05:54+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -169,6 +169,12 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Chihuahua reabre segundo puerto para exportar ganado; Palomas registra el primer cruce de 750 cabezas",
+     "url": "https://www.eluniversal.com.mx/estados/chihuahua-reabre-segundo-puerto-para-exportar-ganado-palomas-registra-el-primer-cruce-de-750-cabezas/",
+     "domain": "El Universal",
+     "seendate": "20261026T211705Z"
+    },
     {
      "title": "Taddei presenta su renuncia a la Cámara de Diputados; \"Jucopo inicia el proceso de selección\" de nuevo titular",
      "url": "https://www.eluniversal.com.mx/nacion/taddei-presenta-su-renuncia-a-la-camara-de-diputados-jucopo-inicia-el-proceso-de-seleccion-de-nuevo-titular/",
@@ -378,24 +384,6 @@
      "url": "https://www.eluniversal.com.mx/nacion/ninguna-imputacion-contra-landsmanas/",
      "domain": "El Universal",
      "seendate": "20261026T100000Z"
-    },
-    {
-     "title": "Registran dos muertos en fiesta patronal",
-     "url": "https://www.eluniversal.com.mx/metropoli/registran-dos-muertos-en-fiesta-patronal/",
-     "domain": "El Universal",
-     "seendate": "20261026T085841Z"
-    },
-    {
-     "title": "Ven positivo plan de cambio a la justicia cívica",
-     "url": "https://www.eluniversal.com.mx/metropoli/ven-positivo-plan-de-cambio-a-la-justicia-civica/",
-     "domain": "El Universal",
-     "seendate": "20261026T085308Z"
-    },
-    {
-     "title": "Ampliarán operativos nocturnos en la Ciudad de México",
-     "url": "https://www.eluniversal.com.mx/metropoli/ampliaran-operativos-nocturnos-en-la-ciudad-de-mexico/",
-     "domain": "El Universal",
-     "seendate": "20261026T084030Z"
     }
    ]
   },
@@ -1198,6 +1186,18 @@
   "CRI": {
    "articles": [
     {
+     "title": "Fiscalía solicitará prisión preventiva contra Chonta Mullins, modelo presuntamente vinculada con Pecho de Rata",
+     "url": "https://www.nacion.com/sucesos/fiscalia-solicitara-prision-preventiva-contra/ZFGD2XTYDVBBXH53IBMI23QOEA/story/",
+     "domain": "La Nación",
+     "seendate": "20261026T215603Z"
+    },
+    {
+     "title": "Fiscalía General asume investigación contra diputada Ana Ruth Esquivel por presunto soborno",
+     "url": "https://www.nacion.com/politica/fiscalia-general-asume-investigacion-contra/U6LI7YE4YZABJOQ6AFUOFHXRJE/story/",
+     "domain": "La Nación",
+     "seendate": "20261026T213658Z"
+    },
+    {
      "title": "Histórico: por primera vez en Costa Rica, cuatro mujeres presiden los poderes de la República",
      "url": "https://www.nacion.com/politica/historico-por-primera-vez-en-costa-rica-tres/LOHE3WHG7VF6PAWCZLQT24HWMQ/story/",
      "domain": "La Nación",
@@ -1530,6 +1530,12 @@
   "CUB": {
    "articles": [
     {
+     "title": "El 'ferry' de la Isla de la Juventud vuelve a averiarse y se espera a expertos extranjeros para revisarlo",
+     "url": "https://www.14ymedio.com/cuba/ferry-isla-juventud-vuelve-averiarse_1_1132462.html",
+     "domain": "14ymedio",
+     "seendate": "20261026T210941Z"
+    },
+    {
      "title": "La oscuridad y los robos espantan a los visitantes del parque Lennon, en La Habana",
      "url": "https://www.14ymedio.com/cuba/oscuridad-robos-espantan-visitantes-parque_1_1132458.html",
      "domain": "14ymedio",
@@ -1639,6 +1645,24 @@
   "COL": {
    "articles": [
     {
+     "title": "Video | Motociclista atacó a un conductor de un bus del MIO: un nuevo capítulo de la intolerancia que asedia al transporte masivo en Cali",
+     "url": "https://www.eltiempo.com/colombia/cali/video-motociclista-ataco-a-un-conductor-de-un-bus-del-mio-un-nuevo-capitulo-de-la-intolerancia-que-asedia-al-transporte-masivo-en-cali-3596479",
+     "domain": "El Tiempo",
+     "seendate": "20261026T215625Z"
+    },
+    {
+     "title": "Balacera en el San Andresito La Isla de Bucaramanga: asesinaron a vendedor reconocido de calzado y capturan a dos adolescentes",
+     "url": "https://www.eltiempo.com/colombia/santander/balacera-en-el-san-andresito-la-isla-de-bucaramanga-asesinaron-a-vendedor-reconocido-de-calzado-y-capturan-a-dos-adolescentes-3596473",
+     "domain": "El Tiempo",
+     "seendate": "20261026T215450Z"
+    },
+    {
+     "title": "¿Por qué el embalse de Hidroituango no ha alcanzado la cota 420? EPM explica las razones y entrega una posible fecha",
+     "url": "https://www.eltiempo.com/colombia/medellin/por-que-el-embalse-de-hidroituango-no-ha-alcanzado-la-cota-420-epm-explica-las-razones-y-entrega-una-posible-fecha-3596477",
+     "domain": "El Tiempo",
+     "seendate": "20261026T214024Z"
+    },
+    {
      "title": "Luto en el vallenato: a cuatro muertos asciende el accidente de Kbeto Zuleta, entre ellos dos músicos; el artista sufrió amputación de una pierna",
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/luto-en-el-vallenato-accidente-de-kbeto-zuleta-deja-cuatro-muertos-entre-ellos-dos-de-sus-musicos-el-artista-sufrio-amputacion-de-una-pierna-3596442",
      "domain": "El Tiempo",
@@ -1679,24 +1703,6 @@
      "url": "https://www.eltiempo.com/colombia/cali/ministro-de-ambiente-advierte-que-el-area-metropolitana-del-suroccidente-de-colombia-podria-debilitar-la-gestion-ambiental-en-el-valle-del-cauca-3596445",
      "domain": "El Tiempo",
      "seendate": "20261026T195821Z"
-    },
-    {
-     "title": "Los fuertes testimonios de músicos de Kbeto Zuleta, hijo de Poncho Zuleta, tras trágico accidente en autobús: ‘Los muertos eran mis mejores amigos’",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-impactante-testimonio-de-musicos-de-kbeto-zuleta-hijo-de-poncho-zuleta-tras-tragico-accidente-en-autobus-los-muertos-eran-mis-mejores-amigos-3596434",
-     "domain": "El Tiempo",
-     "seendate": "20261026T190434Z"
-    },
-    {
-     "title": "Celia Cruz y Jairo Varela hacen palpitar el barrio Obrero, centro de Cali: son parte del nuevo recorrido patrimonial con 51 murales y 12 esculturas",
-     "url": "https://www.eltiempo.com/colombia/cali/celia-cruz-y-jairo-varela-hacen-palpitar-el-barrio-obrero-centro-de-cali-son-parte-del-nuevo-recorrido-patrimonial-con-51-murales-y-12-esculturas-3596381",
-     "domain": "El Tiempo",
-     "seendate": "20261026T190056Z"
-    },
-    {
-     "title": "Reina del Carnaval de Barranquilla llegó con ayudas a la casa del joven hincha del Junior discriminado por usar chancletas en el estadio",
-     "url": "https://www.eltiempo.com/colombia/barranquilla/reina-del-carnaval-de-barranquilla-llego-con-ayudas-a-la-casa-del-joven-hincha-del-junior-discriminado-por-usar-chancletas-en-el-estadio-3596427",
-     "domain": "El Tiempo",
-     "seendate": "20261026T182356Z"
     }
    ]
   },
@@ -2007,6 +2013,30 @@
   "ECU": {
    "articles": [
     {
+     "title": "Caso Goleada: juez convoca a reinstalación de audiencia preparatoria de juicio para este 27 de octubre",
+     "url": "https://eluniverso.com/politica/expedientes/caso-goleada-juez-convoca-reinstalacion-audiencia-preparatoria-juicio-octubre-nota/",
+     "domain": "El Universo",
+     "seendate": "20261026T215611Z"
+    },
+    {
+     "title": "Ministro John Reimberg se reúne con secretario de la IILA para abordar cooperación contra el crimen organizado",
+     "url": "https://eluniverso.com/politica/seguridad/ministro-john-reimberg-se-reune-con-secretario-de-la-iila-para-abordar-cooperacion-contra-el-crimen-organizado-nota/",
+     "domain": "El Universo",
+     "seendate": "20261026T215607Z"
+    },
+    {
+     "title": "Incendios forestales no dan tregua en Tungurahua y movilizan a los bomberos de Ambato y Pelileo",
+     "url": "https://eluniverso.com/comunidad/ecuador/altas-temperaturas-nota/",
+     "domain": "El Universo",
+     "seendate": "20261026T213026Z"
+    },
+    {
+     "title": "Droga oculta en conservas de atún y decomisos en altamar marcan operativos contra el narcotráfico en octubre de 2026",
+     "url": "https://eluniverso.com/politica/seguridad/droga-oculta-en-conservas-de-atun-y-decomisos-en-altamar-marcan-operativos-contra-el-narcotrafico-en-octubre-de-2026-nota/",
+     "domain": "El Universo",
+     "seendate": "20261026T213000Z"
+    },
+    {
      "title": "Nueve empresas privadas se suman al programa Jóvenes en Acción de Daniel Noboa",
      "url": "https://eluniverso.com/politica/ejecutivo/nueve-empresas-privadas-se-suman-al-programa-jovenes-en-accion-de-daniel-noboa-nota/",
      "domain": "El Universo",
@@ -2085,34 +2115,10 @@
      "seendate": "20261026T142350Z"
     },
     {
-     "title": "Caso Laberinto: testigo revela grupos de chats y delegaciones para presuntos manejos irregulares de fondos de empresa de Aquiles Alvarez para financiar la campaña de Luisa González",
-     "url": "https://eluniverso.com/politica/expedientes/caso-laberinto-testigo-revela-grupos-de-chats-y-delegaciones-para-presuntos-manejos-irregulares-de-fondos-de-empresa-de-aquiles-alvarez-para-financiar-la-campana-de-luisa-gonzalez-nota/",
-     "domain": "El Universo",
-     "seendate": "20261026T123220Z"
-    },
-    {
      "title": "Fuerte tormenta eléctrica y desbordamiento de ríos causan estragos en Santa Elena: suspenden clases en comunas afectadas",
      "url": "https://eluniverso.com/comunidad/ecuador/fuerte-tormenta-electrica-y-desbordamiento-de-rios-causan-estragos-en-santa-elena-suspenden-clases-en-comunas-afectadas-nota/",
      "domain": "El Universo",
      "seendate": "20261026T123151Z"
-    },
-    {
-     "title": "La Policía decomisó 784 bloques de cocaína en conservas de atún en puerto de Guayaquil",
-     "url": "https://eluniverso.com/politica/seguridad/la-policia-decomiso-784-bloques-de-cocaina-en-conservas-de-atun-en-puerto-de-guayaquil-nota/",
-     "domain": "El Universo",
-     "seendate": "20261026T121753Z"
-    },
-    {
-     "title": "Manta soporta aguacero con rayos y truenos: reportan cortes de luz y afectaciones en varios sectores",
-     "url": "https://eluniverso.com/comunidad/ecuador/tormenta-electrica-en-manta-deja-cortes-de-luz-y-afectaciones-nota/",
-     "domain": "El Universo",
-     "seendate": "20261026T115625Z"
-    },
-    {
-     "title": "Daniel Noboa felicita a Lula da Silva tras ganar el balotaje y ser reelecto como presidente de Brasil",
-     "url": "https://eluniverso.com/politica/ejecutivo/daniel-noboa-felicita-lula-da-silva-tras-ganar-balotaje-reelecto-presidente-brasil-nota/",
-     "domain": "El Universo",
-     "seendate": "20261026T020840Z"
     }
    ]
   },
@@ -2122,7 +2128,37 @@
      "title": "Lluvias en el norte del Perú: noticias de precipitaciones en Piura y otras regiones",
      "url": "https://elcomercio.pe/peru/lluvias-en-peru-en-vivo-ultimas-noticias-de-las-precipitaciones-en-piura-tumbes-y-trujillo-estado-de-emergencia-en-el-norte-senamhi-indeci-lloviznas-fenomeno-el-nino-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261026T210251Z"
+     "seendate": "20261026T215918Z"
+    },
+    {
+     "title": "Cámara de Compensaciones para Perú, Chile y Colombia comenzaría a operar en el 2027",
+     "url": "https://elcomercio.pe/economia/peru/nuam-la-camara-de-compensaciones-comenzaria-a-operar-a-inicios-del-2027-inperu-bolsa-de-valores-de-lima-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261026T213705Z"
+    },
+    {
+     "title": "Sociedad Nacional de Industrias “Las ventas en el sector textil caerían un 50% en Navidad, estaremos ad portas o ya con un diluvio en el país”",
+     "url": "https://elcomercio.pe/economia/peru/sociedad-nacional-de-industrias-las-ventas-en-el-sector-textil-caerian-un-50-en-navidad-estaremos-ad-portas-o-ya-con-un-diluvio-en-el-pais-apuesplan-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261026T213641Z"
+    },
+    {
+     "title": "Casi 1,5 millones de hogares aún cocinan solo con combustibles sólidos como la leña o el carbón, ¿dónde se concentra la brecha?",
+     "url": "https://elcomercio.pe/economia/peru/casi-15-millones-de-hogares-aun-cocinan-solo-con-combustibles-solidos-como-la-lena-o-el-carbon-donde-se-concentra-la-brecha-ipe-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261026T213627Z"
+    },
+    {
+     "title": "Empresas noruegas destacan oportunidades de inversión y cooperación con el Perú en foro realizado en Lima",
+     "url": "https://elcomercio.pe/economia/peru/empresas-noruegas-destacan-oportunidades-de-inversion-y-cooperacion-con-el-peru-en-foro-realizado-en-lima-l-ultimas-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261026T212441Z"
+    },
+    {
+     "title": "Temblor en Perú hoy, lunes 26 de octubre: lugar del epicentro y magnitud del sismo",
+     "url": "https://elcomercio.pe/peru/ultimo-temblor-hoy-sismos-en-peru-lugar-y-magnitud-segun-igp-arequipa-cusco-lima-reportes-tdpe-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261026T210722Z"
     },
     {
      "title": "Elmer Cuba, ministro de Economía: “Mientras estemos en el ministerio no plantearemos cambiar ninguna tasa de impuestos, IGV o impuesto a la renta”",
@@ -2131,46 +2167,10 @@
      "seendate": "20261026T204202Z"
     },
     {
-     "title": "Negocios aumentan hasta 20% su inversión para Halloween y el Día de la Canción Criolla, ¿será una buena campaña de ‘dulce o truco’ y jarana?",
-     "url": "https://elcomercio.pe/economia/peru/negocios-aumentan-hasta-20-su-inversion-para-halloween-y-el-dia-de-la-cancion-criolla-31-de-octubre-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261026T200121Z"
-    },
-    {
-     "title": "Sunat adjudica contratos de seguridad a un consorcio vinculado con empresas deudoras por S/124 millones",
-     "url": "https://elcomercio.pe/economia/peru/sunat-adjudica-contratos-de-seguridad-a-un-consorcio-vinculado-con-empresas-deudoras-por-s124-millones-l-ultimas-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261026T195819Z"
-    },
-    {
      "title": "Olympic Perú, Petro-Perú y Enel Generación Piura suscriben acuerdo para reforzar suministro eléctrico del norte ante el fenómeno de El Niño",
      "url": "https://elcomercio.pe/economia/peru/olympic-peru-petro-peru-y-enel-generacion-piura-suscriben-acuerdo-de-intercambio-de-gas-natural-que-generara-hasta-35mw-para-reforzar-suministro-electrico-del-norte-ante-el-fenomeno-de-el-nino-l-ultimas-noticia/",
      "domain": "El Comercio",
      "seendate": "20261026T193501Z"
-    },
-    {
-     "title": "Cámara de Compensaciones para Perú, Chile y Colombia comenzaría a operar en el 2027",
-     "url": "https://elcomercio.pe/economia/peru/nuam-la-camara-de-compensaciones-comenzaria-a-operar-a-inicios-del-2027-inperu-bolsa-de-valores-de-lima-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261026T192104Z"
-    },
-    {
-     "title": "Sociedad Nacional de Industrias “Las ventas en el sector textil caerían un 50% en Navidad, estaremos ad portas o ya con un diluvio en el país”",
-     "url": "https://elcomercio.pe/economia/peru/sociedad-nacional-de-industrias-las-ventas-en-el-sector-textil-caerian-un-50-en-navidad-estaremos-ad-portas-o-ya-con-un-diluvio-en-el-pais-apuesplan-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261026T192018Z"
-    },
-    {
-     "title": "Casi 1,5 millones de hogares aún cocinan solo con combustibles sólidos como la leña o el carbón, ¿dónde se concentra la brecha?",
-     "url": "https://elcomercio.pe/economia/peru/casi-15-millones-de-hogares-aun-cocinan-solo-con-combustibles-solidos-como-la-lena-o-el-carbon-donde-se-concentra-la-brecha-ipe-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261026T192007Z"
-    },
-    {
-     "title": "El dólar retrocede a S/3,44 en Perú mientras mercados esperan decisión de la Fed",
-     "url": "https://elcomercio.pe/economia/peru/el-dolar-retrocede-a-s344-en-peru-mientras-mercados-esperan-decision-de-la-fed-l-cotizacion-del-dolar-l-dolar-l-ultimas-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261026T180227Z"
     },
     {
      "title": "El ‘Mega Niño’ podría afectar producción de arándanos, uva y mango hacia finales del año, prevé el Midagri",
@@ -2893,6 +2893,96 @@
   "ARG": {
    "articles": [
     {
+     "title": "Las señales silenciosas del corazón que no hay que ignorar, según un cardiólogo",
+     "url": "https://www.lanacion.com.ar/sociedad/las-senales-silenciosas-del-corazon-que-no-hay-que-ignorar-segun-un-cardiologo-nid26102026/",
+     "domain": "La Nación",
+     "seendate": "20261026T220000Z"
+    },
+    {
+     "title": "Javier Milei y sus medidas, en vivo: el Presidente acusó a Lula de querer “robar” las elecciones en Brasil",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-acuso-a-lula-de-querer-robar-las-elecciones-en-nid26102026/",
+     "domain": "La Nación",
+     "seendate": "20261026T215953Z"
+    },
+    {
+     "title": "Diego Guelar analizó el triunfo de Lula: “cambio de reglas”, la relación con Milei y el posible indulto a Bolsonaro",
+     "url": "https://www.lanacion.com.ar/politica/diego-guelar-analizo-el-triunfo-de-lula-un-cambio-de-reglas-la-relacion-con-milei-y-el-posible-nid25102026/",
+     "domain": "La Nación",
+     "seendate": "20261026T215359Z"
+    },
+    {
+     "title": "Vuelan el gas y el petróleo, avanzan los fertilizantes y se demora el cobre: cuáles son las caras argentinas del RIGI",
+     "url": "https://www.lanacion.com.ar/economia/vuelan-el-gas-y-el-petroleo-avanzan-los-fertilizantes-y-se-demora-el-cobre-cuales-son-las-caras-nid26102026/",
+     "domain": "La Nación",
+     "seendate": "20261026T215218Z"
+    },
+    {
+     "title": "Alfredito, el elefante marino que nació y crece en una playa marplatense, bajo custodia de su madre y el municipio",
+     "url": "https://www.lanacion.com.ar/sociedad/alfredito-el-elefante-marino-que-nacio-y-crece-en-la-playa-marplatense-con-custodia-del-municipio-nid26102026/",
+     "domain": "La Nación",
+     "seendate": "20261026T215025Z"
+    },
+    {
+     "title": "Inti Bonomo, experto en Ciencias Ambientales, sobre el avance del fenómeno del Súper Niño: “Va a seguir creciendo y el pico va a ser en diciembre”",
+     "url": "https://www.lanacion.com.ar/sociedad/inti-bonomo-experto-en-ciencias-ambientales-sobre-el-avance-del-fenomeno-del-super-nino-va-a-seguir-nid24102026/",
+     "domain": "La Nación",
+     "seendate": "20261026T214800Z"
+    },
+    {
+     "title": "Qué le hace la papa al cuerpo y por qué se puede comer todos los días sin culpa, según una nutricionista",
+     "url": "https://www.lanacion.com.ar/sociedad/que-le-hace-la-papa-al-cuerpo-y-por-que-se-puede-comer-todos-los-dias-sin-culpa-segun-una-nid24102026/",
+     "domain": "La Nación",
+     "seendate": "20261026T214500Z"
+    },
+    {
+     "title": "Pablo Zurro, intendente de Pehuajó, prohibió la circulación por 48 horas y lanzó una advertencia a tamberos: “No me rompan los caminos”",
+     "url": "https://www.lanacion.com.ar/economia/campo/pablo-zurro-intendente-de-pehuajo-prohibio-la-circulacion-por-48-horas-y-lanzo-una-advertencia-a-nid26102026/",
+     "domain": "La Nación",
+     "seendate": "20261026T214411Z"
+    },
+    {
+     "title": "Contrabando: el Gobierno, las empresas y las plataformas sellaron un acuerdo para controlar el comercio digital",
+     "url": "https://www.lanacion.com.ar/economia/contrabando-el-gobierno-la-uia-y-mercado-libre-sellaron-un-acuerdo-para-controlar-el-comercio-nid26102026/",
+     "domain": "La Nación",
+     "seendate": "20261026T213826Z"
+    },
+    {
+     "title": "Quiénes son los artistas que acompañarán al Papa en su visita a la Argentina",
+     "url": "https://www.lanacion.com.ar/sociedad/quienes-son-los-artistas-que-acompanaran-al-papa-en-su-visita-a-la-argentina-nid26102026/",
+     "domain": "La Nación",
+     "seendate": "20261026T213737Z"
+    },
+    {
+     "title": "La Soberana Orden de Malta impulsa un plan para formar en oficios a personas en situación de calle",
+     "url": "https://www.lanacion.com.ar/politica/la-soberana-orden-de-malta-impulsa-un-plan-para-formar-en-oficios-a-personas-en-situacion-de-calle-nid26102026/",
+     "domain": "La Nación",
+     "seendate": "20261026T213702Z"
+    },
+    {
+     "title": "Viajaron menos argentinos: el rojo por turismo fue de US$918 millones en el tercer trimestre del año",
+     "url": "https://www.lanacion.com.ar/economia/viajaron-menos-argentinos-el-rojo-por-turismo-fue-de-us918-millones-en-el-tercer-trimestre-del-ano-nid26102026/",
+     "domain": "La Nación",
+     "seendate": "20261026T213230Z"
+    },
+    {
+     "title": "Detrás del fallo $LIBRA: lo que dijo la Justicia (y lo que obvió) para sobreseer a Javier Milei",
+     "url": "https://www.lanacion.com.ar/politica/detras-del-fallo-libra-lo-que-dijo-la-justicia-y-lo-que-obvio-para-sobreseer-a-javier-milei-nid26102026/",
+     "domain": "La Nación",
+     "seendate": "20261026T212754Z"
+    },
+    {
+     "title": "“Silencio estatal”: productores bonaerenses fueron a la Justicia contra el ministerio de Katopodis por las obras hidráulicas",
+     "url": "https://www.lanacion.com.ar/economia/campo/silencio-estatal-productores-bonaerenses-fueron-a-la-justicia-contra-el-ministerio-de-katopodis-por-nid26102026/",
+     "domain": "La Nación",
+     "seendate": "20261026T212437Z"
+    },
+    {
+     "title": "Pasaron ocho años esperando que la tecnología alcanzara una idea: hoy buscan cambiar la forma de escuchar de 450.000 argentinos",
+     "url": "https://www.lanacion.com.ar/sociedad/pasaron-ocho-anos-esperando-que-la-tecnologia-alcanzara-una-idea-hoy-buscan-cambiar-la-forma-de-nid22102026/",
+     "domain": "La Nación",
+     "seendate": "20261026T212223Z"
+    },
+    {
      "title": "El Banco Central no compró reservas y el Tesoro habría vendido dólares",
      "url": "https://www.lanacion.com.ar/economia/el-banco-central-no-compro-reservas-y-el-tesoro-habria-vendido-dolares-nid26102026/",
      "domain": "La Nación",
@@ -2903,18 +2993,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/se-aproxima-un-nuevo-frente-que-provocara-altibajos-en-la-temperatura-nubosidad-variable-y-lloviznas-nid25102026/",
      "domain": "La Nación",
      "seendate": "20261026T204806Z"
-    },
-    {
-     "title": "Javier Milei y sus medidas, en vivo: el Presidente acusó a Lula de querer “robar” las elecciones en Brasil",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-acuso-a-lula-de-querer-robar-las-elecciones-en-nid26102026/",
-     "domain": "La Nación",
-     "seendate": "20261026T204434Z"
-    },
-    {
-     "title": "Inti Bonomo, experto en Ciencias Ambientales, sobre el avance del fenómeno del Súper Niño: “Va a seguir creciendo y el pico va a ser en diciembre”",
-     "url": "https://www.lanacion.com.ar/sociedad/inti-bonomo-experto-en-ciencias-ambientales-sobre-el-avance-del-fenomeno-del-super-nino-va-a-seguir-nid24102026/",
-     "domain": "La Nación",
-     "seendate": "20261026T204428Z"
     },
     {
      "title": "Ley de semillas: la industria dijo que amplió una propuesta para exceptuar del pago por el uso propio a más productores",
@@ -2939,12 +3017,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/la-formula-para-que-el-cerebro-descanse-de-verdad-y-deje-de-pensar-en-todo-nid25102026/",
      "domain": "La Nación",
      "seendate": "20261026T204339Z"
-    },
-    {
-     "title": "Qué le hace la papa al cuerpo y por qué se puede comer todos los días sin culpa, según una nutricionista",
-     "url": "https://www.lanacion.com.ar/sociedad/que-le-hace-la-papa-al-cuerpo-y-por-que-se-puede-comer-todos-los-dias-sin-culpa-segun-una-nid24102026/",
-     "domain": "La Nación",
-     "seendate": "20261026T204336Z"
     },
     {
      "title": "Robin Sharma, especialista en desarrollo personal: “Sé de personas excepcionales que protegen su tiempo y eso no significa que tengan que matarse trabajando”",
@@ -3011,54 +3083,6 @@
      "url": "https://www.lanacion.com.ar/seguridad/el-falso-subcomisario-gutierrez-y-las-estafas-hechas-por-presos-desde-las-carceles-nid26102026/",
      "domain": "La Nación",
      "seendate": "20261026T194246Z"
-    },
-    {
-     "title": "Detuvieron al sospechoso del crimen de Daniela Villalba: también lo investigan por la muerte de una trabajadora sexual en Retiro",
-     "url": "https://www.lanacion.com.ar/seguridad/detuvieron-al-sospechoso-del-crimen-de-daniela-villalba-tambien-lo-acusan-de-la-muerte-de-la-nid26102026/",
-     "domain": "La Nación",
-     "seendate": "20261026T193317Z"
-    },
-    {
-     "title": "Los fiscales aseguran que a Los Sauces, de la familia Kirchner, “entraban más fondos ilícitos que lícitos”",
-     "url": "https://www.lanacion.com.ar/politica/los-fiscales-aseguran-que-a-los-sauces-de-la-familia-kirchner-entraban-mas-fondos-ilicitos-que-nid26102026/",
-     "domain": "La Nación",
-     "seendate": "20261026T193247Z"
-    },
-    {
-     "title": "Gonzalo Luchetti: “A pesar de todas las disrupciones, la resiliencia de la economía global ha sido muy fuerte”",
-     "url": "https://www.lanacion.com.ar/economia/gonzalo-luchetti-a-pesar-de-todas-las-disrupciones-la-resiliencia-de-la-economia-global-ha-sido-muy-nid25102026/",
-     "domain": "La Nación",
-     "seendate": "20261026T192943Z"
-    },
-    {
-     "title": "Antes de la visita del Papa, empresarios cristianos llamaron a construir “una sociedad justa, con paz y fraternidad entre nosotros”",
-     "url": "https://www.lanacion.com.ar/economia/antes-de-la-visita-del-papa-empresarios-cristianos-llamaron-a-construir-una-sociedad-justa-con-paz-y-nid26102026/",
-     "domain": "La Nación",
-     "seendate": "20261026T192800Z"
-    },
-    {
-     "title": "Golpe en Chicago: la soja retrocedió a su valor más bajo en dos meses tras las elecciones en Brasil y un dato de Estados Unidos",
-     "url": "https://www.lanacion.com.ar/economia/campo/golpe-en-chicago-la-soja-se-desploma-y-toca-su-valor-mas-bajo-en-dos-meses-tras-las-elecciones-en-nid26102026/",
-     "domain": "La Nación",
-     "seendate": "20261026T192426Z"
-    },
-    {
-     "title": "Fútbol sangriento: fuertes condenas para tres hombres por matar a una hincha de Rosario Central de un piedrazo",
-     "url": "https://www.lanacion.com.ar/seguridad/futbol-sangriento-fuertes-condenas-para-tres-hombres-por-matar-a-una-hincha-de-rosario-central-de-un-nid26102026/",
-     "domain": "La Nación",
-     "seendate": "20261026T192246Z"
-    },
-    {
-     "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este lunes 26 de octubre, minuto a minuto",
-     "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid26102026/",
-     "domain": "La Nación",
-     "seendate": "20261026T191000Z"
-    },
-    {
-     "title": "Puerto Madero: tras el pedido del canillita y los vecinos, aprueban que siga abierto el único puesto de diarios del barrio",
-     "url": "https://www.lanacion.com.ar/sociedad/puerto-madero-tras-el-pedido-del-canillita-y-los-vecinos-aprueban-que-siga-abierto-el-unico-puesto-nid26102026/",
-     "domain": "La Nación",
-     "seendate": "20261026T190754Z"
     }
    ]
   },
@@ -3429,6 +3453,12 @@
   "PRY": {
    "articles": [
     {
+     "title": "La crecida del río Paraguay destruye caminos y golpea a productores en Humaitá",
+     "url": "https://www.abc.com.py/nacionales/2026/10/26/la-crecida-del-rio-paraguay-destruye-caminos-y-golpea-a-productores-en-humaita/",
+     "domain": "ABC Color",
+     "seendate": "20261026T213706Z"
+    },
+    {
      "title": "A una semana de dejar de ser intendente, Bello mantiene a Asunción mugrienta",
      "url": "https://www.abc.com.py/nacionales/2026/10/26/a-una-semana-de-dejar-de-ser-intendente-bello-mantiene-a-asuncion-mugrienta/",
      "domain": "ABC Color",
@@ -3441,7 +3471,7 @@
      "seendate": "20261026T204309Z"
     },
     {
-     "title": "Educación sexual y el MEC: La trayectoria del cuestionado exviceministro que editó los libros",
+     "title": "Educación sexual y el MEC: la trayectoria del cuestionado exviceministro que editó los libros",
      "url": "https://www.abc.com.py/nacionales/2026/10/26/educacion-sexual-y-el-mec-la-trayectoria-del-cuestionado-exviceministro-que-edito-los-libros/",
      "domain": "ABC Color",
      "seendate": "20261026T204139Z"
@@ -3489,12 +3519,6 @@
      "seendate": "20261026T200917Z"
     },
     {
-     "title": "Descenso de los ríos genera alivio, pero persiste la incertidumbre climática en San Pedro",
-     "url": "https://www.abc.com.py/nacionales/2026/10/26/descenso-de-los-rios-genera-alivio-pero-persiste-la-incertidumbre-climatica-en-san-pedro/",
-     "domain": "ABC Color",
-     "seendate": "20261026T192826Z"
-    },
-    {
      "title": "Asunción: Soledad Núñez inicia corte administrativo con apoyo de la Contraloría y el foco en la deuda por bonos",
      "url": "https://www.abc.com.py/nacionales/2026/10/26/asuncion-soledad-nunez-inicia-corte-administrativo-con-apoyo-de-la-contraloria-y-el-foco-en-la-deuda-por-bonos/",
      "domain": "ABC Color",
@@ -3513,6 +3537,18 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "Alckmin rebate declaração de Trump sobre fraude na eleição brasileira: ‘Totalmente equivocada’",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/26/alckmin-rebate-declaracao-de-trump-sobre-fraude-na-eleicao-brasileira-totalmente-equivocada.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261026T213105Z"
+    },
+    {
+     "title": "De 1989 a 2026: veja como o mapa do Brasil mudou de cor nas eleições presidenciais",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/26/de-1989-a-2026-veja-como-o-mapa-do-brasil-mudou-de-cor-nas-eleicoes-presidenciais.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261026T211851Z"
+    },
     {
      "title": "Do Nordeste ao Norte: os estados nos quais a votação de Flávio Bolsonaro diminuiu entre o primeiro e o segundo turno",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/26/do-nordeste-ao-norte-os-estados-nos-quais-a-votacao-de-flavio-bolsonaro-diminuiu-entre-o-primeiro-e-o-segundo-turno.ghtml",
@@ -3650,24 +3686,6 @@
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/26/flavio-visita-bolsonaro-em-brasilia-um-dia-apos-derrota-para-lula.ghtml",
      "domain": "O Globo",
      "seendate": "20261026T171959Z"
-    },
-    {
-     "title": "As cidades que garantiram a vitória de Lula no segundo turno; veja mapa de municípios",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/26/as-cidades-que-garantiram-a-vitoria-de-lula-no-segundo-turno-veja-mapa-de-municipios.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261026T165151Z"
-    },
-    {
-     "title": "Após virada histórica, Lula deve descansar nos próximos dias",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/26/apos-virada-historica-lula-deve-descansar-nos-proximos-dias.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261026T163825Z"
-    },
-    {
-     "title": "Deputada estadual mais votada do Rio compartilha posts que sugerem demissão de eleitores de Lula",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/26/deputada-estadual-mais-votada-do-rio-compartilha-posts-que-sugerem-demissao-de-eleitores-de-lula.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261026T163148Z"
     }
    ]
   }
