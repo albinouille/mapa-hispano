@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T23:55:03+00:00",
+ "updated": "2026-10-26T00:43:13+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -134,13 +134,139 @@
   "MEX": {
    "articles": [
     {
+     "title": "Mano derecha de Lemus posee concesión de agua igual a 36 albercas olímpicas; deja el cargo",
+     "url": "https://www.eluniversal.com.mx/nacion/mano-derecha-de-lemus-posee-concesion-de-agua-igual-a-36-albercas-olimpicas-deja-el-cargo/",
+     "domain": "El Universal",
+     "seendate": "20261026T003114Z"
+    },
+    {
+     "title": "Ecatepec lleva agua potable y pavimenta cinco calles en La Negra; rehabilita parque en La Palma",
+     "url": "https://www.eluniversal.com.mx/metropoli/ecatepec-lleva-agua-potable-y-pavimenta-cinco-calles-en-la-negra-rehabilita-parque-en-la-palma/",
+     "domain": "El Universal",
+     "seendate": "20261026T002930Z"
+    },
+    {
+     "title": "Eruviel Ávila reconoce liderazgo de Couttolenc en PVEM mexiquense; alistan estructura rumbo a 2027",
+     "url": "https://www.eluniversal.com.mx/metropoli/eruviel-avila-reconoce-liderazgo-de-couttolenc-en-pvem-mexiquense-alistan-estructura-rumbo-a-2027/",
+     "domain": "El Universal",
+     "seendate": "20261026T001144Z"
+    },
+    {
+     "title": "¿Qué sigue tras la renuncia de Taddei al INE?; así será el proceso para elegir a su sucesor",
+     "url": "https://www.eluniversal.com.mx/nacion/que-sigue-tras-la-renuncia-de-taddei-al-ine-asi-sera-el-proceso-para-elegir-a-su-sucesor/",
+     "domain": "El Universal",
+     "seendate": "20261025T235442Z"
+    },
+    {
+     "title": "Pitbull frustra intento de robo en Yucatán; intruso termina con múltiples lesiones",
+     "url": "https://www.eluniversal.com.mx/estados/pitbull-frustra-intento-de-robo-en-yucatan-intruso-termina-con-multiples-lesiones/",
+     "domain": "El Universal",
+     "seendate": "20261025T233640Z"
+    },
+    {
+     "title": "Feminicidio de Miriam y su nieta en Chiapas; linchamiento y desaparición marcan el caso",
+     "url": "https://www.eluniversal.com.mx/estados/feminicidio-de-miriam-y-su-nieta-desata-linchamiento-en-chiapas-decapitan-a-presunto-responsable/",
+     "domain": "El Universal",
+     "seendate": "20261025T232839Z"
+    },
+    {
+     "title": "Segob reconoce a transportistas que optan por el diálogo; llama a Canacar a frenar el paro",
+     "url": "https://www.eluniversal.com.mx/nacion/segob-reconoce-a-transportistas-que-optan-por-el-dialogo-llama-a-canacar-a-frenar-el-paro/",
+     "domain": "El Universal",
+     "seendate": "20261025T231544Z"
+    },
+    {
+     "title": "Morena CDMX anuncia colecta de firmas en apoyo a Ley de Rentas; diputados guindas inician parlamento abierto",
+     "url": "https://www.eluniversal.com.mx/metropoli/morena-cdmx-anuncia-colecta-de-firmas-en-apoyo-a-ley-de-rentas-diputados-guindas-inician-parlamento-abierto/",
+     "domain": "El Universal",
+     "seendate": "20261025T224205Z"
+    },
+    {
+     "title": "Venustiano Carranza reduce percepción de inseguridad; ocupa segundo lugar entre alcaldías de CDMX",
+     "url": "https://www.eluniversal.com.mx/metropoli/venustiano-carranza-reduce-percepcion-de-inseguridad-ocupa-segundo-lugar-entre-alcaldias-de-cdmx/",
+     "domain": "El Universal",
+     "seendate": "20261025T223945Z"
+    },
+    {
+     "title": "INE difunde renuncia de Taddei; decisión busca proteger al Instituto, afirma",
+     "url": "https://www.eluniversal.com.mx/nacion/ine-difunde-renuncia-de-taddei-luego-borra-comunicado/",
+     "domain": "El Universal",
+     "seendate": "20261025T221006Z"
+    },
+    {
+     "title": "Mega Procesión de Catrinas 2026 en CDMX; sigue EN VIVO el recorrido y consulta las alternativas viales",
+     "url": "https://www.eluniversal.com.mx/metropoli/mega-procesion-de-catrinas-2026-en-cdmx-sigue-en-vivo-el-recorrido-y-consulta-las-alternativas-viales/",
+     "domain": "El Universal",
+     "seendate": "20261025T215212Z"
+    },
+    {
+     "title": "Reportan desaparición de sacerdote en Culiacán; piden ayuda en redes para localizarlo",
+     "url": "https://www.eluniversal.com.mx/estados/reportan-desaparicion-de-sacerdote-en-culiacan-piden-ayuda-en-redes-para-localizarlo/",
+     "domain": "El Universal",
+     "seendate": "20261025T212849Z"
+    },
+    {
+     "title": "Brugada inaugura Utopía “La Soberana”; requirió una inversión de casi 300 mdp",
+     "url": "https://www.eluniversal.com.mx/metropoli/clara-brugada-inaugura-la-utopia-mas-grande-de-cdmx-anuncian-otros-100-mil-metros-cuadrados-para-nuevos-servicios/",
+     "domain": "El Universal",
+     "seendate": "20261025T210609Z"
+    },
+    {
+     "title": "Taddei, víctima de campaña neofascista: Noroña; \"Que dé un paso al costado\", dice senador Manuel Huerta",
+     "url": "https://www.eluniversal.com.mx/nacion/taddei-victima-de-campana-neofascista-norona-que-de-un-paso-al-costado-dice-senador-manuel-huerta/",
+     "domain": "El Universal",
+     "seendate": "20261025T204803Z"
+    },
+    {
+     "title": "Detienen a 24 patinadores en San Pedro Garza García; recorrieron vialidades sin aviso previo",
+     "url": "https://www.eluniversal.com.mx/estados/detienen-a-24-patinadores-en-san-pedro-garza-garcia-recorrieron-vialidades-sin-aviso-previo/",
+     "domain": "El Universal",
+     "seendate": "20261025T203119Z"
+    },
+    {
+     "title": "Cae en Iguala líder regional y operador financiero de \"Los Tlacos\", célula delictiva de Guerrero",
+     "url": "https://www.eluniversal.com.mx/nacion/cae-en-iguala-lider-regional-y-operador-financiero-de-los-tlacos-celula-delictiva-de-guerrero/",
+     "domain": "El Universal",
+     "seendate": "20261025T202242Z"
+    },
+    {
+     "title": "Feminicidio de abuela y nieta en Chiapas fue por venganza personal, informa fiscal; uno de los presuntos responsables murió linchado",
+     "url": "https://www.eluniversal.com.mx/estados/feminicidio-de-abuela-y-nieta-en-chiapas-fue-por-venganza-personal-informa-fiscal-uno-de-los-presuntos-responsables-murio-linchado/",
+     "domain": "El Universal",
+     "seendate": "20261025T202100Z"
+    },
+    {
+     "title": "Hallan a un hombre y una mujer sin vida en vivienda de Hidalgo; una víctima tenía ficha de búsqueda",
+     "url": "https://www.eluniversal.com.mx/estados/hallan-a-un-hombre-y-una-mujer-sin-vida-en-vivienda-de-hidalgo-una-victima-tenia-ficha-de-busqueda/",
+     "domain": "El Universal",
+     "seendate": "20261025T200306Z"
+    },
+    {
+     "title": "Iglesia expresa preocupación por captación de niñas, niños y adolescentes en México; llama a protegerlos del crimen organizado",
+     "url": "https://www.eluniversal.com.mx/nacion/iglesia-expresa-preocupacion-por-captacion-de-ninas-ninos-y-adolescentes-en-mexico-llama-a-protegerlos-del-crimen-organizado/",
+     "domain": "El Universal",
+     "seendate": "20261025T195803Z"
+    },
+    {
+     "title": "VIDEO: Momento exacto en que Mario Puga fue embestido durante persecución en CDMX; el promotor cultural murió tras el impacto",
+     "url": "https://www.eluniversal.com.mx/metropoli/video-momento-exacto-en-que-mario-puga-fue-embestido-durante-persecucion-en-cdmx-el-promotor-cultural-murio-tras-el-impacto/",
+     "domain": "El Universal",
+     "seendate": "20261025T195529Z"
+    },
+    {
+     "title": "Convocatoria a mega paro divide a transportistas; Segob mantiene llamado a no afectar a ciudadanía",
+     "url": "https://www.eluniversal.com.mx/nacion/convocatoria-a-mega-paro-divide-a-transportistas-segob-mantiene-llamado-a-no-afectar-a-ciudadania/",
+     "domain": "El Universal",
+     "seendate": "20261025T193354Z"
+    },
+    {
      "title": "No debe haber corrupción ni privilegios en la 4T, insiste Sheinbaum; falso que instituciones públicas estén peor, dice",
      "url": "https://www.eluniversal.com.mx/nacion/no-debe-haber-corrupcion-ni-privilegios-en-la-4t-insiste-sheinbaum-falso-que-instituciones-publicas-esten-peor-dice/",
      "domain": "El Universal",
      "seendate": "20261025T191248Z"
     },
     {
-     "title": "Más de 400 personas celebran el cuarto aniversario de la clase de trampolín más grande del mundo; se reúnen en la Glorieta de Insurgentes",
+     "title": "Más de 400 mil personas celebran el cuarto aniversario de la clase de trampolín más grande del mundo; se reúnen en la Glorieta de Insurgentes",
      "url": "https://www.eluniversal.com.mx/metropoli/mas-de-400-personas-celebran-el-cuarto-aniversario-de-la-clase-de-trampolin-mas-grande-del-mundo-se-reunen-en-la-glorieta-de-insurgentes/",
      "domain": "El Universal",
      "seendate": "20261025T191225Z"
@@ -234,66 +360,6 @@
      "url": "https://www.eluniversal.com.mx/estados/sinaloa-registra-cuatro-asesinatos-y-un-ataque-a-balazos-matan-a-supervisor-operativo-del-c4i-en-mazatlan/",
      "domain": "El Universal",
      "seendate": "20261025T155558Z"
-    },
-    {
-     "title": "Madre de Carlos Emilio exige esclarecer su desaparición en Mazatlán; pide investigar sin distinciones políticas",
-     "url": "https://www.eluniversal.com.mx/estados/madre-de-carlos-emilio-exige-esclarecer-su-desaparicion-en-mazatlan-pide-investigar-sin-distinciones-politicas/",
-     "domain": "El Universal",
-     "seendate": "20261025T154342Z"
-    },
-    {
-     "title": "Vinculan a proceso a César Jáuregui, exfiscal de Chihuahua; seguirá preso en el Altiplano",
-     "url": "https://www.eluniversal.com.mx/nacion/vinculan-a-proceso-a-cesar-jauregui-exfiscal-de-chihuahua-seguira-preso-en-el-altiplano/",
-     "domain": "El Universal",
-     "seendate": "20261025T141912Z"
-    },
-    {
-     "title": "Osos, de visitantes ocasionales a habitantes frecuentes",
-     "url": "https://www.eluniversal.com.mx/estados/osos-de-visitantes-ocasionales-a-habitantes-frecuentes/",
-     "domain": "El Universal",
-     "seendate": "20261025T094855Z"
-    },
-    {
-     "title": "\"Hemos perdido el miedo para seguir buscando\": madre buscadora",
-     "url": "https://www.eluniversal.com.mx/estados/hemos-perdido-el-miedo-para-seguir-buscando-madre-buscadora/",
-     "domain": "El Universal",
-     "seendate": "20261025T094314Z"
-    },
-    {
-     "title": "Vencer el cáncer \"es como volver a nacer\"",
-     "url": "https://www.eluniversal.com.mx/nacion/vencer-el-cancer-es-como-volver-a-nacer/",
-     "domain": "El Universal",
-     "seendate": "20261025T093948Z"
-    },
-    {
-     "title": "50% de alumnos en México van a escuela en mal estado: OCDE",
-     "url": "https://www.eluniversal.com.mx/nacion/50-de-alumnos-en-mexico-van-a-escuela-en-mal-estado-ocde/",
-     "domain": "El Universal",
-     "seendate": "20261025T093020Z"
-    },
-    {
-     "title": "Comienza reparación de casas dañadas por tren al AIFA",
-     "url": "https://www.eluniversal.com.mx/metropoli/comienza-reparacion-de-casas-danadas-por-tren-al-aifa/",
-     "domain": "El Universal",
-     "seendate": "20261025T060100Z"
-    },
-    {
-     "title": "Catrinas guían a los vivos hacia el cempasúchil",
-     "url": "https://www.eluniversal.com.mx/metropoli/catrinas-guian-a-los-vivos-hacia-el-cempasuchil/",
-     "domain": "El Universal",
-     "seendate": "20261025T060000Z"
-    },
-    {
-     "title": "Se tambalea Taddei a siete meses de la elección; piden su renuncia y ella dice… “no me voy”",
-     "url": "https://www.eluniversal.com.mx/nacion/taddei-se-tambalea-a-siete-meses-de-la-eleccion-su-renuncia-es-lo-mas-saludable-para-la-democracia-mexicana-dice-exconsejero/",
-     "domain": "El Universal",
-     "seendate": "20261025T060000Z"
-    },
-    {
-     "title": "México cumple primer año de entregas de agua del Río Bravo a EU",
-     "url": "https://www.eluniversal.com.mx/nacion/mexico-concluye-primer-ano-del-ciclo-de-37-entregas-de-agua-del-rio-bravo-a-eu-hemos-actuado-con-responsabilidad-sre/",
-     "domain": "El Universal",
-     "seendate": "20261025T025943Z"
     }
    ]
   },
@@ -1256,6 +1322,18 @@
   "PAN": {
    "articles": [
     {
+     "title": "María Corina Machado recorre cinco estados de Venezuela en caravana hasta Caracas",
+     "url": "https://www.prensa.com/politica/maria-corina-machado-recorre-cinco-estados-de-venezuela-en-caravana-hasta-caracas/",
+     "domain": "La Prensa",
+     "seendate": "20261026T000507Z"
+    },
+    {
+     "title": "Panamá aborda con Rusia la repatriación de ciudadanos vinculados a la guerra en Ucrania",
+     "url": "https://www.prensa.com/politica/panama-aborda-con-rusia-la-repatriacion-de-ciudadanos-vinculados-a-la-guerra-en-ucrania/",
+     "domain": "La Prensa",
+     "seendate": "20261025T235507Z"
+    },
+    {
      "title": "Panamá será sede de la Asamblea General de la SIP en 2027",
      "url": "https://www.prensa.com/politica/panama-sera-sede-de-la-asamblea-general-de-la-sip-en-2027/",
      "domain": "La Prensa",
@@ -1477,6 +1555,12 @@
   "COL": {
    "articles": [
     {
+     "title": "'Colombia pierde a una mujer valiente', dijo el director de la Policía por el asesinato de la patrullera María José Recuero en una balacera en Cali",
+     "url": "https://www.eltiempo.com/colombia/cali/colombia-pierde-a-una-mujer-valiente-dijo-el-director-de-la-policia-por-asesinato-de-la-patrullera-maria-jose-recuero-en-balacera-en-cali-3596224",
+     "domain": "El Tiempo",
+     "seendate": "20261025T235415Z"
+    },
+    {
      "title": "¿Quién era la feligresa de Manrique que murió tras partir en un bus con 47 personas desde una parroquia, el cual terminó volcado en Medellín?",
      "url": "https://www.eltiempo.com/colombia/medellin/quien-era-la-feligresa-de-manrique-que-murio-tras-partir-en-un-bus-con-47-personas-desde-una-parroquia-el-cual-termino-volcado-en-medellin-3596207",
      "domain": "El Tiempo",
@@ -1529,12 +1613,6 @@
      "url": "https://www.eltiempo.com/colombia/medellin/asi-fue-el-rescate-del-soldado-que-sobrevivio-seis-dias-en-la-selva-tras-un-ataque-con-drones-por-las-disidencias-en-antioquia-mama-estoy-vivo-3596166",
      "domain": "El Tiempo",
      "seendate": "20261025T183125Z"
-    },
-    {
-     "title": "ONU Derechos Humanos pide reconstruir y reabrir la Casa de las Memorias de Cali, cerrada tras el terremoto",
-     "url": "https://www.eltiempo.com/colombia/cali/onu-derechos-humanos-pide-reconstruir-y-reabrir-la-casa-de-las-memorias-de-cali-cerrada-tras-el-terremoto-3596169",
-     "domain": "El Tiempo",
-     "seendate": "20261025T171634Z"
     }
    ]
   },
@@ -1957,12 +2035,6 @@
      "url": "https://eluniverso.com/comunidad/ecuador/lluvias-en-guayaquil-alerta-del-inamhi-por-tormentas-e-inundaciones-nota/",
      "domain": "El Universo",
      "seendate": "20261025T030100Z"
-    },
-    {
-     "title": "Lotto, sorteo 3482: estos son los números ganadores del 24 de octubre",
-     "url": "https://eluniverso.com/comunidad/ecuador/lotto-sorteo-3482-estos-son-los-numeros-ganadores-del-24-de-octubre-nota/",
-     "domain": "El Universo",
-     "seendate": "20261025T025320Z"
     },
     {
      "title": "Inamhi advierte sobre lluvias y tormentas en Ecuador: estas provincias tendrán precipitaciones intensas este domingo",
@@ -2701,10 +2773,28 @@
   "ARG": {
    "articles": [
     {
+     "title": "Ganó Lula en Brasil: cómo impactará en los mercados, las exportaciones argentinas y las vacaciones de verano",
+     "url": "https://www.lanacion.com.ar/economia/gano-lula-en-brasil-como-impactara-en-los-mercados-las-exportaciones-argentinas-y-las-vacaciones-de-nid25102026/",
+     "domain": "La Nación",
+     "seendate": "20261026T003527Z"
+    },
+    {
+     "title": "Noche violenta en Fuerte Apache: dos muertos y varios heridos en un enfrentamiento armado entre bandas",
+     "url": "https://www.lanacion.com.ar/seguridad/noche-violenta-en-fuerte-apache-dos-muertos-y-varios-heridos-en-un-enfrentamiento-armado-entre-nid25102026/",
+     "domain": "La Nación",
+     "seendate": "20261026T003133Z"
+    },
+    {
+     "title": "El peronismo festeja la remontada de Lula y se mira en el espejo del PT de cara a 2027",
+     "url": "https://www.lanacion.com.ar/politica/el-peronismo-festeja-la-remontada-de-lula-y-se-mira-en-el-espejo-del-pt-de-cara-a-2027-nid25102026/",
+     "domain": "La Nación",
+     "seendate": "20261026T002646Z"
+    },
+    {
      "title": "Reacciones de las elecciones en Brasil 2026: mensajes, tuits y declaraciones",
      "url": "https://www.lanacion.com.ar/politica/reacciones-de-las-elecciones-en-brasil-2026-mensajes-tuits-y-declaraciones-nid25102026/",
      "domain": "La Nación",
-     "seendate": "20261025T233012Z"
+     "seendate": "20261026T001544Z"
     },
     {
      "title": "Patricia Bullrich cuestionó a Milei por sus ataques al periodismo: “Se cruzó un límite”",
@@ -2795,24 +2885,6 @@
      "url": "https://www.lanacion.com.ar/politica/el-sindicalista-absuelto-tras-el-bloqueo-en-san-nicolas-prepara-un-contragolpe-y-los-empresarios-nid24102026/",
      "domain": "La Nación",
      "seendate": "20261025T202832Z"
-    },
-    {
-     "title": "Senado: la oposición dialoguista se planta y se niega a votar al frente de una comisión clave a la elegida por Karina Milei",
-     "url": "https://www.lanacion.com.ar/politica/senado-la-oposicion-dialoguista-se-planta-y-se-niega-a-votar-al-frente-de-una-comision-clave-a-la-nid25102026/",
-     "domain": "La Nación",
-     "seendate": "20261025T200215Z"
-    },
-    {
-     "title": "Autopsia digital: el estudio inédito que podría transformar las investigaciones forenses en la Argentina",
-     "url": "https://www.lanacion.com.ar/sociedad/autopsia-digital-efectuaron-un-estudio-pionero-que-podria-transformar-las-investigaciones-forenses-nid25102026/",
-     "domain": "La Nación",
-     "seendate": "20261025T192433Z"
-    },
-    {
-     "title": "Parque Chacabuco: fueron a buscar armas por una denuncia de violencia de género y encontraron 52 plantas de marihuana",
-     "url": "https://www.lanacion.com.ar/seguridad/parque-chacabuco-fueron-a-buscar-armas-por-una-denuncia-de-violencia-de-genero-y-encontraron-52-nid25102026/",
-     "domain": "La Nación",
-     "seendate": "20261025T192239Z"
     }
    ]
   },
@@ -3187,12 +3259,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/25/bioquimicos-de-guaira-se-suman-a-huelga-nacional-y-anuncian-paro-en-10-servicios-de-salud/",
      "domain": "ABC Color",
      "seendate": "20261025T233435Z"
-    },
-    {
-     "title": "“El cristiano comprometido no se vende a la corrupción”: Iglesia celebra 60 años de cursillos de cristiandad con masiva Ultreya",
-     "url": "https://www.abc.com.py/nacionales/2026/10/25/el-cristiano-comprometido-no-se-vende-a-la-corrupcion-iglesia-celebra-60-anos-de-cursillos-de-cristiandad-con-masiva-ultreya/",
-     "domain": "ABC Color",
-     "seendate": "20261025T183303Z"
     }
    ]
   },
@@ -3201,6 +3267,108 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "Cadu de Lula é eleito governador do Rio Grande do Norte em segundo turno",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/cadu-de-lula-e-eleito-governador-do-rio-grande-do-norte-em-segundo-turno.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261026T002122Z"
+    },
+    {
+     "title": "Com menor percentual da história, abstenção e brancos e nulos caem e são decisivos para vitória de Lula",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/com-menor-percentual-da-historia-abstencao-e-brancos-e-nulos-caem-e-sao-decisivos-para-vitoria-de-lula.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261026T001950Z"
+    },
+    {
+     "title": "Apoiadores de Lula comemoram na avenida Paulista após anúncio da vitória do presidente",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/apoiadores-de-lula-comemoram-na-avenida-paulista-apos-anuncio-da-vitoria-do-presidente.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261026T001646Z"
+    },
+    {
+     "title": "General Janones: o comandante do 'Exército do Lula' que liderou estratégia digital por trás de virada histórica",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/janones-o-general-de-exercito-do-lula-que-comandou-estrategia-digital-por-tras-de-virada-historica.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261026T001640Z"
+    },
+    {
+     "title": "Eleições 2026: Lula supera Flávio Bolsonaro em virada inédita e será presidente do Brasil pela quarta vez; ao vivo",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/ao-vivo/eleicoes-2026-acompanhe-ao-vivo-o-segundo-turno-ao-vivo-no-brasil.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261026T001559Z"
+    },
+    {
+     "title": "Apuração no Nordeste: veja como foi a votação de Lula e Flávio na região",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/apuracao-no-nordeste-veja-como-foi-a-votacao-de-lula-e-flavio-na-regiao.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261026T001532Z"
+    },
+    {
+     "title": "Lula ampliará o próprio recorde ao tomar posse com 81 anos; veja a lista de presidentes por idade",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/lula-ampliara-o-proprio-recorde-ao-tomar-posse-com-81-anos-veja-a-lista-de-presidentes-por-idade.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261026T001205Z"
+    },
+    {
+     "title": "A força das ruas: mobilização popular impulsiona Lula para virada inédita",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/a-forca-das-ruas-mobilizacao-popular-impulsiona-lula-para-virada-inedita.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261026T001146Z"
+    },
+    {
+     "title": "Em virada inédita, Flávio protagoniza segunda derrota consecutiva do bolsonarismo e força direita a discutir renovação",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/especial/em-virada-inedita-flavio-protagoniza-segunda-derrota-consecutiva-do-bolsonarismo-e-forca-direita-a-discutir-renovacao.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261026T001141Z"
+    },
+    {
+     "title": "PL lidera ranking de governadores eleitos por partido após 2º turno; confira lista",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/pl-lidera-ranking-de-governadores-eleitos-por-partido-apos-2o-turno-confira-lista.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261026T001136Z"
+    },
+    {
+     "title": "Do dinheiro para MEIs ao passe livre aos fins de semana: veja o que Lula prometeu e o que depende do Congresso",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/do-dinheiro-para-meis-ao-passe-livre-aos-fins-de-semana-veja-o-que-lula-prometeu-e-o-que-depende-do-congresso.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261026T001051Z"
+    },
+    {
+     "title": "Lula é o primeiro presidente eleito quatro vezes pelo voto direto",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/lula-e-o-primeiro-presidente-eleito-quatro-vezes-pelo-voto-direto.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261026T001043Z"
+    },
+    {
+     "title": "Lula é reeleito presidente do Brasil após virada inédita contra Flávio Bolsonaro",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/especial/lula-e-reeleito-presidente-do-brasil-apos-virada-inedita-contra-flavio-bolsonaro.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261026T001005Z"
+    },
+    {
+     "title": "Apuração em Minas: veja como foi a votação de Lula e Flávio no estado",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/apuracao-em-minas-veja-como-foi-a-votacao-de-lula-e-flavio-no-estado.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261026T000616Z"
+    },
+    {
+     "title": "Lorenzo Pazolini é eleito governador do Espírito Santo em segundo turno",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/lorenzo-pazolini-e-eleito-governador-do-espirito-santo-em-segundo-turno.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T235615Z"
+    },
+    {
+     "title": "Qual foi a diferença entre Lula e Flávio Bolsonaro no primeiro turno em 2026?",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/qual-foi-a-diferenca-entre-lula-e-flavio-bolsonaro-no-primeiro-turno-em-2026.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T234231Z"
+    },
+    {
+     "title": "O que acontece se der empate no 2º turno entre Lula e Flávio? Veja o que diz a lei",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/o-que-acontece-se-der-empate-no-2o-turno-entre-lula-e-flavio-veja-o-que-diz-a-lei.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261025T233807Z"
+    },
     {
      "title": "Frota reduzida, ordem de prisão e pedidos de Lula e Flávio: veja cronologia que levou à prorrogação do horário de votação no país",
      "url": "https://oglobo.globo.com/politica/noticia/2026/10/25/frota-reduzida-ordem-de-prisao-e-pedidos-de-lula-e-flavio-veja-cronologia-que-levou-a-prorrogacao-do-horario-de-votacao-no-pais.ghtml",
@@ -3212,12 +3380,6 @@
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/omar-aziz-e-eleito-governador-do-amazonas-em-segundo-turno.ghtml",
      "domain": "O Globo",
      "seendate": "20261025T233222Z"
-    },
-    {
-     "title": "Eleições 2026: Com 47,62% das urnas apuradas, Lula passa à frente de Flávio Bolsonaro e lidera corrida presidencial; siga a apuração ao vivo",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/ao-vivo/eleicoes-2026-acompanhe-ao-vivo-o-segundo-turno-ao-vivo-no-brasil.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T232641Z"
     },
     {
      "title": "Mailza Assis é reeleita governadora do Acre em segundo turno",
@@ -3422,48 +3584,6 @@
      "url": "https://oglobo.globo.com/politica/noticia/2026/10/25/campanha-de-lula-aciona-o-stf-pedindo-extensao-ate-as-19h-de-votacao-em-salvador-e-mais-duas-cidades-da-bahia.ghtml",
      "domain": "O Globo",
      "seendate": "20261025T193334Z"
-    },
-    {
-     "title": "Quem ganhou as eleições 2026 no exterior? Veja diferença do 1º e 2º turno entre Lula e Bolsonaro",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/quem-ganhou-as-eleicoes-2026-no-exterior-veja-diferenca-do-1-e-2-turno-entre-lula-e-bolsonaro.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T191608Z"
-    },
-    {
-     "title": "Nunes Marques pede que TRE-BA preste informações em meia hora sobre redução da frota de ônibus em Salvador",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/25/nunes-marques-pede-que-tre-ba-preste-informacoes-em-meia-hora-sobre-reducao-da-frota-de-onibus-em-salvador.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T191153Z"
-    },
-    {
-     "title": "Que horas acaba a apuração dos votos nas eleições 2026?",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/guia/que-horas-acaba-a-apuracao-dos-votos-nas-eleicoes-2026.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T190524Z"
-    },
-    {
-     "title": "Campanha de Lula pede ao TSE extensão da votação até as 19h em dez estados que reúnem 77 milhões de eleitores",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/25/campanha-de-lula-e-pt-pedem-ao-tse-extensao-da-votacao-ate-as-19h-em-dez-estados.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T185727Z"
-    },
-    {
-     "title": "Justiça Eleitoral do Rio intima São Gonçalo a reforçar oferta de ônibus",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/justica-eleitoral-do-rio-intima-sao-goncalo-para-reforcar-transporte-publico.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T184733Z"
-    },
-    {
-     "title": "Que horas vai sair o resultado das eleições de 2026? Veja horário da apuração",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/guia/que-horas-vai-sair-o-resultado-das-eleicoes-de-2026-veja-horario-da-apuracao.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T184226Z"
-    },
-    {
-     "title": "Lula pede prorrogação do horário de votação após problemas com ônibus em SP e Salvador: ‘Não vamos permitir que haja roubalheira’",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/lula-pede-prorrogacao-do-horario-de-votacao-apos-problemas-com-onibus-em-sp-e-salvador-nao-vamos-permitir-que-haja-roubalheira.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261025T184029Z"
     }
    ]
   }
