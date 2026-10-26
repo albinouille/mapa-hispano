@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T19:42:21+00:00",
+ "updated": "2026-10-26T20:31:27+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -8,6 +8,18 @@
      "url": "https://elpais.com/espana/elecciones-generales/2026-10-26/la-derecha-pacta-sus-candidaturas-en-el-senado-pp-se-retira-en-gipuzkoa-girona-y-tarragona-y-vox-en-otras-seis-provincias.html",
      "domain": "El País",
      "seendate": "20261026T193412Z"
+    },
+    {
+     "title": "Jaime de los Santos, Alberto Nadal y el núcleo duro de Génova acompañan a Feijóo en la lista del PP por Madrid",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-10-26/jaime-de-los-santos-alberto-nadal-y-el-nucleo-duro-de-genova-acompanan-a-feijoo-en-la-lista-del-pp-por-madrid.html",
+     "domain": "El País",
+     "seendate": "20261026T193248Z"
+    },
+    {
+     "title": "El Gobierno retorna a Marruecos a migrantes de la entrada masiva de Ceuta tras denegarles la protección internacional",
+     "url": "https://elpais.com/espana/2026-10-26/el-gobierno-empieza-a-devolver-migrantes-de-ceuta-con-expedientes-judiciales.html",
+     "domain": "El País",
+     "seendate": "20261026T191634Z"
     },
     {
      "title": "Varapalo judicial para Tribulete 7: archivada la primera denuncia colectiva por acoso inmobiliario a un fondo de inversión de España",
@@ -88,7 +100,7 @@
      "seendate": "20261026T120125Z"
     },
     {
-     "title": "Vito Quiles suspende su acto en Bilbao en una jornada que termina con quemas de contenedores y coches",
+     "title": "Vito Quiles suspende su acto en Bilbao en una jornada que termina con quemas de coches y 14 detenidos",
      "url": "https://elpais.com/espana/2026-10-26/la-universidad-de-deusto-suspende-su-actividad-en-bilbao-por-temor-a-incidentes-en-el-acto-de-vito-quiles.html",
      "domain": "El País",
      "seendate": "20261026T115344Z"
@@ -130,10 +142,10 @@
      "seendate": "20261026T043001Z"
     },
     {
-     "title": "Podemos renuncia a presentarse en Baleares y su candidata se integrará en la coalición de izquierdas",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-10-25/podemos-renuncia-a-presentarse-en-baleares-y-su-candidata-se-integrara-en-la-coalicion-de-izquierdas.html",
+     "title": "Los buques de guerra marroquíes que irrumpieron en aguas de Ceuta se saltaron las normas de seguridad marítima",
+     "url": "https://elpais.com/espana/2026-10-26/los-buques-de-guerra-marroquies-que-irrumpieron-en-aguas-de-ceuta-se-saltaron-las-normas-de-seguridad-maritima.html",
      "domain": "El País",
-     "seendate": "20261025T210057Z"
+     "seendate": "20261026T043001Z"
     },
     {
      "title": "Un accidente de autobús en Fogars de Montclús (Barcelona) se salda con 80 heridos, cinco de ellos hospitalizados",
@@ -163,6 +175,18 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Tras renuncia de Taddei, Higinio Martínez llama \"cáncer\" a la corrupción en México; pide medidas \"más radicales\" para combatir el delito",
+     "url": "https://www.eluniversal.com.mx/nacion/tras-renuncia-de-taddei-higinio-martinez-llama-cancer-a-la-corrupcion-en-mexico-pide-medidas-mas-radicales-para-combatir-el-delito/",
+     "domain": "El Universal",
+     "seendate": "20261026T200203Z"
+    },
+    {
+     "title": "Instituto Electoral de Sinaloa asegura que cerró tres años sin observaciones; defiende adjudicación directa de compras electorales",
+     "url": "https://www.eluniversal.com.mx/estados/instituto-electoral-de-sinaloa-asegura-que-cerro-tres-anos-sin-observaciones-defiende-adjudicacion-directa-de-compras-electorales/",
+     "domain": "El Universal",
+     "seendate": "20261026T195824Z"
+    },
     {
      "title": "C5 Metropolitano contará con 6 mil 590 cámaras en límites de CDMX y Edomex; compartirán vigilancia en tiempo real",
      "url": "https://www.eluniversal.com.mx/metropoli/c5-metropolitano-contara-con-6-mil-590-camaras-en-limites-de-cdmx-y-edomex-compartiran-vigilancia-en-tiempo-real/",
@@ -408,36 +432,6 @@
      "url": "https://www.eluniversal.com.mx/nacion/poblacion-opta-por-doctores-de-farmacias/",
      "domain": "El Universal",
      "seendate": "20261026T073533Z"
-    },
-    {
-     "title": "Gastan miles de pesos en clínicas privadas",
-     "url": "https://www.eluniversal.com.mx/nacion/gastan-miles-de-pesos-en-clinicas-privadas/",
-     "domain": "El Universal",
-     "seendate": "20261026T073453Z"
-    },
-    {
-     "title": "Retirarán 76 árboles por paso de L5 del Mexibús",
-     "url": "https://www.eluniversal.com.mx/metropoli/retiraran-76-arboles-por-paso-de-l5-del-mexibus/",
-     "domain": "El Universal",
-     "seendate": "20261026T073105Z"
-    },
-    {
-     "title": "¿En dónde se atienden los mexicanos sus enfermedades?; 30% de pacientes del IMSS recurren a atención privada",
-     "url": "https://www.eluniversal.com.mx/nacion/en-donde-se-atienden-los-mexicanos-sus-enfermedades-30-de-pacientes-del-imss-recurren-a-atencion-privada/",
-     "domain": "El Universal",
-     "seendate": "20261026T071438Z"
-    },
-    {
-     "title": "Hallan sin vida en Sinaloa a jornalero oaxaqueño",
-     "url": "https://www.eluniversal.com.mx/estados/hallan-sin-vida-en-sinaloa-a-jornalero-oaxaqueno/",
-     "domain": "El Universal",
-     "seendate": "20261026T071401Z"
-    },
-    {
-     "title": "Eliseo Toscano, el campesino que busca sanar la tierra",
-     "url": "https://www.eluniversal.com.mx/estados/eliseo-toscano-el-campesino-que-busca-sanar-la-tierra/",
-     "domain": "El Universal",
-     "seendate": "20261026T070355Z"
     }
    ]
   },
@@ -1240,6 +1234,18 @@
   "CRI": {
    "articles": [
     {
+     "title": "¿Cuántos feriados quedan en este 2026? Uno permitirá un fin de semana largo",
+     "url": "https://www.nacion.com/el-pais/cuantos-feriados-quedan-en-este-2026-uno-permitira/BIIZXNEQNZB5VHVPOXQLQTXE7E/story/",
+     "domain": "La Nación",
+     "seendate": "20261026T202057Z"
+    },
+    {
+     "title": "Pueblo Soberano reacciona a la elección de Patricia Vargas como presidenta de la Corte, con dos peticiones particulares",
+     "url": "https://www.nacion.com/politica/pueblo-soberano-reacciona-a-la-eleccion-de/G2WH2NPLJBDUJGLBVCIT4WXORA/story/",
+     "domain": "La Nación",
+     "seendate": "20261026T194604Z"
+    },
+    {
      "title": "La Corte Suprema eligió a su presidenta número 58: estos son los nombres de quienes ocuparon el cargo en sus 200 años",
      "url": "https://www.nacion.com/politica/de-1826-a-2026-estos-son-los-57-presidentes-de-la/ILWJ3WOB7NETFBRS5YZCYZGQWU/story/",
      "domain": "La Nación",
@@ -1376,23 +1382,17 @@
      "url": "https://www.nacion.com/el-pais/loteria-nacional-de-costa-rica-vea-los-ganadores-y/32W7GMLUVBGD5KKYJ2HKIYUADA/story/",
      "domain": "La Nación",
      "seendate": "20261026T013732Z"
-    },
-    {
-     "title": "Cuidados intensivos del Hospital Nacional de Niños llega a su capacidad máxima: CCSS pide prevención",
-     "url": "https://www.nacion.com/el-pais/cuidados-intensivos-del-hospital-nacional-de-ninos/WUBQPSADEBHHTGYVIRYAKFW4ZI/story/",
-     "domain": "La Nación",
-     "seendate": "20261025T222739Z"
-    },
-    {
-     "title": "Decomisan más de 2,5 toneladas de cocaína y marihuana en lancha interceptada en el Pacífico sur",
-     "url": "https://www.nacion.com/sucesos/decomisan-mas-de-25-toneladas-de-cocaina-y/5XWCBWV3KBDG7COVGKTKA2DSGM/story/",
-     "domain": "La Nación",
-     "seendate": "20261025T214133Z"
     }
    ]
   },
   "PAN": {
    "articles": [
+    {
+     "title": "Terremoto en Azuero: alcaldes piden a Ejecutivo más coordinación y recursos",
+     "url": "https://www.prensa.com/politica/terremoto-en-azuero-alcaldes-piden-a-ejecutivo-mas-coordinacion-y-recursos/",
+     "domain": "La Prensa",
+     "seendate": "20261026T195735Z"
+    },
     {
      "title": "Otros dos panameños viajaron a Rusia para sumarse a la guerra; uno fue rescatado",
      "url": "https://www.prensa.com/politica/otros-dos-panamenos-viajaron-a-rusia-para-sumarse-a-la-guerra-uno-fue-rescatado/",
@@ -1572,6 +1572,12 @@
   "CUB": {
    "articles": [
     {
+     "title": "La fábrica de guantes quirúrgicos de Las Tunas, paradigma del fracaso industrial de Cuba",
+     "url": "https://www.14ymedio.com/cuba/fabrica-guantes-quirurgicos-las-tunas-fracaso-industrial-cuba_1_1132452.html",
+     "domain": "14ymedio",
+     "seendate": "20261026T202236Z"
+    },
+    {
      "title": "Un asesinato “con extrema violencia” en La Habana, el más reciente feminicidio en Cuba",
      "url": "https://www.14ymedio.com/cuba/asesinato-extrema-violencia-habana-reciente_1_1132455.html",
      "domain": "14ymedio",
@@ -1669,10 +1675,28 @@
   "COL": {
    "articles": [
     {
+     "title": "El doloroso testimonio de Esteban Bolaños, mánager de la agrupación vallenata de Carlos Alberto ‘Kbeto’ Zuleta que se accidentó en el Cesar",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-doloroso-testimonio-de-esteban-bolanos-manager-de-la-agrupacion-vallenata-de-carlos-alberto-kbeto-zuleta-que-se-accidento-en-el-cesar-3596446",
+     "domain": "El Tiempo",
+     "seendate": "20261026T200850Z"
+    },
+    {
      "title": "Tras 27 años, la Selección Colombia de mayores vuelve al Pascual Guerrero: la boletería estará disponible desde el 28 de octubre",
      "url": "https://www.eltiempo.com/colombia/cali/tras-27-anos-la-seleccion-colombia-de-mayores-vuelve-al-pascual-guerrero-la-boleteria-estara-disponible-desde-el-28-de-octubre-3596440",
      "domain": "El Tiempo",
-     "seendate": "20261026T192920Z"
+     "seendate": "20261026T195932Z"
+    },
+    {
+     "title": "Ministro de Ambiente advierte que el Área Metropolitana del Suroccidente de Colombia podría debilitar la gestión ambiental en el Valle del Cauca",
+     "url": "https://www.eltiempo.com/colombia/cali/ministro-de-ambiente-advierte-que-el-area-metropolitana-del-suroccidente-de-colombia-podria-debilitar-la-gestion-ambiental-en-el-valle-del-cauca-3596445",
+     "domain": "El Tiempo",
+     "seendate": "20261026T195821Z"
+    },
+    {
+     "title": "Luto en el vallenato: a cuatro muertos asciende el accidente de Kbeto Zuleta, entre ellos dos músicos; el artista sufrió amputación de una pierna",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/luto-en-el-vallenato-accidente-de-kbeto-zuleta-deja-cuatro-muertos-entre-ellos-dos-de-sus-musicos-el-artista-sufrio-amputacion-de-una-pierna-3596442",
+     "domain": "El Tiempo",
+     "seendate": "20261026T194340Z"
     },
     {
      "title": "Los fuertes testimonios de músicos de Kbeto Zuleta, hijo de Poncho Zuleta, tras trágico accidente en autobús: ‘Los muertos eran mis mejores amigos’",
@@ -1709,24 +1733,6 @@
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/emergencias-en-turbaco-bolivar-tras-fuertes-aguaceros-el-agua-se-desbordo-en-seis-sectores-y-dejo-mas-de-250-familias-afectadas-3596384",
      "domain": "El Tiempo",
      "seendate": "20261026T162745Z"
-    },
-    {
-     "title": "El fenómeno de El Niño no frena las lluvias: ¿por qué sigue lloviendo en el Valle de Aburrá?",
-     "url": "https://www.eltiempo.com/colombia/medellin/el-fenomeno-de-el-nino-no-frena-las-lluvias-por-que-sigue-lloviendo-en-el-valle-de-aburra-3596371",
-     "domain": "El Tiempo",
-     "seendate": "20261026T155317Z"
-    },
-    {
-     "title": "Por una libra de arroz, vendedor mató a un joven que, presuntamente se negó a pagarle en Huila: la Policía busca al agresor",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/por-una-libra-de-arroz-vendedor-mato-a-un-joven-que-presuntamente-se-nego-a-pagarle-en-huila-la-policia-busca-al-agresor-3596346",
-     "domain": "El Tiempo",
-     "seendate": "20261026T155234Z"
-    },
-    {
-     "title": "En Cartagena, 38 extranjeros han sido inadmitidos tras ofensiva conjunta con EE. UU. contra la explotación sexual infantil",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/en-cartagena-38-extranjeros-han-sido-inadmitidos-tras-ofensiva-conjunta-con-ee-uu-contra-la-explotacion-sexual-infantil-3596335",
-     "domain": "El Tiempo",
-     "seendate": "20261026T154002Z"
     }
    ]
   },
@@ -2133,12 +2139,6 @@
      "seendate": "20261026T123151Z"
     },
     {
-     "title": "Alias ‘Gato Farfán’ se podría convertir en el segundo capo ecuatoriano sentenciado por narcotráfico en Estados Unidos: Fiscalía sugirió condena que se conocerá el lunes 26",
-     "url": "https://eluniverso.com/politica/seguridad/alias-gato-farfan-se-podria-convertir-en-el-segundo-capo-ecuatoriano-sentenciado-por-narcotrafico-en-estados-unidos-fiscalia-sugirio-condena-que-se-conocera-el-lunes-26-nota/",
-     "domain": "El Universo",
-     "seendate": "20261026T122500Z"
-    },
-    {
      "title": "La Policía decomisó 784 bloques de cocaína en conservas de atún en puerto de Guayaquil",
      "url": "https://eluniverso.com/politica/seguridad/la-policia-decomiso-784-bloques-de-cocaina-en-conservas-de-atun-en-puerto-de-guayaquil-nota/",
      "domain": "El Universo",
@@ -2151,18 +2151,6 @@
      "seendate": "20261026T115625Z"
     },
     {
-     "title": "Fiestas de Cuenca 2026: agenda de conciertos, desfiles y ferias para planificar el viaje en el feriado",
-     "url": "https://eluniverso.com/comunidad/ecuador/fiestas-de-cuenca-2026-agenda-de-eventos-y-conciertos-nota/",
-     "domain": "El Universo",
-     "seendate": "20261026T113000Z"
-    },
-    {
-     "title": "Fallas en los camiones de basura para Quito, otro frente que salpica la gestión del alcalde Pabel Muñoz",
-     "url": "https://eluniverso.com/politica/gobiernos-locales/pabel-munoz-municipio-de-quito-contraloria-emaseo-corrupcion-nota/",
-     "domain": "El Universo",
-     "seendate": "20261026T111500Z"
-    },
-    {
      "title": "Daniel Noboa felicita a Lula da Silva tras ganar el balotaje y ser reelecto como presidente de Brasil",
      "url": "https://eluniverso.com/politica/ejecutivo/daniel-noboa-felicita-lula-da-silva-tras-ganar-balotaje-reelecto-presidente-brasil-nota/",
      "domain": "El Universo",
@@ -2173,7 +2161,19 @@
   "PER": {
    "articles": [
     {
-     "title": "Olympic Perú, Petro-Perú y Enel Generación Piura suscriben acuerdo de intercambio de gas natural que generará hasta 35MW para reforzar suministro eléctrico del norte ante el fenómeno de El Niño",
+     "title": "Negocios aumentan hasta 20% su inversión para Halloween y el Día de la Canción Criolla, ¿será una buena campaña de ‘dulce o truco’ y jarana?",
+     "url": "https://elcomercio.pe/economia/peru/negocios-aumentan-hasta-20-su-inversion-para-halloween-y-el-dia-de-la-cancion-criolla-31-de-octubre-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261026T200121Z"
+    },
+    {
+     "title": "Sunat adjudica contratos de seguridad a un consorcio vinculado con empresas deudoras por S/124 millones",
+     "url": "https://elcomercio.pe/economia/peru/sunat-adjudica-contratos-de-seguridad-a-un-consorcio-vinculado-con-empresas-deudoras-por-s124-millones-l-ultimas-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261026T195819Z"
+    },
+    {
+     "title": "Olympic Perú, Petro-Perú y Enel Generación Piura suscriben acuerdo para reforzar suministro eléctrico del norte ante el fenómeno de El Niño",
      "url": "https://elcomercio.pe/economia/peru/olympic-peru-petro-peru-y-enel-generacion-piura-suscriben-acuerdo-de-intercambio-de-gas-natural-que-generara-hasta-35mw-para-reforzar-suministro-electrico-del-norte-ante-el-fenomeno-de-el-nino-l-ultimas-noticia/",
      "domain": "El Comercio",
      "seendate": "20261026T193501Z"
@@ -2213,12 +2213,6 @@
      "url": "https://elcomercio.pe/economia/peru/el-dolar-retrocede-a-s344-en-peru-mientras-mercados-esperan-decision-de-la-fed-l-cotizacion-del-dolar-l-dolar-l-ultimas-noticia/",
      "domain": "El Comercio",
      "seendate": "20261026T180227Z"
-    },
-    {
-     "title": "Negocios aumentan hasta 20% su inversión para Halloween y el Día de la Canción Criolla, ¿será una buena campaña de ‘dulce o truco’ y jarana?",
-     "url": "https://elcomercio.pe/economia/peru/negocios-aumentan-hasta-20-su-inversion-para-halloween-y-el-dia-de-la-cancion-criolla-31-de-octubre-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261026T180203Z"
     },
     {
      "title": "El ‘Mega Niño’ podría afectar producción de arándanos, uva y mango hacia finales del año, prevé el Midagri",
@@ -2941,16 +2935,52 @@
   "ARG": {
    "articles": [
     {
-     "title": "La Justicia acusó a Ariel Vallejo de lavar dinero del juego ilegal y luego invertirlo en el fútbol",
-     "url": "https://www.lanacion.com.ar/politica/la-justicia-acuso-a-ariel-vallejo-de-lavar-dinero-del-juego-ilegal-y-luego-invertirlo-en-el-futbol-nid26102026/",
-     "domain": "La Nación",
-     "seendate": "20261026T193845Z"
-    },
-    {
      "title": "Javier Milei y sus medidas, en vivo: el Presidente acusó a Lula de querer “robar” las elecciones en Brasil",
      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-acuso-a-lula-de-querer-robar-las-elecciones-en-nid26102026/",
      "domain": "La Nación",
-     "seendate": "20261026T193345Z"
+     "seendate": "20261026T202147Z"
+    },
+    {
+     "title": "Fue a una guardia con un paciente y se encontró con la médica a la que le usurpaba la matrícula de psiquiatra",
+     "url": "https://www.lanacion.com.ar/seguridad/fue-a-una-guardia-con-un-paciente-y-se-encontro-con-la-medica-a-la-que-le-usurpaba-la-matricula-de-nid26102026/",
+     "domain": "La Nación",
+     "seendate": "20261026T200925Z"
+    },
+    {
+     "title": "El Índice de Confianza en el Gobierno aumentó un 0,9% en octubre, tras la caída de septiembre",
+     "url": "https://www.lanacion.com.ar/politica/el-indice-de-confianza-en-el-gobierno-aumento-un-09-en-octubre-tras-la-caida-de-septiembre-nid26102026/",
+     "domain": "La Nación",
+     "seendate": "20261026T200718Z"
+    },
+    {
+     "title": "Aliados indispensables: los animales que conocen el camino y guían a miles de vacas para escapar de la inundación",
+     "url": "https://www.lanacion.com.ar/economia/campo/todos-tienen-sus-sinuelos-los-animales-que-conocen-el-camino-y-guian-a-miles-de-vacas-para-escapar-nid26102026/",
+     "domain": "La Nación",
+     "seendate": "20261026T200551Z"
+    },
+    {
+     "title": "Buscaban a un prófugo y hallaron a una joven muerta: qué detalló la autopsia y por qué no se descarta un homicidio",
+     "url": "https://www.lanacion.com.ar/seguridad/buscaban-a-un-profugo-y-hallaron-a-una-joven-muerta-que-detallo-la-autopsia-y-por-que-no-se-descarta-nid26102026/",
+     "domain": "La Nación",
+     "seendate": "20261026T200213Z"
+    },
+    {
+     "title": "La defensa de Pity Álvarez denunció un grave riesgo para su salud y apeló al máximo tribunal porteño",
+     "url": "https://www.lanacion.com.ar/seguridad/la-defensa-de-pity-alvarez-denuncio-un-grave-riesgo-para-su-salud-y-apelo-al-maximo-tribunal-porteno-nid26102026/",
+     "domain": "La Nación",
+     "seendate": "20261026T195607Z"
+    },
+    {
+     "title": "La Justicia acusó a Ariel Vallejo de lavar dinero del juego ilegal y luego invertirlo en el fútbol",
+     "url": "https://www.lanacion.com.ar/politica/la-justicia-acuso-a-ariel-vallejo-de-lavar-dinero-del-juego-ilegal-y-luego-invertirlo-en-el-futbol-nid26102026/",
+     "domain": "La Nación",
+     "seendate": "20261026T194517Z"
+    },
+    {
+     "title": "El falso “subcomisario Gutiérrez” y las estafas hechas por presos desde las cárceles",
+     "url": "https://www.lanacion.com.ar/seguridad/el-falso-subcomisario-gutierrez-y-las-estafas-hechas-por-presos-desde-las-carceles-nid26102026/",
+     "domain": "La Nación",
+     "seendate": "20261026T194246Z"
     },
     {
      "title": "Detuvieron al sospechoso del crimen de Daniela Villalba: también lo investigan por la muerte de una trabajadora sexual en Retiro",
@@ -3077,30 +3107,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-no-es-lo-mismo-haber-sido-un-hijo-deseado-que-ser-el-producto-de-un-nid26102026/",
      "domain": "La Nación",
      "seendate": "20261026T183800Z"
-    },
-    {
-     "title": "Jóvenes argentinos crearon un “Airbnb” para organizar la llegada de miles de peregrinos a Luján durante la visita del Papa",
-     "url": "https://www.lanacion.com.ar/sociedad/jovenes-argentinos-crearon-un-airbnb-para-organizar-la-llegada-de-miles-de-peregrinos-a-lujan-nid26102026/",
-     "domain": "La Nación",
-     "seendate": "20261026T182839Z"
-    },
-    {
-     "title": "Campaña 2026/27. Los números de la fertilización cierran, pero hay que hacer las aplicaciones con datos precisos",
-     "url": "https://www.lanacion.com.ar/economia/campo/campana-202627-los-numeros-de-la-fertilizacion-cierran-pero-hay-que-hacer-las-aplicaciones-con-datos-nid21102026/",
-     "domain": "La Nación",
-     "seendate": "20261026T175712Z"
-    },
-    {
-     "title": "La industria frigorífica anticipa menores precios para la hacienda que no cumpla con la exigencia europea sobre deforestación",
-     "url": "https://www.lanacion.com.ar/economia/campo/la-industria-frigorifica-anticipa-menores-precios-para-la-hacienda-que-no-cumpla-con-la-exigencia-nid26102026/",
-     "domain": "La Nación",
-     "seendate": "20261026T174917Z"
-    },
-    {
-     "title": "Tras el triunfo de Lula, sube el riesgo país y caen las acciones argentinas en Wall Street",
-     "url": "https://www.lanacion.com.ar/economia/el-triunfo-sorpresivo-de-lula-en-brasil-presiona-al-riesgo-pais-argentino-y-mercado-libre-se-nid26102026/",
-     "domain": "La Nación",
-     "seendate": "20261026T173724Z"
     }
    ]
   },
@@ -3471,6 +3477,12 @@
   "PRY": {
    "articles": [
     {
+     "title": "Ocho adolescentes detenidos: investigan conflicto entre alumnos de colegios de Asunción",
+     "url": "https://www.abc.com.py/nacionales/2026/10/26/ocho-adolescentes-detenidos-investigan-conflicto-entre-alumnos-de-colegios-de-asuncion/",
+     "domain": "ABC Color",
+     "seendate": "20261026T200917Z"
+    },
+    {
      "title": "Descenso de los ríos genera alivio, pero persiste la incertidumbre climática en San Pedro",
      "url": "https://www.abc.com.py/nacionales/2026/10/26/descenso-de-los-rios-genera-alivio-pero-persiste-la-incertidumbre-climatica-en-san-pedro/",
      "domain": "ABC Color",
@@ -3519,6 +3531,42 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "Do silêncio à contestação dos resultados: a reação dos governadores de direita após a derrota de Flávio Bolsonaro",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/26/do-silencio-a-contestacao-dos-resultados-a-reacao-dos-governadores-de-direita-apos-a-derrota-de-flavio-bolsonaro.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261026T200152Z"
+    },
+    {
+     "title": "Lula avançou em todos os estados na comparação com Flávio; veja o saldo entre o primeiro e segundo turno em cada um",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/26/lula-avancou-em-todos-os-estados-na-comparacao-com-flavio-veja-o-saldo-entre-o-primeiro-e-segundo-turno-em-cada-um.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261026T200031Z"
+    },
+    {
+     "title": "O que é um pontinho vermelho em Roraima? Conheça a única cidade com vitória de Lula no estado dominado por Flávio",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/26/o-que-e-um-pontinho-vermelho-em-roraima-conheca-a-unica-cidade-com-vitoria-de-lula-no-estado-dominado-por-flavio.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261026T195528Z"
+    },
+    {
+     "title": "Na contramão de líderes globais, Trump afirma que disputa 'pareceu mais uma eleição fraudada', mas diz gostar de Lula",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/26/na-contramao-de-lideres-globais-trump-afirma-que-disputa-pareceu-mais-uma-eleicao-fraudada-mas-diz-gostar-de-lula.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261026T195109Z"
+    },
+    {
+     "title": "Após derrota, Flávio diz que pedirá cassação da chapa de Lula ao TSE e acusa petista de abuso de poder político e econômico",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/26/apos-derrota-flavio-diz-que-pedira-cassacao-da-chapa-de-lula-ao-tse-e-acusa-petista-de-abuso-de-poder.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261026T194843Z"
+    },
+    {
+     "title": "Flávio é intimado pela PF para entregar passaporte por determinação de Moraes",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/26/flavio-e-intimado-pela-pf-para-entregar-passaporte.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261026T194209Z"
+    },
     {
      "title": "Após vitória de Lula, CNBB destaca importância da participação popular para a ‘vida da nação’",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/26/apos-vitoria-de-lula-cnbb-destaca-importancia-da-participacao-popular-para-a-vida-da-nacao.ghtml",
@@ -3650,48 +3698,6 @@
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/26/pf-registra-86-ocorrencias-de-crime-eleitoral-no-segundo-turno-e-apreende-r-41-mil-em-bens-e-valores.ghtml",
      "domain": "O Globo",
      "seendate": "20261026T154628Z"
-    },
-    {
-     "title": "Quem é Rafael Fonteles, governador reeleito do Piauí e que se juntou a Lula no segundo turno",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/26/quem-e-rafael-fonteles-governador-reeleito-do-piaui-e-que-se-juntou-a-lula-no-segundo-turno.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261026T152829Z"
-    },
-    {
-     "title": "Com impulso das redes e mobilizações nas ruas, abstenções diminuem no exterior no segundo turno",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/26/com-impulso-das-redes-e-mobilizacoes-nas-ruas-abstencoes-diminuem-no-exterior-no-segundo-turno.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261026T152638Z"
-    },
-    {
-     "title": "Dino diz que 'pessoas acorrentadas e chicotes' não podem integrar processo eleitoral, em referência indireta a imagens vistas em atos de apoio a Flávio",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/26/dino-diz-que-pessoas-acorrentadas-e-chicotes-nao-podem-integrar-processo-eleitoral-em-referencia-indireta-a-imagens-vistas-em-atos-de-apoio-a-flavio.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261026T152321Z"
-    },
-    {
-     "title": "Aliados de Flávio apontam erros na estratégia em Minas, São Paulo e Nordeste após derrota para Lula",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/26/aliados-de-flavio-apontam-erros-na-estrategia-em-minas-sao-paulo-e-nordeste-apos-derrota-para-lula.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261026T152014Z"
-    },
-    {
-     "title": "Cidade paranaense registrou o único empate entre Lula e Flávio Bolsonaro na eleição; veja qual",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/26/cidade-paranaense-registrou-o-unico-empate-entre-lula-e-flavio-bolsonaro-na-eleicao-veja-qual.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261026T151707Z"
-    },
-    {
-     "title": "Presidente da Colômbia, que apoiou Flávio Bolsonaro, reconhece vitória de Lula: 'A vontade do povo é sagrada'",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/26/presidente-da-colombia-que-apoiou-flavio-bolsonaro-reconhece-vitoria-de-lula-a-vontade-do-povo-e-sagrada.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261026T151250Z"
-    },
-    {
-     "title": "Lula vira em zonas eleitorais de São Gonçalo, berço de Douglas Ruas, e chega a 48,02% dos votos válidos",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/26/lula-vira-em-zonas-eleitorais-de-sao-goncalo-berco-de-douglas-ruas-e-chega-a-4802percent-dos-votos-validos.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261026T151026Z"
     }
    ]
   }
