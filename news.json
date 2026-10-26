@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T06:08:43+00:00",
+ "updated": "2026-10-26T07:30:40+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -16,12 +16,6 @@
      "seendate": "20261026T043001Z"
     },
     {
-     "title": "Ana Kiro, “la Taylor Swift” de la emigración que vendió más que nadie cantando en gallego",
-     "url": "https://elpais.com/espana/galicia/2026-10-26/ana-kiro-la-taylor-swift-de-la-emigracion-que-vendio-mas-que-nadie-cantando-en-gallego.html",
-     "domain": "El País",
-     "seendate": "20261026T043001Z"
-    },
-    {
      "title": "PP y Vox apuran “sobre la bocina” la negociación de la fórmula para hacerse con el control del Senado",
      "url": "https://elpais.com/espana/elecciones-generales/2026-10-26/pp-y-vox-apuran-sobre-la-bocina-la-negociacion-de-la-formula-para-hacerse-con-el-control-del-senado.html",
      "domain": "El País",
@@ -30,6 +24,12 @@
     {
      "title": "La violencia callejera como munición electoral",
      "url": "https://elpais.com/espana/elecciones-generales/2026-10-26/la-violencia-callejera-como-municion-electoral.html",
+     "domain": "El País",
+     "seendate": "20261026T043001Z"
+    },
+    {
+     "title": "Ana Kiro, “la Taylor Swift” de la emigración que vendió más que nadie cantando en gallego",
+     "url": "https://elpais.com/espana/galicia/2026-10-26/ana-kiro-la-taylor-swift-de-la-emigracion-que-vendio-mas-que-nadie-cantando-en-gallego.html",
      "domain": "El País",
      "seendate": "20261026T043001Z"
     },
@@ -46,7 +46,7 @@
      "seendate": "20261026T043001Z"
     },
     {
-     "title": "El Ayuntamiento recalifica la ciudad del Real Madrid con un informe que calcula mal el beneficio para la capital: aumenta de 1,46 a 98,6 millones",
+     "title": "El Ayuntamiento recalifica la ciudad del Real Madrid con un informe que calcula mal el beneficio: sube de 1,46 a 98,6 millones",
      "url": "https://elpais.com/espana/madrid/2026-10-26/el-ayuntamiento-recalifica-la-ciudad-del-real-madrid-con-un-informe-que-calcula-mal-el-beneficio-para-la-capital-aumenta-de-146-a-986-millones.html",
      "domain": "El País",
      "seendate": "20261026T043001Z"
@@ -116,6 +116,24 @@
   "MEX": {
    "articles": [
     {
+     "title": "¿En dónde se atienden los mexicanos sus enfermedades?; 30% de pacientes del IMSS recurren a atención privada",
+     "url": "https://www.eluniversal.com.mx/nacion/en-donde-se-atienden-los-mexicanos-sus-enfermedades-30-de-pacientes-del-imss-recurren-a-atencion-privada/",
+     "domain": "El Universal",
+     "seendate": "20261026T071438Z"
+    },
+    {
+     "title": "Hallan sin vida en Sinaloa a jornalero oaxaqueño",
+     "url": "https://www.eluniversal.com.mx/estados/hallan-sin-vida-en-sinaloa-a-jornalero-oaxaqueno/",
+     "domain": "El Universal",
+     "seendate": "20261026T071401Z"
+    },
+    {
+     "title": "Eliseo Toscano, el campesino que busca sanar la tierra",
+     "url": "https://www.eluniversal.com.mx/estados/eliseo-toscano-el-campesino-que-busca-sanar-la-tierra/",
+     "domain": "El Universal",
+     "seendate": "20261026T070355Z"
+    },
+    {
      "title": "Sector salud presente en Mega Procesión de las Catrinas; “no podemos estar peleados con la muerte”",
      "url": "https://www.eluniversal.com.mx/metropoli/sector-salud-presente-en-mega-procesion-de-las-catrinas-no-podemos-estar-peleados-con-la-muerte/",
      "domain": "El Universal",
@@ -134,190 +152,10 @@
      "seendate": "20261026T040856Z"
     },
     {
-     "title": "Mueren dos internos en penal de Mazatlán; investigan presunto suicidio y complicaciones de salud",
-     "url": "https://www.eluniversal.com.mx/estados/mueren-dos-internos-en-penal-de-mazatlan-investigan-presunto-suicidio-y-complicaciones-de-salud/",
-     "domain": "El Universal",
-     "seendate": "20261026T022630Z"
-    },
-    {
-     "title": "Deslizamiento de talud afecta sótanos y locales de plaza comercial en Cuajimalpa; evacúan a dos personas",
-     "url": "https://www.eluniversal.com.mx/metropoli/deslizamiento-de-talud-afecta-sotanos-y-locales-de-plaza-comercial-en-cuajimalpa-evacuan-a-dos-personas/",
-     "domain": "El Universal",
-     "seendate": "20261026T022625Z"
-    },
-    {
-     "title": "Tamaulipas invierte 25 mil mdp en programas sociales; anuncia obras",
-     "url": "https://www.eluniversal.com.mx/estados/tamaulipas-invierte-25-mil-mdp-en-programas-sociales-anuncia-obras/",
-     "domain": "El Universal",
-     "seendate": "20261026T013037Z"
-    },
-    {
-     "title": "Sheinbaum celebra triunfo de Lula da Silva en elección presidencial; \"ganó el pueblo de Brasil\"",
-     "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-celebra-triunfo-de-lula-da-silva-en-eleccion-presidencial-gano-el-pueblo-de-brasil/",
-     "domain": "El Universal",
-     "seendate": "20261026T010739Z"
-    },
-    {
-     "title": "Morena y oposición exigen investigar a Taddei; piden esclarecer presuntas irregularidades en el INE",
-     "url": "https://www.eluniversal.com.mx/nacion/alito-moreno-pide-investigar-a-fondo-el-caso-taddei-la-renuncia-no-borra-las-responsabilidades-senala/",
-     "domain": "El Universal",
-     "seendate": "20261026T010205Z"
-    },
-    {
-     "title": "¿Cómo serán los contratos de renta en CDMX?; esto propone la iniciativa de Clara Brugada",
-     "url": "https://www.eluniversal.com.mx/metropoli/como-seran-los-contratos-de-renta-en-cdmx-esto-propone-la-iniciativa-de-clara-brugada/",
-     "domain": "El Universal",
-     "seendate": "20261026T005852Z"
-    },
-    {
-     "title": "PAN nombra a \"Felifer\" Macías como coordinador en Querétaro rumbo a elecciones 2027; Jorge Romero llama a la unidad",
-     "url": "https://www.eluniversal.com.mx/nacion/pan-nombra-a-felifer-macias-como-coordinador-en-queretaro-rumbo-a-elecciones-2027-jorge-romero-llama-a-la-unidad/",
-     "domain": "El Universal",
-     "seendate": "20261026T004803Z"
-    },
-    {
-     "title": "Mano derecha de Lemus posee concesión de agua igual a 36 albercas olímpicas; deja el cargo",
-     "url": "https://www.eluniversal.com.mx/nacion/mano-derecha-de-lemus-posee-concesion-de-agua-igual-a-36-albercas-olimpicas-deja-el-cargo/",
-     "domain": "El Universal",
-     "seendate": "20261026T003114Z"
-    },
-    {
-     "title": "Ecatepec lleva agua potable y pavimenta cinco calles en La Negra; rehabilita parque en La Palma",
-     "url": "https://www.eluniversal.com.mx/metropoli/ecatepec-lleva-agua-potable-y-pavimenta-cinco-calles-en-la-negra-rehabilita-parque-en-la-palma/",
-     "domain": "El Universal",
-     "seendate": "20261026T002930Z"
-    },
-    {
-     "title": "Eruviel Ávila reconoce liderazgo de Couttolenc en PVEM mexiquense; alistan estructura rumbo a 2027",
-     "url": "https://www.eluniversal.com.mx/metropoli/eruviel-avila-reconoce-liderazgo-de-couttolenc-en-pvem-mexiquense-alistan-estructura-rumbo-a-2027/",
-     "domain": "El Universal",
-     "seendate": "20261026T001144Z"
-    },
-    {
-     "title": "¿Qué sigue tras la renuncia de Taddei al INE?; así será el proceso para elegir a su sucesor",
-     "url": "https://www.eluniversal.com.mx/nacion/que-sigue-tras-la-renuncia-de-taddei-al-ine-asi-sera-el-proceso-para-elegir-a-su-sucesor/",
-     "domain": "El Universal",
-     "seendate": "20261025T235442Z"
-    },
-    {
-     "title": "Pitbull frustra intento de robo en Yucatán; intruso termina con múltiples lesiones",
-     "url": "https://www.eluniversal.com.mx/estados/pitbull-frustra-intento-de-robo-en-yucatan-intruso-termina-con-multiples-lesiones/",
-     "domain": "El Universal",
-     "seendate": "20261025T233640Z"
-    },
-    {
-     "title": "Feminicidio de Miriam y su nieta en Chiapas; linchamiento y desaparición marcan el caso",
-     "url": "https://www.eluniversal.com.mx/estados/feminicidio-de-miriam-y-su-nieta-desata-linchamiento-en-chiapas-decapitan-a-presunto-responsable/",
-     "domain": "El Universal",
-     "seendate": "20261025T232839Z"
-    },
-    {
-     "title": "Segob reconoce a transportistas que optan por el diálogo; llama a Canacar a frenar el paro",
-     "url": "https://www.eluniversal.com.mx/nacion/segob-reconoce-a-transportistas-que-optan-por-el-dialogo-llama-a-canacar-a-frenar-el-paro/",
-     "domain": "El Universal",
-     "seendate": "20261025T231544Z"
-    },
-    {
-     "title": "Morena CDMX anuncia colecta de firmas en apoyo a Ley de Rentas; diputados guindas inician parlamento abierto",
-     "url": "https://www.eluniversal.com.mx/metropoli/morena-cdmx-anuncia-colecta-de-firmas-en-apoyo-a-ley-de-rentas-diputados-guindas-inician-parlamento-abierto/",
-     "domain": "El Universal",
-     "seendate": "20261025T224205Z"
-    },
-    {
-     "title": "Venustiano Carranza reduce percepción de inseguridad; ocupa segundo lugar entre alcaldías de CDMX",
-     "url": "https://www.eluniversal.com.mx/metropoli/venustiano-carranza-reduce-percepcion-de-inseguridad-ocupa-segundo-lugar-entre-alcaldias-de-cdmx/",
-     "domain": "El Universal",
-     "seendate": "20261025T223945Z"
-    },
-    {
-     "title": "INE difunde renuncia de Taddei; decisión busca proteger al Instituto, afirma",
-     "url": "https://www.eluniversal.com.mx/nacion/ine-difunde-renuncia-de-taddei-luego-borra-comunicado/",
-     "domain": "El Universal",
-     "seendate": "20261025T221006Z"
-    },
-    {
      "title": "Mega Procesión de Catrinas 2026 en CDMX; sigue EN VIVO el recorrido y consulta las alternativas viales",
      "url": "https://www.eluniversal.com.mx/metropoli/mega-procesion-de-catrinas-2026-en-cdmx-sigue-en-vivo-el-recorrido-y-consulta-las-alternativas-viales/",
      "domain": "El Universal",
      "seendate": "20261025T215212Z"
-    },
-    {
-     "title": "Reportan desaparición de sacerdote en Culiacán; piden ayuda en redes para localizarlo",
-     "url": "https://www.eluniversal.com.mx/estados/reportan-desaparicion-de-sacerdote-en-culiacan-piden-ayuda-en-redes-para-localizarlo/",
-     "domain": "El Universal",
-     "seendate": "20261025T212849Z"
-    },
-    {
-     "title": "Brugada inaugura Utopía “La Soberana”; requirió una inversión de casi 300 mdp",
-     "url": "https://www.eluniversal.com.mx/metropoli/clara-brugada-inaugura-la-utopia-mas-grande-de-cdmx-anuncian-otros-100-mil-metros-cuadrados-para-nuevos-servicios/",
-     "domain": "El Universal",
-     "seendate": "20261025T210609Z"
-    },
-    {
-     "title": "Taddei, víctima de campaña neofascista: Noroña; \"Que dé un paso al costado\", dice senador Manuel Huerta",
-     "url": "https://www.eluniversal.com.mx/nacion/taddei-victima-de-campana-neofascista-norona-que-de-un-paso-al-costado-dice-senador-manuel-huerta/",
-     "domain": "El Universal",
-     "seendate": "20261025T204803Z"
-    },
-    {
-     "title": "Detienen a 24 patinadores en San Pedro Garza García; recorrieron vialidades sin aviso previo",
-     "url": "https://www.eluniversal.com.mx/estados/detienen-a-24-patinadores-en-san-pedro-garza-garcia-recorrieron-vialidades-sin-aviso-previo/",
-     "domain": "El Universal",
-     "seendate": "20261025T203119Z"
-    },
-    {
-     "title": "Cae en Iguala líder regional y operador financiero de \"Los Tlacos\", célula delictiva de Guerrero",
-     "url": "https://www.eluniversal.com.mx/nacion/cae-en-iguala-lider-regional-y-operador-financiero-de-los-tlacos-celula-delictiva-de-guerrero/",
-     "domain": "El Universal",
-     "seendate": "20261025T202242Z"
-    },
-    {
-     "title": "Feminicidio de abuela y nieta en Chiapas fue por venganza personal, informa fiscal; uno de los presuntos responsables murió linchado",
-     "url": "https://www.eluniversal.com.mx/estados/feminicidio-de-abuela-y-nieta-en-chiapas-fue-por-venganza-personal-informa-fiscal-uno-de-los-presuntos-responsables-murio-linchado/",
-     "domain": "El Universal",
-     "seendate": "20261025T202100Z"
-    },
-    {
-     "title": "Hallan a un hombre y una mujer sin vida en vivienda de Hidalgo; una víctima tenía ficha de búsqueda",
-     "url": "https://www.eluniversal.com.mx/estados/hallan-a-un-hombre-y-una-mujer-sin-vida-en-vivienda-de-hidalgo-una-victima-tenia-ficha-de-busqueda/",
-     "domain": "El Universal",
-     "seendate": "20261025T200306Z"
-    },
-    {
-     "title": "Iglesia expresa preocupación por captación de niñas, niños y adolescentes en México; llama a protegerlos del crimen organizado",
-     "url": "https://www.eluniversal.com.mx/nacion/iglesia-expresa-preocupacion-por-captacion-de-ninas-ninos-y-adolescentes-en-mexico-llama-a-protegerlos-del-crimen-organizado/",
-     "domain": "El Universal",
-     "seendate": "20261025T195803Z"
-    },
-    {
-     "title": "VIDEO: Momento exacto en que Mario Puga fue embestido durante persecución en CDMX; el promotor cultural murió tras el impacto",
-     "url": "https://www.eluniversal.com.mx/metropoli/video-momento-exacto-en-que-mario-puga-fue-embestido-durante-persecucion-en-cdmx-el-promotor-cultural-murio-tras-el-impacto/",
-     "domain": "El Universal",
-     "seendate": "20261025T195529Z"
-    },
-    {
-     "title": "Convocatoria a mega paro divide a transportistas; Segob mantiene llamado a no afectar a ciudadanía",
-     "url": "https://www.eluniversal.com.mx/nacion/convocatoria-a-mega-paro-divide-a-transportistas-segob-mantiene-llamado-a-no-afectar-a-ciudadania/",
-     "domain": "El Universal",
-     "seendate": "20261025T193354Z"
-    },
-    {
-     "title": "No debe haber corrupción ni privilegios en la 4T, insiste Sheinbaum; falso que instituciones públicas estén peor, dice",
-     "url": "https://www.eluniversal.com.mx/nacion/no-debe-haber-corrupcion-ni-privilegios-en-la-4t-insiste-sheinbaum-falso-que-instituciones-publicas-esten-peor-dice/",
-     "domain": "El Universal",
-     "seendate": "20261025T191248Z"
-    },
-    {
-     "title": "Más de 400 mil personas celebran el cuarto aniversario de la clase de trampolín más grande del mundo; se reúnen en la Glorieta de Insurgentes",
-     "url": "https://www.eluniversal.com.mx/metropoli/mas-de-400-personas-celebran-el-cuarto-aniversario-de-la-clase-de-trampolin-mas-grande-del-mundo-se-reunen-en-la-glorieta-de-insurgentes/",
-     "domain": "El Universal",
-     "seendate": "20261025T191225Z"
-    },
-    {
-     "title": "Guadalupe Taddei, la consejera del INE que acumuló superpoder",
-     "url": "https://www.eluniversal.com.mx/nacion/guadalupe-taddei-la-consejera-del-ine-que-acumulo-superpoder/",
-     "domain": "El Universal",
-     "seendate": "20261024T093200Z"
     }
    ]
   },
@@ -1156,6 +994,12 @@
   "CRI": {
    "articles": [
     {
+     "title": "Asciende a 16 el número de aliados y financistas en puestos de confianza del gobierno de Laura Fernández",
+     "url": "https://www.nacion.com/politica/asciende-a-16-el-numero-de-aliados-y-financistas/APGP2ZC7UBBP3L7FYJITLYWTE4/story/",
+     "domain": "La Nación",
+     "seendate": "20261026T070000Z"
+    },
+    {
      "title": "Lotería Nacional de Costa Rica: vea el Premio Mayor del sorteo de este domingo 25 de octubre y lista de los demás",
      "url": "https://www.nacion.com/el-pais/loteria-nacional-de-costa-rica-vea-los-ganadores-y/32W7GMLUVBGD5KKYJ2HKIYUADA/story/",
      "domain": "La Nación",
@@ -1486,12 +1330,6 @@
      "url": "https://www.14ymedio.com/cuba/accidente-masivo-carbonera-deja-22_1_1132323.html",
      "domain": "14ymedio",
      "seendate": "20261023T155656Z"
-    },
-    {
-     "title": "El mar se abre a los cubanos con el estreno de la primera tienda náutica en La Habana",
-     "url": "https://www.14ymedio.com/cuba/mar-abre-cubanos-estreno-primera_1_1132267.html",
-     "domain": "14ymedio",
-     "seendate": "20261022T171946Z"
     }
    ]
   },
@@ -2707,28 +2545,34 @@
   "ARG": {
    "articles": [
     {
-     "title": "Gabriel Rolón, psicoanalista: “No es lo mismo haber sido un hijo deseado que ser el producto de un método anticonceptivo que falló”",
-     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-no-es-lo-mismo-haber-sido-un-hijo-deseado-que-ser-el-producto-de-un-nid26102026/",
-     "domain": "La Nación",
-     "seendate": "20261026T060000Z"
-    },
-    {
      "title": "Javier Milei y sus medidas, en vivo: el Presidente acusó a Lula de querer “robar” las elecciones en Brasil",
      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-acuso-a-lula-de-querer-robar-las-elecciones-en-nid26102026/",
      "domain": "La Nación",
-     "seendate": "20261026T054850Z"
+     "seendate": "20261026T070211Z"
+    },
+    {
+     "title": "Pilar Sordo, psicóloga, sobre la vida: “Es un hotel, uno entra sabiendo que se tiene que ir”",
+     "url": "https://www.lanacion.com.ar/sociedad/pilar-sordo-psicologa-sobre-la-vida-es-un-hotel-uno-entra-sabiendo-que-se-tiene-que-ir-nid26102026/",
+     "domain": "La Nación",
+     "seendate": "20261026T070000Z"
     },
     {
      "title": "Diego Guelar analizó el triunfo de Lula: un “cambio de reglas”, la relación con Milei y el posible indulto a Bolsonaro",
      "url": "https://www.lanacion.com.ar/politica/diego-guelar-analizo-el-triunfo-de-lula-un-cambio-de-reglas-la-relacion-con-milei-y-el-posible-nid25102026/",
      "domain": "La Nación",
-     "seendate": "20261026T044649Z"
+     "seendate": "20261026T065422Z"
     },
     {
      "title": "Reacciones de las elecciones en Brasil 2026: mensajes, tuits y declaraciones",
      "url": "https://www.lanacion.com.ar/politica/reacciones-de-las-elecciones-en-brasil-2026-mensajes-tuits-y-declaraciones-nid25102026/",
      "domain": "La Nación",
-     "seendate": "20261026T044626Z"
+     "seendate": "20261026T064118Z"
+    },
+    {
+     "title": "Gabriel Rolón, psicoanalista: “No es lo mismo haber sido un hijo deseado que ser el producto de un método anticonceptivo que falló”",
+     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-no-es-lo-mismo-haber-sido-un-hijo-deseado-que-ser-el-producto-de-un-nid26102026/",
+     "domain": "La Nación",
+     "seendate": "20261026T060000Z"
     },
     {
      "title": "El juicio contra Cristina y Máximo Kirchner se extenderá por más de un año y abarcará todo el 2027 electoral",
@@ -3225,6 +3069,156 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "Lula reage em estados que elegeram governadores à direita para conquistar 10 milhões de votos a mais do que no 1º turno",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/26/lula-reage-em-estados-que-elegeram-governadores-a-direita-para-conquistar-10-milhoes-de-votos-a-mais-do-que-no-1o-turno.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261026T063001Z"
+    },
+    {
+     "title": "Contra a maré: vitória de Lula sobre Flávio Bolsonaro supera onda de triunfos à direita e de oposição na América do Sul",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/26/contra-a-mare-vitoria-de-lula-sobre-flavio-bolsonaro-supera-onda-de-triunfos-a-direita-e-de-oposicao-na-america-do-sul.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261026T063001Z"
+    },
+    {
+     "title": "Eleições 2026: veja como o Brasil votou para presidente nas últimas sete eleições, desde 2002",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/26/eleicoes-2026-veja-como-o-brasil-votou-para-presidente-nas-ultimas-sete-eleicoes-desde-2002.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261026T063000Z"
+    },
+    {
+     "title": "A eleição do suor",
+     "url": "https://oglobo.globo.com/politica/renato-meirelles/coluna/2026/10/a-eleicao-do-suor.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261026T063000Z"
+    },
+    {
+     "title": "Infância monetizada: nova regra prevista no ECA Digital gera corrida de famílias por alvarás para influenciadores mirins",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/26/infancia-monetizada-nova-regra-prevista-no-eca-digital-gera-corrida-de-familias-por-alvaras-para-influenciadores-mirins.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261026T063000Z"
+    },
+    {
+     "title": "Entrevista: 'Eleitor arcou com custo da manutenção de Lula porque a alternativa era arriscada', diz cientista político Carlos Pereira",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/26/entrevista-eleitor-arcou-com-custo-da-manutencao-de-lula-porque-a-alternativa-era-arriscada-diz-cientista-politico-carlos-pereira.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261026T063000Z"
+    },
+    {
+     "title": "Flávio perdeu votos em um a cada seis municípios entre os turnos; recuo atinge todas as cidades de Amapá e Roraima",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/26/flavio-perdeu-votos-em-um-a-cada-seis-municipios-entre-os-turnos-recuo-atinge-todas-as-cidades-de-amapa-e-roraima.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261026T063000Z"
+    },
+    {
+     "title": "Vitória de Lula aprofunda coalizão petista que une força no Nordeste e grandes cidades; veja mapa",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/26/vitoria-de-lula-aprofunda-coalizao-petista-que-une-forca-no-nordeste-e-grandes-cidades-veja-mapa.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261026T063000Z"
+    },
+    {
+     "title": "Lula virou em uma a cada quatro das 'cidades-pêndulo' que haviam optado por Flávio no primeiro turno",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/26/lula-virou-em-uma-a-cada-quatro-das-cidades-pendulo-que-haviam-optado-por-flavio-no-primeiro-turno.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261026T063000Z"
+    },
+    {
+     "title": "A eleição nas escolas brasileiras",
+     "url": "https://oglobo.globo.com/brasil/antonio-gois/coluna/2026/10/a-eleicao-nas-escolas-brasileiras.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261026T063000Z"
+    },
+    {
+     "title": "Brancos e nulos no patamar mais baixo do século e menor abstenção em 20 anos: como explosão de engajamento turbinou Lula",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/26/brancos-e-nulos-no-patamar-mais-baixo-do-seculo-e-menor-abstencao-em-20-anos-como-explosao-de-engajamento-turbinou-lula.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261026T063000Z"
+    },
+    {
+     "title": "Mapa conservador: após avanço do PL no primeiro turno, direita consolida domínio e terá a maioria dos governos estaduais",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/26/mapa-conservador-apos-avanco-do-pl-no-primeiro-turno-direita-consolida-dominio-e-tera-a-maioria-dos-governos-estaduais.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261026T063000Z"
+    },
+    {
+     "title": "Lula terá pela frente oposição fortalecida e STF pressionado",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/26/lula-tera-pela-frente-oposicao-fortalecida-e-stf-pressionado.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261026T063000Z"
+    },
+    {
+     "title": "Classe média paulistana que votava no PSDB era anti-Lula, mas rejeitou ainda mais o bolsonarismo; veja mapas",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/26/classe-media-paulistana-que-votava-no-psdb-era-anti-lula-mas-rejeitou-ainda-mais-o-bolsonarismo-veja-mapas.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261026T063000Z"
+    },
+    {
+     "title": "Redação do Enem: treine para a prova com o tema trabalho e qualidade de vida com correção de ferramenta de IA do GLOBO",
+     "url": "https://oglobo.globo.com/brasil/educacao/noticia/2026/10/26/redacao-do-enem-treine-para-a-prova-com-o-tema-trabalho-e-qualidade-de-vida-com-correcao-de-ferramenta-de-ia-do-globo.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261026T063000Z"
+    },
+    {
+     "title": "A futura Esplanada de Lula: novo ministério precisará acomodar aliados derrotados e construção de base",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/26/a-futura-esplanada-de-lula-novo-ministerio-precisara-acomodar-aliados-derrotados-e-construcao-de-base.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261026T063000Z"
+    },
+    {
+     "title": "Lula x Flávio Bolsonaro: compare a votação de primeiro e segundo turno na sua zona eleitoral",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/26/lula-x-flavio-bolsonaro-compare-a-votacao-de-primeiro-e-segundo-turno-na-sua-zona-eleitoral.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261026T063000Z"
+    },
+    {
+     "title": "Flávio vence em mais cidades do que o pai em 2022, mas fica atrás do que o bolsonarismo conseguiu em 2018",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/26/flavio-vence-em-mais-cidades-do-que-o-pai-em-2022-mas-fica-atras-do-que-o-bolsonarismo-conseguiu-em-2018.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261026T063000Z"
+    },
+    {
+     "title": "Qual o futuro da direita? Novo revés da família Bolsonaro diante de Lula põe em dúvida o protagonismo do clã",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/26/qual-o-futuro-da-direita-novo-reves-da-familia-bolsonaro-diante-de-lula-poe-em-duvida-o-protagonismo-do-cla.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261026T063000Z"
+    },
+    {
+     "title": "Lula x Flávio Bolsonaro: compare a votação de primeiro e segundo turno na sua cidade",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/26/lula-x-flavio-bolsonaro-compare-a-votacao-de-primeiro-e-segundo-turno-na-sua-cidade.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261026T063000Z"
+    },
+    {
+     "title": "Lula x Flávio Bolsonaro: veja os resultados em todos os estados",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/26/lula-x-flavio-bolsonaro-veja-os-resultados-em-todos-os-estados.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261026T063000Z"
+    },
+    {
+     "title": "Sertão pernambucano e reduto de povos originários: conheça a cidade que mais votou em Lula no segundo turno",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/26/sertao-pernambucano-e-reduto-de-povos-originarios-conheca-a-cidade-que-mais-votou-em-lula-no-segundo-turno.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261026T063000Z"
+    },
+    {
+     "title": "Do discurso à realidade: Lula terá de alinhar 'bondades' às contas públicas e superar críticas na segurança",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/26/do-discurso-a-realidade-lula-tera-de-alinhar-bondades-as-contas-publicas-e-superar-criticas-na-seguranca.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261026T063000Z"
+    },
+    {
+     "title": "Lula quer novo pacto com Centrão para governar com partidos na Esplanada",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/26/lula-quer-novo-pacto-com-centrao-para-governar-com-partidos-na-esplanada.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261026T063000Z"
+    },
+    {
+     "title": "Imigrantes italianos e reduto de vinícolas: conheça a cidade no RS que mais votou em Flávio no segundo turno",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/26/imigrantes-italianos-e-reduto-de-vinicolas-conheca-a-cidade-no-rs-que-mais-votou-em-flavio-no-segundo-turno.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261026T063000Z"
+    },
     {
      "title": "Reeleito, Lula poderá indicar mais quatro ministros ao STF e tentará acordo para aprovar nome no Senado neste ano",
      "url": "https://oglobo.globo.com/politica/noticia/2026/10/26/reeleito-lula-podera-indicar-mais-quatro-ministros-ao-stf-e-tentara-acordo-para-aprovar-nome-no-senado-neste-ano.ghtml",
