@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T00:43:42+00:00",
+ "updated": "2026-10-27T01:41:47+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -170,6 +170,36 @@
   "MEX": {
    "articles": [
     {
+     "title": "Gobernador de Hidalgo pide designar nuevo titular del INE; llama a garantizar certeza electoral",
+     "url": "https://www.eluniversal.com.mx/estados/gobernador-de-hidalgo-pide-designar-nuevo-titular-del-ine-llama-a-garantizar-certeza-electoral/",
+     "domain": "El Universal",
+     "seendate": "20261027T011639Z"
+    },
+    {
+     "title": "Muere elemento de la Guardia Estatal durante revisión en carretera de Tamaulipas; buscan esclarecer los hechos",
+     "url": "https://www.eluniversal.com.mx/estados/muere-elemento-de-la-guardia-estatal-durante-revision-en-carretera-de-tamaulipas-buscan-esclarecer-los-hechos/",
+     "domain": "El Universal",
+     "seendate": "20261027T011632Z"
+    },
+    {
+     "title": "Fiscalía de Sonora descarta denuncias contra Guadalupe Taddei por contratos electorales; remite el caso al ámbito federal",
+     "url": "https://www.eluniversal.com.mx/estados/fiscalia-de-sonora-descarta-denuncias-contra-guadalupe-taddei-por-contratos-electorales-remite-el-caso-al-ambito-federal/",
+     "domain": "El Universal",
+     "seendate": "20261027T011612Z"
+    },
+    {
+     "title": "Ejército y Guardia Nacional liberan 11 personas privadas de la libertad en Nuevo Laredo; aseguran armas y equipo táctico",
+     "url": "https://www.eluniversal.com.mx/estados/ejercito-y-guardia-nacional-liberan-11-personas-privadas-de-la-libertad-en-nuevo-laredo-aseguran-armas-y-equipo-tactico/",
+     "domain": "El Universal",
+     "seendate": "20261027T011601Z"
+    },
+    {
+     "title": "Hallan recién nacido sin vida en carretera a Mezquital, Durango; trabajadores lo habrían encontrado envuelto en una cobija",
+     "url": "https://www.eluniversal.com.mx/estados/hallan-recien-nacido-sin-vida-en-carretera-a-mezquital-durango-trabajadores-lo-habrian-encontrado-envuelto-en-una-cobija/",
+     "domain": "El Universal",
+     "seendate": "20261027T004211Z"
+    },
+    {
      "title": "Detienen a cinco mujeres por robo a transeúntes en la colonia Centro; víctimas reconocieron sus pertenencias",
      "url": "https://www.eluniversal.com.mx/metropoli/detienen-a-cinco-mujeres-por-robo-a-transeuntes-en-la-colonia-centro-victimas-reconocieron-sus-pertenencias/",
      "domain": "El Universal",
@@ -326,18 +356,6 @@
      "seendate": "20261026T174331Z"
     },
     {
-     "title": "Sheinbaum responde a críticas de perfiles que podrían sustituir a Taddei en el INE; garantiza que \"no está en riesgo la democracia\"",
-     "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-responde-a-criticas-de-perfiles-que-podrian-sustituir-a-taddei-en-el-ine-garantiza-que-no-esta-en-riesgo-la-democracia/",
-     "domain": "El Universal",
-     "seendate": "20261026T172224Z"
-    },
-    {
-     "title": "Reserva que dio \"súper poderes\" a Taddei salió del Senado y fue avalada en fast track; analizan revertirla",
-     "url": "https://www.eluniversal.com.mx/nacion/reserva-que-dio-super-poderes-a-taddei-salio-del-senado-y-fue-avalada-en-fast-track-analizan-revertirla/",
-     "domain": "El Universal",
-     "seendate": "20261026T172144Z"
-    },
-    {
      "title": "MC pide crear comité de expertos para elegir perfiles en presidencia del INE; busca evitar elección de afines a Morena",
      "url": "https://www.eluniversal.com.mx/nacion/mc-pide-crear-comite-de-expertos-para-elegir-perfiles-en-presidencia-del-ine-busca-evitar-eleccion-de-afines-a-morena/",
      "domain": "El Universal",
@@ -350,40 +368,16 @@
      "seendate": "20261026T170821Z"
     },
     {
-     "title": "Detienen en Mexicali a \"Isra\", operador regional de \"Los Rusos\", afín al Cártel de Sinaloa; es acusado de secuestrar a un músico",
-     "url": "https://www.eluniversal.com.mx/nacion/detienen-en-mexicali-a-isra-operador-regional-de-los-rusos-afin-al-cartel-de-sinaloa-es-acusado-de-secuestro-de-un-musico/",
-     "domain": "El Universal",
-     "seendate": "20261026T165710Z"
-    },
-    {
-     "title": "Segob reporta paro de transportistas en 19 estados con menos de mil personas; refrenda diálogo",
-     "url": "https://www.eluniversal.com.mx/nacion/segob-reporta-paro-de-transportistas-en-19-estados-con-menos-de-mil-personas-refrenda-dialogo/",
-     "domain": "El Universal",
-     "seendate": "20261026T162253Z"
-    },
-    {
      "title": "Canaco CDMX estima más de 12 mil mdp en derrama económica por Día de Muertos; prevén aumento de 5% en comparación al 2025",
      "url": "https://www.eluniversal.com.mx/metropoli/canaco-cdmx-estima-mas-de-12-mil-mdp-en-derrama-economica-por-dia-de-muertos-aumento-5-en-comparacion-al-2025/",
      "domain": "El Universal",
      "seendate": "20261026T161231Z"
     },
     {
-     "title": "Sheinbaum niega que otros consejeros del INE deban renunciar; señalamientos son sólo en contra de Taddei, dice",
-     "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-niega-que-otros-consejeros-del-ine-deban-renunciar-senalamientos-son-solo-en-contra-de-taddei-dice/",
-     "domain": "El Universal",
-     "seendate": "20261026T153604Z"
-    },
-    {
      "title": "Activan protocolos de búsqueda por desaparición de sacerdote en Culiacán; Iglesia pide apoyo para localizarlo",
      "url": "https://www.eluniversal.com.mx/estados/activan-protocolos-de-busqueda-por-desaparicion-de-sacerdote-en-culiacan-iglesia-pide-apoyo-para-localizarlo/",
      "domain": "El Universal",
      "seendate": "20261026T134924Z"
-    },
-    {
-     "title": "La mañanera de Sheinbaum, 26 de octubre, minuto a minuto",
-     "url": "https://www.eluniversal.com.mx/nacion/la-mananera-de-sheinbaum-26-de-octubre-minuto-a-minuto/",
-     "domain": "El Universal",
-     "seendate": "20261026T131600Z"
     },
     {
      "title": "Transportistas mantienen protestas pese a mesas de diálogo con Segob; sigue EN VIVO las afectaciones viales",
@@ -1272,36 +1266,6 @@
      "url": "https://lapagina.com.sv/nacionales/fine-dining-week-reunio-a-mas-de-100-chef-internacionales/",
      "domain": "lapagina.com.sv",
      "seendate": "20261020T030000Z"
-    },
-    {
-     "title": "Presidente Bukele explica las reformas contra las pandillas que propone compartir con Costa Rica",
-     "url": "https://lapagina.com.sv/general/presidente-bukele-explica-las-reformas-contra-las-pandillas-que-propone-compartir-con-costa-rica/",
-     "domain": "lapagina.com.sv",
-     "seendate": "20261019T224500Z"
-    },
-    {
-     "title": "Modernización fronteriza y atracción de inversiones recibirán $464 , 470",
-     "url": "https://lapagina.com.sv/nacionales/modernizacion-fronteriza-y-atraccion-de-inversiones-recibiran-464470/",
-     "domain": "lapagina.com.sv",
-     "seendate": "20261019T224500Z"
-    },
-    {
-     "title": "Puerto de Acajutla duplica el movimiento de contenedores en 2026",
-     "url": "https://lapagina.com.sv/nacionales/puerto-de-acajutla-duplica-el-movimiento-de-contenedores-en-2026/",
-     "domain": "lapagina.com.sv",
-     "seendate": "20261019T224500Z"
-    },
-    {
-     "title": "Presupuesto 2027 contempla $85 . 5 millones para impulsar el turismo en El Salvador",
-     "url": "https://lapagina.com.sv/nacionales/presupuesto-2027-contempla-85-5-millones-para-impulsar-el-turismo-en-el-salvador/",
-     "domain": "lapagina.com.sv",
-     "seendate": "20261019T174500Z"
-    },
-    {
-     "title": "Vicepresidente Félix Ulloa sostiene encuentro con Patricia Bullrich para fortalecer los vínculos entre El Salvador y Argentina",
-     "url": "https://lapagina.com.sv/empresarial/vicepresidente-felix-ulloa-sostiene-encuentro-con-patricia-bullrich-para-fortalecer-los-vinculos-entre-el-salvador-y-argentina/",
-     "domain": "lapagina.com.sv",
-     "seendate": "20261019T174500Z"
     }
    ]
   },
@@ -1492,6 +1456,18 @@
   "CRI": {
    "articles": [
     {
+     "title": "Cacco inicia operaciones con 123 reclusos de alta peligrosidad: estos fueron los primeros en ingresar",
+     "url": "https://www.nacion.com/sucesos/cacco-inicia-operaciones-con-123-reclusos-de-alta/I7YRV3PLB5E4NPYH2WORIXNL7Y/story/",
+     "domain": "La Nación",
+     "seendate": "20261027T012302Z"
+    },
+    {
+     "title": "Caos vial en Heredia por manifestación de estudiantes",
+     "url": "https://www.nacion.com/sucesos/caos-vial-en-heredia-por-manifestacion-de/AL26QJOGQZAT3K67QSVCR6KZQ4/story/",
+     "domain": "La Nación",
+     "seendate": "20261027T004423Z"
+    },
+    {
      "title": "Mayuli Ortega justifica que Pueblo Soberano le cargue a las finanzas públicas un BMW 2026 para su uso discrecional: ‘Estamos comprometidos con el gobierno del cambio’",
      "url": "https://www.nacion.com/politica/mayuli-ortega-justifica-que-pueblo-soberano-le/OE4WMVUM4BAZDNXVFUDVCH5IQA/story/",
      "domain": "La Nación",
@@ -1510,7 +1486,7 @@
      "seendate": "20261026T235207Z"
     },
     {
-     "title": "Pueblo Soberano le cobra al TSE el alquiler de un auto de lujo BMW 2026 para la diputada Mayuli Ortega",
+     "title": "Pueblo Soberano le carga a las finanzas públicas el alquiler de un BMW 2026 para uso discrecional de la diputada Mayuli Ortega",
      "url": "https://www.nacion.com/politica/pueblo-soberano-le-cobra-al-tse-el-alquiler-de-un/ZUUTYMLJ2FEABLLVPVD5I3A47U/story/",
      "domain": "La Nación",
      "seendate": "20261026T232456Z"
@@ -1652,23 +1628,23 @@
      "url": "https://www.nacion.com/el-pais/asi-se-vio-la-luna-llena-de-este-domingo/ORI4RBZFVVAQFISFA565F6IW2U/story/",
      "domain": "La Nación",
      "seendate": "20261026T132727Z"
-    },
-    {
-     "title": "Tres hombres extraviados en Pico Blanco aparecen tras más de diez horas de búsqueda",
-     "url": "https://www.nacion.com/sucesos/tres-hombres-extraviados-en-pico-blanco-aparecen/ORMA2BXTZRHOZBRPRIWQOY6OPI/story/",
-     "domain": "La Nación",
-     "seendate": "20261026T125941Z"
-    },
-    {
-     "title": "Lotería Nacional de Costa Rica: lista completa de ganadores y premios del sorteo N.° 4.924 de este domingo 25 de octubre",
-     "url": "https://www.nacion.com/el-pais/loteria-nacional-de-costa-rica-lista-completa-de/Q3T4E7DJZVD5VODKGCH2CQQ6W4/story/",
-     "domain": "La Nación",
-     "seendate": "20261026T123122Z"
     }
    ]
   },
   "PAN": {
    "articles": [
+    {
+     "title": "Presidenta de la Asamblea tilda de falsa la información sobre la planilla pero termina confirmando que tienen 8,308 funcionarios",
+     "url": "https://www.prensa.com/politica/presidenta-de-la-asamblea-tilda-de-falsa-la-informacion-sobre-la-planilla-pero-termina-confirmando-que-tienen-8308-funcionarios/",
+     "domain": "La Prensa",
+     "seendate": "20261027T004833Z"
+    },
+    {
+     "title": "PASE-U: dónde retirar las tarjetas PUNCH desde el 27 de octubre",
+     "url": "https://www.prensa.com/sociedad/pase-u-donde-retirar-las-tarjetas-punch-desde-el-27-de-octubre/",
+     "domain": "La Prensa",
+     "seendate": "20261027T004500Z"
+    },
     {
      "title": "Terremoto en Azuero: alcaldes piden a Ejecutivo más coordinación y recursos",
      "url": "https://www.prensa.com/politica/terremoto-en-azuero-alcaldes-piden-a-ejecutivo-mas-coordinacion-y-recursos/",
@@ -1790,12 +1766,6 @@
      "seendate": "20261025T161333Z"
     },
     {
-     "title": "Libertad de prensa en Panamá: denuncian ante la SIP presiones, descalificaciones y amenazas",
-     "url": "https://www.prensa.com/politica/libertad-de-prensa-en-panama-enfrenta-obstaculos-presiones-descalificaciones-y-amenazas/",
-     "domain": "La Prensa",
-     "seendate": "20261025T143413Z"
-    },
-    {
      "title": "¿Cuánto falta para volver a casa? Las cuentas de la compleja reconstrucción en Azuero",
      "url": "https://www.prensa.com/sociedad/cuanto-falta-para-volver-a-casa-las-cuentas-de-la-compleja-reconstruccion-en-azuero/",
      "domain": "La Prensa",
@@ -1806,12 +1776,6 @@
      "url": "https://www.prensa.com/politica/si-quieres-que-tu-empresa-sea-grande-actua-socialmente-responsable-juan-octavio-diaz/",
      "domain": "La Prensa",
      "seendate": "20261025T050400Z"
-    },
-    {
-     "title": "El plan de tres fases con el que Meduca trata de sostener el año escolar tras el terremoto",
-     "url": "https://www.prensa.com/sociedad/el-plan-de-tres-fases-con-el-que-meduca-trata-de-sostener-el-ano-escolar-tras-el-terremoto/",
-     "domain": "La Prensa",
-     "seendate": "20261025T050200Z"
     },
     {
      "title": "La primera vivienda construida tras el terremoto: 14 días de obra en Soná",
@@ -1966,7 +1930,19 @@
      "title": "¿Quién es y cómo operaba la 'reina de las estafas' en Cali que ahora cumple aseguramiento en una cárcel y no en su casa? Investigación de Fiscalía",
      "url": "https://www.eltiempo.com/colombia/cali/quien-es-y-como-operaba-la-reina-de-las-estafas-en-cali-que-ahora-cumple-aseguramiento-en-una-carcel-y-no-en-su-casa-investigacion-de-fiscalia-3596474",
      "domain": "El Tiempo",
-     "seendate": "20261027T002414Z"
+     "seendate": "20261027T011217Z"
+    },
+    {
+     "title": "Zozobra en Suaza, Huila: hombres armados masacran a seis personas e incineran el vehículo en el que viajaban",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/zozobra-en-suaza-huila-hombres-armados-masacran-a-seis-personas-e-incineran-el-vehiculo-en-el-que-viajaban-3596517",
+     "domain": "El Tiempo",
+     "seendate": "20261027T010009Z"
+    },
+    {
+     "title": "Anuncian recompensa tras asesinato de Miguel Castellanos, exsecretario de Gobierno y precandidato a Alcaldía de Cúcuta: políticos condenan crimen",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/anuncian-recompensa-tras-asesinato-de-miguel-castellanos-exsecretario-de-gobierno-y-precandidato-a-alcaldia-de-cucuta-politicos-condenan-crimen-3596515",
+     "domain": "El Tiempo",
+     "seendate": "20261027T005213Z"
     },
     {
      "title": "Asesinan a Miguel Castellanos, exsecretario de Gobierno y precandidato a la alcaldía de Cúcuta, en atentado sicarial en una estación de servicio",
@@ -2009,18 +1985,6 @@
      "url": "https://www.eltiempo.com/colombia/medellin/por-que-el-embalse-de-hidroituango-no-ha-alcanzado-la-cota-420-epm-explica-las-razones-y-entrega-una-posible-fecha-3596477",
      "domain": "El Tiempo",
      "seendate": "20261026T214024Z"
-    },
-    {
-     "title": "Medellín frena los cortes de agua en zonas del oriente, pero hace una severa advertencia: ¿qué pasó?",
-     "url": "https://www.eltiempo.com/colombia/medellin/medellin-frena-los-cortes-de-agua-en-zonas-del-oriente-pero-hace-una-severa-advertencia-que-paso-3596461",
-     "domain": "El Tiempo",
-     "seendate": "20261026T204946Z"
-    },
-    {
-     "title": "Fuertes lluvias, tormenta eléctrica y emergencias viales azotan Medellín: cayeron 20 descargas eléctricas en media hora",
-     "url": "https://www.eltiempo.com/colombia/medellin/fuertes-lluvias-tormenta-electrica-y-emergencias-viales-azotan-medellin-cayeron-20-descargas-electricas-en-media-hora-3596456",
-     "domain": "El Tiempo",
-     "seendate": "20261026T203653Z"
     }
    ]
   },
@@ -2331,6 +2295,12 @@
   "ECU": {
    "articles": [
     {
+     "title": "Estados Unidos alerta a sus ciudadanos por las lluvias e inundaciones en Guayaquil",
+     "url": "https://eluniverso.com/comunidad/ecuador/estados-unidos-alerta-a-sus-ciudadanos-por-las-lluvias-e-inundaciones-en-guayaquil-nota/",
+     "domain": "El Universo",
+     "seendate": "20261027T005627Z"
+    },
+    {
      "title": "Inocar alerta por lluvias y marea alta en Guayaquil: estas son las horas de mayor precaución",
      "url": "https://eluniverso.com/comunidad/ecuador/guayaquil-lluvias-y-marea-alta-este-27-de-octubre-nota/",
      "domain": "El Universo",
@@ -2442,6 +2412,24 @@
   },
   "PER": {
    "articles": [
+    {
+     "title": "IGP Temblor en Perú hoy, lunes 26 de octubre: lugar del epicentro y magnitud del sismo",
+     "url": "https://elcomercio.pe/peru/ultimo-temblor-hoy-sismos-en-peru-lugar-y-magnitud-segun-igp-arequipa-cusco-lima-reportes-tdpe-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261027T012446Z"
+    },
+    {
+     "title": "Proinversión destina US$475 millones a Petroperú para asegurar operaciones y abastecimiento de combustibles",
+     "url": "https://elcomercio.pe/economia/peru/proinversion-destina-us475-millones-a-petroperu-para-asegurar-operaciones-y-abastecimiento-de-combustibles-nueva-refineria-de-talara-ultimas-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261027T005512Z"
+    },
+    {
+     "title": "Aeropuerto del Cusco suspenderá vuelos durante la visita de León XIV el 15 de noviembre",
+     "url": "https://elcomercio.pe/peru/cusco/papa-leon-xiv-en-el-peru-aeropuerto-del-cusco-suspendera-vuelos-durante-la-visita-del-pontifice-el-15-de-noviembre-apuesplan-ultimas-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261027T004619Z"
+    },
     {
      "title": "Lluvias en el norte del Perú: noticias de precipitaciones en Piura y otras regiones",
      "url": "https://elcomercio.pe/peru/lluvias-en-peru-en-vivo-ultimas-noticias-de-las-precipitaciones-en-piura-tumbes-y-trujillo-estado-de-emergencia-en-el-norte-senamhi-indeci-lloviznas-fenomeno-el-nino-noticia/",
@@ -3244,7 +3232,31 @@
      "title": "Javier Milei y sus medidas, en vivo: el Presidente acusó a Lula de querer “robar” las elecciones en Brasil",
      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-acuso-a-lula-de-querer-robar-las-elecciones-en-nid26102026/",
      "domain": "La Nación",
-     "seendate": "20261027T003000Z"
+     "seendate": "20261027T010000Z"
+    },
+    {
+     "title": "Marian Rojas explicó por qué tomar tantas decisiones resulta agotador: “Consume nuestros recursos cognitivos”",
+     "url": "https://www.lanacion.com.ar/sociedad/marian-rojas-explico-por-que-tomar-tantas-decisiones-resulta-agotador-consume-nuestros-recursos-nid26102026/",
+     "domain": "La Nación",
+     "seendate": "20261027T010000Z"
+    },
+    {
+     "title": "Alfredito, el elefante marino que nació y crece en una playa marplatense, bajo custodia de su madre y el municipio",
+     "url": "https://www.lanacion.com.ar/sociedad/alfredito-el-elefante-marino-que-nacio-y-crece-en-la-playa-marplatense-con-custodia-del-municipio-nid26102026/",
+     "domain": "La Nación",
+     "seendate": "20261027T005412Z"
+    },
+    {
+     "title": "Un policía mató de un tiro a una perra en una comisaría porteña: lo desvincularon de la fuerza y enfrenta una causa penal",
+     "url": "https://www.lanacion.com.ar/seguridad/un-policia-mato-de-un-tiro-a-un-perro-en-una-comisaria-portena-lo-desvincularon-de-la-fuerza-y-nid26102026/",
+     "domain": "La Nación",
+     "seendate": "20261027T004507Z"
+    },
+    {
+     "title": "La reflexión de Mario Alonso Puig sobre la felicidad: “Es una conexión directa con aquello que sos”",
+     "url": "https://www.lanacion.com.ar/sociedad/la-reflexion-de-mario-alonso-puig-sobre-la-felicidad-es-una-conexion-directa-con-aquello-que-sos-nid26102026/",
+     "domain": "La Nación",
+     "seendate": "20261027T004500Z"
     },
     {
      "title": "Mendoza, en alerta: la principal hipótesis sobre el origen del brote de meningitis con dos muertos en un hospital",
@@ -3319,14 +3331,14 @@
      "seendate": "20261026T231339Z"
     },
     {
-     "title": "Cómo ubicar la almohada para no despertarse con dolor, según un especialista",
-     "url": "https://www.lanacion.com.ar/sociedad/como-ubicar-la-almohada-para-no-despertarse-con-dolor-segun-un-especialista-nid26102026/",
+     "title": "Marta Beatriz Echaul, de 101 años, compartió su secreto de longevidad: “Nunca fui al gimnasio, no camino y como de todo”",
+     "url": "https://www.lanacion.com.ar/sociedad/marta-beatriz-echaul-de-101-anos-compartio-su-secreto-de-longevidad-nunca-fui-al-gimnasio-no-camino-nid26102026/",
      "domain": "La Nación",
      "seendate": "20261026T230000Z"
     },
     {
-     "title": "Marta Beatriz Echaul, de 101 años, compartió su secreto de longevidad: “Nunca fui al gimnasio, no camino y como de todo”",
-     "url": "https://www.lanacion.com.ar/sociedad/marta-beatriz-echaul-de-101-anos-compartio-su-secreto-de-longevidad-nunca-fui-al-gimnasio-no-camino-nid26102026/",
+     "title": "Cómo ubicar la almohada para no despertarse con dolor, según un especialista",
+     "url": "https://www.lanacion.com.ar/sociedad/como-ubicar-la-almohada-para-no-despertarse-con-dolor-segun-un-especialista-nid26102026/",
      "domain": "La Nación",
      "seendate": "20261026T230000Z"
     },
@@ -3365,12 +3377,6 @@
      "url": "https://www.lanacion.com.ar/economia/vuelan-el-gas-y-el-petroleo-avanzan-los-fertilizantes-y-se-demora-el-cobre-cuales-son-las-caras-nid26102026/",
      "domain": "La Nación",
      "seendate": "20261026T215218Z"
-    },
-    {
-     "title": "Alfredito, el elefante marino que nació y crece en una playa marplatense, bajo custodia de su madre y el municipio",
-     "url": "https://www.lanacion.com.ar/sociedad/alfredito-el-elefante-marino-que-nacio-y-crece-en-la-playa-marplatense-con-custodia-del-municipio-nid26102026/",
-     "domain": "La Nación",
-     "seendate": "20261026T215025Z"
     },
     {
      "title": "Inti Bonomo, experto en Ciencias Ambientales, sobre el avance del fenómeno del Súper Niño: “Va a seguir creciendo y el pico va a ser en diciembre”",
@@ -3425,12 +3431,6 @@
      "url": "https://www.lanacion.com.ar/economia/campo/silencio-estatal-productores-bonaerenses-fueron-a-la-justicia-contra-el-ministerio-de-katopodis-por-nid26102026/",
      "domain": "La Nación",
      "seendate": "20261026T212437Z"
-    },
-    {
-     "title": "Pasaron ocho años esperando que la tecnología alcanzara una idea: hoy buscan cambiar la forma de escuchar de 450.000 argentinos",
-     "url": "https://www.lanacion.com.ar/sociedad/pasaron-ocho-anos-esperando-que-la-tecnologia-alcanzara-una-idea-hoy-buscan-cambiar-la-forma-de-nid22102026/",
-     "domain": "La Nación",
-     "seendate": "20261026T212223Z"
     }
    ]
   },
@@ -3801,6 +3801,12 @@
   "PRY": {
    "articles": [
     {
+     "title": "Talla baja plantea ley para exigir “escalón universal”",
+     "url": "https://www.abc.com.py/nacionales/2026/10/26/talla-baja-plantea-ley-para-exigir-escalon-universal/",
+     "domain": "ABC Color",
+     "seendate": "20261027T004543Z"
+    },
+    {
      "title": "Títulos falsos: MEC nombra a nuevo director de Universidades",
      "url": "https://www.abc.com.py/nacionales/2026/10/26/titulos-falsos-mec-nombra-a-nuevo-director-de-universidades/",
      "domain": "ABC Color",
@@ -3835,18 +3841,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/26/la-crecida-del-rio-paraguay-destruye-caminos-y-golpea-a-productores-en-humaita/",
      "domain": "ABC Color",
      "seendate": "20261026T213706Z"
-    },
-    {
-     "title": "PJC: abren causa penal contra una mujer tras el rescate de sus 4 hijos en estado de vulnerabilidad",
-     "url": "https://www.abc.com.py/nacionales/2026/10/26/pjc-abren-causa-penal-contra-una-mujer-tras-el-rescate-de-sus-4-hijos-en-estado-de-vulnerabilidad/",
-     "domain": "ABC Color",
-     "seendate": "20261026T204309Z"
-    },
-    {
-     "title": "Educación sexual y el MEC: la trayectoria del cuestionado exviceministro que editó los libros",
-     "url": "https://www.abc.com.py/nacionales/2026/10/26/educacion-sexual-y-el-mec-la-trayectoria-del-cuestionado-exviceministro-que-edito-los-libros/",
-     "domain": "ABC Color",
-     "seendate": "20261026T204139Z"
     }
    ]
   },
@@ -4004,12 +3998,6 @@
      "url": "https://oglobo.globo.com/politica/noticia/2026/10/26/64-milhoes-de-votos-leitura-labial-mostra-previsao-mal-sucedida-de-nikolas-ferreira-para-flavio-bolsonaro.ghtml",
      "domain": "O Globo",
      "seendate": "20261026T180417Z"
-    },
-    {
-     "title": "Quanto a abstenção caiu do primeiro para o segundo turno; veja comparação em sua cidade",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/26/quanto-a-abstencao-caiu-do-primeiro-para-o-segundo-turno-veja-comparacao-em-sua-cidade.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261026T174817Z"
     }
    ]
   }
