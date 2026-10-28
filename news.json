@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T06:45:10+00:00",
+ "updated": "2026-10-28T07:56:29+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -70,6 +70,12 @@
      "seendate": "20261027T223602Z"
     },
     {
+     "title": "La galería Artur Ramon celebra 100 años con una exposición que incluye obras de más de un millón de euros",
+     "url": "https://elpais.com/espana/catalunya/2026-10-27/artur-ramon-celebra-100-anos-con-una-exposicion-que-reune-obras-de-mas-de-un-millon-de-euros.html",
+     "domain": "El País",
+     "seendate": "20261027T204250Z"
+    },
+    {
      "title": "La Policía identifica a 24 agentes “dinamizadores” en Ceuta a través de vídeos y fotografías analizadas",
      "url": "https://elpais.com/espana/2026-10-27/la-policia-identifica-a-24-agentes-dinamizadores-en-ceuta-a-traves-de-videos-y-fotografias-analizadas.html",
      "domain": "El País",
@@ -80,12 +86,6 @@
      "url": "https://elpais.com/espana/catalunya/2026-10-27/lo-que-hay-detras-del-creciente-liderazgo-de-madrid-frente-a-cataluna-350000-trabajadores-que-viven-en-otra-comunidad.html",
      "domain": "El País",
      "seendate": "20261027T163432Z"
-    },
-    {
-     "title": "La AMB adjudica definitivamente a Veolia el macrocontrato del agua para ocho municipios por 1.000 millones",
-     "url": "https://elpais.com/espana/catalunya/2026-10-27/la-amb-adjudica-definitivamente-a-veolia-el-macrocontrato-del-agua-para-ocho-municipios-por-1000-millones.html",
-     "domain": "El País",
-     "seendate": "20261027T160220Z"
     },
     {
      "title": "La red que convocó los disturbios de Barcelona tiene ramificaciones en 11 comunidades autónomas",
@@ -134,6 +134,24 @@
   "MEX": {
    "articles": [
     {
+     "title": "Encuentran con vida a sacerdote en Sinaloa",
+     "url": "https://www.eluniversal.com.mx/estados/encuentran-con-vida-a-sacerdote-en-sinaloa/",
+     "domain": "El Universal",
+     "seendate": "20261028T073514Z"
+    },
+    {
+     "title": "Violencia en Culiacán y Mazatlán deja 9 muertos",
+     "url": "https://www.eluniversal.com.mx/estados/violencia-en-culiacan-y-mazatlan-deja-9-muertos/",
+     "domain": "El Universal",
+     "seendate": "20261028T072726Z"
+    },
+    {
+     "title": "Especialistas piden atender las otras violencias en Coahuila",
+     "url": "https://www.eluniversal.com.mx/estados/especialistas-piden-atender-las-otras-violencias-en-coahuila/",
+     "domain": "El Universal",
+     "seendate": "20261028T065055Z"
+    },
+    {
      "title": "Contralor del INE comparecerá este viernes ante diputados, informan; se espera presencia de los integrantes de la ASF",
      "url": "https://www.eluniversal.com.mx/nacion/contralor-del-ine-comparecera-este-viernes-ante-diputados-informan-se-espera-presencia-de-los-integrantes-de-la-asf/",
      "domain": "El Universal",
@@ -164,262 +182,16 @@
      "seendate": "20261028T034900Z"
     },
     {
-     "title": "Lluvia y granizo provocan encharcamientos en varias zonas de CDMX; reportan afectaciones viales",
-     "url": "https://www.eluniversal.com.mx/metropoli/lluvia-y-granizo-provocan-encharcamientos-en-varias-zonas-de-cdmx-reportan-afectaciones-viales/",
-     "domain": "El Universal",
-     "seendate": "20261028T031919Z"
-    },
-    {
-     "title": "Celebración a San Judas Tadeo en Templo de San Hipólito estará vigilada por 350 policías; operativo se realizará 27 y 28 de octubre: SSC CDMX",
-     "url": "https://www.eluniversal.com.mx/metropoli/celebracion-a-san-judas-tadeo-en-templo-de-san-hipolito-estara-vigilada-por-350-policias-operativo-se-realizara-27-y-28-de-octubre-ssc-cdmx/",
-     "domain": "El Universal",
-     "seendate": "20261028T031251Z"
-    },
-    {
-     "title": "Comité de Ética de Diputados revisa denuncia contra Gutiérrez Mancilla; increpó a Máynez",
-     "url": "https://www.eluniversal.com.mx/nacion/comite-de-etica-de-diputados-revisa-denuncia-contra-gutierrez-mancilla-increpo-a-alvarez-maynez/",
-     "domain": "El Universal",
-     "seendate": "20261028T030907Z"
-    },
-    {
-     "title": "Diputado Ramírez Cuéllar propone reforma para evitar práctica indebidas en el INE y OPLEs; \"urge desarticular complicidades\"",
-     "url": "https://www.eluniversal.com.mx/nacion/diputado-ramirez-cuellar-propone-reforma-para-evitar-practica-indebidas-en-el-ine-y-oples-urge-desarticular-complicidades/",
-     "domain": "El Universal",
-     "seendate": "20261028T030659Z"
-    },
-    {
-     "title": "PAN propone revertir \"superpoderes\" en el INE; pide limitar control de Presidencia para nombrar a funcionarios",
-     "url": "https://www.eluniversal.com.mx/nacion/pan-propone-revertir-superpoderes-en-el-ine-pide-limitar-control-de-presidencia-para-nombrar-a-funcionarios/",
-     "domain": "El Universal",
-     "seendate": "20261028T025854Z"
-    },
-    {
-     "title": "Fiscalía CDMX abre investigación por presunto envenenamiento de perros en Parque España; dos lomitos murieron",
-     "url": "https://www.eluniversal.com.mx/metropoli/fiscalia-cdmx-abre-investigacion-por-presunto-envenenamiento-de-perros-en-parque-espana-dos-lomitos-murieron/",
-     "domain": "El Universal",
-     "seendate": "20261028T025203Z"
-    },
-    {
-     "title": "Inegi advierte vacíos en estadísticas sobre mujeres; necesitamos más datos para combatir desigualdad y violencia, dice",
-     "url": "https://www.eluniversal.com.mx/nacion/inegi-advierte-vacios-en-estadisticas-sobre-mujeres-necesitamos-mas-datos-para-combatir-desigualdad-y-violencia-dice/",
-     "domain": "El Universal",
-     "seendate": "20261028T024844Z"
-    },
-    {
-     "title": "Subsecretaria de Hacienda comparece en Diputados; asegura que maestros y militares ganan más del promedio del IMSS aún sin promulgación de reforma",
-     "url": "https://www.eluniversal.com.mx/nacion/subsecretaria-de-hacienda-afirma-que-maestros-y-militares-ganan-mas-que-el-promedio-del-imss-comparece-en-diputados/",
-     "domain": "El Universal",
-     "seendate": "20261028T024223Z"
-    },
-    {
-     "title": "Lluvia provoca marcha de seguridad en ocho líneas del Metro CDMX; trenes reducen su velocidad",
-     "url": "https://www.eluniversal.com.mx/metropoli/lluvia-provoca-marcha-de-seguridad-en-ocho-lineas-del-metro-cdmx-trenes-reducen-su-velocidad/",
-     "domain": "El Universal",
-     "seendate": "20261028T023921Z"
-    },
-    {
-     "title": "Diputados avalan minuta para que Sedena integre la Comisión de inversiones extranjeras; oposición acusa \"sesgo de seguridad\"",
-     "url": "https://www.eluniversal.com.mx/nacion/san-lazaro-avala-minuta-para-que-sedena-integre-la-comision-de-inversiones-extranjeras-oposicion-acusa-sesgo-de-seguridad/",
-     "domain": "El Universal",
-     "seendate": "20261028T023305Z"
-    },
-    {
-     "title": "Activan triple alerta por lluvias fuertes en 11 alcaldías de CDMX; Benito Juárez se encuentra en púrpura",
-     "url": "https://www.eluniversal.com.mx/metropoli/activan-triple-alerta-por-lluvias-fuertes-en-8-alcaldias-de-cdmx-benito-juarez-se-encuentra-en-rojo/",
-     "domain": "El Universal",
-     "seendate": "20261028T022952Z"
-    },
-    {
-     "title": "Aseguran 29 mil litros de gasolina en Hidalgo; conductor presentó documentos falsos",
-     "url": "https://www.eluniversal.com.mx/estados/aseguran-29-mil-litros-de-gasolina-en-hidalgo-conductor-presento-documentos-falsos/",
-     "domain": "El Universal",
-     "seendate": "20261028T022629Z"
-    },
-    {
-     "title": "Hallan dos cuerpos con impactos de bala en la cabeza en Silao, Guanajuato; asesinan a comerciante de comida en Celaya",
-     "url": "https://www.eluniversal.com.mx/estados/hallan-dos-cuerpos-con-impactos-de-bala-en-la-cabeza-en-silao-guanajuato-asesinan-a-comerciante-de-comida-en-celaya/",
-     "domain": "El Universal",
-     "seendate": "20261028T022322Z"
-    },
-    {
-     "title": "Enfrentamiento armado entre elementos de Fiscalía de Nayarit y civiles deja 9 detenidos; investigan intento de rescate de presos",
-     "url": "https://www.eluniversal.com.mx/estados/enfrentamiento-armado-entre-elementos-de-fiscalia-de-nayarit-y-civiles-deja-9-detenidos-investigan-intento-de-rescate-de-presos/",
-     "domain": "El Universal",
-     "seendate": "20261028T021843Z"
-    },
-    {
-     "title": "Con video de IA, PAN acusa a Amílcar, a Andy y a otros morenistas de corrupción; \"podrán cambiar de máscara, pero es el mismo rostro\"",
-     "url": "https://www.eluniversal.com.mx/nacion/con-video-de-ia-pan-acusa-a-amilcar-a-andy-y-a-otros-morenistas-de-corrupcion-podran-cambiar-de-mascara-pero-es-el-mismo-rostro/",
-     "domain": "El Universal",
-     "seendate": "20261028T021423Z"
-    },
-    {
-     "title": "Director del Metro y líder sindical exploran innovaciones ferroviarias en Alemania; buscan alternativas que pudieran integrarse al STC de CDMX",
-     "url": "https://www.eluniversal.com.mx/metropoli/director-del-metro-y-lider-sindical-exploran-innovaciones-ferroviarias-en-alemania-buscan-alternativas-que-pudieran-integrarse-al-stc-de-cdmx/",
-     "domain": "El Universal",
-     "seendate": "20261028T021255Z"
-    },
-    {
-     "title": "Alito Moreno exige no dar carpetazo a investigaciones del clan Taddei; \"lo que construyeron fue una estructura criminal\"",
-     "url": "https://www.eluniversal.com.mx/nacion/alito-moreno-exige-no-dar-carpetazo-a-investigaciones-del-clan-taddei-lo-que-construyeron-fue-una-estructura-criminal/",
-     "domain": "El Universal",
-     "seendate": "20261028T020525Z"
-    },
-    {
-     "title": "Representante del PRI ante IEE Sonora solicita separación de Nery Ruiz como consejero; exige explicación por contratos con proveedores del INE",
-     "url": "https://www.eluniversal.com.mx/estados/representante-del-pri-ante-iee-sonora-solicita-separacion-de-nery-ruiz-como-consejero-exige-explicacion-por-contratos-con-proveedores-del-ine/",
-     "domain": "El Universal",
-     "seendate": "20261028T020331Z"
-    },
-    {
-     "title": "Senado borra de su portal 10 años de gastos por 10 mil 200 mdp; Artículo 19 exige sanciones",
-     "url": "https://www.eluniversal.com.mx/nacion/senado-borra-de-su-portal-10-anos-de-gastos-por-10-mil-200-mdp-articulo-19-exige-sanciones/",
-     "domain": "El Universal",
-     "seendate": "20261028T020011Z"
-    },
-    {
      "title": "Sin Taddei, INE celebra sesión extraordinaria; abordan designación de Blanca Cruz como presidenta interina",
      "url": "https://www.eluniversal.com.mx/nacion/sin-taddei-ine-celebra-sesion-extraordinaria-abordan-designacion-de-blanca-cruz-como-presidenta-interina/",
      "domain": "El Universal",
      "seendate": "20261028T014454Z"
     },
     {
-     "title": "Explosión en funeraria deja una mujer lesionada en Pachuca, Hidalgo; combinación accidental de químicos habría provocado el estallido",
-     "url": "https://www.eluniversal.com.mx/estados/explosion-en-funeraria-deja-una-mujer-lesionada-en-pachuca-hidalgo-combinacion-accidental-de-quimicos-habria-provocado-el-estallido/",
-     "domain": "El Universal",
-     "seendate": "20261028T013227Z"
-    },
-    {
      "title": "Conductor pierde control de Tesla y choca contra una casa; derriba barda del inmueble y termina del otro lado de la calle",
      "url": "https://www.eluniversal.com.mx/metropoli/conductor-pierde-control-de-auto-y-choca-contra-casa-en-cuajimalpa-derriba-barda-del-inmueble-y-termina-del-otro-lado-de-la-calle/",
      "domain": "El Universal",
      "seendate": "20261028T011514Z"
-    },
-    {
-     "title": "Empresas ligadas a Clan Taddei también recibieron contratos de Talleres Gráficos; suman 278 mdp",
-     "url": "https://www.eluniversal.com.mx/nacion/empresas-ligadas-a-clan-taddei-tambien-recibieron-contratos-de-talleres-graficos-suman-278-mdp/",
-     "domain": "El Universal",
-     "seendate": "20261028T010054Z"
-    },
-    {
-     "title": "Refuerzan rondines en Parque España tras reporte de envenenamiento de perros; colocan letreros para evitar intoxicaciones",
-     "url": "https://www.eluniversal.com.mx/metropoli/refuerzan-rondines-en-parque-espana-tras-envenenamiento-de-perros-colocan-letreros-para-evitar-intoxicaciones/",
-     "domain": "El Universal",
-     "seendate": "20261028T005100Z"
-    },
-    {
-     "title": "Sujeto provoca incendio en Dirección de Seguridad Pública de Sáric, Sonora; solo se reportan daños materiales",
-     "url": "https://www.eluniversal.com.mx/estados/sujeto-provoca-incendio-en-direccion-de-seguridad-publica-de-saric-sonora-solo-se-reportan-danos-materiales/",
-     "domain": "El Universal",
-     "seendate": "20261028T003944Z"
-    },
-    {
-     "title": "Hallan cadáver calcinado en canchas de futbol de Tlalpan; el cuerpo habría sido abandonado en el sitio y posteriormente incendiado: SSC",
-     "url": "https://www.eluniversal.com.mx/metropoli/hallan-cadaver-calcinado-en-canchas-de-futbol-de-tlalpan-el-cuerpo-habria-sido-abandonado-en-el-sitio-y-posteriormente-incendiado-ssc/",
-     "domain": "El Universal",
-     "seendate": "20261028T003309Z"
-    },
-    {
-     "title": "Cuauhtémoc Blanco niega que su esposa haya sido detenida en EU con efectivo; \"se me hace una estupidez\", responde",
-     "url": "https://www.eluniversal.com.mx/nacion/cuauhtemoc-blanco-niega-que-su-esposa-haya-sido-detenida-en-eu-con-efectivo-se-me-hace-una-estupidez-responde/",
-     "domain": "El Universal",
-     "seendate": "20261028T002745Z"
-    },
-    {
-     "title": "Renuncia de Taddei no debe dar paso a otra imposición de Morena: diputado Agustín Rodríguez; exige transparencia en proceso de designación",
-     "url": "https://www.eluniversal.com.mx/estados/renuncia-de-taddei-no-debe-dar-paso-a-otra-imposicion-de-morena-diputado-agustin-rodriguez-exige-transparencia-en-proceso-de-designacion/",
-     "domain": "El Universal",
-     "seendate": "20261028T002236Z"
-    },
-    {
-     "title": "Vecinos de Mérida frenan instalación de gasoducto tras 5 años de lucha; ayuntamiento deberá revocar licencias de obra",
-     "url": "https://www.eluniversal.com.mx/estados/vecinos-de-merida-frenan-instalacion-de-gasoducto-tras-5-anos-de-lucha-ayuntamiento-debera-revocar-licencias-de-obra/",
-     "domain": "El Universal",
-     "seendate": "20261027T235951Z"
-    },
-    {
-     "title": "Instituto Electoral de Aguascalientes defiende contratos con proveedores del INE; auditorías no detectan observaciones",
-     "url": "https://www.eluniversal.com.mx/estados/instituto-electoral-de-aguascalientes-defiende-contratos-con-proveedores-del-ine-auditorias-no-detectan-observaciones/",
-     "domain": "El Universal",
-     "seendate": "20261027T235124Z"
-    },
-    {
-     "title": "Edomex enviará al Congreso el presupuesto 2027; priorizará obras, salud y bienestar",
-     "url": "https://www.eluniversal.com.mx/metropoli/edomex-enviara-al-congreso-el-presupuesto-2027-priorizara-obras-salud-y-bienestar/",
-     "domain": "El Universal",
-     "seendate": "20261027T232855Z"
-    },
-    {
-     "title": "Conductora cae a Presa tras sufrir ataque epiléptico en León, Guanajuato; pescador la rescata",
-     "url": "https://www.eluniversal.com.mx/estados/conductora-cae-a-presa-tras-sufrir-ataque-epileptico-en-leon-guanajuato-pescador-la-rescata/",
-     "domain": "El Universal",
-     "seendate": "20261027T232132Z"
-    },
-    {
-     "title": "Conductor acusado de atropellar a motociclista en Hermosillo, llevará su proceso en libertad; víctima sufrió lesiones graves",
-     "url": "https://www.eluniversal.com.mx/estados/conductor-acusado-de-atropellar-a-motociclista-en-hermosillo-llevara-su-proceso-en-libertad-victima-sufrio-lesiones-graves/",
-     "domain": "El Universal",
-     "seendate": "20261027T231122Z"
-    },
-    {
-     "title": "Gobierno de CDMX emitirá \"Bono Rosa\" para proyectos con perspectiva de género, anuncia secretario de Finanzas; será sustentable, dice",
-     "url": "https://www.eluniversal.com.mx/metropoli/gobierno-de-cdmx-emitira-bono-rosa-para-proyectos-con-perspectiva-de-genero-anuncia-secretario-de-finanzas-sera-sustentable-dice/",
-     "domain": "El Universal",
-     "seendate": "20261027T230604Z"
-    },
-    {
-     "title": "Pepe Couttolenc y Eruviel Ávila dialogan con obispos del Estado de México; abordan iniciativas sobre la vida, la familia y el medio ambiente",
-     "url": "https://www.eluniversal.com.mx/metropoli/pepe-couttolenc-y-eruviel-avila-dialogan-con-obispos-del-estado-de-mexico-abordan-iniciativas-sobre-la-vida-la-familia-y-el-medio-ambiente/",
-     "domain": "El Universal",
-     "seendate": "20261027T230004Z"
-    },
-    {
-     "title": "Reportan presunto envenenamiento de perritos en el Parque España; autoridades realizan recorridos",
-     "url": "https://www.eluniversal.com.mx/metropoli/reportan-presunto-envenenamiento-de-perritos-en-el-parque-espana-autoridades-realizan-recorridos/",
-     "domain": "El Universal",
-     "seendate": "20261027T225237Z"
-    },
-    {
-     "title": "Universidades supervisarán consulta para desaparecer Usicamm; está prevista para el 30 de octubre",
-     "url": "https://www.eluniversal.com.mx/nacion/universidades-supervisaran-consulta-para-desaparecer-usicamm-esta-prevista-para-el-30-de-octubre/",
-     "domain": "El Universal",
-     "seendate": "20261027T224215Z"
-    },
-    {
-     "title": "Once mil elementos de SSC CDMX resguardarán panteones por Día de Muertos; esperan un millón de visitantes: Pablo Vázquez",
-     "url": "https://www.eluniversal.com.mx/metropoli/once-mil-elementos-de-ssc-cdmx-resguardaran-panteones-por-dia-de-muertos-esperan-un-millon-de-visitantes-pablo-vazquez/",
-     "domain": "El Universal",
-     "seendate": "20261027T222758Z"
-    },
-    {
-     "title": "Vinculan a proceso a herrero por presunto huachicol en Chiapas; familia denuncia posible robo de identidad",
-     "url": "https://www.eluniversal.com.mx/estados/vinculan-a-proceso-a-herrero-por-presunto-huachicol-en-chiapas-familia-denuncia-posible-robo-de-identidad/",
-     "domain": "El Universal",
-     "seendate": "20261027T221538Z"
-    },
-    {
-     "title": "En CDMX se tienen contabilizadas 5 mil 226 personas no localizadas: Comisión de Búsqueda; mil 385 continúan en calidad de desaparecidas, asegura",
-     "url": "https://www.eluniversal.com.mx/metropoli/en-cdmx-se-tienen-contabilizadas-5-mil-226-personas-no-localizadas-comision-de-busqueda-mil-385-continuan-en-calidad-de-desaparecidas-asegura/",
-     "domain": "El Universal",
-     "seendate": "20261027T220907Z"
-    },
-    {
-     "title": "López Casarín reporta reducción de 31% en delitos de alto impacto; rinde segundo informe de Gobierno",
-     "url": "https://www.eluniversal.com.mx/metropoli/lopez-casarin-reporta-reduccion-de-31-en-delitos-de-alto-impacto-rinde-segundo-informe-de-gobierno/",
-     "domain": "El Universal",
-     "seendate": "20261027T215509Z"
-    },
-    {
-     "title": "FGR descarta investigación contra Andy López y Adán Augusto por huachicol fiscal; hay 17 procesados, dice",
-     "url": "https://www.eluniversal.com.mx/nacion/tras-dichos-de-farias-fgr-descarta-investigacion-contra-andy-lopez-y-adan-augusto-senalamientos-carecen-de-solidez-dice/",
-     "domain": "El Universal",
-     "seendate": "20261027T214436Z"
-    },
-    {
-     "title": "Acusan a consejera Rita Bell de cercanía con contratista; ella denuncia amenazas del clan Taddei",
-     "url": "https://www.eluniversal.com.mx/nacion/consejera-rita-bell-denuncia-amenazas-del-clan-taddei-me-decian-que-me-cuidara-expresa/",
-     "domain": "El Universal",
-     "seendate": "20261027T164944Z"
     }
    ]
   },
@@ -1342,6 +1114,18 @@
   "CRI": {
    "articles": [
     {
+     "title": "Así sufren los pacientes los días de espera en Emergencias de los hospitales de la CCSS",
+     "url": "https://www.nacion.com/el-pais/asi-sufren-los-pacientes-los-dias-de-espera-en/NOQEPJDH5ZEL7BICWVGGESMHBQ/story/",
+     "domain": "La Nación",
+     "seendate": "20261028T073000Z"
+    },
+    {
+     "title": "‘Los pacientes se están muriendo’: Directores de hospitales confirman a ‘La Nación’ que sobreocupación en Emergencias está llegando al extremo",
+     "url": "https://www.nacion.com/el-pais/los-pacientes-se-estan-muriendo-directores-de/TEQ6BUDD6BBSVAMGWP45423O3A/story/",
+     "domain": "La Nación",
+     "seendate": "20261028T070000Z"
+    },
+    {
      "title": "Pueblo Soberano votó a favor de reelegir a Jorge Olaso como magistrado de Sala II: ¿por qué cambió el guion de no apoyar continuidad en la Corte?",
      "url": "https://www.nacion.com/politica/pueblo-soberano-voto-a-favor-de-la-reeleccion-de/B5JKY2XA5JELJAVAOLZLQSZX6M/story/",
      "domain": "La Nación",
@@ -1466,12 +1250,6 @@
      "url": "https://www.nacion.com/el-pais/trabajadores-independientes-morosos-con-la-ccss/VQT443APK5HGVPRIZ5FD74XDBY/story/",
      "domain": "La Nación",
      "seendate": "20261027T154312Z"
-    },
-    {
-     "title": "MEP cambia calendario escolar: ahora será de 180 días. Conozca cuándo iniciarán y terminarán las clases",
-     "url": "https://www.nacion.com/el-pais/mep-cambia-calendario-escolar-las-clases-seran-del/YKKVG7TX2VBLJDX3K6PF53222I/story/",
-     "domain": "La Nación",
-     "seendate": "20261027T153048Z"
     }
    ]
   },
@@ -2989,10 +2767,28 @@
   "ARG": {
    "articles": [
     {
+     "title": "Los docentes de la UTN lanzan desde este miércoles un par de 96 horas por el desfinanciamiento universitario",
+     "url": "https://www.lanacion.com.ar/sociedad/los-docentes-de-la-utn-lanzan-desde-este-miercoles-un-par-de-96-horas-por-el-desfinanciamiento-nid28102026/",
+     "domain": "La Nación",
+     "seendate": "20261028T074305Z"
+    },
+    {
      "title": "Javier Milei y sus medidas, en vivo: la nueva revisión del acuerdo con el FMI y la salida de Bolsonaro desde Misiones",
      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-nueva-revision-del-acuerdo-con-el-fmi-y-la-salida-de-bolsonaro-nid28102026/",
      "domain": "La Nación",
-     "seendate": "20261028T060215Z"
+     "seendate": "20261028T073000Z"
+    },
+    {
+     "title": "Tony Robbins, especialista en crecimiento personal: “La razón por la que sufrís: estás enfocado en vos”",
+     "url": "https://www.lanacion.com.ar/sociedad/tony-robbins-especialista-en-crecimiento-personal-la-razon-por-la-que-sufris-estas-enfocado-en-vos-nid28102026/",
+     "domain": "La Nación",
+     "seendate": "20261028T070000Z"
+    },
+    {
+     "title": "El FMI aprobó la tercera revisión del acuerdo con la Argentina y allana el camino para un nuevo desembolso",
+     "url": "https://www.lanacion.com.ar/economia/el-fmi-aprobo-la-tercera-revision-del-acuerdo-con-la-argentina-y-allana-el-camino-para-un-nuevo-nid27102026/",
+     "domain": "La Nación",
+     "seendate": "20261028T064347Z"
     },
     {
      "title": "Pilar Sordo, psicóloga, sobre las relaciones: “Nos cuesta decir lo que nos pasa”",
@@ -3005,12 +2801,6 @@
      "url": "https://www.lanacion.com.ar/politica/el-gobierno-oficializo-la-disolucion-de-instituto-de-obra-social-de-las-fuerzas-armadas-nid28102026/",
      "domain": "La Nación",
      "seendate": "20261028T055136Z"
-    },
-    {
-     "title": "Los docentes de la UTN lanzan desde este miércoles un par de 96 horas por el desfinanciamiento universitario",
-     "url": "https://www.lanacion.com.ar/sociedad/los-docentes-de-la-utn-lanzan-desde-este-miercoles-un-par-de-96-horas-por-el-desfinanciamiento-nid28102026/",
-     "domain": "La Nación",
-     "seendate": "20261028T054654Z"
     },
     {
      "title": "Gabriel Rolón, sobre la finitud: “Ser humano es vivir con el sentimiento trágico de la vida”",
@@ -3167,12 +2957,6 @@
      "url": "https://www.lanacion.com.ar/seguridad/una-mujer-denuncio-que-el-chofer-de-una-aplicacion-la-ataco-en-pleno-trayecto-y-la-obligo-a-bajarse-nid27102026/",
      "domain": "La Nación",
      "seendate": "20261027T231423Z"
-    },
-    {
-     "title": "Qué significa no mirar fijamente a los ojos, según la psicología",
-     "url": "https://www.lanacion.com.ar/sociedad/que-significa-no-mirar-fijamente-a-los-ojos-segun-la-psicologia-nid26102026/",
-     "domain": "La Nación",
-     "seendate": "20261027T230513Z"
     }
    ]
   },
@@ -3556,6 +3340,18 @@
   "BRA": {
    "articles": [
     {
+     "title": "Bloqueio de bens, prisão preventiva e rastreamento da rota de fuga: PF avalia próximos passos após Flávio deixar o país",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/28/bloqueio-de-bens-prisao-preventiva-e-rastreamento-da-rota-de-fuga-pf-avalia-proximos-passos-apos-flavio-deixar-o-pais.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261028T073000Z"
+    },
+    {
+     "title": "Presidentes de partidos do Centrão se reúnem com Motta para discutir mudança no sistema eleitoral",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/28/presidentes-de-partidos-do-centrao-se-reunem-com-motta-para-discutir-mudanca-no-sistema-eleitoral.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261028T073000Z"
+    },
+    {
      "title": "Cidades mais ricas puxam virada de Lula no segundo turno, apesar de vantagem de Flávio Bolsonaro",
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/28/cidades-mais-ricas-puxam-virada-de-lula-no-segundo-turno-apesar-de-vantagem-de-flavio-bolsonaro.ghtml",
      "domain": "O Globo",
@@ -3608,72 +3404,6 @@
      "url": "https://oglobo.globo.com/politica/noticia/2026/10/27/tereza-cristina-rebate-apoio-de-uniao-brasil-e-pp-a-alcolumbre-e-indica-que-sera-candidata-a-presidencia-do-senado.ghtml",
      "domain": "O Globo",
      "seendate": "20261027T235438Z"
-    },
-    {
-     "title": "Kassab diz que PSD apoiará ‘bons programas' do governo Lula",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/27/kassab-diz-que-psd-apoiara-bons-programas-do-governo-lula.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261027T234301Z"
-    },
-    {
-     "title": "De Ramagem a Eduardo: ida de Flávio para os EUA amplia lista de bolsonaristas que saíram do país em meio a investigações",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/27/de-ramagem-a-eduardo-ida-de-flavio-para-os-eua-amplia-lista-de-bolsonaristas-que-sairam-do-pais-em-meio-a-investigacoes.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261027T225324Z"
-    },
-    {
-     "title": "PT oficializa apoio a Motta, e presidente da Câmara reúne 15 partidos para buscar recondução, isolando PL",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/27/pt-oficializa-apoio-a-motta-e-presidente-da-camara-reune-15-partidos-para-buscar-reconducao-isolando-pl.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261027T224819Z"
-    },
-    {
-     "title": "Juristas divergem sobre decisão de apreender passaporte de Flávio e avaliam que saída do país pode gerar novas medidas",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/27/juristas-divergem-sobre-decisao-de-apreender-passaporte-de-flavio-e-avaliam-que-saida-do-pais-pode-gerar-novas-medidas.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261027T223956Z"
-    },
-    {
-     "title": "Smart Sampa firma parceria com MP para uso contra crime organizado e violência doméstica",
-     "url": "https://oglobo.globo.com/brasil/sao-paulo/noticia/2026/10/27/smart-sampa-firma-parceria-com-mp-para-uso-contra-crime-organizado-e-violencia-domestica.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261027T220627Z"
-    },
-    {
-     "title": "Principal novidade na Esplanada de Lula, Ministério da Segurança tem nomes cotados; saiba quais",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/27/principal-novidade-na-esplanada-de-lula-ministerio-da-seguranca-tem-nomes-cotados-saiba-quais.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261027T220320Z"
-    },
-    {
-     "title": "PF citou 'evasão bem sucedida' de Willer, dinheiro de Vorcaro e 'estrutura já estabelecida' no exterior ao apontar risco de fuga de Flávio",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/27/pf-citou-evasao-bem-sucedida-de-willer-dinheiro-de-vorcaro-e-estrutura-ja-estabelecida-no-exterior-ao-apontar-risco-de-fuga-de-flavio.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261027T212904Z"
-    },
-    {
-     "title": "Lula reage à suposta fuga de Flávio: 'Quem sai escondido do seu país deve ou tem medo de alguma coisa'",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/27/lula-reage-a-possivel-saida-de-flavio-do-pais-quem-sai-escondido-do-seu-pais-deve-ou-tem-medo-de-alguma-coisa.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261027T212325Z"
-    },
-    {
-     "title": "Imprensa mundial repercute ida de Flávio Bolsonaro para os EUA após derrota e diz que 'governo Trump participou da fuga'",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/27/imprensa-mundial-repercute-ida-de-flavio-bolsonaro-para-os-eua-apos-derrota-e-diz-que-governo-trump-participou-da-fuga.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261027T212115Z"
-    },
-    {
-     "title": "Governo Trump diz que dará visto para Flávio Bolsonaro e permitirá entrada dele nos EUA",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/27/governo-trump-dara-visto-para-flavio-bolsonaro-e-permitira-entrada-dele-nos-eua.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261027T211952Z"
-    },
-    {
-     "title": "Marinho diz que esperava papel de 'liderança' de Flávio e lamenta possível saída do país: 'Não digo que concordo porque não fui consultado'",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/27/marinho-diz-que-esperava-papel-de-lideranca-de-flavio-e-lamenta-possivel-saida-do-pais-nao-digo-que-concordo-porque-nao-fui-consultado.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261027T211212Z"
     }
    ]
   }
