@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-28T05:39:56+00:00",
+ "updated": "2026-10-28T06:45:10+00:00",
  "countries": {
   "ESP": {
    "articles": [
     {
-     "title": "Abascal teme que Feijóo descuide al votante de centro por disputarle su electorado",
+     "title": "Abascal teme que Feijóo descuide al votante de centroderecha por disputarle su electorado",
      "url": "https://elpais.com/espana/elecciones-generales/2026-10-28/abascal-teme-que-feijoo-descuide-al-votante-de-centro-por-disputarle-el-electorado-de-vox.html",
      "domain": "El País",
      "seendate": "20261028T043001Z"
@@ -133,6 +133,12 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Contralor del INE comparecerá este viernes ante diputados, informan; se espera presencia de los integrantes de la ASF",
+     "url": "https://www.eluniversal.com.mx/nacion/contralor-del-ine-comparecera-este-viernes-ante-diputados-informan-se-espera-presencia-de-los-integrantes-de-la-asf/",
+     "domain": "El Universal",
+     "seendate": "20261028T061053Z"
+    },
     {
      "title": "Gobierno de la CDMX atiende afectaciones por fuertes lluvias de este martes; alcaldías Cuauhtémoc y Benito Juárez entre las más afectadas",
      "url": "https://www.eluniversal.com.mx/metropoli/gobierno-de-la-cdmx-atiende-afectaciones-por-fuertes-lluvias-de-este-martes-alcaldias-cuauhtemoc-y-benito-juarez-entre-las-mas-afectadas/",
@@ -408,12 +414,6 @@
      "url": "https://www.eluniversal.com.mx/nacion/tras-dichos-de-farias-fgr-descarta-investigacion-contra-andy-lopez-y-adan-augusto-senalamientos-carecen-de-solidez-dice/",
      "domain": "El Universal",
      "seendate": "20261027T214436Z"
-    },
-    {
-     "title": "Brugada anuncia primera búsqueda metropolitana de personas desaparecidas; rastreo se realizará en límites de CDMX, Edomex y Morelos",
-     "url": "https://www.eluniversal.com.mx/metropoli/brugada-anuncia-primera-busqueda-metropolitana-de-personas-desaparecidas-rastreo-se-realizara-en-limites-de-cdmx-edomex-y-morelos/",
-     "domain": "El Universal",
-     "seendate": "20261027T212751Z"
     },
     {
      "title": "Acusan a consejera Rita Bell de cercanía con contratista; ella denuncia amenazas del clan Taddei",
@@ -1693,6 +1693,12 @@
   "COL": {
    "articles": [
     {
+     "title": "Trágico accidente entre moto eléctrica y volqueta deja sin vida a dos hermanas de 9 y 13 años en Fundación, Magdalena: autoridades investigan el hecho",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/tragico-accidente-entre-moto-electrica-y-volqueta-deja-sin-vida-a-dos-hermanas-de-9-y-13-anos-en-fundacion-magdalena-autoridades-investigan-el-hecho-3596836",
+     "domain": "El Tiempo",
+     "seendate": "20261028T062219Z"
+    },
+    {
      "title": "El otro caso por el que ya había sido arrestado el hijo del exfutbolista Iván René Valenciano: fue capturado de nuevo en megaoperativo en Medellín",
      "url": "https://www.eltiempo.com/colombia/medellin/el-otro-caso-por-el-que-ya-habia-sido-arrestado-el-hijo-del-exfutbolista-ivan-rene-valenciano-fue-capturado-de-nuevo-en-megaoperativo-en-medellin-3596835",
      "domain": "El Tiempo",
@@ -1745,12 +1751,6 @@
      "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-se-mueve-en-moto-pero-las-patinetas-y-bicicletas-electricas-siguen-mostrandose-como-alternativa-de-movilidad-esta-preparada-la-ciudad-3596780",
      "domain": "El Tiempo",
      "seendate": "20261027T234027Z"
-    },
-    {
-     "title": "Con picos y palas: comunidades de El Patía, Cauca, intentan habilitar importante vía rural destruida por explosión atribuida a disidencias",
-     "url": "https://www.eltiempo.com/colombia/cali/con-picos-y-palas-comunidades-de-el-patia-cauca-intentan-habilitar-importante-via-rural-destruida-por-explosion-atribuida-a-disidencias-3596776",
-     "domain": "El Tiempo",
-     "seendate": "20261027T231411Z"
     }
    ]
   },
@@ -2263,12 +2263,6 @@
      "seendate": "20261027T224654Z"
     },
     {
-     "title": "InPerú: ProInversión se reúne con bonistas de Petro-Perú",
-     "url": "https://elcomercio.pe/economia/peru/inperu-proinversion-se-reune-con-bonistas-de-petro-peru-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261027T224629Z"
-    },
-    {
      "title": "CADE Ejecutivos 2026 reunirá a inversionistas internacionales para analizar cómo atraer más capitales a las regiones del Perú",
      "url": "https://elcomercio.pe/economia/peru/cade-ejecutivos-2026-reunira-a-inversionistas-internacionales-para-analizar-como-atraer-mas-capitales-a-las-regiones-del-peru-l-ultimas-noticia/",
      "domain": "El Comercio",
@@ -2297,12 +2291,6 @@
      "url": "https://elcomercio.pe/economia/peru/sky-y-gol-amplian-la-conectividad-entre-peru-chile-y-brasil-con-acuerdo-de-codigo-compartido-l-ultimas-noticia/",
      "domain": "El Comercio",
      "seendate": "20261027T181025Z"
-    },
-    {
-     "title": "Perú-Petro otorga buena pro del Lote 207 con inversiones del orden en los US$400 millones",
-     "url": "https://elcomercio.pe/economia/peru/peru-petro-otorga-buena-pro-del-lote-207-con-inversiones-del-orden-en-los-us400-millones-l-ultimas-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261027T170528Z"
     }
    ]
   },
@@ -3001,6 +2989,30 @@
   "ARG": {
    "articles": [
     {
+     "title": "Javier Milei y sus medidas, en vivo: la nueva revisión del acuerdo con el FMI y la salida de Bolsonaro desde Misiones",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-nueva-revision-del-acuerdo-con-el-fmi-y-la-salida-de-bolsonaro-nid28102026/",
+     "domain": "La Nación",
+     "seendate": "20261028T060215Z"
+    },
+    {
+     "title": "Pilar Sordo, psicóloga, sobre las relaciones: “Nos cuesta decir lo que nos pasa”",
+     "url": "https://www.lanacion.com.ar/sociedad/pilar-sordo-psicologa-sobre-las-relaciones-nos-cuesta-decir-lo-que-nos-pasa-nid28102026/",
+     "domain": "La Nación",
+     "seendate": "20261028T060000Z"
+    },
+    {
+     "title": "El Gobierno oficializó la disolución de Instituto de Obra Social de las Fuerzas Armadas",
+     "url": "https://www.lanacion.com.ar/politica/el-gobierno-oficializo-la-disolucion-de-instituto-de-obra-social-de-las-fuerzas-armadas-nid28102026/",
+     "domain": "La Nación",
+     "seendate": "20261028T055136Z"
+    },
+    {
+     "title": "Los docentes de la UTN lanzan desde este miércoles un par de 96 horas por el desfinanciamiento universitario",
+     "url": "https://www.lanacion.com.ar/sociedad/los-docentes-de-la-utn-lanzan-desde-este-miercoles-un-par-de-96-horas-por-el-desfinanciamiento-nid28102026/",
+     "domain": "La Nación",
+     "seendate": "20261028T054654Z"
+    },
+    {
      "title": "Gabriel Rolón, sobre la finitud: “Ser humano es vivir con el sentimiento trágico de la vida”",
      "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-sobre-la-finitud-ser-humano-es-vivir-con-el-sentimiento-tragico-de-la-vida-nid28102026/",
      "domain": "La Nación",
@@ -3161,36 +3173,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/que-significa-no-mirar-fijamente-a-los-ojos-segun-la-psicologia-nid26102026/",
      "domain": "La Nación",
      "seendate": "20261027T230513Z"
-    },
-    {
-     "title": "Según los neurólogos, las siestas largas no sirven para compensar la falta de sueño",
-     "url": "https://www.lanacion.com.ar/sociedad/segun-los-neurologos-las-siestas-largas-no-sirven-para-compensar-la-falta-de-sueno-nid27102026/",
-     "domain": "La Nación",
-     "seendate": "20261027T230000Z"
-    },
-    {
-     "title": "Visita de León XIV: cómo será el operativo de seguridad en la zona donde estará alojado el Sumo Pontífice",
-     "url": "https://www.lanacion.com.ar/sociedad/visita-de-leon-xiv-como-sera-el-operativo-de-seguridad-en-la-zona-donde-estara-alojado-el-sumo-nid27102026/",
-     "domain": "La Nación",
-     "seendate": "20261027T225605Z"
-    },
-    {
-     "title": "Avanza un frente frío que provocará alertas por tormentas de gran intensidad, granizo, ráfagas y temperaturas cercanas a los 30°C: las zonas afectadas",
-     "url": "https://www.lanacion.com.ar/sociedad/avanza-un-frente-frio-que-provocara-alertas-por-tormentas-de-gran-intensidad-granizo-rafagas-y-nid27102026/",
-     "domain": "La Nación",
-     "seendate": "20261027T225400Z"
-    },
-    {
-     "title": "Conrado Estol, neurólogo, alertó sobre los riesgos de la pasividad en la vejez: “Estamos experimentando una transición sin precedentes”",
-     "url": "https://www.lanacion.com.ar/sociedad/conrado-estol-neurologo-alerto-sobre-los-riesgos-de-la-pasividad-en-la-vejez-estamos-experimentando-nid27102026/",
-     "domain": "La Nación",
-     "seendate": "20261027T224800Z"
-    },
-    {
-     "title": "Los seis alimentos que ayudan a controlar el colesterol",
-     "url": "https://www.lanacion.com.ar/sociedad/los-seis-alimentos-que-ayudan-a-controlar-el-colesterol-nid27102026/",
-     "domain": "La Nación",
-     "seendate": "20261027T224500Z"
     }
    ]
   },
@@ -3565,12 +3547,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/27/caso-zenaida-delgado-fiscalia-califica-de-escueta-la-denuncia/",
      "domain": "ABC Color",
      "seendate": "20261028T004238Z"
-    },
-    {
-     "title": "Deisy Paola Giménez: solicitan reconstrucción de feminicidio en Lambaré",
-     "url": "https://www.abc.com.py/nacionales/2026/10/27/deisy-paola-gimenez-solicitan-reconstruccion-de-feminicidio-en-lambare/",
-     "domain": "ABC Color",
-     "seendate": "20261027T230936Z"
     }
    ]
   },
@@ -3579,6 +3555,36 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "Cidades mais ricas puxam virada de Lula no segundo turno, apesar de vantagem de Flávio Bolsonaro",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/28/cidades-mais-ricas-puxam-virada-de-lula-no-segundo-turno-apesar-de-vantagem-de-flavio-bolsonaro.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261028T063000Z"
+    },
+    {
+     "title": "Lula expande território em Rio e SP e vence em 15 zonas eleitorais que votaram em Bolsonaro em 2022",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/28/lula-expande-territorio-em-rio-e-sp-e-vence-em-15-zonas-eleitorais-que-votaram-em-bolsonaro-em-2022.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261028T063000Z"
+    },
+    {
+     "title": "Domingo do segundo turno teve bairros de SP com apenas metade da frota de dias úteis",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/28/domingo-do-segundo-turno-teve-bairros-de-sp-com-apenas-metade-da-frota-de-dias-uteis.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261028T063000Z"
+    },
+    {
+     "title": "Saída de Flávio do país abre disputa por protagonismo na oposição a Lula",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/28/saida-de-flavio-do-pais-abre-disputa-por-protagonismo-na-oposicao-a-lula.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261028T063000Z"
+    },
+    {
+     "title": "Governo argentino afirma que Flávio Bolsonaro e a família estiveram no país e foram para o Equador",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/28/governo-argentino-afirma-que-flavio-bolsonaro-e-a-familia-estiveram-no-pais-e-foram-para-o-equador.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261028T061621Z"
+    },
     {
      "title": "Defesa de Flávio teme mandado de prisão e avalia próximos passos após descumprimento de ordem de Moraes",
      "url": "https://oglobo.globo.com/politica/noticia/2026/10/28/defesa-de-flavio-teme-mandado-de-prisao-e-avalia-proximos-passos-apos-descumprimento-de-ordem-de-moraes.ghtml",
@@ -3668,18 +3674,6 @@
      "url": "https://oglobo.globo.com/politica/noticia/2026/10/27/marinho-diz-que-esperava-papel-de-lideranca-de-flavio-e-lamenta-possivel-saida-do-pais-nao-digo-que-concordo-porque-nao-fui-consultado.ghtml",
      "domain": "O Globo",
      "seendate": "20261027T211212Z"
-    },
-    {
-     "title": "Fachin arquiva casos derivados do inquérito das fake news e pede informações à PF sobre apuração sobre Jair Bolsonaro",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/27/fachin-arquiva-casos-derivados-do-inquerito-das-fake-news-e-pede-informacoes-a-pf-sobre-apuracao-sobre-jair-bolsonaro.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261027T203223Z"
-    },
-    {
-     "title": "Seguranças dizem que tentaram contato com Flávio, mas ficaram sem informações sobre paradeiro de senador",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/27/segurancas-dizem-que-tentaram-contato-com-flavio-mas-ficaram-sem-informacoes-sobre-paradeiro-de-senador.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261027T200624Z"
     }
    ]
   }
