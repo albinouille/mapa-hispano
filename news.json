@@ -1,13 +1,31 @@
 {
- "updated": "2026-10-28T08:48:56+00:00",
+ "updated": "2026-10-28T09:45:09+00:00",
  "countries": {
   "ESP": {
    "articles": [
     {
-     "title": "Numerosos heridos tras un choque entre dos trenes a la altura de Los Yébenes, en Toledo",
+     "title": "Última hora del accidente de trenes en Toledo, en directo | Al menos 10 muertos en el choque de trenes en Los Yébenes",
+     "url": "https://elpais.com/espana/2026-10-28/ultima-hora-del-choque-entre-dos-trenes-en-los-yebenes-toledo-en-directo.html",
+     "domain": "El País",
+     "seendate": "20261028T093826Z"
+    },
+    {
+     "title": "El accidente de dos trenes de alta velocidad en Toledo, en imágenes",
+     "url": "https://elpais.com/espana/2026-10-28/el-accidente-de-dos-trenes-de-alta-velocidad-en-toledo-en-imagenes.html",
+     "domain": "El País",
+     "seendate": "20261028T093456Z"
+    },
+    {
+     "title": "Al menos 10 muertos tras un choque entre un AVE de Renfe y un tren de Iryo a la altura de Los Yébenes, en Toledo",
      "url": "https://elpais.com/espana/2026-10-28/adif-suspende-la-circulacion-de-la-linea-de-alta-velocidad-entre-madrid-y-andalucia-por-un-alcance-entre-dos-trenes.html",
      "domain": "El País",
-     "seendate": "20261028T083231Z"
+     "seendate": "20261028T092242Z"
+    },
+    {
+     "title": "Begoña Gómez presenta una denuncia contra el PP por el vídeo generado con IA para atacar al PSOE",
+     "url": "https://elpais.com/espana/2026-10-28/begona-gomez-presenta-una-denuncia-contra-el-pp-por-el-video-generado-con-ia-para-atacar-al-psoe.html",
+     "domain": "El País",
+     "seendate": "20261028T083431Z"
     },
     {
      "title": "Abascal teme que Feijóo descuide al votante de centroderecha por disputarle su electorado",
@@ -94,12 +112,6 @@
      "seendate": "20261027T191618Z"
     },
     {
-     "title": "Lo que hay detrás del creciente liderazgo económico de Madrid frente a Cataluña: 350.000 trabajadores que viven en otra comunidad",
-     "url": "https://elpais.com/espana/catalunya/2026-10-27/lo-que-hay-detras-del-creciente-liderazgo-de-madrid-frente-a-cataluna-350000-trabajadores-que-viven-en-otra-comunidad.html",
-     "domain": "El País",
-     "seendate": "20261027T163432Z"
-    },
-    {
      "title": "La red que convocó los disturbios de Barcelona tiene ramificaciones en 11 comunidades autónomas",
      "url": "https://elpais.com/espana/2026-10-27/la-red-que-convoco-los-disturbios-de-barcelona-tiene-ramificaciones-en-11-comunidades-autonomas.html",
      "domain": "El País",
@@ -140,6 +152,12 @@
   "MEX": {
    "articles": [
     {
+     "title": "Papel picado perdura en taller familiar",
+     "url": "https://www.eluniversal.com.mx/nacion/papel-picado-perdura-en-taller-familiar/",
+     "domain": "El Universal",
+     "seendate": "20261028T092410Z"
+    },
+    {
      "title": "Detienen a exfuncionario acusado de violencia familiar",
      "url": "https://www.eluniversal.com.mx/estados/detienen-a-exfuncionario-acusado-de-violencia-familiar/",
      "domain": "El Universal",
@@ -156,24 +174,6 @@
      "url": "https://www.eluniversal.com.mx/estados/violencia-en-culiacan-y-mazatlan-deja-9-muertos/",
      "domain": "El Universal",
      "seendate": "20261028T072726Z"
-    },
-    {
-     "title": "Especialistas piden atender las otras violencias en Coahuila",
-     "url": "https://www.eluniversal.com.mx/estados/especialistas-piden-atender-las-otras-violencias-en-coahuila/",
-     "domain": "El Universal",
-     "seendate": "20261028T065055Z"
-    },
-    {
-     "title": "Contralor del INE comparecerá este viernes ante diputados, informan; se espera presencia de los integrantes de la ASF",
-     "url": "https://www.eluniversal.com.mx/nacion/contralor-del-ine-comparecera-este-viernes-ante-diputados-informan-se-espera-presencia-de-los-integrantes-de-la-asf/",
-     "domain": "El Universal",
-     "seendate": "20261028T061053Z"
-    },
-    {
-     "title": "Gobierno de la CDMX atiende afectaciones por fuertes lluvias de este martes; alcaldías Cuauhtémoc y Benito Juárez entre las más afectadas",
-     "url": "https://www.eluniversal.com.mx/metropoli/gobierno-de-la-cdmx-atiende-afectaciones-por-fuertes-lluvias-de-este-martes-alcaldias-cuauhtemoc-y-benito-juarez-entre-las-mas-afectadas/",
-     "domain": "El Universal",
-     "seendate": "20261028T052818Z"
     }
    ]
   },
@@ -1226,12 +1226,6 @@
      "url": "https://www.nacion.com/el-pais/grupos-denunciaron-ante-cidh-ataques-del-gobierno/5ZBWADEHO5CYZFRH3KA7W5TJ5A/story/",
      "domain": "La Nación",
      "seendate": "20261027T161728Z"
-    },
-    {
-     "title": "Trabajadores independientes morosos con la CCSS tienen fecha límite para solicitar condonación de deudas",
-     "url": "https://www.nacion.com/el-pais/trabajadores-independientes-morosos-con-la-ccss/VQT443APK5HGVPRIZ5FD74XDBY/story/",
-     "domain": "La Nación",
-     "seendate": "20261027T154312Z"
     }
    ]
   },
@@ -2749,6 +2743,18 @@
   "ARG": {
    "articles": [
     {
+     "title": "Javier Milei y sus medidas, en vivo: la nueva revisión del acuerdo con el FMI y la salida de Bolsonaro desde Misiones",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-nueva-revision-del-acuerdo-con-el-fmi-y-la-salida-de-bolsonaro-nid28102026/",
+     "domain": "La Nación",
+     "seendate": "20261028T093857Z"
+    },
+    {
+     "title": "Del secretismo a la mortificación corporal: “Si en el Opus Dei hemos hecho algo mal, tenemos que cambiarlo”",
+     "url": "https://www.lanacion.com.ar/sociedad/del-secretismo-a-la-mortificacion-corporal-si-en-el-opus-dei-hemos-hecho-algo-mal-tenemos-que-nid28102026/",
+     "domain": "La Nación",
+     "seendate": "20261028T090001Z"
+    },
+    {
      "title": "Javier Milei llegó a Catamarca, donde recorrerá una mina de litio del RIGI con un aliado peronista",
      "url": "https://www.lanacion.com.ar/politica/javier-milei-llego-a-catamarca-donde-recorrera-una-mina-de-litio-del-rigi-con-un-aliado-peronista-nid27102026/",
      "domain": "La Nación",
@@ -2765,12 +2771,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/los-docentes-de-la-utn-lanzan-desde-este-miercoles-un-par-de-96-horas-por-el-desfinanciamiento-nid28102026/",
      "domain": "La Nación",
      "seendate": "20261028T075950Z"
-    },
-    {
-     "title": "Javier Milei y sus medidas, en vivo: la nueva revisión del acuerdo con el FMI y la salida de Bolsonaro desde Misiones",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-nueva-revision-del-acuerdo-con-el-fmi-y-la-salida-de-bolsonaro-nid28102026/",
-     "domain": "La Nación",
-     "seendate": "20261028T075014Z"
     },
     {
      "title": "Tony Robbins, especialista en crecimiento personal: “La razón por la que sufrís: estás enfocado en vos”",
@@ -2915,30 +2915,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/marta-beatriz-echaul-de-101-anos-compartio-su-secreto-de-longevidad-nunca-fui-al-gimnasio-no-camino-nid26102026/",
      "domain": "La Nación",
      "seendate": "20261027T234600Z"
-    },
-    {
-     "title": "Gabriel Rolón, psicoanalista: “No es lo mismo haber sido un hijo deseado que ser el producto de un método anticonceptivo que falló”",
-     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-no-es-lo-mismo-haber-sido-un-hijo-deseado-que-ser-el-producto-de-un-nid26102026/",
-     "domain": "La Nación",
-     "seendate": "20261027T234500Z"
-    },
-    {
-     "title": "La caída del líder de la banda del frustrado robo boquetero en San Isidro y su vínculo con el falso abogado Marcelo D’Alessio",
-     "url": "https://www.lanacion.com.ar/seguridad/boqueteros-en-san-isidro-la-caida-del-lider-de-la-banda-del-frustrado-robo-a-un-banco-y-su-vinculo-nid27102026/",
-     "domain": "La Nación",
-     "seendate": "20261027T233322Z"
-    },
-    {
-     "title": "Qué dice la psicología de las personas que hablan solas mientras cocinan",
-     "url": "https://www.lanacion.com.ar/sociedad/que-dice-la-psicologia-de-las-personas-que-hablan-solas-mientras-cocinan-nid26102026/",
-     "domain": "La Nación",
-     "seendate": "20261027T231832Z"
-    },
-    {
-     "title": "AmCham pidió adherir a un tratado internacional por semillas y alertó sobre el posible impacto de incumplir un acuerdo con Estados Unidos",
-     "url": "https://www.lanacion.com.ar/economia/campo/amcham-pidio-adherir-a-un-tratado-internacional-por-semillas-y-alerto-sobre-el-posible-impacto-de-nid27102026/",
-     "domain": "La Nación",
-     "seendate": "20261027T231551Z"
     }
    ]
   },
@@ -3309,10 +3285,10 @@
   "PRY": {
    "articles": [
     {
-     "title": "Caso Zenaida Delgado: Fiscalía califica de “escueta” la denuncia",
-     "url": "https://www.abc.com.py/nacionales/2026/10/27/caso-zenaida-delgado-fiscalia-califica-de-escueta-la-denuncia/",
+     "title": "¿Están seguros los alumnos? El MEC en la mira ante la creciente violencia en colegios",
+     "url": "https://www.abc.com.py/nacionales/2026/10/28/estan-seguros-los-alumnos-el-mec-en-la-mira-ante-la-creciente-violencia-en-colegios/",
      "domain": "ABC Color",
-     "seendate": "20261028T004238Z"
+     "seendate": "20261028T093000Z"
     }
    ]
   },
@@ -3321,6 +3297,48 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "Das informações desencontradas a vistos concedidos por Trump: tudo o que se sabe sobre a fuga de Flávio",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/28/das-informacoes-desencontradas-a-vistos-concedidos-por-trump-tudo-o-que-se-sabe-sobre-a-fuga-de-flavio.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261028T093204Z"
+    },
+    {
+     "title": "Fé pública: a cada três dias, um espaço pertencente ao Estado é cedido a organizações religiosas no país",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/28/fe-publica-a-cada-tres-dias-um-espaco-pertencente-ao-estado-e-cedido-a-organizacoes-religiosas-no-pais.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261028T092233Z"
+    },
+    {
+     "title": "O mercado sabe quem ganhou, mas não entendeu quem venceu",
+     "url": "https://oglobo.globo.com/politica/renato-meirelles/coluna/2026/10/o-mercado-sabe-quem-ganhou-mas-nao-entendeu-quem-venceu.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261028T091808Z"
+    },
+    {
+     "title": "Com trocas avaliadas por Lula, Forças Armadas devem ter primeiros comandantes que iniciaram carreira já após a ditadura",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/28/com-trocas-avaliadas-por-lula-forcas-armadas-devem-ter-primeiros-comandantes-que-iniciaram-carreira-ja-apos-a-ditadura.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261028T091441Z"
+    },
+    {
+     "title": "Possível nomeação de Pacheco ao STF será o primeiro teste da dobradinha entre o governo Lula e o Centrão",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/28/pacheco-no-stf-e-primeiro-teste-da-dobradinha-governo-centrao.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261028T090906Z"
+    },
+    {
+     "title": "'Eleição passou' e 'não vamos desistir': direita fica entre discurso de perseguição a Flávio e busca por virar a página",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/28/direita-se-divide-entre-discurso-de-perseguicao-e-tentativa-de-virar-pagina.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261028T090519Z"
+    },
+    {
+     "title": "Avião particular que teria a bordo Flávio Bolsonaro e família pousa no Equador após senador deixar a Argentina",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/28/flavio-bolsonaro-equador.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261028T085028Z"
+    },
     {
      "title": "Bloqueio de bens, prisão preventiva e rastreamento da rota de fuga: PF avalia próximos passos após Flávio deixar o país",
      "url": "https://oglobo.globo.com/politica/noticia/2026/10/28/bloqueio-de-bens-prisao-preventiva-e-rastreamento-da-rota-de-fuga-pf-avalia-proximos-passos-apos-flavio-deixar-o-pais.ghtml",
@@ -3358,22 +3376,10 @@
      "seendate": "20261028T063000Z"
     },
     {
-     "title": "Governo argentino afirma que Flávio Bolsonaro e a família estiveram no país e foram para o Equador",
+     "title": "Governo argentino confirma que Flávio Bolsonaro e família estiveram no país e seguiram para o Equador; avião pousa em Guayaquil",
      "url": "https://oglobo.globo.com/politica/noticia/2026/10/28/governo-argentino-afirma-que-flavio-bolsonaro-e-a-familia-estiveram-no-pais-e-foram-para-o-equador.ghtml",
      "domain": "O Globo",
      "seendate": "20261028T061621Z"
-    },
-    {
-     "title": "Defesa de Flávio teme mandado de prisão e avalia próximos passos após descumprimento de ordem de Moraes",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/28/defesa-de-flavio-teme-mandado-de-prisao-e-avalia-proximos-passos-apos-descumprimento-de-ordem-de-moraes.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261028T030000Z"
-    },
-    {
-     "title": "Da festa desmontada à fuga de Flávio: as últimas 48 horas após a derrota para Lula",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/28/da-festa-desmontada-a-fuga-de-flavio-as-ultimas-48-horas-apos-a-derrota-para-lula.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261028T030000Z"
     }
    ]
   }
