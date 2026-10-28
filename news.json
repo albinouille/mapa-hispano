@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T22:37:13+00:00",
+ "updated": "2026-10-28T23:34:05+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -7,7 +7,7 @@
      "title": "Última hora del accidente de trenes en Toledo, en directo | Al menos 68 muertos en el choque de trenes de alta velocidad en Urda",
      "url": "https://elpais.com/espana/2026-10-28/ultima-hora-del-choque-entre-dos-trenes-en-los-yebenes-toledo-en-directo.html",
      "domain": "El País",
-     "seendate": "20261028T221924Z"
+     "seendate": "20261028T225601Z"
     },
     {
      "title": "Las líneas de alta velocidad española vuelven a teñirse de sangre",
@@ -100,7 +100,7 @@
      "seendate": "20261028T152647Z"
     },
     {
-     "title": "Pedro Sánchez promete llegar “hasta el final” para esclarecer el accidente de tren: “No es asumible para España sufrir dos el mismo año”",
+     "title": "Pedro Sánchez promete llegar “hasta el final” para esclarecer el choque de trenes: “No es asumible para España sufrir dos dos accidentes ferroviarios el mismo año”",
      "url": "https://elpais.com/espana/2026-10-28/pedro-sanchez-promete-llegar-hasta-el-final-para-esclarecer-el-accidente-de-tren-no-es-asumible-para-espana-sufrir-dos-el-mismo-ano.html",
      "domain": "El País",
      "seendate": "20261028T150655Z"
@@ -241,6 +241,54 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "\"Citlalli Hernández no hizo nada\"; diputadas le reclaman a Laura Itzel violencia contra las mujeres en comparecencia",
+     "url": "https://www.eluniversal.com.mx/nacion/citlalli-hernandez-no-hizo-nada-diputadas-le-reclaman-a-laura-itzel-violencia-contra-las-mujeres-en-comparecencia/",
+     "domain": "El Universal",
+     "seendate": "20261028T232023Z"
+    },
+    {
+     "title": "Combi es atacada a balazos frente al Tecnológico de Cuautla; reportan al menos dos lesionados, entre ellos, un alumno",
+     "url": "https://www.eluniversal.com.mx/estados/combi-es-atacada-a-balazos-frente-al-tecnologico-de-cuautla-reportan-al-menos-dos-lesionados-entre-ellos-un-alumno/",
+     "domain": "El Universal",
+     "seendate": "20261028T231824Z"
+    },
+    {
+     "title": "Especialistas de la UNAM advierten que elecciones en EU definirán estrategia de México ante Trump; se deben fortalecer vínculos, dicen",
+     "url": "https://www.eluniversal.com.mx/nacion/especialistas-de-la-unam-advierten-que-elecciones-en-eu-definiran-estrategia-de-mexico-ante-trump-se-deben-fortalecer-vinculos-dicen/",
+     "domain": "El Universal",
+     "seendate": "20261028T231629Z"
+    },
+    {
+     "title": "Show run de \"Checo\" Pérez reunió a más de 100 mil personas en Paseo de la Reforma; autoridades reportan saldo blanco",
+     "url": "https://www.eluniversal.com.mx/metropoli/show-run-de-checo-perez-reunio-a-mas-de-100-mil-personas-en-paseo-de-la-reforma-autoridades-reportan-saldo-blanco/",
+     "domain": "El Universal",
+     "seendate": "20261028T230952Z"
+    },
+    {
+     "title": "Reaparecen sanos y salvos 4 jóvenes que habían sido \"levantados\" por un comando en Culiacán; autoridades no han aclarado el caso",
+     "url": "https://www.eluniversal.com.mx/estados/reaparecen-sanos-y-salvos-4-jovenes-que-habian-sido-levantados-por-un-comando-en-culiacan-autoridades-no-han-aclarado-el-caso/",
+     "domain": "El Universal",
+     "seendate": "20261028T230606Z"
+    },
+    {
+     "title": "Lorenzo Córdova responde a Sheinbaum tras pedir auditar gestión en el INE; Auditoría jamás encontró irregularidades, dice",
+     "url": "https://www.eluniversal.com.mx/nacion/lorenzo-cordova-responde-a-sheinbaum-tras-pedir-auditar-gestion-en-el-ine-auditoria-jamas-encontro-irregularidades-dice/",
+     "domain": "El Universal",
+     "seendate": "20261028T230106Z"
+    },
+    {
+     "title": "Cae el \"Señor de las Luces\", sucesor de \"El Tanque\" en el CJNG; operaba en Oaxaca y Veracruz",
+     "url": "https://www.eluniversal.com.mx/nacion/cae-el-senor-de-las-luces-sucesor-de-el-tanque-en-el-cjng-operaba-en-oaxaca-y-veracruz/",
+     "domain": "El Universal",
+     "seendate": "20261028T225143Z"
+    },
+    {
+     "title": "Tras presunto envenenamiento de perritos en Parque España, hay poca afluencia de visitantes; varias zonas permanecen acoronadas",
+     "url": "https://www.eluniversal.com.mx/metropoli/tras-presunto-envenenamiento-de-perritos-en-parque-espana-hay-poca-afluencia-de-visitantes-varias-zonas-permanecen-acoronadas/",
+     "domain": "El Universal",
+     "seendate": "20261028T222924Z"
+    },
     {
      "title": "Diputados reciben Ley del ISR devuelta por el Senado; alistan revisión para la próxima semana",
      "url": "https://www.eluniversal.com.mx/nacion/diputados-reciben-ley-del-isr-devuelta-por-el-senado-alistan-revision-para-la-proxima-semana/",
@@ -422,52 +470,10 @@
      "seendate": "20261028T175303Z"
     },
     {
-     "title": "PRI solicita Comisión Especial para destituir a representante de Morena ante el INE; lo acusa de ser parte del clan Taddei",
-     "url": "https://www.eluniversal.com.mx/nacion/pri-solicita-comision-especial-para-destituir-a-representante-de-morena-ante-el-ine-lo-acusa-de-ser-parte-del-clan-taddei/",
-     "domain": "El Universal",
-     "seendate": "20261028T174927Z"
-    },
-    {
      "title": "Lilia y José mantienen viva la tradición del cempasúchil en Xochimilco; producen flores desde el año 2000",
      "url": "https://www.eluniversal.com.mx/metropoli/lilia-y-jose-mantienen-viva-la-tradicion-del-cempasuchil-en-xochimilco-producen-flores-desde-el-ano-2000/",
      "domain": "El Universal",
      "seendate": "20261028T172115Z"
-    },
-    {
-     "title": "Celebra Sheinbaum crecimiento en exportaciones; lo atribuye a buena colaboración con EU y a jóvenes ingenieros",
-     "url": "https://www.eluniversal.com.mx/nacion/celebra-sheinbaum-crecimiento-en-exportaciones-lo-atribuye-a-buena-colaboracion-con-eu-y-a-jovenes-ingenieros/",
-     "domain": "El Universal",
-     "seendate": "20261028T171812Z"
-    },
-    {
-     "title": "SSC alerta por fraudes en boletos y hospedaje para la Fórmula 1; pide comprar en sitios oficiales",
-     "url": "https://www.eluniversal.com.mx/metropoli/ssc-alerta-por-fraudes-en-boletos-y-hospedaje-para-la-formula-1-pide-comprar-en-sitios-oficiales/",
-     "domain": "El Universal",
-     "seendate": "20261028T170357Z"
-    },
-    {
-     "title": "Sheinbaum anuncia baja de sitios web ante fallas mundiales del lenguaje de programación PHP; apuesta por ciberseguridad",
-     "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-anuncia-baja-de-sitios-web-ante-fallas-mundiales-del-lenguaje-de-programacion-php-apuesta-por-ciberseguridad/",
-     "domain": "El Universal",
-     "seendate": "20261028T170150Z"
-    },
-    {
-     "title": "Ante repunte de homicidios, Sheinbaum envía al Gabinete de Seguridad a Sinaloa; \"estamos ahí para protegerlos\", afirma",
-     "url": "https://www.eluniversal.com.mx/nacion/ante-repunte-de-homicidios-sheinbaum-envia-al-gabinete-de-seguridad-a-sinaloa-estamos-ahi-para-protegerlos-afirma/",
-     "domain": "El Universal",
-     "seendate": "20261028T165346Z"
-    },
-    {
-     "title": "Sheinbaum ve avances en negociación del T-MEC; busca reducir aranceles antes de elecciones en EU",
-     "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-ve-avances-en-negociacion-del-t-mec-busca-reducir-aranceles-antes-de-elecciones-en-eu/",
-     "domain": "El Universal",
-     "seendate": "20261028T165253Z"
-    },
-    {
-     "title": "Metro CDMX registra interrupciones en las líneas 1 y 2 por caída de objetos a las vías; servicio se normaliza",
-     "url": "https://www.eluniversal.com.mx/metropoli/metro-cdmx-registra-interrupciones-en-las-lineas-1-y-2-por-caida-de-objetos-a-las-vias-servicio-se-normaliza/",
-     "domain": "El Universal",
-     "seendate": "20261028T165049Z"
     },
     {
      "title": "Recibe San Lázaro nombramiento de Presidenta interina del INE; turna notificación a la Jucopo",
@@ -1264,59 +1270,29 @@
      "url": "https://nuevaya.com.ni/destacadas/familiares-realizan-tramites-para-repatriar-a-siuna-caribe-norte-a-madre-e-hija-asesinada-en-costa-rica/",
      "domain": "nuevaya.com.ni",
      "seendate": "20261022T030000Z"
-    },
-    {
-     "title": "Incautan casi media tonelada de cocaína tras persecución marítima en Villa El Carmen",
-     "url": "https://nuevaya.com.ni/destacadas/incautan-casi-media-tonelada-de-cocaina-tras-persecucion-maritima-en-villa-el-carmen/",
-     "domain": "nuevaya.com.ni",
-     "seendate": "20261021T230000Z"
-    },
-    {
-     "title": "Mañana debuta la Selección U - 18 ante México en el Panamericano",
-     "url": "https://nuevaya.com.ni/deportes-ya/manana-debuta-la-seleccion-u-18-ante-mexico-en-el-panamericano/",
-     "domain": "nuevaya.com.ni",
-     "seendate": "20261021T230000Z"
-    },
-    {
-     "title": "Planta fotovoltaica ENESOLAR 3 registra 82 % de avance en Nindirí",
-     "url": "https://nuevaya.com.ni/ya-mi-municipio/planta-fotovoltaica-enesolar-3-registra-82-de-avance-en-nindiri/",
-     "domain": "nuevaya.com.ni",
-     "seendate": "20261021T230000Z"
-    },
-    {
-     "title": "Nica es hallado sin vida en la acera de supermercado en Alajuela , Costa Rica",
-     "url": "https://nuevaya.com.ni/sucesos/nica-es-hallado-sin-vida-en-la-acera-de-supermercado-en-alajuela-costa-rica/",
-     "domain": "nuevaya.com.ni",
-     "seendate": "20261021T230000Z"
-    },
-    {
-     "title": "Alcaldes de Estelí y Granada participan en conferencia en Xian , China",
-     "url": "https://nuevaya.com.ni/nacionales/alcaldes-de-esteli-y-granada-participan-en-conferencia-en-xian-china/",
-     "domain": "nuevaya.com.ni",
-     "seendate": "20261021T230000Z"
-    },
-    {
-     "title": "Mecánico chontaleño se rinde ante la muerte en hospital de Estados Unidos",
-     "url": "https://nuevaya.com.ni/destacadas/mecanico-chontaleno-se-rinde-ante-la-muerte-en-hospital-de-estados-unidos/",
-     "domain": "nuevaya.com.ni",
-     "seendate": "20261021T230000Z"
-    },
-    {
-     "title": "Impulsan promoción turística de Nicaragua en Sudáfrica y conectividad aérea",
-     "url": "https://nuevaya.com.ni/nacionales/impulsan-promocion-turistica-de-nicaragua-en-sudafrica-y-conectividad-aerea/",
-     "domain": "nuevaya.com.ni",
-     "seendate": "20261021T230000Z"
-    },
-    {
-     "title": "Eddy Antonio homenajea a Otto de la Rocha con Aniceto Prieto desde El Ayote",
-     "url": "https://nuevaya.com.ni/farandula/eddy-antonio-homenajea-a-otto-de-la-rocha-con-aniceto-prieto-desde-el-ayote/",
-     "domain": "nuevaya.com.ni",
-     "seendate": "20261021T230000Z"
     }
    ]
   },
   "CRI": {
    "articles": [
+    {
+     "title": "‘Tengan vergüenza, no voten por reelegir magistrados’, había pedido Rodrigo Chaves a los diputados; ahora PPSO respalda continuidad de dos altos jueces",
+     "url": "https://www.nacion.com/politica/tengan-verguenza-no-voten-por-reelegir-magistrados/A2UIO6666VEKRGIQPX5UEZCYF4/story/",
+     "domain": "La Nación",
+     "seendate": "20261028T232937Z"
+    },
+    {
+     "title": "OIJ identifica a las tres mujeres fallecidas en vuelco de autobús en Sarapiquí",
+     "url": "https://www.nacion.com/sucesos/oij-identifica-a-las-tres-mujeres-fallecidas-en/TBAFCDZMDZAC5HI6UGX73YI2H4/story/",
+     "domain": "La Nación",
+     "seendate": "20261028T230708Z"
+    },
+    {
+     "title": "Costa Rica seguirá en transición de época lluviosa a seca este jueves: IMN explica qué pasará con las lluvias",
+     "url": "https://www.nacion.com/sucesos/costa-rica-seguira-en-transicion-de-epoca-lluviosa/EBSN2OTNDJGWPJEDNSZJNOCIB4/story/",
+     "domain": "La Nación",
+     "seendate": "20261028T224436Z"
+    },
     {
      "title": "Sospechosos de tumbar droga desde una torre en sabana norte negociaron trasiego de 200 kilos de cocaína con agente encubierto",
      "url": "https://www.nacion.com/sucesos/detenidos-dos-sospechosos-de-narcotrafico-en-torre/7KF4DRTVTBHOXE4X6WYLMXR2TY/story/",
@@ -1324,7 +1300,7 @@
      "seendate": "20261028T222101Z"
     },
     {
-     "title": "‘Era todo para mí’: madre de Carlos Barboza recuerda a su hijo, asesinado en el Bar Dude´s de Heredia",
+     "title": "‘Era todo para mí’: madre de Carlos Barboza recuerda a su hijo, asesinado en el Bar Dude’s de Heredia",
      "url": "https://www.nacion.com/sucesos/era-todo-para-mi-madre-de-carlos-barboza-recuerda/BS37WZJJNFD4DLIKR7KYOQAYVM/story/",
      "domain": "La Nación",
      "seendate": "20261028T215655Z"
@@ -1442,29 +1418,29 @@
      "url": "https://www.nacion.com/el-pais/los-pacientes-se-estan-muriendo-directores-de/TEQ6BUDD6BBSVAMGWP45423O3A/story/",
      "domain": "La Nación",
      "seendate": "20261028T070000Z"
-    },
-    {
-     "title": "Pueblo Soberano votó a favor de reelegir a Jorge Olaso como magistrado de Sala II: ¿por qué cambió el guion de no apoyar continuidad en la Corte?",
-     "url": "https://www.nacion.com/politica/pueblo-soberano-voto-a-favor-de-la-reeleccion-de/B5JKY2XA5JELJAVAOLZLQSZX6M/story/",
-     "domain": "La Nación",
-     "seendate": "20261028T031346Z"
-    },
-    {
-     "title": "Chances de la JPS: estos son los números ganadores del sorteo de este martes 27 de octubre",
-     "url": "https://www.nacion.com/el-pais/chances-de-la-jps-estos-son-los-numeros-ganadores/ECG2OTQJGBHXFALQCEH4UJPMKA/story/",
-     "domain": "La Nación",
-     "seendate": "20261028T021819Z"
-    },
-    {
-     "title": "Temblor de magnitud 3,4 sacudió el Valle Central la noche de este martes",
-     "url": "https://www.nacion.com/sucesos/temblor-de-magnitud-34-sacudio-el-valle-central-la/LFWUJ72I2FBBNBHAD74KNNUT6E/story/",
-     "domain": "La Nación",
-     "seendate": "20261028T014131Z"
     }
    ]
   },
   "PAN": {
    "articles": [
+    {
+     "title": "Fiestas Patrias 2026: Conoce las dos rutas, horarios, cierres viales y desvíos en la Ciudad de Panamá",
+     "url": "https://www.prensa.com/sociedad/fiestas-patrias-2026-conoce-las-dos-rutas-horarios-cierres-viales-y-desvios-en-la-ciudad-de-panama-clone/",
+     "domain": "La Prensa",
+     "seendate": "20261028T232507Z"
+    },
+    {
+     "title": "Estas son las rutas de los desfiles patrios del 3 y 4 de noviembre en la ciudad de Panamá",
+     "url": "https://www.prensa.com/sociedad/estas-son-las-rutas-de-los-desfiles-patrios-del-3-y-4-de-noviembre-en-la-ciudad-de-panama/",
+     "domain": "La Prensa",
+     "seendate": "20261028T224728Z"
+    },
+    {
+     "title": "¿Se puede transformar la basura del Cerro Patacón en electricidad?",
+     "url": "https://www.prensa.com/sociedad/se-puede-transformar-la-basura-del-cerro-patacon-en-electricidad/",
+     "domain": "La Prensa",
+     "seendate": "20261028T224030Z"
+    },
     {
      "title": "Panamá respalda levantar embargo a Cuba, pero pide transición a la democracia",
      "url": "https://www.prensa.com/politica/panama-respalda-levantar-embargo-a-cuba-pero-pide-transicion-a-la-democracia/",
@@ -1572,12 +1548,6 @@
      "url": "https://www.prensa.com/politica/terremoto-en-azuero-alcaldes-piden-a-ejecutivo-mas-coordinacion-y-recursos/",
      "domain": "La Prensa",
      "seendate": "20261026T195735Z"
-    },
-    {
-     "title": "Teletón 20-30 recauda $1.45 millones para viviendas de familias afectadas por el terremoto",
-     "url": "https://www.prensa.com/sociedad/teleton-20-30-recauda-145-millones-para-viviendas-de-familias-afectadas-por-el-terremoto/",
-     "domain": "La Prensa",
-     "seendate": "20261025T161333Z"
     },
     {
      "title": "La primera vivienda construida tras el terremoto: 14 días de obra en Soná",
@@ -1693,6 +1663,18 @@
   "COL": {
    "articles": [
     {
+     "title": "¿Por qué candente pleito por Área Metropolitana del Suroccidente? Gobernadora, CVC y 38 alcaldes piden freno, mientras concejales de Cali lo defienden",
+     "url": "https://www.eltiempo.com/colombia/cali/por-que-candente-pleito-por-area-metropolitana-del-suroccidente-gobernadora-cvc-y-38-alcaldes-piden-freno-mientras-concejales-de-cali-lo-defienden-3597047",
+     "domain": "El Tiempo",
+     "seendate": "20261028T231633Z"
+    },
+    {
+     "title": "Nueve amenazas, una tutela y cero protección: el calvario de un concejal de Cali que denuncia el desacato de la Policía al no restituir su escolta",
+     "url": "https://www.eltiempo.com/colombia/cali/nueve-amenazas-una-tutela-y-cero-proteccion-el-calvario-de-un-concejal-de-cali-que-denuncia-el-desacato-de-la-policia-al-no-restituir-su-escolta-3597056",
+     "domain": "El Tiempo",
+     "seendate": "20261028T225319Z"
+    },
+    {
      "title": "En Gamarra, Cesar, cayó alias ‘Muco’, presunto asesino de líderes sociales y firmantes de paz",
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/en-gamarra-cesar-cayo-alias-muco-presunto-asesino-de-lideres-sociales-y-firmantes-de-paz-3597050",
      "domain": "El Tiempo",
@@ -1739,18 +1721,6 @@
      "url": "https://www.eltiempo.com/colombia/cali/se-armo-la-fiesta-mijitos-estas-son-las-leyendas-que-rodaran-por-cali-y-el-valle-del-cauca-en-el-giro-de-rigo-3597003",
      "domain": "El Tiempo",
      "seendate": "20261028T200522Z"
-    },
-    {
-     "title": "El Concejo de Cartagena inicia el trámite para derogar 360 acuerdos obsoletos y modernizar jurídicamente a la ciudad",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-concejo-de-cartagena-inicia-el-tramite-para-derogar-360-acuerdos-obsoletos-y-modernizar-juridicamente-a-la-ciudad-3596997",
-     "domain": "El Tiempo",
-     "seendate": "20261028T193832Z"
-    },
-    {
-     "title": "Cali florece como el epicentro de la biodiversidad: Caliorquídeas 2026 espera a más de 6.000 visitantes durante cuatro días",
-     "url": "https://www.eltiempo.com/colombia/cali/cali-florece-como-el-epicentro-de-la-biodiversidad-caliorquideas-2026-espera-a-mas-de-6-000-visitantes-durante-cuatro-dias-3596982",
-     "domain": "El Tiempo",
-     "seendate": "20261028T182652Z"
     }
    ]
   },
@@ -2049,6 +2019,24 @@
   "ECU": {
    "articles": [
     {
+     "title": "Cámara de Industrias de Durán se suma al programa Jóvenes en Acción",
+     "url": "https://eluniverso.com/politica/ejecutivo/camara-de-industrias-de-duran-se-suma-al-programa-jovenes-en-accion-nota/",
+     "domain": "El Universo",
+     "seendate": "20261028T231156Z"
+    },
+    {
+     "title": "Embajada de Estados Unidos alerta a sus ciudadanos por el toque de queda en cinco provincias de Ecuador",
+     "url": "https://eluniverso.com/politica/seguridad/embajada-de-estados-unidos-alerta-a-sus-ciudadanos-por-el-toque-de-queda-en-cinco-provincias-de-ecuador-nota/",
+     "domain": "El Universo",
+     "seendate": "20261028T224200Z"
+    },
+    {
+     "title": "Asamblea conoce informe sobre denuncias de tercerización e irregularidades en contratos de aseo de Cuenca",
+     "url": "https://eluniverso.com/politica/asamblea-nacional/asamblea-informe-denuncias-tercerizacion-contratos-aseo-cuenca-nota/",
+     "domain": "El Universo",
+     "seendate": "20261028T223634Z"
+    },
+    {
      "title": "José Serrano, Xavier Jordán, Ronny Aleaga y otros conocerán este 29 de noviembre si son o no llamados a juicio por el asesinato de Fernando Villavicencio",
      "url": "https://eluniverso.com/politica/expedientes/jose-serrano-xavier-jordan-ronny-aleaga-otros-conoceran-29-noviembre-si-son-no-llamados-juicio-asesinato-fernando-villavicencio-nota/",
      "domain": "El Universo",
@@ -2121,52 +2109,16 @@
      "seendate": "20261028T165953Z"
     },
     {
-     "title": "¿Cuándo serán las elecciones en Ecuador?",
-     "url": "https://eluniverso.com/politica/elecciones/cuando-seran-las-elecciones-en-ecuador-nota/",
-     "domain": "El Universo",
-     "seendate": "20261028T150743Z"
-    },
-    {
      "title": "Hijo, madre y hermano del alcalde de Vinces, entre los 16 detenidos por presunto lavado de activos",
      "url": "https://eluniverso.com/politica/seguridad/hijo-madre-y-hermano-del-alcalde-de-vinces-entre-los-16-detenidos-por-presunto-lavado-de-activos-nota/",
      "domain": "El Universo",
      "seendate": "20261028T150330Z"
     },
     {
-     "title": "¿Son días de feriados el sábado 31 de octubre y domingo 1 de noviembre?",
-     "url": "https://eluniverso.com/comunidad/ecuador/son-dias-de-feriados-el-sabado-31-de-octubre-y-domingo-1-de-noviembre-nota/",
-     "domain": "El Universo",
-     "seendate": "20261028T150000Z"
-    },
-    {
      "title": "Feriado en Manta 2026: agenda de conciertos, desfiles y eventos para planificar el viaje",
      "url": "https://eluniverso.com/comunidad/ecuador/fiestas-de-manta-2026-agenda-y-toque-de-queda-nota/",
      "domain": "El Universo",
      "seendate": "20261028T130000Z"
-    },
-    {
-     "title": "Detienen al alcalde de Vinces por una investigación por presunto lavado de activos",
-     "url": "https://eluniverso.com/politica/expedientes/detienen-al-alcalde-de-vinces-por-una-investigacion-por-presunto-lavado-de-activos-nota/",
-     "domain": "El Universo",
-     "seendate": "20261028T115229Z"
-    },
-    {
-     "title": "Pronóstico del clima para este miércoles, 28 de octubre: ¿en qué regiones se esperan lluvias y tormentas eléctricas?",
-     "url": "https://eluniverso.com/comunidad/ecuador/pronostico-del-clima-para-este-miercoles-28-de-octubre-en-que-regiones-se-esperan-lluvias-y-tormentas-electricas-nota/",
-     "domain": "El Universo",
-     "seendate": "20261028T032054Z"
-    },
-    {
-     "title": "Gestión de Riesgos reporta precipitaciones en 11 provincias, con mayor intensidad en Morona Santiago",
-     "url": "https://eluniverso.com/comunidad/ecuador/gestion-de-riesgos-reporta-precipitaciones-en-11-provincias-con-mayor-intensidad-en-morona-santiago-nota/",
-     "domain": "El Universo",
-     "seendate": "20261028T030718Z"
-    },
-    {
-     "title": "Detenido sospechoso del asesinato del abogado Leonardo Toledo en Guayaquil",
-     "url": "https://eluniverso.com/politica/seguridad/detienen-a-sospechoso-del-asesinato-del-abogado-leonardo-toledo-en-guayaquil-nota/",
-     "domain": "El Universo",
-     "seendate": "20261028T011042Z"
     },
     {
      "title": "Colapso del puente Tapalia obliga al cierre total de la vía E-15 norte en Rioverde",
@@ -2193,12 +2145,6 @@
      "seendate": "20261027T230847Z"
     },
     {
-     "title": "Investigación en Municipio de Cuenca salpica a alcalde suspendido Cristian Zamora, un hermano de un exministro del correísmo y asesores: este habría sido el rol de acusados",
-     "url": "https://eluniverso.com/politica/ejecutivo/investigacion-en-municipio-de-cuenca-salpica-a-alcalde-suspendido-cristian-zamora-un-hermano-de-un-exministro-del-correismo-y-asesores-este-habria-sido-el-rol-de-investigados-nota/",
-     "domain": "El Universo",
-     "seendate": "20261027T173250Z"
-    },
-    {
      "title": "Caso Laberinto: testigo protegido asegura que dos relacionados con empresas de Aquiles Alvarez llevaban las ‘coimas’ del Municipio de Guayaquil",
      "url": "https://eluniverso.com/politica/ejecutivo/caso-laberinto-testigo-protegido-asegura-que-dos-relacionados-con-empresas-de-alvarez-llevaban-las-coimas-del-municipio-de-guayaquil-nota/",
      "domain": "El Universo",
@@ -2209,34 +2155,40 @@
   "PER": {
    "articles": [
     {
+     "title": "FAP presenta el “Papacóptero” que trasladará al papa León XIV durante su visita al Perú",
+     "url": "https://elcomercio.pe/peru/fap-presenta-el-papacoptero-que-trasladara-al-papa-leon-xiv-durante-su-visita-al-peru-ultimas-apuesplan-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261028T230556Z"
+    },
+    {
+     "title": "Zonas Económicas Especiales Privadas: ¿qué falta para que se implementen en el país?",
+     "url": "https://elcomercio.pe/economia/peru/zonas-economicas-especiales-privadas-que-falta-para-que-se-implementen-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261028T230104Z"
+    },
+    {
+     "title": "Turrón de Doña Pepa: el postre que mueve millones y traspasa fronteras, ¿cómo se consume en el Perú y el mundo?",
+     "url": "https://elcomercio.pe/economia/peru/turron-de-dona-pepa-el-postre-que-mueve-millones-y-traspasa-fronteras-como-se-consume-en-el-peru-y-el-mundo-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261028T225248Z"
+    },
+    {
+     "title": "Lluvias en Perú por El Niño EN VIVO: qué regiones están en alerta y cuál es el pronóstico de Senamhi",
+     "url": "https://elcomercio.pe/peru/lluvias-en-peru-en-vivo-el-nino-pronostico-de-senamhi-lluvias-temperatura-y-regiones-en-alerta-al-norte-lbposting-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261028T224434Z"
+    },
+    {
      "title": "El cambio climático reduce las reservas de agua del Perú y pone a prueba su seguridad hídrica",
      "url": "https://elcomercio.pe/economia/peru/el-cambio-climatico-reduce-las-reservas-de-agua-del-peru-y-pone-a-prueba-su-seguridad-hidrica-l-ultimas-noticia/",
      "domain": "El Comercio",
      "seendate": "20261028T221238Z"
     },
     {
-     "title": "Lluvias en Perú por El Niño EN VIVO: qué regiones están en alerta y cuál es el pronóstico de Senamhi",
-     "url": "https://elcomercio.pe/peru/lluvias-en-peru-en-vivo-el-nino-pronostico-de-senamhi-lluvias-temperatura-y-regiones-en-alerta-al-norte-lbposting-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261028T220315Z"
-    },
-    {
      "title": "El dólar cierra en S/3,45 tras decisión de la Fed de mantener sus tasas de interés",
      "url": "https://elcomercio.pe/economia/peru/el-dolar-cierra-en-s345-tras-decision-de-la-fed-de-mantener-sus-tasas-de-interes-l-cotizacion-del-dolar-l-tipo-de-cambio-l-ultimas-noticia/",
      "domain": "El Comercio",
      "seendate": "20261028T212201Z"
-    },
-    {
-     "title": "Turrón de Doña Pepa: el postre que mueve millones y traspasa fronteras, ¿cómo se consume en el Perú y el mundo?",
-     "url": "https://elcomercio.pe/economia/peru/turron-de-dona-pepa-el-postre-que-mueve-millones-y-traspasa-fronteras-como-se-consume-en-el-peru-y-el-mundo-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261028T210640Z"
-    },
-    {
-     "title": "Temblor en Perú hoy, miércoles 28 de octubre: lugar del epicentro, magnitud y reporte según IGP",
-     "url": "https://elcomercio.pe/peru/sismos-hoy-en-peru-magnitud-del-temblor-epicentro-y-zonas-afectadas-segun-reporte-del-igp-tdpe-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261028T203627Z"
     },
     {
      "title": "¿Truco o trato? Cinco mitos y verdades sobre tu historial crediticio",
@@ -2965,6 +2917,72 @@
   "ARG": {
    "articles": [
     {
+     "title": "Santiago Caputo fue identificado por un control policial tras el operativo de huida de Bolsonaro",
+     "url": "https://www.lanacion.com.ar/politica/santiago-caputo-fue-identificado-por-un-control-policial-tras-el-operativo-de-huida-de-bolsonaro-nid28102026/",
+     "domain": "La Nación",
+     "seendate": "20261028T231355Z"
+    },
+    {
+     "title": "Presentan un libro sobre el rol del Congreso con la participación de Menem, Camaño y Negri",
+     "url": "https://www.lanacion.com.ar/politica/presentan-un-libro-sobre-el-rol-del-congreso-con-la-participacion-de-menem-camano-y-negri-nid28102026/",
+     "domain": "La Nación",
+     "seendate": "20261028T230419Z"
+    },
+    {
+     "title": "Por séptima vez: reeligieron a Diego Cifarelli como presidente de la Federación Argentina de la Industria Molinera",
+     "url": "https://www.lanacion.com.ar/economia/campo/por-septima-vez-reeligieron-a-diego-cifarelli-como-presidente-de-la-federacion-argentina-de-la-nid28102026/",
+     "domain": "La Nación",
+     "seendate": "20261028T230023Z"
+    },
+    {
+     "title": "Javier Milei y sus medidas, en vivo: la nueva revisión del acuerdo con el FMI y la salida de Bolsonaro desde Misiones",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-nueva-revision-del-acuerdo-con-el-fmi-y-la-salida-de-bolsonaro-nid28102026/",
+     "domain": "La Nación",
+     "seendate": "20261028T230000Z"
+    },
+    {
+     "title": "“No creo que lo entiendan”: Ricardo Arriazu explicó su visión sobre la compra de reservas y reclamó cambios en la política del BCRA",
+     "url": "https://www.lanacion.com.ar/economia/no-creo-que-lo-entiendan-ricardo-arriazu-explico-su-vision-sobre-la-compra-de-reservas-y-reclamo-nid28102026/",
+     "domain": "La Nación",
+     "seendate": "20261028T225841Z"
+    },
+    {
+     "title": "Encontraron el cuerpo de Nanci Godoy, la docente que estaba desaparecida en Corrientes",
+     "url": "https://www.lanacion.com.ar/seguridad/encontraron-el-cuerpo-de-nanci-godoy-la-docente-que-estaba-desaparecida-en-corrientes-nid28102026/",
+     "domain": "La Nación",
+     "seendate": "20261028T225258Z"
+    },
+    {
+     "title": "Senado: se demora el proyecto de inviolabilidad de la propiedad privada con el anexo de la ley de tierras",
+     "url": "https://www.lanacion.com.ar/politica/senado-avanza-proyecto-de-inviolabilidad-de-la-propiedad-privada-con-la-ratificacion-de-la-ley-de-nid28102026/",
+     "domain": "La Nación",
+     "seendate": "20261028T225053Z"
+    },
+    {
+     "title": "El estudio que las personas que fuman o fumaron no pueden dejar de hacer",
+     "url": "https://www.lanacion.com.ar/sociedad/el-estudio-que-las-personas-que-fuman-o-fumaron-no-pueden-dejar-de-hacer-nid27102026/",
+     "domain": "La Nación",
+     "seendate": "20261028T224700Z"
+    },
+    {
+     "title": "Las señales silenciosas del corazón que no hay que ignorar, según un cardiólogo",
+     "url": "https://www.lanacion.com.ar/sociedad/las-senales-silenciosas-del-corazon-que-no-hay-que-ignorar-segun-un-cardiologo-nid26102026/",
+     "domain": "La Nación",
+     "seendate": "20261028T224500Z"
+    },
+    {
+     "title": "Don Pascual, de 82 años, recuperó casi 60 chivas extraviadas gracias a un dron: “Ahí van todas”",
+     "url": "https://www.lanacion.com.ar/economia/campo/don-pascual-de-82-anos-recupero-casi-60-chivas-extraviadas-gracias-a-un-dron-ahi-van-todas-nid28102026/",
+     "domain": "La Nación",
+     "seendate": "20261028T224130Z"
+    },
+    {
+     "title": "YPF reportó un récord de producción y anunció cinco nuevos proyectos por una cifra millonaria",
+     "url": "https://www.lanacion.com.ar/economia/ypf-reporto-un-record-de-produccion-y-anuncio-cinco-nuevos-proyectos-por-una-cifra-millonaria-nid28102026/",
+     "domain": "La Nación",
+     "seendate": "20261028T224122Z"
+    },
+    {
      "title": "Por qué cada vez hay más infartos en personas jóvenes, según un cardiólogo",
      "url": "https://www.lanacion.com.ar/sociedad/por-que-cada-vez-hay-mas-infartos-en-personas-jovenes-segun-un-cardiologo-nid28102026/",
      "domain": "La Nación",
@@ -2975,12 +2993,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-sobre-la-finitud-ser-humano-es-vivir-con-el-sentimiento-tragico-de-la-vida-nid28102026/",
      "domain": "La Nación",
      "seendate": "20261028T223100Z"
-    },
-    {
-     "title": "Javier Milei y sus medidas, en vivo: la nueva revisión del acuerdo con el FMI y la salida de Bolsonaro desde Misiones",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-nueva-revision-del-acuerdo-con-el-fmi-y-la-salida-de-bolsonaro-nid28102026/",
-     "domain": "La Nación",
-     "seendate": "20261028T223000Z"
     },
     {
      "title": "Avanza el Súper Niño: las recomendaciones de la Agencia Federal de Emergencias ante una alerta roja por lluvias y tormentas extremas",
@@ -3013,22 +3025,10 @@
      "seendate": "20261028T222500Z"
     },
     {
-     "title": "Senado. Avanza proyecto de inviolabilidad de la propiedad privada con la ratificación de la ley de tierras",
-     "url": "https://www.lanacion.com.ar/politica/senado-avanza-proyecto-de-inviolabilidad-de-la-propiedad-privada-con-la-ratificacion-de-la-ley-de-nid28102026/",
-     "domain": "La Nación",
-     "seendate": "20261028T222403Z"
-    },
-    {
      "title": "Causa $LIBRA: la Justicia posterga una decisión clave que puede determinar el cierre de la investigación",
      "url": "https://www.lanacion.com.ar/politica/causa-libra-la-justicia-posterga-una-decision-clave-que-puede-determinar-el-cierre-de-la-nid28102026/",
      "domain": "La Nación",
      "seendate": "20261028T221126Z"
-    },
-    {
-     "title": "Encontraron el cuerpo de Nanci Godoy, la docente que estaba desaparecida en Corrientes",
-     "url": "https://www.lanacion.com.ar/seguridad/encontraron-el-cuerpo-de-nanci-godoy-la-docente-que-estaba-desaparecida-en-corrientes-nid28102026/",
-     "domain": "La Nación",
-     "seendate": "20261028T220650Z"
     },
     {
      "title": "Dormir con luz hace que el cerebro crea que es de día, según especialistas en sueño",
@@ -3053,12 +3053,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/un-cardiologo-explico-que-es-lo-que-mas-temen-sus-pacientes-y-su-relacion-con-la-presion-arterial-nid26102026/",
      "domain": "La Nación",
      "seendate": "20261028T214500Z"
-    },
-    {
-     "title": "Don Pascual, de 82 años, recuperó casi 60 chivas extraviadas gracias a un dron: “Ahí van todas”",
-     "url": "https://www.lanacion.com.ar/economia/campo/don-pascual-de-82-anos-recupero-casi-60-chivas-extraviadas-gracias-a-un-dron-ahi-van-todas-nid28102026/",
-     "domain": "La Nación",
-     "seendate": "20261028T214022Z"
     },
     {
      "title": "La Justicia pospuso una semana las indagatorias de los hermanos Kovalivker en la causa de Andis",
@@ -3167,102 +3161,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/altura-de-los-rios-en-la-argentina-segun-prefectura-esta-es-la-situacion-y-los-niveles-de-alerta-hoy-nid27102026/",
      "domain": "La Nación",
      "seendate": "20261028T202915Z"
-    },
-    {
-     "title": "Jorge Tartaglione, médico, advirtió sobre el brote que se avecina por el avance del Súper Niño en la Argentina: “Es una tormenta perfecta con presencia de enfermedades”",
-     "url": "https://www.lanacion.com.ar/sociedad/un-medico-califico-al-super-nino-como-la-tormenta-perfecta-y-alerto-sobre-el-brote-que-se-avecina-nid27102026/",
-     "domain": "La Nación",
-     "seendate": "20261028T202855Z"
-    },
-    {
-     "title": "La frase de Mario Alonso Puig sobre el amor: “Cuanto mayor sea tu capacidad de amar, más feliz vas a ser”",
-     "url": "https://www.lanacion.com.ar/sociedad/la-frase-de-mario-alonso-puig-sobre-el-amor-cuanto-mayor-sea-tu-capacidad-de-amar-mas-feliz-vas-a-nid27102026/",
-     "domain": "La Nación",
-     "seendate": "20261028T202846Z"
-    },
-    {
-     "title": "La reflexión de Gabriel Rolón sobre la felicidad: “A veces uno desea más haber sido feliz que ser feliz”",
-     "url": "https://www.lanacion.com.ar/sociedad/la-reflexion-de-gabriel-rolon-sobre-la-felicidad-a-veces-uno-desea-mas-haber-sido-feliz-que-ser-nid27102026/",
-     "domain": "La Nación",
-     "seendate": "20261028T202842Z"
-    },
-    {
-     "title": "Tony Robbins, especialista en crecimiento personal: “La razón por la que sufrís: estás enfocado en vos”",
-     "url": "https://www.lanacion.com.ar/sociedad/tony-robbins-especialista-en-crecimiento-personal-la-razon-por-la-que-sufris-estas-enfocado-en-vos-nid28102026/",
-     "domain": "La Nación",
-     "seendate": "20261028T202833Z"
-    },
-    {
-     "title": "La frase del día de Séneca: “La suerte es donde confluyen la preparación y la oportunidad”",
-     "url": "https://www.lanacion.com.ar/sociedad/la-frase-del-dia-de-seneca-la-suerte-es-donde-confluyen-la-preparacion-y-la-oportunidad-nid28102026/",
-     "domain": "La Nación",
-     "seendate": "20261028T202821Z"
-    },
-    {
-     "title": "Las señales silenciosas del corazón que no hay que ignorar, según un cardiólogo",
-     "url": "https://www.lanacion.com.ar/sociedad/las-senales-silenciosas-del-corazon-que-no-hay-que-ignorar-segun-un-cardiologo-nid26102026/",
-     "domain": "La Nación",
-     "seendate": "20261028T202811Z"
-    },
-    {
-     "title": "El estudio que las personas que fuman o fumaron no pueden dejar de hacer",
-     "url": "https://www.lanacion.com.ar/sociedad/el-estudio-que-las-personas-que-fuman-o-fumaron-no-pueden-dejar-de-hacer-nid27102026/",
-     "domain": "La Nación",
-     "seendate": "20261028T202759Z"
-    },
-    {
-     "title": "Marta Beatriz Echaul, de 101 años, compartió su secreto de longevidad: “Nunca fui al gimnasio, no camino y como de todo”",
-     "url": "https://www.lanacion.com.ar/sociedad/marta-beatriz-echaul-de-101-anos-compartio-su-secreto-de-longevidad-nunca-fui-al-gimnasio-no-camino-nid26102026/",
-     "domain": "La Nación",
-     "seendate": "20261028T202752Z"
-    },
-    {
-     "title": "Gabriel Rolón, sobre la esperanza: “Puede dejarnos incapacitados de jugar un deseo a la espera de que ocurran cosas que son más mágicas que personales”",
-     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-sobre-la-esperanza-puede-dejarnos-incapacitados-de-jugar-un-deseo-a-la-espera-de-que-nid27102026/",
-     "domain": "La Nación",
-     "seendate": "20261028T202743Z"
-    },
-    {
-     "title": "Empresarios que compraron Mercedes-Benz en la Argentina se quedaron con 8652 hectáreas en La Pampa",
-     "url": "https://www.lanacion.com.ar/economia/campo/empresarios-que-compraron-mercedes-benz-en-la-argentina-y-un-accionista-se-quedaron-con-8652-nid28102026/",
-     "domain": "La Nación",
-     "seendate": "20261028T202545Z"
-    },
-    {
-     "title": "Según el Banco Provincia, el 36% de los trabajadores del sector privado se queda sin saldo en la cuenta sueldo el día 10 del mes",
-     "url": "https://www.lanacion.com.ar/economia/segun-el-banco-provincia-el-36-de-los-trabajadores-del-sector-privado-se-queda-sin-saldo-en-la-nid28102026/",
-     "domain": "La Nación",
-     "seendate": "20261028T202532Z"
-    },
-    {
-     "title": "Cuáles son las nuevas formas de medir el colesterol y cómo interpretar los resultados",
-     "url": "https://www.lanacion.com.ar/sociedad/cuales-son-las-nuevas-formas-de-medir-el-colesterol-y-como-interpretar-los-resultados-nid28102026/",
-     "domain": "La Nación",
-     "seendate": "20261028T202451Z"
-    },
-    {
-     "title": "Lo dice un informe: anticipan lluvias con focos de 200 milímetros en una región",
-     "url": "https://www.lanacion.com.ar/economia/campo/lo-dice-un-informe-anticipan-lluvias-con-focos-de-200-milimetros-en-una-region-nid28102026/",
-     "domain": "La Nación",
-     "seendate": "20261028T202430Z"
-    },
-    {
-     "title": "Cosecha récord: el combustible y los fletes desafían el negocio agrícola",
-     "url": "https://www.lanacion.com.ar/economia/campo/cosecha-record-el-combustible-y-los-fletes-desafian-el-negocio-agricola-nid28102026/",
-     "domain": "La Nación",
-     "seendate": "20261028T202212Z"
-    },
-    {
-     "title": "El Consejo de la Magistratura posterga una definición sobre las denuncias contra un camarista cordobés",
-     "url": "https://www.lanacion.com.ar/politica/el-consejo-de-la-magistratura-posterga-una-definicion-sobre-las-denuncias-contra-un-camarista-nid28102026/",
-     "domain": "La Nación",
-     "seendate": "20261028T200833Z"
-    },
-    {
-     "title": "Molinos se queda con Ayudín y acelera su expansión más allá de los alimentos",
-     "url": "https://www.lanacion.com.ar/economia/negocios/molinos-se-queda-con-ayudin-y-acelera-su-expansion-mas-alla-de-los-alimentos-nid28102026/",
-     "domain": "La Nación",
-     "seendate": "20261028T200710Z"
     }
    ]
   },
@@ -3675,30 +3573,6 @@
      "seendate": "20261028T203454Z"
     },
     {
-     "title": "Incendio en local abandonado en Lambaré: bomberos aseguran que fue intencional",
-     "url": "https://www.abc.com.py/nacionales/2026/10/28/incendio-en-local-abandonado-en-lambare-bomberos-aseguran-que-fue-intencional/",
-     "domain": "ABC Color",
-     "seendate": "20261028T201838Z"
-    },
-    {
-     "title": "Corte remite a Fiscalía descubrimientos sobre esquema de “blanqueo” de vehículos robados en Brasil",
-     "url": "https://www.abc.com.py/nacionales/2026/10/28/corte-remite-a-fiscalia-descubrimientos-sobre-esquema-de-blanqueo-de-vehiculos-robados-en-brasil/",
-     "domain": "ABC Color",
-     "seendate": "20261028T194133Z"
-    },
-    {
-     "title": "Antigua estación de trenes de Tebicuary se cae a pedazos en medio del abandono",
-     "url": "https://www.abc.com.py/nacionales/2026/10/28/antigua-estacion-de-trenes-de-tebicuary-se-cae-a-pedazos-en-medio-del-abandono/",
-     "domain": "ABC Color",
-     "seendate": "20261028T193336Z"
-    },
-    {
-     "title": "Títulos falsos: estos son los fiscales que deberán investigar 138.000 diplomas sospechosos detectados por Aneaes",
-     "url": "https://www.abc.com.py/nacionales/2026/10/28/titulos-falsos-estos-son-los-fiscales-que-deberan-investigar-138000-diplomas-sospechosos-detectados-por-la-aneaes/",
-     "domain": "ABC Color",
-     "seendate": "20261028T192828Z"
-    },
-    {
      "title": "Dictan la prisión de empresario imputado por supuesta millonaria estafa inmobiliaria",
      "url": "https://www.abc.com.py/nacionales/2026/10/28/dictan-la-prision-de-empresario-imputado-por-supuesta-millonaria-estafa-inmobiliaria/",
      "domain": "ABC Color",
@@ -3718,10 +3592,178 @@
   "BRA": {
    "articles": [
     {
-     "title": "TSE presenteia estudante de MG com broche da urna após carta",
-     "url": "https://www.otempo.com.br/eleicoes/2026/2026/10/22/estudante-escreve-carta-pede-broche-de-urna-eletronica-e-e-presentado-pelo-tse",
-     "domain": "otempo.com.br",
-     "seendate": "20261023T011500Z"
+     "title": "Alcolumbre se recusa a comentar carta de Flávio e diz que trabalha pela 'pacificação do Brasil'",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/28/alcolumbre-se-recusa-a-comentar-carta-de-flavio-e-diz-que-trabalha-pela-pacificacao-do-brasil.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261028T230449Z"
+    },
+    {
+     "title": "Nunes defende resultado das urnas e afirma que 'cabe à oposição fiscalizar' governo Lula",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/28/nunes-defende-resultado-das-urnas-e-afirma-que-cabe-a-oposicao-fiscalizar-governo-lula.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261028T225947Z"
+    },
+    {
+     "title": "Ministros do STF e TSE veem 'vexame' em carta de Flávio e defendem não alimentar crise artificial",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/28/ministros-do-stf-e-tse-veem-vexame-em-carta-de-flavio-e-defendem-nao-alimentar-crise-artificial.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261028T225345Z"
+    },
+    {
+     "title": "Após carta de teor golpista de Flávio, presidente do TSE defende resultado das urnas e diz que analisará contestações",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/28/apos-carta-de-teor-golpista-de-flavio-presidente-do-tse-defende-resultado-das-urnas-e-diz-que-analisara-contestacoes.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261028T222321Z"
+    },
+    {
+     "title": "Marinho diz que 'não há prova' de fraude eleitoral e que carta em que Flávio se autodenomina 'presidente eleito' foi 'erro de confecção'",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/28/marinho-diz-que-carta-em-que-flavio-se-autodenomina-presidente-eleito-foi-erro-de-confeccao-e-diz-que-senador-pode-exercer-lideranca-da-oposicao-dos-eua.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261028T221921Z"
+    },
+    {
+     "title": "MP pede condenação de Renato Cariani por tráfico de drogas e lavagem de dinheiro",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/28/mp-pede-condenacao-de-renato-cariani-por-trafico-de-drogas-e-lavagem-de-dinheiro.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261028T221715Z"
+    },
+    {
+     "title": "Partidos e Tarcísio defendem resultado das urnas que deu vitória a Lula após carta golpista de Flávio",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/28/partidos-defendem-resultado-das-urnas-que-deu-vitoria-a-lula-apos-carta-golpista-de-flavio.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261028T215550Z"
+    },
+    {
+     "title": "Toffoli rejeita ação de Flávio Bolsonaro contra Janones por ofensas nas redes sociais",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/28/toffoli-rejeita-acao-de-flavio-bolsonaro-contra-janones-por-ofensas-nas-redes-sociais.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261028T214923Z"
+    },
+    {
+     "title": "Partidos de centro reagem a carta de Flávio Bolsonaro nos EUA e reafirmam legitimidade da vitória de Lula",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/28/partidos-de-centro-reagem-a-carta-de-flavio-bolsonaro-nos-eua-e-reafirmam-legitimidade-da-vitoria-de-lula.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261028T214518Z"
+    },
+    {
+     "title": "Tarcísio diz 'entender indignação' de Flávio após carta golpista, mas cobra 'respeito ao resultado' e 'responsabilidade'",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/28/tarcisio-afirma-que-caminho-e-respeitar-o-resultado-das-urnas-e-seguir-em-frente.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261028T213237Z"
+    },
+    {
+     "title": "Em meio à crise provocada por fuga de Flávio, Moraes autoriza visita de Valdemar Costa Neto a Bolsonaro",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/28/em-meio-a-crise-provocada-por-fuga-de-flavio-moraes-autoriza-visita-de-valdemar-costa-neto-a-bolsonaro.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261028T212403Z"
+    },
+    {
+     "title": "'Brazil', 'verdadeiro presidente', 'líder': as mudanças nas três cartas golpistas de Flávio em menos de uma hora",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/28/brazil-verdadeiro-presidente-lider-as-mudancas-nas-tres-cartas-golpistas-de-flavio-em-menos-de-uma-hora.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261028T211416Z"
+    },
+    {
+     "title": "Trump diz que não vai se 'envolver' após Flávio afirmar em carta golpista que é o 'verdadeiro presidente' do Brasil",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/28/trump-diz-que-nao-vai-se-envolver-apos-flavio-afirmar-em-carta-golpista-que-e-o-verdadeiro-presidente-do-brasil.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261028T211350Z"
+    },
+    {
+     "title": "Como Flávio passou na fronteira? Quem o ajudou? Ele pode ser extraditado? Veja perguntas e respostas sobre a fuga do senador para os EUA",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/28/como-flavio-passou-na-fronteira-quem-o-ajudou-ele-pode-ser-extraditado-veja-perguntas-e-respostas-sobre-a-fuga-de-senador-para-os-eua.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261028T203739Z"
+    },
+    {
+     "title": "'Estados Unidos do Brazil': carta na qual Flávio se autodeclarou presidente usou brasão nacional substituído na ditadura",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/28/estados-unidos-do-brasil-carta-na-qual-flavio-se-diz-presidente-eleito-usou-brasao-nacional-substituido-na-ditadura.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261028T202709Z"
+    },
+    {
+     "title": "Em carta de teor golpista, Flávio primeiro se declara 'presidente eleito do Brasil' e depois troca para ‘líder’",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/28/flavio-bolsonaro-divulga-carta-com-teor-golpista-na-qual-se-autoproclama-presidente-eleito-do-brasil.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261028T202404Z"
+    },
+    {
+     "title": "Fuga de Flávio Bolsonaro para os EUA é criticada por democratas, que miram Trump às vésperas das eleições",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/28/fuga-de-flavio-bolsonaro-para-os-eua-e-criticada-por-democratas-que-miram-trump-as-vesperas-das-eleicoes.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261028T202340Z"
+    },
+    {
+     "title": "Para aliados, Tarcísio se fortalece como liderança da direita com fuga de Flávio, mas governador ainda calcula reação",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/28/para-aliados-tarcisio-se-fortalece-como-lideranca-da-direita-com-fuga-de-flavio-mas-governador-ainda-calcula-reacao.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261028T202137Z"
+    },
+    {
+     "title": "Com castanha-do-pará e palmito-juçara, governo atualiza lista de espécies da flora ameaçadas de extinção",
+     "url": "https://oglobo.globo.com/brasil/meio-ambiente/noticia/2026/10/28/com-castanha-do-para-e-palmito-jucara-governo-atualiza-lista-de-especies-da-flora-ameacadas-de-extincao.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261028T200928Z"
+    },
+    {
+     "title": "Líderes do PL no Congresso citam 'total apoio' a Flávio após fuga para os EUA: 'Seguiremos firmes ao lado do senador'",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/28/lideres-do-pl-no-congresso-citam-total-apoio-a-flavio-apos-fuga-para-os-eua-seguiremos-firmes-ao-lado-do-senador.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261028T195033Z"
+    },
+    {
+     "title": "Prefeitura de Florianópolis revolta pais ao fechar creche e transferir alunos para espaço de onde menina de 3 anos fugiu",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/28/prefeitura-de-florianopolis-revolta-pais-ao-fechar-creche-e-transferir-alunos-para-espaco-de-onde-menina-de-3-anos-fugiu.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261028T192855Z"
+    },
+    {
+     "title": "Caso Master: PF indicia Vorcaro e ex-presidente do BRB e pede prorrogação do inquérito ao STF",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/28/caso-master-pf-indicia-vorcaro-e-ex-presidente-do-brb-e-pede-prorrogacao-do-inquerito-ao-stf.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261028T192253Z"
+    },
+    {
+     "title": "Flávio foi admitido nos Estados Unidos por razões humanitárias, mostra registro de entrada",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/28/flavio-foi-admitido-nos-estados-unidos-por-razoes-humanitarias-mostra-registro-de-entrada.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261028T185942Z"
+    },
+    {
+     "title": "Alcolumbre tenta acordo entre Congresso, governo e STF por ‘pacificação’ e avalia aceno a Bolsonaro",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/28/alcolumbre-tenta-acordo-entre-congresso-governo-e-stf-por-pacificacao-e-avalia-aceno-a-bolsonaro.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261028T184906Z"
+    },
+    {
+     "title": "Flávio Bolsonaro pode perder o cargo de senador após fuga para os EUA? Entenda",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/28/flavio-bolsonaro-pode-perder-o-cargo-de-senador-apos-fuga-para-os-eua-entenda.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261028T183655Z"
+    },
+    {
+     "title": "Nunes Marques dá dez dias para PGR se manifestar sobre pedido de revisão da condenação de Bolsonaro",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/28/nunes-marques-da-dez-dias-para-pgr-se-manifestar-sobre-pedido-de-revisao-da-condenacao-de-bolsonaro.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261028T182013Z"
+    },
+    {
+     "title": "Massacre do Rio Abacaxis: Execução, corpos esquartejados e impunidade levam barbárie estatal no Amazonas à Corte de Direitos Humanos",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/28/massacre-do-rio-abacaxis-execucao-corpos-esquartejados-e-impunidade-levam-barbarie-estatal-no-amazonas-a-corte-de-direitos-humanos.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261028T181842Z"
+    },
+    {
+     "title": "Engenheiro morre após espancamento em ato pró-Lula, e família doa órgãos: 'Quatro vidas foram salvas'",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/28/engenheiro-morre-apos-espancamento-em-ato-pro-lula-e-familia-doa-orgaos-quatro-vidas-foram-salvas.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261028T175329Z"
+    },
+    {
+     "title": "Oposição a Milei na Argentina pede que presidente esclareça sobre a passagem de Flávio Bolsonaro no país",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/28/oposicao-a-milei-na-argentina-pede-que-presidente-esclareca-sobre-a-passagem-de-flavio-bolsonaro-no-pais.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261028T175100Z"
     }
    ]
   }
