@@ -1,19 +1,19 @@
 {
- "updated": "2026-10-29T15:52:07+00:00",
+ "updated": "2026-10-29T16:49:26+00:00",
  "countries": {
   "ESP": {
    "articles": [
+    {
+     "title": "Accidente de trenes en Toledo: última hora y reacciones en directo | El Rey: “Como sociedad volvemos a sufrir un durísimo golpe y habrá que adoptar medidas para que no vuelva a suceder”",
+     "url": "https://elpais.com/espana/2026-10-29/ultima-hora-y-reacciones-tras-el-accidente-de-trenes-de-urda-toledo-en-directo.html",
+     "domain": "El País",
+     "seendate": "20261029T163643Z"
+    },
     {
      "title": "Sánchez asegura que se “reforzará la seguridad” ferroviaria para evitar nuevos accidentes",
      "url": "https://elpais.com/espana/2026-10-29/sanchez-asegura-que-se-reforzara-la-seguridad-ferroviaria-para-evitar-nuevos-accidentes.html",
      "domain": "El País",
      "seendate": "20261029T154223Z"
-    },
-    {
-     "title": "Accidente de trenes en Toledo: última hora y reacciones en directo | Asciende a 69 el número de fallecidos en el accidente ferroviario de Urda",
-     "url": "https://elpais.com/espana/2026-10-29/ultima-hora-y-reacciones-tras-el-accidente-de-trenes-de-urda-toledo-en-directo.html",
-     "domain": "El País",
-     "seendate": "20261029T153832Z"
     },
     {
      "title": "Sin noticias de José San Emeterio, el hombre que viajaba con ‘Trece’, el perro rescatado del accidente",
@@ -70,7 +70,7 @@
      "seendate": "20261029T100705Z"
     },
     {
-     "title": "La tragedia da un vuelco al guion de la campaña",
+     "title": "La tragedia reescribe el guion de la campaña",
      "url": "https://elpais.com/espana/2026-10-29/la-tragedia-da-un-vuelco-al-guion-de-la-campana.html",
      "domain": "El País",
      "seendate": "20261029T094758Z"
@@ -194,7 +194,55 @@
   "MEX": {
    "articles": [
     {
-     "title": "Sheinbaum: Guadalupe Taddei traicionó la confianza del pueblo de México",
+     "title": "Sheinbaum señala fraudes electorales en la historia de México pese a autonomía del INE; acusa irregularidades en elección de Gortari",
+     "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-senala-fraudes-electorales-en-la-historia-de-mexico-pese-a-autonomia-del-ine-acusa-irregularidades-en-eleccion-de-gortari/",
+     "domain": "El Universal",
+     "seendate": "20261029T164142Z"
+    },
+    {
+     "title": "Si no hay consenso, habrá insaculación: Pablo Gómez sobre elegir a presidenta del INE; quizá eso sea lo más conveniente, dice",
+     "url": "https://www.eluniversal.com.mx/nacion/si-no-hay-consenso-habra-insaculacion-pablo-gomez-sobre-elegir-a-presidenta-del-ine-quiza-eso-sea-lo-mas-conveniente-dice/",
+     "domain": "El Universal",
+     "seendate": "20261029T163901Z"
+    },
+    {
+     "title": "Despliegan 4 mil 302 policías para el Gran Premio de México 2026; habrá operativo vial y de seguridad",
+     "url": "https://www.eluniversal.com.mx/metropoli/despliegan-4-mil-302-policias-para-el-gran-premio-de-mexico-2026-habra-operativo-vial-y-de-seguridad/",
+     "domain": "El Universal",
+     "seendate": "20261029T162421Z"
+    },
+    {
+     "title": "Fallece interno dentro del centro penitenciario de Culiacán; es el cuarto en cuatro días en el estado",
+     "url": "https://www.eluniversal.com.mx/estados/fallece-interno-dentro-del-centro-penitenciario-de-culiacan-es-el-cuarto-en-cuatro-dias-en-el-estado/",
+     "domain": "El Universal",
+     "seendate": "20261029T162035Z"
+    },
+    {
+     "title": "Comienzan tómbolas para ganar Viviendas del Bienestar; en Michoacán beneficia a 448 familias",
+     "url": "https://www.eluniversal.com.mx/nacion/comienzan-tombolas-para-ganar-viviendas-del-bienestar-en-michoacan-beneficia-a-448-familias/",
+     "domain": "El Universal",
+     "seendate": "20261029T161242Z"
+    },
+    {
+     "title": "Sheinbaum alista informe del Plan Michoacán tras un año del asesinato de Carlos Manzo; prioriza seguridad y programas sociales",
+     "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-alista-informe-del-plan-michoacan-tras-un-ano-del-asesinato-de-carlos-manzo-prioriza-seguridad-y-programas-sociales/",
+     "domain": "El Universal",
+     "seendate": "20261029T160535Z"
+    },
+    {
+     "title": "Sepelio de Cuauhtémoc Cárdenas será privado; Mi padre fue un personaje decisivo en la historia de México: Lázaro Cárdenas Batel",
+     "url": "https://www.eluniversal.com.mx/nacion/sepelio-de-cuauhtemoc-cardenas-sera-privado-mi-padre-fue-un-personaje-decisivo-en-la-historia-de-mexico-lazaro-cardenas-batel/",
+     "domain": "El Universal",
+     "seendate": "20261029T160258Z"
+    },
+    {
+     "title": "Hallan trozo de salami con una pastilla azul en la Condesa; SSC investiga el caso",
+     "url": "https://www.eluniversal.com.mx/metropoli/hallan-trozo-de-salami-con-una-pastilla-azul-en-la-condesa-ssc-investiga-el-caso/",
+     "domain": "El Universal",
+     "seendate": "20261029T154144Z"
+    },
+    {
+     "title": "Sheinbaum: Guadalupe Taddei traicionó la confianza del pueblo de México; apuesta por fortalecimiento de Talleres Gráficos",
      "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-guadalupe-taddei-traiciono-la-confianza-del-pueblo-de-mexico/",
      "domain": "El Universal",
      "seendate": "20261029T153012Z"
@@ -354,18 +402,6 @@
      "url": "https://www.eluniversal.com.mx/nacion/firmas-de-clan-taddei-fingian-competencia/",
      "domain": "El Universal",
      "seendate": "20261029T090000Z"
-    },
-    {
-     "title": "Peregrinos llegan a Villanueva, Zacatecas para venerar a San Judas Tadeo; carretera se convierte en manto de creyentes",
-     "url": "https://www.eluniversal.com.mx/estados/peregrinos-llegan-a-villanueva-zacatecas-para-venerar-a-san-judas-tadeo-carretera-se-convierte-en-manto-de-creyentes/",
-     "domain": "El Universal",
-     "seendate": "20261029T065704Z"
-    },
-    {
-     "title": "De la campaña presidencial a Pemex; así evolucionó la relación entre Sheinbaum y Cuauhtémoc Cárdenas",
-     "url": "https://www.eluniversal.com.mx/nacion/de-la-campana-presidencial-a-pemex-asi-evoluciono-la-relacion-entre-sheinbaum-y-cuauhtemoc-cardenas/",
-     "domain": "El Universal",
-     "seendate": "20261029T052109Z"
     },
     {
      "title": "Gobernadores y políticos locales lamentan fallecimiento de Cuauhtémoc Cárdenas; \"su ejemplo y legado forman parte de la historia política del país\"",
@@ -1084,6 +1120,18 @@
   "CRI": {
    "articles": [
     {
+     "title": "Aresep aprueba aumento de hasta ¢89 por litro en combustibles: gasolina regular costará más que la súper",
+     "url": "https://www.nacion.com/el-pais/aresep-aprueba-aumento-de-hasta-89-por-litro-en/B2JSJO7YHZEP3IP7O7H5HTLVPE/story/",
+     "domain": "La Nación",
+     "seendate": "20261029T155727Z"
+    },
+    {
+     "title": "Cruz Roja y Guardacostas buscan por agua y tierra a persona desaparecida desde el sábado en Parrita",
+     "url": "https://www.nacion.com/sucesos/cruz-roja-y-guardacostas-buscan-por-agua-y-tierra/YVJ56SL7TZF65CZSPG7OP4DSP4/story/",
+     "domain": "La Nación",
+     "seendate": "20261029T155619Z"
+    },
+    {
      "title": "Así fue la reunión de Laura Fernández con el papa León XIV en el Vaticano: vea las fotos y video",
      "url": "https://www.nacion.com/politica/asi-fue-la-reunion-de-laura-fernandez-con-el-papa/E3Q6JDA4FJGMLLSZ6VGIDZGGXE/story/",
      "domain": "La Nación",
@@ -1096,7 +1144,7 @@
      "seendate": "20261029T142627Z"
     },
     {
-     "title": "Detenido José Daniel Marenco como sospechoso de amenazar al Ministro de Cultura",
+     "title": "Detenido José Daniel Marenco como sospechoso de amenazar al Ministro de Cultura: ‘Yo no olvido cómo destruyeron mi carrera en el Ministerio de Cultura, les tengo sangre en el ojo’",
      "url": "https://www.nacion.com/sucesos/oij-y-fiscalia-detiene-a-hombre-de-apellido/Q54PFXKSSVFWJI2SN3PTZ5J2X4/story/",
      "domain": "La Nación",
      "seendate": "20261029T141749Z"
@@ -1196,17 +1244,23 @@
      "url": "https://www.nacion.com/el-pais/cortes-de-luz-del-ice-afectaran-zonas-de-alajuela/PNQUWLRPY5HYHI6DBQQEWQNVMY/story/",
      "domain": "La Nación",
      "seendate": "20261028T205018Z"
-    },
-    {
-     "title": "Bus accidentado en Sarapiquí no tenía autorización para operar en esa ruta, confirma CTP",
-     "url": "https://www.nacion.com/sucesos/bus-accidentado-en-sarapiqui-no-tenia-autorizacion/BDEQGFDZLJDVBC2UCNOL3WA764/story/",
-     "domain": "La Nación",
-     "seendate": "20261028T185007Z"
     }
    ]
   },
   "PAN": {
    "articles": [
+    {
+     "title": "Delcy Rodríguez anuncia que habrá elecciones en Venezuela con autoridad electoral renovada, pero no fija fecha",
+     "url": "https://www.prensa.com/politica/delcy-rodriguez-anuncia-que-habra-elecciones-en-venezuela-con-autoridad-electoral-renovada-pero-no-fija-fecha/",
+     "domain": "La Prensa",
+     "seendate": "20261029T161906Z"
+    },
+    {
+     "title": "La RePregunta - 29 de octubre: terremoto, contrataciones públicas y presupuesto 2027",
+     "url": "https://www.prensa.com/politica/la-repregunta-29-de-octubre-terremoto-contrataciones-publicas-y-presupuesto-2027/",
+     "domain": "La Prensa",
+     "seendate": "20261029T160645Z"
+    },
     {
      "title": "Maratónica sesión: tras más de 16 horas, el segundo debate del presupuesto se retoma este jueves",
      "url": "https://www.prensa.com/politica/el-presupuesto-de-los-reclamos-diputados-piden-resultados-chapman-defiende-el-gasto/",
@@ -1326,6 +1380,12 @@
   "CUB": {
    "articles": [
     {
+     "title": "Los petroleros cargados de diésel ruso podrían ir a Cuba en lugar de Estados Unidos",
+     "url": "https://www.14ymedio.com/cuba/petroleros-cargados-diesel-ruso-cuba_1_1132575.html",
+     "domain": "14ymedio",
+     "seendate": "20261029T155350Z"
+    },
+    {
      "title": "La Habana Apuntalada, entre las ruinas y los millones destinados a su restauración",
      "url": "https://www.14ymedio.com/cuba/habana-apuntalada-ruinas-millones-destinados_1_1132564.html",
      "domain": "14ymedio",
@@ -1392,12 +1452,6 @@
      "seendate": "20261027T155736Z"
     },
     {
-     "title": "El 'ferry' de la Isla de la Juventud vuelve a averiarse y se espera a expertos extranjeros para revisarlo",
-     "url": "https://www.14ymedio.com/cuba/ferry-isla-juventud-vuelve-averiarse_1_1132462.html",
-     "domain": "14ymedio",
-     "seendate": "20261026T210941Z"
-    },
-    {
      "title": "La oscuridad y los robos espantan a los visitantes del parque Lennon, en La Habana",
      "url": "https://www.14ymedio.com/cuba/oscuridad-robos-espantan-visitantes-parque_1_1132458.html",
      "domain": "14ymedio",
@@ -1423,16 +1477,46 @@
   "COL": {
    "articles": [
     {
-     "title": "Las estrategias que usa el Colegio Divino Niño en Bucaramanga para ser el mejor en Colombia en las pruebas Saber: ya había estado en el primer puesto",
-     "url": "https://www.eltiempo.com/colombia/santander/las-estrategias-que-usa-el-colegio-divino-nino-en-bucaramanga-para-ser-el-mejor-en-colombia-en-las-pruebas-saber-ya-habia-estado-en-el-primer-puesto-3597154",
+     "title": "Hermana de Kbeto Zuleta entregó nuevo reporte de salud del cantante tras grave accidente que lo mantiene internado en UCI: 'Signos vitales favorables'",
+     "url": "https://www.eltiempo.com/colombia/barranquilla/hermana-de-kbeto-zuleta-entrego-nuevo-reporte-de-salud-del-cantante-tras-grave-accidente-que-lo-mantiene-internado-en-uci-signos-vitales-favorables-3597195",
      "domain": "El Tiempo",
-     "seendate": "20261029T152008Z"
+     "seendate": "20261029T162129Z"
+    },
+    {
+     "title": "Rodadas y caravanas de Halloween quedan prohibidas en Barranquilla: controles y vigilancia reforzada con 1.200 policías en las calles hasta diciembre",
+     "url": "https://www.eltiempo.com/colombia/barranquilla/rodadas-y-caravanas-de-halloween-quedan-prohibidas-en-barranquilla-controles-y-vigilancia-reforzada-con-1-200-policias-en-las-calles-hasta-diciembre-3597205",
+     "domain": "El Tiempo",
+     "seendate": "20261029T162000Z"
+    },
+    {
+     "title": "Violencia en el Cesar: Zarwawiko Torres, cabildo gobernador del pueblo arhuaco, salió ileso de un atentado criminal en zona rural de Valledupar",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/violencia-en-el-cesar-zarwawiko-torres-cabildo-gobernador-del-pueblo-arhuaco-salio-ileso-de-un-atentado-criminal-en-zona-rural-de-valledupar-3597193",
+     "domain": "El Tiempo",
+     "seendate": "20261029T161602Z"
+    },
+    {
+     "title": "Lanzan concurso virtual de disfraces de mascotas; fundación busca darles una nueva oportunidad a perros y gatos que esperan un hogar",
+     "url": "https://www.eltiempo.com/colombia/lanzan-concurso-virtual-de-disfraces-de-mascotas-fundacion-busca-darles-una-nueva-oportunidad-a-perros-y-gatos-que-esperan-un-hogar-3597189",
+     "domain": "El Tiempo",
+     "seendate": "20261029T161103Z"
     },
     {
      "title": "Otra tragedia en Cholón, el balneario turístico de Cartagena, enluta a una familia antioqueña: joven de 18 años murió tras colisión de motonaves",
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/otra-tragedia-en-cholon-el-balneario-turistico-de-cartagena-enluta-a-una-familia-antioquena-joven-de-18-anos-murio-tras-colision-de-motonaves-3597162",
      "domain": "El Tiempo",
-     "seendate": "20261029T151625Z"
+     "seendate": "20261029T160719Z"
+    },
+    {
+     "title": "Más de $12 mil millones en multas: la SIC destapa el 'cartel de la contratación' pública en Medellín durante la Alcaldía de Daniel Quintero",
+     "url": "https://www.eltiempo.com/colombia/medellin/mas-de-12-mil-millones-en-multas-la-sic-destapa-el-cartel-de-la-contratacion-publica-en-medellin-durante-la-alcaldia-de-daniel-quintero-3597198",
+     "domain": "El Tiempo",
+     "seendate": "20261029T160700Z"
+    },
+    {
+     "title": "El último rastro de Lizeth Alejandra Castaño y las hipótesis que toman fuerza tras su secuestro en la panadería de su papá en Guacarí, Valle",
+     "url": "https://www.eltiempo.com/colombia/cali/el-ultimo-rastro-de-lizeth-alejandra-castano-y-las-hipotesis-que-toman-fuerza-tras-su-secuestro-en-la-panaderia-de-su-papa-en-guacari-valle-3597172",
+     "domain": "El Tiempo",
+     "seendate": "20261029T154907Z"
     },
     {
      "title": "Donante anónimo aportó $ 75 millones para cumplir el sueño de una familia que quedó sin hogar tras el terremoto en Armenia: 'Quiero ayudar'",
@@ -1451,36 +1535,6 @@
      "url": "https://www.eltiempo.com/colombia/cali/video-de-encapuchados-que-lanzan-amenazas-de-muerte-en-una-supuesta-limpieza-social-genera-alerta-en-popayan-y-corredores-viales-del-cauca-3597173",
      "domain": "El Tiempo",
      "seendate": "20261029T150058Z"
-    },
-    {
-     "title": "Polémica en El Poblado por factura de más de $4 millones por 52 shots en Parque Lleras: esto respondió el establecimiento",
-     "url": "https://www.eltiempo.com/colombia/medellin/polemica-en-el-poblado-por-factura-de-mas-de-4-millones-por-52-shots-en-parque-lleras-esto-respondio-el-establecimiento-3597170",
-     "domain": "El Tiempo",
-     "seendate": "20261029T144248Z"
-    },
-    {
-     "title": "Tras dos años de espera se da inicio al tramo final de la Troncal Oriental del MIO en Cali con 70 % de dineros del Gobierno: ¿quién es el contratista?",
-     "url": "https://www.eltiempo.com/colombia/cali/tras-dos-anos-de-espera-se-da-inicio-al-tramo-final-de-la-troncal-oriental-del-mio-en-cali-con-70-de-dineros-del-gobierno-quien-es-el-contratista-3597131",
-     "domain": "El Tiempo",
-     "seendate": "20261029T131050Z"
-    },
-    {
-     "title": "Por poco otra tragedia en Tasajera, Magdalena: un camión cargado de guineo estalló mientras habitantes retiraban su carga; esto se sabe",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/por-poco-otra-tragedia-en-tasajera-magdalena-un-camion-cargado-de-guineo-estallo-mientras-habitantes-retiraban-su-carga-esto-se-sabe-3597141",
-     "domain": "El Tiempo",
-     "seendate": "20261029T130728Z"
-    },
-    {
-     "title": "Los dos mexicanos capturados en Barranquilla que, según la Policía, coordinaban envíos de toneladas de cocaína a EE. UU. y Europa",
-     "url": "https://www.eltiempo.com/colombia/barranquilla/los-dos-mexicanos-capturados-en-barranquilla-que-segun-la-policia-coordinaban-envios-de-toneladas-de-cocaina-a-ee-uu-y-europa-3597134",
-     "domain": "El Tiempo",
-     "seendate": "20261029T124401Z"
-    },
-    {
-     "title": "Investigan intento de feminicidio en Valledupar: el señalado agresor habría atacado a la víctima con arma blanca en plena calle",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/investigan-intento-de-feminicidio-en-valledupar-senalado-agresor-habria-atacado-a-la-victima-con-arma-blanca-en-plena-calle-3597125",
-     "domain": "El Tiempo",
-     "seendate": "20261029T123811Z"
     }
    ]
   },
@@ -1881,7 +1935,7 @@
      "seendate": "20261029T111318Z"
     },
     {
-     "title": "Pronóstico del clima para este jueves 29 de octubre: tormentas eléctricas en la Costa y lluvias en la Sierra",
+     "title": "Pronóstico del clima para este jueves, 29 de octubre: tormentas eléctricas en la Costa y lluvias en la Sierra",
      "url": "https://eluniverso.com/comunidad/ecuador/pronostico-del-clima-para-este-jueves-29-de-octubre-tormentas-electricas-en-la-costa-y-lluvias-en-la-sierra-nota/",
      "domain": "El Universo",
      "seendate": "20261029T040950Z"
@@ -1945,10 +1999,28 @@
   "PER": {
    "articles": [
     {
+     "title": "FAP presenta el “Papacóptero” que trasladará al papa León XIV durante su visita al Perú",
+     "url": "https://elcomercio.pe/peru/fap-presenta-el-papacoptero-que-trasladara-al-papa-leon-xiv-durante-su-visita-al-peru-ultimas-apuesplan-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261029T161810Z"
+    },
+    {
      "title": "Lluvias en Perú por El Niño EN VIVO: qué regiones están en alerta y cuál es el pronóstico de Senamhi",
      "url": "https://elcomercio.pe/peru/lluvias-en-peru-en-vivo-el-nino-pronostico-de-senamhi-lluvias-temperatura-y-regiones-en-alerta-al-norte-lbposting-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261029T143841Z"
+     "seendate": "20261029T161432Z"
+    },
+    {
+     "title": "El dólar inicia la jornada cerca de S/3,45 tras decisión de la Fed y nuevos datos de inflación en EE. UU.",
+     "url": "https://elcomercio.pe/economia/peru/el-dolar-inicia-la-jornada-cerca-de-s345-tras-decision-de-la-fed-y-nuevos-datos-de-inflacion-en-ee-uu-l-ultimas-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261029T160120Z"
+    },
+    {
+     "title": "Ballena jorobada varada en playa de Islay fallece en medio de complicaciones por la marea",
+     "url": "https://elcomercio.pe/peru/arequipa/ballena-jorobada-varada-en-playa-de-islay-fallece-en-medio-de-complicaciones-por-la-marea-ultimas-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261029T155623Z"
     },
     {
      "title": "Petro-Perú prevé vender una participación minoritaria en la estatal a principios del 2027",
@@ -2653,6 +2725,78 @@
   "ARG": {
    "articles": [
     {
+     "title": "Lula le agradeció el mensaje a Macri, con una crítica sutil a Milei",
+     "url": "https://www.lanacion.com.ar/politica/lula-le-agradecio-el-mensaje-a-macri-con-una-critica-sutil-a-milei-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T164629Z"
+    },
+    {
+     "title": "Nuevo presidente: Ignacio Garciarena quedó al frente de la Fundación Barbechando",
+     "url": "https://www.lanacion.com.ar/economia/campo/nuevo-presidente-ignacio-garciarena-quedo-al-frente-de-la-fundacion-barbechando-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T164028Z"
+    },
+    {
+     "title": "Guillermo Robino, especialista en trenes, advirtió por qué aumentan los accidentes ferroviarios en España: “La probabilidad empieza a subir”",
+     "url": "https://www.lanacion.com.ar/sociedad/guillermo-robino-especialista-en-trenes-advirtio-por-que-aumentan-los-accidentes-ferroviarios-en-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T163838Z"
+    },
+    {
+     "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este jueves 29 de octubre, minuto a minuto",
+     "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T163000Z"
+    },
+    {
+     "title": "Javier Milei y sus medidas, en vivo: sesión en el Senado y el viaje de Karina Milei a Rosario",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-sesion-en-el-senado-y-el-viaje-de-karina-milei-a-rosario-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T162921Z"
+    },
+    {
+     "title": "Altura de los ríos en la Argentina, según Prefectura: esta es la situación y los niveles de alerta hoy, jueves 29 de octubre",
+     "url": "https://www.lanacion.com.ar/sociedad/altura-de-los-rios-en-la-argentina-segun-prefectura-esta-es-la-situacion-y-los-niveles-de-alerta-hoy-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T161332Z"
+    },
+    {
+     "title": "Comenzó el nuevo juicio contra Néstor Pavón: condenado por encubrimiento, ahora es acusado del femicidio de Micaela García",
+     "url": "https://www.lanacion.com.ar/seguridad/comenzo-el-nuevo-juicio-contra-nestor-pavon-condenado-por-encubrimiento-ahora-es-acusado-del-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T161023Z"
+    },
+    {
+     "title": "El CEO de YPF les anticipó a los inversores que se llevarán una “sorpresa” en 2027",
+     "url": "https://www.lanacion.com.ar/economia/el-ceo-de-ypf-les-anticipo-a-los-inversores-que-se-llevaran-una-sorpresa-en-2027-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T160913Z"
+    },
+    {
+     "title": "Mientras iba a quimioterapia pedía un deseo al paso del tren: ahora ese puente cambiará de nombre",
+     "url": "https://www.lanacion.com.ar/sociedad/mientras-iba-a-quimioterapia-pedia-un-deseo-al-paso-del-tren-ahora-ese-puente-cambiara-de-nombre-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T160738Z"
+    },
+    {
+     "title": "Gisela Gilges, life coach: “No hace falta que duela para aprender a frenar en la vida”",
+     "url": "https://www.lanacion.com.ar/sociedad/gisela-gilges-life-coach-no-hace-falta-que-duela-para-aprender-a-frenar-en-la-vida-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T160610Z"
+    },
+    {
+     "title": "Ocho jóvenes van a Canadá por la gloria en una competencia internacional: “Vamos a buscar ganar”",
+     "url": "https://www.lanacion.com.ar/economia/campo/ocho-jovenes-van-a-canada-por-la-gloria-en-una-competencia-internacional-vamos-a-buscar-ganar-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T155733Z"
+    },
+    {
+     "title": "El Gobierno limita los aumentos salariales y encontró aliados en tres gremios poderosos",
+     "url": "https://www.lanacion.com.ar/politica/el-gobierno-limita-los-aumentos-salariales-y-encontro-aliados-en-tres-gremios-poderosos-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T155152Z"
+    },
+    {
      "title": "Se aproximan 72 horas de lluvias y tormentas fuertes, con mejoras transitorias, y máximas que podrían trepar hasta los 27°C: las zonas afectadas",
      "url": "https://www.lanacion.com.ar/sociedad/se-aproximan-72-horas-de-lluvias-y-tormentas-fuertes-con-mejoras-transitorias-y-maximas-que-podrian-nid29102026/",
      "domain": "La Nación",
@@ -2755,18 +2899,6 @@
      "seendate": "20261029T154548Z"
     },
     {
-     "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este jueves 29 de octubre, minuto a minuto",
-     "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid29102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T154500Z"
-    },
-    {
-     "title": "Gisela Gilges, life coach: “No hace falta que duela para aprender a frenar en la vida”",
-     "url": "https://www.lanacion.com.ar/sociedad/gisela-gilges-life-coach-no-hace-falta-que-duela-para-aprender-a-frenar-en-la-vida-nid29102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T154330Z"
-    },
-    {
      "title": "Destituyeron al juez federal de Rosario Gastón Salmain por “mal desempeño” y ordenan su detención",
      "url": "https://www.lanacion.com.ar/politica/destituyeron-al-juez-federal-de-rosario-gaston-salmain-por-mal-desempeno-nid29102026/",
      "domain": "La Nación",
@@ -2803,94 +2935,10 @@
      "seendate": "20261029T152956Z"
     },
     {
-     "title": "Javier Milei y sus medidas, en vivo: sesión en el Senado y el viaje de Karina Milei a Rosario",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-sesion-en-el-senado-y-el-viaje-de-karina-milei-a-rosario-nid29102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T152841Z"
-    },
-    {
      "title": "Noche de Halloween en la Argentina: estas son las costumbres",
      "url": "https://www.lanacion.com.ar/sociedad/noche-de-halloween-en-la-argentina-estas-son-las-costumbres-nid29102026/",
      "domain": "La Nación",
      "seendate": "20261029T152810Z"
-    },
-    {
-     "title": "Weretilneck adelantará las elecciones 2027 en Río Negro y respaldó eliminar las PASO",
-     "url": "https://www.lanacion.com.ar/politica/weretilneck-adelantara-las-elecciones-2027-en-rio-negro-y-respaldo-eliminar-las-paso-nid29102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T151304Z"
-    },
-    {
-     "title": "Comenzó la autopsia sobre el cuerpo de Nancy Godoy: a la tarde le informarán el resultado a la familia",
-     "url": "https://www.lanacion.com.ar/seguridad/comenzo-la-autopsia-sobre-el-cuerpo-de-nancy-godoy-y-hallaron-el-telefono-celular-de-la-victima-nid29102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T151030Z"
-    },
-    {
-     "title": "Encontraron el cuerpo de Nancy Godoy, la docente que estaba desaparecida en Corrientes",
-     "url": "https://www.lanacion.com.ar/seguridad/encontraron-el-cuerpo-de-nanci-godoy-la-docente-que-estaba-desaparecida-en-corrientes-nid28102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T150830Z"
-    },
-    {
-     "title": "El Gobierno difunde supuestos resultados de un peritaje no presentado para sostener que los audios de Spagnuolo son falsos",
-     "url": "https://www.lanacion.com.ar/politica/el-gobierno-difunde-supuestos-resultados-de-un-peritaje-no-presentado-para-sostener-que-los-audios-nid29102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T150301Z"
-    },
-    {
-     "title": "El FMI destacó las medidas acordadas con el Gobierno para “impulsar” el crecimiento y “respaldar la demanda interna”",
-     "url": "https://www.lanacion.com.ar/economia/el-fmi-destaco-las-medidas-acordadas-con-el-gobierno-para-impulsar-el-crecimiento-y-respaldar-la-nid29102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T150131Z"
-    },
-    {
-     "title": "Pablo Ferrero, especialista en medicina del sueño, recomendó dormir desnudo: “Facilita la termorregulación”",
-     "url": "https://www.lanacion.com.ar/sociedad/pablo-ferrero-especialista-en-medicina-del-sueno-recomendo-dormir-desnudo-facilita-la-nid29102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T150000Z"
-    },
-    {
-     "title": "Vivek Badrinath: “No existe un número mágico de operadores, pero la escala importa mucho”",
-     "url": "https://www.lanacion.com.ar/economia/vivek-badrinath-no-existe-un-numero-magico-de-operadores-pero-la-escala-importa-mucho-nid29102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T144839Z"
-    },
-    {
-     "title": "Un patrullero de la policía de la Ciudad chocó a una adolescente de 13 años en Villa Crespo",
-     "url": "https://www.lanacion.com.ar/sociedad/un-patrullero-de-la-policia-de-la-ciudad-choco-a-una-adolescente-de-13-anos-en-villa-crespo-nid29102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T144816Z"
-    },
-    {
-     "title": "El dolor de los hijos de Nancy Godoy, la docente asesinada en Corrientes: “Que paguen los que tengan que pagar”",
-     "url": "https://www.lanacion.com.ar/seguridad/el-dolor-de-los-hijos-de-nancy-godoy-la-docente-asesinada-en-corrientes-que-paguen-los-que-tengan-nid29102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T144705Z"
-    },
-    {
-     "title": "Eludió un control policial en La Horqueta y tras una persecución fue detenido detrás del Dot Baires Shopping",
-     "url": "https://www.lanacion.com.ar/seguridad/eludio-un-control-policial-en-la-horqueta-y-tras-una-persecucion-fue-detenido-detras-del-dot-baires-nid29102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T144123Z"
-    },
-    {
-     "title": "Fuerte defensa de Caputo al modelo en una reunión para promocionar el RIGI",
-     "url": "https://www.lanacion.com.ar/economia/fuerte-defensa-de-caputo-al-modelo-en-una-reunion-para-promocionar-el-rigi-nid29102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T143655Z"
-    },
-    {
-     "title": "El Gobierno defendió el ingreso de Flavio Bolsonaro al país tras la prohibición de la Justicia de Brasil",
-     "url": "https://www.lanacion.com.ar/politica/el-gobierno-defendio-el-ingreso-de-flavio-bolsonaro-al-pais-tras-la-prohibicion-de-la-justicia-de-nid29102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T143650Z"
-    },
-    {
-     "title": "El Gobierno confirmó el bono previsional de noviembre para jubilados y pensionados",
-     "url": "https://www.lanacion.com.ar/economia/el-gobierno-confirmo-el-bono-previsional-de-noviembre-para-jubilados-y-pensionados-nid29102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T143202Z"
     }
    ]
   },
@@ -3261,6 +3309,24 @@
   "PRY": {
    "articles": [
     {
+     "title": "Denuncian faltante de medicamentos en el USF de Cabañas",
+     "url": "https://www.abc.com.py/nacionales/2026/10/29/denuncian-faltante-de-medicamentos-en-el-usf-de-cabanas/",
+     "domain": "ABC Color",
+     "seendate": "20261029T164057Z"
+    },
+    {
+     "title": "Medicina: Aneaes aplicó inédita prueba de aprendizaje a más de 1.000 futuros doctores",
+     "url": "https://www.abc.com.py/nacionales/2026/10/29/medicina-aneaes-aplico-inedita-prueba-de-aprendizaje-a-mas-de-1000-futuros-doctores/",
+     "domain": "ABC Color",
+     "seendate": "20261029T162310Z"
+    },
+    {
+     "title": "Caso Belia: citan para preliminar a hermana de presunto testaferro de Miguel Celular",
+     "url": "https://www.abc.com.py/nacionales/2026/10/29/caso-belia-citan-para-preliminar-a-hermana-de-presunto-testaferro-de-miguel-celular/",
+     "domain": "ABC Color",
+     "seendate": "20261029T155144Z"
+    },
+    {
      "title": "Hackean cuenta de atención ciudadana de la Municipalidad de Asunción",
      "url": "https://www.abc.com.py/nacionales/2026/10/29/hackean-cuenta-de-atencion-ciudadana-de-la-municipalidad-de-asuncion/",
      "domain": "ABC Color",
@@ -3283,18 +3349,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/29/detergente-de-oro-queda-firme-condena-de-exdirector-financiero-de-nenecho/",
      "domain": "ABC Color",
      "seendate": "20261029T142525Z"
-    },
-    {
-     "title": "Ronda de tragos termina a balazos y deja un hombre muerto en Naranjito",
-     "url": "https://www.abc.com.py/nacionales/2026/10/29/ronda-de-tragos-termina-a-balazos-y-deja-un-hombre-muerto-en-naranjito/",
-     "domain": "ABC Color",
-     "seendate": "20261029T140511Z"
-    },
-    {
-     "title": "Hospital de Clínicas: presentan denuncia penal luego de hallar irregularidades en cirugías fetales",
-     "url": "https://www.abc.com.py/nacionales/2026/10/29/hospital-de-clinicas-presentan-denuncia-penal-luego-de-hallar-irregularidades-en-cirugias-fetales/",
-     "domain": "ABC Color",
-     "seendate": "20261029T101059Z"
     }
    ]
   },
@@ -3303,6 +3357,24 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "PT pede a Motta que PL fique de fora de bloco partidário na Câmara para isolar partido de Flávio Bolsonaro",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/29/pt-pede-a-motta-que-pl-fique-de-fora-de-bloco-partidario-na-camara-para-isolar-partido-de-flavio-bolsonaro.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261029T163249Z"
+    },
+    {
+     "title": "Caso Renato Cariani: entenda a investigação que apura desvio de 12 toneladas de drogas",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/29/caso-renato-cariani-entenda-a-investigacao-que-apura-desvio-de-12-toneladas-de-drogas.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261029T162759Z"
+    },
+    {
+     "title": "Eleições de 2022 tiveram mais votos após as 17h do que a disputa de 2026, aponta TSE",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/29/eleicoes-de-2022-tiveram-mais-votos-apos-as-17h-do-que-a-disputa-de-2026-aponta-tse.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261029T160839Z"
+    },
     {
      "title": "PF apura rota de Flávio entre Brasília e Foz do Iguaçu e investiga se houve ajuda de empresários em fuga do país",
      "url": "https://oglobo.globo.com/politica/noticia/2026/10/29/pf-apura-rota-de-flavio-entre-brasilia-e-foz-do-iguacu-e-investiga-se-houve-ajuda-de-empresarios-em-fuga-do-pais.ghtml",
@@ -3398,24 +3470,6 @@
      "url": "https://oglobo.globo.com/politica/noticia/2026/10/29/deputado-italiano-que-entregou-zambelli-pede-investigacao-sobre-cidadania-de-bolsonaros-apos-fuga-de-flavio.ghtml",
      "domain": "O Globo",
      "seendate": "20261029T122333Z"
-    },
-    {
-     "title": "Valdemar diz que não gostou de carta golpista publicada por Flávio Bolsonaro após derrota para Lula: 'Ninguém concorda com isso'",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/29/valdemar-diz-que-nao-gostou-de-carta-de-teor-golpista-de-flavio-bolsonaro.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261029T115337Z"
-    },
-    {
-     "title": "Presidente e procurador do TCE-MT são presos em operação da PF que apura irregularidades em contratos",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/29/operacao-da-pf-apura-irregularidades-em-contratos-tce-mt-presidente-da-corte-e-preso.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261029T113037Z"
-    },
-    {
-     "title": "PM acusado por não lavar banheiro de batalhão é condenado a um ano de prisão em São Paulo",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/29/pm-acusado-por-nao-lavar-banheiro-de-batalhao-e-condenado-a-um-ano-de-prisao-em-sao-paulo.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261029T110524Z"
     }
    ]
   }
