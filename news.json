@@ -1,8 +1,14 @@
 {
- "updated": "2026-10-29T03:44:22+00:00",
+ "updated": "2026-10-29T04:44:49+00:00",
  "countries": {
   "ESP": {
    "articles": [
+    {
+     "title": "La imaginación, grande y libre",
+     "url": "https://elpais.com/espana/madrid/2026-10-29/la-imaginacion-grande-y-libre.html",
+     "domain": "El País",
+     "seendate": "20261029T043001Z"
+    },
     {
      "title": "Última hora del accidente de trenes en Toledo, en directo | Al menos 68 muertos en el choque de trenes de alta velocidad en Urda",
      "url": "https://elpais.com/espana/2026-10-28/ultima-hora-del-choque-entre-dos-trenes-en-los-yebenes-toledo-en-directo.html",
@@ -184,12 +190,6 @@
      "seendate": "20261028T043001Z"
     },
     {
-     "title": "Las primeras sentencias por las casas derruidas por culpa del Metro obligan a Madrid a mejorar las indemnizaciones en cientos de miles de euros",
-     "url": "https://elpais.com/espana/madrid/2026-10-28/las-primeras-sentencias-por-las-casas-derruidas-por-culpa-del-metro-obligan-a-madrid-a-mejorar-las-indemnizaciones-en-cientos-de-miles-de-euros.html",
-     "domain": "El País",
-     "seendate": "20261028T043001Z"
-    },
-    {
      "title": "La discordia llega a Alcalá de Henares por destinar 28.000 euros públicos a un nuevo Cristo Resucitado",
      "url": "https://elpais.com/espana/madrid/2026-10-28/la-discordia-llega-a-alcala-de-henares-por-destinar-28000-euros-publicos-a-un-nuevo-cristo-resucitado.html",
      "domain": "El País",
@@ -241,6 +241,66 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "SRE reporta 7 mexicanos heridos en choque de trenes en España; un connacional está desaparecido",
+     "url": "https://www.eluniversal.com.mx/nacion/sre-reporta-7-mexicanos-heridos-en-choque-de-trenes-en-espana-un-connacional-esta-desaparecido/",
+     "domain": "El Universal",
+     "seendate": "20261029T042735Z"
+    },
+    {
+     "title": "(Caso Taddei) pega de lleno al corazón del INE; Edmundo Jacobo en Con los de Casa",
+     "url": "https://www.eluniversal.com.mx/nacion/caso-taddei-pega-de-lleno-al-corazon-del-ine-dice-edmundo-jacobo-en-con-los-de-casa/",
+     "domain": "El Universal",
+     "seendate": "20261029T042521Z"
+    },
+    {
+     "title": "Trabajo celebra “decisión histórica” para evitar huelga en Volkswagen; reitera importancia de la democracia sindical",
+     "url": "https://www.eluniversal.com.mx/nacion/trabajo-celebra-decision-historica-para-evitar-huelga-en-volkswagen-reitera-importancia-de-la-democracia-sindical/",
+     "domain": "El Universal",
+     "seendate": "20261029T042239Z"
+    },
+    {
+     "title": "Alertan por arribo de sargazo en el Caribe mexicano; Marina realizará labores de limpieza",
+     "url": "https://www.eluniversal.com.mx/nacion/alertan-por-arribo-de-sargazo-en-el-caribe-mexicano-marina-realizara-labores-de-limpieza/",
+     "domain": "El Universal",
+     "seendate": "20261029T041957Z"
+    },
+    {
+     "title": "Oposición reconoce legado democrático de Cuauhtémoc Cárdenas; \"fuimos adversarios, pero nos unió la convicción\": Fox",
+     "url": "https://www.eluniversal.com.mx/nacion/oposicion-reconoce-legado-democratico-de-cuauhtemoc-cardenas-fuimos-adversarios-pero-nos-unio-la-conviccion-fox/",
+     "domain": "El Universal",
+     "seendate": "20261029T041758Z"
+    },
+    {
+     "title": "Auto particular choca contra unidad del Metrobús en avenida Montevideo; no se reportan lesionados",
+     "url": "https://www.eluniversal.com.mx/metropoli/auto-particular-choca-contra-unidad-del-metrobus-en-avenida-montevideo-no-se-reportan-lesionados/",
+     "domain": "El Universal",
+     "seendate": "20261029T035819Z"
+    },
+    {
+     "title": "Suspenden misas a San Judas en iglesia de San Hipólito por aglomeraciones en el templo; buscan evitar riesgos",
+     "url": "https://www.eluniversal.com.mx/metropoli/suspenden-misas-a-san-judas-en-iglesia-de-san-hipolito-por-aglomeraciones-en-el-templo-buscan-evitar-riesgos/",
+     "domain": "El Universal",
+     "seendate": "20261029T035124Z"
+    },
+    {
+     "title": "De ser “adversario político” de AMLO a promover el voto por Sheinbaum; así fue la relación de Cuauhtémoc Cárdenas con la 4T",
+     "url": "https://www.eluniversal.com.mx/nacion/de-ser-adversario-politico-de-amlo-a-promover-el-voto-por-sheinbaum-asi-fue-la-relacion-de-cuauhtemoc-cardenas-con-la-4t/",
+     "domain": "El Universal",
+     "seendate": "20261029T034543Z"
+    },
+    {
+     "title": "Gobernadores y políticos locales lamentan fallecimiento de Cuauhtémoc Cárdenas; \"su ejemplo y legado forman parte de la historia política del país\"",
+     "url": "https://www.eluniversal.com.mx/metropoli/gobernadores-y-politicos-lamentan-fallecimiento-de-cuauhtemoc-cardenas-su-ejemplo-y-legado-forman-parte-de-la-historia-politica-del-pais/",
+     "domain": "El Universal",
+     "seendate": "20261029T033714Z"
+    },
+    {
+     "title": "Sheinbaum lamenta fallecimiento de Cuauhtémoc Cárdenas; \"un hombre de que transformó la vida política de nuestro país\"",
+     "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-lamenta-fallecimiento-de-cuauhtemoc-cardenas-un-hombre-de-que-transformo-la-vida-politica-de-nuestro-pais/",
+     "domain": "El Universal",
+     "seendate": "20261029T033540Z"
+    },
     {
      "title": "AMLO lamenta la muerte de Cuauhtémoc Cárdenas; \"precursor del movimiento democrático en la historia reciente de México\"",
      "url": "https://www.eluniversal.com.mx/nacion/amlo-lamenta-la-muerte-fallecimiento-de-cuauhtemoc-cardenas-precursor-del-movimiento-democratico-en-la-historia-reciente-de-mexico/",
@@ -510,36 +570,6 @@
      "url": "https://www.eluniversal.com.mx/metropoli/congreso-de-cdmx-alista-modulo-para-tramitar-licencia-de-conducir-permanente-tambien-ofrecera-orientacion-fiscal/",
      "domain": "El Universal",
      "seendate": "20261028T215900Z"
-    },
-    {
-     "title": "Miles de creyentes de San Judas Tadeo llegan a iglesia de San Hipólito a venerar al santo de las causas imposibles; \"es muy milagroso\", aseguran",
-     "url": "https://www.eluniversal.com.mx/metropoli/miles-de-creyentes-de-san-judas-tadeo-llegan-a-iglesia-de-san-hipolito-a-venerar-al-santo-de-las-causas-imposibles-es-muy-milagroso-aseguran/",
-     "domain": "El Universal",
-     "seendate": "20261028T214904Z"
-    },
-    {
-     "title": "Detienen en Yucatán a Richard Panas, ciudadano estadounidense; lo vinculan con una célula dedicada al robo y fraude",
-     "url": "https://www.eluniversal.com.mx/nacion/detienen-en-yucatan-a-hombre-buscado-en-eu-es-acusado-de-fraude-y-robo-de-identidad/",
-     "domain": "El Universal",
-     "seendate": "20261028T212730Z"
-    },
-    {
-     "title": "Senadores del PRI y PAN van contra \"súper poderes\" de presidencia del INE; presentan iniciativas por separado",
-     "url": "https://www.eluniversal.com.mx/nacion/senadores-del-pri-y-pan-van-contra-super-poderes-de-presidencia-del-ine-presentan-iniciativas-por-separado/",
-     "domain": "El Universal",
-     "seendate": "20261028T212720Z"
-    },
-    {
-     "title": "¡Está casi lista! Avanza instalación de la catrina más alta del mundo en el Zócalo; ofrenda monumental abrirá este jueves 29 de octubre",
-     "url": "https://www.eluniversal.com.mx/metropoli/esta-casi-lista-avanza-instalacion-de-la-catrina-mas-alta-del-mundo-en-el-zocalo-ofrenda-monumental-abrira-este-jueves-29-de-octubre/",
-     "domain": "El Universal",
-     "seendate": "20261028T212455Z"
-    },
-    {
-     "title": "Alcaldía Cuauhtémoc realiza limpieza en Parque España tras presunto envenenamiento de perritos; retiran posibles residuos",
-     "url": "https://www.eluniversal.com.mx/metropoli/alcaldia-cuauhtemoc-realiza-limpieza-en-parque-espana-tras-presunto-envenenamiento-de-perritos-retiran-posibles-residuos/",
-     "domain": "El Universal",
-     "seendate": "20261028T211744Z"
     },
     {
      "title": "Reportan tres mujeres asesinadas diariamente en septiembre; tenían entre 18 y 29 años de edad",
@@ -1306,18 +1336,6 @@
      "url": "https://nuevaya.com.ni/parlamentarias-ya/asamblea-aprueba-reforma-que-eleva-a-rango-constitucional-a-designados-presidenciales/",
      "domain": "nuevaya.com.ni",
      "seendate": "20261022T173000Z"
-    },
-    {
-     "title": "Policía Nacional captura al delincuente Rafael Antonio Valdez García",
-     "url": "https://nuevaya.com.ni/destacadas/policia-nacional-captura-al-delincuente-rafael-antonio-valdez-garcia/",
-     "domain": "nuevaya.com.ni",
-     "seendate": "20261022T030000Z"
-    },
-    {
-     "title": "Familiares realizan trámites para repatriar a Siuna , Caribe Norte a madre e hija asesinada en Costa Rica",
-     "url": "https://nuevaya.com.ni/destacadas/familiares-realizan-tramites-para-repatriar-a-siuna-caribe-norte-a-madre-e-hija-asesinada-en-costa-rica/",
-     "domain": "nuevaya.com.ni",
-     "seendate": "20261022T030000Z"
     }
    ]
   },
@@ -1442,24 +1460,6 @@
      "url": "https://www.nacion.com/politica/roxana-chacon-magistrada-de-sala-ii-sobre-el-rop/HJIRGXXOLFG63EV3DTJXIVWPSM/story/",
      "domain": "La Nación",
      "seendate": "20261028T154938Z"
-    },
-    {
-     "title": "Mujer de 20 años fue baleada en el corredor de su casa en Siquirres",
-     "url": "https://www.nacion.com/sucesos/mujer-de-20-anos-fue-baleada-en-el-corredor-de-su/VUSPBXSW35GK7GTFTISDI7TCLY/story/",
-     "domain": "La Nación",
-     "seendate": "20261028T140348Z"
-    },
-    {
-     "title": "¿Cuánto invertirá el Ministerio de Cultura en el tope de diciembre? Esto se conoce",
-     "url": "https://www.nacion.com/el-pais/tope-2026-ministerio-de-cultura-preve-destinar/7RFSXSU4YFBHDFT57L35NIQWGA/story/",
-     "domain": "La Nación",
-     "seendate": "20261028T140000Z"
-    },
-    {
-     "title": "Hace 50 años: Brindan emotivo funeral al director ejecutivo del Ministerio de Seguridad",
-     "url": "https://www.nacion.com/el-pais/hace-50-anos-brindan-emotivo-funeral-al-director/75UR7KPXFZGQLA526ILXGWTSG4/story/",
-     "domain": "La Nación",
-     "seendate": "20261028T133000Z"
     }
    ]
   },
@@ -1699,28 +1699,28 @@
   "COL": {
    "articles": [
     {
-     "title": "Alcalde 'Fico' Gutiérrez revela detalles del operativo en el que capturaron al hijo del exfutbolista Iván René Valenciano en Medellín",
-     "url": "https://www.eltiempo.com/colombia/medellin/alcalde-fico-gutierrez-revela-detalles-del-operativo-en-el-que-capturaron-al-hijo-del-exfutbolista-ivan-rene-valenciano-en-medellin-3597100",
+     "title": "¿Por qué candente pleito por Área Metropolitana del Suroccidente? Gobernadora, CVC y 38 alcaldes piden freno, mientras concejales de Cali lo defienden",
+     "url": "https://www.eltiempo.com/colombia/cali/por-que-candente-pleito-por-area-metropolitana-del-suroccidente-gobernadora-cvc-y-38-alcaldes-piden-freno-mientras-concejales-de-cali-lo-defienden-3597047",
      "domain": "El Tiempo",
-     "seendate": "20261029T031211Z"
+     "seendate": "20261029T035436Z"
     },
     {
      "title": "Pistas del secuestro de Lizeth Alejandra Castaño, joven de 19 años, en panadería de Guacarí, Valle del Cauca: cámaras de seguridad y ruta de camioneta",
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/pistas-del-secuestro-de-lizeth-alejandra-castano-joven-de-19-anos-en-panaderia-de-guacari-valle-del-cauca-camaras-de-seguridad-y-ruta-de-camioneta-3597097",
      "domain": "El Tiempo",
-     "seendate": "20261029T024225Z"
+     "seendate": "20261029T033500Z"
+    },
+    {
+     "title": "Alcalde Federico Gutiérrez reveló detalles de la captura del hijo del exfutbolista Iván René Valenciano en Medellín: este era su rol en la banda",
+     "url": "https://www.eltiempo.com/colombia/medellin/alcalde-fico-gutierrez-revela-detalles-del-operativo-en-el-que-capturaron-al-hijo-del-exfutbolista-ivan-rene-valenciano-en-medellin-3597100",
+     "domain": "El Tiempo",
+     "seendate": "20261029T033000Z"
     },
     {
      "title": "'Salud Sin Espera': proyecto de congresista caleño que plantea que las EPS tramiten directamente las autorizaciones médicas y no los pacientes",
      "url": "https://www.eltiempo.com/colombia/cali/salud-sin-espera-proyecto-de-congresista-caleno-que-plantea-que-las-eps-tramiten-directamente-las-autorizaciones-medicas-y-no-los-pacientes-3597089",
      "domain": "El Tiempo",
      "seendate": "20261029T021113Z"
-    },
-    {
-     "title": "¿Por qué candente pleito por Área Metropolitana del Suroccidente? Gobernadora, CVC y 38 alcaldes piden freno, mientras concejales de Cali lo defienden",
-     "url": "https://www.eltiempo.com/colombia/cali/por-que-candente-pleito-por-area-metropolitana-del-suroccidente-gobernadora-cvc-y-38-alcaldes-piden-freno-mientras-concejales-de-cali-lo-defienden-3597047",
-     "domain": "El Tiempo",
-     "seendate": "20261029T000530Z"
     },
     {
      "title": "Valledupar despidió a Harold Santana, el guitarrista que apenas alcanzó a tocar dos veces antes de la tragedia de la agrupación de Kbeto Zuleta",
@@ -2055,6 +2055,18 @@
   "ECU": {
    "articles": [
     {
+     "title": "Pronóstico del clima para este jueves 29 de octubre: tormentas eléctricas en la Costa y lluvias en la Sierra",
+     "url": "https://eluniverso.com/comunidad/ecuador/pronostico-del-clima-para-este-jueves-29-de-octubre-tormentas-electricas-en-la-costa-y-lluvias-en-la-sierra-nota/",
+     "domain": "El Universo",
+     "seendate": "20261029T040950Z"
+    },
+    {
+     "title": "Lluvias con tormentas eléctricas y ráfagas de viento se esperan en Ecuador hasta el domingo",
+     "url": "https://eluniverso.com/comunidad/ecuador/lluvias-con-tormentas-electricas-y-rafagas-de-viento-se-esperan-en-ecuador-hasta-el-domingo-nota/",
+     "domain": "El Universo",
+     "seendate": "20261029T035904Z"
+    },
+    {
      "title": "Lotería Nacional, sorteo 7458: estos son los números ganadores del 28 de octubre",
      "url": "https://eluniverso.com/comunidad/ecuador/loteria-nacional-sorteo-7458-estos-son-los-numeros-ganadores-del-28-de-octubre-nota/",
      "domain": "El Universo",
@@ -2161,18 +2173,6 @@
      "url": "https://eluniverso.com/comunidad/ecuador/cuando-son-las-elecciones-en-ecuador-este-2026-como-consultar-tu-lugar-de-votacion-con-la-cedula-nota/",
      "domain": "El Universo",
      "seendate": "20261028T180000Z"
-    },
-    {
-     "title": "Tres presuntos integrantes de Los Choneros fueron aprehendidos con armas y radios de comunicación",
-     "url": "https://eluniverso.com/politica/seguridad/tres-presuntos-integrantes-de-los-choneros-fueron-aprehendidos-con-armas-y-radios-de-comunicacion-nota/",
-     "domain": "El Universo",
-     "seendate": "20261028T174336Z"
-    },
-    {
-     "title": "Gobierno entrega bonos de contingencia de $ 303,99 a damnificados por las lluvias en provincias de la Costa",
-     "url": "https://eluniverso.com/politica/expedientes/gobierno-entrega-bonos-de-contingencia-a-damnificados-por-las-lluvias-en-provincias-de-la-costa-nota/",
-     "domain": "El Universo",
-     "seendate": "20261028T165953Z"
     },
     {
      "title": "Hijo, madre y hermano del alcalde de Vinces, entre los 16 detenidos por presunto lavado de activos",
@@ -2959,16 +2959,22 @@
   "ARG": {
    "articles": [
     {
-     "title": "Javier Milei y sus medidas, en vivo: sesión en el Senado y el viaje de Karina Milei a Rosario",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-sesion-en-el-senado-y-el-viaje-de-karina-milei-a-rosario-nid29102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T033000Z"
-    },
-    {
      "title": "Encontraron el cuerpo de Nanci Godoy, la docente que estaba desaparecida en Corrientes",
      "url": "https://www.lanacion.com.ar/seguridad/encontraron-el-cuerpo-de-nanci-godoy-la-docente-que-estaba-desaparecida-en-corrientes-nid28102026/",
      "domain": "La Nación",
-     "seendate": "20261029T030642Z"
+     "seendate": "20261029T043253Z"
+    },
+    {
+     "title": "El Foro Permanente de Discapacidad expresó su rechazo a los insultos de Milei hacia periodistas",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-nueva-revision-del-acuerdo-con-el-fmi-y-la-salida-de-bolsonaro-nid28102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T042603Z"
+    },
+    {
+     "title": "Javier Milei y sus medidas, en vivo: sesión en el Senado y el viaje de Karina Milei a Rosario",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-sesion-en-el-senado-y-el-viaje-de-karina-milei-a-rosario-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T041921Z"
     },
     {
      "title": "Hay alerta amarilla por tormentas y vientos fuertes para este jueves 29 de octubre: las provincias afectadas",
@@ -2987,12 +2993,6 @@
      "url": "https://www.lanacion.com.ar/economia/negocios/el-macro-busca-captar-los-dolares-que-los-argentinos-invierten-en-el-exterior-nid29102026/",
      "domain": "La Nación",
      "seendate": "20261029T030000Z"
-    },
-    {
-     "title": "Javier Milei y sus medidas, en vivo: la nueva revisión del acuerdo con el FMI y la salida de Bolsonaro desde Misiones",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-nueva-revision-del-acuerdo-con-el-fmi-y-la-salida-de-bolsonaro-nid28102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T023333Z"
     },
     {
      "title": "La frase del día de Séneca: “La suerte es donde confluyen la preparación y la oportunidad”",
@@ -3495,6 +3495,18 @@
   "PRY": {
    "articles": [
     {
+     "title": "Zumba Rosa 2026 combinó baile y solidaridad en Ayolas",
+     "url": "https://www.abc.com.py/nacionales/2026/10/29/zumba-rosa-2026-combino-baile-y-solidaridad-en-ayolas/",
+     "domain": "ABC Color",
+     "seendate": "20261029T040331Z"
+    },
+    {
+     "title": "Clase bajo árboles: padres convocan a reunión en Concepción",
+     "url": "https://www.abc.com.py/nacionales/2026/10/29/clase-bajo-arboles-padres-convocan-a-reunion-en-concepcion/",
+     "domain": "ABC Color",
+     "seendate": "20261029T035737Z"
+    },
+    {
      "title": "Dende: el crimen organizado gana terreno mientras la inseguridad arrincona al país",
      "url": "https://www.abc.com.py/nacionales/2026/10/28/dende-el-crimen-organizado-gana-terreno-mientras-la-inseguridad-arrincona-al-pais/",
      "domain": "ABC Color",
@@ -3511,12 +3523,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/28/canindeyu-denuncian-hechos-de-violencia-y-hostigamiento-en-la-comunidad-indigena-tekoha-yapo/",
      "domain": "ABC Color",
      "seendate": "20261028T233157Z"
-    },
-    {
-     "title": "Paraguay presente en los Juegos Mundiales de Policía por primera vez",
-     "url": "https://www.abc.com.py/nacionales/2026/10/28/paraguay-debuta-en-los-juegos-mundiales-de-policia-en-republica-dominicana/",
-     "domain": "ABC Color",
-     "seendate": "20261028T215557Z"
     }
    ]
   },
