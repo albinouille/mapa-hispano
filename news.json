@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T13:58:47+00:00",
+ "updated": "2026-10-29T14:54:40+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -7,7 +7,13 @@
      "title": "Accidente de trenes en Toledo: última hora y reacciones en directo | Asciende a 69 el número de fallecidos en el accidente ferroviario de Urda",
      "url": "https://elpais.com/espana/2026-10-29/ultima-hora-y-reacciones-tras-el-accidente-de-trenes-de-urda-toledo-en-directo.html",
      "domain": "El País",
-     "seendate": "20261029T134323Z"
+     "seendate": "20261029T144447Z"
+    },
+    {
+     "title": "Condenado el exsenador Julio de España a año y medio de cárcel por agredir sexualmente a una paciente cuando ejercía de médico",
+     "url": "https://elpais.com/espana/comunidad-valenciana/2026-10-29/condenado-el-exsenador-julio-de-espana-a-ano-y-medio-de-carcel-por-agredir-sexualmente-a-una-paciente-cuando-ejercia-de-medico.html",
+     "domain": "El País",
+     "seendate": "20261029T134721Z"
     },
     {
      "title": "Sánchez asegura que se “reforzará la seguridad” ferroviaria para evitar nuevos accidentes",
@@ -176,6 +182,24 @@
   "MEX": {
    "articles": [
     {
+     "title": "Se incendia vestido durante festival del Día de Muertos en secundaria de Hidalgo; alumna sufre graves quemaduras",
+     "url": "https://www.eluniversal.com.mx/estados/se-incendia-vestido-durante-festival-del-dia-de-muertos-en-secundaria-de-hidalgo-alumna-sufre-graves-quemaduras/",
+     "domain": "El Universal",
+     "seendate": "20261029T143404Z"
+    },
+    {
+     "title": "Vance vuelve a ser tormenta tropical frente a las costas de Sinaloa; amenaza con lluvias intensas al noroeste del país",
+     "url": "https://www.eluniversal.com.mx/estados/vance-vuelve-a-ser-tormenta-tropical-frente-a-las-costas-de-sinaloa-amenaza-con-lluvias-intensas-al-noroeste-del-pais/",
+     "domain": "El Universal",
+     "seendate": "20261029T142552Z"
+    },
+    {
+     "title": "Se incendia área de farmacia en hospital del IMSS en Veracruz; no se reportan lesionados",
+     "url": "https://www.eluniversal.com.mx/estados/se-incendia-area-de-farmacia-en-hospital-del-imss-en-veracruz-no-se-reportan-lesionados/",
+     "domain": "El Universal",
+     "seendate": "20261029T135605Z"
+    },
+    {
      "title": "Homenaje a Cuauhtémoc Cárdenas en la mañanera de Sheinbaum; asisten Rosa Icela Rodríguez, Laura Itzel Castillo y Pablo Gómez",
      "url": "https://www.eluniversal.com.mx/nacion/homenaje-a-cuauhtemoc-cardenas-en-la-mananera-de-sheinbaum-asisten-rosa-icela-rodriguez-laura-itzel-castillo-y-pablo-gomez/",
      "domain": "El Universal",
@@ -306,6 +330,12 @@
      "url": "https://www.eluniversal.com.mx/nacion/de-la-campana-presidencial-a-pemex-asi-evoluciono-la-relacion-entre-sheinbaum-y-cuauhtemoc-cardenas/",
      "domain": "El Universal",
      "seendate": "20261029T052109Z"
+    },
+    {
+     "title": "Gobernadores y políticos locales lamentan fallecimiento de Cuauhtémoc Cárdenas; \"su ejemplo y legado forman parte de la historia política del país\"",
+     "url": "https://www.eluniversal.com.mx/metropoli/gobernadores-y-politicos-lamentan-fallecimiento-de-cuauhtemoc-cardenas-su-ejemplo-y-legado-forman-parte-de-la-historia-politica-del-pais/",
+     "domain": "El Universal",
+     "seendate": "20261029T033714Z"
     },
     {
      "title": "Así fue la caída de \"Chuy González\", segundo al mando de \"El Chapo Isidro\"; es ligado al Cártel de Guasave",
@@ -1018,6 +1048,18 @@
   "CRI": {
    "articles": [
     {
+     "title": "Muere cuarta víctima del vuelco de autobús en Sarapiquí: mujer de 72 años falleció en hospital",
+     "url": "https://www.nacion.com/sucesos/muere-cuarta-victima-del-vuelco-de-autobus-en/YL65UAKGVFEXRLH4KR43BSM22Y/story/",
+     "domain": "La Nación",
+     "seendate": "20261029T142627Z"
+    },
+    {
+     "title": "OIJ y Fiscalía detiene a hombre de apellido Marenco como sospechoso de amenazar al Ministro de Cultura",
+     "url": "https://www.nacion.com/sucesos/oij-y-fiscalia-detiene-a-hombre-de-apellido/Q54PFXKSSVFWJI2SN3PTZ5J2X4/story/",
+     "domain": "La Nación",
+     "seendate": "20261029T141749Z"
+    },
+    {
      "title": "Hace 50 años: Empleados municipales piden revisar presupuesto para alza salarial",
      "url": "https://www.nacion.com/el-pais/hace-50-anos-federacion-costarricense-de/DZIYDMDQHZBSLBPPXQYXNMFB7M/story/",
      "domain": "La Nación",
@@ -1060,7 +1102,7 @@
      "seendate": "20261029T010325Z"
     },
     {
-     "title": "Vuelco de autobús en Sarapiquí deja tres mujeres fallecidas y seis pacientes críticos",
+     "title": "Vuelco de autobús en Sarapiquí deja cuatro mujeres fallecidas y seis pacientes críticos",
      "url": "https://www.nacion.com/sucesos/autobus-con-unos-50-pasajeros-se-volco-en/DG4AJTYHGRFE3CJGFWBRT33SD4/story/",
      "domain": "La Nación",
      "seendate": "20261028T234223Z"
@@ -1136,12 +1178,6 @@
      "url": "https://www.nacion.com/politica/pueblo-soberano-cambiaria-por-segunda-vez-su/CE3EWJNITRCC5CYOM4U6ZIHQWQ/story/",
      "domain": "La Nación",
      "seendate": "20261028T171818Z"
-    },
-    {
-     "title": "Patricia Vargas y Laura Fernández acuerdan reunirse. Presidenta de la Corte le hará una propuesta a la mandataria",
-     "url": "https://www.nacion.com/politica/patricia-vargas-y-laura-fernandez-acuerdan/L4WWWF6PWZBOTJ3THKRN4ZYZ5U/story/",
-     "domain": "La Nación",
-     "seendate": "20261028T170734Z"
     }
    ]
   },
@@ -1363,6 +1399,12 @@
   "COL": {
    "articles": [
     {
+     "title": "Las estrategias que usa el Colegio Divino Niño en Bucaramanga para ser el mejor en Colombia en las pruebas Saber: ya había estado en el primer puesto",
+     "url": "https://www.eltiempo.com/colombia/santander/las-estrategias-que-usa-el-colegio-divino-nino-en-bucaramanga-para-ser-el-mejor-en-colombia-en-las-pruebas-saber-ya-habia-estado-en-el-primer-puesto-3597154",
+     "domain": "El Tiempo",
+     "seendate": "20261029T140707Z"
+    },
+    {
      "title": "Tras dos años de espera se da inicio al tramo final de la Troncal Oriental del MIO en Cali con 70 % de dineros del Gobierno: ¿quién es el contratista?",
      "url": "https://www.eltiempo.com/colombia/cali/tras-dos-anos-de-espera-se-da-inicio-al-tramo-final-de-la-troncal-oriental-del-mio-en-cali-con-70-de-dineros-del-gobierno-quien-es-el-contratista-3597131",
      "domain": "El Tiempo",
@@ -1385,12 +1427,6 @@
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/investigan-intento-de-feminicidio-en-valledupar-senalado-agresor-habria-atacado-a-la-victima-con-arma-blanca-en-plena-calle-3597125",
      "domain": "El Tiempo",
      "seendate": "20261029T123811Z"
-    },
-    {
-     "title": "Alcalde Federico Gutiérrez reveló detalles de la captura del hijo del exfutbolista Iván René Valenciano en Medellín: este era su rol en la banda",
-     "url": "https://www.eltiempo.com/colombia/medellin/alcalde-fico-gutierrez-revela-detalles-del-operativo-en-el-que-capturaron-al-hijo-del-exfutbolista-ivan-rene-valenciano-en-medellin-3597100",
-     "domain": "El Tiempo",
-     "seendate": "20261029T105407Z"
     },
     {
      "title": "¡Evite multas, conductor! Pico y placa en Pereira para el jueves 29 de octubre de 2026: estos carros y motos tendrán restricción",
@@ -1719,7 +1755,37 @@
   "ECU": {
    "articles": [
     {
-     "title": "Daniel Noboa anuncia extradición de Daniel Salcedo, Ronald Herrera y alias Churrón hacia Estados Unidos",
+     "title": "Control a la propaganda de candidatos a consejero de Participación Ciudadana tiene reglas: Autoridad fiscalizará redes sociales, actos públicos y entrevistas",
+     "url": "https://eluniverso.com/politica/elecciones/elecciones-seccionales-2027-consejo-de-participacion-ciudadana-consejo-nacional-electoral-campana-electoral-nota/",
+     "domain": "El Universo",
+     "seendate": "20261029T144605Z"
+    },
+    {
+     "title": "Feriado de noviembre en El Oro: agenda de eventos y opciones para visitar la parte alta de la provincia y sus playas",
+     "url": "https://eluniverso.com/comunidad/ecuador/feriado-de-noviembre-en-el-oro-agenda-de-eventos-y-opciones-para-visitar-la-parte-alta-de-la-provincia-y-sus-playas-nota/",
+     "domain": "El Universo",
+     "seendate": "20261029T143000Z"
+    },
+    {
+     "title": "Dictan prisión preventiva para el alcalde de Vinces y otras nueve personas por presunto lavado de activos",
+     "url": "https://eluniverso.com/politica/seguridad/dictan-prision-preventiva-para-el-alcalde-de-vinces-y-otras-nueve-personas-por-presunto-lavado-de-activos-nota/",
+     "domain": "El Universo",
+     "seendate": "20261029T140557Z"
+    },
+    {
+     "title": "Feriado de Difuntos y Cuenca: cuatro días de descanso del 31 de octubre al 3 de noviembre y cuándo se vuelve a trabajar",
+     "url": "https://eluniverso.com/comunidad/ecuador/feriado-de-difuntos-y-cuenca-cuatro-dias-de-descanso-del-31-de-octubre-al-3-de-noviembre-y-cuando-se-vuelve-a-trabajar-nota/",
+     "domain": "El Universo",
+     "seendate": "20261029T140000Z"
+    },
+    {
+     "title": "Feriados 2027 en Ecuador: Carnaval será el 8 y 9 de febrero y habrá dos descansos de cuatro días",
+     "url": "https://eluniverso.com/comunidad/ecuador/feriados-2027-en-ecuador-carnaval-sera-el-8-y-9-de-febrero-y-habra-dos-descansos-de-cuatro-dias-nota/",
+     "domain": "El Universo",
+     "seendate": "20261029T140000Z"
+    },
+    {
+     "title": "Daniel Noboa anuncia extradición de Daniel Salcedo, Ronald Herrera y alias ‘Churrón’ hacia Estados Unidos",
      "url": "https://eluniverso.com/politica/seguridad/daniel-noboa-anuncia-extradicion-de-daniel-salcedo-ronald-herrera-y-alias-churron-hacia-estados-unidos-nota/",
      "domain": "El Universo",
      "seendate": "20261029T133932Z"
@@ -1743,7 +1809,7 @@
      "seendate": "20261029T123815Z"
     },
     {
-     "title": "Nueve operativos ‘Libertad’ dejaron 22 aprehendidos y ocho víctimas de secuestro liberadas",
+     "title": "Nueve operativos Libertad dejaron 22 aprehendidos y 8 víctimas de secuestro liberadas",
      "url": "https://eluniverso.com/politica/seguridad/nueve-operativos-libertad-dejaron-22-aprehendidos-y-ocho-victimas-de-secuestro-liberadas-nota/",
      "domain": "El Universo",
      "seendate": "20261029T121000Z"
@@ -1833,28 +1899,10 @@
      "seendate": "20261028T223634Z"
     },
     {
-     "title": "José Serrano, Xavier Jordán, Ronny Aleaga y otros conocerán este 29 de noviembre si son o no llamados a juicio por el asesinato de Fernando Villavicencio",
-     "url": "https://eluniverso.com/politica/expedientes/jose-serrano-xavier-jordan-ronny-aleaga-otros-conoceran-29-noviembre-si-son-no-llamados-juicio-asesinato-fernando-villavicencio-nota/",
-     "domain": "El Universo",
-     "seendate": "20261028T220000Z"
-    },
-    {
      "title": "Estado de las vías de Manabí para el feriado: rutas habilitadas, tramos afectados y horarios del toque de queda",
      "url": "https://eluniverso.com/comunidad/ecuador/estado-de-las-vias-de-manabi-para-el-feriado-de-noviembre-nota/",
      "domain": "El Universo",
      "seendate": "20261028T213729Z"
-    },
-    {
-     "title": "Esmeraldas registra 95 eventos adversos y cerca de 18.000 personas afectadas por las lluvias y desbordamientos de ríos",
-     "url": "https://eluniverso.com/comunidad/ecuador/esmeraldas-registra-95-eventos-adversos-y-cerca-de-18000-personas-afectadas-por-las-lluvias-y-desbordamientos-de-rios-nota/",
-     "domain": "El Universo",
-     "seendate": "20261028T212318Z"
-    },
-    {
-     "title": "Ministerio de Infraestructura habilitará paso provisional en puente dañado en el norte de Esmeraldas",
-     "url": "https://eluniverso.com/comunidad/ecuador/ministerio-de-infraestructura-habilitara-paso-provisional-en-puente-danado-en-el-norte-de-esmeraldas-nota/",
-     "domain": "El Universo",
-     "seendate": "20261028T201702Z"
     },
     {
      "title": "Caso Laberinto: testigo protegido asegura que dos personas relacionadas con empresas de Aquiles Alvarez llevaban las ‘coimas’ del Municipio de Guayaquil",
@@ -2569,22 +2617,136 @@
   "ARG": {
    "articles": [
     {
-     "title": "Gisela Gilges, life coach: “No hace falta que duela para aprender a frenar en la vida”",
-     "url": "https://www.lanacion.com.ar/sociedad/gisela-gilges-life-coach-no-hace-falta-que-duela-para-aprender-a-frenar-en-la-vida-nid29102026/",
+     "title": "Vivek Badrinath: “No existe un número mágico de operadores, pero la escala importa mucho”",
+     "url": "https://www.lanacion.com.ar/economia/vivek-badrinath-no-existe-un-numero-magico-de-operadores-pero-la-escala-importa-mucho-nid29102026/",
      "domain": "La Nación",
-     "seendate": "20261029T135225Z"
+     "seendate": "20261029T144839Z"
+    },
+    {
+     "title": "Un patrullero de la policía de la Ciudad chocó a una adolescente de 13 años en Villa Crespo",
+     "url": "https://www.lanacion.com.ar/sociedad/un-patrullero-de-la-policia-de-la-ciudad-choco-a-una-adolescente-de-13-anos-en-villa-crespo-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T144816Z"
+    },
+    {
+     "title": "El dolor de los hijos de Nancy Godoy, la docente asesinada en Corrientes: “Que paguen los que tengan que pagar”",
+     "url": "https://www.lanacion.com.ar/seguridad/el-dolor-de-los-hijos-de-nancy-godoy-la-docente-asesinada-en-corrientes-que-paguen-los-que-tengan-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T144705Z"
+    },
+    {
+     "title": "Eludió un control policial en La Horqueta y tras una persecución fue detenido detrás del Dot Baires Shopping",
+     "url": "https://www.lanacion.com.ar/seguridad/eludio-un-control-policial-en-la-horqueta-y-tras-una-persecucion-fue-detenido-detras-del-dot-baires-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T144123Z"
     },
     {
      "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este jueves 29 de octubre, minuto a minuto",
      "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid29102026/",
      "domain": "La Nación",
-     "seendate": "20261029T135020Z"
+     "seendate": "20261029T144000Z"
+    },
+    {
+     "title": "Se aproximan 72 horas de lluvias y tormentas fuertes, con mejoras transitorias, y máximas que podrían trepar hasta los 27°C: las zonas afectadas",
+     "url": "https://www.lanacion.com.ar/sociedad/se-aproximan-72-horas-de-lluvias-y-tormentas-fuertes-con-mejoras-transitorias-y-maximas-que-podrian-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T143909Z"
+    },
+    {
+     "title": "A qué hora llegan las tormentas fuertes a Buenos Aires hoy, según el SMN",
+     "url": "https://www.lanacion.com.ar/sociedad/a-que-hora-llegan-las-tormentas-fuertes-a-buenos-aires-hoy-segun-el-smn-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T143840Z"
+    },
+    {
+     "title": "La reflexión de Gabriel Rolón sobre la felicidad: “Es ese momento de eternidad donde lo que fuiste, querés ser, te atormenta y temés coexisten”",
+     "url": "https://www.lanacion.com.ar/sociedad/la-reflexion-de-gabriel-rolon-sobre-la-felicidad-es-ese-momento-de-eternidad-donde-lo-que-fuiste-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T143830Z"
+    },
+    {
+     "title": "Qué se sabe del hallazgo del cuerpo de Nancy Godoy, la docente que buscaban en Corrientes",
+     "url": "https://www.lanacion.com.ar/seguridad/que-se-sabe-del-hallazgo-del-cuerpo-de-nanci-godoy-la-docente-que-buscaban-en-corrientes-nid28102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T143827Z"
+    },
+    {
+     "title": "La reflexión de Gabriel Rolón sobre la felicidad: “A veces uno desea más haber sido feliz que ser feliz”",
+     "url": "https://www.lanacion.com.ar/sociedad/la-reflexion-de-gabriel-rolon-sobre-la-felicidad-a-veces-uno-desea-mas-haber-sido-feliz-que-ser-nid27102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T143805Z"
+    },
+    {
+     "title": "“Súper Niño”: un especialista en Ciencias Ambientales explicó qué impacto tendrá y cuándo se intensificará en la Argentina",
+     "url": "https://www.lanacion.com.ar/sociedad/super-nino-un-especialista-en-ciencias-ambientales-explico-que-impacto-tendra-y-cuando-se-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T143757Z"
+    },
+    {
+     "title": "Fuerte defensa de Caputo al modelo en una reunión para promocionar el RIGI",
+     "url": "https://www.lanacion.com.ar/economia/fuerte-defensa-de-caputo-al-modelo-en-una-reunion-para-promocionar-el-rigi-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T143655Z"
     },
     {
      "title": "El Gobierno defendió el ingreso de Flavio Bolsonaro al país tras la prohibición de la Justicia de Brasil",
      "url": "https://www.lanacion.com.ar/politica/el-gobierno-defendio-el-ingreso-de-flavio-bolsonaro-al-pais-tras-la-prohibicion-de-la-justicia-de-nid29102026/",
      "domain": "La Nación",
-     "seendate": "20261029T134749Z"
+     "seendate": "20261029T143650Z"
+    },
+    {
+     "title": "Gisela Gilges, life coach: “No hace falta que duela para aprender a frenar en la vida”",
+     "url": "https://www.lanacion.com.ar/sociedad/gisela-gilges-life-coach-no-hace-falta-que-duela-para-aprender-a-frenar-en-la-vida-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T143407Z"
+    },
+    {
+     "title": "Javier Milei y sus medidas, en vivo: sesión en el Senado y el viaje de Karina Milei a Rosario",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-sesion-en-el-senado-y-el-viaje-de-karina-milei-a-rosario-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T143341Z"
+    },
+    {
+     "title": "Santa Cruz: encontraron los cuerpos de los dos niños arrastrados por la corriente en el río Gallegos",
+     "url": "https://www.lanacion.com.ar/sociedad/santa-cruz-encontraron-los-cuerpos-de-los-dos-ninos-arrastrados-por-la-corriente-en-el-rio-gallegos-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T143234Z"
+    },
+    {
+     "title": "El Gobierno confirmó el bono previsional de noviembre para jubilados y pensionados",
+     "url": "https://www.lanacion.com.ar/economia/el-gobierno-confirmo-el-bono-previsional-de-noviembre-para-jubilados-y-pensionados-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T143202Z"
+    },
+    {
+     "title": "Plazo fijo: cuál es la tasa de interés banco por banco este jueves 29 de octubre",
+     "url": "https://www.lanacion.com.ar/economia/plazo-fijo-cual-es-la-tasa-de-interes-banco-por-banco-este-jueves-29-de-octubre-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T141130Z"
+    },
+    {
+     "title": "Se abrió la votación para elegir el nombre de dos aguara guazú hallados en el Parque Nacional Ansenuza: cómo votar",
+     "url": "https://www.lanacion.com.ar/sociedad/se-abrio-la-votacion-para-elegir-el-nombre-de-dos-aguara-guazu-hallados-en-el-parque-nacional-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T141018Z"
+    },
+    {
+     "title": "Comenzó la autopsia sobre el cuerpo de Nancy Godoy y hallaron el teléfono celular de la víctima",
+     "url": "https://www.lanacion.com.ar/seguridad/comenzo-la-autopsia-sobre-el-cuerpo-de-nancy-godoy-y-hallaron-el-telefono-celular-de-la-victima-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T140542Z"
+    },
+    {
+     "title": "Destituyeron al juez federal de Rosario Gastón Salmain por “mal desempeño”",
+     "url": "https://www.lanacion.com.ar/politica/destituyeron-al-juez-federal-de-rosario-gaston-salmain-por-mal-desempeno-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T140225Z"
+    },
+    {
+     "title": "Rotondas, pasarelas y calzada: estas son las obras para mejorar más de 500 km de una ruta clave que une Buenos Aires con La Pampa",
+     "url": "https://www.lanacion.com.ar/sociedad/rotondas-pasarelas-y-calzada-estas-son-las-obras-para-mejorar-mas-de-500-km-de-una-ruta-clave-que-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T140200Z"
     },
     {
      "title": "AEA defendió la libertad de prensa y pidió respeto al periodismo",
@@ -2593,46 +2755,10 @@
      "seendate": "20261029T134208Z"
     },
     {
-     "title": "Destituyeron al juez federal de Rosario Gastón Salmain por “mal desempeño”",
-     "url": "https://www.lanacion.com.ar/politica/destituyeron-al-juez-federal-de-rosario-gaston-salmain-por-mal-desempeno-nid29102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T133034Z"
-    },
-    {
-     "title": "Javier Milei y sus medidas, en vivo: sesión en el Senado y el viaje de Karina Milei a Rosario",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-sesion-en-el-senado-y-el-viaje-de-karina-milei-a-rosario-nid29102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T132756Z"
-    },
-    {
-     "title": "A qué hora llegan las tormentas fuertes a Buenos Aires hoy, según el SMN",
-     "url": "https://www.lanacion.com.ar/sociedad/a-que-hora-llegan-las-tormentas-fuertes-a-buenos-aires-hoy-segun-el-smn-nid29102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T132213Z"
-    },
-    {
      "title": "Como un videojuego, pero para emergencias: crearon un simulador que enseña una técnica capaz de salvar vidas en espacios públicos",
      "url": "https://www.lanacion.com.ar/sociedad/como-un-videojuego-pero-para-emergencias-crearon-un-simulador-que-ensena-una-tecnica-capaz-de-salvar-nid29102026/",
      "domain": "La Nación",
      "seendate": "20261029T131950Z"
-    },
-    {
-     "title": "La reflexión de Gabriel Rolón sobre la felicidad: “Es ese momento de eternidad donde lo que fuiste, querés ser, te atormenta y temés coexisten”",
-     "url": "https://www.lanacion.com.ar/sociedad/la-reflexion-de-gabriel-rolon-sobre-la-felicidad-es-ese-momento-de-eternidad-donde-lo-que-fuiste-nid29102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T131831Z"
-    },
-    {
-     "title": "La reflexión de Gabriel Rolón sobre la felicidad: “A veces uno desea más haber sido feliz que ser feliz”",
-     "url": "https://www.lanacion.com.ar/sociedad/la-reflexion-de-gabriel-rolon-sobre-la-felicidad-a-veces-uno-desea-mas-haber-sido-feliz-que-ser-nid27102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T131819Z"
-    },
-    {
-     "title": "“Súper Niño”: un especialista en Ciencias Ambientales explicó qué impacto tendrá y cuándo se intensificará en la Argentina",
-     "url": "https://www.lanacion.com.ar/sociedad/super-nino-un-especialista-en-ciencias-ambientales-explico-que-impacto-tendra-y-cuando-se-nid29102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T131807Z"
     },
     {
      "title": "Conrado Estol, neurólogo, sobre qué implica la salud: “No es solo la ausencia de enfermedad, es mucho más que eso”",
@@ -2695,12 +2821,6 @@
      "seendate": "20261029T131609Z"
     },
     {
-     "title": "Qué se sabe del hallazgo del cuerpo de Nanci Godoy, la docente que buscaban en Corrientes",
-     "url": "https://www.lanacion.com.ar/seguridad/que-se-sabe-del-hallazgo-del-cuerpo-de-nanci-godoy-la-docente-que-buscaban-en-corrientes-nid28102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T131603Z"
-    },
-    {
      "title": "Gabriel Rolón, psicoanalista, sobre las decisiones: “Solo estamos cumpliendo mandatos inconscientes”",
      "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-sobre-las-decisiones-solo-estamos-cumpliendo-mandatos-inconscientes-nid28102026/",
      "domain": "La Nación",
@@ -2717,78 +2837,6 @@
      "url": "https://www.lanacion.com.ar/politica/hablo-uno-de-los-hermanos-passaglia-tras-lanzar-su-candidatura-y-descarto-alianzas-con-dirigentes-nid29102026/",
      "domain": "La Nación",
      "seendate": "20261029T125324Z"
-    },
-    {
-     "title": "Paro docente nacional hoy: ¿hay clases este jueves 29 de octubre?",
-     "url": "https://www.lanacion.com.ar/sociedad/paro-docente-nacional-hoy-hay-clases-este-jueves-29-de-octubre-nid29102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T122815Z"
-    },
-    {
-     "title": "Cuándo cobro Anses: el calendario completo de noviembre 2026",
-     "url": "https://www.lanacion.com.ar/economia/cuando-cobro-anses-el-calendario-completo-de-noviembre-2026-nid27102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T122810Z"
-    },
-    {
-     "title": "Santiago Caputo fue identificado por un control policial tras el operativo de huida de Bolsonaro",
-     "url": "https://www.lanacion.com.ar/politica/santiago-caputo-fue-identificado-por-un-control-policial-tras-el-operativo-de-huida-de-bolsonaro-nid28102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T122625Z"
-    },
-    {
-     "title": "Millones en cheques rechazados: la fábrica de tractores Pauny enfrenta reclamos por deudas salariales y de aportes",
-     "url": "https://www.lanacion.com.ar/economia/campo/millones-en-cheques-rechazados-la-fabrica-de-tractores-pauny-enfrenta-reclamos-por-deudas-salariales-nid29102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T122428Z"
-    },
-    {
-     "title": "Encontraron el cuerpo de Nanci Godoy, la docente que estaba desaparecida en Corrientes",
-     "url": "https://www.lanacion.com.ar/seguridad/encontraron-el-cuerpo-de-nanci-godoy-la-docente-que-estaba-desaparecida-en-corrientes-nid28102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T122036Z"
-    },
-    {
-     "title": "El Gobierno confirmó el bono previsional de noviembre para jubilados y pensionados",
-     "url": "https://www.lanacion.com.ar/economia/el-gobierno-confirmo-el-bono-previsional-de-noviembre-para-jubilados-y-pensionados-nid29102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T121647Z"
-    },
-    {
-     "title": "Jorge Tartaglione, médico, advirtió sobre el brote que se avecina por el avance del Súper Niño en la Argentina: “Es una tormenta perfecta con presencia de enfermedades”",
-     "url": "https://www.lanacion.com.ar/sociedad/un-medico-califico-al-super-nino-como-la-tormenta-perfecta-y-alerto-sobre-el-brote-que-se-avecina-nid27102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T113302Z"
-    },
-    {
-     "title": "Choque de trenes de alta velocidad en España: un especialista explicó en detalle por qué se produjo el accidente y cuál es la principal hipótesis",
-     "url": "https://www.lanacion.com.ar/sociedad/choque-de-trenes-de-alta-velocidad-en-espana-un-especialista-explico-en-detalle-por-que-se-produjo-nid28102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T113248Z"
-    },
-    {
-     "title": "Gerardo Bartolomé, de crear un gigante en el negocio de la soja a construir una escuela para 225 chicos: “Tenemos dos países”",
-     "url": "https://www.lanacion.com.ar/economia/campo/gerardo-bartolome-de-crear-un-gigante-en-el-negocio-de-la-soja-a-construir-una-escuela-para-225-nid28102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T112215Z"
-    },
-    {
-     "title": "Empresarios que compraron Mercedes-Benz en la Argentina se quedaron con 8652 hectáreas en La Pampa",
-     "url": "https://www.lanacion.com.ar/economia/campo/empresarios-que-compraron-mercedes-benz-en-la-argentina-y-un-accionista-se-quedaron-con-8652-nid28102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T112119Z"
-    },
-    {
-     "title": "Debaten hoy la nueva ley de salud mental; YPF reportó un récord de producción e inversiones millonarias",
-     "url": "https://www.lanacion.com.ar/sociedad/debaten-hoy-la-nueva-ley-de-salud-mental-ypf-reporto-un-record-de-produccion-e-inversiones-nid29102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T112028Z"
-    },
-    {
-     "title": "De cuánto es el bono de noviembre 2026 para jubilados y a quiénes les corresponde",
-     "url": "https://www.lanacion.com.ar/economia/de-cuanto-es-el-bono-de-noviembre-2026-para-jubilados-y-a-quienes-les-corresponde-nid29102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T111954Z"
     }
    ]
   },
@@ -3159,10 +3207,28 @@
   "PRY": {
    "articles": [
     {
-     "title": "Bahía Negra: autoridades ausentes y pobladores abandonados",
-     "url": "https://www.abc.com.py/nacionales/chaco/2026/10/29/bahia-negra-autoridades-ausentes-y-pobladores-abandonados/",
+     "title": "Video: navieros se manifiestan en reclamo de una mejora en la jubilación",
+     "url": "https://www.abc.com.py/nacionales/2026/10/29/video-navieros-se-manifiestan-en-reclamo-de-una-mejora-en-la-jubilacion/",
      "domain": "ABC Color",
-     "seendate": "20261029T125127Z"
+     "seendate": "20261029T143847Z"
+    },
+    {
+     "title": "Detergente de oro: queda firme condena del exdirector financiero de Nenecho",
+     "url": "https://www.abc.com.py/nacionales/2026/10/29/detergente-de-oro-queda-firme-condena-de-exdirector-financiero-de-nenecho/",
+     "domain": "ABC Color",
+     "seendate": "20261029T142525Z"
+    },
+    {
+     "title": "Ronda de tragos termina a balazos y deja un hombre muerto en Naranjito",
+     "url": "https://www.abc.com.py/nacionales/2026/10/29/ronda-de-tragos-termina-a-balazos-y-deja-un-hombre-muerto-en-naranjito/",
+     "domain": "ABC Color",
+     "seendate": "20261029T140511Z"
+    },
+    {
+     "title": "Hospital de Clínicas: presentan denuncia penal luego de hallar irregularidades en cirugías fetales",
+     "url": "https://www.abc.com.py/nacionales/2026/10/29/hospital-de-clinicas-presentan-denuncia-penal-luego-de-hallar-irregularidades-en-cirugias-fetales/",
+     "domain": "ABC Color",
+     "seendate": "20261029T101059Z"
     }
    ]
   },
