@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T07:58:47+00:00",
+ "updated": "2026-10-29T08:51:13+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -7,7 +7,19 @@
      "title": "Accidente de trenes en Toledo: última hora y reacciones en directo | Los servicios de emergencias trabajan en los trenes siniestrados tras una larga noche en Urda",
      "url": "https://elpais.com/espana/2026-10-29/ultima-hora-y-reacciones-tras-el-accidente-de-trenes-de-urda-toledo-en-directo.html",
      "domain": "El País",
-     "seendate": "20261029T074157Z"
+     "seendate": "20261029T084557Z"
+    },
+    {
+     "title": "Seis jóvenes en busca de un amigo desaparecido en el accidente de tren: sin noticias de David",
+     "url": "https://elpais.com/espana/2026-10-29/seis-jovenes-en-busca-de-un-amigo-sin-noticias-de-david.html",
+     "domain": "El País",
+     "seendate": "20261029T082114Z"
+    },
+    {
+     "title": "Asesinado a tiros un hombre ingresado en un hospital en Tarragona que ya había sido agredido en Salou",
+     "url": "https://elpais.com/espana/catalunya/2026-10-29/ejecutan-a-tiros-a-un-hombre-ingresado-en-un-hospital-en-tarragona-que-ya-habia-sido-tiroteado-en-salou.html",
+     "domain": "El País",
+     "seendate": "20261029T074432Z"
     },
     {
      "title": "Noche al límite en la morgue de Toledo para albergar los cuerpos de los fallecidos: “Están buscando forenses”",
@@ -230,12 +242,6 @@
      "seendate": "20261029T035819Z"
     },
     {
-     "title": "Suspenden misas a San Judas en iglesia de San Hipólito por aglomeraciones en el templo; buscan evitar riesgos",
-     "url": "https://www.eluniversal.com.mx/metropoli/suspenden-misas-a-san-judas-en-iglesia-de-san-hipolito-por-aglomeraciones-en-el-templo-buscan-evitar-riesgos/",
-     "domain": "El Universal",
-     "seendate": "20261029T035124Z"
-    },
-    {
      "title": "Gobernadores y políticos locales lamentan fallecimiento de Cuauhtémoc Cárdenas; \"su ejemplo y legado forman parte de la historia política del país\"",
      "url": "https://www.eluniversal.com.mx/metropoli/gobernadores-y-politicos-lamentan-fallecimiento-de-cuauhtemoc-cardenas-su-ejemplo-y-legado-forman-parte-de-la-historia-politica-del-pais/",
      "domain": "El Universal",
@@ -252,12 +258,6 @@
      "url": "https://www.eluniversal.com.mx/nacion/amlo-lamenta-la-muerte-fallecimiento-de-cuauhtemoc-cardenas-precursor-del-movimiento-democratico-en-la-historia-reciente-de-mexico/",
      "domain": "El Universal",
      "seendate": "20261029T033041Z"
-    },
-    {
-     "title": "Muere Cuauhtémoc Cárdenas Solórzano a los 92 años; tres veces candidato presidencial",
-     "url": "https://www.eluniversal.com.mx/nacion/muere-cuauhtemoc-cardenas-a-los-92-anos-ingeniero-civil-y-fundador-del-prd/",
-     "domain": "El Universal",
-     "seendate": "20261029T025908Z"
     }
    ]
   },
@@ -963,6 +963,12 @@
   },
   "CRI": {
    "articles": [
+    {
+     "title": "MOPT pagará ¢16.000 millones adicionales por IVA en construcción de tramo central de vía a San Carlos",
+     "url": "https://www.nacion.com/el-pais/mopt-pagara-16000-millones-adicionales-por-iva-en/ZWWXX6FGYFAEFGL4GEVLOBLKUQ/story/",
+     "domain": "La Nación",
+     "seendate": "20261029T081500Z"
+    },
     {
      "title": "José María Villalta denuncia presuntos intentos de extorsión del PPSO a diputado del PLN para exigirle votar contra reelección de magistrada Julia Varela",
      "url": "https://www.nacion.com/politica/jose-maria-villalta-denuncia-presuntos-intentos-de/NN5OO7XE4FDV7BUMRCWIN7TQ4Q/story/",
@@ -2563,6 +2569,18 @@
   "ARG": {
    "articles": [
     {
+     "title": "Por qué cada vez tenemos menos paciencia, según la psicología: “Es difícil generar conversaciones donde nos sintamos escuchados”",
+     "url": "https://www.lanacion.com.ar/sociedad/por-que-cada-vez-tenemos-menos-paciencia-segun-la-psicologia-es-dificil-generar-conversaciones-donde-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T080000Z"
+    },
+    {
+     "title": "“Súper Niño”: un especialista en Ciencias Ambientales explicó qué impacto tendrá y cuándo se intensificará en la Argentina",
+     "url": "https://www.lanacion.com.ar/sociedad/super-nino-un-especialista-en-ciencias-ambientales-explico-que-impacto-tendra-y-cuando-se-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T080000Z"
+    },
+    {
      "title": "La reflexión de Gabriel Rolón sobre la felicidad: “Es ese momento de eternidad donde lo que fuiste, querés ser, te atormenta y temés coexisten”",
      "url": "https://www.lanacion.com.ar/sociedad/la-reflexion-de-gabriel-rolon-sobre-la-felicidad-es-ese-momento-de-eternidad-donde-lo-que-fuiste-nid29102026/",
      "domain": "La Nación",
@@ -3105,6 +3123,12 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "Após fuga de Flávio aos EUA, disputa entre alas do bolsonarismo se acirra e expõe racha entre aliados",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/29/apos-fuga-de-flavio-aos-eua-disputa-entre-alas-do-bolsonarismo-se-acirra-e-expoe-racha-entre-aliados.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261029T083000Z"
+    },
     {
      "title": "De quem são os 20 corpos abandonados pelas ruas de SP: perfil das vítimas e modo de ação apontam para tribunal do PCC",
      "url": "https://oglobo.globo.com/brasil/noticia/2026/10/29/de-quem-sao-os-20-corpos-abandonados-pelas-ruas-de-sp-perfil-das-vitimas-e-modo-de-acao-apontam-para-tribunal-do-pcc.ghtml",
