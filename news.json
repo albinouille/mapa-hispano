@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T21:38:45+00:00",
+ "updated": "2026-10-29T22:38:48+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -7,10 +7,10 @@
      "title": "Accidente de trenes en Toledo: última hora y reacciones en directo | El PP pide la comparecencia de Sánchez en el Congreso y considera “insuficiente” la de Puente",
      "url": "https://elpais.com/espana/2026-10-29/ultima-hora-y-reacciones-tras-el-accidente-de-trenes-de-urda-toledo-en-directo.html",
      "domain": "El País",
-     "seendate": "20261029T205545Z"
+     "seendate": "20261029T220232Z"
     },
     {
-     "title": "El primer informe técnico del accidente estima que el AVE que chocó en Urda circulaba de 160 a 200 kilómetros por hora",
+     "title": "El primer informe técnico del accidente estima que el AVE circulaba de 160 a 200 kilómetros por hora cuando chocó",
      "url": "https://elpais.com/espana/2026-10-29/el-primer-informe-tecnico-del-accidente-fija-en-160-a-200-kilometros-por-hora-la-velocidad-del-ave-que-choco-en-urda.html",
      "domain": "El País",
      "seendate": "20261029T205330Z"
@@ -212,6 +212,54 @@
   "MEX": {
    "articles": [
     {
+     "title": "SEP restringirá celulares en educación básica desde el 3 de noviembre; estudio advierte que medida puede profundizar desigualdades",
+     "url": "https://www.eluniversal.com.mx/nacion/sep-restringira-celulares-en-educacion-basica-desde-el-3-de-noviembre-estudio-advierte-que-medida-puede-profundizar-desigualdades/",
+     "domain": "El Universal",
+     "seendate": "20261029T222742Z"
+    },
+    {
+     "title": "Absuelven a Jorge Fernández por feminicidio de su esposa, María del Pilar, en Tamaulipas; ordena su liberación inmediata",
+     "url": "https://www.eluniversal.com.mx/estados/absuelven-a-jorge-fernandez-por-feminicidio-de-su-esposa-maria-del-pilar-en-tamaulipas-ordena-su-liberacion-inmediata/",
+     "domain": "El Universal",
+     "seendate": "20261029T222459Z"
+    },
+    {
+     "title": "Fiscalía CDMX ha reclutado a 20 policías de investigación y 10 ministerios públicos; darán seguimiento a casos de personas desaparecidas",
+     "url": "https://www.eluniversal.com.mx/metropoli/fiscalia-cdmx-ha-reclutado-a-20-policias-de-investigacion-y-10-ministerios-publicos-daran-seguimiento-a-casos-de-personas-desaparecidas/",
+     "domain": "El Universal",
+     "seendate": "20261029T221945Z"
+    },
+    {
+     "title": "Sheinbaum hace guardia de honor en funeral de Cuauhtémoc Cárdenas; deja legado de \"honestidad y democracia\", afirma",
+     "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-hace-guardia-de-honor-en-funeral-de-cuauhtemoc-cardenas-deja-legado-de-honestidad-y-democracia-afirma/",
+     "domain": "El Universal",
+     "seendate": "20261029T221243Z"
+    },
+    {
+     "title": "Los perritos que murieron envenenados en Parque España consumieron insecticida altamente tóxico: Fiscalía; se han presentado dos denuncias",
+     "url": "https://www.eluniversal.com.mx/metropoli/los-perritos-que-murieron-envenenados-en-parque-espana-consumieron-insecticida-altamente-toxico-fiscalia-se-han-presentado-dos-denuncias/",
+     "domain": "El Universal",
+     "seendate": "20261029T221231Z"
+    },
+    {
+     "title": "\"Si hay clan Taddei, soy autor intelectual involuntario\" dice Durazo; reconoce que impulsó algunos de sus nombramientos",
+     "url": "https://www.eluniversal.com.mx/estados/si-hay-clan-taddei-soy-autor-intelectual-involuntario-dice-durazo-reconoce-que-impulso-algunos-de-sus-nombramientos/",
+     "domain": "El Universal",
+     "seendate": "20261029T220313Z"
+    },
+    {
+     "title": "Michoacán espera un millón de turistas durante la Semana de Noche de Muertos; habrá más de 700 actividades",
+     "url": "https://www.eluniversal.com.mx/estados/michoacan-espera-un-millon-de-turistas-durante-la-semana-de-noche-de-muertos-habra-mas-de-700-actividades/",
+     "domain": "El Universal",
+     "seendate": "20261029T220017Z"
+    },
+    {
+     "title": "Clara Brugada reconoce legado de Cuauhtémoc Cárdenas; fue \"protagonista y fundador\" de la democracia en México, destaca",
+     "url": "https://www.eluniversal.com.mx/metropoli/clara-brugada-reconoce-legado-de-cuauhtemoc-cardenas-fue-protagonista-y-fundador-de-la-democracia-en-mexico-destaca/",
+     "domain": "El Universal",
+     "seendate": "20261029T215717Z"
+    },
+    {
      "title": "Tribunal ordena continuar juicio en caso de extorsión a Grupo Herdez; sigue proceso contra Irene León Escamilla",
      "url": "https://www.eluniversal.com.mx/nacion/tribunal-ordena-continuar-juicio-en-caso-de-extorsion-a-grupo-herdez-sigue-proceso-contra-irene-leon-escamilla/",
      "domain": "El Universal",
@@ -392,58 +440,10 @@
      "seendate": "20261029T163901Z"
     },
     {
-     "title": "Despliegan 4 mil 302 policías para el Gran Premio de México 2026; habrá operativo vial y de seguridad",
-     "url": "https://www.eluniversal.com.mx/metropoli/despliegan-4-mil-302-policias-para-el-gran-premio-de-mexico-2026-habra-operativo-vial-y-de-seguridad/",
-     "domain": "El Universal",
-     "seendate": "20261029T162421Z"
-    },
-    {
-     "title": "Fallece interno dentro del centro penitenciario de Culiacán; es el cuarto en cuatro días en el estado",
-     "url": "https://www.eluniversal.com.mx/estados/fallece-interno-dentro-del-centro-penitenciario-de-culiacan-es-el-cuarto-en-cuatro-dias-en-el-estado/",
-     "domain": "El Universal",
-     "seendate": "20261029T162035Z"
-    },
-    {
-     "title": "Comienzan tómbolas para ganar Viviendas del Bienestar; en Michoacán beneficia a 448 familias",
-     "url": "https://www.eluniversal.com.mx/nacion/comienzan-tombolas-para-ganar-viviendas-del-bienestar-en-michoacan-beneficia-a-448-familias/",
-     "domain": "El Universal",
-     "seendate": "20261029T161242Z"
-    },
-    {
-     "title": "Sheinbaum alista informe del Plan Michoacán tras un año del asesinato de Carlos Manzo; prioriza seguridad y programas sociales",
-     "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-alista-informe-del-plan-michoacan-tras-un-ano-del-asesinato-de-carlos-manzo-prioriza-seguridad-y-programas-sociales/",
-     "domain": "El Universal",
-     "seendate": "20261029T160535Z"
-    },
-    {
-     "title": "Sepelio de Cuauhtémoc Cárdenas será privado; Mi padre fue un personaje decisivo en la historia de México: Lázaro Cárdenas Batel",
-     "url": "https://www.eluniversal.com.mx/nacion/sepelio-de-cuauhtemoc-cardenas-sera-privado-mi-padre-fue-un-personaje-decisivo-en-la-historia-de-mexico-lazaro-cardenas-batel/",
-     "domain": "El Universal",
-     "seendate": "20261029T160258Z"
-    },
-    {
-     "title": "Hallan trozo de salami con una pastilla azul en la Condesa; SSC investiga el caso",
-     "url": "https://www.eluniversal.com.mx/metropoli/hallan-trozo-de-salami-con-una-pastilla-azul-en-la-condesa-ssc-investiga-el-caso/",
-     "domain": "El Universal",
-     "seendate": "20261029T154144Z"
-    },
-    {
      "title": "Sheinbaum: Guadalupe Taddei traicionó la confianza del pueblo de México; apuesta por fortalecimiento de Talleres Gráficos",
      "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-guadalupe-taddei-traiciono-la-confianza-del-pueblo-de-mexico/",
      "domain": "El Universal",
      "seendate": "20261029T153012Z"
-    },
-    {
-     "title": "Marchas y manifestaciones en CDMX este 29 de octubre; consulta horarios y puntos de concentración",
-     "url": "https://www.eluniversal.com.mx/metropoli/marchas-y-manifestaciones-en-cdmx-este-29-de-octubre-consulta-horarios-y-puntos-de-concentracion/",
-     "domain": "El Universal",
-     "seendate": "20261029T152236Z"
-    },
-    {
-     "title": "La mañanera de Sheinbaum, 29 de octubre, minuto a minuto",
-     "url": "https://www.eluniversal.com.mx/nacion/la-mananera-de-sheinbaum-29-de-octubre-minuto-a-minuto-3/",
-     "domain": "El Universal",
-     "seendate": "20261029T132258Z"
     },
     {
      "title": "Caso Taddei pega de lleno al corazón del INE; Edmundo Jacobo en Con los de Casa",
@@ -1090,6 +1090,18 @@
   "CRI": {
    "articles": [
     {
+     "title": "Detienen a sospechosos de suministrar agua con clonazepam a clientes de bares de San José para robarles",
+     "url": "https://www.nacion.com/sucesos/detienen-a-sospechosos-de-suministrar-agua-con/6GNMWJEHGJBIZH3A7EYWNWDBPE/story/",
+     "domain": "La Nación",
+     "seendate": "20261029T220848Z"
+    },
+    {
+     "title": "PPSO avala investigar préstamo a magistrada Patricia Solano, pero bloquea pesquisas sobre vuelo fallido y deuda de financista",
+     "url": "https://www.nacion.com/politica/ppso-avala-investigar-prestamo-a-magistrada/Q77T53SVNFFSBMR3L4EHAS27VU/story/",
+     "domain": "La Nación",
+     "seendate": "20261029T214947Z"
+    },
+    {
      "title": "Tránsito alista operativo para hacer frente a ‘caravana del payaso’: estas serían las rutas que tomarían los motociclistas este 31 de octubre",
      "url": "https://www.nacion.com/el-pais/transito-alista-operativo-para-hacer-frente-a/F6C4I6E3MJDV3PIHHJD4SS6M6U/story/",
      "domain": "La Nación",
@@ -1202,12 +1214,6 @@
      "url": "https://www.nacion.com/politica/jose-maria-villalta-denuncia-presuntos-intentos-de/NN5OO7XE4FDV7BUMRCWIN7TQ4Q/story/",
      "domain": "La Nación",
      "seendate": "20261029T013929Z"
-    },
-    {
-     "title": "Jorge Araya reelegido en la Sala Constitucional: PPSO no logra 38 votos para impedirle seguir como magistrado",
-     "url": "https://www.nacion.com/politica/jorge-araya-logra-reeleccion-en-la-sala/LNEFFSUSTZG5NGIWAW5OXGLUDE/story/",
-     "domain": "La Nación",
-     "seendate": "20261029T010325Z"
     }
    ]
   },
@@ -1328,12 +1334,6 @@
      "seendate": "20261027T175444Z"
     },
     {
-     "title": "Las dos caras de Azuero tras el temblor: entre las tejas de Parita y las carencias de Canajagua",
-     "url": "https://www.prensa.com/sociedad/las-dos-caras-de-azuero-tras-el-temblor-entre-las-tejas-de-parita-y-las-carencias-de-canajagua/",
-     "domain": "La Prensa",
-     "seendate": "20261027T050400Z"
-    },
-    {
      "title": "Terremoto en Azuero: alcaldes piden a Ejecutivo más coordinación y recursos",
      "url": "https://www.prensa.com/politica/terremoto-en-azuero-alcaldes-piden-a-ejecutivo-mas-coordinacion-y-recursos/",
      "domain": "La Prensa",
@@ -1343,6 +1343,12 @@
   },
   "CUB": {
    "articles": [
+    {
+     "title": "Se roban un panel solar de Etecsa en Sancti Spíritus y ponen en riesgo la conexión de varios barrios",
+     "url": "https://www.14ymedio.com/cuba/roban-panel-solar-etecsa-sancti_1_1132605.html",
+     "domain": "14ymedio",
+     "seendate": "20261029T220815Z"
+    },
     {
      "title": "\"Si no tienes dinero te mueres de hambre\": la Cuba que encontró el ‘Wall Street Journal’",
      "url": "https://www.14ymedio.com/cuba/si-no-tienes-dinero-mueres_1_1132584.html",
@@ -1453,10 +1459,40 @@
   "COL": {
    "articles": [
     {
+     "title": "Gobernación de Antioquia invirtió cerca de un billón de pesos contra el hambre: 900.000 personas salieron de la inseguridad alimentaria desde 2023",
+     "url": "https://www.eltiempo.com/colombia/medellin/gobernacion-de-antioquia-invirtio-cerca-de-un-billon-de-pesos-contra-el-hambre-900-000-personas-salieron-de-la-inseguridad-alimentaria-desde-3597074",
+     "domain": "El Tiempo",
+     "seendate": "20261029T221226Z"
+    },
+    {
+     "title": "Santa Verónica recuperó sus playas y la esperanza: la historia del balneario del Atlántico que el mar estuvo a punto de borrar",
+     "url": "https://www.eltiempo.com/colombia/barranquilla/santa-veronica-recupero-sus-playas-y-la-esperanza-la-historia-del-balneario-del-atlantico-que-el-mar-estuvo-a-punto-de-borrar-3597299",
+     "domain": "El Tiempo",
+     "seendate": "20261029T220100Z"
+    },
+    {
+     "title": "Gran donatón para reconstruir el templo y el cementerio de Roldanillo, Valle, tras el terremoto: se necesitan más de 2.000 millones de pesos",
+     "url": "https://www.eltiempo.com/colombia/cali/gran-donaton-para-reconstruir-el-templo-y-el-cementerio-de-roldanillo-valle-tras-el-terremoto-se-necesitan-mas-de-2-000-millones-de-pesos-3597313",
+     "domain": "El Tiempo",
+     "seendate": "20261029T215511Z"
+    },
+    {
+     "title": "Tragedia en Campamento (Antioquia): doble homicidio a la salida de una cancha enluta a la comunidad y a la familia de exmandatarios",
+     "url": "https://www.eltiempo.com/colombia/medellin/tragedia-en-campamento-antioquia-doble-homicidio-a-la-salida-de-una-cancha-enluta-a-la-comunidad-y-a-la-familia-de-exmandatarios-3597315",
+     "domain": "El Tiempo",
+     "seendate": "20261029T214740Z"
+    },
+    {
+     "title": "¿Menos pantallas, más protección?: avanza en el Concejo iniciativa que restringe el uso de celulares a menores de 13 años en colegios de Cali",
+     "url": "https://www.eltiempo.com/colombia/cali/menos-pantallas-mas-proteccion-avanza-en-el-concejo-iniciativa-que-restringe-el-uso-de-celulares-a-menores-de-13-anos-en-colegios-de-cali-3597310",
+     "domain": "El Tiempo",
+     "seendate": "20261029T212715Z"
+    },
+    {
      "title": "Crisis por la energía en el municipio de Barbacoas, Nariño: 'Estamos cansados del mal servicio y pedimos que los compromisos se cumplan'",
      "url": "https://www.eltiempo.com/colombia/cali/crisis-por-la-energia-en-el-municipio-de-barbacoas-narino-estamos-cansados-del-mal-servicio-y-pedimos-que-los-compromisos-se-cumplan-3597306",
      "domain": "El Tiempo",
-     "seendate": "20261029T211614Z"
+     "seendate": "20261029T212145Z"
     },
     {
      "title": "Sigue la violencia contra trabajadores de caña entre Valle y Cauca: hombres armados robaron un bus y secuestraron al conductor que luego fue liberado",
@@ -1477,40 +1513,10 @@
      "seendate": "20261029T201155Z"
     },
     {
-     "title": "Polémica | ¿Qué pasó con la escultura de Celia Cruz? Esta es la razón por la que se bajó del pedestal en el barrio Obrero, en el corazón de Cali",
-     "url": "https://www.eltiempo.com/colombia/cali/polemica-que-paso-con-la-escultura-de-celia-cruz-esta-es-la-razon-por-la-que-se-bajo-del-pedestal-en-el-barrio-obrero-el-corazon-de-cali-3597270",
-     "domain": "El Tiempo",
-     "seendate": "20261029T195825Z"
-    },
-    {
      "title": "Ojo | Restringen parrillero en moto en Bucaramanga para el fin de semana de Halloween: así quedó el dispositivo de seguridad y los horarios",
      "url": "https://www.eltiempo.com/colombia/santander/ojo-restringen-parrillero-en-moto-en-bucaramanga-para-el-fin-de-semana-de-halloween-asi-quedo-el-dispositivo-de-seguridad-y-los-horarios-3597274",
      "domain": "El Tiempo",
      "seendate": "20261029T194449Z"
-    },
-    {
-     "title": "Calendario 2027 en Colombia: tres meses no tendrán festivos y uno cambiará de fecha, conozca las novedades",
-     "url": "https://www.eltiempo.com/colombia/calendario-2027-en-colombia-tres-meses-no-tendran-festivos-y-uno-cambiara-de-fecha-conozca-los-cambios-3597262",
-     "domain": "El Tiempo",
-     "seendate": "20261029T193349Z"
-    },
-    {
-     "title": "Tragedia en el norte de Barranquilla: joven motociclista de 19 años murió tras quedar bajo un bus en la carrera 46; investigan choque con automóvil",
-     "url": "https://www.eltiempo.com/colombia/barranquilla/tragedia-en-el-norte-de-barranquilla-joven-motociclista-de-19-anos-murio-tras-quedar-bajo-un-bus-en-la-carrera-46-investigan-choque-con-automovil-3597272",
-     "domain": "El Tiempo",
-     "seendate": "20261029T193000Z"
-    },
-    {
-     "title": "Caucasia vuelve a ser escenario de un milagro múltiple: tras los cuatrillizos, ahora una joven de 19 años espera trillizas idénticas",
-     "url": "https://www.eltiempo.com/colombia/medellin/caucasia-vuelve-a-ser-escenario-de-un-milagro-multiple-tras-los-cuatrillizos-ahora-una-joven-de-19-anos-espera-trillizas-identicas-3597254",
-     "domain": "El Tiempo",
-     "seendate": "20261029T190557Z"
-    },
-    {
-     "title": "‘Sentí el primer golpe, luego el bus dio vueltas y salimos expulsados’: sobrevivientes reconstruyen la tragedia de la agrupación de Kbeto Zuleta",
-     "url": "https://www.eltiempo.com/colombia/barranquilla/senti-el-primer-golpe-luego-el-bus-dio-vueltas-y-salimos-expulsados-sobrevivientes-reconstruyen-la-tragedia-de-la-agrupacion-de-kbeto-zuleta-3597251",
-     "domain": "El Tiempo",
-     "seendate": "20261029T180100Z"
     }
    ]
   },
@@ -1809,6 +1815,30 @@
   "ECU": {
    "articles": [
     {
+     "title": "Secretaria de Gestión de Riesgos inspecciona alojamientos y entrega kits a los afectados por inundaciones en Machala",
+     "url": "https://eluniverso.com/comunidad/ecuador/secretaria-de-gestion-de-riesgos-inspecciona-alojamientos-y-entrega-kits-a-los-afectados-por-inundaciones-en-machala-nota/",
+     "domain": "El Universo",
+     "seendate": "20261029T220855Z"
+    },
+    {
+     "title": "CNE designa a 21 moderadores para los debates de las elecciones seccionales",
+     "url": "https://eluniverso.com/politica/elecciones/cne-designa-a-21-moderadores-para-los-debates-de-las-elecciones-seccionales-de-2026-nota/",
+     "domain": "El Universo",
+     "seendate": "20261029T220825Z"
+    },
+    {
+     "title": "Ley de Contratación Pública prohíbe a autoridades tener contratos con el Estado: Alexandro Tonello, exviceprefecto de Pichincha y aspirante del correísmo, la habría incumplido",
+     "url": "https://eluniverso.com/politica/expedientes/ley-de-contratacion-publica-prohibe-a-autoridades-tener-contratos-con-el-estado-alexandro-tonello-exviceprefecto-de-pichincha-y-aspirante-del-correismo-la-habria-incumplido-nota/",
+     "domain": "El Universo",
+     "seendate": "20261029T215632Z"
+    },
+    {
+     "title": "ADN retira su respaldo político al alcalde de Naranjal, Juan Carlos Rivera",
+     "url": "https://eluniverso.com/politica/elecciones/adn-retira-su-respaldo-politico-al-alcalde-de-naranjal-juan-carlos-rivera-nota/",
+     "domain": "El Universo",
+     "seendate": "20261029T213637Z"
+    },
+    {
      "title": "Estado de las vías en Los Ríos para este largo feriado",
      "url": "https://eluniverso.com/comunidad/ecuador/estado-de-las-vias-en-los-rios-para-este-largo-feriado-nota/",
      "domain": "El Universo",
@@ -1905,18 +1935,6 @@
      "seendate": "20261029T133932Z"
     },
     {
-     "title": "Lluvias en Ecuador dejan 33.486 afectados y 2.346 damnificados",
-     "url": "https://eluniverso.com/comunidad/ecuador/lluvias-en-ecuador-dejan-33486-afectados-y-2346-damnificados-nota/",
-     "domain": "El Universo",
-     "seendate": "20261029T123815Z"
-    },
-    {
-     "title": "Nueve operativos Libertad dejaron 22 aprehendidos y 8 víctimas de secuestro liberadas",
-     "url": "https://eluniverso.com/politica/seguridad/nueve-operativos-libertad-dejaron-22-aprehendidos-y-ocho-victimas-de-secuestro-liberadas-nota/",
-     "domain": "El Universo",
-     "seendate": "20261029T121000Z"
-    },
-    {
      "title": "Habilitado paso provisional junto al puente Tapaila en la vía E-15 norte de Esmeraldas",
      "url": "https://eluniverso.com/comunidad/ecuador/habilitado-paso-provisional-junto-al-puente-tapaila-en-la-via-e15-norte-de-esmeraldas-nota/",
      "domain": "El Universo",
@@ -1938,6 +1956,12 @@
   },
   "PER": {
    "articles": [
+    {
+     "title": "El dólar cierra en S/3,46 en Perú pese a retroceso de la divisa a nivel internacional",
+     "url": "https://elcomercio.pe/economia/peru/el-dolar-cierra-en-s346-en-peru-pese-a-retroceso-de-la-divisa-a-nivel-internacional-l-cotizacion-del-dolar-l-tipo-de-cambio-l-ultimas-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261029T213656Z"
+    },
     {
      "title": "Temblor hoy, 29 de octubre: reporte del IGP, epicentro y magnitud del último sismo en Perú",
      "url": "https://elcomercio.pe/peru/temblor-en-peru-hoy-reporte-de-sismos-del-igp-epicentro-y-magnitud-tdpe-noticia/",
@@ -2689,6 +2713,84 @@
   "ARG": {
    "articles": [
     {
+     "title": "Pese a que la ONU descartó una resolución inmediata, en el PJ esperan que trate las cautelares sobre la candidatura de Cristina y sus condiciones de detención",
+     "url": "https://www.lanacion.com.ar/politica/pese-a-que-la-onu-descarto-una-resolucion-inmediata-en-el-pj-esperan-que-trate-las-cautelares-sobre-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T222653Z"
+    },
+    {
+     "title": "Javier Milei y sus medidas, en vivo: sesión en el Senado y el viaje de Karina Milei a Rosario",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-sesion-en-el-senado-y-el-viaje-de-karina-milei-a-rosario-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T222632Z"
+    },
+    {
+     "title": "La autopsia determinó que la docente Nancy Godoy fue asesinada a puñaladas",
+     "url": "https://www.lanacion.com.ar/seguridad/la-autopsia-determino-que-la-docente-nancy-godoy-fue-asesinada-a-punaladas-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T222616Z"
+    },
+    {
+     "title": "El gobierno de Trump anticipó a empresas estadounidenses que habrá más financiamiento para proyectos en la Argentina",
+     "url": "https://www.lanacion.com.ar/economia/el-gobierno-de-trump-anticipo-a-empresas-estadounidenses-que-habra-mas-financiamiento-para-proyectos-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T222522Z"
+    },
+    {
+     "title": "Noche de Halloween: decoración y juegos para pasar una fiesta inolvidable",
+     "url": "https://www.lanacion.com.ar/sociedad/noche-de-halloween-decoracion-y-juegos-para-pasar-una-fiesta-inolvidable-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T222500Z"
+    },
+    {
+     "title": "Informe oficial: ya se evacuaron 147.500 vacunos y búfalos de las zonas inundadas del Litoral",
+     "url": "https://www.lanacion.com.ar/economia/campo/informe-oficial-ya-se-evacuaron-147500-bovinos-y-bufalos-de-las-zonas-inundadas-del-litoral-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T220048Z"
+    },
+    {
+     "title": "Donar sangre: quiénes pueden, quiénes no y cuánto hay que esperar después de un tatuaje",
+     "url": "https://www.lanacion.com.ar/sociedad/donar-sangre-quienes-pueden-quienes-no-y-cuanto-hay-que-esperar-despues-de-un-tatuaje-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T220000Z"
+    },
+    {
+     "title": "A qué hora llegan las tormentas fuertes a Buenos Aires hoy, según el SMN",
+     "url": "https://www.lanacion.com.ar/sociedad/a-que-hora-llegan-las-tormentas-fuertes-a-buenos-aires-hoy-segun-el-smn-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T215100Z"
+    },
+    {
+     "title": "La reflexión de Gabriel Rolón sobre la felicidad: “A veces uno desea más haber sido feliz que ser feliz”",
+     "url": "https://www.lanacion.com.ar/sociedad/la-reflexion-de-gabriel-rolon-sobre-la-felicidad-a-veces-uno-desea-mas-haber-sido-feliz-que-ser-nid27102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T214900Z"
+    },
+    {
+     "title": "Jóvenes estudiantes exploraron los “secretos” de la Justicia en la sala más tradicional de Tribunales",
+     "url": "https://www.lanacion.com.ar/seguridad/jovenes-estudiantes-exploraron-los-secretos-de-la-justicia-en-la-sala-mas-tradicional-de-tribunales-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T214810Z"
+    },
+    {
+     "title": "La frase del día de Séneca: “La suerte es donde confluyen la preparación y la oportunidad”",
+     "url": "https://www.lanacion.com.ar/sociedad/la-frase-del-dia-de-seneca-la-suerte-es-donde-confluyen-la-preparacion-y-la-oportunidad-nid28102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T214800Z"
+    },
+    {
+     "title": "El consejo de Arthur Brooks, experto en felicidad de Harvard, para la segunda mitad de la vida: “Pasar de sumar a restar”",
+     "url": "https://www.lanacion.com.ar/sociedad/el-consejo-de-arthur-brooks-experto-en-felicidad-de-harvard-para-la-segunda-mitad-de-la-vida-pasar-nid27102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T214100Z"
+    },
+    {
+     "title": "Pablo Ferrero, especialista en medicina del sueño, recomendó dormir desnudo: “Facilita la termorregulación”",
+     "url": "https://www.lanacion.com.ar/sociedad/pablo-ferrero-especialista-en-medicina-del-sueno-recomendo-dormir-desnudo-facilita-la-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T213700Z"
+    },
+    {
      "title": "Cambia el scoring de los conductores en la ciudad: qué se modifica y cómo funciona",
      "url": "https://www.lanacion.com.ar/sociedad/cambia-el-scoring-de-los-conductores-en-la-ciudad-que-se-modifica-y-como-funciona-nid29102026/",
      "domain": "La Nación",
@@ -2711,12 +2813,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/la-anorexia-y-la-bulimia-crecieron-un-71-en-tres-decadas-de-acuerdo-a-un-estudio-global-la-nid29102026/",
      "domain": "La Nación",
      "seendate": "20261029T210440Z"
-    },
-    {
-     "title": "Javier Milei y sus medidas, en vivo: sesión en el Senado y el viaje de Karina Milei a Rosario",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-sesion-en-el-senado-y-el-viaje-de-karina-milei-a-rosario-nid29102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T210234Z"
     },
     {
      "title": "Cómo controlar la glucemia, según un médico: “La única manera de destrabar la cerradura es actividad física”",
@@ -2749,12 +2845,6 @@
      "seendate": "20261029T205053Z"
     },
     {
-     "title": "A qué hora llegan las tormentas fuertes a Buenos Aires hoy, según el SMN",
-     "url": "https://www.lanacion.com.ar/sociedad/a-que-hora-llegan-las-tormentas-fuertes-a-buenos-aires-hoy-segun-el-smn-nid29102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T205035Z"
-    },
-    {
      "title": "La desesperación de un productor que perdió casi todas sus ovejas por un ataque de perros",
      "url": "https://www.lanacion.com.ar/economia/campo/llore-grite-y-me-frustre-los-perros-atacaron-su-campo-y-perdio-casi-todas-sus-ovejas-nid29102026/",
      "domain": "La Nación",
@@ -2773,12 +2863,6 @@
      "seendate": "20261029T203420Z"
     },
     {
-     "title": "La reflexión de Gabriel Rolón sobre la felicidad: “A veces uno desea más haber sido feliz que ser feliz”",
-     "url": "https://www.lanacion.com.ar/sociedad/la-reflexion-de-gabriel-rolon-sobre-la-felicidad-a-veces-uno-desea-mas-haber-sido-feliz-que-ser-nid27102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T203404Z"
-    },
-    {
      "title": "“Súper Niño”: un especialista en Ciencias Ambientales explicó qué impacto tendrá y cuándo se intensificará en la Argentina",
      "url": "https://www.lanacion.com.ar/sociedad/super-nino-un-especialista-en-ciencias-ambientales-explico-que-impacto-tendra-y-cuando-se-nid29102026/",
      "domain": "La Nación",
@@ -2789,12 +2873,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/conrado-estol-neurologo-sobre-que-implica-la-salud-no-es-solo-la-ausencia-de-enfermedad-es-mucho-mas-nid29102026/",
      "domain": "La Nación",
      "seendate": "20261029T203348Z"
-    },
-    {
-     "title": "La frase del día de Séneca: “La suerte es donde confluyen la preparación y la oportunidad”",
-     "url": "https://www.lanacion.com.ar/sociedad/la-frase-del-dia-de-seneca-la-suerte-es-donde-confluyen-la-preparacion-y-la-oportunidad-nid28102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T203340Z"
     },
     {
      "title": "Cuáles son las nuevas formas de medir el colesterol y cómo interpretar los resultados",
@@ -2839,12 +2917,6 @@
      "seendate": "20261029T203257Z"
     },
     {
-     "title": "El consejo de Arthur Brooks, experto en felicidad de Harvard, para la segunda mitad de la vida: “Pasar de sumar a restar”",
-     "url": "https://www.lanacion.com.ar/sociedad/el-consejo-de-arthur-brooks-experto-en-felicidad-de-harvard-para-la-segunda-mitad-de-la-vida-pasar-nid27102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T203035Z"
-    },
-    {
      "title": "Gabriel Rolón, psicoanalista, sobre las decisiones: “Solo estamos cumpliendo mandatos inconscientes”",
      "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-sobre-las-decisiones-solo-estamos-cumpliendo-mandatos-inconscientes-nid28102026/",
      "domain": "La Nación",
@@ -2861,12 +2933,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/guillermo-robino-especialista-en-trenes-advirtio-por-que-aumentan-los-accidentes-ferroviarios-en-nid29102026/",
      "domain": "La Nación",
      "seendate": "20261029T203013Z"
-    },
-    {
-     "title": "Pablo Ferrero, especialista en medicina del sueño, recomendó dormir desnudo: “Facilita la termorregulación”",
-     "url": "https://www.lanacion.com.ar/sociedad/pablo-ferrero-especialista-en-medicina-del-sueno-recomendo-dormir-desnudo-facilita-la-nid29102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T203006Z"
     },
     {
      "title": "Mercado Pago ya superó las revisiones técnicas para convertirse en banco",
@@ -2915,24 +2981,6 @@
      "url": "https://www.lanacion.com.ar/seguridad/la-caida-de-la-banda-de-motochorros-que-les-robaba-a-cambistas-y-se-alzo-con-un-botin-de-casi-100-nid29102026/",
      "domain": "La Nación",
      "seendate": "20261029T195531Z"
-    },
-    {
-     "title": "Quiénes son los dos empleados de Yacyretá que ayudaron a Santiago Caputo en Misiones para el operativo Bolsonaro",
-     "url": "https://www.lanacion.com.ar/politica/quienes-son-los-dos-empleados-de-yacyreta-que-ayudaron-a-santiago-caputo-en-misiones-para-el-nid29102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T194031Z"
-    },
-    {
-     "title": "Quedó firme la condena a prisión perpetua para un femicida al que delató un loro que no dejaba de repetir la súplica de la víctima",
-     "url": "https://www.lanacion.com.ar/seguridad/quedo-firme-la-condena-a-prision-perpetua-para-un-femicida-al-que-delato-un-loro-que-no-dejaba-de-nid29102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T193407Z"
-    },
-    {
-     "title": "La huida de Bolsonaro: en Misiones piden desestimar la denuncia contra el Gobierno, mientras en Comodoro Py solicitan medidas de prueba",
-     "url": "https://www.lanacion.com.ar/politica/la-justicia-pidio-al-gobierno-datos-sobre-la-salida-de-bolsonaro-de-la-argentina-nid29102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T192606Z"
     }
    ]
   },
@@ -3303,6 +3351,24 @@
   "PRY": {
    "articles": [
     {
+     "title": "Fuga de amoníaco en empresa de pollos de Mariano Roque Alonso",
+     "url": "https://www.abc.com.py/nacionales/2026/10/29/fuga-de-amoniaco-en-empresa-de-pollos-de-mariano-roque-alonso/",
+     "domain": "ABC Color",
+     "seendate": "20261029T220947Z"
+    },
+    {
+     "title": "Vuelve a postergarse la clausura del Festival de la Raza por el mal tiempo",
+     "url": "https://www.abc.com.py/nacionales/2026/10/29/vuelve-a-postergarse-la-clausura-del-festival-de-la-raza-por-el-mal-tiempo/",
+     "domain": "ABC Color",
+     "seendate": "20261029T215949Z"
+    },
+    {
+     "title": "MNP y la ONU realizan monitoreo del sistema penitenciario y otros “ámbitos de intervención”",
+     "url": "https://www.abc.com.py/nacionales/2026/10/29/mnp-y-la-onu-realizan-monitoreo-del-sistema-penitenciario-y-otros-ambitos-de-intervencion/",
+     "domain": "ABC Color",
+     "seendate": "20261029T214816Z"
+    },
+    {
      "title": "Ministro de Salud anuncia que viajará a Taiwán en busca de tecnología de punta para la medicina paraguaya",
      "url": "https://www.abc.com.py/nacionales/2026/10/29/ministro-de-salud-anuncia-que-viajara-a-taiwan-en-busca-de-tecnologia-de-punta-para-la-medicina-paraguaya/",
      "domain": "ABC Color",
@@ -3331,24 +3397,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/29/suena-caazapa-festival-reunira-a-jovenes-musicos-emprendedores-y-familias/",
      "domain": "ABC Color",
      "seendate": "20261029T195037Z"
-    },
-    {
-     "title": "Detectan seis casos de tuberculosis en la cárcel de Villarrica",
-     "url": "https://www.abc.com.py/nacionales/2026/10/29/detectan-seis-casos-de-tuberculosis-en-la-carcel-de-villarrica/",
-     "domain": "ABC Color",
-     "seendate": "20261029T191549Z"
-    },
-    {
-     "title": "Hospital de Clínicas: Consejo Directivo postergó tratar las muertes de fetos durante cirugías intrauterinas",
-     "url": "https://www.abc.com.py/nacionales/2026/10/29/hospital-de-clinicas-consejo-directivo-postergo-tratar-las-muertes-de-fetos-durante-cirugias-intrauterinas/",
-     "domain": "ABC Color",
-     "seendate": "20261029T190630Z"
-    },
-    {
-     "title": "El “Paseo de los escombros”: el legado de abandono que deja Luis Bello en Asunción",
-     "url": "https://www.abc.com.py/nacionales/2026/10/29/el-paseo-de-los-escombros-el-legado-de-abandono-que-deja-luis-bello-en-asuncion/",
-     "domain": "ABC Color",
-     "seendate": "20261029T190049Z"
     },
     {
      "title": "Alicia Pucheta: ¿tiene los días contados en el CM y el JEM?",
