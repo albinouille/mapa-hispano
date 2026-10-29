@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T05:42:39+00:00",
+ "updated": "2026-10-29T06:47:57+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -142,7 +142,7 @@
      "seendate": "20261027T223602Z"
     },
     {
-     "title": "La Policía investiga un robo con fuerza en un despacho de abogados ligado al PP de Madrid",
+     "title": "La policía investiga un robo con fuerza en un despacho de abogados ligado al PP de Madrid",
      "url": "https://elpais.com/espana/madrid/2026-10-27/la-policia-investiga-un-robo-con-fuerza-en-un-despacho-de-abogados-ligado-al-pp-de-madrid.html",
      "domain": "El País",
      "seendate": "20261027T205808Z"
@@ -169,6 +169,12 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Muere regidor de Indaparapeo y su esposa tras ataque; su hijo resulta lesionado",
+     "url": "https://www.eluniversal.com.mx/estados/muere-regidor-de-indaparapeo-y-su-esposa-tras-ataque-su-hijo-resulta-lesionado/",
+     "domain": "El Universal",
+     "seendate": "20261029T061109Z"
+    },
     {
      "title": "De la campaña presidencial a Pemex; así evolucionó la relación entre Sheinbaum y Cuauhtémoc Cárdenas",
      "url": "https://www.eluniversal.com.mx/nacion/de-la-campana-presidencial-a-pemex-asi-evoluciono-la-relacion-entre-sheinbaum-y-cuauhtemoc-cardenas/",
@@ -356,130 +362,16 @@
      "seendate": "20261029T002332Z"
     },
     {
-     "title": "Asesinan a representante de familias desplazadas en Chiapas; exigía el retorno de indígenas tzotziles",
-     "url": "https://www.eluniversal.com.mx/estados/asesinan-a-representante-de-familias-desplazadas-en-chiapas-exigia-el-retorno-de-indigenas-tzotziles/",
-     "domain": "El Universal",
-     "seendate": "20261029T000638Z"
-    },
-    {
-     "title": "Alerta amarilla en Hidalgo: advierten riesgo de deslaves por lluvias; temperaturas podrían llegar a cero grados",
-     "url": "https://www.eluniversal.com.mx/estados/alerta-amarilla-en-hidalgo-advierten-riesgo-de-deslaves-por-lluvias-temperaturas-podrian-llegar-a-cero-grados/",
-     "domain": "El Universal",
-     "seendate": "20261028T235919Z"
-    },
-    {
-     "title": "Detienen a mujer de 62 años por, presuntamente, drogar a adulto mayor con un chocolate en calles del Centro; le roba sus pertenencias",
-     "url": "https://www.eluniversal.com.mx/metropoli/detienen-a-mujer-de-62-anos-por-presuntamente-drogar-a-adulto-mayor-con-un-chocolate-en-calles-del-centro-le-roba-sus-pertenencias/",
-     "domain": "El Universal",
-     "seendate": "20261028T235506Z"
-    },
-    {
      "title": "Consejeros no descartan presentar vista de irregularidades contra Taddei; suman 12 renuncias de funcionarios",
      "url": "https://www.eluniversal.com.mx/nacion/suman-12-renuncias-de-funcionarios-del-clan-taddei-secretario-ejecutivo-se-mantiene-temporalmente-blanca-cruz/",
      "domain": "El Universal",
      "seendate": "20261028T234936Z"
     },
     {
-     "title": "Hallan cuerpos de dos hombres ejecutados junto a autopista en Guanajuato; tenían huellas de violencia y estaban maniatados",
-     "url": "https://www.eluniversal.com.mx/estados/hallan-cuerpos-de-dos-hombres-ejecutados-junto-a-autopista-en-guanajuato-tenian-huellas-de-violencia-y-estaban-maniatados/",
-     "domain": "El Universal",
-     "seendate": "20261028T234929Z"
-    },
-    {
-     "title": "Se incendia vehículo en calles de la colonia Ex Hipódromo de Peralvillo; posible falla mecánica, la causa",
-     "url": "https://www.eluniversal.com.mx/metropoli/se-incendia-vehiculo-en-calles-de-la-colonia-ex-hipodromo-de-peralvillo-posible-falla-mecanica-la-causa/",
-     "domain": "El Universal",
-     "seendate": "20261028T234429Z"
-    },
-    {
-     "title": "IMSS asegura estar en plazo para cumplir recomendación por muerte de paciente; CNDH pidió reparación a víctimas indirectas",
-     "url": "https://www.eluniversal.com.mx/nacion/imss-asegura-estar-en-plazo-para-cumplir-recomendacion-por-muerte-de-paciente-cndh-pidio-reparacion-a-victimas-indirectas/",
-     "domain": "El Universal",
-     "seendate": "20261028T234248Z"
-    },
-    {
-     "title": "Gobierno de Hidalgo denuncia a Uber ante Procuraduría estatal por operar sin autorización; prepara cambios a la ley de movilidad",
-     "url": "https://www.eluniversal.com.mx/estados/gobierno-de-hidalgo-denuncia-a-uber-ante-procuraduria-estatal-por-operar-sin-autorizacion-prepara-cambios-a-la-ley-de-movilidad/",
-     "domain": "El Universal",
-     "seendate": "20261028T233945Z"
-    },
-    {
-     "title": "Con ofrenda de cempasúchil, recuerdan a víctimas de feminicidio en Cuernavaca; en los primeros siete meses del año ocurrieron 73 casos: Comisión",
-     "url": "https://www.eluniversal.com.mx/estados/con-ofrenda-de-cempasuchil-recuerdan-a-victimas-de-feminicidio-en-cuernavaca-en-los-primeros-siete-meses-del-ano-ocurrieron-73-casos-comision/",
-     "domain": "El Universal",
-     "seendate": "20261028T233651Z"
-    },
-    {
-     "title": "PAN exige la destitución de funcionarios contratados por Taddei; entrega oficio a nueva presidenta del INE",
-     "url": "https://www.eluniversal.com.mx/nacion/pan-exige-la-destitucion-de-funcionarios-contratados-por-taddei-entrega-oficio-a-nueva-presidenta-del-ine/",
-     "domain": "El Universal",
-     "seendate": "20261028T233549Z"
-    },
-    {
-     "title": "Alcaldía Coyoacán inaugura ofrenda monumental en Jardín Hidalgo; destacan figuras de cartonería de tamaño natural de personajes como Frida Kahlo",
-     "url": "https://www.eluniversal.com.mx/metropoli/alcaldia-coyoacan-inaugura-ofrenda-monumental-en-jardin-hidalgo-destacan-figuras-de-cartoneria-de-tamano-natural-de-personajes-como-frida-kahlo/",
-     "domain": "El Universal",
-     "seendate": "20261028T232903Z"
-    },
-    {
-     "title": "\"Citlalli Hernández no hizo nada\"; diputadas le reclaman a Laura Itzel violencia contra las mujeres en comparecencia",
-     "url": "https://www.eluniversal.com.mx/nacion/citlalli-hernandez-no-hizo-nada-diputadas-le-reclaman-a-laura-itzel-violencia-contra-las-mujeres-en-comparecencia/",
-     "domain": "El Universal",
-     "seendate": "20261028T232023Z"
-    },
-    {
-     "title": "Combi es atacada a balazos frente al Tecnológico de Cuautla; reportan al menos dos lesionados, entre ellos, un alumno",
-     "url": "https://www.eluniversal.com.mx/estados/combi-es-atacada-a-balazos-frente-al-tecnologico-de-cuautla-reportan-al-menos-dos-lesionados-entre-ellos-un-alumno/",
-     "domain": "El Universal",
-     "seendate": "20261028T231824Z"
-    },
-    {
-     "title": "Especialistas de la UNAM advierten que elecciones en EU definirán estrategia de México ante Trump; se deben fortalecer vínculos, dicen",
-     "url": "https://www.eluniversal.com.mx/nacion/especialistas-de-la-unam-advierten-que-elecciones-en-eu-definiran-estrategia-de-mexico-ante-trump-se-deben-fortalecer-vinculos-dicen/",
-     "domain": "El Universal",
-     "seendate": "20261028T231629Z"
-    },
-    {
-     "title": "Show run de \"Checo\" Pérez reunió a más de 100 mil personas en Paseo de la Reforma; autoridades reportan saldo blanco",
-     "url": "https://www.eluniversal.com.mx/metropoli/show-run-de-checo-perez-reunio-a-mas-de-100-mil-personas-en-paseo-de-la-reforma-autoridades-reportan-saldo-blanco/",
-     "domain": "El Universal",
-     "seendate": "20261028T230952Z"
-    },
-    {
-     "title": "Reaparecen sanos y salvos 4 jóvenes que habían sido \"levantados\" por un comando en Culiacán; autoridades no han aclarado el caso",
-     "url": "https://www.eluniversal.com.mx/estados/reaparecen-sanos-y-salvos-4-jovenes-que-habian-sido-levantados-por-un-comando-en-culiacan-autoridades-no-han-aclarado-el-caso/",
-     "domain": "El Universal",
-     "seendate": "20261028T230606Z"
-    },
-    {
-     "title": "Lorenzo Córdova responde a Sheinbaum tras pedir auditar gestión en el INE; Auditoría jamás encontró irregularidades, dice",
-     "url": "https://www.eluniversal.com.mx/nacion/lorenzo-cordova-responde-a-sheinbaum-tras-pedir-auditar-gestion-en-el-ine-auditoria-jamas-encontro-irregularidades-dice/",
-     "domain": "El Universal",
-     "seendate": "20261028T230106Z"
-    },
-    {
-     "title": "Cae el \"Señor de las Luces\", sucesor de \"El Tanque\" en el CJNG; operaba en Oaxaca y Veracruz",
-     "url": "https://www.eluniversal.com.mx/nacion/cae-el-senor-de-las-luces-sucesor-de-el-tanque-en-el-cjng-operaba-en-oaxaca-y-veracruz/",
-     "domain": "El Universal",
-     "seendate": "20261028T225143Z"
-    },
-    {
      "title": "Tras envenenamiento de perritos en Parque España, hay poca afluencia de visitantes; varias zonas permanecen acoronadas",
      "url": "https://www.eluniversal.com.mx/metropoli/tras-presunto-envenenamiento-de-perritos-en-parque-espana-hay-poca-afluencia-de-visitantes-varias-zonas-permanecen-acoronadas/",
      "domain": "El Universal",
      "seendate": "20261028T222924Z"
-    },
-    {
-     "title": "Diputados reciben Ley del ISR devuelta por el Senado; alistan revisión para la próxima semana",
-     "url": "https://www.eluniversal.com.mx/nacion/diputados-reciben-ley-del-isr-devuelta-por-el-senado-alistan-revision-para-la-proxima-semana/",
-     "domain": "El Universal",
-     "seendate": "20261028T222836Z"
-    },
-    {
-     "title": "\"El amor no se compra, se adopta\" perros y gatos rescatados del Metro buscan segunda oportunidad; llegan a la Caninata y Can Fest",
-     "url": "https://www.eluniversal.com.mx/metropoli/el-amor-no-se-compra-se-adopta-perros-y-gatos-rescatados-del-metro-buscan-segunda-oportunidad-llegan-a-la-caninata-y-can-fest/",
-     "domain": "El Universal",
-     "seendate": "20261028T222645Z"
     },
     {
      "title": "Reportan tres mujeres asesinadas diariamente en septiembre; tenían entre 18 y 29 años de edad",
@@ -2797,22 +2689,40 @@
   "ARG": {
    "articles": [
     {
+     "title": "El Gobierno confirmó el bono previsional de noviembre para jubilados y pensionados",
+     "url": "https://www.lanacion.com.ar/economia/el-gobierno-confirmo-el-bono-previsional-de-noviembre-para-jubilados-y-pensionados-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T063842Z"
+    },
+    {
      "title": "Javier Milei y sus medidas, en vivo: sesión en el Senado y el viaje de Karina Milei a Rosario",
      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-sesion-en-el-senado-y-el-viaje-de-karina-milei-a-rosario-nid29102026/",
      "domain": "La Nación",
-     "seendate": "20261029T053819Z"
+     "seendate": "20261029T063300Z"
+    },
+    {
+     "title": "Encontraron el cuerpo de Nanci Godoy, la docente que estaba desaparecida en Corrientes",
+     "url": "https://www.lanacion.com.ar/seguridad/encontraron-el-cuerpo-de-nanci-godoy-la-docente-que-estaba-desaparecida-en-corrientes-nid28102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T063006Z"
+    },
+    {
+     "title": "Conrado Estol, neurólogo, sobre qué implica la salud: “No es solo la ausencia de enfermedad, es mucho más que eso”",
+     "url": "https://www.lanacion.com.ar/sociedad/conrado-estol-neurologo-sobre-que-implica-la-salud-no-es-solo-la-ausencia-de-enfermedad-es-mucho-mas-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T060000Z"
+    },
+    {
+     "title": "Ctera convocó a un paro en reclamo de justicia por el asesinato de la docente Nanci Godoy en Corrientes",
+     "url": "https://www.lanacion.com.ar/seguridad/ctera-convoco-a-un-paro-en-reclamo-de-justicia-por-el-asesinato-de-la-docente-nanci-godoy-en-nid28102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T054346Z"
     },
     {
      "title": "Gisela Gilges, life coach: “No hace falta que duela para aprender a frenar en la vida”",
      "url": "https://www.lanacion.com.ar/sociedad/gisela-gilges-life-coach-no-hace-falta-que-duela-para-aprender-a-frenar-en-la-vida-nid29102026/",
      "domain": "La Nación",
      "seendate": "20261029T050000Z"
-    },
-    {
-     "title": "Encontraron el cuerpo de Nanci Godoy, la docente que estaba desaparecida en Corrientes",
-     "url": "https://www.lanacion.com.ar/seguridad/encontraron-el-cuerpo-de-nanci-godoy-la-docente-que-estaba-desaparecida-en-corrientes-nid28102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T043253Z"
     },
     {
      "title": "El Foro Permanente de Discapacidad expresó su rechazo a los insultos de Milei hacia periodistas",
@@ -2933,36 +2843,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-sobre-la-esperanza-puede-dejarnos-incapacitados-de-jugar-un-deseo-a-la-espera-de-que-nid27102026/",
      "domain": "La Nación",
      "seendate": "20261028T234800Z"
-    },
-    {
-     "title": "Ctera convocó a un paro en reclamo de justicia por el asesinato de la docente Nanci Godoy en Corrientes",
-     "url": "https://www.lanacion.com.ar/seguridad/ctera-convoco-a-un-paro-en-reclamo-de-justicia-por-el-asesinato-de-la-docente-nanci-godoy-en-nid28102026/",
-     "domain": "La Nación",
-     "seendate": "20261028T234313Z"
-    },
-    {
-     "title": "Alerta por una leche para bebés adulterada: hallaron una toxina seis veces por encima del límite permitido",
-     "url": "https://www.lanacion.com.ar/sociedad/alerta-por-una-leche-para-bebes-adulterada-hallaron-una-toxina-seis-veces-por-encima-del-limite-nid28102026/",
-     "domain": "La Nación",
-     "seendate": "20261028T233736Z"
-    },
-    {
-     "title": "Tony Robbins, especialista en crecimiento personal: “La razón por la que sufrís: estás enfocado en vos”",
-     "url": "https://www.lanacion.com.ar/sociedad/tony-robbins-especialista-en-crecimiento-personal-la-razon-por-la-que-sufris-estas-enfocado-en-vos-nid28102026/",
-     "domain": "La Nación",
-     "seendate": "20261028T233300Z"
-    },
-    {
-     "title": "Hay alerta amarilla por tormentas para este miércoles 28 de octubre: las provincias afectadas",
-     "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-tormentas-para-este-miercoles-28-de-octubre-las-provincias-afectadas-nid28102026/",
-     "domain": "La Nación",
-     "seendate": "20261028T233131Z"
-    },
-    {
-     "title": "Jorge Tartaglione, médico, advirtió sobre el brote que se avecina por el avance del Súper Niño en la Argentina: “Es una tormenta perfecta con presencia de enfermedades”",
-     "url": "https://www.lanacion.com.ar/sociedad/un-medico-califico-al-super-nino-como-la-tormenta-perfecta-y-alerto-sobre-el-brote-que-se-avecina-nid27102026/",
-     "domain": "La Nación",
-     "seendate": "20261028T233100Z"
     }
    ]
   },
@@ -3355,12 +3235,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/28/nombran-a-nuevo-director-de-centros-penitenciarios-tras-la-fuga-de-dos-reos-de-alta-peligrosidad/",
      "domain": "ABC Color",
      "seendate": "20261028T234152Z"
-    },
-    {
-     "title": "Canindeyú: denuncian hechos de violencia y hostigamiento en la comunidad indígena Tekoha Yapo",
-     "url": "https://www.abc.com.py/nacionales/2026/10/28/canindeyu-denuncian-hechos-de-violencia-y-hostigamiento-en-la-comunidad-indigena-tekoha-yapo/",
-     "domain": "ABC Color",
-     "seendate": "20261028T233157Z"
     }
    ]
   },
@@ -3369,6 +3243,84 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "De quem são os 20 corpos abandonados pelas ruas de SP: perfil das vítimas e modo de ação apontam para tribunal do PCC",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/29/de-quem-sao-os-20-corpos-abandonados-pelas-ruas-de-sp-perfil-das-vitimas-e-modo-de-acao-apontam-para-tribunal-do-pcc.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261029T063001Z"
+    },
+    {
+     "title": "Mudanças de versão, agradecimentos a Trump e Milei, objeções de aliados: tudo sobre a carta golpista de Flávio Bolsonaro",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/29/mudancas-de-versao-agradecimentos-a-trump-e-milei-objecoes-de-aliados-tudo-sobre-a-carta-golpista-de-flavio-bolsonaro.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261029T063000Z"
+    },
+    {
+     "title": "Cidades com predomínio de mulheres registraram crescimento maior de Lula entre o primeiro e o segundo turno",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/29/cidades-com-predominio-de-mulheres-registraram-crescimento-maior-de-lula-entre-o-primeiro-e-o-segundo-turno.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261029T063000Z"
+    },
+    {
+     "title": "Júri do caso da Porsche: filho da vítima pede pena proporcional 'à magnitude', e amigos citam abandono após depoimentos",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/29/juri-do-caso-da-porsche-filho-da-vitima-pede-pena-proporcional-a-magnitude-e-amigos-citam-abandono-apos-depoimentos.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261029T063000Z"
+    },
+    {
+     "title": "'Desabafo', 'eleição acabou', 'jumentos': do TSE a Malafaia e aliados, todas as reações à carta golpista de Flávio",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/29/desabafo-eleicao-acabou-jumentos-do-tse-a-malafaia-e-aliados-todas-as-reacoes-a-carta-golpista-de-flavio.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261029T063000Z"
+    },
+    {
+     "title": "Entrevista: 'O PT passará por mudanças profundas' e 'manterá a base mobilizada', diz Edinho Silva, presidente do partido",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/29/entrevista-o-pt-passara-por-mudancas-profundas-e-mantera-a-base-mobilizada-diz-edinho-silva-presidente-do-partido.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261029T063000Z"
+    },
+    {
+     "title": "Do visto humanitário ao risco de deportação, entenda a situação jurídica de Flávio Bolsonaro após a fuga para os EUA",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/29/do-visto-humanitario-ao-risco-de-deportacao-entenda-a-situacao-juridica-de-flavio-bolsonaro-apos-a-fuga-para-os-eua.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261029T063000Z"
+    },
+    {
+     "title": "Nada deu errado nas eleições presidenciais, mas foi apesar de Nunes Marques",
+     "url": "https://oglobo.globo.com/politica/recondo-e-os-onze/coluna/2026/10/nada-deu-errado-nas-eleicoes-presidenciais-mas-foi-apesar-de-nunes-marques.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261029T063000Z"
+    },
+    {
+     "title": "Enem 2026: IA do GLOBO que corrige redação com base nos critérios da prova libera texto sobre soberania nacional",
+     "url": "https://oglobo.globo.com/brasil/educacao/noticia/2026/10/29/enem-2026-ia-do-globo-que-corrige-redacao-com-base-nos-criterios-da-prova-libera-texto-sobre-soberania-nacional.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261029T063000Z"
+    },
+    {
+     "title": "PF investiga denúncias de violência contra indígenas no Mato Grosso do Sul após as eleições",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/29/pf-investiga-denuncias-de-violencia-contra-indigenas-no-mato-grosso-do-sul-apos-as-eleicoes.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261029T063000Z"
+    },
+    {
+     "title": "Análise: Flávio Bolsonaro rasga a fantasia de moderado após meses de família margarina na campanha e na TV",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/29/analise-flavio-bolsonaro-rasga-a-fantasia-de-moderado-apos-meses-de-familia-margarina-na-campanha-e-na-tv.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261029T063000Z"
+    },
+    {
+     "title": "Fuga de Flávio deixa vácuo político e acelera articulações de aliados no Congresso e de olho em 2030",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/29/fuga-de-flavio-deixa-vacuo-politico-e-acelera-articulacoes-de-aliados-no-congresso-e-de-olho-em-2030.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261029T063000Z"
+    },
+    {
+     "title": "Três cartas e dez mentiras: das alegações de fraude à fuga, todas as inconsistências da mensagem golpista de Flávio",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/29/tres-cartas-e-dez-mentiras-das-alegacoes-de-fraude-a-fuga-todas-as-inconsistencias-da-mensagem-golpista-de-flavio.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261029T063000Z"
+    },
     {
      "title": "Da promessa de ficar no Brasil à autoproclamação como presidente, Flávio acumula mudanças de versão após derrota",
      "url": "https://oglobo.globo.com/politica/noticia/2026/10/29/da-promessa-de-ficar-no-brasil-a-autoproclamacao-como-presidente-flavio-acumula-mudancas-de-versao-apos-derrota.ghtml",
@@ -3434,108 +3386,6 @@
      "url": "https://oglobo.globo.com/politica/noticia/2026/10/28/ministros-do-stf-e-tse-veem-vexame-em-carta-de-flavio-e-defendem-nao-alimentar-crise-artificial.ghtml",
      "domain": "O Globo",
      "seendate": "20261028T225345Z"
-    },
-    {
-     "title": "Após carta de teor golpista de Flávio, presidente do TSE defende resultado das urnas e diz que analisará contestações",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/28/apos-carta-de-teor-golpista-de-flavio-presidente-do-tse-defende-resultado-das-urnas-e-diz-que-analisara-contestacoes.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261028T222321Z"
-    },
-    {
-     "title": "Marinho diz que 'não há prova' de fraude eleitoral e que carta em que Flávio se autodenomina 'presidente eleito' foi 'erro de confecção'",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/28/marinho-diz-que-carta-em-que-flavio-se-autodenomina-presidente-eleito-foi-erro-de-confeccao-e-diz-que-senador-pode-exercer-lideranca-da-oposicao-dos-eua.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261028T221921Z"
-    },
-    {
-     "title": "MP pede condenação de Renato Cariani por tráfico de drogas e lavagem de dinheiro",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/28/mp-pede-condenacao-de-renato-cariani-por-trafico-de-drogas-e-lavagem-de-dinheiro.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261028T221715Z"
-    },
-    {
-     "title": "Partidos e Tarcísio defendem resultado das urnas que deu vitória a Lula após carta golpista de Flávio",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/28/partidos-defendem-resultado-das-urnas-que-deu-vitoria-a-lula-apos-carta-golpista-de-flavio.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261028T215550Z"
-    },
-    {
-     "title": "Toffoli rejeita ação de Flávio Bolsonaro contra Janones por ofensas nas redes sociais",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/28/toffoli-rejeita-acao-de-flavio-bolsonaro-contra-janones-por-ofensas-nas-redes-sociais.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261028T214923Z"
-    },
-    {
-     "title": "Partidos de centro reagem a carta de Flávio Bolsonaro nos EUA e reafirmam legitimidade da vitória de Lula",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/28/partidos-de-centro-reagem-a-carta-de-flavio-bolsonaro-nos-eua-e-reafirmam-legitimidade-da-vitoria-de-lula.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261028T214518Z"
-    },
-    {
-     "title": "Tarcísio diz 'entender indignação' de Flávio após carta golpista, mas cobra 'respeito ao resultado' e 'responsabilidade'",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/28/tarcisio-afirma-que-caminho-e-respeitar-o-resultado-das-urnas-e-seguir-em-frente.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261028T213237Z"
-    },
-    {
-     "title": "Em meio à crise provocada por fuga de Flávio, Moraes autoriza visita de Valdemar Costa Neto a Bolsonaro",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/28/em-meio-a-crise-provocada-por-fuga-de-flavio-moraes-autoriza-visita-de-valdemar-costa-neto-a-bolsonaro.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261028T212403Z"
-    },
-    {
-     "title": "'Brazil', 'verdadeiro presidente', 'líder': as mudanças nas três cartas golpistas de Flávio em menos de uma hora",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/28/brazil-verdadeiro-presidente-lider-as-mudancas-nas-tres-cartas-golpistas-de-flavio-em-menos-de-uma-hora.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261028T211416Z"
-    },
-    {
-     "title": "Trump diz que não vai se 'envolver' após Flávio afirmar em carta golpista que é o 'verdadeiro presidente' do Brasil",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/28/trump-diz-que-nao-vai-se-envolver-apos-flavio-afirmar-em-carta-golpista-que-e-o-verdadeiro-presidente-do-brasil.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261028T211350Z"
-    },
-    {
-     "title": "Como Flávio passou na fronteira? Quem o ajudou? Ele pode ser extraditado? Veja perguntas e respostas sobre a fuga do senador para os EUA",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/28/como-flavio-passou-na-fronteira-quem-o-ajudou-ele-pode-ser-extraditado-veja-perguntas-e-respostas-sobre-a-fuga-de-senador-para-os-eua.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261028T203739Z"
-    },
-    {
-     "title": "'Estados Unidos do Brazil': carta na qual Flávio se autodeclarou presidente usou brasão nacional substituído na ditadura",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/28/estados-unidos-do-brasil-carta-na-qual-flavio-se-diz-presidente-eleito-usou-brasao-nacional-substituido-na-ditadura.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261028T202709Z"
-    },
-    {
-     "title": "Em carta de teor golpista, Flávio primeiro se declara 'presidente eleito do Brasil' e depois troca para ‘líder’",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/28/flavio-bolsonaro-divulga-carta-com-teor-golpista-na-qual-se-autoproclama-presidente-eleito-do-brasil.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261028T202404Z"
-    },
-    {
-     "title": "Fuga de Flávio Bolsonaro para os EUA é criticada por democratas, que miram Trump às vésperas das eleições",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/28/fuga-de-flavio-bolsonaro-para-os-eua-e-criticada-por-democratas-que-miram-trump-as-vesperas-das-eleicoes.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261028T202340Z"
-    },
-    {
-     "title": "Para aliados, Tarcísio se fortalece como liderança da direita com fuga de Flávio, mas governador ainda calcula reação",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/28/para-aliados-tarcisio-se-fortalece-como-lideranca-da-direita-com-fuga-de-flavio-mas-governador-ainda-calcula-reacao.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261028T202137Z"
-    },
-    {
-     "title": "Com castanha-do-pará e palmito-juçara, governo atualiza lista de espécies da flora ameaçadas de extinção",
-     "url": "https://oglobo.globo.com/brasil/meio-ambiente/noticia/2026/10/28/com-castanha-do-para-e-palmito-jucara-governo-atualiza-lista-de-especies-da-flora-ameacadas-de-extincao.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261028T200928Z"
-    },
-    {
-     "title": "Líderes do PL no Congresso citam 'total apoio' a Flávio após fuga para os EUA: 'Seguiremos firmes ao lado do senador'",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/28/lideres-do-pl-no-congresso-citam-total-apoio-a-flavio-apos-fuga-para-os-eua-seguiremos-firmes-ao-lado-do-senador.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261028T195033Z"
     }
    ]
   }
