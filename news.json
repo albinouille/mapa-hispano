@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T00:11:18+00:00",
+ "updated": "2026-10-30T01:37:27+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -106,10 +106,10 @@
      "seendate": "20261029T102322Z"
     },
     {
-     "title": "El menor detenido por incitar a saqueos en Valencia contaba con 400 seguidores en su canal ‘Blocus VLC’",
-     "url": "https://elpais.com/espana/comunidad-valenciana/2026-10-29/el-menor-detenido-por-incitar-a-saqueos-en-valencia-contaba-con-400-seguidores-en-su-canal-blocus-vlc.html",
+     "title": "Asesinado a tiros un hombre ingresado en un hospital en Tarragona que ya había sido disparado en Salou",
+     "url": "https://elpais.com/espana/catalunya/2026-10-29/ejecutan-a-tiros-a-un-hombre-ingresado-en-un-hospital-en-tarragona-que-ya-habia-sido-tiroteado-en-salou.html",
      "domain": "El País",
-     "seendate": "20261029T100705Z"
+     "seendate": "20261029T074432Z"
     },
     {
      "title": "Yo viajaba en ese tren",
@@ -205,6 +205,102 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Vinculan a proceso a sujeto en García, Nuevo León; está acusado de matar a un niño y agredir a su madre",
+     "url": "https://www.eluniversal.com.mx/estados/vinculan-a-proceso-a-sujeto-en-garcia-nuevo-leon-esta-acusado-de-matar-a-un-nino-y-agredir-a-su-madre/",
+     "domain": "El Universal",
+     "seendate": "20261030T012438Z"
+    },
+    {
+     "title": "“Ay no, agarra otro”: Mujer se niega a entregar su auto a hombre armado en Matamoros; escapa de bloqueo",
+     "url": "https://www.eluniversal.com.mx/estados/ay-no-agarra-otro-mujer-se-niega-a-entregar-su-auto-a-hombre-armado-en-matamoros-escapa-de-bloqueo/",
+     "domain": "El Universal",
+     "seendate": "20261030T011727Z"
+    },
+    {
+     "title": "Catrina del Zócalo de CDMX obtiene Récord Guinness como la más alta del mundo; ofrenda monumental luce alfombra con 70 mil flores de cempasúchil",
+     "url": "https://www.eluniversal.com.mx/metropoli/catrina-del-zocalo-de-cdmx-obtiene-record-guinness-como-la-mas-alta-del-mundo-ofrenda-monumental-luce-alfombra-con-70-mil-flores-de-cempasuchil/",
+     "domain": "El Universal",
+     "seendate": "20261030T011239Z"
+    },
+    {
+     "title": "Alistan homenaje a Cuauhtémoc Cárdenas de cuerpo presente en Bellas Artes; será este viernes 30 de octubre",
+     "url": "https://www.eluniversal.com.mx/nacion/alistan-homenaje-a-cuauhtemoc-cardenas-de-cuerpo-presente-en-bellas-artes-sera-este-viernes-30-de-octubre/",
+     "domain": "El Universal",
+     "seendate": "20261030T010000Z"
+    },
+    {
+     "title": "Alcaldía Benito Juárez repara fuga de agua potable en colonia Nativitas; sustituyen un tramo de tubería",
+     "url": "https://www.eluniversal.com.mx/metropoli/alcaldia-benito-juarez-repara-fuga-de-agua-potable-en-colonia-nativitas-sustituyen-un-tramo-de-tuberia/",
+     "domain": "El Universal",
+     "seendate": "20261030T005709Z"
+    },
+    {
+     "title": "Balean a taxista y pasajero en Cuautla, Morelos; asesinan a tres personas en el municipio de Ayala",
+     "url": "https://www.eluniversal.com.mx/estados/balean-a-taxista-y-pasajero-en-cuautla-morelos-asesinan-a-tres-personas-en-el-municipio-de-ayala/",
+     "domain": "El Universal",
+     "seendate": "20261030T005155Z"
+    },
+    {
+     "title": "Brugada inaugura Casa de las 3R \"Angela Davis\" en GAM; anuncia Consejo del Sistema de Cuidados",
+     "url": "https://www.eluniversal.com.mx/metropoli/brugada-inaugura-casa-de-las-3r-angela-davis-en-gam-anuncia-consejo-del-sistema-de-cuidados/",
+     "domain": "El Universal",
+     "seendate": "20261030T004548Z"
+    },
+    {
+     "title": "Trasladan a alumna de Hidalgo a CDMX por quemaduras tras incendiarse su vestido; presenta lesiones en el 40% de su cuerpo",
+     "url": "https://www.eluniversal.com.mx/estados/trasladan-a-alumna-de-hidalgo-a-cdmx-por-quemaduras-tras-incendiarse-su-vestido-presenta-lesiones-en-el-40-de-su-cuerpo/",
+     "domain": "El Universal",
+     "seendate": "20261030T003659Z"
+    },
+    {
+     "title": "Embajador Johnson presume “resultados históricos” en seguridad, migración; destaca trabajo de agencias de EU",
+     "url": "https://www.eluniversal.com.mx/nacion/embajador-johnson-presume-resultados-historicos-en-seguridad-migracion-destaca-trabajo-de-agencias-de-eu/",
+     "domain": "El Universal",
+     "seendate": "20261030T003012Z"
+    },
+    {
+     "title": "Flores de cempasúchil de Atlacomulco, pintan de color naranja a Ciudad Juárez; productores llevan miles de macetas a la frontera",
+     "url": "https://www.eluniversal.com.mx/estados/flores-de-cempasuchil-de-atlacomulco-pintan-de-color-naranja-a-ciudad-juarez-productores-llevan-miles-de-macetas-a-la-frontera/",
+     "domain": "El Universal",
+     "seendate": "20261030T002902Z"
+    },
+    {
+     "title": "Birmex y Salud adjudican 997.6 millones de medicamentos e insumos; inversión asciende a 34 mdp",
+     "url": "https://www.eluniversal.com.mx/nacion/birmex-y-salud-adjudican-9976-millones-de-medicamentos-e-insumos-inversion-asciende-a-34-mdp/",
+     "domain": "El Universal",
+     "seendate": "20261030T002652Z"
+    },
+    {
+     "title": "Sheinbaum destaca aumento salarial como motor del crecimiento; inaugura centro de distribución de Mercado Libre en Hidalgo",
+     "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-destaca-aumento-salarial-como-motor-del-crecimiento-inaugura-centro-de-distribucion-de-mercado-libre-en-hidalgo/",
+     "domain": "El Universal",
+     "seendate": "20261030T002225Z"
+    },
+    {
+     "title": "Congreso de Sinaloa aprueba reforma para perseguir de oficio el maltrato animal; no requerirá denuncia formal",
+     "url": "https://www.eluniversal.com.mx/estados/congreso-de-sinaloa-aprueba-reforma-para-perseguir-de-oficio-el-maltrato-animal-no-requerira-denuncia-formal/",
+     "domain": "El Universal",
+     "seendate": "20261030T002042Z"
+    },
+    {
+     "title": "C5 vigilará el Gran Premio de México 2026 de la Fórmula 1 con 201 cámaras; en inmediaciones del Autódromo habrá 54 botones de auxilio y 58 altavoces",
+     "url": "https://www.eluniversal.com.mx/metropoli/c5-vigilara-el-gran-premio-de-mexico-2026-de-la-formula-1-con-201-camaras-en-inmediaciones-del-autodromo-habra-54-botones-de-auxilio-y-58-altavoces/",
+     "domain": "El Universal",
+     "seendate": "20261030T001806Z"
+    },
+    {
+     "title": "Consejero del INE pide prisión preventiva contra Taddei; acusa de abuso de autoridad y enriquecimiento ilícito",
+     "url": "https://www.eluniversal.com.mx/nacion/consejero-del-ine-pide-prision-preventiva-contra-taddei-acusa-de-abuso-de-autoridad-y-enriquecimiento-ilicito/",
+     "domain": "El Universal",
+     "seendate": "20261030T001011Z"
+    },
+    {
+     "title": "Madres en Resistencia se encadenan frente a Fiscalía de Chiapas; exigen avances en casos de desaparición y feminicidio",
+     "url": "https://www.eluniversal.com.mx/estados/madres-en-resistencia-se-encadenan-frente-a-fiscalia-de-chiapas-exigen-avances-en-casos-de-desaparicion-y-feminicidio/",
+     "domain": "El Universal",
+     "seendate": "20261030T000539Z"
+    },
     {
      "title": "\"Los dos hijos (Taddei) tienen casa gracias a esto\"; revelan audios y videos del contratista Alfredo Hernández Casillas",
      "url": "https://www.eluniversal.com.mx/nacion/los-dos-hijos-taddei-tienen-casa-gracias-a-esto-revelan-audios-y-videos-del-contratista-alfredo-hernandez-casillas/",
@@ -362,82 +458,46 @@
      "seendate": "20261029T195618Z"
     },
     {
-     "title": "Camioneta de transporte público choca contra puesto de verduras en Coyoacán; dos hombres resultan lesionados",
-     "url": "https://www.eluniversal.com.mx/metropoli/camioneta-de-transporte-publico-choca-contra-puesto-de-verduras-en-coyoacan-dos-hombres-resultan-lesionados/",
-     "domain": "El Universal",
-     "seendate": "20261029T195406Z"
-    },
-    {
-     "title": "Consejo General del INE rinde minuto de silencio en memoria de Cuauhtémoc Cárdenas; recuerda fraude electoral de 1988",
-     "url": "https://www.eluniversal.com.mx/nacion/consejo-general-del-ine-rinde-minuto-de-silencio-en-memoria-de-cuauhtemoc-cardenas-recuerda-fraude-electoral-de-1988/",
-     "domain": "El Universal",
-     "seendate": "20261029T195231Z"
-    },
-    {
-     "title": "Samuel García busca consolidar a Nuevo León como líder industrial de Norteamérica; apuesta por infraestructura, seguridad y nearshoring",
-     "url": "https://www.eluniversal.com.mx/estados/samuel-garcia-busca-consolidar-a-nuevo-leon-como-lider-industrial-de-norteamerica-apuesta-por-infraestructura-seguridad-y-nearshoring/",
-     "domain": "El Universal",
-     "seendate": "20261029T194818Z"
-    },
-    {
-     "title": "Muere Andrés Filomeno, el “Monstruo de Atizapán”, en prisión; acumulaba 8 sentencias por feminicidio y desaparición",
-     "url": "https://www.eluniversal.com.mx/metropoli/muere-andres-filomeno-el-monstruo-de-atizapan-en-prision-acumulaba-8-sentencias-por-feminicidio-y-desaparicion/",
-     "domain": "El Universal",
-     "seendate": "20261029T193100Z"
-    },
-    {
-     "title": "Ante diputados, Mario Delgado destaca prohibición de celulares en escuelas; alerta riesgos de retos virales y violencia en redes",
-     "url": "https://www.eluniversal.com.mx/nacion/ante-diputados-mario-delgado-destaca-prohibicion-de-celulares-en-escuelas-alerta-riesgos-de-retos-virales-y-violencia-en-redes/",
-     "domain": "El Universal",
-     "seendate": "20261029T191927Z"
-    },
-    {
-     "title": "Cae en Chihuahua \"El señor de la A\", operador de grupo delictivo afín al nuevo Cártel de Juárez; era buscado por EU",
-     "url": "https://www.eluniversal.com.mx/nacion/cae-en-chihuahua-el-senor-de-la-a-operador-de-grupo-delictivo-afin-al-nuevo-cartel-de-juarez-era-buscado-por-eu/",
-     "domain": "El Universal",
-     "seendate": "20261029T190955Z"
-    },
-    {
-     "title": "Investigador de la BUAP gana concurso con proyecto de reciclaje; transforma desechos en fertilizante",
-     "url": "https://www.eluniversal.com.mx/estados/investigador-de-la-buap-gana-concurso-con-proyecto-de-reciclaje-transforma-desechos-en-fertilizante/",
-     "domain": "El Universal",
-     "seendate": "20261029T190842Z"
-    },
-    {
-     "title": "Denuncian contaminación por lodos extraídos del canal y la presa Las Pintas en Guadalajara; señalan crisis de salud pública y ambiental",
-     "url": "https://www.eluniversal.com.mx/estados/denuncian-contaminacion-por-lodos-extraidos-del-canal-y-la-presa-las-pintas-en-guadalajara-senalan-crisis-de-salud-publica-y-ambiental/",
-     "domain": "El Universal",
-     "seendate": "20261029T190349Z"
-    },
-    {
      "title": "Video: así detuvieron a 3 hermanos líderes de \"Los Pichilinguillos\" en Michoacán; servían a Cárteles Unidos",
      "url": "https://www.eluniversal.com.mx/nacion/detienen-a-tres-integrantes-de-celula-generadora-de-violencia-en-michoacan-son-acusados-de-narcotrafico-por-via-maritima/",
      "domain": "El Universal",
      "seendate": "20261029T184802Z"
     },
     {
-     "title": "Embajador Johnson insta a México a trabajar juntos por la seguridad y economía; por separado genera más obstáculos, considera",
-     "url": "https://www.eluniversal.com.mx/nacion/embajador-johnson-insta-a-mexico-a-trabajar-juntos-por-la-seguridad-y-economia-por-separado-genera-mas-obstaculos-considera/",
+     "title": "Capturan a Secretaria de Bienestar de Uruapan por caso Carlos Manzo; suman 34 personas detenidas",
+     "url": "https://www.eluniversal.com.mx/estados/capturan-a-secretaria-de-bienestar-de-uruapan-por-caso-carlos-manzo-suman-34-personas-detenidas/",
      "domain": "El Universal",
-     "seendate": "20261029T181235Z"
+     "seendate": "20261029T134315Z"
     },
     {
-     "title": "Matamoros registra bloqueos en varias vialidades; piden a la población resguardarse y evitar zonas de riesgo",
-     "url": "https://www.eluniversal.com.mx/estados/matamoros-registra-bloqueos-en-varias-vialidades-piden-a-la-poblacion-resguardarse-y-evitar-zonas-de-riesgo/",
+     "title": "Continúan recorridos en Parque España por pedazos de carne envenenados; encuentran una pieza este miércoles",
+     "url": "https://www.eluniversal.com.mx/metropoli/continuan-recorridos-en-parque-espana-por-pedazos-de-carne-envenenados-encuentran-una-pieza-este-miercoles/",
      "domain": "El Universal",
-     "seendate": "20261029T180612Z"
+     "seendate": "20261029T023740Z"
     },
     {
-     "title": "INE alista revisión a contrato de empresa que elabora credenciales de elector; Instituto \"está fuerte\", dice Blanca Cruz",
-     "url": "https://www.eluniversal.com.mx/nacion/el-ine-esta-fuerte-el-ine-esta-firme-dice-blanca-cruz-presidenta-interina-reitera-que-no-usara-los-superpoderes-de-taddei/",
+     "title": "Hace 10 años también envenenaron a cientos de perritos en Parque España, relata veterinaria; \"hoy nos encontramos en lo mismo\", lamenta",
+     "url": "https://www.eluniversal.com.mx/metropoli/hace-10-anos-tambien-envenenaron-a-cientos-de-perritos-en-parque-espana-relata-veterinaria-hoy-nos-encontramos-en-lo-mismo-lamenta/",
      "domain": "El Universal",
-     "seendate": "20261029T175051Z"
+     "seendate": "20261029T002332Z"
     },
     {
-     "title": "Caso Taddei pega de lleno al corazón del INE; Edmundo Jacobo en Con los de Casa",
-     "url": "https://www.eluniversal.com.mx/nacion/caso-taddei-pega-de-lleno-al-corazon-del-ine-dice-edmundo-jacobo-en-con-los-de-casa/",
+     "title": "Tras envenenamiento de perritos en Parque España, hay poca afluencia de visitantes; varias zonas permanecen acoronadas",
+     "url": "https://www.eluniversal.com.mx/metropoli/tras-presunto-envenenamiento-de-perritos-en-parque-espana-hay-poca-afluencia-de-visitantes-varias-zonas-permanecen-acoronadas/",
      "domain": "El Universal",
-     "seendate": "20261029T042521Z"
+     "seendate": "20261028T222924Z"
+    },
+    {
+     "title": "Alcaldía Cuauhtémoc realiza limpieza en Parque España tras presunto envenenamiento de perritos; retiran posibles residuos",
+     "url": "https://www.eluniversal.com.mx/metropoli/alcaldia-cuauhtemoc-realiza-limpieza-en-parque-espana-tras-presunto-envenenamiento-de-perritos-retiran-posibles-residuos/",
+     "domain": "El Universal",
+     "seendate": "20261028T211744Z"
+    },
+    {
+     "title": "Fiscalía CDMX abre investigación por presunto envenenamiento de perros en Parque España; dos lomitos murieron",
+     "url": "https://www.eluniversal.com.mx/metropoli/fiscalia-cdmx-abre-investigacion-por-presunto-envenenamiento-de-perros-en-parque-espana-dos-lomitos-murieron/",
+     "domain": "El Universal",
+     "seendate": "20261028T025203Z"
     }
    ]
   },
@@ -1036,6 +1096,24 @@
   "CRI": {
    "articles": [
     {
+     "title": "Vehículo cae a guindo cerca del puente de hamaca en Santo Domingo de Heredia: un hombre fue trasladado de urgencia",
+     "url": "https://www.nacion.com/sucesos/vehiculo-cae-a-guindo-cerca-del-puente-de-hamaca/QCU4PLSVYVG43BD3DUPTLXYVWU/story/",
+     "domain": "La Nación",
+     "seendate": "20261030T011848Z"
+    },
+    {
+     "title": "‘Me dijo que ese viaje no se lo perdía’: allegados recuerdan a las adultas mayores víctimas de accidente en Sarapiquí",
+     "url": "https://www.nacion.com/sucesos/me-dijo-que-ese-viaje-no-se-lo-perdia-allegados/KYNIE3XSDFB23KZB4KZOPW56GE/story/",
+     "domain": "La Nación",
+     "seendate": "20261030T004413Z"
+    },
+    {
+     "title": "Frente Amplio propone quitar a diputados el poder de elegir magistrados suplentes para evitar pactos políticos y retrasos en nombramientos",
+     "url": "https://www.nacion.com/politica/frente-amplio-propone-quitar-a-diputados-el-poder/6QEICRP7ONDLNA2YN7EPGWG2OE/story/",
+     "domain": "La Nación",
+     "seendate": "20261030T004128Z"
+    },
+    {
      "title": "Estas son las medidas que debe cumplir José Daniel Marenco sospechoso de amenazar al ministro de Cultura",
      "url": "https://www.nacion.com/sucesos/estas-son-las-medidas-que-debe-cumplir-jose-daniel/4FBYZNVIPNCGZCW2MYMHOBFLOY/story/",
      "domain": "La Nación",
@@ -1380,6 +1458,12 @@
      "seendate": "20261026T204700Z"
     },
     {
+     "title": "Una mipyme familiar en Sancti Spíritus lanza su propia marca de ron",
+     "url": "https://www.14ymedio.com/cuba/mipyme-familiar-sancti-spiritus-lanza_1_1132445.html",
+     "domain": "14ymedio",
+     "seendate": "20261026T171605Z"
+    },
+    {
      "title": "La magia de Harry Potter llega a La Habana con precios de hechicería",
      "url": "https://www.14ymedio.com/cuba/magia-harry-potter-llega-habana_1_1132408.html",
      "domain": "14ymedio",
@@ -1396,7 +1480,19 @@
      "title": "Contraloría de Medellín halló una presunta incidencia fiscal por 739.562 millones en la compra de Afinia durante la administración de Daniel Quintero",
      "url": "https://www.eltiempo.com/colombia/medellin/contraloria-de-medellin-halla-una-presunta-incidencia-fiscal-por-739-562-millones-de-pesos-en-afinia-durante-la-administracion-de-daniel-quintero-3597339",
      "domain": "El Tiempo",
-     "seendate": "20261029T235916Z"
+     "seendate": "20261030T001035Z"
+    },
+    {
+     "title": "Poncho Zuleta rompe en agradecimientos con los pobladores de Ariguaní que salvaron a su hijo Kbeto: ‘A ese pueblo querido le prometí una iglesia’",
+     "url": "https://www.eltiempo.com/colombia/barranquilla/poncho-zuleta-rompe-en-agradecimientos-con-los-pobladores-de-ariguani-que-salvaron-a-su-hijo-kbeto-a-ese-pueblo-querido-le-prometi-una-iglesia-3597349",
+     "domain": "El Tiempo",
+     "seendate": "20261030T000100Z"
+    },
+    {
+     "title": "Construir un túnel en el aire: el secreto de alta ingeniería con el que Antioquia acelera el segundo Túnel de Oriente",
+     "url": "https://www.eltiempo.com/colombia/medellin/construir-un-tunel-en-el-aire-el-secreto-de-alta-ingenieria-con-el-que-antioquia-acelera-el-segundo-tunel-de-oriente-3597297",
+     "domain": "El Tiempo",
+     "seendate": "20261030T000100Z"
     },
     {
      "title": "Joven quedó al borde de la diálisis tras accidente en moto pedida por aplicación; familia denuncia que conductor operaba sin documentos en Girón",
@@ -1439,18 +1535,6 @@
      "url": "https://www.eltiempo.com/colombia/cali/gran-donaton-para-reconstruir-el-templo-y-el-cementerio-de-roldanillo-valle-tras-el-terremoto-se-necesitan-mas-de-2-000-millones-de-pesos-3597313",
      "domain": "El Tiempo",
      "seendate": "20261029T215511Z"
-    },
-    {
-     "title": "Tragedia en Campamento (Antioquia): doble homicidio a la salida de una cancha enluta a la comunidad y a la familia de exmandatarios",
-     "url": "https://www.eltiempo.com/colombia/medellin/tragedia-en-campamento-antioquia-doble-homicidio-a-la-salida-de-una-cancha-enluta-a-la-comunidad-y-a-la-familia-de-exmandatarios-3597315",
-     "domain": "El Tiempo",
-     "seendate": "20261029T214740Z"
-    },
-    {
-     "title": "¿Menos pantallas, más protección?: avanza en el Concejo iniciativa que restringe el uso de celulares a menores de 13 años en colegios de Cali",
-     "url": "https://www.eltiempo.com/colombia/cali/menos-pantallas-mas-proteccion-avanza-en-el-concejo-iniciativa-que-restringe-el-uso-de-celulares-a-menores-de-13-anos-en-colegios-de-cali-3597310",
-     "domain": "El Tiempo",
-     "seendate": "20261029T212715Z"
     }
    ]
   },
@@ -1749,6 +1833,36 @@
   "ECU": {
    "articles": [
     {
+     "title": "Daniel Noboa reduce el IVA al 8 % para actividades turísticas durante el feriado",
+     "url": "https://eluniverso.com/politica/ejecutivo/daniel-noboa-reduce-el-iva-al-8-para-actividades-turisticas-durante-el-feriado-nota/",
+     "domain": "El Universo",
+     "seendate": "20261030T012657Z"
+    },
+    {
+     "title": "Sismo de magnitud 3,7 se registró este jueves en Cotopaxi",
+     "url": "https://eluniverso.com/comunidad/ecuador/sismo-de-magnitud-37-se-registro-este-jueves-en-cotopaxi-nota/",
+     "domain": "El Universo",
+     "seendate": "20261030T012645Z"
+    },
+    {
+     "title": "Apenas tres universidades nominaron docentes que elaboren el cuestionario para el examen oral y escrito que rendirán los cinco aspirantes a la Fiscalía",
+     "url": "https://eluniverso.com/politica/transparencia/fiscalia-general-del-estado-consejo-de-participacion-ciudadana-concurso-de-oposicion-y-meritos-nota-2/",
+     "domain": "El Universo",
+     "seendate": "20261030T012357Z"
+    },
+    {
+     "title": "Inamhi advierte de lluvias y tormentas en Ecuador este viernes: estas son las provincias bajo este pronóstico",
+     "url": "https://eluniverso.com/comunidad/ecuador/inamhi-alerta-por-lluvias-y-tormentas-en-ecuador-hasta-noviembre-nota/",
+     "domain": "El Universo",
+     "seendate": "20261030T012206Z"
+    },
+    {
+     "title": "Varios sectores de Cuenca, ‘decepcionados’ por casos de posible corrupción en la administración municipal",
+     "url": "https://eluniverso.com/politica/gobiernos-locales/varios-sectores-de-cuenca-decepcionados-por-casos-de-posible-corrupcion-en-la-administracion-municipal-nota/",
+     "domain": "El Universo",
+     "seendate": "20261030T002500Z"
+    },
+    {
      "title": "Mancheno anuncia que el Pleno votará la ley antimafias el 9 de noviembre",
      "url": "https://eluniverso.com/politica/asamblea-nacional/mancheno-anuncia-que-el-pleno-votara-ley-antimafias-el-9-de-noviembre-nota/",
      "domain": "El Universo",
@@ -1839,18 +1953,6 @@
      "seendate": "20261029T180056Z"
     },
     {
-     "title": "Maquinaria habilita tramo de la vía Cuenca-Girón-Pasaje",
-     "url": "https://eluniverso.com/comunidad/ecuador/deslizamiento-bloquea-tramo-de-la-via-cuenca-giron-pasaje-nota/",
-     "domain": "El Universo",
-     "seendate": "20261029T152744Z"
-    },
-    {
-     "title": "Control a la propaganda de candidatos a consejero de Participación Ciudadana tiene reglas: autoridad fiscalizará redes sociales, actos públicos y entrevistas",
-     "url": "https://eluniverso.com/politica/elecciones/elecciones-seccionales-2027-consejo-de-participacion-ciudadana-consejo-nacional-electoral-campana-electoral-nota/",
-     "domain": "El Universo",
-     "seendate": "20261029T144605Z"
-    },
-    {
      "title": "Feriado de noviembre en El Oro: agenda de eventos y opciones para visitar la parte alta de la provincia y sus playas",
      "url": "https://eluniverso.com/comunidad/ecuador/feriado-de-noviembre-en-el-oro-agenda-de-eventos-y-opciones-para-visitar-la-parte-alta-de-la-provincia-y-sus-playas-nota/",
      "domain": "El Universo",
@@ -1873,16 +1975,28 @@
   "PER": {
    "articles": [
     {
+     "title": "Lluvias en Perú: Senamhi prevé lluvias de moderada a extrema intensidad en Tumbes y Piura",
+     "url": "https://elcomercio.pe/peru/lluvias-en-peru-senamhi-preve-lluvias-de-moderada-a-extrema-intensidad-en-tumbes-y-piura-apuesplan-ultimas-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261030T005822Z"
+    },
+    {
      "title": "Lluvias en Perú por El Niño EN VIVO: qué regiones están en alerta y cuál es el pronóstico de Senamhi",
      "url": "https://elcomercio.pe/peru/lluvias-en-peru-en-vivo-el-nino-pronostico-de-senamhi-lluvias-temperatura-y-regiones-en-alerta-al-norte-lbposting-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261030T000011Z"
+     "seendate": "20261030T005315Z"
     },
     {
      "title": "Estados Unidos evalúa invertir en cinco proyectos en Perú: ¿qué oportunidades busca impulsar el Gobierno?",
      "url": "https://elcomercio.pe/economia/peru/estados-unidos-evalua-invertir-en-cinco-proyectos-en-peru-que-oportunidades-busca-impulsar-el-gobierno-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261029T235852Z"
+     "seendate": "20261030T003651Z"
+    },
+    {
+     "title": "La mitad de negocios no tiene fondos de emergencia para afrontar el fenómeno de El Niño",
+     "url": "https://elcomercio.pe/economia/peru/la-mitad-de-negocios-no-tiene-fondos-de-emergencia-para-afrontar-el-fenomeno-el-nino-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261030T003602Z"
     },
     {
      "title": "Gobierno usará Mecanismo de Obras por Impuestos para culminar obras públicas pendientes",
@@ -1903,22 +2017,10 @@
      "seendate": "20261029T213656Z"
     },
     {
-     "title": "Temblor hoy, 29 de octubre: reporte del IGP, epicentro y magnitud del último sismo en Perú",
-     "url": "https://elcomercio.pe/peru/temblor-en-peru-hoy-reporte-de-sismos-del-igp-epicentro-y-magnitud-tdpe-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261029T204229Z"
-    },
-    {
      "title": "Julio Velarde alcanza máximo calificación en ranking Mundial de Banqueros Centrales 2026",
      "url": "https://elcomercio.pe/economia/peru/julio-velarde-alcanza-maximo-calificacion-en-ranking-mundial-de-banqueros-centrales-2026-l-ultimas-noticia/",
      "domain": "El Comercio",
      "seendate": "20261029T202503Z"
-    },
-    {
-     "title": "La mitad de negocios no tiene fondos de emergencia para afrontar el fenómeno de El Niño",
-     "url": "https://elcomercio.pe/economia/peru/la-mitad-de-negocios-no-tiene-fondos-de-emergencia-para-afrontar-el-fenomeno-el-nino-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261029T191230Z"
     },
     {
      "title": "Gobierno relanzará licitaciones de centrales hidroeléctricas para atraer inversión privada",
@@ -2623,16 +2725,70 @@
   "ARG": {
    "articles": [
     {
-     "title": "Daniel López Rosetti, médico especialista en estrés, aconseja seguir la filosofía estoica: “Morimos todas las noches, nacemos todas las mañanas”",
-     "url": "https://www.lanacion.com.ar/sociedad/daniel-lopez-rosetti-medico-especialista-en-estres-aconseja-seguir-la-filosofia-estoica-morimos-nid29102026/",
+     "title": "Mauricio Macri dijo que “no se ha avanzado nada” en el acuerdo electoral con La Libertad Avanza para 2027",
+     "url": "https://www.lanacion.com.ar/politica/mauricio-macri-dijo-que-no-se-ha-avanzado-nada-en-el-acuerdo-electoral-con-la-libertad-avanza-para-nid29102026/",
      "domain": "La Nación",
-     "seendate": "20261030T000000Z"
+     "seendate": "20261030T010758Z"
+    },
+    {
+     "title": "Gabriel Rolón, psicoanalista: “Estamos tan atravesados por opiniones ajenas que quedamos excéntricos a nosotros mismos”",
+     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-estamos-tan-atravesados-por-opiniones-ajenas-que-quedamos-excentricos-a-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261030T010000Z"
+    },
+    {
+     "title": "La frase de El Principito sobre los vínculos: “Se debe pedir a cada cual lo que está a su alcance realizar”",
+     "url": "https://www.lanacion.com.ar/sociedad/la-frase-de-el-principito-sobre-los-vinculos-se-debe-pedir-a-cada-cual-lo-que-esta-a-su-alcance-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261030T010000Z"
+    },
+    {
+     "title": "A días de la visita del Papa y tras un embargo judicial, el Gobierno dice haber regularizado una deuda con el Cottolengo Don Orione",
+     "url": "https://www.lanacion.com.ar/politica/a-dias-de-la-visita-del-papa-y-tras-un-embargo-judicial-el-gobierno-dice-haber-regularizado-una-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261030T005415Z"
     },
     {
      "title": "Binance investiga un posible hackeo tras la salida de miles de millones de dólares: “Problema de seguridad”",
      "url": "https://www.lanacion.com.ar/economia/binance-investiga-un-posible-hackeo-tras-la-salida-de-casi-3000-millones-de-dolares-problema-de-nid29102026/",
      "domain": "La Nación",
-     "seendate": "20261029T235751Z"
+     "seendate": "20261030T005412Z"
+    },
+    {
+     "title": "El Senado aprobó un nuevo régimen de inversiones, la creación de un mercado de carbono y se apresta a discutir la reforma a la ley de salud mental",
+     "url": "https://www.lanacion.com.ar/politica/senado-comenzo-la-sesion-en-la-que-se-trataran-cambios-a-la-ley-de-salud-mental-y-un-nuevo-regimen-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261030T005359Z"
+    },
+    {
+     "title": "Javier Milei y sus medidas, en vivo: sesión en el Senado y el viaje de Karina Milei a Rosario",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-sesion-en-el-senado-y-el-viaje-de-karina-milei-a-rosario-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261030T004926Z"
+    },
+    {
+     "title": "La frase de Mario Alonso Puig sobre el amor: “Cuanto mayor sea tu capacidad de amar, más feliz vas a ser”",
+     "url": "https://www.lanacion.com.ar/sociedad/la-frase-de-mario-alonso-puig-sobre-el-amor-cuanto-mayor-sea-tu-capacidad-de-amar-mas-feliz-vas-a-nid27102026/",
+     "domain": "La Nación",
+     "seendate": "20261030T004300Z"
+    },
+    {
+     "title": "Fenómeno climático sin precedentes. Cómo huir de El Niño en las próximas vacaciones",
+     "url": "https://www.lanacion.com.ar/sociedad/fenomeno-climatico-sin-precedentes-como-huir-de-el-nino-en-las-proximas-vacaciones-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261030T003807Z"
+    },
+    {
+     "title": "Una peligrosa escalada de intolerancia y negación",
+     "url": "https://www.lanacion.com.ar/politica/una-peligrosa-escalada-de-intolerancia-y-negacion-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261030T001329Z"
+    },
+    {
+     "title": "Daniel López Rosetti, médico especialista en estrés, aconseja seguir la filosofía estoica: “Morimos todas las noches, nacemos todas las mañanas”",
+     "url": "https://www.lanacion.com.ar/sociedad/daniel-lopez-rosetti-medico-especialista-en-estres-aconseja-seguir-la-filosofia-estoica-morimos-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261030T000000Z"
     },
     {
      "title": "Hallaron sin vida a los dos hermanos menores de edad que habían desaparecido en Santa Cruz",
@@ -2645,12 +2801,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/conrado-estol-neurologo-sobre-que-implica-la-salud-no-es-solo-la-ausencia-de-enfermedad-es-mucho-mas-nid29102026/",
      "domain": "La Nación",
      "seendate": "20261029T234900Z"
-    },
-    {
-     "title": "Javier Milei y sus medidas, en vivo: sesión en el Senado y el viaje de Karina Milei a Rosario",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-sesion-en-el-senado-y-el-viaje-de-karina-milei-a-rosario-nid29102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T234518Z"
     },
     {
      "title": "Robin Sharma, especialista en crecimiento personal: “Un mal día para el ego es un buen día para el alma”",
@@ -2669,12 +2819,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/estres-cronico-y-corazon-por-que-la-liberacion-de-cortisol-tiene-multiples-efectos-negativos-nid29102026/",
      "domain": "La Nación",
      "seendate": "20261029T234000Z"
-    },
-    {
-     "title": "El Senado aprobó un nuevo régimen de inversiones y se apresta a discutir la reforma a la ley de salud mental",
-     "url": "https://www.lanacion.com.ar/politica/senado-comenzo-la-sesion-en-la-que-se-trataran-cambios-a-la-ley-de-salud-mental-y-un-nuevo-regimen-nid29102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T233206Z"
     },
     {
      "title": "La anorexia y la bulimia crecieron un 71% en tres décadas, de acuerdo a un estudio global: la preocupante situación argentina",
@@ -2777,54 +2921,6 @@
      "url": "https://www.lanacion.com.ar/economia/campo/informe-oficial-ya-se-evacuaron-147500-bovinos-y-bufalos-de-las-zonas-inundadas-del-litoral-nid29102026/",
      "domain": "La Nación",
      "seendate": "20261029T220048Z"
-    },
-    {
-     "title": "Donar sangre: quiénes pueden, quiénes no y cuánto hay que esperar después de un tatuaje",
-     "url": "https://www.lanacion.com.ar/sociedad/donar-sangre-quienes-pueden-quienes-no-y-cuanto-hay-que-esperar-despues-de-un-tatuaje-nid29102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T220000Z"
-    },
-    {
-     "title": "A qué hora llegan las tormentas fuertes a Buenos Aires hoy, según el SMN",
-     "url": "https://www.lanacion.com.ar/sociedad/a-que-hora-llegan-las-tormentas-fuertes-a-buenos-aires-hoy-segun-el-smn-nid29102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T215100Z"
-    },
-    {
-     "title": "La reflexión de Gabriel Rolón sobre la felicidad: “A veces uno desea más haber sido feliz que ser feliz”",
-     "url": "https://www.lanacion.com.ar/sociedad/la-reflexion-de-gabriel-rolon-sobre-la-felicidad-a-veces-uno-desea-mas-haber-sido-feliz-que-ser-nid27102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T214900Z"
-    },
-    {
-     "title": "Jóvenes estudiantes exploraron los “secretos” de la Justicia en la sala más tradicional de Tribunales",
-     "url": "https://www.lanacion.com.ar/seguridad/jovenes-estudiantes-exploraron-los-secretos-de-la-justicia-en-la-sala-mas-tradicional-de-tribunales-nid29102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T214810Z"
-    },
-    {
-     "title": "La frase del día de Séneca: “La suerte es donde confluyen la preparación y la oportunidad”",
-     "url": "https://www.lanacion.com.ar/sociedad/la-frase-del-dia-de-seneca-la-suerte-es-donde-confluyen-la-preparacion-y-la-oportunidad-nid28102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T214800Z"
-    },
-    {
-     "title": "El consejo de Arthur Brooks, experto en felicidad de Harvard, para la segunda mitad de la vida: “Pasar de sumar a restar”",
-     "url": "https://www.lanacion.com.ar/sociedad/el-consejo-de-arthur-brooks-experto-en-felicidad-de-harvard-para-la-segunda-mitad-de-la-vida-pasar-nid27102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T214100Z"
-    },
-    {
-     "title": "Pablo Ferrero, especialista en medicina del sueño, recomendó dormir desnudo: “Facilita la termorregulación”",
-     "url": "https://www.lanacion.com.ar/sociedad/pablo-ferrero-especialista-en-medicina-del-sueno-recomendo-dormir-desnudo-facilita-la-nid29102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T213700Z"
-    },
-    {
-     "title": "Cambia el scoring de los conductores en la ciudad: qué se modifica y cómo funciona",
-     "url": "https://www.lanacion.com.ar/sociedad/cambia-el-scoring-de-los-conductores-en-la-ciudad-que-se-modifica-y-como-funciona-nid29102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T212513Z"
     }
    ]
   },
@@ -3231,22 +3327,10 @@
      "seendate": "20261029T214816Z"
     },
     {
-     "title": "Ministro de Salud anuncia que viajará a Taiwán en busca de tecnología de punta para la medicina paraguaya",
-     "url": "https://www.abc.com.py/nacionales/2026/10/29/ministro-de-salud-anuncia-que-viajara-a-taiwan-en-busca-de-tecnologia-de-punta-para-la-medicina-paraguaya/",
-     "domain": "ABC Color",
-     "seendate": "20261029T204212Z"
-    },
-    {
      "title": "La crecida del Paraná arrasó con los cultivos y dejó sin sustento a 70 familias de Paso Tajy",
      "url": "https://www.abc.com.py/nacionales/2026/10/29/la-crecida-del-parana-arraso-con-los-cultivos-y-dejo-sin-sustento-a-70-familias-de-paso-tajy/",
      "domain": "ABC Color",
      "seendate": "20261029T202843Z"
-    },
-    {
-     "title": "Más intocable que nunca: políticos salvan a jueza de ser enjuiciada por el JEM",
-     "url": "https://www.abc.com.py/nacionales/2026/10/29/mas-intocable-que-nunca-politicos-salvan-a-jueza-de-ser-enjuiciada-por-el-jem/",
-     "domain": "ABC Color",
-     "seendate": "20261029T202704Z"
     }
    ]
   },
@@ -3256,7 +3340,13 @@
   "BRA": {
    "articles": [
     {
-     "title": "Fachin devolve investigação do INSS a Mendonça, e mantém sob sua responsabilidade procedimentos do caso Master",
+     "title": "PT vê atos de Flávio como 'novo degrau da reação autoritária' de 'derrotados' e diz que posição de Trump 'exige atenção'",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/29/pt-ve-atos-de-flavio-como-novo-degrau-da-reacao-autoritaria-de-derrotados-e-diz-que-posicao-de-trump-exige-atencao.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261030T003411Z"
+    },
+    {
+     "title": "Fachin devolve investigações do INSS e Lulinha a Mendonça, e mantém sob sua responsabilidade inquéritos do Master",
      "url": "https://oglobo.globo.com/politica/noticia/2026/10/29/fachin-devolve-investigacao-do-inss-a-mendonca-mas-mantem-sob-sua-responsabilidade-procedimentos-do-caso-master.ghtml",
      "domain": "O Globo",
      "seendate": "20261029T233230Z"
@@ -3362,12 +3452,6 @@
      "url": "https://oglobo.globo.com/politica/noticia/2026/10/29/aliado-de-flavio-bolsonaro-nos-eua-justifica-erros-em-carta-golpista-por-uso-do-chatgpt-achamos-engracado.ghtml",
      "domain": "O Globo",
      "seendate": "20261029T173434Z"
-    },
-    {
-     "title": "Flávio recuou de autoproclamação como presidente eleito após alerta jurídico e pressão de parlamentares do PL",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/29/flavio-recuou-de-autoproclamacao-como-presidente-eleito-apos-alerta-juridico-e-pressao-de-parlamentares-do-pl.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261029T171426Z"
     }
    ]
   }
