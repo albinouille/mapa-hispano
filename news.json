@@ -1,19 +1,19 @@
 {
- "updated": "2026-10-29T23:33:42+00:00",
+ "updated": "2026-10-30T00:11:18+00:00",
  "countries": {
   "ESP": {
    "articles": [
     {
-     "title": "Accidente de trenes en Toledo: última hora y reacciones en directo | El PP pide la comparecencia de Sánchez en el Congreso y considera “insuficiente” la de Puente",
-     "url": "https://elpais.com/espana/2026-10-29/ultima-hora-y-reacciones-tras-el-accidente-de-trenes-de-urda-toledo-en-directo.html",
-     "domain": "El País",
-     "seendate": "20261029T205545Z"
-    },
-    {
-     "title": "El primer informe técnico del accidente estima que el AVE circulaba de 160 a 200 kilómetros por hora cuando chocó",
+     "title": "El primer informe técnico del accidente estima que el AVE circulaba de 160 a 200 kilómetros por hora cuando chocó en Urda",
      "url": "https://elpais.com/espana/2026-10-29/el-primer-informe-tecnico-del-accidente-fija-en-160-a-200-kilometros-por-hora-la-velocidad-del-ave-que-choco-en-urda.html",
      "domain": "El País",
      "seendate": "20261029T205330Z"
+    },
+    {
+     "title": "Un Abascal de luto carga contra Pedro Sánchez y “Óscar Muerte” por el accidente ferroviario",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-10-29/un-abascal-de-luto-carga-contra-pedro-sanchez-y-oscar-muerte-por-el-accidente-ferroviario.html",
+     "domain": "El País",
+     "seendate": "20261029T202421Z"
     },
     {
      "title": "Dos vidas cruzadas en la cabina: Antonio y Daniel, los maquinistas treintañeros del AVE 2080",
@@ -112,12 +112,6 @@
      "seendate": "20261029T100705Z"
     },
     {
-     "title": "Asesinado a tiros un hombre ingresado en un hospital en Tarragona que ya había sido disparado en Salou",
-     "url": "https://elpais.com/espana/catalunya/2026-10-29/ejecutan-a-tiros-a-un-hombre-ingresado-en-un-hospital-en-tarragona-que-ya-habia-sido-tiroteado-en-salou.html",
-     "domain": "El País",
-     "seendate": "20261029T074432Z"
-    },
-    {
      "title": "Yo viajaba en ese tren",
      "url": "https://elpais.com/espana/2026-10-29/yo-viajaba-en-ese-tren.html",
      "domain": "El País",
@@ -211,6 +205,60 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "\"Los dos hijos (Taddei) tienen casa gracias a esto\"; revelan audios y videos del contratista Alfredo Hernández Casillas",
+     "url": "https://www.eluniversal.com.mx/nacion/los-dos-hijos-taddei-tienen-casa-gracias-a-esto-revelan-audios-y-videos-del-contratista-alfredo-hernandez-casillas/",
+     "domain": "El Universal",
+     "seendate": "20261029T235921Z"
+    },
+    {
+     "title": "Área para perros en Parque España permanece cerrada; autoridades continúan investigaciones por envenenamiento",
+     "url": "https://www.eluniversal.com.mx/metropoli/area-para-perros-en-parque-espana-permanece-cerrada-autoridades-continuan-investigaciones-por-envenenamiento/",
+     "domain": "El Universal",
+     "seendate": "20261029T235547Z"
+    },
+    {
+     "title": "Volcadura de unidad militar deja dos soldados muertos en Durango; otros cinco resultan heridos",
+     "url": "https://www.eluniversal.com.mx/estados/volcadura-de-unidad-militar-deja-dos-soldados-muertos-en-durango-otros-cinco-resultan-heridos/",
+     "domain": "El Universal",
+     "seendate": "20261029T234619Z"
+    },
+    {
+     "title": "Quintana Roo pone en marcha REC Digital; nueva plataforma digitalizará 11 trámites vehiculares y actividades económicas",
+     "url": "https://www.eluniversal.com.mx/estados/quintana-roo-pone-en-marcha-rec-digital-nueva-plataforma-digitalizara-11-tramites-vehiculares-y-actividades-economicas/",
+     "domain": "El Universal",
+     "seendate": "20261029T234520Z"
+    },
+    {
+     "title": "Caen tres en el AICM que pretendían traficar droga a España y Corea del Sur; decomisan 47 kilos de cocaína y metanfetamina",
+     "url": "https://www.eluniversal.com.mx/nacion/caen-tres-en-el-aicm-que-pretendian-traficar-droga-a-espana-y-corea-del-sur-decomisan-47-kilos-de-cocaina-y-metanfetamina/",
+     "domain": "El Universal",
+     "seendate": "20261029T233945Z"
+    },
+    {
+     "title": "Madre entrega a sus hijos a la policía en León, Guanajuato; están acusados de participar en un homicidio",
+     "url": "https://www.eluniversal.com.mx/estados/madre-entrega-a-sus-hijos-a-la-policia-en-leon-guanajuato-estan-acusados-de-participar-en-un-homicidio/",
+     "domain": "El Universal",
+     "seendate": "20261029T233721Z"
+    },
+    {
+     "title": "Nogales reanudará exportación de ganado a Estados Unidos; Sonora prevé movilizar 2 mil 500 reses diarias",
+     "url": "https://www.eluniversal.com.mx/estados/nogales-reanudara-exportacion-de-ganado-a-estados-unidos-sonora-preve-movilizar-2-mil-500-reses-diarias/",
+     "domain": "El Universal",
+     "seendate": "20261029T233514Z"
+    },
+    {
+     "title": "Iztapalapa despliega operativo en panteones por Día de Muertos; se espera la asistencia de 300 mil personas",
+     "url": "https://www.eluniversal.com.mx/metropoli/iztapalapa-despliega-operativo-en-panteones-por-dia-de-muertos-se-espera-la-asistencia-de-300-mil-personas/",
+     "domain": "El Universal",
+     "seendate": "20261029T233016Z"
+    },
+    {
+     "title": "Detienen a guardia de seguridad por robo de alrededor de 5 mdp en Nuevo León; desaparecen joyas y centenarios de oro",
+     "url": "https://www.eluniversal.com.mx/estados/detienen-a-guardia-de-seguridad-por-robo-de-alrededor-de-5-mdp-en-nuevo-leon-desaparecen-joyas-y-centenarios-de-oro/",
+     "domain": "El Universal",
+     "seendate": "20261029T232637Z"
+    },
     {
      "title": "López Casarín cuestiona denuncia de influencer Antonio Betancourt; acusa noticias falsas contra Álvaro Obregón en redes sociales",
      "url": "https://www.eluniversal.com.mx/metropoli/lopez-casarin-cuestiona-denuncia-de-influencer-antonio-betancourt-acusa-noticias-falsas-contra-alvaro-obregon-en-redes-sociales/",
@@ -380,40 +428,10 @@
      "seendate": "20261029T180612Z"
     },
     {
-     "title": "Detienen a cinco personas tras cateos por narcomenudeo en CDMX; aseguran drogas en tres alcaldías",
-     "url": "https://www.eluniversal.com.mx/metropoli/detienen-a-cinco-personas-tras-cateos-por-narcomenudeo-en-cdmx-aseguran-drogas-en-tres-alcaldias/",
-     "domain": "El Universal",
-     "seendate": "20261029T175504Z"
-    },
-    {
-     "title": "Go-karts de hasta 739 mil pesos y cajas de bateo de más de un millón; auditoría detecta compra para parque recreativo en Sonora",
-     "url": "https://www.eluniversal.com.mx/estados/go-karts-de-hasta-739-mil-pesos-y-cajas-de-bateo-de-mas-de-un-millon-auditoria-detecta-compra-para-parque-recreativo-en-sonora/",
-     "domain": "El Universal",
-     "seendate": "20261029T175152Z"
-    },
-    {
-     "title": "Motociclista amenaza con pistola a operador del Trolebús en Mixcoac; ambos se enfrentaron a golpes",
-     "url": "https://www.eluniversal.com.mx/metropoli/motociclista-amenaza-con-pistola-a-operador-del-trolebus-en-mixcoac-ambos-se-enfrentaron-a-golpes/",
-     "domain": "El Universal",
-     "seendate": "20261029T175057Z"
-    },
-    {
      "title": "INE alista revisión a contrato de empresa que elabora credenciales de elector; Instituto \"está fuerte\", dice Blanca Cruz",
      "url": "https://www.eluniversal.com.mx/nacion/el-ine-esta-fuerte-el-ine-esta-firme-dice-blanca-cruz-presidenta-interina-reitera-que-no-usara-los-superpoderes-de-taddei/",
      "domain": "El Universal",
      "seendate": "20261029T175051Z"
-    },
-    {
-     "title": "Con aplausos, diputados rinden homenaje a Cuauhtémoc Cárdenas; \"abrió el proceso democrático en México\", dice Monreal",
-     "url": "https://www.eluniversal.com.mx/nacion/con-aplausos-diputados-rinden-homenaje-a-cuauhtemoc-cardenas-abrio-el-proceso-democratico-en-mexico-dice-monreal/",
-     "domain": "El Universal",
-     "seendate": "20261029T174251Z"
-    },
-    {
-     "title": "Diputado del PRI acusa a Morena de frenar comparecencia del titular del IEE Sonora; exige aclarar contratos por 156.8 mdp",
-     "url": "https://www.eluniversal.com.mx/estados/diputado-del-pri-acusa-a-morena-de-frenar-comparecencia-del-titular-del-iee-sonora-exige-aclarar-contratos-por-1568-mdp/",
-     "domain": "El Universal",
-     "seendate": "20261029T172750Z"
     },
     {
      "title": "Caso Taddei pega de lleno al corazón del INE; Edmundo Jacobo en Con los de Casa",
@@ -890,12 +908,6 @@
      "url": "https://www.radioprogresohn.net/aplicacion-movil/cayos-cochinos-la-comunidad-garifuna-espera-que-el-gobierno-cumpla-la-sentencia-que-le-devuelve-sus-territorios-maritimos/",
      "domain": "radioprogresohn.net",
      "seendate": "20261023T001500Z"
-    },
-    {
-     "title": "SIT aclara situación con túmulos tras nueva reglamentación en Honduras",
-     "url": "http://www.laprensa.hn/honduras/tumulos-sit-infraestructura-nueva-reglamentacion-prohibicion-PF32408689",
-     "domain": "laprensa.hn",
-     "seendate": "20261022T223000Z"
     }
    ]
   },
@@ -1018,42 +1030,6 @@
      "url": "https://nuevaya.com.ni/destacadas/nicaragua-respalda-declaracion-de-embajada-de-china-ante-afirmaciones-falsas-sobre-empresas-de-su-pais/",
      "domain": "nuevaya.com.ni",
      "seendate": "20261024T004500Z"
-    },
-    {
-     "title": "Entrega 29 , 000 becas a jóvenes para estudiar en Nicaragua",
-     "url": "https://nuevaya.com.ni/nacionales/entrega-29000-becas-a-jovenes-para-estudiar-en-nicaragua/",
-     "domain": "nuevaya.com.ni",
-     "seendate": "20261022T233000Z"
-    },
-    {
-     "title": "126 especialistas analizarán salud infantil en congreso de pediatría en Managua",
-     "url": "https://nuevaya.com.ni/nacionales/126-especialistas-analizaran-salud-infantil-en-congreso-de-pediatria-en-managua/",
-     "domain": "nuevaya.com.ni",
-     "seendate": "20261022T233000Z"
-    },
-    {
-     "title": "Nicaragua y Palestina ratifican vínculos históricos de amistad y cooperación",
-     "url": "https://nuevaya.com.ni/nacionales/nicaragua-y-palestina-ratifican-vinculos-historicos-de-amistad-y-cooperacion/",
-     "domain": "nuevaya.com.ni",
-     "seendate": "20261022T221500Z"
-    },
-    {
-     "title": "Ejército de Nicaragua realizará caminata y ejercicios de tiro en Mateare",
-     "url": "https://nuevaya.com.ni/nacionales/ejercito-de-nicaragua-realizara-caminata-y-ejercicios-de-tiro-en-mateare/",
-     "domain": "nuevaya.com.ni",
-     "seendate": "20261022T221500Z"
-    },
-    {
-     "title": "Desalmado confesó ante policía de Nicaragua el cruel asesinato de su esposa y su hija en Costa Rica",
-     "url": "https://nuevaya.com.ni/destacadas/desalmado-confeso-ante-policia-de-nicaragua-el-cruel-asesinato-de-su-esposa-y-su-hija-en-costa-rica/",
-     "domain": "nuevaya.com.ni",
-     "seendate": "20261022T221500Z"
-    },
-    {
-     "title": "Yoelkis Guibert el primero en llegar a 10 jonrones en Cuba es refuerzo del Bóer",
-     "url": "https://nuevaya.com.ni/deportes-ya/yoelkis-guibert-el-primero-en-llegar-a-10-jonrones-en-cuba-es-refuerzo-del-boer/",
-     "domain": "nuevaya.com.ni",
-     "seendate": "20261022T221500Z"
     }
    ]
   },
@@ -1286,12 +1262,6 @@
      "seendate": "20261028T050200Z"
     },
     {
-     "title": "Descuentos para jubilados: Asamblea aprueba en segundo debate el proyecto 746",
-     "url": "https://www.prensa.com/politica/descuentos-para-jubilados-asamblea-aprueba-en-segundo-debate-el-proyecto-746/",
-     "domain": "La Prensa",
-     "seendate": "20261028T040500Z"
-    },
-    {
      "title": "Gobierno ordena construir 1,400 viviendas adicionales para afectados por el terremoto",
      "url": "https://www.prensa.com/politica/gobierno-ordena-construir-1400-viviendas-adicionales-para-afectados-por-el-terremoto/",
      "domain": "La Prensa",
@@ -1423,10 +1393,16 @@
   "COL": {
    "articles": [
     {
-     "title": "Contraloría de Medellín halla una presunta incidencia fiscal por 739.562 millones de pesos en Afinia durante la administración de Daniel Quintero",
+     "title": "Contraloría de Medellín halló una presunta incidencia fiscal por 739.562 millones en la compra de Afinia durante la administración de Daniel Quintero",
      "url": "https://www.eltiempo.com/colombia/medellin/contraloria-de-medellin-halla-una-presunta-incidencia-fiscal-por-739-562-millones-de-pesos-en-afinia-durante-la-administracion-de-daniel-quintero-3597339",
      "domain": "El Tiempo",
-     "seendate": "20261029T231810Z"
+     "seendate": "20261029T235916Z"
+    },
+    {
+     "title": "Joven quedó al borde de la diálisis tras accidente en moto pedida por aplicación; familia denuncia que conductor operaba sin documentos en Girón",
+     "url": "https://www.eltiempo.com/colombia/santander/joven-quedo-al-borde-de-la-dialisis-tras-accidente-en-moto-pedida-por-aplicacion-familia-denuncia-que-conductor-operaba-sin-documentos-en-giron-3597322",
+     "domain": "El Tiempo",
+     "seendate": "20261029T232514Z"
     },
     {
      "title": "Una mujer está en estado crítico tras ser atacada por su pareja con un químico en Medellín: el hombre trató de inculpar a un habitante de calle",
@@ -1475,12 +1451,6 @@
      "url": "https://www.eltiempo.com/colombia/cali/menos-pantallas-mas-proteccion-avanza-en-el-concejo-iniciativa-que-restringe-el-uso-de-celulares-a-menores-de-13-anos-en-colegios-de-cali-3597310",
      "domain": "El Tiempo",
      "seendate": "20261029T212715Z"
-    },
-    {
-     "title": "Crisis por la energía en el municipio de Barbacoas, Nariño: 'Estamos cansados del mal servicio y pedimos que los compromisos se cumplan'",
-     "url": "https://www.eltiempo.com/colombia/cali/crisis-por-la-energia-en-el-municipio-de-barbacoas-narino-estamos-cansados-del-mal-servicio-y-pedimos-que-los-compromisos-se-cumplan-3597306",
-     "domain": "El Tiempo",
-     "seendate": "20261029T212145Z"
     }
    ]
   },
@@ -1779,6 +1749,12 @@
   "ECU": {
    "articles": [
     {
+     "title": "Mancheno anuncia que el Pleno votará la ley antimafias el 9 de noviembre",
+     "url": "https://eluniverso.com/politica/asamblea-nacional/mancheno-anuncia-que-el-pleno-votara-ley-antimafias-el-9-de-noviembre-nota/",
+     "domain": "El Universo",
+     "seendate": "20261030T000000Z"
+    },
+    {
      "title": "Vía Pajonal en El Oro será ampliada a cuatro carriles con una inversión de $ 19 millones",
      "url": "https://eluniverso.com/politica/ejecutivo/via-pajonal-en-el-oro-sera-ampliada-a-cuatro-carriles-con-una-inversion-de-19-millones-nota/",
      "domain": "El Universo",
@@ -1891,18 +1867,6 @@
      "url": "https://eluniverso.com/politica/seguridad/daniel-noboa-anuncia-extradicion-de-daniel-salcedo-ronald-herrera-y-alias-churron-hacia-estados-unidos-nota/",
      "domain": "El Universo",
      "seendate": "20261029T133932Z"
-    },
-    {
-     "title": "Pronóstico del clima para este jueves, 29 de octubre: tormentas eléctricas en la Costa y lluvias en la Sierra",
-     "url": "https://eluniverso.com/comunidad/ecuador/pronostico-del-clima-para-este-jueves-29-de-octubre-tormentas-electricas-en-la-costa-y-lluvias-en-la-sierra-nota/",
-     "domain": "El Universo",
-     "seendate": "20261029T040950Z"
-    },
-    {
-     "title": "Lluvias con tormentas eléctricas y ráfagas de viento se esperan en Ecuador hasta el domingo",
-     "url": "https://eluniverso.com/comunidad/ecuador/lluvias-con-tormentas-electricas-y-rafagas-de-viento-se-esperan-en-ecuador-hasta-el-domingo-nota/",
-     "domain": "El Universo",
-     "seendate": "20261029T035904Z"
     }
    ]
   },
@@ -1912,7 +1876,19 @@
      "title": "Lluvias en Perú por El Niño EN VIVO: qué regiones están en alerta y cuál es el pronóstico de Senamhi",
      "url": "https://elcomercio.pe/peru/lluvias-en-peru-en-vivo-el-nino-pronostico-de-senamhi-lluvias-temperatura-y-regiones-en-alerta-al-norte-lbposting-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261029T230637Z"
+     "seendate": "20261030T000011Z"
+    },
+    {
+     "title": "Estados Unidos evalúa invertir en cinco proyectos en Perú: ¿qué oportunidades busca impulsar el Gobierno?",
+     "url": "https://elcomercio.pe/economia/peru/estados-unidos-evalua-invertir-en-cinco-proyectos-en-peru-que-oportunidades-busca-impulsar-el-gobierno-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261029T235852Z"
+    },
+    {
+     "title": "Gobierno usará Mecanismo de Obras por Impuestos para culminar obras públicas pendientes",
+     "url": "https://elcomercio.pe/peru/gobierno-usara-mecanismo-de-obras-por-impuestos-para-culminar-obras-publicas-pendientes-banbif-elmer-cuba-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261029T235358Z"
     },
     {
      "title": "Fenómeno El Niño: ANA desplegará maquinaria en puntos críticos de la costa",
@@ -1939,6 +1915,12 @@
      "seendate": "20261029T202503Z"
     },
     {
+     "title": "La mitad de negocios no tiene fondos de emergencia para afrontar el fenómeno de El Niño",
+     "url": "https://elcomercio.pe/economia/peru/la-mitad-de-negocios-no-tiene-fondos-de-emergencia-para-afrontar-el-fenomeno-el-nino-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261029T191230Z"
+    },
+    {
      "title": "Gobierno relanzará licitaciones de centrales hidroeléctricas para atraer inversión privada",
      "url": "https://elcomercio.pe/economia/peru/gobierno-relanzara-licitaciones-de-centrales-hidroelectricas-para-atraer-inversion-privada-l-ultimas-noticia/",
      "domain": "El Comercio",
@@ -1961,6 +1943,12 @@
      "url": "https://elcomercio.pe/economia/peru/el-dolar-inicia-la-jornada-cerca-de-s345-tras-decision-de-la-fed-y-nuevos-datos-de-inflacion-en-ee-uu-l-ultimas-noticia/",
      "domain": "El Comercio",
      "seendate": "20261029T160120Z"
+    },
+    {
+     "title": "Petro-Perú prevé vender una participación minoritaria en la estatal a principios del 2027",
+     "url": "https://elcomercio.pe/economia/peru/petro-peru-preve-vender-una-participacion-minoritaria-en-la-estatal-a-principios-del-2027-l-ultimas-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261029T140023Z"
     }
    ]
   },
@@ -2283,30 +2271,6 @@
      "url": "https://eldeber.com.bo/pais/fiscalia-aparta-60-funcionarios-gestion-mariaca_1792706585",
      "domain": "eldeber.com.bo",
      "seendate": "20261023T001500Z"
-    },
-    {
-     "title": "Fútbol como economía de la ciudad : el impacto del deporte en las ciudades bolivianas",
-     "url": "https://www.opinion.com.bo/deportes/futbol-como-economia-ciudad-impacto-deporte-ciudades-bolivianas/20261022172924998031.html",
-     "domain": "opinion.com.bo",
-     "seendate": "20261022T231500Z"
-    },
-    {
-     "title": "Gobernador entrega entrega material para tanques y geomenbranas para 19 municipios y un TIOC",
-     "url": "https://www.opinion.com.bo/cochabamba/gobernador-entrega-entrega-material-tanques-geomenbranas-19-municipios-tioc/20261022184744998037.html",
-     "domain": "opinion.com.bo",
-     "seendate": "20261022T231500Z"
-    },
-    {
-     "title": "Determinan Bs 11 . 95 para costo de turril de agua en el municipio de Cochabamba",
-     "url": "https://www.opinion.com.bo/cochabamba/determinan-bs-1195-costo-turril-agua-municipio-cochabamba/20261022183333998035.html",
-     "domain": "opinion.com.bo",
-     "seendate": "20261022T231500Z"
-    },
-    {
-     "title": "EEUU anuncia nueva lista de sancionados de Bolivia : incluye a diputados , un exfiscal general , entre otros",
-     "url": "https://www.opinion.com.bo/pais/eeuu-anuncia-nueva-lista-sancionados-bolivia-incluye-diputados-exfiscal-general-entre-otros/20261022150728998018.html",
-     "domain": "opinion.com.bo",
-     "seendate": "20261022T231500Z"
     }
    ]
   },
@@ -2659,6 +2623,60 @@
   "ARG": {
    "articles": [
     {
+     "title": "Daniel López Rosetti, médico especialista en estrés, aconseja seguir la filosofía estoica: “Morimos todas las noches, nacemos todas las mañanas”",
+     "url": "https://www.lanacion.com.ar/sociedad/daniel-lopez-rosetti-medico-especialista-en-estres-aconseja-seguir-la-filosofia-estoica-morimos-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261030T000000Z"
+    },
+    {
+     "title": "Binance investiga un posible hackeo tras la salida de miles de millones de dólares: “Problema de seguridad”",
+     "url": "https://www.lanacion.com.ar/economia/binance-investiga-un-posible-hackeo-tras-la-salida-de-casi-3000-millones-de-dolares-problema-de-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T235751Z"
+    },
+    {
+     "title": "Hallaron sin vida a los dos hermanos menores de edad que habían desaparecido en Santa Cruz",
+     "url": "https://www.lanacion.com.ar/sociedad/hallaron-sin-vida-a-los-dos-hermanos-menores-de-edad-que-habian-desaparecido-en-santa-cruz-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T235539Z"
+    },
+    {
+     "title": "Conrado Estol, neurólogo, sobre qué implica la salud: “No es solo la ausencia de enfermedad, es mucho más que eso”",
+     "url": "https://www.lanacion.com.ar/sociedad/conrado-estol-neurologo-sobre-que-implica-la-salud-no-es-solo-la-ausencia-de-enfermedad-es-mucho-mas-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T234900Z"
+    },
+    {
+     "title": "Javier Milei y sus medidas, en vivo: sesión en el Senado y el viaje de Karina Milei a Rosario",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-sesion-en-el-senado-y-el-viaje-de-karina-milei-a-rosario-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T234518Z"
+    },
+    {
+     "title": "Robin Sharma, especialista en crecimiento personal: “Un mal día para el ego es un buen día para el alma”",
+     "url": "https://www.lanacion.com.ar/sociedad/robin-sharma-especialista-en-crecimiento-personal-un-mal-dia-para-el-ego-es-un-buen-dia-para-el-alma-nid28102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T234200Z"
+    },
+    {
+     "title": "Inti Bonomo, experto en Ciencias Ambientales, sobre el avance del fenómeno del Súper Niño: “Va a seguir creciendo y el pico va a ser en diciembre”",
+     "url": "https://www.lanacion.com.ar/sociedad/inti-bonomo-experto-en-ciencias-ambientales-sobre-el-avance-del-fenomeno-del-super-nino-va-a-seguir-nid24102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T234100Z"
+    },
+    {
+     "title": "Estrés crónico y corazón: por qué la liberación de cortisol tiene múltiples efectos negativos",
+     "url": "https://www.lanacion.com.ar/sociedad/estres-cronico-y-corazon-por-que-la-liberacion-de-cortisol-tiene-multiples-efectos-negativos-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T234000Z"
+    },
+    {
+     "title": "El Senado aprobó un nuevo régimen de inversiones y se apresta a discutir la reforma a la ley de salud mental",
+     "url": "https://www.lanacion.com.ar/politica/senado-comenzo-la-sesion-en-la-que-se-trataran-cambios-a-la-ley-de-salud-mental-y-un-nuevo-regimen-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261029T233206Z"
+    },
+    {
      "title": "La anorexia y la bulimia crecieron un 71% en tres décadas, de acuerdo a un estudio global: la preocupante situación argentina",
      "url": "https://www.lanacion.com.ar/sociedad/la-anorexia-y-la-bulimia-crecieron-un-71-en-tres-decadas-de-acuerdo-a-un-estudio-global-la-nid29102026/",
      "domain": "La Nación",
@@ -2675,18 +2693,6 @@
      "url": "https://www.lanacion.com.ar/seguridad/hicieron-una-estafa-virtual-en-un-municipio-de-la-pampa-y-no-se-pudieron-pagar-los-sueldos-nid29102026/",
      "domain": "La Nación",
      "seendate": "20261029T231810Z"
-    },
-    {
-     "title": "Javier Milei y sus medidas, en vivo: sesión en el Senado y el viaje de Karina Milei a Rosario",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-sesion-en-el-senado-y-el-viaje-de-karina-milei-a-rosario-nid29102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T231500Z"
-    },
-    {
-     "title": "Binance investiga un posible hackeo tras la salida de miles de millones de dólares: “Problema de seguridad”",
-     "url": "https://www.lanacion.com.ar/economia/binance-investiga-un-posible-hackeo-tras-la-salida-de-casi-3000-millones-de-dolares-problema-de-nid29102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T230626Z"
     },
     {
      "title": "Café en el ACA, chapa diplomática y un McDonald’s: las misteriosas horas de Santiago Caputo en Misiones durante el operativo Bolsonaro",
@@ -2819,36 +2825,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/cambia-el-scoring-de-los-conductores-en-la-ciudad-que-se-modifica-y-como-funciona-nid29102026/",
      "domain": "La Nación",
      "seendate": "20261029T212513Z"
-    },
-    {
-     "title": "El Niño: en un mes aumentó un 53,4% la superficie con agua en Corrientes",
-     "url": "https://www.lanacion.com.ar/economia/campo/el-nino-en-un-mes-aumento-un-534-la-superficie-con-agua-en-corrientes-nid29102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T211814Z"
-    },
-    {
-     "title": "Conmoción en Misiones: hallaron a una pareja sin vida dentro de un auto y a su bebé dormido",
-     "url": "https://www.lanacion.com.ar/seguridad/conmocion-en-misiones-hallaron-a-una-pareja-sin-vida-dentro-de-un-auto-y-a-su-bebe-dormido-nid29102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T211713Z"
-    },
-    {
-     "title": "Cómo controlar la glucemia, según un médico: “La única manera de destrabar la cerradura es actividad física”",
-     "url": "https://www.lanacion.com.ar/sociedad/como-controlar-la-glucemia-segun-un-medico-la-unica-manera-de-destrabar-la-cerradura-es-actividad-nid29102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T210000Z"
-    },
-    {
-     "title": "Qué se sabe del hallazgo del cuerpo de Nancy Godoy, la docente que buscaban en Corrientes",
-     "url": "https://www.lanacion.com.ar/seguridad/que-se-sabe-del-hallazgo-del-cuerpo-de-nanci-godoy-la-docente-que-buscaban-en-corrientes-nid28102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T205555Z"
-    },
-    {
-     "title": "Cuáles son los mejores y peores municipios del conurbano bonaerense para vivir, según un ranking de la UBA",
-     "url": "https://www.lanacion.com.ar/sociedad/cuales-son-los-mejores-y-peores-municipios-del-conurbano-bonaerense-para-vivir-segun-un-ranking-de-nid29102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T205548Z"
     }
    ]
   },
@@ -3271,12 +3247,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/29/mas-intocable-que-nunca-politicos-salvan-a-jueza-de-ser-enjuiciada-por-el-jem/",
      "domain": "ABC Color",
      "seendate": "20261029T202704Z"
-    },
-    {
-     "title": "Denuncian violencia escolar y supuestas irregularidades en escuela de Limpio: piden intervención del MEC",
-     "url": "https://www.abc.com.py/nacionales/2026/10/29/denuncian-violencia-escolar-y-supuestas-irregularidades-en-escuela-de-limpio-piden-intervencion-del-mec/",
-     "domain": "ABC Color",
-     "seendate": "20261029T201145Z"
     }
    ]
   },
@@ -3285,6 +3255,12 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "Fachin devolve investigação do INSS a Mendonça, e mantém sob sua responsabilidade procedimentos do caso Master",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/29/fachin-devolve-investigacao-do-inss-a-mendonca-mas-mantem-sob-sua-responsabilidade-procedimentos-do-caso-master.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261029T233230Z"
+    },
     {
      "title": "Polícia do DF prende grupo que usava deepfakes de Gusttavo Lima e dos padres Marcelo Rossi e Fábio de Melo para golpes",
      "url": "https://oglobo.globo.com/brasil/noticia/2026/10/29/policia-do-df-prende-grupo-que-usava-deepfakes-de-gusttavo-lima-e-dos-padres-marcelo-rossi-e-fabio-de-melo-para-golpes.ghtml",
@@ -3392,12 +3368,6 @@
      "url": "https://oglobo.globo.com/politica/noticia/2026/10/29/flavio-recuou-de-autoproclamacao-como-presidente-eleito-apos-alerta-juridico-e-pressao-de-parlamentares-do-pl.ghtml",
      "domain": "O Globo",
      "seendate": "20261029T171426Z"
-    },
-    {
-     "title": "Jato que levou Flávio para os EUA teria sido conseguido por funcionário da Casa Branca, diz The New York Times",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/29/trump-e-casa-branca-ajudaram-flavio-bolsonaro-a-fugir-do-brasil-para-os-eua-diz-nyt.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261029T170928Z"
     }
    ]
   }
