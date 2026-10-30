@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T05:42:47+00:00",
+ "updated": "2026-10-30T06:48:46+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -151,6 +151,12 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Inauguran clases de canotaje en La Playita del municipio García, NL; son gratuitas y están dirigidas a infancias y juventudes",
+     "url": "https://www.eluniversal.com.mx/estados/inauguran-clases-de-canotaje-en-la-playita-del-municipio-garcia-nl-son-gratuitas-y-estan-dirigidas-a-infancias-y-juventudes/",
+     "domain": "El Universal",
+     "seendate": "20261030T061206Z"
+    },
     {
      "title": "CCH Sur suspende clases este viernes 30 de octubre; estas son las razones",
      "url": "https://www.eluniversal.com.mx/nacion/cch-sur-suspende-clases-este-viernes-30-de-octubre-estas-son-las-razones/",
@@ -438,12 +444,6 @@
      "url": "https://www.eluniversal.com.mx/estados/detienen-a-guardia-de-seguridad-por-robo-de-alrededor-de-5-mdp-en-nuevo-leon-desaparecen-joyas-y-centenarios-de-oro/",
      "domain": "El Universal",
      "seendate": "20261029T232637Z"
-    },
-    {
-     "title": "Detienen a Axel, hijo de \"El Contador\" y objetivo prioritario en Tamaulipas; Policía de Brownsville cierra cruces internacionales con Matamoros",
-     "url": "https://www.eluniversal.com.mx/estados/detienen-a-objetivo-prioritario-en-tamaulipas-policia-de-brownsville-cierra-cruces-internacionales-con-matamoros/",
-     "domain": "El Universal",
-     "seendate": "20261029T224441Z"
     },
     {
      "title": "Los perritos que murieron envenenados en Parque España consumieron insecticida altamente tóxico: Fiscalía; se han presentado dos denuncias",
@@ -1351,10 +1351,16 @@
   "COL": {
    "articles": [
     {
+     "title": "Reportan grave incendio cerca del centro comercial La Plazuela, en Cartagena: hay varios locales afectados y bomberos atienden la emergencia",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/reportan-incendio-cerca-del-centro-comercial-la-plazuela-en-cartagena-hay-varios-locales-afectados-el-cuerpo-de-bomberos-atiende-la-emergencia-3597378",
+     "domain": "El Tiempo",
+     "seendate": "20261030T055753Z"
+    },
+    {
      "title": "Incendio en Cartagena consumió una ferretería, una bodega de productos químicos y un almacén de grandes superficies",
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/incendio-en-cartagena-consumio-una-ferreteria-una-bodega-de-productos-quimicos-y-un-almacen-de-grandes-superficies-3597385",
      "domain": "El Tiempo",
-     "seendate": "20261030T052235Z"
+     "seendate": "20261030T054550Z"
     },
     {
      "title": "Más que un concierto: la Arena USC se transforma en una 'máquina del tiempo' para revivir el alma pop de los 90 en Cali",
@@ -1367,12 +1373,6 @@
      "url": "https://www.eltiempo.com/colombia/medellin/una-mujer-esta-en-estado-critico-tras-ser-atacada-por-su-pareja-con-un-quimico-en-medellin-el-hombre-trato-de-inculpar-a-un-habitante-de-calle-3597336",
      "domain": "El Tiempo",
      "seendate": "20261030T043213Z"
-    },
-    {
-     "title": "Reportan grave incendio cerca del centro comercial La Plazuela, en Cartagena: hay varios locales afectados y bomberos atienden la emergencia",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/reportan-incendio-cerca-del-centro-comercial-la-plazuela-en-cartagena-hay-varios-locales-afectados-el-cuerpo-de-bomberos-atiende-la-emergencia-3597378",
-     "domain": "El Tiempo",
-     "seendate": "20261030T042217Z"
     },
     {
      "title": "Contraloría de Medellín halló presunta incidencia fiscal por 739.562 millones en la compra de Afinia durante la administración de Daniel Quintero",
@@ -1867,10 +1867,10 @@
   "PER": {
    "articles": [
     {
-     "title": "Lluvias en Perú por El Niño EN VIVO: qué regiones están en alerta y cuál es el pronóstico de Senamhi",
+     "title": "Lluvias en Perú EN VIVO: últimas noticias, alertas y reportes de precipitaciones por El Niño",
      "url": "https://elcomercio.pe/peru/lluvias-en-peru-en-vivo-el-nino-pronostico-de-senamhi-lluvias-temperatura-y-regiones-en-alerta-al-norte-lbposting-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261030T050149Z"
+     "seendate": "20261030T062318Z"
     },
     {
      "title": "Estados Unidos evalúa invertir en cinco proyectos en Perú: ¿qué oportunidades busca impulsar el Gobierno?",
@@ -2205,78 +2205,6 @@
      "url": "https://hoybolivia.com/Noticia.php?IdNoticia=374426",
      "domain": "hoybolivia.com",
      "seendate": "20261023T123000Z"
-    },
-    {
-     "title": "Para William Herrera , todavía resta mucho para sacar la infiltración del narcotráfico en el Estado",
-     "url": "https://eldeber.com.bo/pais/william-herrera-todavia-resta-mucho-sacar-infiltracion-narcotrafico-estado_1792722649",
-     "domain": "eldeber.com.bo",
-     "seendate": "20261023T053000Z"
-    },
-    {
-     "title": "Gobernación exige a la Policía investigar la retención de 12 funcionarios en Urubichá",
-     "url": "https://eldeber.com.bo/santa-cruz/gobernacion-exige-policia-investigar-retencion-12-funcionarios-urubicha_1792726410",
-     "domain": "eldeber.com.bo",
-     "seendate": "20261023T053000Z"
-    },
-    {
-     "title": "Lara insinúa que lista de EEUU encubre nombres y señala que un ministro no tendría pisada en ese país",
-     "url": "https://www.erbol.com.bo/nacional/lara-insin%C3%BAa-que-lista-de-eeuu-encubre-nombres-y-se%C3%B1ala-que-un-ministro-%E2%80%9Cno-tendr%C3%ADa-pisada%E2%80%9D",
-     "domain": "erbol.com.bo",
-     "seendate": "20261023T021500Z"
-    },
-    {
-     "title": "El histórico bicampeonato mundial de Conrrado Moscoso",
-     "url": "https://www.erbol.com.bo/deporte/el-hist%C3%B3rico-bicampeonato-mundial-de-conrrado-moscoso",
-     "domain": "erbol.com.bo",
-     "seendate": "20261023T021500Z"
-    },
-    {
-     "title": "Análisis económico del DS 5747",
-     "url": "https://www.erbol.com.bo/opinion/an%C3%A1lisis-econ%C3%B3mico-del-ds-5747",
-     "domain": "erbol.com.bo",
-     "seendate": "20261023T021500Z"
-    },
-    {
-     "title": "La agenda pública digital",
-     "url": "https://www.erbol.com.bo/opinion/la-agenda-pu%CC%81blica-digital",
-     "domain": "erbol.com.bo",
-     "seendate": "20261023T021500Z"
-    },
-    {
-     "title": "No habrá blindaje para nadie : Gobierno asegura que no negociará impunidad tras lista de desvisados",
-     "url": "https://www.erbol.com.bo/nacional/%E2%80%9Cno-habr%C3%A1-blindaje-para-nadie%E2%80%9D-gobierno-asegura-que-no-negociar%C3%A1-impunidad-tras-lista-de",
-     "domain": "erbol.com.bo",
-     "seendate": "20261023T021500Z"
-    },
-    {
-     "title": "Pacheco dice que tiene las manos limpias y López defenderá su honor",
-     "url": "https://www.erbol.com.bo/nacional/pacheco-dice-que-tiene-las-manos-limpias-y-l%C3%B3pez-defender%C3%A1-su-honor",
-     "domain": "erbol.com.bo",
-     "seendate": "20261023T021500Z"
-    },
-    {
-     "title": "Incendio cerca a turísticas islas peruanas deja 200 hectáreas y 4 hospedajes afectados",
-     "url": "https://eldeber.com.bo/mundo/incendio-cerca-turisticas-islas-peruanas-deja-200-hectareas-4-hospedajes-afectados_1792712456",
-     "domain": "eldeber.com.bo",
-     "seendate": "20261023T001500Z"
-    },
-    {
-     "title": "Indígenas piden al Gobierno de Bolivia restringir la minería en el acceso al parque Madidi",
-     "url": "https://eldeber.com.bo/pais/indigenas-piden-gobierno-bolivia-restringir-mineria-acceso-parque-madidi_1792711963",
-     "domain": "eldeber.com.bo",
-     "seendate": "20261023T001500Z"
-    },
-    {
-     "title": "Cívicos piden que la Cancillería exija Estados Unidos las pruebas para la restricción de los visados",
-     "url": "https://eldeber.com.bo/santa-cruz/civicos-piden-cancilleria-exija-estados-unidos-pruebas-restriccion-visados_1792707040",
-     "domain": "eldeber.com.bo",
-     "seendate": "20261023T001500Z"
-    },
-    {
-     "title": "La Fiscalía aparta a 60 funcionarios de la gestión de Mariaca",
-     "url": "https://eldeber.com.bo/pais/fiscalia-aparta-60-funcionarios-gestion-mariaca_1792706585",
-     "domain": "eldeber.com.bo",
-     "seendate": "20261023T001500Z"
     }
    ]
   },
@@ -2629,16 +2557,46 @@
   "ARG": {
    "articles": [
     {
-     "title": "Javier Milei y sus medidas, en vivo: Bullrich celebró la aprobación del RIIR en el Senado",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-bullrich-celebro-la-aprobacion-del-riir-en-el-senado-nid30102026/",
+     "title": "La autopsia determinó que la docente Nancy Godoy fue asesinada a puñaladas",
+     "url": "https://www.lanacion.com.ar/seguridad/la-autopsia-determino-que-la-docente-nancy-godoy-fue-asesinada-a-punaladas-nid29102026/",
      "domain": "La Nación",
-     "seendate": "20261030T053635Z"
+     "seendate": "20261030T064100Z"
+    },
+    {
+     "title": "Mauricio Macri dijo que “no se ha avanzado nada” en el acuerdo electoral con La Libertad Avanza para 2027",
+     "url": "https://www.lanacion.com.ar/politica/mauricio-macri-dijo-que-no-se-ha-avanzado-nada-en-el-acuerdo-electoral-con-la-libertad-avanza-para-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261030T063944Z"
+    },
+    {
+     "title": "Ante la recesión, Caputo se anima a una herejía",
+     "url": "https://www.lanacion.com.ar/economia/ante-la-recesion-caputo-se-anima-a-una-herejia-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261030T063311Z"
     },
     {
      "title": "Binance investiga un posible hackeo tras la salida de miles de millones de dólares: “Problema de seguridad”",
      "url": "https://www.lanacion.com.ar/economia/binance-investiga-un-posible-hackeo-tras-la-salida-de-casi-3000-millones-de-dolares-problema-de-nid29102026/",
      "domain": "La Nación",
-     "seendate": "20261030T052051Z"
+     "seendate": "20261030T062242Z"
+    },
+    {
+     "title": "Javier Milei y sus medidas, en vivo: Bullrich celebró la aprobación del RIIR en el Senado",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-bullrich-celebro-la-aprobacion-del-riir-en-el-senado-nid30102026/",
+     "domain": "La Nación",
+     "seendate": "20261030T061614Z"
+    },
+    {
+     "title": "Conrado Estol, neurólogo: “La educación temprana reduce un porcentaje del riesgo de llegar a tener demencia”",
+     "url": "https://www.lanacion.com.ar/sociedad/conrado-estol-neurologo-la-educacion-temprana-reduce-un-porcentaje-del-riesgo-de-llegar-a-tener-nid30102026/",
+     "domain": "La Nación",
+     "seendate": "20261030T060000Z"
+    },
+    {
+     "title": "El Gobierno oficializó los nuevos aumentos en las tarifas de luz y gas a partir de noviembre",
+     "url": "https://www.lanacion.com.ar/economia/el-gobierno-oficializo-los-nuevos-aumentos-en-las-tarifas-de-luz-y-gas-a-partir-de-noviembre-nid30102026/",
+     "domain": "La Nación",
+     "seendate": "20261030T054423Z"
     },
     {
      "title": "Gabriel Rolón, sobre la esperanza: “Es una cosa que no podemos manejar”",
@@ -2743,12 +2701,6 @@
      "seendate": "20261030T013500Z"
     },
     {
-     "title": "Mauricio Macri dijo que “no se ha avanzado nada” en el acuerdo electoral con La Libertad Avanza para 2027",
-     "url": "https://www.lanacion.com.ar/politica/mauricio-macri-dijo-que-no-se-ha-avanzado-nada-en-el-acuerdo-electoral-con-la-libertad-avanza-para-nid29102026/",
-     "domain": "La Nación",
-     "seendate": "20261030T010758Z"
-    },
-    {
      "title": "Gabriel Rolón, psicoanalista: “Estamos tan atravesados por opiniones ajenas que quedamos excéntricos a nosotros mismos”",
      "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-estamos-tan-atravesados-por-opiniones-ajenas-que-quedamos-excentricos-a-nid29102026/",
      "domain": "La Nación",
@@ -2825,12 +2777,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/la-anorexia-y-la-bulimia-crecieron-un-71-en-tres-decadas-de-acuerdo-a-un-estudio-global-la-nid29102026/",
      "domain": "La Nación",
      "seendate": "20261029T232730Z"
-    },
-    {
-     "title": "La autopsia determinó que la docente Nancy Godoy fue asesinada a puñaladas",
-     "url": "https://www.lanacion.com.ar/seguridad/la-autopsia-determino-que-la-docente-nancy-godoy-fue-asesinada-a-punaladas-nid29102026/",
-     "domain": "La Nación",
-     "seendate": "20261029T232519Z"
     },
     {
      "title": "Hicieron una estafa virtual en un municipio de La Pampa y no se pudieron pagar los sueldos",
@@ -3217,18 +3163,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/29/anuncian-segunda-edicion-del-festival-laguna-viva-en-pedro-juan-caballero/",
      "domain": "ABC Color",
      "seendate": "20261029T231958Z"
-    },
-    {
-     "title": "CSJ declara inadmisible recurso de casación y ratifica condena de 5 años a Miguel Cuevas",
-     "url": "https://www.abc.com.py/nacionales/2026/10/29/csj-declara-inadmisible-recurso-de-casacion-y-ratifica-condena-de-5-anos-a-miguel-cuevas/",
-     "domain": "ABC Color",
-     "seendate": "20261029T230829Z"
-    },
-    {
-     "title": "Video: fuga de amoníaco en empresa de pollos de Mariano Roque Alonso",
-     "url": "https://www.abc.com.py/nacionales/2026/10/29/fuga-de-amoniaco-en-empresa-de-pollos-de-mariano-roque-alonso/",
-     "domain": "ABC Color",
-     "seendate": "20261029T220947Z"
     }
    ]
   },
