@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T19:44:58+00:00",
+ "updated": "2026-10-30T20:35:47+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -68,12 +68,6 @@
      "url": "https://elpais.com/espana/2026-10-30/feijoo-apunta-al-mantenimiento-deficiente-de-la-alta-velocidad-si-no-dimiten-ellos-los-dimitiremos-en-las-urnas.html",
      "domain": "El País",
      "seendate": "20261030T121728Z"
-    },
-    {
-     "title": "Un juzgado admite una demanda del exjuez García-Castellón contra el portavoz de Podemos por llamarle prevaricador",
-     "url": "https://elpais.com/espana/2026-10-30/un-juzgado-admite-una-demanda-del-exjuez-garcia-castellon-contra-el-portavoz-de-podemos-por-llamarle-prevaricador.html",
-     "domain": "El País",
-     "seendate": "20261030T112230Z"
     },
     {
      "title": "Page avisa de que hay muchos restos sin identificar y no descarta que aumente la cifra de muertos en el accidente de trenes",
@@ -163,6 +157,18 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Panteón de Xoco se llenará de cempasúchil y arte este Día de Muertos; Benito Juárez alista actividades y espacios culturales",
+     "url": "https://www.eluniversal.com.mx/metropoli/panteon-de-xoco-se-llenara-de-cempasuchil-y-arte-este-dia-de-muertos-benito-juarez-alista-actividades-y-espacios-culturales/",
+     "domain": "El Universal",
+     "seendate": "20261030T202549Z"
+    },
+    {
+     "title": "\"Guadalupe Taddei debe de ir a la cárcel\", exige Ramírez Cuéllar; pide investigación de oficio a la FGR",
+     "url": "https://www.eluniversal.com.mx/nacion/guadalupe-taddei-debe-de-ir-a-la-carcel-exige-ramirez-cuellar-pide-investigacion-de-oficio-a-la-fgr/",
+     "domain": "El Universal",
+     "seendate": "20261030T201256Z"
+    },
     {
      "title": "Desplegarán a 400 policías para operativo por la “Mega Rodada del Terror 2026”; dispositivo contará con 240 motopatrullas",
      "url": "https://www.eluniversal.com.mx/metropoli/desplegaran-a-400-policias-para-operativo-por-la-mega-rodada-del-terror-2026-dispositivo-contara-con-240-motopatrullas/",
@@ -968,6 +974,12 @@
   "PAN": {
    "articles": [
     {
+     "title": "Tragedia: puente colgante se desploma cuando transportaban un difunto en Penonomé, hay varios heridos",
+     "url": "https://www.prensa.com/sociedad/tragedia-puente-colgante-se-desploma-cuando-transportaban-un-difunto-en-penonome-hay-varios-heridos/",
+     "domain": "La Prensa",
+     "seendate": "20261030T195346Z"
+    },
+    {
      "title": "Elecciones en EU: cómo influye la dura política migratoria de Trump en el bastión latino republicano del sur de Florida",
      "url": "https://www.prensa.com/politica/elecciones-en-eu-como-influye-la-dura-politica-migratoria-de-trump-en-el-bastion-latino-republicano-del-sur-de-florida/",
      "domain": "La Prensa",
@@ -1183,16 +1195,16 @@
   "COL": {
    "articles": [
     {
+     "title": "El centro de Cali registra 20 días sin homicidios y una reducción de hurtos en medio de la emergencia sísmica y los recientes desafíos de seguridad",
+     "url": "https://www.eltiempo.com/colombia/cali/el-centro-de-cali-registra-20-dias-sin-homicidios-y-una-reduccion-de-hurtos-en-medio-de-la-emergencia-sismica-y-los-recientes-desafios-de-seguridad-3597536",
+     "domain": "El Tiempo",
+     "seendate": "20261030T200324Z"
+    },
+    {
      "title": "Este era alias 'Orly', señalado jefe de zona de Los Costeños capturado en Soledad (Atlántico): hallan arma y 1.000 dosis de cocaína en allanamiento",
      "url": "https://www.eltiempo.com/colombia/barranquilla/este-era-alias-orly-senalado-jefe-de-zona-de-los-costenos-capturado-en-soledad-atlantico-hallan-arma-y-1-000-dosis-de-cocaina-en-allanamiento-3597525",
      "domain": "El Tiempo",
      "seendate": "20261030T190100Z"
-    },
-    {
-     "title": "Presunto intento de secuestro y hurto en inmediaciones de la sede de la Universidad Nacional en Medellín dejó una persona muerta y otra lesionada",
-     "url": "https://www.eltiempo.com/colombia/medellin/presunto-intento-de-secuestro-y-hurto-en-inmediaciones-de-la-sede-de-la-universidad-nacional-en-medellin-dejo-una-persona-muerta-y-otra-lesionada-3597493",
-     "domain": "El Tiempo",
-     "seendate": "20261030T185251Z"
     },
     {
      "title": "Daniel Quintero sale en defensa de su hermano, enviado a prisión en caso de corrupción; alcalde Fico Gutiérrez pide que todos los implicados respondan",
@@ -1539,6 +1551,36 @@
   "ECU": {
    "articles": [
     {
+     "title": "Allanan vivienda del alcalde de Playas en medio de una investigación por presunto peculado",
+     "url": "https://eluniverso.com/politica/seguridad/allanan-vivienda-del-alcalde-de-playas-en-medio-de-una-investigacion-por-presunto-peculado-nota/",
+     "domain": "El Universo",
+     "seendate": "20261030T202543Z"
+    },
+    {
+     "title": "Cuándo empieza el toque de queda y hasta cuándo regirá: esto es todo lo que debes saber",
+     "url": "https://eluniverso.com/comunidad/ecuador/cuando-empieza-el-toque-de-queda-en-ecuador-y-hasta-cuando-regira-esto-es-todo-lo-que-debes-saber-nota/",
+     "domain": "El Universo",
+     "seendate": "20261030T201559Z"
+    },
+    {
+     "title": "Del Huaynacapazo a una ruta cervecera: Cuenca está lista para recibir a visitantes este feriado",
+     "url": "https://eluniverso.com/comunidad/ecuador/del-huaynacapazo-a-una-ruta-cervecera-cuenca-esta-lista-para-recibir-a-visitantes-este-feriado-nota/",
+     "domain": "El Universo",
+     "seendate": "20261030T200200Z"
+    },
+    {
+     "title": "Ofertan empleo agrícola en España para trabajadores ecuatorianos",
+     "url": "https://eluniverso.com/comunidad/ecuador/ofertan-empleo-agricola-en-espana-para-trabajadores-ecuatorianos-nota/",
+     "domain": "El Universo",
+     "seendate": "20261030T195354Z"
+    },
+    {
+     "title": "Estas son las ferias y actividades previstas para el feriado en Esmeraldas",
+     "url": "https://eluniverso.com/comunidad/ecuador/estas-son-las-ferias-y-actividades-previstas-para-el-feriado-en-esmeraldas-nota/",
+     "domain": "El Universo",
+     "seendate": "20261030T194500Z"
+    },
+    {
      "title": "Familias afectadas por las lluvias en Santa Elena recibirán kits de ayuda humanitaria",
      "url": "https://eluniverso.com/comunidad/ecuador/familias-afectadas-por-las-lluvias-en-santa-elena-recibiran-kits-de-ayuda-humanitaria-nota/",
      "domain": "El Universo",
@@ -1641,12 +1683,6 @@
      "seendate": "20261030T122957Z"
     },
     {
-     "title": "Allanan vivienda del alcalde de Playas en medio de una investigación por presunto peculado",
-     "url": "https://eluniverso.com/politica/seguridad/allanan-vivienda-del-alcalde-de-playas-en-medio-de-una-investigacion-por-presunto-peculado-nota/",
-     "domain": "El Universo",
-     "seendate": "20261030T122057Z"
-    },
-    {
      "title": "Cinco muertos y dos heridos en choque frontal en la vía Quinindé-Santo Domingo",
      "url": "https://eluniverso.com/comunidad/ecuador/cinco-muertos-y-dos-heridos-en-choque-frontal-en-la-via-quininde-santo-domingo-nota/",
      "domain": "El Universo",
@@ -1657,24 +1693,6 @@
      "url": "https://eluniverso.com/comunidad/ecuador/ecuador-registra-12-desbordamientos-de-rios-esteros-y-quebradas-en-tres-provincias-nota/",
      "domain": "El Universo",
      "seendate": "20261030T115751Z"
-    },
-    {
-     "title": "Entre túnicas blancas y oraciones, los animeros recorren Cahuasqui para recordar a los difuntos",
-     "url": "https://eluniverso.com/comunidad/ecuador/entre-tunicas-blancas-y-oraciones-los-animeros-recorren-cahuasqui-para-recordar-a-los-difuntos-nota/",
-     "domain": "El Universo",
-     "seendate": "20261030T113000Z"
-    },
-    {
-     "title": "Daniel Salcedo, Ronald Herrera y Francisco Bermúdez serán puestos a órdenes de jueces de Nueva York: esto es lo que se viene en el trámite de sus procesos penales",
-     "url": "https://eluniverso.com/politica/expedientes/daniel-salcedo-ronald-herrera-y-francisco-bermudez-seran-puestos-a-ordenes-de-jueces-de-nueva-york-esto-es-lo-que-se-viene-en-el-tramite-de-sus-procesos-penales-nota/",
-     "domain": "El Universo",
-     "seendate": "20261030T112500Z"
-    },
-    {
-     "title": "Entre 80.000 y 100.000 visitantes se espera que lleguen a Baños en el feriado",
-     "url": "https://eluniverso.com/comunidad/ecuador/feriado-a-full-nota/",
-     "domain": "El Universo",
-     "seendate": "20261030T111500Z"
     },
     {
      "title": "Expoflores se suma a Jóvenes en Acción para incorporar al sector florícola",
@@ -1711,16 +1729,22 @@
   "PER": {
    "articles": [
     {
-     "title": "Pensión de la ONP: conoce el cronograma de pagos de noviembre",
-     "url": "https://elcomercio.pe/economia/peru/pension-de-la-onp-conoce-el-cronograma-de-pagos-de-noviembre-l-ultimas-noticia/",
+     "title": "Gobierno aprueba nueva escala remunerativa para más de 800 trabajadores de Sunafil",
+     "url": "https://elcomercio.pe/economia/peru/gobierno-aprueba-nueva-escala-remunerativa-para-mas-de-800-trabajadores-de-sunafil-l-ultimas-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261030T192314Z"
+     "seendate": "20261030T195149Z"
     },
     {
      "title": "Lluvias en Perú en vivo: El Niño, pronóstico de Senamhi, lluvias, temperatura y regiones en alerta en todo el país",
      "url": "https://elcomercio.pe/peru/lluvias-en-peru-en-vivo-el-nino-pronostico-de-senamhi-lluvias-temperatura-y-regiones-en-alerta-en-todo-el-pais-lbposting-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261030T192127Z"
+     "seendate": "20261030T194202Z"
+    },
+    {
+     "title": "Pensión de la ONP: conoce el cronograma de pagos de noviembre",
+     "url": "https://elcomercio.pe/economia/peru/pension-de-la-onp-conoce-el-cronograma-de-pagos-de-noviembre-l-ultimas-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261030T192314Z"
     },
     {
      "title": "Parque Arauco mantiene fuerte crecimiento con un alza de 18,6% en ingresos en el tercer trimestre del 2026",
@@ -2335,22 +2359,58 @@
   "ARG": {
    "articles": [
     {
-     "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este viernes 30 de octubre, minuto a minuto",
-     "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid30102026/",
+     "title": "Seguridad: el Gobierno y la Sociedad Rural Argentina impulsan una mesa nacional para combatir los delitos en el campo",
+     "url": "https://www.lanacion.com.ar/economia/campo/seguridad-el-gobierno-y-la-sociedad-rural-argentina-impulsan-una-mesa-nacional-para-combatir-los-nid30102026/",
      "domain": "La Nación",
-     "seendate": "20261030T194045Z"
+     "seendate": "20261030T202230Z"
     },
     {
-     "title": "Javier Milei y sus medidas, en vivo: Bullrich celebró la aprobación del RIIR en el Senado y dijo que atraerá “oportunidades de invertir y crecer”",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-bullrich-celebro-la-aprobacion-del-riir-en-el-senado-nid30102026/",
+     "title": "US$3791 millones: vuelan las exportaciones de carne vacuna y van rumbo a otro récord",
+     "url": "https://www.lanacion.com.ar/economia/campo/us3791-millones-vuelan-en-dolares-las-exportaciones-de-carne-vacuna-y-van-camino-a-marcar-otro-nid30102026/",
      "domain": "La Nación",
-     "seendate": "20261030T194000Z"
+     "seendate": "20261030T201944Z"
     },
     {
      "title": "Hay alerta amarilla por tormentas para este viernes 30 de octubre: las provincias afectadas",
      "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-tormentas-y-vientos-fuertes-para-este-viernes-30-de-octubre-las-provincias-nid30102026/",
      "domain": "La Nación",
-     "seendate": "20261030T193842Z"
+     "seendate": "20261030T201535Z"
+    },
+    {
+     "title": "León XIV en Luján: quienes estarán en las primeras filas de la Misa de la Caridad y cómo será el acceso a la basílica",
+     "url": "https://www.lanacion.com.ar/sociedad/leon-xiv-en-lujan-quienes-estaran-en-las-primeras-filas-de-la-misa-de-la-caridad-y-como-sera-el-nid30102026/",
+     "domain": "La Nación",
+     "seendate": "20261030T201218Z"
+    },
+    {
+     "title": "Congreso: Pro complica al Gobierno con objeciones al Presupuesto 2027, la reforma electoral y la ley de biocombustibles",
+     "url": "https://www.lanacion.com.ar/politica/congreso-pro-complica-al-gobierno-con-objeciones-al-presupuesto-2027-la-reforma-electoral-y-la-ley-nid30102026/",
+     "domain": "La Nación",
+     "seendate": "20261030T201028Z"
+    },
+    {
+     "title": "Javier Milei y sus medidas, en vivo: Bullrich celebró la aprobación del RIIR en el Senado y dijo que atraerá “oportunidades de invertir y crecer”",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-bullrich-celebro-la-aprobacion-del-riir-en-el-senado-nid30102026/",
+     "domain": "La Nación",
+     "seendate": "20261030T201000Z"
+    },
+    {
+     "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este viernes 30 de octubre, minuto a minuto",
+     "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid30102026/",
+     "domain": "La Nación",
+     "seendate": "20261030T200217Z"
+    },
+    {
+     "title": "El Gobierno activa un control externo sobre las represas en Santa Cruz con una licitación de $39.624 millones",
+     "url": "https://www.lanacion.com.ar/politica/el-gobierno-busca-un-control-externo-sobre-las-obras-de-las-represas-en-santa-cruz-y-licita-la-nid30102026/",
+     "domain": "La Nación",
+     "seendate": "20261030T194916Z"
+    },
+    {
+     "title": "El riesgo país sube 30% en octubre y cierra el mes cerca de los 800 puntos",
+     "url": "https://www.lanacion.com.ar/economia/el-riesgo-pais-sube-mas-de-20-en-octubre-y-cierra-cerca-de-los-750-puntos-nid30102026/",
+     "domain": "La Nación",
+     "seendate": "20261030T194613Z"
     },
     {
      "title": "Por qué sube el riesgo país",
@@ -2363,12 +2423,6 @@
      "url": "https://www.lanacion.com.ar/economia/campo/una-violenta-tormenta-con-granizo-sorprendio-en-una-region-golpeada-por-otro-fenomeno-la-falta-de-nid30102026/",
      "domain": "La Nación",
      "seendate": "20261030T193043Z"
-    },
-    {
-     "title": "El riesgo país sube 30% en octubre y cierra el mes cerca de los 800 puntos",
-     "url": "https://www.lanacion.com.ar/economia/el-riesgo-pais-sube-mas-de-20-en-octubre-y-cierra-cerca-de-los-750-puntos-nid30102026/",
-     "domain": "La Nación",
-     "seendate": "20261030T192032Z"
     },
     {
      "title": "Milei vuelve a viajar a España para la Cumbre Iberoamericana, en su salida 48° del país desde que asumió",
@@ -2567,12 +2621,6 @@
      "url": "https://www.lanacion.com.ar/economia/campo/mercado-de-carbono-fuerte-expectativa-en-el-agro-luego-de-la-media-sancion-en-el-senado-a-una-nid30102026/",
      "domain": "La Nación",
      "seendate": "20261030T180201Z"
-    },
-    {
-     "title": "Plazo fijo: cuál es la tasa de interés banco por banco este viernes 30 de octubre",
-     "url": "https://www.lanacion.com.ar/economia/plazo-fijo-cual-es-la-tasa-de-interes-banco-por-banco-este-viernes-30-de-octubre-nid30102026/",
-     "domain": "La Nación",
-     "seendate": "20261030T180036Z"
     }
    ]
   },
@@ -2817,6 +2865,24 @@
   "PRY": {
    "articles": [
     {
+     "title": "Entregan a Senabico CDA de Ramón González Daher por más de US$ 15 millones",
+     "url": "https://www.abc.com.py/nacionales/2026/10/30/entregan-a-senabico-cda-de-ramon-gonzalez-daher-por-mas-de-us-15-millones/",
+     "domain": "ABC Color",
+     "seendate": "20261030T202107Z"
+    },
+    {
+     "title": "Desestiman denuncia contra empresario minero por presunta apropiación",
+     "url": "https://www.abc.com.py/nacionales/2026/10/30/desestiman-denuncia-contra-empresario-minero-por-presunta-apropiacion/",
+     "domain": "ABC Color",
+     "seendate": "20261030T193922Z"
+    },
+    {
+     "title": "“No podemos acostumbrarnos al sufrimiento del pueblo”: el fuerte mensaje de monseñor Escobar",
+     "url": "https://www.abc.com.py/nacionales/2026/10/30/no-podemos-acostumbrarnos-al-sufrimiento-del-pueblo-el-fuerte-mensaje-de-monsenor-escobar/",
+     "domain": "ABC Color",
+     "seendate": "20261030T193901Z"
+    },
+    {
      "title": "¡Atención, conductores! Este domingo habrá paso a media calzada en la autopista Silvio Pettirossi",
      "url": "https://www.abc.com.py/nacionales/2026/10/30/atencion-conductores-este-domingo-habra-paso-a-media-calzada-en-la-autopista-silvio-pettirossi/",
      "domain": "ABC Color",
@@ -2827,24 +2893,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/30/un-campo-de-guerra-un-paraguayo-sobrevivio-al-choque-de-trenes-en-espana-y-relata-como-fue/",
      "domain": "ABC Color",
      "seendate": "20261030T171955Z"
-    },
-    {
-     "title": "¡Alarmante! Violencia intrafamiliar encabeza los reportes diarios del Sistema 911",
-     "url": "https://www.abc.com.py/nacionales/2026/10/30/alarmante-violencia-intrafamiliar-encabeza-los-reportes-diarios-del-sistema-911/",
-     "domain": "ABC Color",
-     "seendate": "20261030T171817Z"
-    },
-    {
-     "title": "Traspaso de mando en Asunción: desorden aplaza cierre de corte administrativo y Soledad Núñez pide prudencia",
-     "url": "https://www.abc.com.py/nacionales/2026/10/30/traspaso-de-mando-en-asuncion-desorden-aplaza-cierre-de-corte-administrativo-y-soledad-nunez-pide-prudencia/",
-     "domain": "ABC Color",
-     "seendate": "20261030T165125Z"
-    },
-    {
-     "title": "Octubre Rosa en Santaní: en clausura de campaña insisten en la prevención del cáncer de mama.",
-     "url": "https://www.abc.com.py/nacionales/2026/10/30/octubre-rosa-en-santani-en-clausura-de-campana-insisten-en-la-prevencion-del-cancer-de-mama/",
-     "domain": "ABC Color",
-     "seendate": "20261030T164321Z"
     }
    ]
   },
