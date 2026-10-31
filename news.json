@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T09:36:42+00:00",
+ "updated": "2026-10-31T10:33:31+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -22,24 +22,6 @@
      "seendate": "20261031T043001Z"
     },
     {
-     "title": "El Supremo admite a 69 personas y tres asociaciones como afectados por la suspensión del voto a los nacionalizados por la ‘ley de nietos’",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-10-31/el-supremo-admite-a-69-personas-y-tres-asociaciones-como-afectados-por-la-suspension-del-voto-a-los-nacionalizados-por-la-ley-de-nietos.html",
-     "domain": "El País",
-     "seendate": "20261031T043001Z"
-    },
-    {
-     "title": "Y Esperanza Aguirre soltó “una lágrima y todo” por Ignacio González",
-     "url": "https://elpais.com/espana/madrid/2026-10-31/y-esperanza-aguirre-solto-una-lagrima-y-todo-por-ignacio-gonzalez.html",
-     "domain": "El País",
-     "seendate": "20261031T043001Z"
-    },
-    {
-     "title": "Familias de 4.000 alumnos de Bizkaia denuncian que sus hijos “pasan hambre” en el comedor escolar",
-     "url": "https://elpais.com/espana/pais-vasco/2026-10-31/familias-de-4000-alumnos-de-bizkaia-denuncian-que-sus-hijos-pasan-hambre-en-el-comedor-escolar.html",
-     "domain": "El País",
-     "seendate": "20261031T043001Z"
-    },
-    {
      "title": "Un símbolo lorquiano, en el depósito de la grúa municipal de Madrid",
      "url": "https://elpais.com/espana/madrid/2026-10-31/un-simbolo-lorquiano-en-el-deposito-de-la-grua-municipal-de-madrid.html",
      "domain": "El País",
@@ -48,6 +30,18 @@
     {
      "title": "Las compras de viviendas por parte de extranjeros caen en plena huida de grandes inversores de Cataluña",
      "url": "https://elpais.com/espana/catalunya/2026-10-31/las-compras-de-viviendas-por-parte-de-extranjeros-caen-en-plena-huida-de-grandes-inversores-de-cataluna.html",
+     "domain": "El País",
+     "seendate": "20261031T043001Z"
+    },
+    {
+     "title": "El Supremo admite a 69 personas y tres asociaciones como afectados por la suspensión del voto a los nacionalizados por la ‘ley de nietos’",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-10-31/el-supremo-admite-a-69-personas-y-tres-asociaciones-como-afectados-por-la-suspension-del-voto-a-los-nacionalizados-por-la-ley-de-nietos.html",
+     "domain": "El País",
+     "seendate": "20261031T043001Z"
+    },
+    {
+     "title": "Familias de 4.000 alumnos de Bizkaia denuncian que sus hijos “pasan hambre” en el comedor escolar",
+     "url": "https://elpais.com/espana/pais-vasco/2026-10-31/familias-de-4000-alumnos-de-bizkaia-denuncian-que-sus-hijos-pasan-hambre-en-el-comedor-escolar.html",
      "domain": "El País",
      "seendate": "20261031T043001Z"
     },
@@ -74,12 +68,6 @@
      "url": "https://elpais.com/espana/2026-10-30/las-grandes-ciudades-y-los-comercios-se-blindan-ante-posibles-disturbios-por-las-movilizaciones-espontaneas-de-blocus.html",
      "domain": "El País",
      "seendate": "20261030T184732Z"
-    },
-    {
-     "title": "La jueza de la dana eleva a 234 la cifra de víctimas mortales de la tragedia de 2024",
-     "url": "https://elpais.com/espana/2026-10-30/la-jueza-de-la-dana-eleva-a-234-la-cifra-de-victimas-mortales-de-la-tragedia-de-2024.html",
-     "domain": "El País",
-     "seendate": "20261030T154244Z"
     },
     {
      "title": "El Supremo estudiará si suspende también el voto de los hijos de los nacionalizados por la ‘ley de nietos’",
@@ -116,6 +104,30 @@
   "MEX": {
    "articles": [
     {
+     "title": "Máscaras de terror, arte que da forma a las pesadillas",
+     "url": "https://www.eluniversal.com.mx/nacion/mascaras-de-terror-arte-que-da-forma-a-las-pesadillas/",
+     "domain": "El Universal",
+     "seendate": "20261031T093500Z"
+    },
+    {
+     "title": "Recuerdan el legado político y la lucha de Cárdenas",
+     "url": "https://www.eluniversal.com.mx/nacion/recuerdan-el-legado-politico-y-la-lucha-de-cardenas/",
+     "domain": "El Universal",
+     "seendate": "20261031T093200Z"
+    },
+    {
+     "title": "Concluir las auditorías al INE, pide Sheinbaum",
+     "url": "https://www.eluniversal.com.mx/nacion/concluir-las-auditorias-al-ine-pide-sheinbaum/",
+     "domain": "El Universal",
+     "seendate": "20261031T093100Z"
+    },
+    {
+     "title": "Auditoría halla transas en el INE, UNAM, NL y Sinaloa; Clan Taddei, Territorium y funcionarios, en la mira",
+     "url": "https://www.eluniversal.com.mx/nacion/auditoria-halla-transas-en-el-ine-unam-nl-y-sinaloa-clan-taddei-territorium-y-funcionarios-en-la-mira/",
+     "domain": "El Universal",
+     "seendate": "20261031T093000Z"
+    },
+    {
      "title": "Periférico Norte ya presenta baches",
      "url": "https://www.eluniversal.com.mx/metropoli/periferico-norte-ya-presenta-baches/",
      "domain": "El Universal",
@@ -146,34 +158,10 @@
      "seendate": "20261031T040335Z"
     },
     {
-     "title": "VIDEO Show de drones ilumina Sendero del Cempasúchil en Chapultepec; catrinas, música y una ofrenda engalanan el Paseo de los Compositores",
-     "url": "https://www.eluniversal.com.mx/metropoli/video-show-de-drones-ilumina-sendero-del-cempasuchil-en-chapultepec-catrinas-musica-y-una-ofrenda-engalanan-el-paseo-de-los-compositores/",
-     "domain": "El Universal",
-     "seendate": "20261031T034607Z"
-    },
-    {
-     "title": "\"¡No te vayas a enfermar porque no hay material!\"; trabajadores del IMSS bloquean Segob y amagan con protestas cada ocho días",
-     "url": "https://www.eluniversal.com.mx/nacion/no-te-vayas-a-enfermar-porque-no-hay-material-trabajadores-del-imss-bloquean-segob-y-amagan-con-protestas-cada-ocho-dias/",
-     "domain": "El Universal",
-     "seendate": "20261031T025242Z"
-    },
-    {
-     "title": "Retiran a persona que ingresó a vías del Metro entre Sevilla y Chapultepec; servicio en Línea 1 presentó afectaciones",
-     "url": "https://www.eluniversal.com.mx/metropoli/retiran-a-persona-que-ingreso-a-vias-del-metro-entre-sevilla-y-chapultepec-servicio-en-linea-1-presento-afectaciones/",
-     "domain": "El Universal",
-     "seendate": "20261031T013541Z"
-    },
-    {
      "title": "Consejera Jurídica pide a diputados locales fortalecer iniciativa de Cultura Cívica; pide incluir perspectiva de género",
      "url": "https://www.eluniversal.com.mx/metropoli/consejera-juridica-pide-a-diputados-locales-fortalecer-iniciativa-de-cultura-civica-pide-incluir-perspectiva-de-genero/",
      "domain": "El Universal",
      "seendate": "20261031T011624Z"
-    },
-    {
-     "title": "Salud de CDMX pide a diputados aprobar Ley de Bienestar Emocional; identifica 192 casos de riesgo suicida en escuelas",
-     "url": "https://www.eluniversal.com.mx/metropoli/secretaria-de-salud-de-cdmx-pide-a-diputados-aprobar-ley-de-bienestar-emocional-y-salud-mental-son-temas-centrales-para-esta-administracion-dice/",
-     "domain": "El Universal",
-     "seendate": "20261030T230302Z"
     },
     {
      "title": "Consejería Jurídica de CDMX plantea realizar mesas de diálogo con vecinos por construcción de Línea 5 del Cablebús; hay 18 amparos",
@@ -2065,6 +2053,54 @@
   "ARG": {
    "articles": [
     {
+     "title": "El Niño no tendrá un desarrollo parejo en todo el país",
+     "url": "https://www.lanacion.com.ar/economia/campo/el-nino-no-tendra-un-desarrollo-parejo-en-todo-el-territorio-nid31102026/",
+     "domain": "La Nación",
+     "seendate": "20261031T102342Z"
+    },
+    {
+     "title": "Dólar hoy y dólar blue hoy: a cuánto cotiza este sábado 31 de octubre",
+     "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-hoy-a-cuanto-cotiza-este-sabado-31-de-octubre-nid31102026/",
+     "domain": "La Nación",
+     "seendate": "20261031T100230Z"
+    },
+    {
+     "title": "Maíz tardío: el cultivo que desafía los límites y apuesta por la tecnología",
+     "url": "https://www.lanacion.com.ar/economia/campo/maiz-tardio-el-cultivo-que-desafia-los-limites-y-apuesta-por-la-tecnologia-nid31102026/",
+     "domain": "La Nación",
+     "seendate": "20261031T100000Z"
+    },
+    {
+     "title": "Plantium-Gentec, un ícono de la innovación en el agro, despidió a casi 100 empleados y se achica",
+     "url": "https://www.lanacion.com.ar/economia/campo/no-puedo-mas-una-reconocida-empresa-de-innovacion-del-agro-despidio-a-casi-100-empleados-y-se-achica-nid30102026/",
+     "domain": "La Nación",
+     "seendate": "20261031T095512Z"
+    },
+    {
+     "title": "La Argentina se divorcia de la tendencia bajista de Chicago",
+     "url": "https://www.lanacion.com.ar/economia/campo/la-argentina-se-divorcia-de-la-tendencia-bajista-de-chicago-nid31102026/",
+     "domain": "La Nación",
+     "seendate": "20261031T094555Z"
+    },
+    {
+     "title": "“Basta de inversiones”: un frigorífico no renovó 80 contratados, su gerente lo lamentó y habló de las importaciones desde Brasil",
+     "url": "https://www.lanacion.com.ar/economia/campo/basta-de-inversiones-un-frigorifico-no-renovo-80-contratados-su-gerente-lo-lamento-y-hablo-de-las-nid30102026/",
+     "domain": "La Nación",
+     "seendate": "20261031T094408Z"
+    },
+    {
+     "title": "US$3791 millones: vuelan las exportaciones de carne vacuna y van rumbo a otro récord",
+     "url": "https://www.lanacion.com.ar/economia/campo/us3791-millones-vuelan-en-dolares-las-exportaciones-de-carne-vacuna-y-van-camino-a-marcar-otro-nid30102026/",
+     "domain": "La Nación",
+     "seendate": "20261031T093846Z"
+    },
+    {
+     "title": "Una violenta tormenta con granizo sorprendió en una región golpeada por otro fenómeno: la falta de sol",
+     "url": "https://www.lanacion.com.ar/economia/campo/una-violenta-tormenta-con-granizo-sorprendio-en-una-region-golpeada-por-otro-fenomeno-la-falta-de-nid30102026/",
+     "domain": "La Nación",
+     "seendate": "20261031T093810Z"
+    },
+    {
      "title": "Cuando la IA es solo discurso",
      "url": "https://www.lanacion.com.ar/economia/negocios/cuando-la-ia-es-solo-discurso-nid31102026/",
      "domain": "La Nación",
@@ -2075,12 +2111,6 @@
      "url": "https://www.lanacion.com.ar/economia/negocios/como-ganar-con-la-ia-en-2027-nid31102026/",
      "domain": "La Nación",
      "seendate": "20261031T092300Z"
-    },
-    {
-     "title": "El Niño no tendrá un desarrollo parejo en todo el territorio",
-     "url": "https://www.lanacion.com.ar/economia/campo/el-nino-no-tendra-un-desarrollo-parejo-en-todo-el-territorio-nid31102026/",
-     "domain": "La Nación",
-     "seendate": "20261031T090200Z"
     },
     {
      "title": "Vandalismo rural: un paso adelante del Congreso en la agenda agropecuaria",
@@ -2099,12 +2129,6 @@
      "url": "https://www.lanacion.com.ar/economia/campo/santos-vega-el-mitico-payador-admirado-por-escritores-y-gauchos-que-enfrento-al-diablo-nid31102026/",
      "domain": "La Nación",
      "seendate": "20261031T083700Z"
-    },
-    {
-     "title": "La Argentina se divorcia de la tendencia bajista de Chicago",
-     "url": "https://www.lanacion.com.ar/economia/campo/la-argentina-se-divorcia-de-la-tendencia-bajista-de-chicago-nid31102026/",
-     "domain": "La Nación",
-     "seendate": "20261031T080900Z"
     },
     {
      "title": "Inti Bonomo, experto en Ciencias Ambientales, sobre el impacto que tendrá el fenómeno del Súper Niño: “El pico va a ser en diciembre”",
@@ -2398,6 +2422,12 @@
   "BRA": {
    "articles": [
     {
+     "title": "Galeria no térreo do Martinelli abre ao público com mostra de Cildo Meireles e mais de 90 artistas para leilão",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/31/galeria-no-terreo-do-martinelli-abre-ao-publico-com-mostra-de-cildo-meireles-e-mais-de-90-artistas-para-leilao.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261031T101825Z"
+    },
+    {
      "title": "Fernando de Noronha: saiba qual é a espécie invasora que ameaça o arquipélago e teve 312 exemplares capturados em um único dia",
      "url": "https://oglobo.globo.com/brasil/noticia/2026/10/31/fernando-de-noronha-saiba-qual-e-a-especie-invasora-que-ameaca-o-arquipelago-e-teve-312-exemplares-capturados-em-um-unico-dia.ghtml",
      "domain": "O Globo",
@@ -2456,12 +2486,6 @@
      "url": "https://oglobo.globo.com/politica/noticia/2026/10/30/mauro-vieira-e-rubio-conversam-durante-coquetel-que-precede-o-g-20-e-combinam-nova-agenda.ghtml",
      "domain": "O Globo",
      "seendate": "20261031T000106Z"
-    },
-    {
-     "title": "Namorado é suspeito de cortar garganta de jovem após resultado da eleição; polícia investiga motivação política",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/30/namorado-e-suspeito-de-cortar-garganta-de-jovem-apos-resultado-da-eleicao-policia-investiga-motivacao-politica.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261030T230641Z"
     }
    ]
   }
