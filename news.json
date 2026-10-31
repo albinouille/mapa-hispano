@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T21:10:51+00:00",
+ "updated": "2026-10-31T22:06:31+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -7,10 +7,10 @@
      "title": "Última hora de las manifestaciones de Blocus en España, en directo | Madrid, Barcelona, Valencia, San Sebastián y otras ciudades, se blindan ante posibles disturbios",
      "url": "https://elpais.com/espana/2026-10-31/ultima-hora-de-las-manifestaciones-de-blocus-en-espana.html",
      "domain": "El País",
-     "seendate": "20261031T205552Z"
+     "seendate": "20261031T215049Z"
     },
     {
-     "title": "Renfe eleva sus condiciones de seguridad en la línea Madrid-Sevilla para evitar nuevos siniestros",
+     "title": "Renfe elevará sus condiciones de seguridad en la línea Madrid-Sevilla para evitar nuevos siniestros",
      "url": "https://elpais.com/espana/2026-10-31/renfe-eleva-sus-condiciones-de-seguridad-en-la-linea-madrid-sevilla-para-evitar-nuevos-siniestros.html",
      "domain": "El País",
      "seendate": "20261031T204713Z"
@@ -134,10 +134,40 @@
   "MEX": {
    "articles": [
     {
+     "title": "Detienen en Hidalgo a exsecretario de Seguridad de Aquixtla, Puebla; lo acusan de tortura y robo agravado",
+     "url": "https://www.eluniversal.com.mx/estados/detienen-en-hidalgo-a-exsecretario-de-seguridad-de-aquixtla-puebla-lo-acusan-de-tortura-y-robo-agravado/",
+     "domain": "El Universal",
+     "seendate": "20261031T214850Z"
+    },
+    {
+     "title": "Crimen organizado corrompe y hace daño a México, afirma García Harfuch; llama a neutralizar amenazas",
+     "url": "https://www.eluniversal.com.mx/nacion/crimen-organizado-corrompe-y-hace-dano-a-mexico-afirma-garcia-harfuch-llama-a-neutralizar-amenazas/",
+     "domain": "El Universal",
+     "seendate": "20261031T214043Z"
+    },
+    {
+     "title": "Hidalguense fallecido bajo custodia del ICE contaba con residencia en EU; se descarta repatriación de sus restos",
+     "url": "https://www.eluniversal.com.mx/estados/hidalguense-fallecido-bajo-custodia-del-ice-contaba-con-residencia-en-eu-se-descarta-repatriacion-de-sus-restos/",
+     "domain": "El Universal",
+     "seendate": "20261031T212656Z"
+    },
+    {
+     "title": "Senado analiza reforma para fortalecer la atención de salud mental de niñas, niños y adolescentes; buscan prevenir el suicidio",
+     "url": "https://www.eluniversal.com.mx/nacion/senado-analiza-reforma-para-fortalecer-la-atencion-de-salud-mental-de-ninas-ninos-y-adolescentes-buscan-prevenir-el-suicidio/",
+     "domain": "El Universal",
+     "seendate": "20261031T212023Z"
+    },
+    {
      "title": "Fiscalía de Jalisco investiga presunta apología del delito en concierto de Clave Especial; interrumpen show por \"El Toro Encartado\"",
      "url": "https://www.eluniversal.com.mx/estados/fiscalia-de-jalisco-investiga-presunta-apologia-del-delito-en-concierto-de-clave-especial-interrumpen-show-por-el-toro-encartado/",
      "domain": "El Universal",
      "seendate": "20261031T205336Z"
+    },
+    {
+     "title": "Tamaulipas investiga muerte de niña por disparo en operativo de la Guardia Estatal en Tamaulipas; gobernador promete justicia",
+     "url": "https://www.eluniversal.com.mx/estados/tamaulipas-investiga-muerte-de-nina-por-disparo-en-operativo-de-la-guardia-estatal-en-tamaulipas-gobernador-promete-justicia/",
+     "domain": "El Universal",
+     "seendate": "20261031T205000Z"
     },
     {
      "title": "Adulto mayor muere en hospital del IMSS en Mexicali; CNDH señala negligencia médica",
@@ -240,30 +270,6 @@
      "url": "https://www.eluniversal.com.mx/estados/dia-de-muertos-cuernavaca-celebra-el-festival-miquixtli-2026-con-julieta-venegas-mas-de-12-mil-personas-acuden-a-verla/",
      "domain": "El Universal",
      "seendate": "20261031T144500Z"
-    },
-    {
-     "title": "Máscaras de terror, arte que da forma a las pesadillas",
-     "url": "https://www.eluniversal.com.mx/nacion/mascaras-de-terror-arte-que-da-forma-a-las-pesadillas/",
-     "domain": "El Universal",
-     "seendate": "20261031T093500Z"
-    },
-    {
-     "title": "Recuerdan el legado político y la lucha de Cárdenas",
-     "url": "https://www.eluniversal.com.mx/nacion/recuerdan-el-legado-politico-y-la-lucha-de-cardenas/",
-     "domain": "El Universal",
-     "seendate": "20261031T093200Z"
-    },
-    {
-     "title": "Concluir las auditorías al INE, pide Sheinbaum",
-     "url": "https://www.eluniversal.com.mx/nacion/concluir-las-auditorias-al-ine-pide-sheinbaum/",
-     "domain": "El Universal",
-     "seendate": "20261031T093100Z"
-    },
-    {
-     "title": "Auditoría halla transas en el INE, UNAM, NL y Sinaloa; Clan Taddei, Territorium y funcionarios, en la mira",
-     "url": "https://www.eluniversal.com.mx/nacion/auditoria-halla-transas-en-el-ine-unam-nl-y-sinaloa-clan-taddei-territorium-y-funcionarios-en-la-mira/",
-     "domain": "El Universal",
-     "seendate": "20261031T093000Z"
     }
    ]
   },
@@ -688,6 +694,12 @@
   "CRI": {
    "articles": [
     {
+     "title": "Operativo de Halloween deja decomiso de armas, municiones y drogas en tres puntos de Costa Rica",
+     "url": "https://www.nacion.com/sucesos/operativo-de-halloween-deja-decomiso-de-armas/HOO6JNRXCRGBXE5JTJN7YJ3LU4/story/",
+     "domain": "La Nación",
+     "seendate": "20261031T214515Z"
+    },
+    {
      "title": "Vehículo cae a precipicio de 150 metros en Acosta: una persona fue trasladada de urgencia a centro médico",
      "url": "https://www.nacion.com/sucesos/vehiculo-cae-a-precipicio-de-150-metros-en-acosta/NIANJHCKCBAKRMESTFGREKC4WI/story/",
      "domain": "La Nación",
@@ -853,6 +865,12 @@
   },
   "PAN": {
    "articles": [
+    {
+     "title": "Lluvias continuarán hasta el 3 de noviembre; pronóstico del Imhpa",
+     "url": "https://www.prensa.com/sociedad/lluvias-continuaran-hasta-el-3-de-noviembre-pronostico-del-imhpa/",
+     "domain": "La Prensa",
+     "seendate": "20261031T213912Z"
+    },
     {
      "title": "Comer, vender lotería y más: lo que puede costarte una multa en el Metro de Panamá",
      "url": "https://www.prensa.com/sociedad/comer-vender-loteria-o-escuchar-musica-sin-audifonos-lo-que-puede-costarte-una-multa-en-el-metro-de-panama/",
@@ -1093,6 +1111,18 @@
   "COL": {
    "articles": [
     {
+     "title": "Cartagena abre su quinta aula hospitalaria en Serena del Mar: la literatura como herramienta de acompañamiento emocional",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/cartagena-abre-su-quinta-aula-hospitalaria-en-serena-del-mar-la-literatura-como-herramienta-de-acompanamiento-emocional-3597735",
+     "domain": "El Tiempo",
+     "seendate": "20261031T215639Z"
+    },
+    {
+     "title": "Cali y el Pacífico perfilan su futuro con 54 megaproyectos en el Plan Nacional de Desarrollo: las inversiones podrían alcanzar los $49,2 billones",
+     "url": "https://www.eltiempo.com/colombia/cali/cali-y-el-pacifico-perfilan-su-futuro-con-54-megaproyectos-en-el-plan-nacional-de-desarrollo-las-inversiones-podrian-alcanzar-los-49-2-billones-3597734",
+     "domain": "El Tiempo",
+     "seendate": "20261031T213127Z"
+    },
+    {
      "title": "Derriban la 'casa de vicio' número 85 en Antioquia: así operaba este peligroso foco de inseguridad en Cocorná",
      "url": "https://www.eltiempo.com/colombia/medellin/derriban-la-casa-de-vicio-numero-85-en-antioquia-asi-operaba-este-peligroso-foco-de-inseguridad-en-cocorna-3597728",
      "domain": "El Tiempo",
@@ -1139,18 +1169,6 @@
      "url": "https://www.eltiempo.com/colombia/medellin/gobernador-de-antioquia-andres-julian-rendon-vuelve-a-proponerle-a-elon-musk-construir-un-puerto-espacial-de-spacex-en-uraba-estamos-listos-3597671",
      "domain": "El Tiempo",
      "seendate": "20261031T141721Z"
-    },
-    {
-     "title": "Explosión de motocicleta cargada con explosivos en peaje El Mango, sur de Cauca: segunda vez en un mes que por atentado cierran la vía Panamericana",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/explosion-de-una-motobomba-paraliza-el-transito-en-el-sur-del-cauca-3597668",
-     "domain": "El Tiempo",
-     "seendate": "20261031T134500Z"
-    },
-    {
-     "title": "Asesinan a Luis Francisco Ramírez, dragoneante del Inpec, cerca de la cárcel Villahermosa en Cali: esto se sabe del crimen",
-     "url": "https://www.eltiempo.com/colombia/cali/asesinan-a-luis-francisco-ramirez-dragoneante-del-inpec-cerca-de-la-carcel-villahermosa-en-cali-esto-se-sabe-del-crimen-3597666",
-     "domain": "El Tiempo",
-     "seendate": "20261031T123948Z"
     }
    ]
   },
@@ -1449,6 +1467,42 @@
   "ECU": {
    "articles": [
     {
+     "title": "Emergencia en Santa Cruz: se abastece con agua a comunidades afectadas por la suspensión del suministro",
+     "url": "https://eluniverso.com/comunidad/ecuador/emergencia-en-santa-cruz-se-abastece-con-agua-a-comunidades-afectadas-por-la-suspension-del-suministro-nota/",
+     "domain": "El Universo",
+     "seendate": "20261031T214853Z"
+    },
+    {
+     "title": "Galápagos y algunos cantones de la Costa tendrán otra noche de lluvias fuertes: estas son las zonas señaladas por el Inamhi",
+     "url": "https://eluniverso.com/comunidad/ecuador/galapagos-y-algunos-cantones-de-la-costa-tendran-otra-noche-de-lluvias-fuertes-estas-son-las-zonas-senaladas-por-el-inamhi-nota/",
+     "domain": "El Universo",
+     "seendate": "20261031T212352Z"
+    },
+    {
+     "title": "Emergencia en Santa Cruz: COE identifica cinco alojamientos temporales para residentes y turistas",
+     "url": "https://eluniverso.com/comunidad/ecuador/emergencia-en-santa-cruz-coe-identifica-cinco-alojamientos-temporales-para-residentes-y-turistas-nota/",
+     "domain": "El Universo",
+     "seendate": "20261031T212204Z"
+    },
+    {
+     "title": "Más de 20 reses habrían muerto por la caída de un rayo durante una tormenta en Marcabelí, El Oro",
+     "url": "https://eluniverso.com/comunidad/ecuador/mas-de-20-reses-habrian-muerto-por-la-caida-de-un-rayo-durante-tormenta-electrica-en-marcabeli-el-oro-nota/",
+     "domain": "El Universo",
+     "seendate": "20261031T211000Z"
+    },
+    {
+     "title": "Avión militar trasladará hasta 14 toneladas de ayuda humanitaria a Galápagos por las inundaciones",
+     "url": "https://eluniverso.com/comunidad/ecuador/avion-militar-trasladara-hasta-14-toneladas-de-ayuda-humanitaria-a-galapagos-por-las-inundaciones-nota/",
+     "domain": "El Universo",
+     "seendate": "20261031T210052Z"
+    },
+    {
+     "title": "9.799 códigos QR en el Ecuador para que la ciudadanía reporte delitos a la Policía Nacional",
+     "url": "https://eluniverso.com/politica/seguridad/policia-nacional-delitos-denuncias-tecnologia-nota/",
+     "domain": "El Universo",
+     "seendate": "20261031T210050Z"
+    },
+    {
      "title": "Alexandro Tonello, exviceprefecto y candidato a prefecto de Pichincha por el correísmo, admite que sí es accionista de empresa que tuvo contratos con municipios",
      "url": "https://eluniverso.com/politica/expedientes/alexandro-tonello-exviceprefecto-y-candidato-a-prefecto-de-pichincha-por-el-correismo-admite-que-si-es-accionista-de-empresa-que-tuvo-contratos-con-municipios-nota/",
      "domain": "El Universo",
@@ -1581,12 +1635,6 @@
      "seendate": "20261031T111447Z"
     },
     {
-     "title": "Ecuador será sede de la COP18 de Biodiversidad en 2028",
-     "url": "https://eluniverso.com/politica/ejecutivo/ecuador-sera-sede-de-la-cop18-de-biodiversidad-en-2028-nota/",
-     "domain": "El Universo",
-     "seendate": "20261031T023133Z"
-    },
-    {
      "title": "Tonello Soluciones, empresa de Alexandro Tonello, exviceprefecto de Pichincha y aspirante del correísmo, se habría adjudicado más de $ 10,5 millones en contratos incumpliendo la Ley de Contratación Pública",
      "url": "https://eluniverso.com/politica/expedientes/ley-de-contratacion-publica-prohibe-a-autoridades-tener-contratos-con-el-estado-alexandro-tonello-exviceprefecto-de-pichincha-y-aspirante-del-correismo-la-habria-incumplido-nota/",
      "domain": "El Universo",
@@ -1609,16 +1657,16 @@
   "PER": {
    "articles": [
     {
+     "title": "Último temblor en Perú hoy, sábado 31 de octubre: Magnitud y epicentro del reciente sismo vía IGP",
+     "url": "https://elcomercio.pe/peru/ultimo-temblor-hoy-en-vivo-sismo-en-peru-epicentro-y-magnitud-reportes-del-igp-tdpe-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261031T213054Z"
+    },
+    {
      "title": "Lluvias en el norte del Perú hoy EN VIVO: Piura, Tumbes y Lambayeque en alerta por precipitaciones",
      "url": "https://elcomercio.pe/peru/lluvias-en-peru-en-vivo-el-nino-pronostico-de-senamhi-lluvias-temperatura-y-regiones-en-alerta-en-todo-el-pais-lbposting-noticia/",
      "domain": "El Comercio",
      "seendate": "20261031T202216Z"
-    },
-    {
-     "title": "Último temblor hoy, sábado 31 de octubre: IGP reportó magnitud y epicentro del reciente sismo",
-     "url": "https://elcomercio.pe/peru/ultimo-temblor-hoy-en-vivo-sismo-en-peru-epicentro-y-magnitud-reportes-del-igp-tdpe-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261031T192200Z"
     }
    ]
   },
@@ -1849,10 +1897,34 @@
   "ARG": {
    "articles": [
     {
-     "title": "Perdió una pasarela clave: el proyecto para que Pampa Linda recupere conectividad tras la destructiva crecida del río Manso",
+     "title": "Los especialistas en medicina del sueño aseguran que hay que dormir sin ropa",
+     "url": "https://www.lanacion.com.ar/sociedad/los-especialistas-en-medicina-del-sueno-aseguran-que-hay-que-dormir-sin-ropa-nid31102026/",
+     "domain": "La Nación",
+     "seendate": "20261031T220000Z"
+    },
+    {
+     "title": "Por qué es clave tener en cuenta los niveles de glucemia en el cuerpo",
+     "url": "https://www.lanacion.com.ar/sociedad/por-que-es-clave-tener-en-cuenta-los-niveles-de-glucemia-en-el-cuerpo-nid31102026/",
+     "domain": "La Nación",
+     "seendate": "20261031T220000Z"
+    },
+    {
+     "title": "¿Y si el Indec, además del EMAE, calculara el EDAE?",
+     "url": "https://www.lanacion.com.ar/economia/y-si-el-indec-ademas-del-emae-calculara-el-edae-nid31102026/",
+     "domain": "La Nación",
+     "seendate": "20261031T220000Z"
+    },
+    {
+     "title": "Clave para el turismo: el proyecto para que Pampa Linda recupere conectividad tras la destructiva crecida del río Manso",
      "url": "https://www.lanacion.com.ar/sociedad/perdio-una-pasarela-clave-el-proyecto-para-que-pampa-linda-recupere-conectividad-tras-la-destructiva-nid31102026/",
      "domain": "La Nación",
-     "seendate": "20261031T205707Z"
+     "seendate": "20261031T215349Z"
+    },
+    {
+     "title": "Toma de rehenes y tiroteo en el centro de Zárate tras un intento de robo a un local de celulares: dos detenidos",
+     "url": "https://www.lanacion.com.ar/seguridad/toma-de-rehenes-y-tiroteo-en-el-centro-de-zarate-tras-un-intento-de-robo-a-un-local-de-celulares-dos-nid31102026/",
+     "domain": "La Nación",
+     "seendate": "20261031T211152Z"
     },
     {
      "title": "Un diputado opositor solicitó a la AGN una auditoría integral de la privatización de AySA antes de que pase a manos privadas",
@@ -2077,12 +2149,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/31/defensoria-exige-controles-permanentes-de-alcoholemia-ante-aumento-de-accidentes/",
      "domain": "ABC Color",
      "seendate": "20261031T172449Z"
-    },
-    {
-     "title": "Caso Guillermo Moral: acusan a quienes habrían enviado pagos a sicarios de militar",
-     "url": "https://www.abc.com.py/nacionales/2026/10/31/caso-guillermo-moral-acusan-a-quienes-habrian-enviado-pagos-a-sicarios-de-militar/",
-     "domain": "ABC Color",
-     "seendate": "20261031T164725Z"
     }
    ]
   },
@@ -2091,6 +2157,36 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "Deputado do PT pede explicações de Tarcísio e Nico sobre casos de violência em SP após segundo turno",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/31/deputado-do-pt-pede-explicacoes-de-tarcisio-e-nico-sobre-casos-de-violencia-em-sp-apos-segundo-turno.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261031T215853Z"
+    },
+    {
+     "title": "Incêndio atinge fábrica de óleo vegetal em Mauá, na Grande São Paulo",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/31/incendio-atinge-fabrica-de-oleo-vegetal-em-maua-na-grande-sao-paulo-veja-video.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261031T213024Z"
+    },
+    {
+     "title": "Amigo de Flávio Bolsonaro, Willer Tomaz tem outras cinco casas em ilhas de Angra além da disputada com Richarlison",
+     "url": "https://oglobo.globo.com/politica/post/2026/10/amigo-de-flavio-bolsonaro-willer-tomaz-tem-outras-cinco-casas-em-ilhas-de-angra-alem-da-disputada-com-richarlison.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261031T210639Z"
+    },
+    {
+     "title": "Alter do Chão registra incêndio de grandes proporções em área verde",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/31/alter-do-chao-registra-incendio-de-grandes-proporcoes-em-area-verde.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261031T193646Z"
+    },
+    {
+     "title": "Rubio afirma que governo americano não se envolveu na fuga de Flávio Bolsonaro aos EUA",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/31/rubio-assegura-que-os-eua-nao-estiveram-envolvidos-na-fuga-de-flavio-bolsonaro-do-brasil.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261031T185529Z"
+    },
     {
      "title": "Governo Trump não pretende apoiar Flávio Bolsonaro como líder brasileiro, diz agência",
      "url": "https://oglobo.globo.com/politica/noticia/2026/10/31/governo-trump-nao-pretende-apoiar-flavio-bolsonaro-como-lider-brasileiro-diz-agencia.ghtml",
