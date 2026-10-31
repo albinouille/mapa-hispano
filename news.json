@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T17:09:28+00:00",
+ "updated": "2026-10-31T18:04:17+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -7,7 +7,7 @@
      "title": "Última hora de las manifestaciones de Blocus en España, en directo | Madrid, Barcelona, Valencia y San Sebastián, entre otras ciudades, se blindan ante posibles disturbios",
      "url": "https://elpais.com/espana/2026-10-31/ultima-hora-de-las-manifestaciones-de-blocus-en-espana.html",
      "domain": "El País",
-     "seendate": "20261031T170019Z"
+     "seendate": "20261031T174434Z"
     },
     {
      "title": "Los familiares recuerdan a las 234 víctimas de la dana: “La ausencia nos enseña el peso de la vida”",
@@ -32,6 +32,12 @@
      "url": "https://elpais.com/espana/2026-10-31/el-mensaje-del-papa-emociona-a-los-asistentes-al-funeral-por-las-victimas-del-accidente-ferroviario-de-urda.html",
      "domain": "El País",
      "seendate": "20261031T145210Z"
+    },
+    {
+     "title": "Prisión provisional sin fianza para el supuesto “fundador e impulsor” de ‘Blocus’ en España",
+     "url": "https://elpais.com/espana/comunidad-valenciana/2026-10-31/prision-provisional-sin-fianza-para-el-supuesto-fundador-e-impulsor-de-blocus-espana.html",
+     "domain": "El País",
+     "seendate": "20261031T134712Z"
     },
     {
      "title": "El guardia civil Salvador rescató a Almudena del vagón 1 del Iryo, el más afectado del accidente: “Solo había silencio”",
@@ -127,6 +133,24 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "ASF requiere al IEE Sonora contratos de licitaciones tras caso Taddei; Consejero Presidente descarta renunciar",
+     "url": "https://www.eluniversal.com.mx/estados/asf-requiere-al-iee-sonora-contratos-de-licitaciones-tras-caso-taddei-consejero-presidente-descarta-renunciar/",
+     "domain": "El Universal",
+     "seendate": "20261031T175102Z"
+    },
+    {
+     "title": "IMSS, Six Flags y derechos cannábicos; estas son las manifestaciones previstas en CDMX",
+     "url": "https://www.eluniversal.com.mx/metropoli/imss-six-flags-y-derechos-cannabicos-estas-son-las-manifestaciones-previstas-en-cdmx/",
+     "domain": "El Universal",
+     "seendate": "20261031T173525Z"
+    },
+    {
+     "title": "Dedican ofrenda a Carlos Manzo en plaza de Uruapan donde fue asesinado; convocan a marcha a un año del crimen",
+     "url": "https://www.eluniversal.com.mx/estados/dedican-ofrenda-a-carlos-manzo-en-plaza-de-uruapan-donde-fue-asesinado-convocan-a-marcha-a-un-ano-del-crimen/",
+     "domain": "El Universal",
+     "seendate": "20261031T170424Z"
+    },
     {
      "title": "Muere delfín \"Mincho\" en Dolphin Connection Cancún, presuntamente por un \"tumor maligno\"; Profepa pide necropsia",
      "url": "https://www.eluniversal.com.mx/nacion/muere-delfin-mincho-en-dolphin-connection-cancun-presuntamente-por-un-tumor-maligno-profepa-pide-necropsia/",
@@ -588,12 +612,6 @@
      "url": "https://diario1.com/mundo/fuerza-antipandillas-advierte-a-criminales-que-cumplira-mandato-en-haiti-pese-a-violencia/",
      "domain": "diario1.com",
      "seendate": "20261027T051500Z"
-    },
-    {
-     "title": "Diario Co Latino - Informándote con Credibilidad",
-     "url": "https://www.diariocolatino.com/marvin-aguilar-y-mirna-perla-analizan-el-envio-de-mas-de-2000-soldados-a-hiati/",
-     "domain": "diariocolatino.com",
-     "seendate": "20261024T113000Z"
     }
    ]
   },
@@ -615,6 +633,12 @@
   },
   "CRI": {
    "articles": [
+    {
+     "title": "Cruz Roja cumple ocho días de búsqueda de persona desaparecida en playa Palo Seco, Parrita",
+     "url": "https://www.nacion.com/sucesos/cruz-roja-cumple-ocho-dias-de-busqueda-de-persona/MR3H2DKTU5BFPGPMBMMHNFBZ7M/story/",
+     "domain": "La Nación",
+     "seendate": "20261031T171311Z"
+    },
     {
      "title": "Tribunal Penal absuelve a Joselyn Chacón de cargos por injurias y difamación; Francisco Nicolás apelará fallo",
      "url": "https://www.nacion.com/sucesos/tribunal-penal-absuelve-a-joselyn-chacon-de-cargos/NOMKUMRJEFCETC6NX2LSC7YAGY/story/",
@@ -740,12 +764,6 @@
      "url": "https://www.nacion.com/politica/jose-miguel-villalobos-revela-como-se-pronunciara/WWMSALN4DFF3HHDJ5HIJNAMNQQ/story/",
      "domain": "La Nación",
      "seendate": "20261030T185823Z"
-    },
-    {
-     "title": "Federaciones universitarias anuncian tres protestas contra recortes a educación pública: ‘La paciencia del estudiantado se agotó’",
-     "url": "https://www.nacion.com/el-pais/federaciones-universitarias-anuncian-protestas/2D6KX23P6BEWDMFJSQHTARIWSY/story/",
-     "domain": "La Nación",
-     "seendate": "20261030T165912Z"
     }
    ]
   },
@@ -863,6 +881,12 @@
   },
   "CUB": {
    "articles": [
+    {
+     "title": "Trump ya no tiene tanta prisa para acabar con el régimen cubano: \"dos años y medio o menos\"",
+     "url": "https://www.14ymedio.com/cuba/trump-no-prisa-acabar-regimen_1_1132680.html",
+     "domain": "14ymedio",
+     "seendate": "20261031T171803Z"
+    },
     {
      "title": "Jugador de club italiano lidera a Cuba en Mundial Sub 15 de fútbol",
      "url": "https://www.14ymedio.com/cuba/jugador-club-italiano-lidera-cuba_1_1132678.html",
@@ -988,7 +1012,19 @@
      "title": "Incendio sorprendió a una familia mientras dormía en su casa en Santa Marta: murieron dos niños y una pastora",
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/incendio-sorprendio-a-una-familia-mientras-dormia-en-su-casa-en-santa-marta-murieron-dos-ninos-y-una-pastora-3597707",
      "domain": "El Tiempo",
-     "seendate": "20261031T164721Z"
+     "seendate": "20261031T173940Z"
+    },
+    {
+     "title": "Video | Reaparece 'El Gatico': hijo de 'La Gata', Enilce López, denuncia amenazas contra su vida y promete ventilar negocios de su clan con políticos",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/video-hijo-de-la-gata-reaparece-denuncia-amenazas-contra-su-vida-y-promete-ventilar-los-negocios-de-su-clan-con-la-clase-politica-3597713",
+     "domain": "El Tiempo",
+     "seendate": "20261031T172500Z"
+    },
+    {
+     "title": "Stanford incluye a 15 científicos de la Universidad de Antioquia entre el 2 % más influyente del mundo",
+     "url": "https://www.eltiempo.com/colombia/medellin/los-15-cientificos-de-la-universidad-de-antioquia-que-entraron-al-selecto-grupo-del-2-mas-influyente-del-mundo-3597711",
+     "domain": "El Tiempo",
+     "seendate": "20261031T171500Z"
     },
     {
      "title": "Sincelejo cumple más de dos meses sin muertes por sicariato, según autoridades, gracias al Bloque de Búsqueda multicrimen",
@@ -1031,18 +1067,6 @@
      "url": "https://www.eltiempo.com/colombia/medellin/adulto-mayor-de-68-anos-murio-en-bello-antioquia-luego-de-que-le-notificaran-una-orden-de-captura-en-su-contra-esto-se-sabe-del-caso-3597548",
      "domain": "El Tiempo",
      "seendate": "20261031T024829Z"
-    },
-    {
-     "title": "Ataco, Tolima, soporta cadena de asesinatos y desapariciones en medio de disputas de las disidencias por el control de la explotación de oro",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/ataco-tolima-soporta-cadena-de-asesinatos-y-desapariciones-en-medio-de-disputas-de-las-disidencias-por-el-control-de-la-explotacion-de-oro-3597627",
-     "domain": "El Tiempo",
-     "seendate": "20261031T012323Z"
-    },
-    {
-     "title": "Un hijo de 13 años, un padre sin casa y un grano que conquistó a Bogotá: la travesía de la familia detrás de Café Don Argelino",
-     "url": "https://www.eltiempo.com/colombia/cali/un-hijo-de-13-anos-un-padre-sin-casa-y-un-grano-que-conquisto-a-bogota-la-travesia-de-la-familia-detras-de-cafe-don-argelino-3597569",
-     "domain": "El Tiempo",
-     "seendate": "20261031T011142Z"
     }
    ]
   },
@@ -1341,14 +1365,32 @@
   "ECU": {
    "articles": [
     {
-     "title": "Cuándo empieza el toque de queda en Ecuador: Estas son las provincias donde rige",
-     "url": "https://eluniverso.com/politica/seguridad/cuando-empieza-el-toque-de-queda-en-ecuador-estas-son-las-provincias-donde-rige-nota/",
+     "title": "Feriado en el norte del país: agenda conecta la producción, la gastronomía y el turismo",
+     "url": "https://eluniverso.com/comunidad/ecuador/feriado-en-el-norte-del-pais-agenda-conecta-a-la-produccion-la-gastronomia-y-el-turismo-nota/",
      "domain": "El Universo",
-     "seendate": "20261031T170000Z"
+     "seendate": "20261031T173000Z"
+    },
+    {
+     "title": "Deslizamiento de tierra impide circulación por la vía Latacunga-La Maná",
+     "url": "https://eluniverso.com/comunidad/ecuador/por-el-temporal-nota/",
+     "domain": "El Universo",
+     "seendate": "20261031T171740Z"
+    },
+    {
+     "title": "Emergencia en Santa Cruz: una persona murió y otras dos están desaparecidas por inundación en esta isla de Galápagos",
+     "url": "https://eluniverso.com/comunidad/ecuador/emergencia-en-santa-cruz-una-persona-murio-y-otras-dos-estan-desaparecidas-tras-inundacion-en-esta-isla-de-galapagos-nota/",
+     "domain": "El Universo",
+     "seendate": "20261031T171343Z"
     },
     {
      "title": "Cuándo empieza el toque de queda en Guayas, Esmeraldas, Manabí, Los Ríos y El Oro",
      "url": "https://eluniverso.com/politica/seguridad/cuando-empieza-el-toque-de-queda-en-guayas-esmeraldas-manabi-los-rios-y-el-oro-nota/",
+     "domain": "El Universo",
+     "seendate": "20261031T170000Z"
+    },
+    {
+     "title": "Cuándo empieza el toque de queda en Ecuador: Estas son las provincias donde rige",
+     "url": "https://eluniverso.com/politica/seguridad/cuando-empieza-el-toque-de-queda-en-ecuador-estas-son-las-provincias-donde-rige-nota/",
      "domain": "El Universo",
      "seendate": "20261031T170000Z"
     },
@@ -1437,12 +1479,6 @@
      "seendate": "20261031T004210Z"
     },
     {
-     "title": "Daniel Noboa anuncia que 18.000 niños superaron la desnutrición crónica infantil en Ecuador",
-     "url": "https://eluniverso.com/politica/ejecutivo/daniel-noboa-anuncia-que-18000-ninos-superaron-la-desnutricion-cronica-infantil-en-ecuador-nota/",
-     "domain": "El Universo",
-     "seendate": "20261031T003800Z"
-    },
-    {
      "title": "MIT trabaja en la prevención ante el fenómeno de El Niño en Monte Sinaí",
      "url": "https://eluniverso.com/comunidad/ecuador/mit-trabaja-en-la-prevencion-ante-el-fenomeno-de-el-nino-en-monte-sinai-nota/",
      "domain": "El Universo",
@@ -1483,10 +1519,10 @@
   "PER": {
    "articles": [
     {
-     "title": "Último temblor hoy, en vivo: sismo en Perú, epicentro y magnitud",
+     "title": "Último temblor hoy, sábado 31 de octubre: IGP reportó magnitud y epicentro del reciente sismo",
      "url": "https://elcomercio.pe/peru/ultimo-temblor-hoy-en-vivo-sismo-en-peru-epicentro-y-magnitud-reportes-del-igp-tdpe-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261031T165215Z"
+     "seendate": "20261031T171914Z"
     },
     {
      "title": "Lluvias en el norte del Perú hoy EN VIVO: Piura, Tumbes y Lambayeque en alerta por precipitaciones",
@@ -2051,12 +2087,6 @@
      "url": "https://www.lanacion.com.ar/economia/campo/agricultura/chicharrita-y-cogollero-monitorear-en-el-lote-para-no-decidir-desde-el-miedo-nid31102026/",
      "domain": "La Nación",
      "seendate": "20261031T120000Z"
-    },
-    {
-     "title": "Los Milei refuerzan su vínculo con la iglesia evangélica antes de la visita del papa León XIV",
-     "url": "https://www.lanacion.com.ar/politica/los-milei-refuerzan-su-vinculo-con-la-iglesia-evangelica-antes-de-la-visita-del-papa-leon-xiv-nid31102026/",
-     "domain": "La Nación",
-     "seendate": "20261031T113743Z"
     }
    ]
   },
@@ -2199,6 +2229,24 @@
   "PRY": {
    "articles": [
     {
+     "title": "Anuncian construcción de planta de agua potable en el Bañado Sur",
+     "url": "https://www.abc.com.py/nacionales/2026/10/31/anuncian-construccion-de-planta-de-agua-potable-en-el-banado-sur/",
+     "domain": "ABC Color",
+     "seendate": "20261031T174312Z"
+    },
+    {
+     "title": "Pescadores de Pilar denuncian contrabando de pescado argentino y reclaman controles antes de la veda",
+     "url": "https://www.abc.com.py/nacionales/2026/10/31/pescadores-de-pilar-denuncian-contrabando-de-pescado-argentino-y-reclaman-controles-antes-de-la-veda/",
+     "domain": "ABC Color",
+     "seendate": "20261031T173817Z"
+    },
+    {
+     "title": "Defensoría exige controles permanentes de alcoholemia ante aumento de accidentes",
+     "url": "https://www.abc.com.py/nacionales/2026/10/31/defensoria-exige-controles-permanentes-de-alcoholemia-ante-aumento-de-accidentes/",
+     "domain": "ABC Color",
+     "seendate": "20261031T172449Z"
+    },
+    {
      "title": "Caso Guillermo Moral: acusan a quienes habrían enviado pagos a sicarios de militar",
      "url": "https://www.abc.com.py/nacionales/2026/10/31/caso-guillermo-moral-acusan-a-quienes-habrian-enviado-pagos-a-sicarios-de-militar/",
      "domain": "ABC Color",
@@ -2215,24 +2263,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/31/que-hacer-antes-durante-y-despues-de-una-tormenta-salud-brinda-recomendaciones/",
      "domain": "ABC Color",
      "seendate": "20261031T151811Z"
-    },
-    {
-     "title": "Exigen garantía estatal para fondos jubilatorios del IPS y convocan a asegurados",
-     "url": "https://www.abc.com.py/nacionales/2026/10/31/exigen-garantia-estatal-para-fondos-jubilatorios-del-ips-y-convocan-a-asegurados/",
-     "domain": "ABC Color",
-     "seendate": "20261031T140935Z"
-    },
-    {
-     "title": "Operativo “Año Paha”: ¿cómo se prepara la Policía para combatir la inseguridad?",
-     "url": "https://www.abc.com.py/nacionales/2026/10/31/operativo-ano-paha-como-se-prepara-la-policia-para-combatir-la-inseguridad/",
-     "domain": "ABC Color",
-     "seendate": "20261031T133715Z"
-    },
-    {
-     "title": "Elecciones de abogados para el CM: ¿Cuándo estarán habilitadas las prácticas con las máquinas?",
-     "url": "https://www.abc.com.py/nacionales/2026/10/31/elecciones-de-abogados-para-el-cm-cuando-estaran-habilitadas-las-practicas-con-las-maquinas/",
-     "domain": "ABC Color",
-     "seendate": "20261031T133425Z"
     }
    ]
   },
