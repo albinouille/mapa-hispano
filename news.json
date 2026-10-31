@@ -1,14 +1,8 @@
 {
- "updated": "2026-10-31T22:06:31+00:00",
+ "updated": "2026-10-31T23:04:33+00:00",
  "countries": {
   "ESP": {
    "articles": [
-    {
-     "title": "Última hora de las manifestaciones de Blocus en España, en directo | Madrid, Barcelona, Valencia, San Sebastián y otras ciudades, se blindan ante posibles disturbios",
-     "url": "https://elpais.com/espana/2026-10-31/ultima-hora-de-las-manifestaciones-de-blocus-en-espana.html",
-     "domain": "El País",
-     "seendate": "20261031T215049Z"
-    },
     {
      "title": "Renfe elevará sus condiciones de seguridad en la línea Madrid-Sevilla para evitar nuevos siniestros",
      "url": "https://elpais.com/espana/2026-10-31/renfe-eleva-sus-condiciones-de-seguridad-en-la-linea-madrid-sevilla-para-evitar-nuevos-siniestros.html",
@@ -133,6 +127,12 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Sheinbaum reporta avance de 32% de Tren México-Querétaro; prevén construir 2 mil 500 kilómetros de vías",
+     "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-reporta-avance-de-32-de-tren-mexico-queretaro-preven-construir-2-mil-500-kilometros-de-vias/",
+     "domain": "El Universal",
+     "seendate": "20261031T220259Z"
+    },
     {
      "title": "Detienen en Hidalgo a exsecretario de Seguridad de Aquixtla, Puebla; lo acusan de tortura y robo agravado",
      "url": "https://www.eluniversal.com.mx/estados/detienen-en-hidalgo-a-exsecretario-de-seguridad-de-aquixtla-puebla-lo-acusan-de-tortura-y-robo-agravado/",
@@ -848,18 +848,6 @@
      "url": "https://www.nacion.com/sucesos/volcan-rincon-de-la-vieja-baja-su-nivel-de/YVZJHU3O55EDFLJFS4FC23UAMM/story/",
      "domain": "La Nación",
      "seendate": "20261030T214739Z"
-    },
-    {
-     "title": "Vehículo cae a un guindo de 50 metros en Turrialba: tres personas trasladadas al hospital",
-     "url": "https://www.nacion.com/sucesos/vehiculo-cae-en-guindo-de-30-metros-en-turrialba/7WUWDU2G5FHBRHB4R2PVGDTSO4/story/",
-     "domain": "La Nación",
-     "seendate": "20261030T211503Z"
-    },
-    {
-     "title": "Frente Amplio denuncia ante el TSE alquiler de BMW de lujo asignado a Mayuli Ortega para uso discrecional",
-     "url": "https://www.nacion.com/politica/frente-amplio-denuncia-ante-el-tse-alquiler-de-bmw/UEIY5DC6CBCTZDGWAW7IBHOEP4/story/",
-     "domain": "La Nación",
-     "seendate": "20261030T210148Z"
     }
    ]
   },
@@ -1111,6 +1099,18 @@
   "COL": {
    "articles": [
     {
+     "title": "Hermano de Kbeto Zuleta entregó nuevos detalles del estado de salud del cantante tras grave accidente de tránsito: 'En proceso de mejoría'",
+     "url": "https://www.eltiempo.com/colombia/barranquilla/hermano-de-kbeto-zuleta-entrego-nuevos-detalles-del-estado-de-salud-del-cantante-tras-grave-accidente-de-transito-en-proceso-de-mejoria-3597745",
+     "domain": "El Tiempo",
+     "seendate": "20261031T230044Z"
+    },
+    {
+     "title": "Primicia | Gobernador de Antioquia propone reducir de 18 a 7 los ministerios y ahorrar $28 billones al año: se reunirá hoy con De la Espriella",
+     "url": "https://www.eltiempo.com/colombia/medellin/gobernador-de-antioquia-propone-reducir-de-18-a-7-los-ministerios-y-ahorrar-28-billones-al-ano-se-reunira-hoy-con-el-presidente-de-la-espriella-3597747",
+     "domain": "El Tiempo",
+     "seendate": "20261031T224500Z"
+    },
+    {
      "title": "Cartagena abre su quinta aula hospitalaria en Serena del Mar: la literatura como herramienta de acompañamiento emocional",
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/cartagena-abre-su-quinta-aula-hospitalaria-en-serena-del-mar-la-literatura-como-herramienta-de-acompanamiento-emocional-3597735",
      "domain": "El Tiempo",
@@ -1157,18 +1157,6 @@
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/sincelejo-cumple-mas-de-dos-meses-sin-muertes-por-sicariato-segun-autoridades-gracias-al-bloque-de-busqueda-multicrimen-3597699",
      "domain": "El Tiempo",
      "seendate": "20261031T162108Z"
-    },
-    {
-     "title": "Atentado con explosivos en El Bordo, Cauca: esto se sabe de los responsables del atentado con motobomba en el peaje El Mango",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/atentado-con-explosivos-en-el-bordo-cauca-esto-se-sabe-de-los-responsables-del-atentado-con-motobomba-en-el-peaje-el-mango-3597677",
-     "domain": "El Tiempo",
-     "seendate": "20261031T145128Z"
-    },
-    {
-     "title": "¿Puerto espacial de SpaceX en Colombia? Gobernador de Antioquia, Andrés Julián Rendón, le recuerda a Elon Musk la idea de construirlo en Urabá",
-     "url": "https://www.eltiempo.com/colombia/medellin/gobernador-de-antioquia-andres-julian-rendon-vuelve-a-proponerle-a-elon-musk-construir-un-puerto-espacial-de-spacex-en-uraba-estamos-listos-3597671",
-     "domain": "El Tiempo",
-     "seendate": "20261031T141721Z"
     }
    ]
   },
@@ -1395,79 +1383,19 @@
      "url": "http://www.psuv.org.ve/temas/noticias/distribuyen-238-toneladas-alimentos-guaira-para-favorecer-a-40-mil-familias/",
      "domain": "psuv.org.ve",
      "seendate": "20261024T233000Z"
-    },
-    {
-     "title": "OVP : inacción del ministerio Penitenciario condena a reclusos a morir por tuberculosis",
-     "url": "https://talcualdigital.com/noticias/ovp-inaccion-del-ministerio-penitenciario-condena-a-reclusos-a-morir-por-tuberculosis/",
-     "domain": "talcualdigital.com",
-     "seendate": "20261024T210000Z"
-    },
-    {
-     "title": "Economía comunal fortalece la soberanía alimentaria con el impulso de la producción nacional",
-     "url": "https://avn.info.ve/economia-comunal-fortalece-la-soberania-alimentaria-con-el-impulso-de-la-produccion-nacional/",
-     "domain": "avn.info.ve",
-     "seendate": "20261024T210000Z"
-    },
-    {
-     "title": "Como Lusinchi , por Teodoro Petkoff",
-     "url": "https://talcualdigital.com/teodoro/como-lusinchi-por-teodoro-petkoff/",
-     "domain": "talcualdigital.com",
-     "seendate": "20261024T210000Z"
-    },
-    {
-     "title": "Unimet estrena distrito tecnológico con mira en escuelas públicas",
-     "url": "https://talcualdigital.com/noticias/unimet-estrena-distrito-tecnologico-con-la-mira-puesta-en-las-escuelas-publicas/",
-     "domain": "talcualdigital.com",
-     "seendate": "20261024T210000Z"
-    },
-    {
-     "title": "Familias de Chacao son favorecidas con rehabilitación de viviendas tras sismos",
-     "url": "http://www.psuv.org.ve/temas/noticias/familias-chacao-son-favorecidas-rehabilitacion-viviendas-tras-sismos/",
-     "domain": "psuv.org.ve",
-     "seendate": "20261024T210000Z"
-    },
-    {
-     "title": "¿ Y ahora qué ?, por Teodoro Petkoff",
-     "url": "https://talcualdigital.com/teodoro/y-ahora-que-por-teodoro-petkoff-3/",
-     "domain": "talcualdigital.com",
-     "seendate": "20261024T210000Z"
-    },
-    {
-     "title": "Familias comuneras se involucran en procesos agroindustriales porque hay capacidad instalada",
-     "url": "http://www.psuv.org.ve/temas/noticias/familias-comuneras-se-involucran-procesos-agroindustriales-porque-hay-capacidad-instalada/",
-     "domain": "psuv.org.ve",
-     "seendate": "20261024T210000Z"
-    },
-    {
-     "title": "Gobierno nacional prevé atender cuatro millones de niños a través del PAE",
-     "url": "http://www.psuv.org.ve/temas/noticias/gobierno-nacional-preve-atender-cuatro-millones-ninos-a-traves-pae/",
-     "domain": "psuv.org.ve",
-     "seendate": "20261024T210000Z"
-    },
-    {
-     "title": "Vente Venezuela denuncia detención de su coordinador en Trujillo y advierte sobre su delicado estado de salud",
-     "url": "https://talcualdigital.com/noticias/vente-venezuela-denuncia-detencion-de-su-coordinador-en-trujillo-y-advierte-sobre-su-delicado-estado-de-salud/",
-     "domain": "talcualdigital.com",
-     "seendate": "20261024T210000Z"
-    },
-    {
-     "title": "Plan Venezuela Renace ha rehabilitado 21 . 092 viviendas afectadas con doblete sísmico",
-     "url": "https://avn.info.ve/plan-venezuela-renace-ha-rehabilitado-21-092-viviendas-afectadas-con-doblete-sismico/",
-     "domain": "avn.info.ve",
-     "seendate": "20261024T210000Z"
-    },
-    {
-     "title": "Venezuela se perfila a alcanzar la meta Hambre Cero antes de 2030 - Agencia Venezolana de Noticias",
-     "url": "https://avn.info.ve/venezuela-se-perfila-a-alcanzar-la-meta-hambre-cero-antes-de-2030/",
-     "domain": "avn.info.ve",
-     "seendate": "20261024T210000Z"
     }
    ]
   },
   "ECU": {
    "articles": [
     {
-     "title": "Emergencia en Santa Cruz: se abastece con agua a comunidades afectadas por la suspensión del suministro",
+     "title": "Consejo Nacional Electoral habilita portal para conocer el plan de trabajo de los candidatos a las seccionales del 29 de noviembre",
+     "url": "https://eluniverso.com/politica/elecciones/elecciones-seccionales-2027-consejo-nacional-electoral-cpccs-candidaturas-nota/",
+     "domain": "El Universo",
+     "seendate": "20261031T220000Z"
+    },
+    {
+     "title": "Emergencia en Santa Cruz: se abastece de agua a comunidades afectadas por la suspensión del suministro",
      "url": "https://eluniverso.com/comunidad/ecuador/emergencia-en-santa-cruz-se-abastece-con-agua-a-comunidades-afectadas-por-la-suspension-del-suministro-nota/",
      "domain": "El Universo",
      "seendate": "20261031T214853Z"
@@ -1569,14 +1497,14 @@
      "seendate": "20261031T171343Z"
     },
     {
-     "title": "Cuándo empieza el toque de queda en Guayas, Esmeraldas, Manabí, Los Ríos y El Oro",
-     "url": "https://eluniverso.com/politica/seguridad/cuando-empieza-el-toque-de-queda-en-guayas-esmeraldas-manabi-los-rios-y-el-oro-nota/",
+     "title": "Cuándo empieza el toque de queda en Ecuador: Estas son las provincias donde rige",
+     "url": "https://eluniverso.com/politica/seguridad/cuando-empieza-el-toque-de-queda-en-ecuador-estas-son-las-provincias-donde-rige-nota/",
      "domain": "El Universo",
      "seendate": "20261031T170000Z"
     },
     {
-     "title": "Cuándo empieza el toque de queda en Ecuador: Estas son las provincias donde rige",
-     "url": "https://eluniverso.com/politica/seguridad/cuando-empieza-el-toque-de-queda-en-ecuador-estas-son-las-provincias-donde-rige-nota/",
+     "title": "Cuándo empieza el toque de queda en Guayas, Esmeraldas, Manabí, Los Ríos y El Oro",
+     "url": "https://eluniverso.com/politica/seguridad/cuando-empieza-el-toque-de-queda-en-guayas-esmeraldas-manabi-los-rios-y-el-oro-nota/",
      "domain": "El Universo",
      "seendate": "20261031T170000Z"
     },
@@ -1623,12 +1551,6 @@
      "seendate": "20261031T130842Z"
     },
     {
-     "title": "Gobierno anuncia envío de 1.000 kits de asistencia humanitaria por emergencia en Galápagos",
-     "url": "https://eluniverso.com/comunidad/ecuador/gobierno-anuncia-envio-de-1000-kits-de-asistencia-humanitaria-por-emergencia-en-galapagos-nota/",
-     "domain": "El Universo",
-     "seendate": "20261031T120307Z"
-    },
-    {
      "title": "Santa Cruz en emergencia: intensa lluvia inunda barrios y obliga a evacuar viviendas de isla más poblada de Galápagos",
      "url": "https://eluniverso.com/comunidad/ecuador/santa-cruz-en-emergencia-intensa-lluvia-inunda-barrios-y-obliga-a-evacuar-viviendas-de-isla-mas-poblada-de-galapagos-nota/",
      "domain": "El Universo",
@@ -1657,16 +1579,28 @@
   "PER": {
    "articles": [
     {
+     "title": "Lluvias en el norte del Perú hoy EN VIVO: Piura, Tumbes y Lambayeque en alerta por precipitaciones",
+     "url": "https://elcomercio.pe/peru/lluvias-en-peru-en-vivo-el-nino-pronostico-de-senamhi-lluvias-temperatura-y-regiones-en-alerta-en-todo-el-pais-lbposting-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261031T225241Z"
+    },
+    {
+     "title": "Inundaciones en Kimbiri: Fiscalía de Prevención del Delito supervisa auxilio a los damnificados",
+     "url": "https://elcomercio.pe/peru/inundaciones-en-kimbiri-fiscalia-de-prevencion-del-delito-supervisa-auxilio-a-los-damnificados-ultimas-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261031T224401Z"
+    },
+    {
+     "title": "Gobierno advierte que el Fenómeno El Niño actual será “mucho más peligroso” que los de 1982 y 1997",
+     "url": "https://elcomercio.pe/peru/fenomeno-el-nino-el-gobierno-advierte-que-el-fenomeno-actual-sera-mucho-mas-peligroso-que-los-de-1982-y-1997-apuesplan-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261031T222604Z"
+    },
+    {
      "title": "Último temblor en Perú hoy, sábado 31 de octubre: Magnitud y epicentro del reciente sismo vía IGP",
      "url": "https://elcomercio.pe/peru/ultimo-temblor-hoy-en-vivo-sismo-en-peru-epicentro-y-magnitud-reportes-del-igp-tdpe-noticia/",
      "domain": "El Comercio",
      "seendate": "20261031T213054Z"
-    },
-    {
-     "title": "Lluvias en el norte del Perú hoy EN VIVO: Piura, Tumbes y Lambayeque en alerta por precipitaciones",
-     "url": "https://elcomercio.pe/peru/lluvias-en-peru-en-vivo-el-nino-pronostico-de-senamhi-lluvias-temperatura-y-regiones-en-alerta-en-todo-el-pais-lbposting-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261031T202216Z"
     }
    ]
   },
@@ -1897,6 +1831,30 @@
   "ARG": {
    "articles": [
     {
+     "title": "Clave para el turismo: el proyecto para que Pampa Linda recupere conectividad tras la destructiva crecida del río Manso",
+     "url": "https://www.lanacion.com.ar/sociedad/perdio-una-pasarela-clave-el-proyecto-para-que-pampa-linda-recupere-conectividad-tras-la-destructiva-nid31102026/",
+     "domain": "La Nación",
+     "seendate": "20261031T223158Z"
+    },
+    {
+     "title": "Del incendio a la reconstrucción: diez años después, una escuela de San Isidro recupera sus aulas para 600 estudiantes",
+     "url": "https://www.lanacion.com.ar/sociedad/del-incendio-a-la-reconstruccion-diez-anos-despues-una-escuela-de-san-isidro-recupera-sus-aulas-para-nid31102026/",
+     "domain": "La Nación",
+     "seendate": "20261031T222405Z"
+    },
+    {
+     "title": "Monseñor Braida: “Es importante que el Papa vaya a Don Orione; los más postergados nunca pueden ser la variable de ajuste”",
+     "url": "https://www.lanacion.com.ar/politica/monsenor-braida-es-importante-que-el-papa-vaya-a-don-orione-los-mas-postergados-nunca-pueden-ser-la-nid31102026/",
+     "domain": "La Nación",
+     "seendate": "20261031T222346Z"
+    },
+    {
+     "title": "El Gobierno invita a Villarruel al evento con el Papa en el Palacio Libertad, pero se muestra incómodo con los expresidentes",
+     "url": "https://www.lanacion.com.ar/politica/el-gobierno-invita-a-villarruel-al-evento-con-el-papa-en-el-palacio-libertad-pero-se-muestra-nid31102026/",
+     "domain": "La Nación",
+     "seendate": "20261031T221903Z"
+    },
+    {
      "title": "Los especialistas en medicina del sueño aseguran que hay que dormir sin ropa",
      "url": "https://www.lanacion.com.ar/sociedad/los-especialistas-en-medicina-del-sueno-aseguran-que-hay-que-dormir-sin-ropa-nid31102026/",
      "domain": "La Nación",
@@ -1913,12 +1871,6 @@
      "url": "https://www.lanacion.com.ar/economia/y-si-el-indec-ademas-del-emae-calculara-el-edae-nid31102026/",
      "domain": "La Nación",
      "seendate": "20261031T220000Z"
-    },
-    {
-     "title": "Clave para el turismo: el proyecto para que Pampa Linda recupere conectividad tras la destructiva crecida del río Manso",
-     "url": "https://www.lanacion.com.ar/sociedad/perdio-una-pasarela-clave-el-proyecto-para-que-pampa-linda-recupere-conectividad-tras-la-destructiva-nid31102026/",
-     "domain": "La Nación",
-     "seendate": "20261031T215349Z"
     },
     {
      "title": "Toma de rehenes y tiroteo en el centro de Zárate tras un intento de robo a un local de celulares: dos detenidos",
@@ -2137,18 +2089,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/31/anuncian-construccion-de-planta-de-agua-potable-en-el-banado-sur/",
      "domain": "ABC Color",
      "seendate": "20261031T174312Z"
-    },
-    {
-     "title": "Pescadores de Pilar denuncian contrabando de pescado argentino y reclaman controles antes de la veda",
-     "url": "https://www.abc.com.py/nacionales/2026/10/31/pescadores-de-pilar-denuncian-contrabando-de-pescado-argentino-y-reclaman-controles-antes-de-la-veda/",
-     "domain": "ABC Color",
-     "seendate": "20261031T173817Z"
-    },
-    {
-     "title": "Defensoría exige controles permanentes de alcoholemia ante aumento de accidentes",
-     "url": "https://www.abc.com.py/nacionales/2026/10/31/defensoria-exige-controles-permanentes-de-alcoholemia-ante-aumento-de-accidentes/",
-     "domain": "ABC Color",
-     "seendate": "20261031T172449Z"
     }
    ]
   },
@@ -2164,7 +2104,7 @@
      "seendate": "20261031T215853Z"
     },
     {
-     "title": "Incêndio atinge fábrica de óleo vegetal em Mauá, na Grande São Paulo",
+     "title": "Incêndio atinge fábrica de óleo vegetal em Mauá, na Grande São Paulo (veja vídeo)",
      "url": "https://oglobo.globo.com/brasil/noticia/2026/10/31/incendio-atinge-fabrica-de-oleo-vegetal-em-maua-na-grande-sao-paulo-veja-video.ghtml",
      "domain": "O Globo",
      "seendate": "20261031T213024Z"
