@@ -1,25 +1,31 @@
 {
- "updated": "2026-10-31T20:32:12+00:00",
+ "updated": "2026-10-31T21:10:51+00:00",
  "countries": {
   "ESP": {
    "articles": [
     {
+     "title": "Última hora de las manifestaciones de Blocus en España, en directo | Madrid, Barcelona, Valencia, San Sebastián y otras ciudades, se blindan ante posibles disturbios",
+     "url": "https://elpais.com/espana/2026-10-31/ultima-hora-de-las-manifestaciones-de-blocus-en-espana.html",
+     "domain": "El País",
+     "seendate": "20261031T205552Z"
+    },
+    {
+     "title": "Renfe eleva sus condiciones de seguridad en la línea Madrid-Sevilla para evitar nuevos siniestros",
+     "url": "https://elpais.com/espana/2026-10-31/renfe-eleva-sus-condiciones-de-seguridad-en-la-linea-madrid-sevilla-para-evitar-nuevos-siniestros.html",
+     "domain": "El País",
+     "seendate": "20261031T204713Z"
+    },
+    {
      "title": "La operación policial contra Blocus acumula dos encarcelados y un menor detenido en Valencia",
      "url": "https://elpais.com/espana/comunidad-valenciana/2026-10-31/prision-provisional-sin-fianza-para-el-supuesto-fundador-e-impulsor-de-blocus-espana.html",
      "domain": "El País",
-     "seendate": "20261031T202541Z"
+     "seendate": "20261031T202849Z"
     },
     {
      "title": "Miles de personas recorren en silencio las calles blindadas de Valencia por el segundo año de la dana",
      "url": "https://elpais.com/espana/comunidad-valenciana/2026-10-31/miles-de-personas-recorren-en-silencio-las-calles-blindadas-de-valencia-por-el-segundo-ano-de-la-dana.html",
      "domain": "El País",
      "seendate": "20261031T201900Z"
-    },
-    {
-     "title": "Última hora de las manifestaciones de Blocus en España, en directo | Madrid, Barcelona, Valencia, San Sebastián y otras ciudades, se blindan ante posibles disturbios",
-     "url": "https://elpais.com/espana/2026-10-31/ultima-hora-de-las-manifestaciones-de-blocus-en-espana.html",
-     "domain": "El País",
-     "seendate": "20261031T201045Z"
     },
     {
      "title": "El despliegue policial por Blocus acumula un millar de identificados en Barcelona",
@@ -56,12 +62,6 @@
      "url": "https://elpais.com/espana/2026-10-31/una-cadena-de-fallos-tecnicos-tumbo-el-sistema-de-seguridad-ferroviaria-lzb-en-urda.html",
      "domain": "El País",
      "seendate": "20261031T115936Z"
-    },
-    {
-     "title": "Una caída cada dos días: la penuria del sistema de seguridad que dejó de funcionar antes del accidente de Urda",
-     "url": "https://elpais.com/espana/2026-10-31/radiografia-del-sistema-de-seguridad-que-dejo-de-funcionar-antes-del-accidente-de-urda-casi-una-caida-cada-dos-dias.html",
-     "domain": "El País",
-     "seendate": "20261031T043001Z"
     },
     {
      "title": "Un símbolo lorquiano, en el depósito de la grúa municipal de Madrid",
@@ -133,6 +133,18 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Fiscalía de Jalisco investiga presunta apología del delito en concierto de Clave Especial; interrumpen show por \"El Toro Encartado\"",
+     "url": "https://www.eluniversal.com.mx/estados/fiscalia-de-jalisco-investiga-presunta-apologia-del-delito-en-concierto-de-clave-especial-interrumpen-show-por-el-toro-encartado/",
+     "domain": "El Universal",
+     "seendate": "20261031T205336Z"
+    },
+    {
+     "title": "Adulto mayor muere en hospital del IMSS en Mexicali; CNDH señala negligencia médica",
+     "url": "https://www.eluniversal.com.mx/nacion/adulto-mayor-muere-en-hospital-del-imss-en-mexicali-cndh-senala-negligencia-medica/",
+     "domain": "El Universal",
+     "seendate": "20261031T202937Z"
+    },
     {
      "title": "Instituto de Procesos Electorales promete transparencia en elecciones de Morelos 2027; atenderá revisiones y fiscalización",
      "url": "https://www.eluniversal.com.mx/estados/instituto-de-procesos-electorales-promete-transparencia-en-elecciones-de-morelos-2027-atendera-revisiones-y-fiscalizacion/",
@@ -676,6 +688,12 @@
   "CRI": {
    "articles": [
     {
+     "title": "Vehículo cae a precipicio de 150 metros en Acosta: una persona fue trasladada de urgencia a centro médico",
+     "url": "https://www.nacion.com/sucesos/vehiculo-cae-a-precipicio-de-150-metros-en-acosta/NIANJHCKCBAKRMESTFGREKC4WI/story/",
+     "domain": "La Nación",
+     "seendate": "20261031T203424Z"
+    },
+    {
      "title": "Emergencia en Mora: hombre fue arrastrado por la fuerza del agua en Desamparaditos",
      "url": "https://www.nacion.com/sucesos/emergencia-en-mora-hombre-fue-arrastrado-por-la/DHMAFYUDM5CQDLMDL4LKYNR4DU/story/",
      "domain": "La Nación",
@@ -830,18 +848,6 @@
      "url": "https://www.nacion.com/politica/frente-amplio-denuncia-ante-el-tse-alquiler-de-bmw/UEIY5DC6CBCTZDGWAW7IBHOEP4/story/",
      "domain": "La Nación",
      "seendate": "20261030T210148Z"
-    },
-    {
-     "title": "Rosa Acón, aspirante a magistrada de Sala III: ‘Cuando hay errores graves deben sancionarse y no escudarse en la independencia judicial’",
-     "url": "https://www.nacion.com/politica/rosa-acon-aspirante-a-magistrada-de-sala-iii/HQUQVFLH5FDHFGZT5YVUTJSIYI/story/",
-     "domain": "La Nación",
-     "seendate": "20261030T193000Z"
-    },
-    {
-     "title": "José Miguel Villalobos revela cómo se pronunciará sobre reelección de dos magistrados que rechazaron levantar inmunidad a Rodrigo Chaves",
-     "url": "https://www.nacion.com/politica/jose-miguel-villalobos-revela-como-se-pronunciara/WWMSALN4DFF3HHDJ5HIJNAMNQQ/story/",
-     "domain": "La Nación",
-     "seendate": "20261030T185823Z"
     }
    ]
   },
@@ -930,12 +936,6 @@
      "url": "https://www.prensa.com/politica/la-repregunta-29-de-octubre-terremoto-contrataciones-publicas-y-presupuesto-2027/",
      "domain": "La Prensa",
      "seendate": "20261029T160645Z"
-    },
-    {
-     "title": "Maratónica sesión: tras más de 16 horas, el segundo debate del presupuesto se retoma este jueves",
-     "url": "https://www.prensa.com/politica/el-presupuesto-de-los-reclamos-diputados-piden-resultados-chapman-defiende-el-gasto/",
-     "domain": "La Prensa",
-     "seendate": "20261029T120000Z"
     },
     {
      "title": "Secuelas del terremoto: La grieta de Búcaro, el dilema de isla Cañas y el resurgir de La Colorada",
@@ -1048,12 +1048,6 @@
      "url": "https://www.14ymedio.com/cuba/telefonos-moviles-no-seguiran-instrucciones_1_1132615.html",
      "domain": "14ymedio",
      "seendate": "20261030T120843Z"
-    },
-    {
-     "title": "Se roban un panel solar de Etecsa en Sancti Spíritus y ponen en riesgo la conexión de varios barrios",
-     "url": "https://www.14ymedio.com/cuba/roban-panel-solar-etecsa-sancti_1_1132605.html",
-     "domain": "14ymedio",
-     "seendate": "20261029T220815Z"
     },
     {
      "title": "\"Si no tienes dinero te mueres de hambre\": la Cuba que encontró el ‘Wall Street Journal’",
@@ -1455,6 +1449,12 @@
   "ECU": {
    "articles": [
     {
+     "title": "Alexandro Tonello, exviceprefecto y candidato a prefecto de Pichincha por el correísmo, admite que sí es accionista de empresa que tuvo contratos con municipios",
+     "url": "https://eluniverso.com/politica/expedientes/alexandro-tonello-exviceprefecto-y-candidato-a-prefecto-de-pichincha-por-el-correismo-admite-que-si-es-accionista-de-empresa-que-tuvo-contratos-con-municipios-nota/",
+     "domain": "El Universo",
+     "seendate": "20261031T204500Z"
+    },
+    {
      "title": "Emergencia en Santa Cruz: Elecgalápagos trabaja para recuperar el servicio eléctrico en zona rural",
      "url": "https://eluniverso.com/comunidad/ecuador/emergencia-en-santa-cruz-elecgalapagos-trabaja-para-recuperar-el-servicio-electrico-en-zona-rural-nota/",
      "domain": "El Universo",
@@ -1515,14 +1515,14 @@
      "seendate": "20261031T171343Z"
     },
     {
-     "title": "Cuándo empieza el toque de queda en Ecuador: Estas son las provincias donde rige",
-     "url": "https://eluniverso.com/politica/seguridad/cuando-empieza-el-toque-de-queda-en-ecuador-estas-son-las-provincias-donde-rige-nota/",
+     "title": "Cuándo empieza el toque de queda en Guayas, Esmeraldas, Manabí, Los Ríos y El Oro",
+     "url": "https://eluniverso.com/politica/seguridad/cuando-empieza-el-toque-de-queda-en-guayas-esmeraldas-manabi-los-rios-y-el-oro-nota/",
      "domain": "El Universo",
      "seendate": "20261031T170000Z"
     },
     {
-     "title": "Cuándo empieza el toque de queda en Guayas, Esmeraldas, Manabí, Los Ríos y El Oro",
-     "url": "https://eluniverso.com/politica/seguridad/cuando-empieza-el-toque-de-queda-en-guayas-esmeraldas-manabi-los-rios-y-el-oro-nota/",
+     "title": "Cuándo empieza el toque de queda en Ecuador: Estas son las provincias donde rige",
+     "url": "https://eluniverso.com/politica/seguridad/cuando-empieza-el-toque-de-queda-en-ecuador-estas-son-las-provincias-donde-rige-nota/",
      "domain": "El Universo",
      "seendate": "20261031T170000Z"
     },
@@ -1579,12 +1579,6 @@
      "url": "https://eluniverso.com/comunidad/ecuador/santa-cruz-en-emergencia-intensa-lluvia-inunda-barrios-y-obliga-a-evacuar-viviendas-de-isla-mas-poblada-de-galapagos-nota/",
      "domain": "El Universo",
      "seendate": "20261031T111447Z"
-    },
-    {
-     "title": "A qué hora empieza el toque de queda hoy en Guayaquil: Horarios y provincias donde rige",
-     "url": "https://eluniverso.com/politica/seguridad/a-que-hora-empieza-el-toque-de-queda-hoy-en-guayaquil-horarios-y-provincias-donde-rige-nota/",
-     "domain": "El Universo",
-     "seendate": "20261031T110000Z"
     },
     {
      "title": "Ecuador será sede de la COP18 de Biodiversidad en 2028",
@@ -1855,10 +1849,16 @@
   "ARG": {
    "articles": [
     {
+     "title": "Perdió una pasarela clave: el proyecto para que Pampa Linda recupere conectividad tras la destructiva crecida del río Manso",
+     "url": "https://www.lanacion.com.ar/sociedad/perdio-una-pasarela-clave-el-proyecto-para-que-pampa-linda-recupere-conectividad-tras-la-destructiva-nid31102026/",
+     "domain": "La Nación",
+     "seendate": "20261031T205707Z"
+    },
+    {
      "title": "Un diputado opositor solicitó a la AGN una auditoría integral de la privatización de AySA antes de que pase a manos privadas",
      "url": "https://www.lanacion.com.ar/economia/un-diputado-opositor-solicito-a-la-agn-una-auditoria-integral-de-la-privatizacion-de-aysa-antes-de-nid31102026/",
      "domain": "La Nación",
-     "seendate": "20261031T202204Z"
+     "seendate": "20261031T202601Z"
     },
     {
      "title": "El Gobierno designó a un nuevo subsecretario de Ciencia tras la polémica salida de Lencina con denuncias por “destrato”",
@@ -1907,36 +1907,6 @@
      "url": "https://www.lanacion.com.ar/economia/las-refinanciaciones-de-deuda-en-el-banco-nacion-se-redujeron-un-554-en-octubre-nid31102026/",
      "domain": "La Nación",
      "seendate": "20261031T155338Z"
-    },
-    {
-     "title": "Elecciones en Estados Unidos: qué espera Wall Street y en qué Cedears invertir antes de los comicios de medio término",
-     "url": "https://www.lanacion.com.ar/economia/elecciones-en-estados-unidos-que-espera-wall-street-y-en-que-cedears-invertir-antes-de-los-comicios-nid31102026/",
-     "domain": "La Nación",
-     "seendate": "20261031T145205Z"
-    },
-    {
-     "title": "Santos Vega: el mítico payador que enfrentó al diablo",
-     "url": "https://www.lanacion.com.ar/economia/campo/santos-vega-el-mitico-payador-admirado-por-escritores-y-gauchos-que-enfrento-al-diablo-nid31102026/",
-     "domain": "La Nación",
-     "seendate": "20261031T145122Z"
-    },
-    {
-     "title": "El Niño no tendrá un desarrollo parejo en todo el país",
-     "url": "https://www.lanacion.com.ar/economia/campo/el-nino-no-tendra-un-desarrollo-parejo-en-todo-el-territorio-nid31102026/",
-     "domain": "La Nación",
-     "seendate": "20261031T144608Z"
-    },
-    {
-     "title": "Un tesoro de 150 años: restaurarán una emblemática iglesia de Barracas construida en memoria de una joven asesinada",
-     "url": "https://www.lanacion.com.ar/sociedad/tras-anos-de-reclamos-restauraran-la-iglesia-santa-felicitas-uno-de-los-tesoros-historicos-de-nid31102026/",
-     "domain": "La Nación",
-     "seendate": "20261031T144555Z"
-    },
-    {
-     "title": "Video: un conductor atropelló a un hombre en silla de ruedas en La Plata",
-     "url": "https://www.lanacion.com.ar/sociedad/video-un-conductor-atropello-a-un-hombre-en-silla-de-ruedas-en-la-plata-nid31102026/",
-     "domain": "La Nación",
-     "seendate": "20261031T143538Z"
     }
    ]
   },
@@ -2113,12 +2083,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/10/31/caso-guillermo-moral-acusan-a-quienes-habrian-enviado-pagos-a-sicarios-de-militar/",
      "domain": "ABC Color",
      "seendate": "20261031T164725Z"
-    },
-    {
-     "title": "Día de los Fieles Difuntos: Las dos caras del Cementerio de la Recoleta, entre el maquillaje y los ataúdes expuestos",
-     "url": "https://www.abc.com.py/nacionales/2026/10/31/dia-de-los-fieles-difuntos-las-dos-caras-del-cementerio-de-la-recoleta-entre-el-maquillaje-y-los-ataudes-expuestos/",
-     "domain": "ABC Color",
-     "seendate": "20261031T163015Z"
     }
    ]
   },
