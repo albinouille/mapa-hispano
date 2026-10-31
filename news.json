@@ -1,13 +1,19 @@
 {
- "updated": "2026-10-31T18:04:17+00:00",
+ "updated": "2026-10-31T18:45:27+00:00",
  "countries": {
   "ESP": {
    "articles": [
     {
+     "title": "La operación policial contra Blocus acumula dos encarcelados en Valencia y un detenido en Barcelona",
+     "url": "https://elpais.com/espana/comunidad-valenciana/2026-10-31/prision-provisional-sin-fianza-para-el-supuesto-fundador-e-impulsor-de-blocus-espana.html",
+     "domain": "El País",
+     "seendate": "20261031T183809Z"
+    },
+    {
      "title": "Última hora de las manifestaciones de Blocus en España, en directo | Madrid, Barcelona, Valencia y San Sebastián, entre otras ciudades, se blindan ante posibles disturbios",
      "url": "https://elpais.com/espana/2026-10-31/ultima-hora-de-las-manifestaciones-de-blocus-en-espana.html",
      "domain": "El País",
-     "seendate": "20261031T174434Z"
+     "seendate": "20261031T182003Z"
     },
     {
      "title": "Los familiares recuerdan a las 234 víctimas de la dana: “La ausencia nos enseña el peso de la vida”",
@@ -32,12 +38,6 @@
      "url": "https://elpais.com/espana/2026-10-31/el-mensaje-del-papa-emociona-a-los-asistentes-al-funeral-por-las-victimas-del-accidente-ferroviario-de-urda.html",
      "domain": "El País",
      "seendate": "20261031T145210Z"
-    },
-    {
-     "title": "Prisión provisional sin fianza para el supuesto “fundador e impulsor” de ‘Blocus’ en España",
-     "url": "https://elpais.com/espana/comunidad-valenciana/2026-10-31/prision-provisional-sin-fianza-para-el-supuesto-fundador-e-impulsor-de-blocus-espana.html",
-     "domain": "El País",
-     "seendate": "20261031T134712Z"
     },
     {
      "title": "El guardia civil Salvador rescató a Almudena del vagón 1 del Iryo, el más afectado del accidente: “Solo había silencio”",
@@ -133,6 +133,24 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "FGR designa a Sol Salgado Ambros como fiscal especializada de Desaparición Forzada; destaca experiencia en búsqueda de personas",
+     "url": "https://www.eluniversal.com.mx/nacion/fgr-designa-a-sol-salgado-ambros-como-fiscal-especializada-de-desaparicion-forzada-destaca-experiencia-en-busqueda-de-personas/",
+     "domain": "El Universal",
+     "seendate": "20261031T182658Z"
+    },
+    {
+     "title": "Detienen a 246 motociclistas durante Mega Rodada del Terror 2026; incurrieron en diversas faltas",
+     "url": "https://www.eluniversal.com.mx/metropoli/detienen-a-246-motociclistas-durante-mega-rodada-del-terror-2026-incurrieron-en-diversas-faltas/",
+     "domain": "El Universal",
+     "seendate": "20261031T181651Z"
+    },
+    {
+     "title": "Gran Desfile de Día de Muertos 2026 en CDMX; sigue EN VIVO el recorrido con homenajes a Juan Gabriel y otras leyendas",
+     "url": "https://www.eluniversal.com.mx/metropoli/gran-desfile-de-dia-de-muertos-2026-en-cdmx-sigue-en-vivo-el-recorrido-con-homenajes-a-juan-gabriel-y-otras-leyendas/",
+     "domain": "El Universal",
+     "seendate": "20261031T180020Z"
+    },
     {
      "title": "ASF requiere al IEE Sonora contratos de licitaciones tras caso Taddei; Consejero Presidente descarta renunciar",
      "url": "https://www.eluniversal.com.mx/estados/asf-requiere-al-iee-sonora-contratos-de-licitaciones-tras-caso-taddei-consejero-presidente-descarta-renunciar/",
@@ -634,6 +652,24 @@
   "CRI": {
    "articles": [
     {
+     "title": "Accidente de tránsito en Circunvalación deja a un motociclista fallecido en Hatillo",
+     "url": "https://www.nacion.com/sucesos/accidente-de-transito-en-circunvalacion-deja-a-un/CN46RER3QREGXOO24Z57EFE5A4/story/",
+     "domain": "La Nación",
+     "seendate": "20261031T182753Z"
+    },
+    {
+     "title": "PLN convoca a sus alcaldes para organizar proceso municipal, pero menos de 10 llegan a la reunión",
+     "url": "https://www.nacion.com/politica/pln-convoca-a-sus-alcaldes-para-organizar-proceso/TDHNSKOJRFFIBJIRSDAAMH37JI/story/",
+     "domain": "La Nación",
+     "seendate": "20261031T181602Z"
+    },
+    {
+     "title": "Redondel con terneros en colegio de Guanacaste dejó una estudiante herida y operó sin permisos, confirma MEP",
+     "url": "https://www.nacion.com/el-pais/redondel-con-terneros-en-colegio-de-guanacaste/Z2RICJTWP5AXJCNNHVBOM65SWI/story/",
+     "domain": "La Nación",
+     "seendate": "20261031T175947Z"
+    },
+    {
      "title": "Cruz Roja cumple ocho días de búsqueda de persona desaparecida en playa Palo Seco, Parrita",
      "url": "https://www.nacion.com/sucesos/cruz-roja-cumple-ocho-dias-de-busqueda-de-persona/MR3H2DKTU5BFPGPMBMMHNFBZ7M/story/",
      "domain": "La Nación",
@@ -770,6 +806,12 @@
   "PAN": {
    "articles": [
     {
+     "title": "Municipios, deporte y jubilados: la Asamblea aprobó 11 proyectos en una jornada a contrarreloj",
+     "url": "https://www.prensa.com/politica/municipios-deporte-y-jubilados-la-asamblea-aprobo-11-proyectos-en-una-jornada-a-contrarreloj/",
+     "domain": "La Prensa",
+     "seendate": "20261031T183206Z"
+    },
+    {
      "title": "Temblor de magnitud 5.9 sacude Panamá; usuarios reportaron que Google alertó segundos antes",
      "url": "https://www.prensa.com/sociedad/sismo-de-magnitud-61-sacude-panama-usuarios-reportaron-que-google-alerto-segundos-antes/",
      "domain": "La Prensa",
@@ -882,6 +924,18 @@
   "CUB": {
    "articles": [
     {
+     "title": "La fiebre del agua lleva a los vecinos de Las Tunas a excavar unos 5.000 pozos artesanos",
+     "url": "https://www.14ymedio.com/cuba/fiebre-agua-lleva-vecinos-tunas_1_1132687.html",
+     "domain": "14ymedio",
+     "seendate": "20261031T183225Z"
+    },
+    {
+     "title": "La entrega por Hapag-Lloyd de kits solares a cafetaleros desmiente las denuncias del régimen sobre el bloqueo",
+     "url": "https://www.14ymedio.com/cuba/entrega-hapag-lloyd-kits-solares_1_1132682.html",
+     "domain": "14ymedio",
+     "seendate": "20261031T181416Z"
+    },
+    {
      "title": "Trump ya no tiene tanta prisa para acabar con el régimen cubano: \"dos años y medio o menos\"",
      "url": "https://www.14ymedio.com/cuba/trump-no-prisa-acabar-regimen_1_1132680.html",
      "domain": "14ymedio",
@@ -898,12 +952,6 @@
      "url": "https://www.14ymedio.com/cuba/migracion/condenados-florida-seis-traficantes-cobraban_1_1132674.html",
      "domain": "14ymedio",
      "seendate": "20261031T145028Z"
-    },
-    {
-     "title": "\"Evite disgustos\", la guerra contra los billetes pequeños en Cuba",
-     "url": "https://www.14ymedio.com/cuba/evite-disgustos-guerra-billetes-pequenos_1_1132675.html",
-     "domain": "14ymedio",
-     "seendate": "20261031T144009Z"
     },
     {
      "title": "La Cumbre, un barrio de Matanzas donde las calles se quedaron en el siglo pasado",
@@ -1365,6 +1413,12 @@
   "ECU": {
    "articles": [
     {
+     "title": "Emergencia en Santa Cruz: dos alojamientos temporales se instalan con capacidad para 500 personas",
+     "url": "https://eluniverso.com/comunidad/ecuador/emergencia-en-santa-cruz-dos-alojamientos-temporales-se-instalan-con-capacidad-para-500-personas-nota/",
+     "domain": "El Universo",
+     "seendate": "20261031T181752Z"
+    },
+    {
      "title": "Feriado en el norte del país: agenda conecta la producción, la gastronomía y el turismo",
      "url": "https://eluniverso.com/comunidad/ecuador/feriado-en-el-norte-del-pais-agenda-conecta-a-la-produccion-la-gastronomia-y-el-turismo-nota/",
      "domain": "El Universo",
@@ -1467,36 +1521,6 @@
      "seendate": "20261031T023133Z"
     },
     {
-     "title": "CNE realizará 45 debates obligatorios para las elecciones seccionales: estas son las fechas",
-     "url": "https://eluniverso.com/politica/elecciones/cne-realizara-45-debates-obligatorios-para-las-elecciones-seccionales-estas-son-las-fechas-nota/",
-     "domain": "El Universo",
-     "seendate": "20261031T010332Z"
-    },
-    {
-     "title": "Salinas amplía su capacidad de almacenamiento de agua potable con inversión de $ 1,39 millones",
-     "url": "https://eluniverso.com/politica/ejecutivo/salinas-amplia-su-capacidad-de-almacenamiento-de-agua-potable-con-inversion-de-139-millones-nota/",
-     "domain": "El Universo",
-     "seendate": "20261031T004210Z"
-    },
-    {
-     "title": "MIT trabaja en la prevención ante el fenómeno de El Niño en Monte Sinaí",
-     "url": "https://eluniverso.com/comunidad/ecuador/mit-trabaja-en-la-prevencion-ante-el-fenomeno-de-el-nino-en-monte-sinai-nota/",
-     "domain": "El Universo",
-     "seendate": "20261031T003519Z"
-    },
-    {
-     "title": "Allanan vivienda del alcalde de Playas en medio de una investigación por presunto peculado",
-     "url": "https://eluniverso.com/politica/seguridad/allanan-vivienda-del-alcalde-de-playas-en-medio-de-una-investigacion-por-presunto-peculado-nota/",
-     "domain": "El Universo",
-     "seendate": "20261030T202543Z"
-    },
-    {
-     "title": "Operativo Spondylus: Cuerpo de Bomberos de Santa Elena bajo investigación por presunta comercialización ilegal de hidrocarburos",
-     "url": "https://eluniverso.com/politica/seguridad/operativo-spondylus-cuerpo-de-bomberos-de-santa-elena-bajo-investigacion-por-presunta-comercializacion-ilegal-de-hidrocarburos-nota/",
-     "domain": "El Universo",
-     "seendate": "20261030T143602Z"
-    },
-    {
      "title": "Tonello Soluciones, empresa de Alexandro Tonello, exviceprefecto de Pichincha y aspirante del correísmo, se habría adjudicado más de $ 10,5 millones en contratos incumpliendo la Ley de Contratación Pública",
      "url": "https://eluniverso.com/politica/expedientes/ley-de-contratacion-publica-prohibe-a-autoridades-tener-contratos-con-el-estado-alexandro-tonello-exviceprefecto-de-pichincha-y-aspirante-del-correismo-la-habria-incumplido-nota/",
      "domain": "El Universo",
@@ -1519,16 +1543,16 @@
   "PER": {
    "articles": [
     {
+     "title": "Lluvias en el norte del Perú hoy EN VIVO: Piura, Tumbes y Lambayeque en alerta por precipitaciones",
+     "url": "https://elcomercio.pe/peru/lluvias-en-peru-en-vivo-el-nino-pronostico-de-senamhi-lluvias-temperatura-y-regiones-en-alerta-en-todo-el-pais-lbposting-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261031T181113Z"
+    },
+    {
      "title": "Último temblor hoy, sábado 31 de octubre: IGP reportó magnitud y epicentro del reciente sismo",
      "url": "https://elcomercio.pe/peru/ultimo-temblor-hoy-en-vivo-sismo-en-peru-epicentro-y-magnitud-reportes-del-igp-tdpe-noticia/",
      "domain": "El Comercio",
      "seendate": "20261031T171914Z"
-    },
-    {
-     "title": "Lluvias en el norte del Perú hoy EN VIVO: Piura, Tumbes y Lambayeque en alerta por precipitaciones",
-     "url": "https://elcomercio.pe/peru/lluvias-en-peru-en-vivo-el-nino-pronostico-de-senamhi-lluvias-temperatura-y-regiones-en-alerta-en-todo-el-pais-lbposting-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261031T164226Z"
     },
     {
      "title": "Enfen prevé que El Niño Costero mantenga magnitud extraordinaria hasta febrero de 2027",
@@ -1771,185 +1795,23 @@
      "url": "https://www.latercera.com/politica/noticia/del-cruce-entre-larrain-y-squella-a-las-disculpas-a-la-udi-la-disputa-que-remecio-al-oficialismo-por-la-rebaja-de-condenas/",
      "domain": "latercera.com",
      "seendate": "20261024T210000Z"
-    },
-    {
-     "title": "INACH PONE EN MARCHA SISTEMA AUTOMATIZADO PARA MONITOREAR AGUAS ANTÁRTICAS",
-     "url": "https://www.radiopolar.com/inach-pone-marcha-sistema-automatizado-monitorear-aguas-antarticas",
-     "domain": "radiopolar.com",
-     "seendate": "20261024T180000Z"
-    },
-    {
-     "title": "Producción de lácteos exhibe balance positivo a agosto con crecimiento en quesos , leche fluida y leche en polvo",
-     "url": "https://www.diariofutrono.cl/noticia/diario-lechero/2026/10/produccion-de-lacteos-exhibe-balance-positivo-a-agosto-con-crecimiento-en-quesos-leche-fluida-y-leche-en-polvo",
-     "domain": "diariofutrono.cl",
-     "seendate": "20261024T180000Z"
-    },
-    {
-     "title": "Santo Tomás Valdivia realizó seminario sobre IA y Ciberseguridad",
-     "url": "https://www.diariofutrono.cl/noticia/educacion/2026/10/santo-tomas-valdivia-realizo-seminario-sobre-ia-y-ciberseguridad",
-     "domain": "diariofutrono.cl",
-     "seendate": "20261024T180000Z"
-    },
-    {
-     "title": "Mario Velasco y su sincera revelación acerca de la paternidad : Me tocó criar a mi hija desde los 6 a los 12 años",
-     "url": "https://www.13.cl/programas/alfombra-roja/capitulos/mario-velasco-y-su-sincera-revelacion-acerca-de-la-paternidad-me",
-     "domain": "13.cl",
-     "seendate": "20261024T171500Z"
-    },
-    {
-     "title": "Duro golpe a Arturo Vidal : filtran propuesta para que renueve en Colo Colo , pero con importante reducción de sueldo",
-     "url": "https://www.lacuarta.com/deportes/noticia/duro-golpe-a-arturo-vidal-filtran-propuesta-para-que-renueve-en-colo-colo-pero-con-importante-reduccion-de-sueldo/",
-     "domain": "lacuarta.com",
-     "seendate": "20261024T171500Z"
-    },
-    {
-     "title": "En el último capítulo de Siempre hay un chileno : Marcelo Kiwi descubrió toda la belleza de Florencia",
-     "url": "https://www.13.cl/programas/siempre-hay-un-chileno/momentos/en-el-ultimo-capitulo-de-siempre-hay-un-chileno-marcelo",
-     "domain": "13.cl",
-     "seendate": "20261024T171500Z"
-    },
-    {
-     "title": "Chasquis . cl",
-     "url": "http://www.chasquis.cl/diario/page.php?id=24387",
-     "domain": "chasquis.cl",
-     "seendate": "20261024T171500Z"
-    },
-    {
-     "title": "Colo Colo está en la cima y quiere mantenerse así al enfrentar a Palestino",
-     "url": "https://www.elrancaguino.cl/2026/10/24/palestino-vs-colo-colo-previa-horario-y-como-llegan-para-la-fecha-25-del-campeonato-chileno/",
-     "domain": "elrancaguino.cl",
-     "seendate": "20261024T171500Z"
-    },
-    {
-     "title": "Deportes Limache se enfrentará a U . Concepción por la fecha 25",
-     "url": "https://www.elrancaguino.cl/2026/10/24/u-concepcion-vs-deportes-limache-previa-horario-y-como-llegan-para-la-fecha-25-del-campeonato-chileno/",
-     "domain": "elrancaguino.cl",
-     "seendate": "20261024T171500Z"
-    },
-    {
-     "title": "AFP ante la Fiscalía : investigan pérdidas millonarias de fondos previsionales",
-     "url": "https://www.elclarin.cl/2026/10/24/denuncia-afp-fiscalia-perdidas-fondos-previsionales/",
-     "domain": "elclarin.cl",
-     "seendate": "20261024T154500Z"
-    },
-    {
-     "title": "Escándalo en Primera B : ANFP no entregará copa de campeón",
-     "url": "https://www.elperiscopio.cl/destacado-1/escandalo-primera-b-anfp-no-entregara-copa-campeon-san-luis-escritorio/",
-     "domain": "elperiscopio.cl",
-     "seendate": "20261024T154500Z"
-    },
-    {
-     "title": "Rabat y las rebajas de condenas : las decisiones que el Gobierno no explica",
-     "url": "https://www.elclarin.cl/2026/10/24/rabat-rebajas-condenas-punta-peuco-gobierno-kast/",
-     "domain": "elclarin.cl",
-     "seendate": "20261024T154500Z"
-    },
-    {
-     "title": "Boric dedica emotivo mensaje a Lula y manifiesta su apoyo este domingo",
-     "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/10/24/ese-viejo-lindo-boric-dedica-emotivo-mensaje-a-lula-y-manifiesta-su-apoyo-a-horas-de-las-elecciones.shtml",
-     "domain": "biobiochile.cl",
-     "seendate": "20261024T153000Z"
-    },
-    {
-     "title": "Detención por ofensas a policías : una ley mordaza para la protesta y la prensa",
-     "url": "https://www.ciperchile.cl/2026/10/24/detencion-por-ofensas-a-policias-una-ley-mordaza-para-la-protesta-y-la-prensa/",
-     "domain": "ciperchile.cl",
-     "seendate": "20261024T153000Z"
-    },
-    {
-     "title": "Presidente Kast sostiene llamada telefónica con primer ministro británico y diálogo deriva en Malvinas",
-     "url": "https://www.latercera.com/politica/noticia/presidente-kast-sostiene-llamada-telefonica-con-primer-ministro-britanico-y-dialogo-deriva-en-malvinas/",
-     "domain": "latercera.com",
-     "seendate": "20261024T151500Z"
-    },
-    {
-     "title": "Municipalidad de Santiago ofrecerá 500 empleos en seguridad con rentas cercanas a $1 . 1 millones",
-     "url": "https://www.latercera.com/nacional/noticia/municipalidad-de-santiago-ofrecera-500-empleos-en-seguridad-con-rentas-cercanas-a-11-millones/",
-     "domain": "latercera.com",
-     "seendate": "20261024T151500Z"
-    },
-    {
-     "title": "Conforman primer Consejo de Gestión del Parque Nacional Kawésqar con participación de 16 comunidades",
-     "url": "https://www.latercera.com/nacional/noticia/conforman-primer-consejo-de-gestion-del-parque-nacional-kawesqar-con-participacion-de-16-comunidades/",
-     "domain": "latercera.com",
-     "seendate": "20261024T151500Z"
-    },
-    {
-     "title": "Lula es humanidad : El sentido mensaje de Gabriel Boric ad portas de segunda vuelta en Brasil",
-     "url": "https://www.chilevision.cl/noticias/nacional/lula-es-humanidad-el-sentido-mensaje-de-gabriel-boric-ad-portas-de-segunda-vuelta-en-brasil/",
-     "domain": "chilevision.cl",
-     "seendate": "20261024T150000Z"
-    },
-    {
-     "title": "Dicom : cómo salir del registro si ya pagaste tus deudas",
-     "url": "https://www.elmostrador.cl/datos-utiles/2026/10/24/dicom-pese-a-pagar-las-deudas-como-salir-del-registro-y-que-hacer-si-te-rechazan-un-credito/",
-     "domain": "elmostrador.cl",
-     "seendate": "20261024T141500Z"
-    },
-    {
-     "title": "Servicio Militar 2027 : cómo excusarte y evitar sanciones",
-     "url": "https://www.elmostrador.cl/datos-utiles/2026/10/24/servicio-militar-2027-como-excusarte-y-que-pasa-si-no-te-presentas/",
-     "domain": "elmostrador.cl",
-     "seendate": "20261024T141500Z"
-    },
-    {
-     "title": "Tras dichos de exmilitar argentino autoridades piden que la soberanía se materialice en obras para Puerto Williams",
-     "url": "https://laprensaaustral.cl/2026/10/24/tras-dichos-de-exmilitar-argentino-autoridades-piden-que-la-soberania-se-materialice-en-obras-para-puerto-williams/",
-     "domain": "laprensaaustral.cl",
-     "seendate": "20261024T141500Z"
-    },
-    {
-     "title": "Santiago abre feria laboral de 500 vacantes para guardias con sueldo de más de un millón : requisitos y cómo postular",
-     "url": "https://www.t13.cl/noticia/te-puede-servir/municipalidad-santiago-abre-feria-laboral-500-vacantes-para-guardias-24-10-2026",
-     "domain": "t13.cl",
-     "seendate": "20261024T141500Z"
-    },
-    {
-     "title": "Informe de EE . UU . volvió a incluir la acuicultura entre los sectores de Chile donde se detecta trabajo forzoso",
-     "url": "https://laprensaaustral.cl/2026/10/24/informe-de-ee-uu-volvio-a-incluir-la-acuicultura-entre-los-sectores-de-chile-donde-se-detecta-trabajo-forzoso/",
-     "domain": "laprensaaustral.cl",
-     "seendate": "20261024T141500Z"
-    },
-    {
-     "title": "[ Lo+Leído ] Boliviano condenado por corrupción se suma a Legión extranjera de Cancillería",
-     "url": "https://www.elmostrador.cl/noticias/pais/2026/10/24/loleido-boliviano-condenado-por-corrupcion-se-suma-a-legion-extranjera-de-cancilleria/",
-     "domain": "elmostrador.cl",
-     "seendate": "20261024T141500Z"
-    },
-    {
-     "title": "Un permiso no es un derecho : el Danstar y el Decreto 256 / 2010 | Opinión",
-     "url": "https://www.biobiochile.cl/noticias/opinion/columnas-bbcl/2026/10/24/un-permiso-no-es-un-derecho-el-danstar-y-el-decreto-256-2010.shtml",
-     "domain": "biobiochile.cl",
-     "seendate": "20261024T133000Z"
-    },
-    {
-     "title": "Carreras técnicas y oficios ganan terreno entre jóvenes",
-     "url": "https://www.theclinic.cl/2026/10/24/hay-una-redefinicion-de-lo-que-significa-el-exito-en-la-vida-la-generacion-que-cambio-el-sueno-universitario-por-el-orgullo-de-tener-un-oficio-tecnico/",
-     "domain": "theclinic.cl",
-     "seendate": "20261024T123000Z"
-    },
-    {
-     "title": "Adriano Custodio Méndes : la historia del primer jugador de Cabo Verde que pasó por Chile",
-     "url": "https://www.lacuarta.com/deportes/noticia/adriano-custodio-mendes-la-historia-del-primer-jugador-de-cabo-verde-que-paso-por-chile/",
-     "domain": "lacuarta.com",
-     "seendate": "20261024T123000Z"
-    },
-    {
-     "title": "Newsletter Poder : Oficialismo apunta a talibanes del Segundo Piso",
-     "url": "https://www.theclinic.cl/2026/10/24/newsletter-poder-oficialismo-apunta-a-talibanes-del-segundo-piso/",
-     "domain": "theclinic.cl",
-     "seendate": "20261024T123000Z"
-    },
-    {
-     "title": "La historia desconocida de Carmen Carcuro : sus hermanos , Rosario y Pedro , desentrañan la vida de militancia , exilio y tortura que reveló Lemebel en De pé a pá",
-     "url": "https://www.theclinic.cl/2026/10/24/la-historia-desconocida-de-carmen-carcuro-sus-hermanos-rosario-y-pedro-desentranan-la-vida-de-militancia-exilio-y-tortura-que-revelo-lemebel-en-de-pe-a-pa/",
-     "domain": "theclinic.cl",
-     "seendate": "20261024T123000Z"
     }
    ]
   },
   "ARG": {
    "articles": [
+    {
+     "title": "Creció rodeado de violencia, hoy se para en escenarios y ayuda a otros adolescentes a salir adelante",
+     "url": "https://www.lanacion.com.ar/sociedad/crecio-rodeado-de-violencia-hoy-se-para-en-escenarios-y-ayuda-a-otros-adolescentes-a-salir-adelante-nid31102026/",
+     "domain": "La Nación",
+     "seendate": "20261031T183000Z"
+    },
+    {
+     "title": "Los hermanos Passaglia hicieron su primer acto de campaña con una caminata en San Nicolás",
+     "url": "https://www.lanacion.com.ar/politica/los-hermanos-passaglia-hicieron-su-primer-acto-de-campana-con-una-caminata-en-san-nicolas-nid31102026/",
+     "domain": "La Nación",
+     "seendate": "20261031T181017Z"
+    },
     {
      "title": "A cuánto abre el dólar el lunes 2 de noviembre",
      "url": "https://www.lanacion.com.ar/economia/dolar/a-cuanto-abre-el-dolar-el-lunes-2-de-noviembre-nid31102026/",
@@ -2075,18 +1937,6 @@
      "url": "https://www.lanacion.com.ar/economia/la-demanda-de-dolares-sigue-elevada-los-argentinos-compraron-us3410-millones-en-septiembre-nid30102026/",
      "domain": "La Nación",
      "seendate": "20261031T132627Z"
-    },
-    {
-     "title": "“El que viene vuelve”: el pueblo de 500 habitantes en la costa que compite por ser uno de los mejores destinos del mundo",
-     "url": "https://www.lanacion.com.ar/sociedad/el-que-viene-vuelve-el-pueblo-de-500-habitantes-en-la-costa-que-compite-por-ser-uno-de-los-mejores-nid31102026/",
-     "domain": "La Nación",
-     "seendate": "20261031T130000Z"
-    },
-    {
-     "title": "Chicharrita y cogollero: monitorear en el lote para no decidir desde el miedo",
-     "url": "https://www.lanacion.com.ar/economia/campo/agricultura/chicharrita-y-cogollero-monitorear-en-el-lote-para-no-decidir-desde-el-miedo-nid31102026/",
-     "domain": "La Nación",
-     "seendate": "20261031T120000Z"
     }
    ]
   },
@@ -2229,6 +2079,12 @@
   "PRY": {
    "articles": [
     {
+     "title": "Festival de Ajos vuelve con una extensa cartelera artística y entrada solidaria en Coronel Oviedo",
+     "url": "https://www.abc.com.py/nacionales/2026/10/31/festival-de-ajos-vuelve-con-una-extensa-cartelera-artistica-y-entrada-solidaria-en-coronel-oviedo/",
+     "domain": "ABC Color",
+     "seendate": "20261031T175540Z"
+    },
+    {
      "title": "Anuncian construcción de planta de agua potable en el Bañado Sur",
      "url": "https://www.abc.com.py/nacionales/2026/10/31/anuncian-construccion-de-planta-de-agua-potable-en-el-banado-sur/",
      "domain": "ABC Color",
@@ -2272,6 +2128,30 @@
   "BRA": {
    "articles": [
     {
+     "title": "Governo Trump não pretende apoiar Flávio Bolsonaro como líder brasileiro, diz agência",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/31/governo-trump-nao-pretende-apoiar-flavio-bolsonaro-como-lider-brasileiro-diz-agencia.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261031T183017Z"
+    },
+    {
+     "title": "PM de SP apreende arsenal no Guarujá com fuzil, submetralhadora, espingardas, drones e explosivos",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/31/pm-de-sp-apreende-arsenal-no-guaruja-com-fuzil-submetralhadora-espingardas-drones-e-explosivos.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261031T181549Z"
+    },
+    {
+     "title": "João Campos é considerado nome certo em ministério no quarto mandato de Lula",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/10/31/joao-campos-e-considerado-nome-certo-em-ministerio-no-quarto-mandato-de-lula.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261031T175929Z"
+    },
+    {
+     "title": "Golpe da CNH usa ameaça de suspensão da carteira para atrair vítimas; veja como identificar mensagens falsas",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/31/golpe-da-cnh-usa-ameaca-de-suspensao-da-carteira-para-atrair-vitimas-veja-como-identificar-mensagens-falsas.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261031T173912Z"
+    },
+    {
      "title": "Jornalista de 36 anos morre após quase dois meses internado por AVC hemorrágico em São Paulo",
      "url": "https://oglobo.globo.com/brasil/noticia/2026/10/31/jornalista-de-36-anos-morre-apos-quase-dois-meses-internado-por-avc-hemorragico-em-sao-paulo.ghtml",
      "domain": "O Globo",
@@ -2294,12 +2174,6 @@
      "url": "https://oglobo.globo.com/brasil/noticia/2026/10/31/galeria-no-terreo-do-martinelli-abre-ao-publico-com-mostra-de-cildo-meireles-e-mais-de-90-artistas-para-leilao.ghtml",
      "domain": "O Globo",
      "seendate": "20261031T101825Z"
-    },
-    {
-     "title": "Fernando de Noronha: saiba qual é a espécie invasora que ameaça o arquipélago e teve 312 exemplares capturados em um único dia",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/31/fernando-de-noronha-saiba-qual-e-a-especie-invasora-que-ameaca-o-arquipelago-e-teve-312-exemplares-capturados-em-um-unico-dia.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261031T070000Z"
     }
    ]
   }
