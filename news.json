@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T13:25:54+00:00",
+ "updated": "2026-10-31T14:11:32+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -7,7 +7,25 @@
      "title": "Accidente de trenes en Toledo: última hora y reacciones en directo | Urda celebra una misa funeral para despedir a las víctimas de la tragedia",
      "url": "https://elpais.com/espana/2026-10-31/ultima-hora-y-reacciones-tras-el-accidente-de-trenes-de-urda-toledo-en-directo.html",
      "domain": "El País",
-     "seendate": "20261031T130939Z"
+     "seendate": "20261031T140107Z"
+    },
+    {
+     "title": "Prisión provisional sin fianza para el supuesto “fundador e impulsor” de ‘Blocus’ en España",
+     "url": "https://elpais.com/espana/comunidad-valenciana/2026-10-31/prision-provisional-sin-fianza-para-el-supuesto-fundador-e-impulsor-de-blocus-espana.html",
+     "domain": "El País",
+     "seendate": "20261031T134712Z"
+    },
+    {
+     "title": "El guardia civil Salvador rescató a Almudena del vagón 1 del Iryo, el más afectado del accidente: “Solo había silencio”",
+     "url": "https://elpais.com/espana/2026-10-31/el-guardia-civil-salvador-rescato-a-almudena-del-vagon-1-del-iryo-el-mas-afectado-del-accidente-solo-habia-silencio.html",
+     "domain": "El País",
+     "seendate": "20261031T133720Z"
+    },
+    {
+     "title": "La justicia que no llega para Jesús, cuatro años después de su asesinato la noche de Halloween",
+     "url": "https://elpais.com/espana/andalucia/2026-10-31/la-justicia-que-no-llega-para-jesus-cuatro-anos-despues-de-su-asesinato-la-noche-de-halloween.html",
+     "domain": "El País",
+     "seendate": "20261031T131903Z"
     },
     {
      "title": "Una cadena de fallos técnicos tumbó el sistema de seguridad ferroviaria LZB en Urda",
@@ -18,12 +36,6 @@
     {
      "title": "Una caída cada dos días: la penuria del sistema de seguridad que dejó de funcionar antes del accidente de Urda",
      "url": "https://elpais.com/espana/2026-10-31/radiografia-del-sistema-de-seguridad-que-dejo-de-funcionar-antes-del-accidente-de-urda-casi-una-caida-cada-dos-dias.html",
-     "domain": "El País",
-     "seendate": "20261031T043001Z"
-    },
-    {
-     "title": "El arzobispo de Toledo sobre los desaparecidos del accidente de tren: “La esperanza no quita nada del dolor”",
-     "url": "https://elpais.com/espana/2026-10-31/el-arzobispo-de-toledo-sobre-los-desaparecidos-del-accidente-de-tren-la-esperanza-no-quita-nada-del-dolor.html",
      "domain": "El País",
      "seendate": "20261031T043001Z"
     },
@@ -74,12 +86,6 @@
      "url": "https://elpais.com/espana/2026-10-30/las-grandes-ciudades-y-los-comercios-se-blindan-ante-posibles-disturbios-por-las-movilizaciones-espontaneas-de-blocus.html",
      "domain": "El País",
      "seendate": "20261030T184732Z"
-    },
-    {
-     "title": "El Supremo estudiará si suspende también el voto de los hijos de los nacionalizados por la ‘ley de nietos’",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-10-30/el-supremo-estudiara-si-suspende-tambien-el-voto-de-los-hijos-de-los-nacionalizados-por-la-ley-de-nietos.html",
-     "domain": "El País",
-     "seendate": "20261030T150038Z"
     },
     {
      "title": "El Gobierno concede una nueva semilibertad a un preso de ETA, la sexta en menos de dos meses",
@@ -580,6 +586,24 @@
   "CRI": {
    "articles": [
     {
+     "title": "Corte de luz de la CNFL afectará una zona de San José este lunes 2 de noviembre",
+     "url": "https://www.nacion.com/el-pais/corte-de-luz-de-la-cnfl-afectara-una-zona-de-san/APFAHSWT6VDGNLI62MXDTOE7PA/story/",
+     "domain": "La Nación",
+     "seendate": "20261031T140300Z"
+    },
+    {
+     "title": "Tras archivo de armonización eléctrica, PPSO vota en contra toda propuesta del bloque democrático: ¿quién giró la instrucción a los oficialistas?",
+     "url": "https://www.nacion.com/politica/tras-archivo-de-armonizacion-electrica-ppso-vota/P7VAIQ44S5BXPAB547OZC4ACTQ/story/",
+     "domain": "La Nación",
+     "seendate": "20261031T133000Z"
+    },
+    {
+     "title": "Hace 50 años: gobierno puso fecha límite para la finalización de la huelga en Limón",
+     "url": "https://www.nacion.com/el-pais/hace-50-anos-gobierno-puso-fecha-limite-para-la/EEUTOI5SHRDATFDW7PMSGTMVGQ/story/",
+     "domain": "La Nación",
+     "seendate": "20261031T133000Z"
+    },
+    {
      "title": "IMN pronostica fuertes vientos de hasta 85 km/h y lluvias para este sábado: estas serán las zonas afectadas",
      "url": "https://www.nacion.com/sucesos/imn-pronostica-fuertes-vientos-de-hasta-85-kmh-y/IMT5C4ZYVFG5DFYCDOPZASNZFA/story/",
      "domain": "La Nación",
@@ -698,12 +722,6 @@
      "url": "https://www.nacion.com/sucesos/caso-riverside-tribunal-fijo-fecha-para-resolver/SSHDCJYUURGS3AIVX2X2JL3SUQ/story/",
      "domain": "La Nación",
      "seendate": "20261030T144514Z"
-    },
-    {
-     "title": "Hace 50 años: paralizados más de 5.000 trabajadores en Limón",
-     "url": "https://www.nacion.com/el-pais/hace-50-anos-paralizados-mas-de-5000-trabajadores/CEO3ZFFH3ZFL3B7VYCT2CJ6UVE/story/",
-     "domain": "La Nación",
-     "seendate": "20261030T133000Z"
     }
    ]
   },
@@ -806,12 +824,6 @@
      "seendate": "20261029T040000Z"
     },
     {
-     "title": "Desfiles patrios del 3 y 4 de noviembre: estas son las rutas en la ciudad de Panamá",
-     "url": "https://www.prensa.com/sociedad/estas-son-las-rutas-de-los-desfiles-patrios-del-3-y-4-de-noviembre-en-la-ciudad-de-panama/",
-     "domain": "La Prensa",
-     "seendate": "20261029T004500Z"
-    },
-    {
      "title": "Panamá respalda levantar embargo a Cuba, pero pide transición a la democracia",
      "url": "https://www.prensa.com/politica/panama-respalda-levantar-embargo-a-cuba-pero-pide-transicion-a-la-democracia/",
      "domain": "La Prensa",
@@ -900,12 +912,6 @@
      "seendate": "20261029T190654Z"
     },
     {
-     "title": "Rusia condena a cuatro migrantes cubanos por fugarse de prisión y expulsa a otros dos por falta de documentos",
-     "url": "https://www.14ymedio.com/cuba/migracion/rusia-condena-cuatro-migrantes-cubanos_1_1132588.html",
-     "domain": "14ymedio",
-     "seendate": "20261029T171444Z"
-    },
-    {
      "title": "Los petroleros cargados de diésel ruso podrían ir a Cuba en lugar de Estados Unidos",
      "url": "https://www.14ymedio.com/cuba/petroleros-cargados-diesel-ruso-cuba_1_1132575.html",
      "domain": "14ymedio",
@@ -918,28 +924,10 @@
      "seendate": "20261029T133630Z"
     },
     {
-     "title": "\"Freedom\", la palabra \"libertad\" brota en la fachada de la Embajada de EE UU en La Habana",
-     "url": "https://www.14ymedio.com/cuba/freedom-palabra-libertad-brota-fachada_1_1132543.html",
-     "domain": "14ymedio",
-     "seendate": "20261028T211821Z"
-    },
-    {
-     "title": "El régimen cubano pierde 35 apoyos en la ONU respecto a 2025",
-     "url": "https://www.14ymedio.com/cuba/regimen-cubano-pierde-35-apoyos_1_1132533.html",
-     "domain": "14ymedio",
-     "seendate": "20261028T163253Z"
-    },
-    {
      "title": "El muelle flotante de La Habana, una obra que nació moribunda y hoy es desmantelada a plena luz del día",
      "url": "https://www.14ymedio.com/cuba/muelle-flotante-habana-obra-nacio_1_1132528.html",
      "domain": "14ymedio",
      "seendate": "20261028T160618Z"
-    },
-    {
-     "title": "En la calle Monte, la basura tiene preferencia de paso",
-     "url": "https://www.14ymedio.com/cuba/calle-monte-basura-preferencia-paso_1_1132529.html",
-     "domain": "14ymedio",
-     "seendate": "20261028T160124Z"
     },
     {
      "title": "La magia de Harry Potter llega a La Habana con precios de hechicería",
@@ -954,6 +942,12 @@
   },
   "COL": {
    "articles": [
+    {
+     "title": "Explosión de motocicleta cargada con explosivos en peaje El Mango, sur del Cauca: es la segunda vez que atentado afecta este punto de vía Panamericana",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/explosion-de-una-motobomba-paraliza-el-transito-en-el-sur-del-cauca-3597668",
+     "domain": "El Tiempo",
+     "seendate": "20261031T133000Z"
+    },
     {
      "title": "Asesinan a Luis Francisco Ramírez, dragoneante del Inpec, cerca de la cárcel Villahermosa en Cali: esto se sabe del crimen",
      "url": "https://www.eltiempo.com/colombia/cali/asesinan-a-luis-francisco-ramirez-dragoneante-del-inpec-cerca-de-la-carcel-villahermosa-en-cali-esto-se-sabe-del-crimen-3597666",
@@ -1007,12 +1001,6 @@
      "url": "https://www.eltiempo.com/colombia/barranquilla/habilitan-primer-carril-del-deprimido-de-le-champ-gobernador-del-atlantico-asegura-que-esta-unidad-de-la-gran-via-estara-completa-en-3597619",
      "domain": "El Tiempo",
      "seendate": "20261031T000500Z"
-    },
-    {
-     "title": "Restricciones en Cúcuta por Halloween: la Alcaldía expidió un nuevo decreto que prohíbe las caravanas y fija un horario especial para motocicletas",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/restricciones-en-cucuta-por-halloween-la-alcaldia-expidio-un-nuevo-decreto-que-prohibe-las-caravanas-y-fija-un-horario-especial-para-motocicletas-3597523",
-     "domain": "El Tiempo",
-     "seendate": "20261030T232218Z"
     }
    ]
   },
@@ -1311,6 +1299,12 @@
   "ECU": {
    "articles": [
     {
+     "title": "Ecuador registra 14 desbordamientos de ríos y esteros este sábado, 31 de octubre",
+     "url": "https://eluniverso.com/comunidad/ecuador/ecuador-registra-14-desbordamientos-de-rios-y-esteros-este-sabado-31-de-octubre-nota/",
+     "domain": "El Universo",
+     "seendate": "20261031T134422Z"
+    },
+    {
      "title": "Aeropuerto de Baltra suspende operaciones durante cuatro horas por fuertes lluvias en Santa Cruz",
      "url": "https://eluniverso.com/comunidad/ecuador/aeropuerto-de-baltra-suspende-operaciones-durante-cuatro-horas-por-fuertes-lluvias-en-santa-cruz-nota/",
      "domain": "El Universo",
@@ -1377,12 +1371,6 @@
      "seendate": "20261030T220316Z"
     },
     {
-     "title": "Tormenta en Manabí: más de 12 viviendas pierden sus techos en El Paraíso La 14",
-     "url": "https://eluniverso.com/comunidad/ecuador/tormenta-afecto-a-viviendas-en-el-paraiso-la-14-el-carmen-nota/",
-     "domain": "El Universo",
-     "seendate": "20261030T212044Z"
-    },
-    {
      "title": "Allanan vivienda del alcalde de Playas en medio de una investigación por presunto peculado",
      "url": "https://eluniverso.com/politica/seguridad/allanan-vivienda-del-alcalde-de-playas-en-medio-de-una-investigacion-por-presunto-peculado-nota/",
      "domain": "El Universo",
@@ -1423,16 +1411,16 @@
   "PER": {
    "articles": [
     {
+     "title": "Cajamarca: Contumazá soportó intensa lluvia de 30 minutos que dejó dos viviendas afectadas",
+     "url": "https://elcomercio.pe/peru/cajamarca/cajamarca-contumaza-soporto-intensa-lluvia-de-30-minutos-que-dejo-dos-viviendas-afectadas-fenomeno-el-nino-apuesplan-ultimas-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261031T134701Z"
+    },
+    {
      "title": "Lluvias en el norte del Perú hoy EN VIVO: Piura, Tumbes y Lambayeque en alerta por precipitaciones",
      "url": "https://elcomercio.pe/peru/lluvias-en-peru-en-vivo-el-nino-pronostico-de-senamhi-lluvias-temperatura-y-regiones-en-alerta-en-todo-el-pais-lbposting-noticia/",
      "domain": "El Comercio",
      "seendate": "20261031T120000Z"
-    },
-    {
-     "title": "Ayacucho: encuentran gorgojos en ‘wawas’ puestas a la venta por festividad de Todos los Santos",
-     "url": "https://elcomercio.pe/peru/ayacucho/ayacucho-encuentran-gorgojos-en-wawas-puestas-a-la-venta-por-festividad-de-todos-los-santos-ultimas-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261031T040458Z"
     }
    ]
   },
@@ -1951,10 +1939,64 @@
   "ARG": {
    "articles": [
     {
+     "title": "EE.UU. deportó a la Argentina a Juan Manuel Reverter, acusado de matar en México a su novia, la modelo Agostina Jalabert",
+     "url": "https://www.lanacion.com.ar/seguridad/eeuu-deporto-a-la-argentina-a-juan-manuel-reverter-acusado-de-matar-en-mexico-a-su-novia-la-modelo-nid31102026/",
+     "domain": "La Nación",
+     "seendate": "20261031T140552Z"
+    },
+    {
+     "title": "Hay alerta amarilla por tormentas fuertes y lluvias para este sábado 31 de octubre: las provincias afectadas",
+     "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-tormentas-fuertes-y-lluvias-para-este-sabado-31-de-octubre-las-provincias-nid31102026/",
+     "domain": "La Nación",
+     "seendate": "20261031T135902Z"
+    },
+    {
+     "title": "Hallaron muertos a los cinco integrantes de una familia en una casa de Merlo",
+     "url": "https://www.lanacion.com.ar/seguridad/hallaron-muertos-a-los-cinco-integrantes-de-una-familia-en-una-casa-de-merlo-nid31102026/",
+     "domain": "La Nación",
+     "seendate": "20261031T135246Z"
+    },
+    {
      "title": "Los posteos del padre de la familia muerta en su casa de Merlo: es el principal sospechoso",
      "url": "https://www.lanacion.com.ar/seguridad/los-posteos-del-padre-de-la-familia-muerta-en-su-casa-de-merlo-es-el-principal-sospechoso-nid31102026/",
      "domain": "La Nación",
-     "seendate": "20261031T130937Z"
+     "seendate": "20261031T134131Z"
+    },
+    {
+     "title": "Halloween: por qué se celebra cada 31 de octubre y cuáles son las tradiciones más comunes que pueden replicarse en la Argentina",
+     "url": "https://www.lanacion.com.ar/sociedad/halloween-por-que-se-celebra-cada-31-de-octubre-y-cuales-son-las-tradiciones-mas-comunes-que-pueden-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261031T133713Z"
+    },
+    {
+     "title": "Calabazas de Halloween para niños: cuánto salen y dónde conseguirlas en la Argentina",
+     "url": "https://www.lanacion.com.ar/economia/calabazas-de-halloween-para-ninos-cuanto-salen-y-donde-conseguirlas-en-la-argentina-nid27102026/",
+     "domain": "La Nación",
+     "seendate": "20261031T133650Z"
+    },
+    {
+     "title": "Noche de Halloween en la Argentina: estas son las costumbres",
+     "url": "https://www.lanacion.com.ar/sociedad/noche-de-halloween-en-la-argentina-estas-son-las-costumbres-nid29102026/",
+     "domain": "La Nación",
+     "seendate": "20261031T133607Z"
+    },
+    {
+     "title": "De dónde viene Halloween",
+     "url": "https://www.lanacion.com.ar/sociedad/de-donde-viene-halloween-nid30102026/",
+     "domain": "La Nación",
+     "seendate": "20261031T133527Z"
+    },
+    {
+     "title": "Las escuchas donde el jefe de la banda que hizo un túnel en San Isidro habló del robo boquetero que planeaba en Chivilcoy",
+     "url": "https://www.lanacion.com.ar/seguridad/las-escuchas-donde-el-jefe-de-la-banda-que-hizo-un-tunel-en-san-isidro-hablo-del-robo-boquetero-que-nid31102026/",
+     "domain": "La Nación",
+     "seendate": "20261031T132842Z"
+    },
+    {
+     "title": "La demanda de dólares sigue elevada: los argentinos compraron US$3410 millones en septiembre",
+     "url": "https://www.lanacion.com.ar/economia/la-demanda-de-dolares-sigue-elevada-los-argentinos-compraron-us3410-millones-en-septiembre-nid30102026/",
+     "domain": "La Nación",
+     "seendate": "20261031T132627Z"
     },
     {
      "title": "“El que viene vuelve”: el pueblo de 500 habitantes en la costa que compite por ser uno de los mejores destinos del mundo",
@@ -1963,34 +2005,16 @@
      "seendate": "20261031T130000Z"
     },
     {
-     "title": "Las escuchas donde el jefe de la banda que hizo un túnel en San Isidro habló del robo boquetero que planeaba en Chivilcoy",
-     "url": "https://www.lanacion.com.ar/seguridad/las-escuchas-donde-el-jefe-de-la-banda-que-hizo-un-tunel-en-san-isidro-hablo-del-robo-boquetero-que-nid31102026/",
-     "domain": "La Nación",
-     "seendate": "20261031T123925Z"
-    },
-    {
      "title": "Chicharrita y cogollero: monitorear en el lote para no decidir desde el miedo",
      "url": "https://www.lanacion.com.ar/economia/campo/agricultura/chicharrita-y-cogollero-monitorear-en-el-lote-para-no-decidir-desde-el-miedo-nid31102026/",
      "domain": "La Nación",
      "seendate": "20261031T120000Z"
     },
     {
-     "title": "Hallaron muertos a los cinco integrantes de una familia en una casa de Merlo",
-     "url": "https://www.lanacion.com.ar/seguridad/hallaron-muertos-a-los-cinco-integrantes-de-una-familia-en-una-casa-de-merlo-nid31102026/",
-     "domain": "La Nación",
-     "seendate": "20261031T115832Z"
-    },
-    {
      "title": "Los Milei refuerzan su vínculo con la iglesia evangélica antes de la visita del papa León XIV",
      "url": "https://www.lanacion.com.ar/politica/los-milei-refuerzan-su-vinculo-con-la-iglesia-evangelica-antes-de-la-visita-del-papa-leon-xiv-nid31102026/",
      "domain": "La Nación",
      "seendate": "20261031T113743Z"
-    },
-    {
-     "title": "Hay alerta amarilla por tormentas fuertes y lluvias para este sábado 31 de octubre: las provincias afectadas",
-     "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-tormentas-fuertes-y-lluvias-para-este-sabado-31-de-octubre-las-provincias-nid31102026/",
-     "domain": "La Nación",
-     "seendate": "20261031T110501Z"
     },
     {
      "title": "Tras años de reclamos, restaurarán la iglesia Santa Felicitas, uno de los tesoros históricos de Barracas",
@@ -2105,12 +2129,6 @@
      "url": "https://www.lanacion.com.ar/politica/seres-cargados-de-maldad-milei-comenzo-su-exposicion-en-una-universidad-con-otro-ataque-al-nid30102026/",
      "domain": "La Nación",
      "seendate": "20261031T063613Z"
-    },
-    {
-     "title": "La frase de Gabriel Rolón sobre la monotonía en las parejas: \" “Nos acostumbramos y terminamos transitando en el amor con el vehículo un poco averiado”",
-     "url": "https://www.lanacion.com.ar/sociedad/la-frase-de-gabriel-rolon-sobre-la-monotonia-en-las-parejas-nos-acostumbramos-y-terminamos-nid31102026/",
-     "domain": "La Nación",
-     "seendate": "20261031T060000Z"
     }
    ]
   },
@@ -2252,6 +2270,18 @@
   },
   "PRY": {
    "articles": [
+    {
+     "title": "Operativo “Año Paha”: ¿cómo se prepara la Policía para combatir la inseguridad?",
+     "url": "https://www.abc.com.py/nacionales/2026/10/31/operativo-ano-paha-como-se-prepara-la-policia-para-combatir-la-inseguridad/",
+     "domain": "ABC Color",
+     "seendate": "20261031T133715Z"
+    },
+    {
+     "title": "Elecciones de abogados para el CM: ¿Cuándo estarán habilitadas las prácticas con las máquinas?",
+     "url": "https://www.abc.com.py/nacionales/2026/10/31/elecciones-de-abogados-para-el-cm-cuando-estaran-habilitadas-las-practicas-con-las-maquinas/",
+     "domain": "ABC Color",
+     "seendate": "20261031T133425Z"
+    },
     {
      "title": "San Lorenzo: a juicio el supuesto motochorro que atacó con machete",
      "url": "https://www.abc.com.py/nacionales/2026/10/31/san-lorenzo-a-juicio-el-supuesto-motochorro-que-ataco-con-machete/",
