@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T14:11:32+00:00",
+ "updated": "2026-10-31T15:07:54+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -7,7 +7,7 @@
      "title": "Accidente de trenes en Toledo: última hora y reacciones en directo | Urda celebra una misa funeral para despedir a las víctimas de la tragedia",
      "url": "https://elpais.com/espana/2026-10-31/ultima-hora-y-reacciones-tras-el-accidente-de-trenes-de-urda-toledo-en-directo.html",
      "domain": "El País",
-     "seendate": "20261031T140107Z"
+     "seendate": "20261031T145501Z"
     },
     {
      "title": "Prisión provisional sin fianza para el supuesto “fundador e impulsor” de ‘Blocus’ en España",
@@ -115,6 +115,12 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Día de Muertos: Cuernavaca celebra el Festival Miquixtli 2026 con Julieta Venegas; más de 12 mil personas acuden a verla",
+     "url": "https://www.eluniversal.com.mx/estados/dia-de-muertos-cuernavaca-celebra-el-festival-miquixtli-2026-con-julieta-venegas-mas-de-12-mil-personas-acuden-a-verla/",
+     "domain": "El Universal",
+     "seendate": "20261031T144500Z"
+    },
     {
      "title": "Máscaras de terror, arte que da forma a las pesadillas",
      "url": "https://www.eluniversal.com.mx/nacion/mascaras-de-terror-arte-que-da-forma-a-las-pesadillas/",
@@ -716,12 +722,6 @@
      "url": "https://www.nacion.com/sucesos/fiscalia-indaga-a-diego-miranda-alcalde-de-san/HB2DDOZHQ5ARPGYHKSPA726ZQA/story/",
      "domain": "La Nación",
      "seendate": "20261030T152727Z"
-    },
-    {
-     "title": "Caso Riverside: Tribunal fijó fecha para resolver objeciones a prisión preventiva de hijos de Pecho de Rata y otros 33 imputados",
-     "url": "https://www.nacion.com/sucesos/caso-riverside-tribunal-fijo-fecha-para-resolver/SSHDCJYUURGS3AIVX2X2JL3SUQ/story/",
-     "domain": "La Nación",
-     "seendate": "20261030T144514Z"
     }
    ]
   },
@@ -840,6 +840,18 @@
   "CUB": {
    "articles": [
     {
+     "title": "Condenados en Florida seis traficantes que cobraban hasta 40.000 dólares a migrantes cubanos",
+     "url": "https://www.14ymedio.com/cuba/migracion/condenados-florida-seis-traficantes-cobraban_1_1132674.html",
+     "domain": "14ymedio",
+     "seendate": "20261031T145028Z"
+    },
+    {
+     "title": "\"Evite disgustos\", la guerra contra los billetes pequeños en Cuba",
+     "url": "https://www.14ymedio.com/cuba/evite-disgustos-guerra-billetes-pequenos_1_1132675.html",
+     "domain": "14ymedio",
+     "seendate": "20261031T144009Z"
+    },
+    {
      "title": "La Cumbre, un barrio de Matanzas donde las calles se quedaron en el siglo pasado",
      "url": "https://www.14ymedio.com/cuba/cumbre-barrio-matanzas-calles-quedaron_1_1132663.html",
      "domain": "14ymedio",
@@ -943,10 +955,22 @@
   "COL": {
    "articles": [
     {
-     "title": "Explosión de motocicleta cargada con explosivos en peaje El Mango, sur del Cauca: es la segunda vez que atentado afecta este punto de vía Panamericana",
+     "title": "Atentado con explosivos en El Bordo, Cauca: esto se sabe de los responsables del atentado con motobomba en el peaje El Mango",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/atentado-con-explosivos-en-el-bordo-cauca-esto-se-sabe-de-los-responsables-del-atentado-con-motobomba-en-el-peaje-el-mango-3597677",
+     "domain": "El Tiempo",
+     "seendate": "20261031T145128Z"
+    },
+    {
+     "title": "¿Puerto espacial de SpaceX en Colombia? Gobernador de Antioquia, Andrés Julián Rendón, le recuerda a Elon Musk la idea de construirlo en Urabá",
+     "url": "https://www.eltiempo.com/colombia/medellin/gobernador-de-antioquia-andres-julian-rendon-vuelve-a-proponerle-a-elon-musk-construir-un-puerto-espacial-de-spacex-en-uraba-estamos-listos-3597671",
+     "domain": "El Tiempo",
+     "seendate": "20261031T141721Z"
+    },
+    {
+     "title": "Explosión de motocicleta cargada con explosivos en peaje El Mango, sur de Cauca: segunda vez en un mes que por atentado cierran la vía Panamericana",
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/explosion-de-una-motobomba-paraliza-el-transito-en-el-sur-del-cauca-3597668",
      "domain": "El Tiempo",
-     "seendate": "20261031T133000Z"
+     "seendate": "20261031T134500Z"
     },
     {
      "title": "Asesinan a Luis Francisco Ramírez, dragoneante del Inpec, cerca de la cárcel Villahermosa en Cali: esto se sabe del crimen",
@@ -989,18 +1013,6 @@
      "url": "https://www.eltiempo.com/colombia/medellin/gobernacion-de-antioquia-y-ministerio-de-defensa-definieron-la-hoja-de-ruta-para-hacerle-frente-a-los-grupos-armados-organizados-en-el-departamento-3597617",
      "domain": "El Tiempo",
      "seendate": "20261031T002320Z"
-    },
-    {
-     "title": "Condenan a otros dos implicados en crimen de Alessandro Coatti, biólogo italiano que fue desmembrado en Santa Marta: este era su rol en el homicidio",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/condenan-a-otros-dos-implicados-en-crimen-de-alessandro-coatti-biologo-italiano-que-fue-desmembrado-en-santa-marta-este-era-su-rol-en-el-homicidio-3597612",
-     "domain": "El Tiempo",
-     "seendate": "20261031T002306Z"
-    },
-    {
-     "title": "Habilitan primer carril del deprimido de Le Champ: gobernador del Atlántico asegura que esta unidad de 'La Gran Vía' estará completa en 2027",
-     "url": "https://www.eltiempo.com/colombia/barranquilla/habilitan-primer-carril-del-deprimido-de-le-champ-gobernador-del-atlantico-asegura-que-esta-unidad-de-la-gran-via-estara-completa-en-3597619",
-     "domain": "El Tiempo",
-     "seendate": "20261031T000500Z"
     }
    ]
   },
@@ -1299,7 +1311,25 @@
   "ECU": {
    "articles": [
     {
-     "title": "Ecuador registra 14 desbordamientos de ríos y esteros este sábado, 31 de octubre",
+     "title": "Emergencia en Santa Cruz moviliza ayuda y recursos logísticos para atender zonas afectadas por inundación",
+     "url": "https://eluniverso.com/comunidad/ecuador/emergencia-en-santa-cruz-moviliza-ayuda-y-recursos-logisticos-para-atender-zonas-afectadas-por-inundacion-nota/",
+     "domain": "El Universo",
+     "seendate": "20261031T142407Z"
+    },
+    {
+     "title": "Feriado nacional: más de 49.000 policías estarán desplegados en el país para fortalecer la seguridad ciudadana",
+     "url": "https://eluniverso.com/comunidad/ecuador/feriado-nacional-policia-nacional-operativos-policiales-nota/",
+     "domain": "El Universo",
+     "seendate": "20261031T141039Z"
+    },
+    {
+     "title": "Caso Goleada: juez reitera pedido al CNE para que informe sobre el estado de candidaturas de procesados por lavado de activos",
+     "url": "https://eluniverso.com/politica/expedientes/caso-goleada-juez-reitera-pedido-cne-sobre-estado-candidaturas-procesados-lavado-activos-nota/",
+     "domain": "El Universo",
+     "seendate": "20261031T141000Z"
+    },
+    {
+     "title": "Ecuador registra desbordamientos de 14 ríos y esteros este sábado, 31 de octubre",
      "url": "https://eluniverso.com/comunidad/ecuador/ecuador-registra-14-desbordamientos-de-rios-y-esteros-este-sabado-31-de-octubre-nota/",
      "domain": "El Universo",
      "seendate": "20261031T134422Z"
@@ -1365,12 +1395,6 @@
      "seendate": "20261031T003519Z"
     },
     {
-     "title": "¿Lluvias durante el feriado? Este es el pronóstico del clima para el Litoral de Ecuador",
-     "url": "https://eluniverso.com/comunidad/ecuador/lluvias-durante-el-feriado-este-es-el-pronostico-del-clima-para-el-litoral-de-ecuador-nota/",
-     "domain": "El Universo",
-     "seendate": "20261030T220316Z"
-    },
-    {
      "title": "Allanan vivienda del alcalde de Playas en medio de una investigación por presunto peculado",
      "url": "https://eluniverso.com/politica/seguridad/allanan-vivienda-del-alcalde-de-playas-en-medio-de-una-investigacion-por-presunto-peculado-nota/",
      "domain": "El Universo",
@@ -1381,12 +1405,6 @@
      "url": "https://eluniverso.com/comunidad/ecuador/ofertan-empleo-agricola-en-espana-para-trabajadores-ecuatorianos-nota/",
      "domain": "El Universo",
      "seendate": "20261030T195354Z"
-    },
-    {
-     "title": "Familias afectadas por las lluvias en Santa Elena reciben kits de ayuda humanitaria",
-     "url": "https://eluniverso.com/comunidad/ecuador/familias-afectadas-por-las-lluvias-en-santa-elena-recibiran-kits-de-ayuda-humanitaria-nota/",
-     "domain": "El Universo",
-     "seendate": "20261030T193258Z"
     },
     {
      "title": "Operativo Spondylus: Cuerpo de Bomberos de Santa Elena bajo investigación por presunta comercialización ilegal de hidrocarburos",
@@ -1411,16 +1429,16 @@
   "PER": {
    "articles": [
     {
+     "title": "Lluvias en el norte del Perú hoy EN VIVO: Piura, Tumbes y Lambayeque en alerta por precipitaciones",
+     "url": "https://elcomercio.pe/peru/lluvias-en-peru-en-vivo-el-nino-pronostico-de-senamhi-lluvias-temperatura-y-regiones-en-alerta-en-todo-el-pais-lbposting-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261031T145936Z"
+    },
+    {
      "title": "Cajamarca: Contumazá soportó intensa lluvia de 30 minutos que dejó dos viviendas afectadas",
      "url": "https://elcomercio.pe/peru/cajamarca/cajamarca-contumaza-soporto-intensa-lluvia-de-30-minutos-que-dejo-dos-viviendas-afectadas-fenomeno-el-nino-apuesplan-ultimas-noticia/",
      "domain": "El Comercio",
      "seendate": "20261031T134701Z"
-    },
-    {
-     "title": "Lluvias en el norte del Perú hoy EN VIVO: Piura, Tumbes y Lambayeque en alerta por precipitaciones",
-     "url": "https://elcomercio.pe/peru/lluvias-en-peru-en-vivo-el-nino-pronostico-de-senamhi-lluvias-temperatura-y-regiones-en-alerta-en-todo-el-pais-lbposting-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261031T120000Z"
     }
    ]
   },
@@ -1939,10 +1957,58 @@
   "ARG": {
    "articles": [
     {
+     "title": "Elecciones en Estados Unidos: qué espera Wall Street y en qué Cedears invertir antes de los comicios de medio término",
+     "url": "https://www.lanacion.com.ar/economia/elecciones-en-estados-unidos-que-espera-wall-street-y-en-que-cedears-invertir-antes-de-los-comicios-nid31102026/",
+     "domain": "La Nación",
+     "seendate": "20261031T145205Z"
+    },
+    {
+     "title": "Santos Vega: el mítico payador que enfrentó al diablo",
+     "url": "https://www.lanacion.com.ar/economia/campo/santos-vega-el-mitico-payador-admirado-por-escritores-y-gauchos-que-enfrento-al-diablo-nid31102026/",
+     "domain": "La Nación",
+     "seendate": "20261031T145122Z"
+    },
+    {
+     "title": "El Niño no tendrá un desarrollo parejo en todo el país",
+     "url": "https://www.lanacion.com.ar/economia/campo/el-nino-no-tendra-un-desarrollo-parejo-en-todo-el-territorio-nid31102026/",
+     "domain": "La Nación",
+     "seendate": "20261031T144608Z"
+    },
+    {
+     "title": "Un tesoro de 150 años: restaurarán una emblemática iglesia de Barracas construida en memoria de una joven asesinada",
+     "url": "https://www.lanacion.com.ar/sociedad/tras-anos-de-reclamos-restauraran-la-iglesia-santa-felicitas-uno-de-los-tesoros-historicos-de-nid31102026/",
+     "domain": "La Nación",
+     "seendate": "20261031T144555Z"
+    },
+    {
      "title": "EE.UU. deportó a la Argentina a Juan Manuel Reverter, acusado de matar en México a su novia, la modelo Agostina Jalabert",
      "url": "https://www.lanacion.com.ar/seguridad/eeuu-deporto-a-la-argentina-a-juan-manuel-reverter-acusado-de-matar-en-mexico-a-su-novia-la-modelo-nid31102026/",
      "domain": "La Nación",
-     "seendate": "20261031T140552Z"
+     "seendate": "20261031T143624Z"
+    },
+    {
+     "title": "Video: un conductor atropelló a un hombre en silla de ruedas en La Plata",
+     "url": "https://www.lanacion.com.ar/sociedad/video-un-conductor-atropello-a-un-hombre-en-silla-de-ruedas-en-la-plata-nid31102026/",
+     "domain": "La Nación",
+     "seendate": "20261031T143538Z"
+    },
+    {
+     "title": "Plantium-Gentec, un ícono de la innovación en el agro, despidió a casi 100 empleados y se achica",
+     "url": "https://www.lanacion.com.ar/economia/campo/no-puedo-mas-una-reconocida-empresa-de-innovacion-del-agro-despidio-a-casi-100-empleados-y-se-achica-nid30102026/",
+     "domain": "La Nación",
+     "seendate": "20261031T142653Z"
+    },
+    {
+     "title": "Dura crítica de Melconian a Milei: del “cada vez que habla le creen poco” al problema del consumo",
+     "url": "https://www.lanacion.com.ar/economia/dura-critica-de-melconian-a-milei-del-cada-vez-que-habla-le-creen-poco-al-problema-del-consumo-nid31102026/",
+     "domain": "La Nación",
+     "seendate": "20261031T142258Z"
+    },
+    {
+     "title": "Una violenta tormenta con granizo sorprendió en una región golpeada por otro fenómeno: la falta de sol",
+     "url": "https://www.lanacion.com.ar/economia/campo/una-violenta-tormenta-con-granizo-sorprendio-en-una-region-golpeada-por-otro-fenomeno-la-falta-de-nid30102026/",
+     "domain": "La Nación",
+     "seendate": "20261031T142231Z"
     },
     {
      "title": "Hay alerta amarilla por tormentas fuertes y lluvias para este sábado 31 de octubre: las provincias afectadas",
@@ -2017,18 +2083,6 @@
      "seendate": "20261031T113743Z"
     },
     {
-     "title": "Tras años de reclamos, restaurarán la iglesia Santa Felicitas, uno de los tesoros históricos de Barracas",
-     "url": "https://www.lanacion.com.ar/sociedad/tras-anos-de-reclamos-restauraran-la-iglesia-santa-felicitas-uno-de-los-tesoros-historicos-de-nid31102026/",
-     "domain": "La Nación",
-     "seendate": "20261031T110000Z"
-    },
-    {
-     "title": "El Niño no tendrá un desarrollo parejo en todo el país",
-     "url": "https://www.lanacion.com.ar/economia/campo/el-nino-no-tendra-un-desarrollo-parejo-en-todo-el-territorio-nid31102026/",
-     "domain": "La Nación",
-     "seendate": "20261031T102342Z"
-    },
-    {
      "title": "Dólar hoy y dólar blue hoy: a cuánto cotiza este sábado 31 de octubre",
      "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-hoy-a-cuanto-cotiza-este-sabado-31-de-octubre-nid31102026/",
      "domain": "La Nación",
@@ -2039,12 +2093,6 @@
      "url": "https://www.lanacion.com.ar/economia/campo/maiz-tardio-el-cultivo-que-desafia-los-limites-y-apuesta-por-la-tecnologia-nid31102026/",
      "domain": "La Nación",
      "seendate": "20261031T100000Z"
-    },
-    {
-     "title": "Plantium-Gentec, un ícono de la innovación en el agro, despidió a casi 100 empleados y se achica",
-     "url": "https://www.lanacion.com.ar/economia/campo/no-puedo-mas-una-reconocida-empresa-de-innovacion-del-agro-despidio-a-casi-100-empleados-y-se-achica-nid30102026/",
-     "domain": "La Nación",
-     "seendate": "20261031T095512Z"
     },
     {
      "title": "La Argentina se divorcia de la tendencia bajista de Chicago",
@@ -2063,12 +2111,6 @@
      "url": "https://www.lanacion.com.ar/economia/campo/us3791-millones-vuelan-en-dolares-las-exportaciones-de-carne-vacuna-y-van-camino-a-marcar-otro-nid30102026/",
      "domain": "La Nación",
      "seendate": "20261031T093846Z"
-    },
-    {
-     "title": "Una violenta tormenta con granizo sorprendió en una región golpeada por otro fenómeno: la falta de sol",
-     "url": "https://www.lanacion.com.ar/economia/campo/una-violenta-tormenta-con-granizo-sorprendio-en-una-region-golpeada-por-otro-fenomeno-la-falta-de-nid30102026/",
-     "domain": "La Nación",
-     "seendate": "20261031T093810Z"
     },
     {
      "title": "Cuando la IA es solo discurso",
@@ -2095,12 +2137,6 @@
      "seendate": "20261031T083900Z"
     },
     {
-     "title": "Santos Vega, el mítico payador admirado por escritores y gauchos que enfrentó al diablo",
-     "url": "https://www.lanacion.com.ar/economia/campo/santos-vega-el-mitico-payador-admirado-por-escritores-y-gauchos-que-enfrento-al-diablo-nid31102026/",
-     "domain": "La Nación",
-     "seendate": "20261031T083700Z"
-    },
-    {
      "title": "Inti Bonomo, experto en Ciencias Ambientales, sobre el impacto que tendrá el fenómeno del Súper Niño: “El pico va a ser en diciembre”",
      "url": "https://www.lanacion.com.ar/sociedad/inti-bonomo-experto-en-ciencias-ambientales-sobre-el-impacto-que-tendra-el-fenomeno-del-super-nino-nid31102026/",
      "domain": "La Nación",
@@ -2111,24 +2147,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/avanza-un-centro-de-baja-presion-que-aumentara-la-inestabilidad-y-traera-lluvias-y-tormentas-con-nid31102026/",
      "domain": "La Nación",
      "seendate": "20261031T080000Z"
-    },
-    {
-     "title": "Epicuro y una reflexión que sirve como un mantra en la vida cotidiana: “Ser feliz es que no duela”",
-     "url": "https://www.lanacion.com.ar/sociedad/epicuro-y-una-reflexion-que-sirve-como-un-mantra-en-la-vida-cotidiana-ser-feliz-es-que-no-duela-nid31102026/",
-     "domain": "La Nación",
-     "seendate": "20261031T070000Z"
-    },
-    {
-     "title": "El riesgo país subió casi 30% en octubre y cerró el mes cerca de los 790 puntos",
-     "url": "https://www.lanacion.com.ar/economia/el-riesgo-pais-sube-mas-de-20-en-octubre-y-cierra-cerca-de-los-750-puntos-nid30102026/",
-     "domain": "La Nación",
-     "seendate": "20261031T063727Z"
-    },
-    {
-     "title": "Milei expuso ante estudiantes: dos horas de charla, críticas a los políticos que solo quieren “ganar elecciones” y guiño a Karina: “Es tan ortodoxa como yo”",
-     "url": "https://www.lanacion.com.ar/politica/seres-cargados-de-maldad-milei-comenzo-su-exposicion-en-una-universidad-con-otro-ataque-al-nid30102026/",
-     "domain": "La Nación",
-     "seendate": "20261031T063613Z"
     }
    ]
   },
@@ -2271,6 +2289,12 @@
   "PRY": {
    "articles": [
     {
+     "title": "Exigen garantía estatal para fondos jubilatorios del IPS y convocan a asegurados",
+     "url": "https://www.abc.com.py/nacionales/2026/10/31/exigen-garantia-estatal-para-fondos-jubilatorios-del-ips-y-convocan-a-asegurados/",
+     "domain": "ABC Color",
+     "seendate": "20261031T140935Z"
+    },
+    {
      "title": "Operativo “Año Paha”: ¿cómo se prepara la Policía para combatir la inseguridad?",
      "url": "https://www.abc.com.py/nacionales/2026/10/31/operativo-ano-paha-como-se-prepara-la-policia-para-combatir-la-inseguridad/",
      "domain": "ABC Color",
@@ -2307,6 +2331,12 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "TJ de Alagoas determina que governo libere acesso de equipe de transição de JHC a sistemas estaduais",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/31/tj-de-alagoas-determina-que-governo-libere-acesso-de-equipe-de-transicao-de-jhc-a-sistemas-estaduais.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261031T135710Z"
+    },
     {
      "title": "MP Eleitoral dá parecer favorável à união de federação e partido que pode interferir na cláusula de barreira",
      "url": "https://oglobo.globo.com/politica/noticia/2026/10/31/mp-eleitoral-da-parecer-favoravel-a-uniao-de-federacao-e-partido-que-pode-interferir-na-clausula-de-barreira.ghtml",
@@ -2358,12 +2388,6 @@
     {
      "title": "Três em cada quatro eleitos do PL não endossam texto golpista e ampliam isolamento de Flávio após fuga para os EUA",
      "url": "https://oglobo.globo.com/politica/noticia/2026/10/31/tres-em-cada-quatro-eleitos-do-pl-nao-endossam-texto-golpista-e-ampliam-isolamento-de-flavio-apos-fuga-para-os-eua.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261031T063000Z"
-    },
-    {
-     "title": "Jogo Político: 'Governo Lula já procurou o PSD, e podemos ter uma relação mais profunda', diz Kassab",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/31/jogo-politico-governo-lula-ja-procurou-o-psd-e-podemos-ter-uma-relacao-mais-profunda-diz-kassab.ghtml",
      "domain": "O Globo",
      "seendate": "20261031T063000Z"
     }
