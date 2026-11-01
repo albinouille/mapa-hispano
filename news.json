@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T18:04:17+00:00",
+ "updated": "2026-11-01T18:46:18+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -28,14 +28,14 @@
      "seendate": "20261101T131620Z"
     },
     {
-     "title": "La actuación de tres policías que iban en los trenes siniestrados salvó vidas",
-     "url": "https://elpais.com/espana/2026-11-01/la-actuacion-de-tres-policias-que-iban-en-los-trenes-siniestrados-salvo-vidas.html",
-     "domain": "El País",
-     "seendate": "20261101T131326Z"
-    },
-    {
      "title": "¿Qué causó el accidente? La secuencia paso a paso de una cadena de fallos que el sistema no detuvo",
      "url": "https://elpais.com/espana/2026-11-01/que-causo-el-accidente-la-secuencia-paso-a-paso-de-una-cadena-de-fallos-que-el-sistema-no-detuvo.html",
+     "domain": "El País",
+     "seendate": "20261101T043001Z"
+    },
+    {
+     "title": "Puente, de la euforia al desastre en tres días",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-01/puente-de-la-euforia-al-desastre-en-tres-dias.html",
      "domain": "El País",
      "seendate": "20261101T043001Z"
     },
@@ -52,18 +52,6 @@
      "seendate": "20261101T043001Z"
     },
     {
-     "title": "El tercer tren de Urda: la espera bajo un puente a dos kilómetros de la tragedia",
-     "url": "https://elpais.com/espana/2026-11-01/el-tercer-tren-de-urda-la-espera-bajo-un-puente-a-dos-kilometros-de-la-tragedia.html",
-     "domain": "El País",
-     "seendate": "20261101T043001Z"
-    },
-    {
-     "title": "Puente, de la euforia al desastre en tres días",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-01/puente-de-la-euforia-al-desastre-en-tres-dias.html",
-     "domain": "El País",
-     "seendate": "20261101T043001Z"
-    },
-    {
      "title": "Los andarines, el último escalón en empresas irregulares de reparto: sin contrato, 70 céntimos por paquete y no más de 600 euros al mes",
      "url": "https://elpais.com/espana/madrid/2026-11-01/los-andarines-el-ultimo-escalon-en-empresas-irregulares-de-reparto-sin-contrato-70-centimos-por-paquete-y-no-mas-de-600-euros-al-mes.html",
      "domain": "El País",
@@ -76,14 +64,14 @@
      "seendate": "20261101T043001Z"
     },
     {
-     "title": "Feijóo gira la campaña hacia el perfil gestor del PP",
-     "url": "https://elpais.com/espana/2026-11-01/feijoo-gira-la-campana-hacia-el-perfil-gestor-del-pp.html",
+     "title": "El tercer tren de Urda: la espera bajo un puente a dos kilómetros de la tragedia",
+     "url": "https://elpais.com/espana/2026-11-01/el-tercer-tren-de-urda-la-espera-bajo-un-puente-a-dos-kilometros-de-la-tragedia.html",
      "domain": "El País",
      "seendate": "20261101T043001Z"
     },
     {
-     "title": "Traición y venganzas en Rairiz de Veiga: alcaldes que pasan por PP, PSOE y BNG, y concejales rivales que se alían",
-     "url": "https://elpais.com/espana/galicia/2026-11-01/traicion-y-venganzas-en-rairiz-de-veiga-alcaldes-que-pasan-por-pp-psoe-y-bng-y-concejales-rivales-que-se-alian.html",
+     "title": "Puente intenta bajar la presión con un gran plan de refuerzo de la seguridad del AVE",
+     "url": "https://elpais.com/espana/2026-11-01/puente-intenta-bajar-la-presion-con-un-gran-plan-de-refuerzo-de-la-seguridad-del-ave.html",
      "domain": "El País",
      "seendate": "20261101T043001Z"
     },
@@ -127,6 +115,24 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "¿Hará frío en CDMX el Día de Muertos?; así estará el clima este domingo y Día de Muertos",
+     "url": "https://www.eluniversal.com.mx/metropoli/hara-frio-en-cdmx-el-dia-de-muertos-asi-estara-el-clima-este-domingo-y-dia-de-muertos/",
+     "domain": "El Universal",
+     "seendate": "20261101T183500Z"
+    },
+    {
+     "title": "Berta Alicia busca con pico y pala a su hermano desaparecido desde 2023; denuncia falta de avances en la investigación",
+     "url": "https://www.eluniversal.com.mx/nacion/berta-alicia-busca-con-pico-y-pala-a-su-hermano-desaparecido-desde-2023-denuncia-falta-de-avances-en-la-investigacion/",
+     "domain": "El Universal",
+     "seendate": "20261101T183128Z"
+    },
+    {
+     "title": "Exige Jorge Romero castigo a presunta corrupción en el INE; renuncia de Taddei no es suficiente, advierte",
+     "url": "https://www.eluniversal.com.mx/nacion/exige-jorge-romero-castigo-a-presunta-corrupcion-en-el-ine-renuncia-de-taddei-no-es-suficiente-advierte/",
+     "domain": "El Universal",
+     "seendate": "20261101T175302Z"
+    },
     {
      "title": "Regidora de Mazatlán denuncia amenazas de muerte y privación de la libertad; es la tercera ocasión, dice",
      "url": "https://www.eluniversal.com.mx/estados/regidora-de-mazatlan-denuncia-amenazas-de-muerte-y-privacion-de-la-libertad-es-la-tercera-ocasion-dice/",
@@ -610,6 +616,12 @@
   "CRI": {
    "articles": [
     {
+     "title": "Corte de luz de la CNFL afectará un distrito de San José este martes 3 de noviembre: conozca los sitios que tendrán suspensiones",
+     "url": "https://www.nacion.com/el-pais/corte-de-luz-de-la-cnfl-afectara-un-distrito-de/XZQUJUJI3FB2NLT6FY7SLHXS2U/story/",
+     "domain": "La Nación",
+     "seendate": "20261101T180200Z"
+    },
+    {
      "title": "Mujer afirma que conductor la agredió tras molestarse porque a ella le cedieron el paso en Cartago; empresa del señalado anuncia medidas internas",
      "url": "https://www.nacion.com/sucesos/mujer-afirma-que-conductor-la-agredio-tras/XTVHSV47PJFE3JHFF2OKXHH34U/story/",
      "domain": "La Nación",
@@ -740,12 +752,6 @@
      "url": "https://www.nacion.com/politica/pln-convoca-a-sus-alcaldes-para-organizar-proceso/TDHNSKOJRFFIBJIRSDAAMH37JI/story/",
      "domain": "La Nación",
      "seendate": "20261031T181602Z"
-    },
-    {
-     "title": "Redondel con terneros en colegio de Guanacaste dejó una estudiante herida y operó sin permisos, confirma MEP",
-     "url": "https://www.nacion.com/el-pais/redondel-con-terneros-en-colegio-de-guanacaste/Z2RICJTWP5AXJCNNHVBOM65SWI/story/",
-     "domain": "La Nación",
-     "seendate": "20261031T175947Z"
     }
    ]
   },
@@ -1003,6 +1009,18 @@
   "COL": {
    "articles": [
     {
+     "title": "Giro de Rigo en Valle del Cauca cambia su ruta: Secretaría de Movilidad de Cali explica lo sucedido en Dagua que obligó a desviar a miles de ciclistas",
+     "url": "https://www.eltiempo.com/colombia/cali/atencion-giro-de-rigo-cambia-su-ruta-derrumbe-en-dagua-obliga-a-desviar-a-miles-de-ciclistas-en-cali-3597832",
+     "domain": "El Tiempo",
+     "seendate": "20261101T182902Z"
+    },
+    {
+     "title": "Tragedia en Santo Domingo, Antioquia: un muerto y dos heridos al caer un árbol en el parque principal",
+     "url": "https://www.eltiempo.com/colombia/medellin/tragedia-en-santo-domingo-antioquia-un-muerto-y-dos-heridos-al-caer-un-arbol-en-el-parque-principal-3597829",
+     "domain": "El Tiempo",
+     "seendate": "20261101T180445Z"
+    },
+    {
      "title": "Más de 3.000 comparendos y 350 vehículos inmovilizados deja el balance de Halloween en Cali tras masivas caravanas",
      "url": "https://www.eltiempo.com/colombia/cali/mas-de-3-000-comparendos-y-350-vehiculos-inmovilizados-deja-el-balance-de-halloween-en-cali-tras-masivas-caravanas-3597816",
      "domain": "El Tiempo",
@@ -1049,18 +1067,6 @@
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/explosion-en-la-zona-rosa-de-algeciras-huila-habria-dejado-tres-policias-heridos-y-varios-civiles-afectados-autoridades-investigan-el-hecho-3597793",
      "domain": "El Tiempo",
      "seendate": "20261101T085152Z"
-    },
-    {
-     "title": "Cierre total en la vía La Línea por volcamiento de camión cisterna en túnel Las Mariposas, en Calarcá, Quindío: autoridades recomiendan rutas alternas",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/cierre-total-en-la-via-la-linea-por-volcamiento-de-camion-cisterna-en-tunel-las-mariposas-en-calarca-quindio-autoridades-recomiendan-rutas-alternas-3597792",
-     "domain": "El Tiempo",
-     "seendate": "20261101T062525Z"
-    },
-    {
-     "title": "El vallenato, una música que también ha llorado a sus artistas en las carreteras",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-vallenato-una-musica-que-tambien-ha-llorado-a-sus-artistas-en-las-carreteras-3597623",
-     "domain": "El Tiempo",
-     "seendate": "20261101T030005Z"
     }
    ]
   },
@@ -1149,6 +1155,12 @@
   "ECU": {
    "articles": [
     {
+     "title": "Socavones y deslizamientos mantienen con paso parcial varias vías de la Costa",
+     "url": "https://eluniverso.com/comunidad/ecuador/socavones-y-deslizamientos-mantienen-con-paso-parcial-varias-vias-de-la-costa-nota/",
+     "domain": "El Universo",
+     "seendate": "20261101T180539Z"
+    },
+    {
      "title": "Emergencia en Santa Cruz: Armada del Ecuador traslada ayuda humanitaria de Baltra hacia la isla afectada por inundación",
      "url": "https://eluniverso.com/comunidad/ecuador/emergencia-en-santa-cruz-armada-del-ecuador-traslada-ayuda-humanitaria-de-baltra-hacia-la-isla-afectada-por-inundacion-nota/",
      "domain": "El Universo",
@@ -1233,24 +1245,6 @@
      "seendate": "20261031T212352Z"
     },
     {
-     "title": "Emergencia en Santa Cruz: COE identifica cinco alojamientos temporales para residentes y turistas",
-     "url": "https://eluniverso.com/comunidad/ecuador/emergencia-en-santa-cruz-coe-identifica-cinco-alojamientos-temporales-para-residentes-y-turistas-nota/",
-     "domain": "El Universo",
-     "seendate": "20261031T212204Z"
-    },
-    {
-     "title": "Más de 20 reses habrían muerto por la caída de un rayo durante una tormenta en Marcabelí, El Oro",
-     "url": "https://eluniverso.com/comunidad/ecuador/mas-de-20-reses-habrian-muerto-por-la-caida-de-un-rayo-durante-tormenta-electrica-en-marcabeli-el-oro-nota/",
-     "domain": "El Universo",
-     "seendate": "20261031T211000Z"
-    },
-    {
-     "title": "Avión militar trasladará hasta 14 toneladas de ayuda humanitaria a Galápagos por las inundaciones",
-     "url": "https://eluniverso.com/comunidad/ecuador/avion-militar-trasladara-hasta-14-toneladas-de-ayuda-humanitaria-a-galapagos-por-las-inundaciones-nota/",
-     "domain": "El Universo",
-     "seendate": "20261031T210052Z"
-    },
-    {
      "title": "Emergencia en Santa Cruz: una persona murió y otras dos están desaparecidas por inundación en esta isla de Galápagos",
      "url": "https://eluniverso.com/comunidad/ecuador/emergencia-en-santa-cruz-una-persona-murio-y-otras-dos-estan-desaparecidas-tras-inundacion-en-esta-isla-de-galapagos-nota/",
      "domain": "El Universo",
@@ -1264,7 +1258,7 @@
      "title": "Lluvias en el norte y otras regiones del Perú EN VIVO: pronósticos del Senamhi y reportes por El Niño 2026",
      "url": "https://elcomercio.pe/peru/lluvias-en-piura-tumbes-lambayeque-y-otras-regiones-del-peru-en-vivo-pronosticos-del-senamhi-reportes-y-cambios-en-el-clima-por-el-nino-2026-lbposting-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261101T175251Z"
+     "seendate": "20261101T181600Z"
     },
     {
      "title": "Pataz: capturan por segunda vez a alias ‘Goku’, lugarteniente de ‘La Gran Alianza’",
@@ -1321,12 +1315,6 @@
      "url": "https://www.latercera.com/el-deportivo/noticia/la-roja-sub-15-barre-con-barbados-y-suma-un-triunfo-clave-en-el-mundial-de-azerbaiyan/",
      "domain": "latercera.com",
      "seendate": "20261025T191500Z"
-    },
-    {
-     "title": "PRESENTARÁN EN PUNTA ARENAS LIBRO SOBRE DESCENDIENTES CROATAS EN EL DEPORTE CHILENO",
-     "url": "https://www.radiopolar.com/presentaran-punta-arenas-libro-descendientes-croatas-deporte-chileno",
-     "domain": "radiopolar.com",
-     "seendate": "20261025T180000Z"
     }
    ]
   },
@@ -1336,7 +1324,19 @@
      "title": "Recreaban una batalla histórica en Marcos Paz cuando un cañón se disparó accidentalmente",
      "url": "https://www.lanacion.com.ar/sociedad/recreaban-una-batalla-historica-en-marcos-paz-cuando-un-canon-se-disparo-accidentalmente-nid01112026/",
      "domain": "La Nación",
-     "seendate": "20261101T175225Z"
+     "seendate": "20261101T182205Z"
+    },
+    {
+     "title": "Cuándo llega el papa León XIV a la Argentina y cómo es el recorrido oficial: el itinerario completo y los feriados confirmados",
+     "url": "https://www.lanacion.com.ar/sociedad/cuando-llega-el-papa-leon-xiv-a-la-argentina-y-como-es-el-recorrido-oficial-el-itinerario-completo-y-nid01112026/",
+     "domain": "La Nación",
+     "seendate": "20261101T181422Z"
+    },
+    {
+     "title": "Dormir demasiada siesta: cómo puede afectar el descanso y el estado de ánimo",
+     "url": "https://www.lanacion.com.ar/sociedad/dormir-demasiada-siesta-como-puede-afectar-el-descanso-y-el-estado-de-animo-nid01112026/",
+     "domain": "La Nación",
+     "seendate": "20261101T180000Z"
     },
     {
      "title": "Masacre en Merlo: un mensaje que presagió las cinco muertes y el misterio del origen del arma homicida",
@@ -1547,18 +1547,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/dia-de-todos-los-santos-que-se-celebra-hoy-y-como-es-la-tradicion-en-la-argentina-nid01112026/",
      "domain": "La Nación",
      "seendate": "20261101T125305Z"
-    },
-    {
-     "title": "El FBI acusó a Corea del Norte por el robo de más de US$6000 millones a Binance",
-     "url": "https://www.lanacion.com.ar/economia/el-fbi-acuso-a-corea-del-norte-por-el-robo-de-mas-de-us6000-millones-a-binance-nid01112026/",
-     "domain": "La Nación",
-     "seendate": "20261101T112044Z"
-    },
-    {
-     "title": "Objetivo, mayo: Karina saca a Milei de la Casa Rosada y lo lleva a 2027",
-     "url": "https://www.lanacion.com.ar/economia/objetivo-mayo-karina-saca-a-milei-de-la-casa-rosada-y-lo-lleva-a-2027-nid01112026/",
-     "domain": "La Nación",
-     "seendate": "20261101T110137Z"
     }
    ]
   },
@@ -1615,18 +1603,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/11/01/concepcion-escasa-concurrencia-en-el-cementerio-en-el-dia-de-todos-los-santos/",
      "domain": "ABC Color",
      "seendate": "20261101T142326Z"
-    },
-    {
-     "title": "Obispo lamenta que los jóvenes vivan en un ambiente de violencia",
-     "url": "https://www.abc.com.py/nacionales/2026/11/01/obispo-lamenta-que-los-jovenes-vivan-en-un-ambiente-de-violencia/",
-     "domain": "ABC Color",
-     "seendate": "20261101T133251Z"
-    },
-    {
-     "title": "Detergente de oro: ¿Por qué Nenecho va a juicio solo por lesión de confianza?",
-     "url": "https://www.abc.com.py/nacionales/2026/11/01/detergente-de-oro-por-que-nenecho-va-a-juicio-solo-por-lesion-de-confianza/",
-     "domain": "ABC Color",
-     "seendate": "20261101T133012Z"
     }
    ]
   },
