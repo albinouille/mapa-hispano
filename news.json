@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T10:36:34+00:00",
+ "updated": "2026-11-01T11:32:36+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -139,6 +139,18 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Suspenden salón por fiesta clandestina en Ecatepec",
+     "url": "https://www.eluniversal.com.mx/metropoli/suspenden-salon-por-fiesta-clandestina-en-ecatepec/",
+     "domain": "El Universal",
+     "seendate": "20261101T105521Z"
+    },
+    {
+     "title": "Ciclistas piden vigilancia en carril Bus-Bici",
+     "url": "https://www.eluniversal.com.mx/metropoli/ciclistas-piden-vigilancia-en-carril-bus-bici/",
+     "domain": "El Universal",
+     "seendate": "20261101T104525Z"
+    },
     {
      "title": "Uruapan recuerda a Manzo entre flores, ofrendas y exigencias",
      "url": "https://www.eluniversal.com.mx/estados/uruapan-recuerda-a-manzo-entre-flores-ofrendas-y-exigencias/",
@@ -772,6 +784,12 @@
   "CRI": {
    "articles": [
     {
+     "title": "Actividad de Marta Esquivel con publicidad comercial obliga a Yara Jiménez a cambiar controles en la Asamblea Legislativa",
+     "url": "https://www.nacion.com/politica/actividad-de-marta-esquivel-con-publicidad/K2NAL4YQD5H4PN7VMW3NXXFPFU/story/",
+     "domain": "La Nación",
+     "seendate": "20261101T111500Z"
+    },
+    {
      "title": "Alcalde Diego Miranda habla de un ‘divorcio’ con el gobierno y lo acusa de sabotear actividades de la Municipalidad de San José",
      "url": "https://www.nacion.com/politica/alcalde-diego-miranda-habla-de-un-divorcio-con-el/HN45OSVI6NDMZCG7KZ47L3KHPQ/story/",
      "domain": "La Nación",
@@ -1068,12 +1086,6 @@
      "url": "https://www.prensa.com/politica/panama-respalda-levantar-embargo-a-cuba-pero-pide-transicion-a-la-democracia/",
      "domain": "La Prensa",
      "seendate": "20261028T192231Z"
-    },
-    {
-     "title": "Los días tras el temblor: el silencio de las lanchas en El Arenal y un mar que se ensaña con isla Cañas",
-     "url": "https://www.prensa.com/sociedad/los-dias-tras-el-temblor-el-silencio-de-las-lanchas-en-el-arenal-y-un-mar-que-se-ensana-con-isla-canas/",
-     "domain": "La Prensa",
-     "seendate": "20261028T050200Z"
     }
    ]
   },
@@ -1599,14 +1611,14 @@
      "seendate": "20261031T171343Z"
     },
     {
-     "title": "Cuándo empieza el toque de queda en Ecuador: Estas son las provincias donde rige",
-     "url": "https://eluniverso.com/politica/seguridad/cuando-empieza-el-toque-de-queda-en-ecuador-estas-son-las-provincias-donde-rige-nota/",
+     "title": "Cuándo empieza el toque de queda en Guayas, Esmeraldas, Manabí, Los Ríos y El Oro",
+     "url": "https://eluniverso.com/politica/seguridad/cuando-empieza-el-toque-de-queda-en-guayas-esmeraldas-manabi-los-rios-y-el-oro-nota/",
      "domain": "El Universo",
      "seendate": "20261031T170000Z"
     },
     {
-     "title": "Cuándo empieza el toque de queda en Guayas, Esmeraldas, Manabí, Los Ríos y El Oro",
-     "url": "https://eluniverso.com/politica/seguridad/cuando-empieza-el-toque-de-queda-en-guayas-esmeraldas-manabi-los-rios-y-el-oro-nota/",
+     "title": "Cuándo empieza el toque de queda en Ecuador: Estas son las provincias donde rige",
+     "url": "https://eluniverso.com/politica/seguridad/cuando-empieza-el-toque-de-queda-en-ecuador-estas-son-las-provincias-donde-rige-nota/",
      "domain": "El Universo",
      "seendate": "20261031T170000Z"
     },
@@ -1627,12 +1639,6 @@
      "url": "https://eluniverso.com/comunidad/ecuador/emergencia-en-santa-cruz-moviliza-ayuda-y-recursos-logisticos-para-atender-zonas-afectadas-por-inundacion-nota/",
      "domain": "El Universo",
      "seendate": "20261031T142407Z"
-    },
-    {
-     "title": "Feriado nacional: más de 49.000 policías estarán desplegados en el país para fortalecer la seguridad ciudadana",
-     "url": "https://eluniverso.com/comunidad/ecuador/feriado-nacional-policia-nacional-operativos-policiales-nota/",
-     "domain": "El Universo",
-     "seendate": "20261031T141039Z"
     },
     {
      "title": "Historias detrás de los casos que investigó la ex fiscal general Diana Salazar: estas son algunas revelaciones de su libro autobiográfico",
@@ -1813,16 +1819,40 @@
   "ARG": {
    "articles": [
     {
+     "title": "El FBI acusó a Corea del Norte por el robo de más de US$6000 millones a Binance",
+     "url": "https://www.lanacion.com.ar/economia/el-fbi-acuso-a-corea-del-norte-por-el-robo-de-mas-de-us6000-millones-a-binance-nid01112026/",
+     "domain": "La Nación",
+     "seendate": "20261101T112044Z"
+    },
+    {
+     "title": "Objetivo, mayo: Karina saca a Milei de la Casa Rosada y lo lleva a 2027",
+     "url": "https://www.lanacion.com.ar/economia/objetivo-mayo-karina-saca-a-milei-de-la-casa-rosada-y-lo-lleva-a-2027-nid01112026/",
+     "domain": "La Nación",
+     "seendate": "20261101T110137Z"
+    },
+    {
+     "title": "Hay alertas por tormentas, lluvias y vientos fuertes para este domingo 1 de noviembre",
+     "url": "https://www.lanacion.com.ar/sociedad/hay-alertas-por-tormentas-lluvias-y-vientos-fuertes-para-este-domingo-1-de-noviembre-nid01112026/",
+     "domain": "La Nación",
+     "seendate": "20261101T104912Z"
+    },
+    {
+     "title": "Agustín Caulo: “El Gobierno sigue trabajando para que no se politice la visita de León XIV a la Argentina”",
+     "url": "https://www.lanacion.com.ar/politica/agustin-caulo-el-gobierno-sigue-trabajando-para-que-no-se-politice-la-visita-de-leon-xiv-a-la-nid01112026/",
+     "domain": "La Nación",
+     "seendate": "20261101T103328Z"
+    },
+    {
+     "title": "Estiman que la inflación de octubre se habría ubicado entre el 1,8% y el 2%",
+     "url": "https://www.lanacion.com.ar/economia/estiman-que-la-inflacion-de-octubre-se-habria-ubicado-entre-el-18-y-el-2-nid01112026/",
+     "domain": "La Nación",
+     "seendate": "20261101T103201Z"
+    },
+    {
      "title": "La AFA ordenó transferencias a 10 sociedades bajo sospecha con la firma de un exdirector ejecutivo",
      "url": "https://www.lanacion.com.ar/politica/la-afa-ordeno-transferencias-a-10-sociedades-bajo-sospecha-con-la-firma-de-un-exdirector-ejecutivo-nid01112026/",
      "domain": "La Nación",
      "seendate": "20261101T102422Z"
-    },
-    {
-     "title": "Objetivo, mayo. Karina saca a Milei de la Casa Rosada y lo lleva a 2027",
-     "url": "https://www.lanacion.com.ar/economia/objetivo-mayo-karina-saca-a-milei-de-la-casa-rosada-y-lo-lleva-a-2027-nid01112026/",
-     "domain": "La Nación",
-     "seendate": "20261101T101804Z"
     },
     {
      "title": "Dólar hoy y dólar blue hoy: a cuánto cotiza este domingo 1 de noviembre",
@@ -1865,12 +1895,6 @@
      "url": "https://www.lanacion.com.ar/politica/el-gobierno-busca-evitar-fricciones-en-la-visita-del-papa-leon-xiv-y-envia-senales-a-la-iglesia-nid01112026/",
      "domain": "La Nación",
      "seendate": "20261101T055901Z"
-    },
-    {
-     "title": "Hay alertas por tormentas, lluvias y vientos fuertes para este domingo 1º de noviembre",
-     "url": "https://www.lanacion.com.ar/sociedad/hay-alertas-por-tormentas-lluvias-y-vientos-fuertes-para-este-domingo-1-de-noviembre-nid01112026/",
-     "domain": "La Nación",
-     "seendate": "20261101T054923Z"
     },
     {
      "title": "La recesión pone en jaque los acuerdos de Milei",
