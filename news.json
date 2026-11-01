@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T09:42:21+00:00",
+ "updated": "2026-11-01T10:36:34+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -64,12 +64,6 @@
      "seendate": "20261101T043001Z"
     },
     {
-     "title": "Traición y venganzas en Rairiz de Veiga: alcaldes que pasan por PP, PSOE y BNG, y concejales rivales que se alían",
-     "url": "https://elpais.com/espana/galicia/2026-11-01/traicion-y-venganzas-en-rairiz-de-veiga-alcaldes-que-pasan-por-pp-psoe-y-bng-y-concejales-rivales-que-se-alian.html",
-     "domain": "El País",
-     "seendate": "20261101T043001Z"
-    },
-    {
      "title": "Los andarines, el último escalón en empresas irregulares de reparto: sin contrato, 70 céntimos por paquete y no más de 600 euros al mes",
      "url": "https://elpais.com/espana/madrid/2026-11-01/los-andarines-el-ultimo-escalon-en-empresas-irregulares-de-reparto-sin-contrato-70-centimos-por-paquete-y-no-mas-de-600-euros-al-mes.html",
      "domain": "El País",
@@ -78,6 +72,12 @@
     {
      "title": "Discoteca, matadero o mercado: la fe rescata como centros de culto grandes edificios abandonados",
      "url": "https://elpais.com/espana/catalunya/2026-10-25/discoteca-matadero-o-mercado-la-fe-rescata-como-centro-de-culto-grandes-edificios-abandonados.html",
+     "domain": "El País",
+     "seendate": "20261101T043001Z"
+    },
+    {
+     "title": "Traición y venganzas en Rairiz de Veiga: alcaldes que pasan por PP, PSOE y BNG, y concejales rivales que se alían",
+     "url": "https://elpais.com/espana/galicia/2026-11-01/traicion-y-venganzas-en-rairiz-de-veiga-alcaldes-que-pasan-por-pp-psoe-y-bng-y-concejales-rivales-que-se-alian.html",
      "domain": "El País",
      "seendate": "20261101T043001Z"
     },
@@ -108,12 +108,6 @@
     {
      "title": "Un símbolo lorquiano, en el depósito de la grúa municipal de Madrid",
      "url": "https://elpais.com/espana/madrid/2026-10-31/un-simbolo-lorquiano-en-el-deposito-de-la-grua-municipal-de-madrid.html",
-     "domain": "El País",
-     "seendate": "20261031T043001Z"
-    },
-    {
-     "title": "El Supremo admite a 69 personas y tres asociaciones como afectados por la suspensión del voto a los nacionalizados por la ‘ley de nietos’",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-10-31/el-supremo-admite-a-69-personas-y-tres-asociaciones-como-afectados-por-la-suspension-del-voto-a-los-nacionalizados-por-la-ley-de-nietos.html",
      "domain": "El País",
      "seendate": "20261031T043001Z"
     },
@@ -777,6 +771,12 @@
   },
   "CRI": {
    "articles": [
+    {
+     "title": "Alcalde Diego Miranda habla de un ‘divorcio’ con el gobierno y lo acusa de sabotear actividades de la Municipalidad de San José",
+     "url": "https://www.nacion.com/politica/alcalde-diego-miranda-habla-de-un-divorcio-con-el/HN45OSVI6NDMZCG7KZ47L3KHPQ/story/",
+     "domain": "La Nación",
+     "seendate": "20261101T100000Z"
+    },
     {
      "title": "El Gordo de la lotería navideña repartirá en 2026 el premio más alto de los últimos 50 años",
      "url": "https://www.nacion.com/el-pais/el-gordo-de-la-loteria-navidena-repartira-en-2026/LLUNMMJOPVH3LAZICVOLEXKERQ/story/",
@@ -1635,12 +1635,6 @@
      "seendate": "20261031T141039Z"
     },
     {
-     "title": "Ecuador registra desbordamientos de 14 ríos y esteros este sábado, 31 de octubre",
-     "url": "https://eluniverso.com/comunidad/ecuador/ecuador-registra-14-desbordamientos-de-rios-y-esteros-este-sabado-31-de-octubre-nota/",
-     "domain": "El Universo",
-     "seendate": "20261031T134422Z"
-    },
-    {
      "title": "Historias detrás de los casos que investigó la ex fiscal general Diana Salazar: estas son algunas revelaciones de su libro autobiográfico",
      "url": "https://eluniverso.com/politica/expedientes/historias-detras-de-los-casos-que-investigo-la-ex-fiscal-general-diana-salazar-estas-son-algunas-revelaciones-de-su-libro-autobiografico-nota/",
      "domain": "El Universo",
@@ -1819,6 +1813,30 @@
   "ARG": {
    "articles": [
     {
+     "title": "La AFA ordenó transferencias a 10 sociedades bajo sospecha con la firma de un exdirector ejecutivo",
+     "url": "https://www.lanacion.com.ar/politica/la-afa-ordeno-transferencias-a-10-sociedades-bajo-sospecha-con-la-firma-de-un-exdirector-ejecutivo-nid01112026/",
+     "domain": "La Nación",
+     "seendate": "20261101T102422Z"
+    },
+    {
+     "title": "Objetivo, mayo. Karina saca a Milei de la Casa Rosada y lo lleva a 2027",
+     "url": "https://www.lanacion.com.ar/economia/objetivo-mayo-karina-saca-a-milei-de-la-casa-rosada-y-lo-lleva-a-2027-nid01112026/",
+     "domain": "La Nación",
+     "seendate": "20261101T101804Z"
+    },
+    {
+     "title": "Dólar hoy y dólar blue hoy: a cuánto cotiza este domingo 1 de noviembre",
+     "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-hoy-a-cuanto-cotiza-este-domingo-1-de-noviembre-nid01112026/",
+     "domain": "La Nación",
+     "seendate": "20261101T100000Z"
+    },
+    {
+     "title": "Corazón inquieto: interioridad, amistad y comunidad, las claves de la identidad agustiniana de León XIV",
+     "url": "https://www.lanacion.com.ar/sociedad/corazon-inquieto-interioridad-amistad-y-comunidad-las-claves-de-la-identidad-agustiniana-de-leon-xiv-nid01112026/",
+     "domain": "La Nación",
+     "seendate": "20261101T100000Z"
+    },
+    {
      "title": "Opinión: perdimos un 36% del rodeo vacuno y nadie se hace cargo",
      "url": "https://www.lanacion.com.ar/economia/campo/opinion-perdimos-un-36-del-rodeo-vacuno-y-nadie-se-hace-cargo-nid01112026/",
      "domain": "La Nación",
@@ -1919,24 +1937,6 @@
      "url": "https://www.lanacion.com.ar/politica/javier-milei-asistio-a-la-inauguracion-de-un-templo-evangelico-y-pidio-conviccion-para-defender-la-nid31102026/",
      "domain": "La Nación",
      "seendate": "20261101T014443Z"
-    },
-    {
-     "title": "El pensamiento de Séneca que inspira a Marian Rojas Estapé, psiquiatra: “La suerte es donde confluyen la preparación y la oportunidad”",
-     "url": "https://www.lanacion.com.ar/sociedad/el-pensamiento-de-seneca-que-inspira-a-marian-rojas-estape-psiquiatra-la-suerte-es-donde-confluyen-nid31102026/",
-     "domain": "La Nación",
-     "seendate": "20261101T010000Z"
-    },
-    {
-     "title": "Enojo de La Cámpora contra Kicillof por su rechazo a los candidatos a dedo de Cristina Kirchner",
-     "url": "https://www.lanacion.com.ar/politica/enojo-de-la-campora-contra-kicillof-por-su-rechazo-a-los-candidatos-a-dedo-de-cristina-kirchner-nid31102026/",
-     "domain": "La Nación",
-     "seendate": "20261101T002955Z"
-    },
-    {
-     "title": "Creció rodeado de violencia, hoy se para en escenarios y ayuda a otros adolescentes a salir adelante",
-     "url": "https://www.lanacion.com.ar/sociedad/crecio-rodeado-de-violencia-hoy-se-para-en-escenarios-y-ayuda-a-otros-adolescentes-a-salir-adelante-nid31102026/",
-     "domain": "La Nación",
-     "seendate": "20261101T001809Z"
     }
    ]
   },
@@ -2041,18 +2041,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/11/01/fiscalia-imputa-al-conductor-que-habria-provocado-accidente-fatal-sobre-la-avda-mcal-lopez/",
      "domain": "ABC Color",
      "seendate": "20261101T030858Z"
-    },
-    {
-     "title": "Inauguran pórtico de identidad y otras mejoras en la Laguna Punta Porã de Pedro Juan Caballero",
-     "url": "https://www.abc.com.py/nacionales/2026/10/31/inauguran-portico-de-identidad-y-otras-mejoras-en-la-laguna-punta-pora-de-pedro-juan-caballero/",
-     "domain": "ABC Color",
-     "seendate": "20261101T013943Z"
-    },
-    {
-     "title": "Marcha LGBTIQ+ en Asunción: sostienen que ley “anti-género” viola la Constitución",
-     "url": "https://www.abc.com.py/nacionales/2026/10/31/marcha-lgbtiq-en-asuncion-advierten-que-ley-anti-genero-viola-la-constitucion/",
-     "domain": "ABC Color",
-     "seendate": "20261101T005629Z"
     }
    ]
   },
@@ -2138,42 +2126,6 @@
      "url": "https://oglobo.globo.com/politica/noticia/2026/10/31/rubio-assegura-que-os-eua-nao-estiveram-envolvidos-na-fuga-de-flavio-bolsonaro-do-brasil.ghtml",
      "domain": "O Globo",
      "seendate": "20261031T185529Z"
-    },
-    {
-     "title": "Governo Trump não pretende apoiar Flávio Bolsonaro como líder brasileiro, diz agência",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/31/governo-trump-nao-pretende-apoiar-flavio-bolsonaro-como-lider-brasileiro-diz-agencia.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261031T183017Z"
-    },
-    {
-     "title": "PM de SP apreende arsenal no Guarujá com fuzil, submetralhadora, espingardas, drones e explosivos",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/31/pm-de-sp-apreende-arsenal-no-guaruja-com-fuzil-submetralhadora-espingardas-drones-e-explosivos.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261031T181549Z"
-    },
-    {
-     "title": "João Campos é considerado nome certo em ministério no quarto mandato de Lula",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/31/joao-campos-e-considerado-nome-certo-em-ministerio-no-quarto-mandato-de-lula.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261031T175929Z"
-    },
-    {
-     "title": "Golpe da CNH usa ameaça de suspensão da carteira para atrair vítimas; veja como identificar mensagens falsas",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/31/golpe-da-cnh-usa-ameaca-de-suspensao-da-carteira-para-atrair-vitimas-veja-como-identificar-mensagens-falsas.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261031T173912Z"
-    },
-    {
-     "title": "Jornalista de 36 anos morre após quase dois meses internado por AVC hemorrágico em São Paulo",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/31/jornalista-de-36-anos-morre-apos-quase-dois-meses-internado-por-avc-hemorragico-em-sao-paulo.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261031T151634Z"
-    },
-    {
-     "title": "TJ de Alagoas determina que governo libere acesso de equipe de transição de JHC a sistemas estaduais",
-     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/31/tj-de-alagoas-determina-que-governo-libere-acesso-de-equipe-de-transicao-de-jhc-a-sistemas-estaduais.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261031T135710Z"
     }
    ]
   }
