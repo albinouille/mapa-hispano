@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T08:45:40+00:00",
+ "updated": "2026-11-01T09:42:21+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -145,6 +145,18 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Uruapan recuerda a Manzo entre flores, ofrendas y exigencias",
+     "url": "https://www.eluniversal.com.mx/estados/uruapan-recuerda-a-manzo-entre-flores-ofrendas-y-exigencias/",
+     "domain": "El Universal",
+     "seendate": "20261101T092349Z"
+    },
+    {
+     "title": "Becas de la 4T ahuyentan a estudiantes: Unesco; cae 12% matrícula en varones en bachillerato",
+     "url": "https://www.eluniversal.com.mx/nacion/becas-de-la-4t-ahuyentan-a-estudiantes-unesco-cae-12-matricula-en-varones-en-bachillerato/",
+     "domain": "El Universal",
+     "seendate": "20261101T083645Z"
+    },
     {
      "title": "“Los ataques no me van a detener”; entrevista con Grecia Quiroz",
      "url": "https://www.eluniversal.com.mx/nacion/los-ataques-no-me-van-a-detener-entrevista-con-grecia-quiroz/",
@@ -330,24 +342,6 @@
      "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-reporta-avance-de-32-de-tren-mexico-queretaro-preven-construir-2-mil-500-kilometros-de-vias/",
      "domain": "El Universal",
      "seendate": "20261031T220259Z"
-    },
-    {
-     "title": "Detienen en Hidalgo a exsecretario de Seguridad de Aquixtla, Puebla; lo acusan de tortura y robo agravado",
-     "url": "https://www.eluniversal.com.mx/estados/detienen-en-hidalgo-a-exsecretario-de-seguridad-de-aquixtla-puebla-lo-acusan-de-tortura-y-robo-agravado/",
-     "domain": "El Universal",
-     "seendate": "20261031T214850Z"
-    },
-    {
-     "title": "Crimen organizado corrompe y hace daño a México, afirma García Harfuch; llama a neutralizar amenazas",
-     "url": "https://www.eluniversal.com.mx/nacion/crimen-organizado-corrompe-y-hace-dano-a-mexico-afirma-garcia-harfuch-llama-a-neutralizar-amenazas/",
-     "domain": "El Universal",
-     "seendate": "20261031T214043Z"
-    },
-    {
-     "title": "Hidalguense fallecido bajo custodia del ICE contaba con residencia en EU; se descarta repatriación de sus restos",
-     "url": "https://www.eluniversal.com.mx/estados/hidalguense-fallecido-bajo-custodia-del-ice-contaba-con-residencia-en-eu-se-descarta-repatriacion-de-sus-restos/",
-     "domain": "El Universal",
-     "seendate": "20261031T212656Z"
     },
     {
      "title": "Investigan muerte de niña por disparo en operativo de la Guardia Estatal de Tamaulipas; gobernador promete justicia",
@@ -784,6 +778,12 @@
   "CRI": {
    "articles": [
     {
+     "title": "El Gordo de la lotería navideña repartirá en 2026 el premio más alto de los últimos 50 años",
+     "url": "https://www.nacion.com/el-pais/el-gordo-de-la-loteria-navidena-repartira-en-2026/LLUNMMJOPVH3LAZICVOLEXKERQ/story/",
+     "domain": "La Nación",
+     "seendate": "20261101T090000Z"
+    },
+    {
      "title": "El trabajo sexual que sostiene hogares y encuentra espacio en las pensiones: así opera este negocio en San José",
      "url": "https://www.nacion.com/sucesos/el-trabajo-sexual-que-sostiene-hogares-y-encuentra/GWFD6LL7DJFPTBEHAX5XTNQDZY/story/",
      "domain": "La Nación",
@@ -1207,6 +1207,12 @@
   "COL": {
    "articles": [
     {
+     "title": "Explosión en la zona rosa de Algeciras, Huila, habría dejado tres policías heridos y varios civiles afectados; autoridades investigan el hecho",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/explosion-en-la-zona-rosa-de-algeciras-huila-habria-dejado-tres-policias-heridos-y-varios-civiles-afectados-autoridades-investigan-el-hecho-3597793",
+     "domain": "El Tiempo",
+     "seendate": "20261101T085152Z"
+    },
+    {
      "title": "Cierre total en la vía La Línea por volcamiento de camión cisterna en túnel Las Mariposas, en Calarcá, Quindío: autoridades recomiendan rutas alternas",
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/cierre-total-en-la-via-la-linea-por-volcamiento-de-camion-cisterna-en-tunel-las-mariposas-en-calarca-quindio-autoridades-recomiendan-rutas-alternas-3597792",
      "domain": "El Tiempo",
@@ -1259,12 +1265,6 @@
      "url": "https://www.eltiempo.com/colombia/barranquilla/hermano-de-kbeto-zuleta-entrego-nuevos-detalles-del-estado-de-salud-del-cantante-tras-grave-accidente-de-transito-en-proceso-de-mejoria-3597745",
      "domain": "El Tiempo",
      "seendate": "20261031T230044Z"
-    },
-    {
-     "title": "Cartagena abre su quinta aula hospitalaria en Serena del Mar: la literatura como herramienta de acompañamiento emocional",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/cartagena-abre-su-quinta-aula-hospitalaria-en-serena-del-mar-la-literatura-como-herramienta-de-acompanamiento-emocional-3597735",
-     "domain": "El Tiempo",
-     "seendate": "20261031T215639Z"
     }
    ]
   },
@@ -1813,17 +1813,17 @@
      "url": "https://www.latercera.com/pulso/noticia/la-encrucijada-de-fin-de-ano-del-banco-central/",
      "domain": "latercera.com",
      "seendate": "20261025T103000Z"
-    },
-    {
-     "title": "Las señales que pueden ayudarte a detectar una estafa con inteligencia artificial",
-     "url": "https://www.t13.cl/noticia/te-puede-servir/nacional/las-senales-pueden-ayudarte-detectar-una-estafa-inteligencia-artificial-25-10-2026",
-     "domain": "t13.cl",
-     "seendate": "20261025T081500Z"
     }
    ]
   },
   "ARG": {
    "articles": [
+    {
+     "title": "Opinión: perdimos un 36% del rodeo vacuno y nadie se hace cargo",
+     "url": "https://www.lanacion.com.ar/economia/campo/opinion-perdimos-un-36-del-rodeo-vacuno-y-nadie-se-hace-cargo-nid01112026/",
+     "domain": "La Nación",
+     "seendate": "20261101T093000Z"
+    },
     {
      "title": "Se aproxima un nuevo “pulso de inestabilidad” que provocará lluvias y tormentas, con “focos puntualmente fuertes” y temperaturas cercanas a los 26°C: las zonas afectadas",
      "url": "https://www.lanacion.com.ar/sociedad/se-aproxima-un-nuevo-pulso-de-inestabilidad-que-provocara-lluvias-y-tormentas-con-focos-puntualmente-nid01112026/",
@@ -1937,12 +1937,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/crecio-rodeado-de-violencia-hoy-se-para-en-escenarios-y-ayuda-a-otros-adolescentes-a-salir-adelante-nid31102026/",
      "domain": "La Nación",
      "seendate": "20261101T001809Z"
-    },
-    {
-     "title": "La reflexión de Gabriel Rolón sobre los mandatos: “Creemos que decidimos cuando en realidad solo estamos cumpliendo”",
-     "url": "https://www.lanacion.com.ar/sociedad/la-reflexion-de-gabriel-rolon-sobre-los-mandatos-creemos-que-decidimos-cuando-en-realidad-solo-nid31102026/",
-     "domain": "La Nación",
-     "seendate": "20261101T000000Z"
     }
    ]
   },
