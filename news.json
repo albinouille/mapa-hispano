@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T05:44:22+00:00",
+ "updated": "2026-11-01T06:51:06+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -100,6 +100,12 @@
      "seendate": "20261031T201900Z"
     },
     {
+     "title": "La mayoría de las comisiones de los acampados en Sol se retira de la plaza para impulsar un movimiento social en los barrios",
+     "url": "https://elpais.com/espana/madrid/2026-10-31/la-mayoria-de-las-comisiones-de-los-acampados-en-sol-se-retira-de-la-plaza-para-impulsar-un-movimiento-social-en-los-barrios.html",
+     "domain": "El País",
+     "seendate": "20261031T153053Z"
+    },
+    {
      "title": "La justicia que no llega para Jesús, cuatro años después de su asesinato la noche de Halloween",
      "url": "https://elpais.com/espana/andalucia/2026-10-31/la-justicia-que-no-llega-para-jesus-cuatro-anos-despues-de-su-asesinato-la-noche-de-halloween.html",
      "domain": "El País",
@@ -136,12 +142,6 @@
      "seendate": "20261030T043001Z"
     },
     {
-     "title": "Suspendidas las líneas C1, C3, C4 y C8 de Cercanías Madrid por huelga de maquinistas: “Te armas de paciencia”",
-     "url": "https://elpais.com/espana/madrid/2026-10-29/suspendido-el-trafico-de-las-lineas-c1-c3-c4-c8a-y-c8b-de-cercanias-madrid-por-la-huelga-de-maquinistas.html",
-     "domain": "El País",
-     "seendate": "20261029T123236Z"
-    },
-    {
      "title": "Madrid vende un edificio público por 16 millones y acaba pagando 26 para seguir usándolo",
      "url": "https://elpais.com/espana/madrid/2026-10-29/madrid-vende-un-edificio-publico-por-16-millones-y-acaba-pagando-26-para-seguir-usandolo.html",
      "domain": "El País",
@@ -151,6 +151,12 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Empleados del IMSS suman 8 mil denuncias",
+     "url": "https://www.eluniversal.com.mx/nacion/empleados-del-imss-suman-8-mil-denuncias/",
+     "domain": "El Universal",
+     "seendate": "20261101T060000Z"
+    },
     {
      "title": "Colocan ofrenda a víctimas de transfeminicidio; rinde tributo a Paola Buenrostro",
      "url": "https://www.eluniversal.com.mx/metropoli/colocan-ofrenda-a-victimas-de-transfeminicidio-rinde-tributo-a-paola-buenrostro/",
@@ -354,12 +360,6 @@
      "url": "https://www.eluniversal.com.mx/nacion/adulto-mayor-muere-en-hospital-del-imss-en-mexicali-cndh-senala-negligencia-medica/",
      "domain": "El Universal",
      "seendate": "20261031T202937Z"
-    },
-    {
-     "title": "Sheinbaum inaugura Universidad Rosario Castellanos en Hidalgo; busca duplicar matrícula nacional a más de 240 mil estudiantes",
-     "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-inaugura-universidad-rosario-castellanos-en-hidalgo-busca-duplicar-matricula-nacional-a-mas-de-240-mil-estudiantes/",
-     "domain": "El Universal",
-     "seendate": "20261031T190553Z"
     },
     {
      "title": "Gran Desfile de Día de Muertos 2026 en la CDMX; así se vivió el recorrido entre catrinas, música y carros alegóricos",
@@ -1207,6 +1207,12 @@
   "COL": {
    "articles": [
     {
+     "title": "Cierre total en la vía La Línea por volcamiento de camión cisterna en túnel Las Mariposas, en Calarcá, Quindío: autoridades recomiendan rutas alternas",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/cierre-total-en-la-via-la-linea-por-volcamiento-de-camion-cisterna-en-tunel-las-mariposas-en-calarca-quindio-autoridades-recomiendan-rutas-alternas-3597792",
+     "domain": "El Tiempo",
+     "seendate": "20261101T062525Z"
+    },
+    {
      "title": "El vallenato, una música que también ha llorado a sus artistas en las carreteras",
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-vallenato-una-musica-que-tambien-ha-llorado-a-sus-artistas-en-las-carreteras-3597623",
      "domain": "El Tiempo",
@@ -1259,12 +1265,6 @@
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/cartagena-abre-su-quinta-aula-hospitalaria-en-serena-del-mar-la-literatura-como-herramienta-de-acompanamiento-emocional-3597735",
      "domain": "El Tiempo",
      "seendate": "20261031T215639Z"
-    },
-    {
-     "title": "Cali y el Pacífico perfilan su futuro con 54 megaproyectos en el Plan Nacional de Desarrollo: las inversiones podrían alcanzar los $49,2 billones",
-     "url": "https://www.eltiempo.com/colombia/cali/cali-y-el-pacifico-perfilan-su-futuro-con-54-megaproyectos-en-el-plan-nacional-de-desarrollo-las-inversiones-podrian-alcanzar-los-49-2-billones-3597734",
-     "domain": "El Tiempo",
-     "seendate": "20261031T213127Z"
     }
    ]
   },
@@ -1461,6 +1461,12 @@
   "ECU": {
    "articles": [
     {
+     "title": "Toque de queda comenzó en cinco provincias: Policía instala puntos de control en Guayaquil",
+     "url": "https://eluniverso.com/politica/seguridad/toque-de-queda-comenzo-en-cinco-provincias-policia-instala-puntos-de-control-en-guayaquil-nota/",
+     "domain": "El Universo",
+     "seendate": "20261101T060623Z"
+    },
+    {
      "title": "Más de 10 toneladas de ayuda humanitaria llegan a Galápagos por las inundaciones",
      "url": "https://eluniverso.com/politica/ejecutivo/mas-de-10-toneladas-de-ayuda-humanitaria-llegan-a-galapagos-por-las-inundaciones-nota/",
      "domain": "El Universo",
@@ -1593,14 +1599,14 @@
      "seendate": "20261031T171343Z"
     },
     {
-     "title": "Cuándo empieza el toque de queda en Guayas, Esmeraldas, Manabí, Los Ríos y El Oro",
-     "url": "https://eluniverso.com/politica/seguridad/cuando-empieza-el-toque-de-queda-en-guayas-esmeraldas-manabi-los-rios-y-el-oro-nota/",
+     "title": "Cuándo empieza el toque de queda en Ecuador: Estas son las provincias donde rige",
+     "url": "https://eluniverso.com/politica/seguridad/cuando-empieza-el-toque-de-queda-en-ecuador-estas-son-las-provincias-donde-rige-nota/",
      "domain": "El Universo",
      "seendate": "20261031T170000Z"
     },
     {
-     "title": "Cuándo empieza el toque de queda en Ecuador: Estas son las provincias donde rige",
-     "url": "https://eluniverso.com/politica/seguridad/cuando-empieza-el-toque-de-queda-en-ecuador-estas-son-las-provincias-donde-rige-nota/",
+     "title": "Cuándo empieza el toque de queda en Guayas, Esmeraldas, Manabí, Los Ríos y El Oro",
+     "url": "https://eluniverso.com/politica/seguridad/cuando-empieza-el-toque-de-queda-en-guayas-esmeraldas-manabi-los-rios-y-el-oro-nota/",
      "domain": "El Universo",
      "seendate": "20261031T170000Z"
     },
@@ -1825,20 +1831,38 @@
   "ARG": {
    "articles": [
     {
+     "title": "Thiago tiene 14 años, construyó un tractor y ahora quiere automatizarlo: “Lo hice con chatarra”",
+     "url": "https://www.lanacion.com.ar/economia/campo/thiago-tiene-14-anos-construyo-un-tractor-y-ahora-quiere-automatizarlo-lo-hice-con-chatarra-nid01112026/",
+     "domain": "La Nación",
+     "seendate": "20261101T060000Z"
+    },
+    {
+     "title": "El Gobierno busca evitar fricciones en la visita del papa León XIV y envía señales a la Iglesia",
+     "url": "https://www.lanacion.com.ar/politica/el-gobierno-busca-evitar-fricciones-en-la-visita-del-papa-leon-xiv-y-envia-senales-a-la-iglesia-nid01112026/",
+     "domain": "La Nación",
+     "seendate": "20261101T055901Z"
+    },
+    {
+     "title": "Hay alertas por tormentas, lluvias y vientos fuertes para este domingo 1º de noviembre",
+     "url": "https://www.lanacion.com.ar/sociedad/hay-alertas-por-tormentas-lluvias-y-vientos-fuertes-para-este-domingo-1-de-noviembre-nid01112026/",
+     "domain": "La Nación",
+     "seendate": "20261101T054923Z"
+    },
+    {
      "title": "La recesión pone en jaque los acuerdos de Milei",
      "url": "https://www.lanacion.com.ar/politica/la-recesion-pone-en-jaque-los-acuerdos-de-milei-nid31102026/",
      "domain": "La Nación",
      "seendate": "20261101T040111Z"
     },
     {
-     "title": "¿Contra qué podemos comparar el boom de la IA? Ya no alcanza ni Internet ni la electricidad",
-     "url": "https://www.lanacion.com.ar/economia/contra-que-podemos-comparar-el-boom-de-la-ia-ya-no-alcanza-ni-internet-ni-la-electricidad-nid01112026/",
+     "title": "Qué se puede hacer para reactivar la economía sin modificar el rumbo",
+     "url": "https://www.lanacion.com.ar/economia/que-se-puede-hacer-para-reactivar-la-economia-sin-modificar-el-rumbo-nid01112026/",
      "domain": "La Nación",
      "seendate": "20261101T030100Z"
     },
     {
-     "title": "Qué se puede hacer para reactivar la economía sin modificar el rumbo",
-     "url": "https://www.lanacion.com.ar/economia/que-se-puede-hacer-para-reactivar-la-economia-sin-modificar-el-rumbo-nid01112026/",
+     "title": "¿Contra qué podemos comparar el boom de la IA? Ya no alcanza ni Internet ni la electricidad",
+     "url": "https://www.lanacion.com.ar/economia/contra-que-podemos-comparar-el-boom-de-la-ia-ya-no-alcanza-ni-internet-ni-la-electricidad-nid01112026/",
      "domain": "La Nación",
      "seendate": "20261101T030100Z"
     },
@@ -1925,18 +1949,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/un-paso-fundamental-que-es-como-funciona-y-desde-cuando-sera-obligatoria-la-libreta-digital-para-los-nid31102026/",
      "domain": "La Nación",
      "seendate": "20261031T233817Z"
-    },
-    {
-     "title": "Tras la derrota y huida de Flavio Bolsonaro, el presidente Milei quedó sin socios en Brasil",
-     "url": "https://www.lanacion.com.ar/politica/tras-la-derrota-y-huida-de-flavio-bolsonaro-el-presidente-milei-quedo-sin-socios-en-brasil-nid31102026/",
-     "domain": "La Nación",
-     "seendate": "20261031T232042Z"
-    },
-    {
-     "title": "Hallaron muertos a los cinco integrantes de una familia en una casa de Merlo",
-     "url": "https://www.lanacion.com.ar/seguridad/hallaron-muertos-a-los-cinco-integrantes-de-una-familia-en-una-casa-de-merlo-nid31102026/",
-     "domain": "La Nación",
-     "seendate": "20261031T230609Z"
     }
    ]
   },
@@ -2062,6 +2074,48 @@
   "BRA": {
    "articles": [
     {
+     "title": "Família Bolsonaro, promessas e presença fora de São Paulo: os desafios de Tarcísio para virar liderança nacional em 2030",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/11/01/familia-bolsonaro-promessas-e-presenca-fora-de-sao-paulo-os-desafios-de-tarcisio-para-virar-lideranca-nacional-em-2030.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261101T063001Z"
+    },
+    {
+     "title": "Banheira instagramável, banho terapêutico e massagens: como são os spas para bebês que estão ganhando as redes sociais",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/11/01/banheira-instagramavel-banho-terapeutico-e-massagens-como-sao-os-spas-para-bebes-que-estao-ganhando-as-redes-sociais.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261101T063001Z"
+    },
+    {
+     "title": "Com Flávio nos EUA, governadores da direita 'viram página' da eleição diante de desafios fiscais e relação com Planalto",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/11/01/com-flavio-nos-eua-governadores-da-direita-viram-pagina-da-eleicao-diante-de-desafios-fiscais-e-relacao-com-planalto.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261101T063001Z"
+    },
+    {
+     "title": "Ala paulista do PT perde influência no partido para grupo do Nordeste após eleição",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/11/01/ala-paulista-do-pt-perde-influencia-no-partido-para-grupo-do-nordeste-apos-eleicao.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261101T063001Z"
+    },
+    {
+     "title": "Entrevista: 'Não dá para recomeçar o processo de comunicação a cada quatro anos', diz marqueteiro da campanha de Lula",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/11/01/entrevista-nao-da-para-recomecar-o-processo-de-comunicacao-a-cada-quatro-anos-diz-marqueteiro-da-campanha-de-lula.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261101T063001Z"
+    },
+    {
+     "title": "'Janonismo' inspira esquerda de outros países, enquanto presidente avalia como manter legado do 'Exército de Lula'",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/11/01/janonismo-inspira-esquerda-de-outros-paises-enquanto-presidente-avalia-como-manter-legado-do-exercito-de-lula.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261101T063001Z"
+    },
+    {
+     "title": "Acusado de falta de engajamento, Cleitinho é cobrado por derrota de Flávio em Minas e vê aliança com PL em xeque",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/11/01/acusado-de-falta-de-engajamento-cleitinho-e-cobrado-por-derrota-de-flavio-em-minas-e-ve-alianca-com-pl-em-xeque.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261101T063001Z"
+    },
+    {
      "title": "Polícia de São Paulo prende suspeito de roubar R$ 45 milhões em golpe de criptomoedas no Amazonas",
      "url": "https://oglobo.globo.com/brasil/noticia/2026/10/31/policia-de-sao-paulo-prende-suspeito-de-roubar-r-45-milhoes-em-golpe-de-criptomoedas-no-amazonas.ghtml",
      "domain": "O Globo",
@@ -2132,18 +2186,6 @@
      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/31/tj-de-alagoas-determina-que-governo-libere-acesso-de-equipe-de-transicao-de-jhc-a-sistemas-estaduais.ghtml",
      "domain": "O Globo",
      "seendate": "20261031T135710Z"
-    },
-    {
-     "title": "MP Eleitoral dá parecer favorável à união de federação e partido que pode interferir na cláusula de barreira",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/31/mp-eleitoral-da-parecer-favoravel-a-uniao-de-federacao-e-partido-que-pode-interferir-na-clausula-de-barreira.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261031T115633Z"
-    },
-    {
-     "title": "Galeria no térreo do Martinelli abre ao público com mostra de Cildo Meireles e mais de 90 artistas para leilão",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/31/galeria-no-terreo-do-martinelli-abre-ao-publico-com-mostra-de-cildo-meireles-e-mais-de-90-artistas-para-leilao.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261031T101825Z"
     }
    ]
   }
