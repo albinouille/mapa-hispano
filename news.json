@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T01:04:51+00:00",
+ "updated": "2026-11-01T02:04:30+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -324,18 +324,6 @@
      "url": "https://www.eluniversal.com.mx/estados/dedican-ofrenda-a-carlos-manzo-en-plaza-de-uruapan-donde-fue-asesinado-convocan-a-marcha-a-un-ano-del-crimen/",
      "domain": "El Universal",
      "seendate": "20261031T170424Z"
-    },
-    {
-     "title": "Muere delfín \"Mincho\" en Dolphin Connection Cancún, presuntamente por un \"tumor maligno\"; Profepa pide necropsia",
-     "url": "https://www.eluniversal.com.mx/nacion/muere-delfin-mincho-en-dolphin-connection-cancun-presuntamente-por-un-tumor-maligno-profepa-pide-necropsia/",
-     "domain": "El Universal",
-     "seendate": "20261031T163953Z"
-    },
-    {
-     "title": "Instituto Electoral de Zacatecas reconoce \"prácticas monopólicas\" en adjudicaciones; se dice abierto a investigación",
-     "url": "https://www.eluniversal.com.mx/estados/instituto-electoral-de-zacatecas-reconoce-practicas-monopolicas-en-adjudicaciones-se-dice-abierto-a-investigacion/",
-     "domain": "El Universal",
-     "seendate": "20261031T163714Z"
     }
    ]
   },
@@ -760,6 +748,18 @@
   "CRI": {
    "articles": [
     {
+     "title": "Vagoneta quiebra 11 postes eléctricos en Zapote y deja a 400 clientes sin luz: CNFL anuncia cuándo restablecerá el servicio",
+     "url": "https://www.nacion.com/el-pais/vagoneta-quiebra-11-postes-electricos-en-zapote-y/X23UYVOBCJGJLB5JAPFHIFU734/story/",
+     "domain": "La Nación",
+     "seendate": "20261101T013049Z"
+    },
+    {
+     "title": "IMN pronostica un domingo con lluvias en varias regiones del país y fuertes vientos de hasta 85 km/h",
+     "url": "https://www.nacion.com/sucesos/imn-pronostica-un-domingo-con-lluvias-en-varias/AVLANKS7A5BYPEUFINPDQ2WFFI/story/",
+     "domain": "La Nación",
+     "seendate": "20261101T012139Z"
+    },
+    {
      "title": "Estados Unidos deporta a dos costarricenses con órdenes de captura internacional",
      "url": "https://www.nacion.com/sucesos/estados-unidos-deporta-a-dos-costarricenses-con/VZTQDAL7BVE55G7NK346GMIXI4/story/",
      "domain": "La Nación",
@@ -1159,10 +1159,22 @@
   "COL": {
    "articles": [
     {
-     "title": "Video | Reaparece 'El Gatico': hijo de 'La Gata', Enilce López, denuncia amenazas contra su vida y promete ventilar negocios de su clan con políticos",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/video-hijo-de-la-gata-reaparece-denuncia-amenazas-contra-su-vida-y-promete-ventilar-los-negocios-de-su-clan-con-la-clase-politica-3597713",
+     "title": "Distrito de Cartagena presentó el cronograma para la siguiente fase del Gran Malecón del Mar: en marzo de 2027 entregarán el Mirador del Sol",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/distrito-de-cartagena-presento-el-cronograma-para-la-siguiente-fase-del-gran-malecon-del-mar-en-marzo-de-2027-entregaran-el-mirador-del-sol-3597748",
      "domain": "El Tiempo",
-     "seendate": "20261101T000831Z"
+     "seendate": "20261101T013401Z"
+    },
+    {
+     "title": "Trabajo sí hay: más de 20.000 vacantes en el Empleo Fest 2026 que se llevará a cabo en Medellín en el centro de convenciones Plaza Mayor",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/trabajo-si-hay-mas-de-20-000-vacantes-en-el-empleo-fest-2026-que-se-llevara-a-cabo-en-medellin-en-el-centro-de-convenciones-plaza-mayor-3597769",
+     "domain": "El Tiempo",
+     "seendate": "20261101T011946Z"
+    },
+    {
+     "title": "El costo de no construir vías: así se agravó la movilidad en Bucaramanga en 20 años",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-costo-de-no-construir-vias-asi-se-agravo-la-movilidad-en-bucaramanga-en-20-anos-3597767",
+     "domain": "El Tiempo",
+     "seendate": "20261101T010427Z"
     },
     {
      "title": "Primicia | Gobernador de Antioquia propone reducir de 18 a 7 los ministerios y ahorrar $28 billones al año: se reunirá hoy con De la Espriella",
@@ -1205,18 +1217,6 @@
      "url": "https://www.eltiempo.com/colombia/medellin/derriban-la-casa-de-vicio-numero-85-en-antioquia-asi-operaba-este-peligroso-foco-de-inseguridad-en-cocorna-3597728",
      "domain": "El Tiempo",
      "seendate": "20261031T195825Z"
-    },
-    {
-     "title": "La angustiosa búsqueda de Dylan Campaz en Buenaventura: el caso se eleva a desaparición forzada y ofrecen millonaria recompensa",
-     "url": "https://www.eltiempo.com/colombia/cali/la-angustiosa-busqueda-de-dylan-campaz-en-buenaventura-el-caso-se-eleva-a-desaparicion-forzada-y-ofrecen-millonaria-recompensa-3597726",
-     "domain": "El Tiempo",
-     "seendate": "20261031T192616Z"
-    },
-    {
-     "title": "Stanford incluye a 15 científicos de la Universidad de Antioquia entre el 2 % más influyente del mundo",
-     "url": "https://www.eltiempo.com/colombia/medellin/los-15-cientificos-de-la-universidad-de-antioquia-que-entraron-al-selecto-grupo-del-2-mas-influyente-del-mundo-3597711",
-     "domain": "El Tiempo",
-     "seendate": "20261031T171500Z"
     }
    ]
   },
@@ -1545,14 +1545,14 @@
      "seendate": "20261031T171343Z"
     },
     {
-     "title": "Cuándo empieza el toque de queda en Ecuador: Estas son las provincias donde rige",
-     "url": "https://eluniverso.com/politica/seguridad/cuando-empieza-el-toque-de-queda-en-ecuador-estas-son-las-provincias-donde-rige-nota/",
+     "title": "Cuándo empieza el toque de queda en Guayas, Esmeraldas, Manabí, Los Ríos y El Oro",
+     "url": "https://eluniverso.com/politica/seguridad/cuando-empieza-el-toque-de-queda-en-guayas-esmeraldas-manabi-los-rios-y-el-oro-nota/",
      "domain": "El Universo",
      "seendate": "20261031T170000Z"
     },
     {
-     "title": "Cuándo empieza el toque de queda en Guayas, Esmeraldas, Manabí, Los Ríos y El Oro",
-     "url": "https://eluniverso.com/politica/seguridad/cuando-empieza-el-toque-de-queda-en-guayas-esmeraldas-manabi-los-rios-y-el-oro-nota/",
+     "title": "Cuándo empieza el toque de queda en Ecuador: Estas son las provincias donde rige",
+     "url": "https://eluniverso.com/politica/seguridad/cuando-empieza-el-toque-de-queda-en-ecuador-estas-son-las-provincias-donde-rige-nota/",
      "domain": "El Universo",
      "seendate": "20261031T170000Z"
     },
@@ -1591,18 +1591,6 @@
      "url": "https://eluniverso.com/comunidad/ecuador/ecuador-registra-14-desbordamientos-de-rios-y-esteros-este-sabado-31-de-octubre-nota/",
      "domain": "El Universo",
      "seendate": "20261031T134422Z"
-    },
-    {
-     "title": "Aeropuerto de Baltra suspende operaciones durante cuatro horas por fuertes lluvias en Santa Cruz",
-     "url": "https://eluniverso.com/comunidad/ecuador/aeropuerto-de-baltra-suspende-operaciones-durante-cuatro-horas-por-fuertes-lluvias-en-santa-cruz-nota/",
-     "domain": "El Universo",
-     "seendate": "20261031T130842Z"
-    },
-    {
-     "title": "Tonello Soluciones, empresa de Alexandro Tonello, exviceprefecto de Pichincha y aspirante del correísmo, se habría adjudicado más de $ 10,5 millones en contratos incumpliendo la Ley de Contratación Pública",
-     "url": "https://eluniverso.com/politica/expedientes/ley-de-contratacion-publica-prohibe-a-autoridades-tener-contratos-con-el-estado-alexandro-tonello-exviceprefecto-de-pichincha-y-aspirante-del-correismo-la-habria-incumplido-nota/",
-     "domain": "El Universo",
-     "seendate": "20261029T215632Z"
     },
     {
      "title": "Historias detrás de los casos que investigó la ex fiscal general Diana Salazar: estas son algunas revelaciones de su libro autobiográfico",
@@ -1843,6 +1831,24 @@
   "ARG": {
    "articles": [
     {
+     "title": "Una orquesta sin una partitura compartida",
+     "url": "https://www.lanacion.com.ar/politica/una-orquesta-sin-una-partitura-compartida-nid31102026/",
+     "domain": "La Nación",
+     "seendate": "20261101T015000Z"
+    },
+    {
+     "title": "Javier Milei asistió a la inauguración de un templo evangélico y pidió “convicción” para defender la libertad",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-asistio-a-la-inauguracion-de-un-templo-evangelico-y-pidio-conviccion-para-defender-la-nid31102026/",
+     "domain": "La Nación",
+     "seendate": "20261101T014443Z"
+    },
+    {
+     "title": "El pensamiento de Séneca que inspira a Marian Rojas Estapé, psiquiatra: “La suerte es donde confluyen la preparación y la oportunidad”",
+     "url": "https://www.lanacion.com.ar/sociedad/el-pensamiento-de-seneca-que-inspira-a-marian-rojas-estape-psiquiatra-la-suerte-es-donde-confluyen-nid31102026/",
+     "domain": "La Nación",
+     "seendate": "20261101T010000Z"
+    },
+    {
      "title": "Enojo de La Cámpora contra Kicillof por su rechazo a los candidatos a dedo de Cristina Kirchner",
      "url": "https://www.lanacion.com.ar/politica/enojo-de-la-campora-contra-kicillof-por-su-rechazo-a-los-candidatos-a-dedo-de-cristina-kirchner-nid31102026/",
      "domain": "La Nación",
@@ -1949,18 +1955,6 @@
      "url": "https://www.lanacion.com.ar/politica/el-gobierno-designo-a-un-nuevo-subsecretario-de-ciencia-tras-la-polemica-salida-de-lencina-con-nid31102026/",
      "domain": "La Nación",
      "seendate": "20261031T194734Z"
-    },
-    {
-     "title": "Los hermanos Passaglia hicieron su primer acto de campaña con una caminata en San Nicolás",
-     "url": "https://www.lanacion.com.ar/politica/los-hermanos-passaglia-hicieron-su-primer-acto-de-campana-con-una-caminata-en-san-nicolas-nid31102026/",
-     "domain": "La Nación",
-     "seendate": "20261031T193132Z"
-    },
-    {
-     "title": "Aumenta el transporte público: cómo queda el boleto de colectivos y subte a partir del 1° de noviembre",
-     "url": "https://www.lanacion.com.ar/economia/aumenta-el-transporte-publico-como-queda-el-boleto-de-colectivos-y-subte-a-partir-del-1-de-noviembre-nid31102026/",
-     "domain": "La Nación",
-     "seendate": "20261031T190930Z"
     }
    ]
   },
@@ -2055,16 +2049,16 @@
   "PRY": {
    "articles": [
     {
-     "title": "Marcha LGBTIQ+ en Asunción: Advierten que ley “anti-género” viola la Constitución",
+     "title": "Inauguran pórtico de identidad y otras mejoras en la Laguna Punta Porã de Pedro Juan Caballero",
+     "url": "https://www.abc.com.py/nacionales/2026/10/31/inauguran-portico-de-identidad-y-otras-mejoras-en-la-laguna-punta-pora-de-pedro-juan-caballero/",
+     "domain": "ABC Color",
+     "seendate": "20261101T013943Z"
+    },
+    {
+     "title": "Marcha LGBTIQ+ en Asunción: sostienen que ley “anti-género” viola la Constitución",
      "url": "https://www.abc.com.py/nacionales/2026/10/31/marcha-lgbtiq-en-asuncion-advierten-que-ley-anti-genero-viola-la-constitucion/",
      "domain": "ABC Color",
      "seendate": "20261101T005629Z"
-    },
-    {
-     "title": "Comerciantes ofrecen pescados a precios accesibles antes de la veda pesquera",
-     "url": "https://www.abc.com.py/nacionales/2026/10/31/comerciantes-ofrecen-pescados-a-precios-accesibles-antes-de-la-veda-pesquera/",
-     "domain": "ABC Color",
-     "seendate": "20261031T194508Z"
     }
    ]
   },
