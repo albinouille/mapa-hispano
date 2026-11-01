@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T19:37:59+00:00",
+ "updated": "2026-11-01T20:33:09+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -622,6 +622,12 @@
   "CRI": {
    "articles": [
     {
+     "title": "A las puertas del juicio por femicidio, tía de Mónica Chaves exige justicia para cerrar el duelo: ‘Los niños lloran por su mamá al dormir’",
+     "url": "https://www.nacion.com/sucesos/a-las-puertas-del-juicio-por-femicidio-tia-de/CUQPISPDEVBYRNQYWNCDA4UE6Y/story/",
+     "domain": "La Nación",
+     "seendate": "20261101T200013Z"
+    },
+    {
      "title": "Operativos contra rodadas de motociclistas dejan más de 1.800 multas y 172 motos decomisadas",
      "url": "https://www.nacion.com/el-pais/operativos-contra-rodadas-de-motociclistas-dejan/4IOLRY2AANGIBKEAAMTLF4ZK7I/story/",
      "domain": "La Nación",
@@ -740,23 +746,17 @@
      "url": "https://www.nacion.com/sucesos/operativo-de-halloween-deja-decomiso-de-armas/HOO6JNRXCRGBXE5JTJN7YJ3LU4/story/",
      "domain": "La Nación",
      "seendate": "20261031T214515Z"
-    },
-    {
-     "title": "Vehículo cae a precipicio de 150 metros en Acosta: una persona fue trasladada de urgencia a centro médico",
-     "url": "https://www.nacion.com/sucesos/vehiculo-cae-a-precipicio-de-150-metros-en-acosta/NIANJHCKCBAKRMESTFGREKC4WI/story/",
-     "domain": "La Nación",
-     "seendate": "20261031T203424Z"
-    },
-    {
-     "title": "Emergencia en Mora: hombre fue arrastrado por la fuerza del agua en Desamparaditos",
-     "url": "https://www.nacion.com/sucesos/emergencia-en-mora-hombre-fue-arrastrado-por-la/DHMAFYUDM5CQDLMDL4LKYNR4DU/story/",
-     "domain": "La Nación",
-     "seendate": "20261031T202153Z"
     }
    ]
   },
   "PAN": {
    "articles": [
+    {
+     "title": "Fiscalía archiva denuncia penal contra el CIAM por el caso Puerto Barú",
+     "url": "https://www.prensa.com/politica/fiscalia-archiva-denuncia-penal-contra-el-ciam-por-el-caso-puerto-baru/",
+     "domain": "La Prensa",
+     "seendate": "20261101T193357Z"
+    },
     {
      "title": "Ordenan nueva paralización del proyecto Naturabocas por incumplimiento en Bocas del Toro",
      "url": "https://www.prensa.com/sociedad/ordenan-nueva-paralizacion-del-proyecto-naturabocas-por-incumplimiento-en-bocas-del-toro/",
@@ -864,17 +864,17 @@
      "url": "https://www.prensa.com/politica/la-repregunta-29-de-octubre-terremoto-contrataciones-publicas-y-presupuesto-2027/",
      "domain": "La Prensa",
      "seendate": "20261029T160645Z"
-    },
-    {
-     "title": "Secuelas del terremoto: La grieta de Búcaro, el dilema de isla Cañas y el resurgir de La Colorada",
-     "url": "https://www.prensa.com/sociedad/secuelas-del-terremoto-la-grieta-de-bucaro-el-dilema-de-isla-canas-y-el-resurgir-de-la-colorada/",
-     "domain": "La Prensa",
-     "seendate": "20261029T050000Z"
     }
    ]
   },
   "CUB": {
    "articles": [
+    {
+     "title": "La Fiscalía pide hasta cinco años de cárcel por una protesta en Bayamo",
+     "url": "https://www.14ymedio.com/cuba/fiscalia-pide-cinco-anos-carcel_1_1132711.html",
+     "domain": "14ymedio",
+     "seendate": "20261101T194108Z"
+    },
     {
      "title": "Condenan a cadena perpetua a un hombre por asesinar a un policía en Palma Soriano",
      "url": "https://www.14ymedio.com/cuba/condenan-cadena-perpetua-hombre-asesinar_1_1132709.html",
@@ -1137,6 +1137,36 @@
   "ECU": {
    "articles": [
     {
+     "title": "Universidades de Quito habilitan centros de acopio para damnificados de las islas Galápagos",
+     "url": "https://eluniverso.com/comunidad/ecuador/quito-ecuador-islas-galapagos-centros-de-acopio-islas-galapagos-damnificados-emergencias-por-luvias-nota/",
+     "domain": "El Universo",
+     "seendate": "20261101T203000Z"
+    },
+    {
+     "title": "La primera dama, Lavinia Valbonesi, está en Galápagos: ‘He venido a escuchar y acompañar a todas las familias afectadas’",
+     "url": "https://eluniverso.com/politica/ejecutivo/la-primera-dama-lavinia-valbonesi-esta-en-galapagos-he-venido-a-escuchar-y-acompanar-a-todas-las-familias-afectadas-nota/",
+     "domain": "El Universo",
+     "seendate": "20261101T201604Z"
+    },
+    {
+     "title": "Suman 218 aprehendidos en el primer día de toque de queda en cinco provincias de Ecuador",
+     "url": "https://eluniverso.com/politica/seguridad/suman-218-aprehendidos-en-el-primer-dia-de-toque-de-queda-en-cinco-provincias-de-ecuador-nota/",
+     "domain": "El Universo",
+     "seendate": "20261101T200910Z"
+    },
+    {
+     "title": "Segundo vuelo humanitario lleva agua, alimentos y equipos para atender las inundaciones en Galápagos",
+     "url": "https://eluniverso.com/politica/ejecutivo/fenomeno-del-nino-galapagos-nota/",
+     "domain": "El Universo",
+     "seendate": "20261101T200220Z"
+    },
+    {
+     "title": "Ayuda humanitaria llega a familias afectadas por las lluvias en Galápagos y otras cuatro provincias",
+     "url": "https://eluniverso.com/comunidad/ecuador/ayuda-humanitaria-llega-a-familias-afectadas-por-las-lluvias-en-galapagos-y-otras-cuatro-provincias-nota/",
+     "domain": "El Universo",
+     "seendate": "20261101T195358Z"
+    },
+    {
      "title": "Parrilla October Fest reunió gastronomía y música en el primer día del feriado en Manta",
      "url": "https://eluniverso.com/comunidad/ecuador/feriado-en-manta-parrilla-october-fest-y-eventos-nota/",
      "domain": "El Universo",
@@ -1201,12 +1231,6 @@
      "url": "https://eluniverso.com/politica/ejecutivo/mas-de-10-toneladas-de-ayuda-humanitaria-llegan-a-galapagos-por-las-inundaciones-nota/",
      "domain": "El Universo",
      "seendate": "20261101T005118Z"
-    },
-    {
-     "title": "Feria de Finados en Shuyurco atraerá a más de 100.000 visitantes durante este feriado",
-     "url": "https://eluniverso.com/comunidad/ecuador/feriado-nota/",
-     "domain": "El Universo",
-     "seendate": "20261031T233000Z"
     },
     {
      "title": "Emergencia en Santa Cruz: una persona murió y otras dos están desaparecidas por inundación en esta isla de Galápagos",
@@ -1279,6 +1303,24 @@
   "ARG": {
    "articles": [
     {
+     "title": "Se incendió un velero en el puerto de Mar del Plata: rescataron a tres canadienses y a un perro",
+     "url": "https://www.lanacion.com.ar/seguridad/se-incendio-un-velero-en-el-puerto-de-mar-del-plata-rescataron-a-tres-canadienses-y-a-un-perro-nid01112026/",
+     "domain": "La Nación",
+     "seendate": "20261101T201226Z"
+    },
+    {
+     "title": "El desafío de comprender los vínculos que plantea la psiquiatra Marian Rojas Estapé: “Nos dedicamos a ver el grueso y olvidamos los matices”",
+     "url": "https://www.lanacion.com.ar/sociedad/el-desafio-de-comprender-los-vinculos-que-plantea-la-psiquiatra-marian-rojas-estape-nos-dedicamos-a-nid01112026/",
+     "domain": "La Nación",
+     "seendate": "20261101T200000Z"
+    },
+    {
+     "title": "El pronóstico del tiempo para este lunes 2 de noviembre en el AMBA: hay un 40% de probabilidad de lluvias aisladas a la madrugada y la máxima alcanza los 26°",
+     "url": "https://www.lanacion.com.ar/sociedad/el-pronostico-del-tiempo-para-este-lunes-2-de-noviembre-en-el-amba-hay-un-40-de-probabilidad-de-nid01112026/",
+     "domain": "La Nación",
+     "seendate": "20261101T193821Z"
+    },
+    {
      "title": "Se viene un domingo lluvioso: vientos de 22 km/h, 70% de probabilidad de tormentas fuertes y hasta 24° en el AMBA",
      "url": "https://www.lanacion.com.ar/sociedad/se-viene-un-domingo-lluvioso-vientos-de-22-kmh-70-de-probabilidad-de-tormentas-fuertes-y-hasta-24-nid01112026/",
      "domain": "La Nación",
@@ -1315,14 +1357,14 @@
      "seendate": "20261101T172404Z"
     },
     {
-     "title": "Estos son los cinco lugares del mundo en los que la gente vive más",
-     "url": "https://www.lanacion.com.ar/sociedad/estos-son-los-cinco-lugares-del-mundo-en-los-que-la-gente-vive-mas-nid01112026/",
+     "title": "La reflexión de Darío Sztajnszrajber sobre para qué sirve hoy la filosofía: “Para cuestionar por qué todo tiene que servir siempre”",
+     "url": "https://www.lanacion.com.ar/sociedad/la-reflexion-de-dario-sztajnszrajber-sobre-para-que-sirve-hoy-la-filosofia-para-cuestionar-por-que-nid01112026/",
      "domain": "La Nación",
      "seendate": "20261101T170000Z"
     },
     {
-     "title": "La reflexión de Darío Sztajnszrajber sobre para qué sirve hoy la filosofía: “Para cuestionar por qué todo tiene que servir siempre”",
-     "url": "https://www.lanacion.com.ar/sociedad/la-reflexion-de-dario-sztajnszrajber-sobre-para-que-sirve-hoy-la-filosofia-para-cuestionar-por-que-nid01112026/",
+     "title": "Estos son los cinco lugares del mundo en los que la gente vive más",
+     "url": "https://www.lanacion.com.ar/sociedad/estos-son-los-cinco-lugares-del-mundo-en-los-que-la-gente-vive-mas-nid01112026/",
      "domain": "La Nación",
      "seendate": "20261101T170000Z"
     },
@@ -1391,78 +1433,6 @@
      "url": "https://www.lanacion.com.ar/economia/a-cuanto-llega-la-puam-en-noviembre-de-2026-con-el-aumento-confirmado-nid20102026/",
      "domain": "La Nación",
      "seendate": "20261101T125956Z"
-    },
-    {
-     "title": "PNC de Anses: cuál es el monto de las Pensiones No Contributivas en noviembre de 2026",
-     "url": "https://www.lanacion.com.ar/economia/pnc-de-anses-cual-es-el-monto-de-las-pensiones-no-contributivas-en-noviembre-de-2026-nid19102026/",
-     "domain": "La Nación",
-     "seendate": "20261101T125954Z"
-    },
-    {
-     "title": "Monto de la Asignación Universal por Hijo: de cuánto es la AUH en noviembre 2026, con el aumento oficial",
-     "url": "https://www.lanacion.com.ar/economia/monto-de-la-asignacion-universal-por-hijo-de-cuanto-es-la-auh-en-noviembre-2026-con-el-aumento-nid15102026/",
-     "domain": "La Nación",
-     "seendate": "20261101T125951Z"
-    },
-    {
-     "title": "Jubilaciones de Anses: cuánto cobro en noviembre 2026, con el bono oficial y el aumento confirmado",
-     "url": "https://www.lanacion.com.ar/economia/jubilaciones-de-anses-cuanto-cobro-en-noviembre-2026-con-el-bono-oficial-y-el-aumento-confirmado-nid14102026/",
-     "domain": "La Nación",
-     "seendate": "20261101T125949Z"
-    },
-    {
-     "title": "Cuándo cobro Anses: el calendario completo de noviembre 2026",
-     "url": "https://www.lanacion.com.ar/economia/cuando-cobro-anses-el-calendario-completo-de-noviembre-2026-nid27102026/",
-     "domain": "La Nación",
-     "seendate": "20261101T125946Z"
-    },
-    {
-     "title": "Calendario de jubilaciones de la Anses: cuándo cobro en noviembre 2026 con el bono oficial y el aumento confirmado",
-     "url": "https://www.lanacion.com.ar/economia/calendario-de-jubilaciones-de-la-anses-cuando-cobro-en-noviembre-2026-con-el-bono-oficial-y-el-nid28102026/",
-     "domain": "La Nación",
-     "seendate": "20261101T125943Z"
-    },
-    {
-     "title": "Cuándo cobro Anses: el calendario completo de octubre 2026",
-     "url": "https://www.lanacion.com.ar/economia/cuando-cobro-anses-el-calendario-completo-de-octubre-2026-nid30092026/",
-     "domain": "La Nación",
-     "seendate": "20261101T125940Z"
-    },
-    {
-     "title": "Servicio doméstico en noviembre 2026: cuánto cobran, quiénes reciben el aumento y cómo se incorpora el bono",
-     "url": "https://www.lanacion.com.ar/economia/servicio-domestico-en-noviembre-de-2026-cuanto-cobran-las-empleadas-quienes-reciben-el-aumento-y-nid22102026/",
-     "domain": "La Nación",
-     "seendate": "20261101T125927Z"
-    },
-    {
-     "title": "Siembra con drones en una zona quemada: el megaplan que prometen recuperar 200 hectáreas de bosque patagónico en el Parque Nacional Lanín con semillas de araucaria",
-     "url": "https://www.lanacion.com.ar/sociedad/siembra-con-drones-en-una-zona-quemada-el-megaplan-que-prometen-recuperar-200-hectareas-de-bosque-nid22102026/",
-     "domain": "La Nación",
-     "seendate": "20261101T125925Z"
-    },
-    {
-     "title": "Rotondas, pasarelas y calzada: estas son las obras para mejorar más de 500 km de una ruta clave que une Buenos Aires con La Pampa",
-     "url": "https://www.lanacion.com.ar/sociedad/rotondas-pasarelas-y-calzada-estas-son-las-obras-para-mejorar-mas-de-500-km-de-una-ruta-clave-que-nid29102026/",
-     "domain": "La Nación",
-     "seendate": "20261101T125922Z"
-    },
-    {
-     "title": "Con una garantía de inversión de US$200 millones: así es el megaplan eléctrico que promete cambiar para siempre el AMBA y el corredor patagónico",
-     "url": "https://www.lanacion.com.ar/economia/con-una-inversion-de-us200-millones-asi-es-el-megaplan-electrico-que-promete-cambiar-para-siempre-el-nid28102026/",
-     "domain": "La Nación",
-     "seendate": "20261101T125919Z"
-    },
-    {
-     "title": "Estaba dividida entre Palermo, Puerto Madero y Microcentro: la joya francesa de 1903 que se reunificará tras 100 años desperdigada por la Ciudad",
-     "url": "https://www.lanacion.com.ar/sociedad/estaba-dividida-entre-palermo-puerto-madero-y-microcentro-la-joya-francesa-de-1903-que-se-nid27102026/",
-     "domain": "La Nación",
-     "seendate": "20261101T125916Z"
-    },
-    {
-     "title": "Con tuberías y dragado: así es el megaplan porteño que renueva 18 kilómetros de conductos pluviales para prevenir los efectos de El Niño",
-     "url": "https://www.lanacion.com.ar/sociedad/con-tuberias-y-dragado-asi-es-el-megaplan-porteno-que-renueva-18-kilometros-de-conductos-pluviales-nid21102026/",
-     "domain": "La Nación",
-     "seendate": "20261101T125913Z"
     }
    ]
   },
@@ -1533,6 +1503,12 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "Agentes dos EUA 'tomaram o controle' de parte de aeroporto na Argentina para viabilizar fuga de Flávio, diz jornal",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/11/01/agente-dos-eua-tomaram-o-controle-de-parte-de-aeroporto-na-argentina-para-viabilizar-fuga-de-flavio-diz-jornal.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261101T194249Z"
+    },
     {
      "title": "Após ameaças a indígenas no MS, governo envia Força Nacional para reforçar segurança de aldeias",
      "url": "https://oglobo.globo.com/brasil/noticia/2026/11/01/apos-ameacas-a-indigenas-no-ms-governo-envia-forca-nacional-para-reforcar-seguranca-de-aldeias.ghtml",
