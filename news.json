@@ -1,8 +1,14 @@
 {
- "updated": "2026-11-01T16:07:47+00:00",
+ "updated": "2026-11-01T17:09:31+00:00",
  "countries": {
   "ESP": {
    "articles": [
+    {
+     "title": "Mueren dos adultos y dos niños al salirse de la vía el coche en el que viajaban en Zamora",
+     "url": "https://elpais.com/espana/2026-11-01/mueren-dos-adultos-y-dos-ninos-al-salirse-de-la-via-el-coche-en-el-que-viajaban-en-zamora.html",
+     "domain": "El País",
+     "seendate": "20261101T160401Z"
+    },
     {
      "title": "La jueza pide acelerar las labores de búsqueda, más operarios y que se trabaje de noche",
      "url": "https://elpais.com/espana/2026-11-01/la-jueza-pide-acelerar-las-labores-de-busqueda-mas-operarios-y-que-se-trabaje-de-noche.html",
@@ -46,6 +52,12 @@
      "seendate": "20261101T043001Z"
     },
     {
+     "title": "No fue solo un fallo humano: las debilidades del sistema que evidencian los accidentes de Urda y Adamuz",
+     "url": "https://elpais.com/espana/2026-11-01/inasumible-no-es-lo-mismo-que-inexplicable-las-debilidades-del-sistema-que-evidencian-los-accidentes-de-urda-y-adamuz.html",
+     "domain": "El País",
+     "seendate": "20261101T043001Z"
+    },
+    {
      "title": "El tercer tren de Urda: la espera bajo un puente a dos kilómetros de la tragedia",
      "url": "https://elpais.com/espana/2026-11-01/el-tercer-tren-de-urda-la-espera-bajo-un-puente-a-dos-kilometros-de-la-tragedia.html",
      "domain": "El País",
@@ -60,12 +72,6 @@
     {
      "title": "Puente, de la euforia al desastre en tres días",
      "url": "https://elpais.com/espana/elecciones-generales/2026-11-01/puente-de-la-euforia-al-desastre-en-tres-dias.html",
-     "domain": "El País",
-     "seendate": "20261101T043001Z"
-    },
-    {
-     "title": "Feijóo gira la campaña hacia el perfil gestor del PP",
-     "url": "https://elpais.com/espana/2026-11-01/feijoo-gira-la-campana-hacia-el-perfil-gestor-del-pp.html",
      "domain": "El País",
      "seendate": "20261101T043001Z"
     },
@@ -716,12 +722,6 @@
      "url": "https://www.nacion.com/sucesos/cruz-roja-cumple-ocho-dias-de-busqueda-de-persona/MR3H2DKTU5BFPGPMBMMHNFBZ7M/story/",
      "domain": "La Nación",
      "seendate": "20261031T171311Z"
-    },
-    {
-     "title": "Tribunal Penal absuelve a Joselyn Chacón de cargos por injurias y difamación; Francisco Nicolás apelará fallo",
-     "url": "https://www.nacion.com/sucesos/tribunal-penal-absuelve-a-joselyn-chacon-de-cargos/NOMKUMRJEFCETC6NX2LSC7YAGY/story/",
-     "domain": "La Nación",
-     "seendate": "20261031T163852Z"
     }
    ]
   },
@@ -852,6 +852,12 @@
   "CUB": {
    "articles": [
     {
+     "title": "Ni los teléfonos obedecen al Gobierno cubano: el ‘no-cambio’ de hora desata el caos",
+     "url": "https://www.14ymedio.com/cuba/telefonos-obedecen-gobierno-cubano-no_1_1132702.html",
+     "domain": "14ymedio",
+     "seendate": "20261101T162017Z"
+    },
+    {
      "title": "En Sancti Spíritus, una farmacia cambia los remedios naturales por detergente y champú",
      "url": "https://www.14ymedio.com/cuba/sancti-spiritus-farmacia-cambia-remedios_1_1132698.html",
      "domain": "14ymedio",
@@ -958,12 +964,6 @@
      "url": "https://www.14ymedio.com/cuba/habana-apuntalada-ruinas-millones-destinados_1_1132564.html",
      "domain": "14ymedio",
      "seendate": "20261029T133630Z"
-    },
-    {
-     "title": "El muelle flotante de La Habana, una obra que nació moribunda y hoy es desmantelada a plena luz del día",
-     "url": "https://www.14ymedio.com/cuba/muelle-flotante-habana-obra-nacio_1_1132528.html",
-     "domain": "14ymedio",
-     "seendate": "20261028T160618Z"
     },
     {
      "title": "La magia de Harry Potter llega a La Habana con precios de hechicería",
@@ -1161,6 +1161,12 @@
   "ECU": {
    "articles": [
     {
+     "title": "Emergencia en Santa Cruz: Armada del Ecuador traslada ayuda humanitaria de Baltra hacia la isla afectada por inundación",
+     "url": "https://eluniverso.com/comunidad/ecuador/emergencia-en-santa-cruz-armada-del-ecuador-traslada-ayuda-humanitaria-de-baltra-hacia-la-isla-afectada-por-inundacion-nota/",
+     "domain": "El Universo",
+     "seendate": "20261101T160621Z"
+    },
+    {
      "title": "Consejo Nacional Electoral realizó primer simulacro del sufragio de noviembre con un muestreo de 270.000 actas de escrutinio",
      "url": "https://eluniverso.com/politica/elecciones/elecciones-seccionales-2027-consejo-nacional-electoral-simulacro-nacional-nota/",
      "domain": "El Universo",
@@ -1275,34 +1281,22 @@
      "seendate": "20261031T201856Z"
     },
     {
-     "title": "¿Qué sitios turísticos de Galápagos están cerrados por las lluvias? Estos son los seis lugares con acceso restringido",
-     "url": "https://eluniverso.com/comunidad/ecuador/que-sitios-turisticos-de-galapagos-estan-cerrados-por-las-lluvias-estos-son-los-seis-lugares-con-acceso-restringido-nota/",
-     "domain": "El Universo",
-     "seendate": "20261031T195110Z"
-    },
-    {
-     "title": "Una persona fallece tras el volcamiento e incendio de un tráiler en Cañar",
-     "url": "https://eluniverso.com/comunidad/ecuador/una-persona-fallece-tras-el-volcamiento-e-incendio-de-un-trailer-en-canar-nota/",
-     "domain": "El Universo",
-     "seendate": "20261031T194733Z"
-    },
-    {
      "title": "Emergencia en Santa Cruz: Armada del Ecuador traslada a 35 de sus miembros para apoyar a la población afectada",
      "url": "https://eluniverso.com/comunidad/ecuador/emergencia-en-santa-cruz-armada-del-ecuador-traslada-a-35-de-sus-miembros-para-apoyar-a-la-poblacion-afectada-nota/",
      "domain": "El Universo",
      "seendate": "20261031T194212Z"
     },
     {
-     "title": "Emergencia en Santa Cruz: maquinaria habilitará paso vial y reanudará vuelos comerciales en el aeropuerto de Baltra a las 16:00 de este sábado",
-     "url": "https://eluniverso.com/comunidad/ecuador/emergencia-en-santa-cruz-maquinaria-habilitara-paso-vial-y-reanudara-vuelos-comerciales-en-el-aeropuerto-de-baltra-a-las-1600-de-este-sabado-nota/",
-     "domain": "El Universo",
-     "seendate": "20261031T193502Z"
-    },
-    {
      "title": "Emergencia en Santa Cruz: dos alojamientos temporales se instalan con capacidad para 500 personas",
      "url": "https://eluniverso.com/comunidad/ecuador/emergencia-en-santa-cruz-dos-alojamientos-temporales-se-instalan-con-capacidad-para-500-personas-nota/",
      "domain": "El Universo",
      "seendate": "20261031T181752Z"
+    },
+    {
+     "title": "Emergencia en Santa Cruz: una persona murió y otras dos están desaparecidas por inundación en esta isla de Galápagos",
+     "url": "https://eluniverso.com/comunidad/ecuador/emergencia-en-santa-cruz-una-persona-murio-y-otras-dos-estan-desaparecidas-tras-inundacion-en-esta-isla-de-galapagos-nota/",
+     "domain": "El Universo",
+     "seendate": "20261031T171343Z"
     }
    ]
   },
@@ -1312,13 +1306,13 @@
      "title": "Lluvias en el norte y otras regiones del Perú EN VIVO: pronósticos del Senamhi y reportes por El Niño 2026",
      "url": "https://elcomercio.pe/peru/lluvias-en-piura-tumbes-lambayeque-y-otras-regiones-del-peru-en-vivo-pronosticos-del-senamhi-reportes-y-cambios-en-el-clima-por-el-nino-2026-lbposting-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261101T155358Z"
+     "seendate": "20261101T161633Z"
     },
     {
      "title": "Último temblor hoy, 1 de noviembre: Dónde fue el sismo en Perú, magnitud y más según IGP",
      "url": "https://elcomercio.pe/peru/ultimo-temblor-hoy-en-vivo-sismo-en-peru-epicentro-y-magnitud-reportes-del-igp-tdpe-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261101T140516Z"
+     "seendate": "20261101T160500Z"
     }
    ]
   },
@@ -1375,6 +1369,30 @@
   "ARG": {
    "articles": [
     {
+     "title": "Estos son los cinco lugares del mundo en los que la gente vive más",
+     "url": "https://www.lanacion.com.ar/sociedad/estos-son-los-cinco-lugares-del-mundo-en-los-que-la-gente-vive-mas-nid01112026/",
+     "domain": "La Nación",
+     "seendate": "20261101T170000Z"
+    },
+    {
+     "title": "La reflexión de Darío Sztajnszrajber sobre para qué sirve hoy la filosofía: “Para cuestionar por qué todo tiene que servir siempre”",
+     "url": "https://www.lanacion.com.ar/sociedad/la-reflexion-de-dario-sztajnszrajber-sobre-para-que-sirve-hoy-la-filosofia-para-cuestionar-por-que-nid01112026/",
+     "domain": "La Nación",
+     "seendate": "20261101T170000Z"
+    },
+    {
+     "title": "Cómo planificar el maíz tardío con El Niño en camino",
+     "url": "https://www.lanacion.com.ar/economia/campo/como-planificar-el-maiz-tardio-con-el-nino-en-camino-nid01112026/",
+     "domain": "La Nación",
+     "seendate": "20261101T162631Z"
+    },
+    {
+     "title": "Karina Milei y Jorge Macri recorrieron las obras del escenario donde dará misa el Papa",
+     "url": "https://www.lanacion.com.ar/politica/karina-milei-y-jorge-macri-recorrieron-las-obras-del-escenario-donde-hablara-el-papa-nid01112026/",
+     "domain": "La Nación",
+     "seendate": "20261101T160917Z"
+    },
+    {
      "title": "Se viene un domingo lluvioso: vientos de 22 km/h, 70% de probabilidad de tormentas fuertes y hasta 24° en el AMBA",
      "url": "https://www.lanacion.com.ar/sociedad/se-viene-un-domingo-lluvioso-vientos-de-22-kmh-70-de-probabilidad-de-tormentas-fuertes-y-hasta-24-nid01112026/",
      "domain": "La Nación",
@@ -1403,12 +1421,6 @@
      "url": "https://www.lanacion.com.ar/economia/dolar/a-cuanto-abre-el-dolar-el-lunes-2-de-noviembre-nid31102026/",
      "domain": "La Nación",
      "seendate": "20261101T145107Z"
-    },
-    {
-     "title": "Karina Milei y Jorge Macri recorrieron las obras del escenario donde dará misa el Papa",
-     "url": "https://www.lanacion.com.ar/politica/karina-milei-y-jorge-macri-recorrieron-las-obras-del-escenario-donde-hablara-el-papa-nid01112026/",
-     "domain": "La Nación",
-     "seendate": "20261101T144814Z"
     },
     {
      "title": "Nueva paritaria de octubre a diciembre: cuánto cobran los empleados de comercio con el aumento confirmado",
@@ -1589,24 +1601,6 @@
      "url": "https://www.lanacion.com.ar/politica/la-afa-ordeno-transferencias-a-10-sociedades-bajo-sospecha-con-la-firma-de-un-exdirector-ejecutivo-nid01112026/",
      "domain": "La Nación",
      "seendate": "20261101T102422Z"
-    },
-    {
-     "title": "Dólar hoy y dólar blue hoy: a cuánto cotiza este domingo 1 de noviembre",
-     "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-hoy-a-cuanto-cotiza-este-domingo-1-de-noviembre-nid01112026/",
-     "domain": "La Nación",
-     "seendate": "20261101T100000Z"
-    },
-    {
-     "title": "Corazón inquieto: interioridad, amistad y comunidad, las claves de la identidad agustiniana de León XIV",
-     "url": "https://www.lanacion.com.ar/sociedad/corazon-inquieto-interioridad-amistad-y-comunidad-las-claves-de-la-identidad-agustiniana-de-leon-xiv-nid01112026/",
-     "domain": "La Nación",
-     "seendate": "20261101T100000Z"
-    },
-    {
-     "title": "Opinión: perdimos un 36% del rodeo vacuno y nadie se hace cargo",
-     "url": "https://www.lanacion.com.ar/economia/campo/opinion-perdimos-un-36-del-rodeo-vacuno-y-nadie-se-hace-cargo-nid01112026/",
-     "domain": "La Nación",
-     "seendate": "20261101T093000Z"
     }
    ]
   },
@@ -1634,6 +1628,24 @@
   },
   "PRY": {
    "articles": [
+    {
+     "title": "Necrópolis de Encarnación: aguardan más de 10.000 visitas entre hoy y mañana",
+     "url": "https://www.abc.com.py/nacionales/2026/11/01/necropolis-de-encarnacion-aguardan-mas-de-10000-visitas-entre-hoy-y-manana/",
+     "domain": "ABC Color",
+     "seendate": "20261101T164539Z"
+    },
+    {
+     "title": "La Iglesia urge abordar deudas sociales e ineficiencias del Estado en el Día de Todos los Santos",
+     "url": "https://www.abc.com.py/nacionales/2026/11/01/la-iglesia-urge-abordar-deudas-sociales-e-ineficiencias-del-estado-en-el-dia-de-todos-los-santos/",
+     "domain": "ABC Color",
+     "seendate": "20261101T163425Z"
+    },
+    {
+     "title": "“Que caminen por acá a ver si pueden”: el clamor en el Cementerio del Sur en el Día de Todos los Santos",
+     "url": "https://www.abc.com.py/nacionales/2026/11/01/que-caminen-por-aca-a-ver-si-pueden-el-clamor-en-el-cementerio-del-sur-en-el-dia-de-todos-los-santos/",
+     "domain": "ABC Color",
+     "seendate": "20261101T161911Z"
+    },
     {
      "title": "Celulares de González Daher: Fiscala urge extracción de datos al Laboratorio Forense",
      "url": "https://www.abc.com.py/nacionales/2026/11/01/celulares-de-gonzalez-daher-fiscala-urge-extraccion-de-datos-al-laboratorio-forense/",
