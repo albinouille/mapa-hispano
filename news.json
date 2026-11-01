@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T11:32:36+00:00",
+ "updated": "2026-11-01T12:08:05+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -350,7 +350,7 @@
      "seendate": "20261031T220259Z"
     },
     {
-     "title": "Investigan muerte de niña por disparo en operativo de la Guardia Estatal de Tamaulipas; gobernador promete justicia",
+     "title": "Tamaulipas investiga muerte de niña por disparo en operativo de la Guardia Estatal en Tamaulipas; gobernador promete justicia",
      "url": "https://www.eluniversal.com.mx/estados/tamaulipas-investiga-muerte-de-nina-por-disparo-en-operativo-de-la-guardia-estatal-en-tamaulipas-gobernador-promete-justicia/",
      "domain": "El Universal",
      "seendate": "20261031T205000Z"
@@ -950,12 +950,6 @@
      "url": "https://www.nacion.com/politica/rodrigo-chaves-llama-terrorista-a-rectora-del-tec/QAGCPRULTBGQZMSSJDNT6PZYDU/story/",
      "domain": "La Nación",
      "seendate": "20261031T120000Z"
-    },
-    {
-     "title": "Nítidas imágenes de dron revelan cómo grupo de alias Chon abasteció camión cisterna con combustible robado a Recope",
-     "url": "https://www.nacion.com/sucesos/nitidas-imagenes-de-dron-revelan-como-grupo-de/Z7B7XKS57FF5HK4URFDTY6N23E/story/",
-     "domain": "La Nación",
-     "seendate": "20261031T111500Z"
     }
    ]
   },
@@ -1473,6 +1467,12 @@
   "ECU": {
    "articles": [
     {
+     "title": "De manejar municipios a responder ante la justicia ecuatoriana: estos son los alcaldes procesados por corrupción en los últimos tres años",
+     "url": "https://eluniverso.com/politica/expedientes/de-manejar-municipios-a-responder-ante-la-justicia-ecuatoriana-estos-son-los-alcaldes-procesados-por-corrupcion-en-los-ultimos-tres-anos-nota/",
+     "domain": "El Universo",
+     "seendate": "20261101T120000Z"
+    },
+    {
      "title": "Toque de queda comenzó en cinco provincias: Policía instala puntos de control en Guayaquil",
      "url": "https://eluniverso.com/politica/seguridad/toque-de-queda-comenzo-en-cinco-provincias-policia-instala-puntos-de-control-en-guayaquil-nota/",
      "domain": "El Universo",
@@ -1611,14 +1611,14 @@
      "seendate": "20261031T171343Z"
     },
     {
-     "title": "Cuándo empieza el toque de queda en Guayas, Esmeraldas, Manabí, Los Ríos y El Oro",
-     "url": "https://eluniverso.com/politica/seguridad/cuando-empieza-el-toque-de-queda-en-guayas-esmeraldas-manabi-los-rios-y-el-oro-nota/",
+     "title": "Cuándo empieza el toque de queda en Ecuador: Estas son las provincias donde rige",
+     "url": "https://eluniverso.com/politica/seguridad/cuando-empieza-el-toque-de-queda-en-ecuador-estas-son-las-provincias-donde-rige-nota/",
      "domain": "El Universo",
      "seendate": "20261031T170000Z"
     },
     {
-     "title": "Cuándo empieza el toque de queda en Ecuador: Estas son las provincias donde rige",
-     "url": "https://eluniverso.com/politica/seguridad/cuando-empieza-el-toque-de-queda-en-ecuador-estas-son-las-provincias-donde-rige-nota/",
+     "title": "Cuándo empieza el toque de queda en Guayas, Esmeraldas, Manabí, Los Ríos y El Oro",
+     "url": "https://eluniverso.com/politica/seguridad/cuando-empieza-el-toque-de-queda-en-guayas-esmeraldas-manabi-los-rios-y-el-oro-nota/",
      "domain": "El Universo",
      "seendate": "20261031T170000Z"
     },
@@ -1627,18 +1627,6 @@
      "url": "https://eluniverso.com/politica/elecciones-seccionales-2027-debate-electoral-consejo-nacional-electoral-nota/",
      "domain": "El Universo",
      "seendate": "20261031T160000Z"
-    },
-    {
-     "title": "Estructuras metálicas arriban para reemplazar puente que colapsó en el norte de Esmeraldas",
-     "url": "https://eluniverso.com/comunidad/ecuador/estructuras-metalicas-arriban-para-reemplazar-puente-que-colapso-en-el-norte-de-esmeraldas-nota/",
-     "domain": "El Universo",
-     "seendate": "20261031T153000Z"
-    },
-    {
-     "title": "Emergencia en Santa Cruz moviliza ayuda y recursos logísticos para atender zonas afectadas por inundación",
-     "url": "https://eluniverso.com/comunidad/ecuador/emergencia-en-santa-cruz-moviliza-ayuda-y-recursos-logisticos-para-atender-zonas-afectadas-por-inundacion-nota/",
-     "domain": "El Universo",
-     "seendate": "20261031T142407Z"
     },
     {
      "title": "Historias detrás de los casos que investigó la ex fiscal general Diana Salazar: estas son algunas revelaciones de su libro autobiográfico",
@@ -1903,14 +1891,14 @@
      "seendate": "20261101T040111Z"
     },
     {
-     "title": "¿Contra qué podemos comparar el boom de la IA? Ya no alcanza ni Internet ni la electricidad",
-     "url": "https://www.lanacion.com.ar/economia/contra-que-podemos-comparar-el-boom-de-la-ia-ya-no-alcanza-ni-internet-ni-la-electricidad-nid01112026/",
+     "title": "Qué se puede hacer para reactivar la economía sin modificar el rumbo",
+     "url": "https://www.lanacion.com.ar/economia/que-se-puede-hacer-para-reactivar-la-economia-sin-modificar-el-rumbo-nid01112026/",
      "domain": "La Nación",
      "seendate": "20261101T030100Z"
     },
     {
-     "title": "Qué se puede hacer para reactivar la economía sin modificar el rumbo",
-     "url": "https://www.lanacion.com.ar/economia/que-se-puede-hacer-para-reactivar-la-economia-sin-modificar-el-rumbo-nid01112026/",
+     "title": "¿Contra qué podemos comparar el boom de la IA? Ya no alcanza ni Internet ni la electricidad",
+     "url": "https://www.lanacion.com.ar/economia/contra-que-podemos-comparar-el-boom-de-la-ia-ya-no-alcanza-ni-internet-ni-la-electricidad-nid01112026/",
      "domain": "La Nación",
      "seendate": "20261101T030100Z"
     },
@@ -1927,6 +1915,12 @@
      "seendate": "20261101T030100Z"
     },
     {
+     "title": "Las elecciones en Brasil y su impacto en la economía argentina",
+     "url": "https://www.lanacion.com.ar/economia/las-elecciones-en-brasil-y-su-impacto-en-la-economia-argentina-nid01112026/",
+     "domain": "La Nación",
+     "seendate": "20261101T030100Z"
+    },
+    {
      "title": "“No hay una sola Argentina”: Sica y Malamud analizan cómo llega la economía a 2027, el impacto de Brasil y la “apuesta” de Milei",
      "url": "https://www.lanacion.com.ar/economia/no-hay-una-sola-argentina-sica-y-malamud-analizan-como-llega-la-economia-a-2027-el-impacto-de-brasil-nid01112026/",
      "domain": "La Nación",
@@ -1935,12 +1929,6 @@
     {
      "title": "El cobre abre una oportunidad histórica para la Argentina",
      "url": "https://www.lanacion.com.ar/economia/el-cobre-abre-una-oportunidad-historica-para-la-argentina-nid01112026/",
-     "domain": "La Nación",
-     "seendate": "20261101T030100Z"
-    },
-    {
-     "title": "Las elecciones en Brasil y su impacto en la economía argentina",
-     "url": "https://www.lanacion.com.ar/economia/las-elecciones-en-brasil-y-su-impacto-en-la-economia-argentina-nid01112026/",
      "domain": "La Nación",
      "seendate": "20261101T030100Z"
     },
@@ -1989,77 +1977,11 @@
      "url": "https://www.elpais.com.uy/ovacion/futbol/wanderers-vs-progreso-en-vivo-por-el-clausura-el-gaucho-esta-obligado-a-ganar-para-seguir-con-vida",
      "domain": "elpais.com.uy",
      "seendate": "20261025T124500Z"
-    },
-    {
-     "title": "Unidad Indexada hoy : cuánto cotiza la UI este domingo 25 de octubre de 2026 en pesos uruguayos",
-     "url": "https://www.elpais.com.uy/negocios/finanzas/unidad-indexada-hoy-cuanto-cotiza-la-ui-este-domingo-25-de-octubre-de-2026-en-pesos-uruguayos",
-     "domain": "elpais.com.uy",
-     "seendate": "20261025T093000Z"
-    },
-    {
-     "title": "Consultora de industrias laneras en China dijo : No somos nada , sin productores ovinos - Rurales",
-     "url": "https://rurales.elpais.com.uy/ganaderia/consultora-de-industrias-laneras-en-china-dijo-no-somos-nada-sin-productores-ovinos",
-     "domain": "rurales.elpais.com.uy",
-     "seendate": "20261025T081500Z"
-    },
-    {
-     "title": "Agronegocios entre mercados y finanzas - Rurales",
-     "url": "https://rurales.elpais.com.uy/opinion/agronegocios-entre-mercados-y-finanzas",
-     "domain": "rurales.elpais.com.uy",
-     "seendate": "20261025T081500Z"
-    },
-    {
-     "title": "Como siempre : sabor , calidad y precio - Rurales",
-     "url": "https://rurales.elpais.com.uy/opinion/como-siempre-sabor-calidad-y-precio",
-     "domain": "rurales.elpais.com.uy",
-     "seendate": "20261025T081500Z"
-    },
-    {
-     "title": "Carniceros alertan por merma en el consumo",
-     "url": "https://rurales.elpais.com.uy/mercados/carniceros-alertan-por-merma-en-el-consumo",
-     "domain": "rurales.elpais.com.uy",
-     "seendate": "20261025T081500Z"
-    },
-    {
-     "title": "El secreto de nuestras carnes : un ciclo de charlas con niños de educación primaria para acercarlos a la producción",
-     "url": "https://rurales.elpais.com.uy/historias/el-secreto-de-nuestras-carnes-un-ciclo-de-charlas-con-ninos-de-educacion-primaria-para-acercarlos-a-la-produccion",
-     "domain": "rurales.elpais.com.uy",
-     "seendate": "20261025T081500Z"
-    },
-    {
-     "title": "La voz que hizo de las jineteadas una forma de vida",
-     "url": "https://rurales.elpais.com.uy/historias/la-voz-que-hizo-de-las-jineteadas-una-forma-de-vida",
-     "domain": "rurales.elpais.com.uy",
-     "seendate": "20261025T081500Z"
-    },
-    {
-     "title": "Nicolás Udaquiola : Hay que seguir de cerca lo que pase con las tasas porque puede haber un cambio de tendencia",
-     "url": "https://rurales.elpais.com.uy/agricultura/nicolas-udaquiola-hay-que-seguir-de-cerca-lo-que-pase-con-las-tasas-porque-puede-haber-un-cambio-de-tendencia",
-     "domain": "rurales.elpais.com.uy",
-     "seendate": "20261025T081500Z"
-    },
-    {
-     "title": "La mujer rural",
-     "url": "https://www.elpais.com.uy/opinion/ecos/la-mujer-rural-22-10",
-     "domain": "elpais.com.uy",
-     "seendate": "20261025T081500Z"
-    },
-    {
-     "title": "Elecciones en Brasil : gobierno sigue atento el proceso mientras piensa cómo construir agenda si gana Bolsonaro",
-     "url": "https://www.elpais.com.uy/informacion/politica/elecciones-en-brasil-gobierno-sigue-atento-el-proceso-mientras-piensa-como-construir-agenda-si-gana-bolsonaro",
-     "domain": "elpais.com.uy",
-     "seendate": "20261025T081500Z"
     }
    ]
   },
   "PRY": {
    "articles": [
-    {
-     "title": "Entre miradores, guitarras y palacios: los tesoros eternos de Granada",
-     "url": "https://www.abc.com.py/nacionales/2026/11/01/entre-miradores-guitarras-y-palacios-los-tesoros-eternos-de-granada/",
-     "domain": "ABC Color",
-     "seendate": "20261101T040001Z"
-    },
     {
      "title": "Fiscalía imputa al conductor que habría provocado accidente fatal sobre la Avda. Mcal. López",
      "url": "https://www.abc.com.py/nacionales/2026/11/01/fiscalia-imputa-al-conductor-que-habria-provocado-accidente-fatal-sobre-la-avda-mcal-lopez/",
@@ -2073,6 +1995,12 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "Flávio Bolsonaro pode ficar \"quanto tempo quiser\" nos EUA, diz Trump",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/11/01/flavio-bolsonaro-pode-ficar-quanto-tempo-quiser-nos-eua-diz-trump.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261101T111117Z"
+    },
     {
      "title": "Família Bolsonaro, promessas e presença fora de São Paulo: os desafios de Tarcísio para virar liderança nacional em 2030",
      "url": "https://oglobo.globo.com/politica/noticia/2026/11/01/familia-bolsonaro-promessas-e-presenca-fora-de-sao-paulo-os-desafios-de-tarcisio-para-virar-lideranca-nacional-em-2030.ghtml",
@@ -2114,42 +2042,6 @@
      "url": "https://oglobo.globo.com/politica/noticia/2026/11/01/acusado-de-falta-de-engajamento-cleitinho-e-cobrado-por-derrota-de-flavio-em-minas-e-ve-alianca-com-pl-em-xeque.ghtml",
      "domain": "O Globo",
      "seendate": "20261101T063001Z"
-    },
-    {
-     "title": "Polícia de São Paulo prende suspeito de roubar R$ 45 milhões em golpe de criptomoedas no Amazonas",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/31/policia-de-sao-paulo-prende-suspeito-de-roubar-r-45-milhoes-em-golpe-de-criptomoedas-no-amazonas.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261031T233745Z"
-    },
-    {
-     "title": "Deputado do PT pede explicações de Tarcísio e Nico sobre casos de violência em SP após segundo turno",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/31/deputado-do-pt-pede-explicacoes-de-tarcisio-e-nico-sobre-casos-de-violencia-em-sp-apos-segundo-turno.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261031T215853Z"
-    },
-    {
-     "title": "Incêndio atinge fábrica de óleo vegetal em Mauá, na Grande São Paulo (veja vídeo)",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/31/incendio-atinge-fabrica-de-oleo-vegetal-em-maua-na-grande-sao-paulo-veja-video.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261031T213024Z"
-    },
-    {
-     "title": "Amigo de Flávio Bolsonaro, Willer Tomaz tem outras cinco casas em ilhas de Angra além da disputada com Richarlison",
-     "url": "https://oglobo.globo.com/politica/post/2026/10/amigo-de-flavio-bolsonaro-willer-tomaz-tem-outras-cinco-casas-em-ilhas-de-angra-alem-da-disputada-com-richarlison.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261031T210639Z"
-    },
-    {
-     "title": "Alter do Chão registra incêndio de grandes proporções em área verde",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/10/31/alter-do-chao-registra-incendio-de-grandes-proporcoes-em-area-verde.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261031T193646Z"
-    },
-    {
-     "title": "Rubio afirma que governo americano não se envolveu na fuga de Flávio Bolsonaro aos EUA",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/10/31/rubio-assegura-que-os-eua-nao-estiveram-envolvidos-na-fuga-de-flavio-bolsonaro-do-brasil.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261031T185529Z"
     }
    ]
   }
