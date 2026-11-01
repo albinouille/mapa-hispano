@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T20:33:09+00:00",
+ "updated": "2026-11-01T21:12:24+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -622,6 +622,12 @@
   "CRI": {
    "articles": [
     {
+     "title": "Balacera en Llanos de Santa Lucía: reportan muerte de niño de 3 años",
+     "url": "https://www.nacion.com/sucesos/balacera-en-llanos-de-santa-lucia-reportan-muerte/6X6CENFILNAA7HUGGVLPA5ZQEA/story/",
+     "domain": "La Nación",
+     "seendate": "20261101T205854Z"
+    },
+    {
      "title": "A las puertas del juicio por femicidio, tía de Mónica Chaves exige justicia para cerrar el duelo: ‘Los niños lloran por su mamá al dormir’",
      "url": "https://www.nacion.com/sucesos/a-las-puertas-del-juicio-por-femicidio-tia-de/CUQPISPDEVBYRNQYWNCDA4UE6Y/story/",
      "domain": "La Nación",
@@ -752,6 +758,12 @@
   "PAN": {
    "articles": [
     {
+     "title": "El llamado de Ulloa: no olvidar a las familias afectadas por el terremoto",
+     "url": "https://www.prensa.com/sociedad/el-llamado-de-ulloa-no-olvidar-a-las-familias-afectadas-por-el-terremoto/",
+     "domain": "La Prensa",
+     "seendate": "20261101T203535Z"
+    },
+    {
      "title": "Fiscalía archiva denuncia penal contra el CIAM por el caso Puerto Barú",
      "url": "https://www.prensa.com/politica/fiscalia-archiva-denuncia-penal-contra-el-ciam-por-el-caso-puerto-baru/",
      "domain": "La Prensa",
@@ -840,12 +852,6 @@
      "url": "https://www.prensa.com/sociedad/conozca-como-sera-la-inversion-de-carriles-por-las-fiestas-patrias/",
      "domain": "La Prensa",
      "seendate": "20261030T215914Z"
-    },
-    {
-     "title": "Asamblea aprueba en tercer debate cambios a la ley de descuentos para jubilados y pensionados",
-     "url": "https://www.prensa.com/politica/asamblea-aprueba-en-tercer-debate-cambios-a-la-ley-de-descuentos-para-jubilados-y-pensionados/",
-     "domain": "La Prensa",
-     "seendate": "20261030T203921Z"
     },
     {
      "title": "Entre críticas por ampliar las compras sin ley de contrataciones, la Asamblea aprueba el presupuesto de 2027",
@@ -1137,19 +1143,25 @@
   "ECU": {
    "articles": [
     {
+     "title": "Desbordamiento de río en Caluma deja parte de una vía destruida y locales afectados",
+     "url": "https://eluniverso.com/comunidad/ecuador/desbordamiento-de-rio-en-caluma-deja-parte-de-una-via-destruida-y-locales-afectados-nota/",
+     "domain": "El Universo",
+     "seendate": "20261101T210000Z"
+    },
+    {
      "title": "Universidades de Quito habilitan centros de acopio para damnificados de las islas Galápagos",
      "url": "https://eluniverso.com/comunidad/ecuador/quito-ecuador-islas-galapagos-centros-de-acopio-islas-galapagos-damnificados-emergencias-por-luvias-nota/",
      "domain": "El Universo",
      "seendate": "20261101T203000Z"
     },
     {
-     "title": "La primera dama, Lavinia Valbonesi, está en Galápagos: ‘He venido a escuchar y acompañar a todas las familias afectadas’",
+     "title": "La primera dama Lavinia Valbonesi está en Galápagos: “He venido a escuchar y acompañar a todas las familias afectadas”",
      "url": "https://eluniverso.com/politica/ejecutivo/la-primera-dama-lavinia-valbonesi-esta-en-galapagos-he-venido-a-escuchar-y-acompanar-a-todas-las-familias-afectadas-nota/",
      "domain": "El Universo",
      "seendate": "20261101T201604Z"
     },
     {
-     "title": "Suman 218 aprehendidos en el primer día de toque de queda en cinco provincias de Ecuador",
+     "title": "Suman 218 aprehendidos en el primer día del toque de queda en cinco provincias de Ecuador",
      "url": "https://eluniverso.com/politica/seguridad/suman-218-aprehendidos-en-el-primer-dia-de-toque-de-queda-en-cinco-provincias-de-ecuador-nota/",
      "domain": "El Universo",
      "seendate": "20261101T200910Z"
@@ -1227,12 +1239,6 @@
      "seendate": "20261101T060623Z"
     },
     {
-     "title": "Más de 10 toneladas de ayuda humanitaria llegan a Galápagos por las inundaciones",
-     "url": "https://eluniverso.com/politica/ejecutivo/mas-de-10-toneladas-de-ayuda-humanitaria-llegan-a-galapagos-por-las-inundaciones-nota/",
-     "domain": "El Universo",
-     "seendate": "20261101T005118Z"
-    },
-    {
      "title": "Emergencia en Santa Cruz: una persona murió y otras dos están desaparecidas por inundación en esta isla de Galápagos",
      "url": "https://eluniverso.com/comunidad/ecuador/emergencia-en-santa-cruz-una-persona-murio-y-otras-dos-estan-desaparecidas-tras-inundacion-en-esta-isla-de-galapagos-nota/",
      "domain": "El Universo",
@@ -1252,13 +1258,13 @@
      "title": "Lluvias en el norte y otras regiones del Perú EN VIVO: pronósticos del Senamhi y reportes por El Niño 2026",
      "url": "https://elcomercio.pe/peru/lluvias-en-piura-tumbes-lambayeque-y-otras-regiones-del-peru-en-vivo-pronosticos-del-senamhi-reportes-y-cambios-en-el-clima-por-el-nino-2026-lbposting-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261101T181600Z"
+     "seendate": "20261101T204514Z"
     },
     {
-     "title": "Pataz: capturan por segunda vez a alias ‘Goku’, lugarteniente de ‘La Gran Alianza’",
-     "url": "https://elcomercio.pe/peru/pataz-capturan-por-segunda-vez-a-alias-goku-lugarteniente-de-la-gran-alianza-ultimas-noticia/",
+     "title": "Canciller Carlos Espá viajará a Rusia para obtener información sobre 450 peruanos reclutados para combatir en Ucrania",
+     "url": "https://elcomercio.pe/peru/canciller-carlos-espa-viajara-a-rusia-para-obtener-informacion-sobre-450-peruanos-reclutados-para-combatir-en-ucrania-ultimas-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261101T171514Z"
+     "seendate": "20261101T204039Z"
     }
    ]
   },
@@ -1302,6 +1308,42 @@
   },
   "ARG": {
    "articles": [
+    {
+     "title": "Javier Milei opinó sobre el tenso cruce entre Santiago Maratea y la China Ansa: “Una emboscada por no ser kuka”",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-opino-sobre-el-tenso-cruce-entre-santiago-maratea-y-la-china-ansa-una-emboscada-por-no-nid01112026/",
+     "domain": "La Nación",
+     "seendate": "20261101T210107Z"
+    },
+    {
+     "title": "La paradoja de la felicidad que expone Gabriel Rolón: “Podemos alcanzar la faltacidad”",
+     "url": "https://www.lanacion.com.ar/sociedad/la-paradoja-de-la-felicidad-que-expone-gabriel-rolon-podemos-alcanzar-la-faltacidad-nid01112026/",
+     "domain": "La Nación",
+     "seendate": "20261101T210000Z"
+    },
+    {
+     "title": "Mariel Fernández: “El gobernador Kicillof se reúne con intendentes del MDF, yo quisiera que se reúna con todos”",
+     "url": "https://www.lanacion.com.ar/politica/mariel-fernandez-el-gobernador-se-reune-con-intendentes-del-mdf-yo-quisiera-que-se-reuna-con-todos-nid01112026/",
+     "domain": "La Nación",
+     "seendate": "20261101T205833Z"
+    },
+    {
+     "title": "Alerta y operativo en Ezeiza por un grupo de turistas extranjeros intoxicados: llegaron desde Ushuaia tras bajar de un crucero",
+     "url": "https://www.lanacion.com.ar/sociedad/alerta-y-operativo-en-ezeiza-por-un-grupo-de-turistas-extranjeros-intoxicados-llegaron-desde-ushuaia-nid01112026/",
+     "domain": "La Nación",
+     "seendate": "20261101T205428Z"
+    },
+    {
+     "title": "Cuatro niños y una joven murieron en un incendio en Chaco: investigan si fueron asesinados por la pareja",
+     "url": "https://www.lanacion.com.ar/seguridad/cuatro-ninos-y-una-joven-murieron-en-un-incendio-en-chaco-detuvieron-a-su-pareja-nid01112026/",
+     "domain": "La Nación",
+     "seendate": "20261101T204835Z"
+    },
+    {
+     "title": "Con 7800 voluntarios, 13.000 policías y un costo de 10 millones de dólares, Córdoba se prepara para recibir a León XIV",
+     "url": "https://www.lanacion.com.ar/politica/con-7800-voluntarios-13000-policias-y-un-costo-de-10-millones-de-dolares-cordoba-se-prepara-para-nid01112026/",
+     "domain": "La Nación",
+     "seendate": "20261101T203708Z"
+    },
     {
      "title": "Se incendió un velero en el puerto de Mar del Plata: rescataron a tres canadienses y a un perro",
      "url": "https://www.lanacion.com.ar/seguridad/se-incendio-un-velero-en-el-puerto-de-mar-del-plata-rescataron-a-tres-canadienses-y-a-un-perro-nid01112026/",
@@ -1403,36 +1445,6 @@
      "url": "https://www.lanacion.com.ar/economia/dolar/a-cuanto-abre-el-dolar-el-lunes-2-de-noviembre-nid31102026/",
      "domain": "La Nación",
      "seendate": "20261101T145107Z"
-    },
-    {
-     "title": "Nueva paritaria de octubre a diciembre: cuánto cobran los empleados de comercio con el aumento confirmado",
-     "url": "https://www.lanacion.com.ar/economia/nueva-paritaria-de-octubre-a-diciembre-cuanto-cobran-los-empleados-de-comercio-con-el-aumento-nid28102026/",
-     "domain": "La Nación",
-     "seendate": "20261101T130006Z"
-    },
-    {
-     "title": "Calendario AUH de Anses: cuándo se cobra la Asignación Universal por Hijo en noviembre 2026",
-     "url": "https://www.lanacion.com.ar/economia/calendario-auh-de-anses-cuando-se-cobra-la-asignacion-universal-por-hijo-en-noviembre-2026-nid29102026/",
-     "domain": "La Nación",
-     "seendate": "20261101T130004Z"
-    },
-    {
-     "title": "De cuánto es el bono de noviembre 2026 para jubilados y a quiénes les corresponde",
-     "url": "https://www.lanacion.com.ar/economia/de-cuanto-es-el-bono-de-noviembre-2026-para-jubilados-y-a-quienes-les-corresponde-nid29102026/",
-     "domain": "La Nación",
-     "seendate": "20261101T130001Z"
-    },
-    {
-     "title": "SUAF de Anses: el monto de las asignaciones familiares en noviembre de 2026",
-     "url": "https://www.lanacion.com.ar/economia/suaf-de-anses-el-monto-de-las-asignaciones-familiares-en-noviembre-de-2026-nid21102026/",
-     "domain": "La Nación",
-     "seendate": "20261101T125959Z"
-    },
-    {
-     "title": "A cuánto llega la PUAM en noviembre de 2026 con el aumento confirmado",
-     "url": "https://www.lanacion.com.ar/economia/a-cuanto-llega-la-puam-en-noviembre-de-2026-con-el-aumento-confirmado-nid20102026/",
-     "domain": "La Nación",
-     "seendate": "20261101T125956Z"
     }
    ]
   },
@@ -1460,6 +1472,24 @@
   },
   "PRY": {
    "articles": [
+    {
+     "title": "Fuga de amoníaco en empresa avícola: una sola trabajadora sigue internada",
+     "url": "https://www.abc.com.py/nacionales/2026/11/01/fuga-de-amoniaco-en-empresa-avicola-una-sola-trabajadora-sigue-internada/",
+     "domain": "ABC Color",
+     "seendate": "20261101T210723Z"
+    },
+    {
+     "title": "Pescadores de Fuerte Olimpo llegan a la veda con pocas capturas y bajos ingresos",
+     "url": "https://www.abc.com.py/nacionales/chaco/2026/11/01/pescadores-de-fuerte-olimpo-llegan-a-la-veda-con-pocas-capturas-y-bajos-ingresos/",
+     "domain": "ABC Color",
+     "seendate": "20261101T210000Z"
+    },
+    {
+     "title": "San Juan Bautista: fe, recuerdos y tradiciones marcan la jornada de Todos los Santos",
+     "url": "https://www.abc.com.py/nacionales/2026/11/01/san-juan-bautista-fe-recuerdos-y-tradiciones-marcan-la-jornada-de-todos-los-santos/",
+     "domain": "ABC Color",
+     "seendate": "20261101T203540Z"
+    },
     {
      "title": "Intenso movimiento en el Cementerio de San Lorenzo por el Día de Todos los Santos",
      "url": "https://www.abc.com.py/nacionales/2026/11/01/intenso-movimiento-en-el-cementerio-de-san-lorenzo-por-el-dia-de-todos-los-santos/",
@@ -1489,12 +1519,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/11/01/que-caminen-por-aca-a-ver-si-pueden-el-clamor-en-el-cementerio-del-sur-en-el-dia-de-todos-los-santos/",
      "domain": "ABC Color",
      "seendate": "20261101T161911Z"
-    },
-    {
-     "title": "Celulares de González Daher: Fiscala urge extracción de datos al Laboratorio Forense",
-     "url": "https://www.abc.com.py/nacionales/2026/11/01/celulares-de-gonzalez-daher-fiscala-urge-extraccion-de-datos-al-laboratorio-forense/",
-     "domain": "ABC Color",
-     "seendate": "20261101T153348Z"
     }
    ]
   },
