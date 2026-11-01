@@ -1,17 +1,41 @@
 {
- "updated": "2026-11-01T13:27:49+00:00",
+ "updated": "2026-11-01T14:14:39+00:00",
  "countries": {
   "ESP": {
    "articles": [
     {
-     "title": "Las vidas truncadas en el tren: “Gracias por quererme, por entenderme, por ser el mejor padre del mundo”",
-     "url": "https://elpais.com/espana/2026-11-01/las-vidas-truncadas-en-el-tren-gracias-por-quererme-por-entenderme-por-ser-el-mejor-padre-del-mundo.html",
+     "title": "Accidente de trenes en Toledo: última hora y reacciones en directo | La jueza que instruye el caso de Urda pide acelerar las labores de búsqueda, más operarios y que se trabaje de noche",
+     "url": "https://elpais.com/espana/2026-11-01/ultima-hora-y-reacciones-tras-el-accidente-de-trenes-de-urda-toledo-en-directo.html",
+     "domain": "El País",
+     "seendate": "20261101T140635Z"
+    },
+    {
+     "title": "El juez envía a prisión a un detenido en Barcelona como “ideólogo” de Blocus",
+     "url": "https://elpais.com/espana/catalunya/2026-11-01/el-juez-envia-a-prision-a-un-detenido-en-barcelona-como-ideologo-de-blocus.html",
+     "domain": "El País",
+     "seendate": "20261101T133138Z"
+    },
+    {
+     "title": "La vida truncada de Fran, el teleoperador cordobés: “Era pura dulzura”",
+     "url": "https://elpais.com/espana/2026-11-01/la-vida-truncada-de-fran-el-teleoperador-cordobes-era-pura-dulzura.html",
+     "domain": "El País",
+     "seendate": "20261101T131620Z"
+    },
+    {
+     "title": "La actuación de tres policías que iban en los trenes siniestrados salvó vidas",
+     "url": "https://elpais.com/espana/2026-11-01/la-actuacion-de-tres-policias-que-iban-en-los-trenes-siniestrados-salvo-vidas.html",
+     "domain": "El País",
+     "seendate": "20261101T131326Z"
+    },
+    {
+     "title": "¿Qué causó el accidente? La secuencia paso a paso de una cadena de fallos que el sistema no detuvo",
+     "url": "https://elpais.com/espana/2026-11-01/que-causo-el-accidente-la-secuencia-paso-a-paso-de-una-cadena-de-fallos-que-el-sistema-no-detuvo.html",
      "domain": "El País",
      "seendate": "20261101T043001Z"
     },
     {
-     "title": "No fue solo un fallo humano: las debilidades del sistema que evidencian los accidentes de Urda y Adamuz",
-     "url": "https://elpais.com/espana/2026-11-01/inasumible-no-es-lo-mismo-que-inexplicable-las-debilidades-del-sistema-que-evidencian-los-accidentes-de-urda-y-adamuz.html",
+     "title": "Las vidas truncadas en el tren: “Gracias por quererme, por entenderme, por ser el mejor padre del mundo”",
+     "url": "https://elpais.com/espana/2026-11-01/las-vidas-truncadas-en-el-tren-gracias-por-quererme-por-entenderme-por-ser-el-mejor-padre-del-mundo.html",
      "domain": "El País",
      "seendate": "20261101T043001Z"
     },
@@ -22,14 +46,8 @@
      "seendate": "20261101T043001Z"
     },
     {
-     "title": "¿Qué causó el accidente? La secuencia paso a paso de una cadena de fallos que el sistema no detuvo",
-     "url": "https://elpais.com/espana/2026-11-01/que-causo-el-accidente-la-secuencia-paso-a-paso-de-una-cadena-de-fallos-que-el-sistema-no-detuvo.html",
-     "domain": "El País",
-     "seendate": "20261101T043001Z"
-    },
-    {
-     "title": "El diario de Carmen mientras su padre lucha por recuperarse en la UCI: “Papá, tú no te puedes ir”",
-     "url": "https://elpais.com/espana/2026-11-01/papa-tu-no-te-puedes-ir-el-diario-de-carmen-mientras-su-padre-lucha-por-recuperarse-en-la-uci.html",
+     "title": "El tercer tren de Urda: la espera bajo un puente a dos kilómetros de la tragedia",
+     "url": "https://elpais.com/espana/2026-11-01/el-tercer-tren-de-urda-la-espera-bajo-un-puente-a-dos-kilometros-de-la-tragedia.html",
      "domain": "El País",
      "seendate": "20261101T043001Z"
     },
@@ -48,18 +66,6 @@
     {
      "title": "Feijóo gira la campaña hacia el perfil gestor del PP",
      "url": "https://elpais.com/espana/2026-11-01/feijoo-gira-la-campana-hacia-el-perfil-gestor-del-pp.html",
-     "domain": "El País",
-     "seendate": "20261101T043001Z"
-    },
-    {
-     "title": "El tercer tren de Urda: la espera bajo un puente a dos kilómetros de la tragedia",
-     "url": "https://elpais.com/espana/2026-11-01/el-tercer-tren-de-urda-la-espera-bajo-un-puente-a-dos-kilometros-de-la-tragedia.html",
-     "domain": "El País",
-     "seendate": "20261101T043001Z"
-    },
-    {
-     "title": "Del ‘reel’ al juzgado: el golpe de realidad a los menores detenidos por los disturbios",
-     "url": "https://elpais.com/espana/catalunya/2026-11-01/del-reel-al-juzgado-el-golpe-de-realidad-a-los-menores-detenidos-por-los-disturbios.html",
      "domain": "El País",
      "seendate": "20261101T043001Z"
     },
@@ -670,6 +676,12 @@
   "CRI": {
    "articles": [
     {
+     "title": "Cortes de luz de Jasec afectarán Paraíso de Cartago este martes 3 de noviembre: conozca los lugares afectados",
+     "url": "https://www.nacion.com/el-pais/cortes-de-luz-de-jasec-afectaran-paraiso-de/7RJEOI5CQRE4BDV5L7FNS6LJIM/story/",
+     "domain": "La Nación",
+     "seendate": "20261101T140200Z"
+    },
+    {
      "title": "Actividad de Marta Esquivel con publicidad comercial obliga a Yara Jiménez a cambiar controles en la Asamblea Legislativa",
      "url": "https://www.nacion.com/politica/actividad-de-marta-esquivel-con-publicidad/K2NAL4YQD5H4PN7VMW3NXXFPFU/story/",
      "domain": "La Nación",
@@ -700,7 +712,7 @@
      "seendate": "20261101T073000Z"
     },
     {
-     "title": "Carreras STEM representan un 29,83% de diplomas de universidades en Costa Rica en 12 años; solo 5 instituciones emiten más de la mitad de títulos: ¿cuáles son?",
+     "title": "Carreras STEM en Costa Rica: qué universidades gradúan más estudiantes en ciencia, tecnología e ingeniería",
      "url": "https://www.nacion.com/el-pais/carreras-stem-representan-un-2983-de-diplomas-de/W55HZT45ZNCPDKQK7XQIJGTKB4/story/",
      "domain": "La Nación",
      "seendate": "20261101T070000Z"
@@ -806,24 +818,6 @@
      "url": "https://www.nacion.com/sucesos/camara-capta-violento-bajonazo-en-el-automac-de/UFUB5WSZ6VF25JL7HIARRKLGPI/story/",
      "domain": "La Nación",
      "seendate": "20261031T151107Z"
-    },
-    {
-     "title": "Corte de luz de la CNFL afectará una zona de San José este lunes 2 de noviembre",
-     "url": "https://www.nacion.com/el-pais/corte-de-luz-de-la-cnfl-afectara-una-zona-de-san/APFAHSWT6VDGNLI62MXDTOE7PA/story/",
-     "domain": "La Nación",
-     "seendate": "20261031T140300Z"
-    },
-    {
-     "title": "Hace 50 años: gobierno puso fecha límite para la finalización de la huelga en Limón",
-     "url": "https://www.nacion.com/el-pais/hace-50-anos-gobierno-puso-fecha-limite-para-la/EEUTOI5SHRDATFDW7PMSGTMVGQ/story/",
-     "domain": "La Nación",
-     "seendate": "20261031T133000Z"
-    },
-    {
-     "title": "Tras archivo de armonización eléctrica, PPSO vota en contra toda propuesta del bloque democrático: ¿quién giró la instrucción a los oficialistas?",
-     "url": "https://www.nacion.com/politica/tras-archivo-de-armonizacion-electrica-ppso-vota/P7VAIQ44S5BXPAB547OZC4ACTQ/story/",
-     "domain": "La Nación",
-     "seendate": "20261031T133000Z"
     }
    ]
   },
@@ -1075,6 +1069,12 @@
   "COL": {
    "articles": [
     {
+     "title": "Un policía muerto y varios heridos, entre uniformados y civiles, deja ataque terrorista con motobomba en el municipio de Algeciras, Huila",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/un-policia-muerto-y-varios-heridos-deja-ataque-terrorista-con-motobomba-en-el-municipio-de-algeciras-huila-3597803",
+     "domain": "El Tiempo",
+     "seendate": "20261101T134957Z"
+    },
+    {
      "title": "Temblor hoy en Colombia | Reportan sismo de magnitud 3,1 en el océano Pacífico este domingo 1 de noviembre de 2026: ¿se sintió en el Eje Cafetero?",
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-reportan-sismo-de-magnitud-3-1-en-el-oceano-pacifico-este-domingo-1-de-noviembre-de-2026-se-sintio-en-el-eje-cafetero-3597797",
      "domain": "El Tiempo",
@@ -1115,12 +1115,6 @@
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-costo-de-no-construir-vias-asi-se-agravo-la-movilidad-en-bucaramanga-en-20-anos-3597767",
      "domain": "El Tiempo",
      "seendate": "20261101T010427Z"
-    },
-    {
-     "title": "Primicia | Gobernador de Antioquia propone reducir de 18 a 7 los ministerios y ahorrar $28 billones al año: se reunirá hoy con De la Espriella",
-     "url": "https://www.eltiempo.com/colombia/medellin/gobernador-de-antioquia-propone-reducir-de-18-a-7-los-ministerios-y-ahorrar-28-billones-al-ano-se-reunira-hoy-con-el-presidente-de-la-espriella-3597747",
-     "domain": "El Tiempo",
-     "seendate": "20261031T232530Z"
     },
     {
      "title": "En Cúcuta hay 23 bandas que se disputan a muerte las economías ilegales, incluidos grupos transnacionales del crimen",
@@ -1257,6 +1251,12 @@
   "ECU": {
    "articles": [
     {
+     "title": "Caso Sinohydro: pedido de revisión de medidas cautelares hecho por la Fiscalía contra los 20 condenados por cohecho sigue sin juez que lo conozca",
+     "url": "https://eluniverso.com/politica/expedientes/caso-sinohydro-pedido-revision-medidas-cautelares-hecho-fiscalia-contra-20-condenados-sigue-sin-juez-conozca-nota/",
+     "domain": "El Universo",
+     "seendate": "20261101T134500Z"
+    },
+    {
      "title": "De manejar municipios a responder ante la justicia ecuatoriana: estos son los alcaldes procesados por corrupción en los últimos tres años",
      "url": "https://eluniverso.com/politica/expedientes/de-manejar-municipios-a-responder-ante-la-justicia-ecuatoriana-estos-son-los-alcaldes-procesados-por-corrupcion-en-los-ultimos-tres-anos-nota/",
      "domain": "El Universo",
@@ -1381,40 +1381,16 @@
      "url": "https://eluniverso.com/comunidad/ecuador/emergencia-en-santa-cruz-dos-alojamientos-temporales-se-instalan-con-capacidad-para-500-personas-nota/",
      "domain": "El Universo",
      "seendate": "20261031T181752Z"
-    },
-    {
-     "title": "Feriado en el norte del país: agenda conecta la producción, la gastronomía y el turismo",
-     "url": "https://eluniverso.com/comunidad/ecuador/feriado-en-el-norte-del-pais-agenda-conecta-a-la-produccion-la-gastronomia-y-el-turismo-nota/",
-     "domain": "El Universo",
-     "seendate": "20261031T173000Z"
-    },
-    {
-     "title": "Deslizamiento de tierra impide circulación por la vía Latacunga-La Maná",
-     "url": "https://eluniverso.com/comunidad/ecuador/por-el-temporal-nota/",
-     "domain": "El Universo",
-     "seendate": "20261031T171740Z"
-    },
-    {
-     "title": "Emergencia en Santa Cruz: una persona murió y otras dos están desaparecidas por inundación en esta isla de Galápagos",
-     "url": "https://eluniverso.com/comunidad/ecuador/emergencia-en-santa-cruz-una-persona-murio-y-otras-dos-estan-desaparecidas-tras-inundacion-en-esta-isla-de-galapagos-nota/",
-     "domain": "El Universo",
-     "seendate": "20261031T171343Z"
     }
    ]
   },
   "PER": {
    "articles": [
     {
-     "title": "Lluvias en el norte del Perú: Piura, Tumbes y Lambayeque en alerta por precipitaciones",
-     "url": "https://elcomercio.pe/peru/lluvias-en-peru-en-vivo-el-nino-pronostico-de-senamhi-lluvias-temperatura-y-regiones-en-alerta-en-todo-el-pais-lbposting-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261101T051332Z"
-    },
-    {
-     "title": "Último temblor en Perú hoy, sábado 31 de octubre: Magnitud y epicentro del reciente sismo vía IGP",
+     "title": "Último temblor hoy, 1 de noviembre: Dónde fue el sismo en Perú, magnitud y más según IGP",
      "url": "https://elcomercio.pe/peru/ultimo-temblor-hoy-en-vivo-sismo-en-peru-epicentro-y-magnitud-reportes-del-igp-tdpe-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261101T023000Z"
+     "seendate": "20261101T140516Z"
     }
    ]
   },
@@ -1838,6 +1814,18 @@
   },
   "PRY": {
    "articles": [
+    {
+     "title": "Obispo lamenta que los jóvenes vivan en un ambiente de violencia",
+     "url": "https://www.abc.com.py/nacionales/2026/11/01/obispo-lamenta-que-los-jovenes-vivan-en-un-ambiente-de-violencia/",
+     "domain": "ABC Color",
+     "seendate": "20261101T133251Z"
+    },
+    {
+     "title": "Detergente de oro: ¿Por qué Nenecho va a juicio solo por lesión de confianza?",
+     "url": "https://www.abc.com.py/nacionales/2026/11/01/detergente-de-oro-por-que-nenecho-va-a-juicio-solo-por-lesion-de-confianza/",
+     "domain": "ABC Color",
+     "seendate": "20261101T133012Z"
+    },
     {
      "title": "¿Por qué hoy es el día de Todos los Santos?",
      "url": "https://www.abc.com.py/nacionales/2026/11/01/por-que-hoy-es-el-dia-de-todos-los-santos/",
