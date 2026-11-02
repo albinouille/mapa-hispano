@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T08:42:54+00:00",
+ "updated": "2026-11-02T09:59:46+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -10,8 +10,8 @@
      "seendate": "20261102T080927Z"
     },
     {
-     "title": "La investigación del siniestro de Urda analiza si Adif usó el protocolo erróneo más veces",
-     "url": "https://elpais.com/espana/2026-11-02/la-investigacion-del-siniestro-de-urda-analiza-si-adif-uso-el-protocolo-erroneo-mas-veces.html",
+     "title": "La tragedia en Urda empuja a la ultraderecha a una espiral de brutalidad",
+     "url": "https://elpais.com/espana/2026-11-02/la-tragedia-empuja-a-la-ultraderecha-a-una-espiral-de-brutalidad.html",
      "domain": "El País",
      "seendate": "20261102T043001Z"
     },
@@ -28,14 +28,14 @@
      "seendate": "20261102T043001Z"
     },
     {
-     "title": "La mayoría de la Diputación Permanente del Congreso exige la dimisión de Puente por el accidente de Urda",
-     "url": "https://elpais.com/espana/2026-11-02/la-mayoria-de-la-diputacion-permanente-del-congreso-exige-la-dimision-de-puente-por-el-accidente-de-urda.html",
+     "title": "La investigación del siniestro de Urda analiza si Adif usó el protocolo erróneo más veces",
+     "url": "https://elpais.com/espana/2026-11-02/la-investigacion-del-siniestro-de-urda-analiza-si-adif-uso-el-protocolo-erroneo-mas-veces.html",
      "domain": "El País",
      "seendate": "20261102T043001Z"
     },
     {
-     "title": "La tragedia empuja a la ultraderecha a una espiral de brutalidad",
-     "url": "https://elpais.com/espana/2026-11-02/la-tragedia-empuja-a-la-ultraderecha-a-una-espiral-de-brutalidad.html",
+     "title": "La mayoría de la Diputación Permanente del Congreso exige la dimisión de Puente por el accidente de Urda",
+     "url": "https://elpais.com/espana/2026-11-02/la-mayoria-de-la-diputacion-permanente-del-congreso-exige-la-dimision-de-puente-por-el-accidente-de-urda.html",
      "domain": "El País",
      "seendate": "20261102T043001Z"
     },
@@ -145,6 +145,24 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "“No es fiesta, es recordar a los seres que amamos”",
+     "url": "https://www.eluniversal.com.mx/metropoli/no-es-fiesta-es-recordar-a-los-seres-que-amamos/",
+     "domain": "El Universal",
+     "seendate": "20261102T094608Z"
+    },
+    {
+     "title": "Buscan reducir trasplante de árboles en Mexibús L5",
+     "url": "https://www.eluniversal.com.mx/metropoli/buscan-reducir-trasplante-de-arboles-en-mexibus-l5/",
+     "domain": "El Universal",
+     "seendate": "20261102T084657Z"
+    },
+    {
+     "title": "En CDMX, crecen hogares de una sola persona; fenómeno social responde a cambios en dinámicas: especialistas",
+     "url": "https://www.eluniversal.com.mx/metropoli/en-cdmx-crecen-hogares-de-una-sola-persona-fenomeno-social-responde-a-cambios-en-dinamicas-especialistas/",
+     "domain": "El Universal",
+     "seendate": "20261102T083528Z"
+    },
     {
      "title": "\"Los muertos vuelven, pero el pueblo se vacía\"",
      "url": "https://www.eluniversal.com.mx/estados/los-muertos-vuelven-pero-el-pueblo-se-vacia/",
@@ -646,6 +664,12 @@
   "CRI": {
    "articles": [
     {
+     "title": "Fiscalía pide sobreseer a exministra Patricia Navarro por grabar los ‘audios de Presidencia’. Rodrigo Chaves responde con querella contra ella y acción civil contra ‘La Nación’",
+     "url": "https://www.nacion.com/politica/fiscalia-pide-sobreseer-a-exministra-patricia/MIKVVSS6AJALVA45BQ3HR6J6JA/story/",
+     "domain": "La Nación",
+     "seendate": "20261102T090000Z"
+    },
+    {
      "title": "Octava marcha por la liberación animal en 15 fotos: color y muchas mascotas se manifestaron en San José",
      "url": "https://www.nacion.com/el-pais/octava-marcha-por-la-liberacion-animal-en-15-fotos/XIO2VZYSYNF4HADKKVFRSYDW4E/story/",
      "domain": "La Nación",
@@ -967,6 +991,18 @@
   "COL": {
    "articles": [
     {
+     "title": "Cerca de 500 indígenas abandonaron sus territorios en Nuquí, Chocó, por temor a enfrentamientos entre grupos armados",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/cerca-de-500-indigenas-abandonaron-sus-territorios-en-nuqui-choco-por-temor-a-enfrentamientos-entre-grupos-armados-3597899",
+     "domain": "El Tiempo",
+     "seendate": "20261102T093304Z"
+    },
+    {
+     "title": "Videos revelan la magnitud del atentado en Planadas, Tolima, que dejó cuatro muertos, incluida una bebé de dos meses, según balance preliminar",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/videos-revelan-la-magnitud-del-atentado-en-planadas-tolima-que-dejo-cuatro-muertos-incluida-una-bebe-de-dos-meses-segun-balance-preliminar-3597898",
+     "domain": "El Tiempo",
+     "seendate": "20261102T082255Z"
+    },
+    {
      "title": "Gobernadora del Tolima, Adriana Matiz, confirmó cuatro muertos por atentado en el municipio de Planadas: entre las víctimas hay una bebé de dos meses",
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/gobernadora-del-tolima-adriana-matiz-confirmo-cuatro-muertos-por-atentado-en-el-municipio-de-planadas-entre-las-victimas-hay-una-bebe-de-dos-meses-3597897",
      "domain": "El Tiempo",
@@ -1013,18 +1049,6 @@
      "url": "https://www.eltiempo.com/colombia/medellin/tragedia-en-santo-domingo-antioquia-un-muerto-y-dos-heridos-al-caer-un-arbol-en-el-parque-principal-3597829",
      "domain": "El Tiempo",
      "seendate": "20261101T180445Z"
-    },
-    {
-     "title": "Más de 3.000 comparendos y 350 vehículos inmovilizados deja el balance de Halloween en Cali tras masivas caravanas",
-     "url": "https://www.eltiempo.com/colombia/cali/mas-de-3-000-comparendos-y-350-vehiculos-inmovilizados-deja-el-balance-de-halloween-en-cali-tras-masivas-caravanas-3597816",
-     "domain": "El Tiempo",
-     "seendate": "20261101T153739Z"
-    },
-    {
-     "title": "Video | Conductora en aparente estado de embriaguez arrolló a policías en Bucaramanga al evadir un retén durante Halloween: estas multas enfrentaría",
-     "url": "https://www.eltiempo.com/colombia/santander/video-conductora-en-aparente-estado-de-embriaguez-arrollo-a-policias-en-bucaramanga-al-evadir-un-reten-durante-halloween-estas-multas-enfrentaria-3597810",
-     "domain": "El Tiempo",
-     "seendate": "20261101T152358Z"
     }
    ]
   },
@@ -1261,14 +1285,32 @@
   "ARG": {
    "articles": [
     {
-     "title": "Pilar Sordo, psicóloga, sobre cómo afrontar el dolor: “Es necesario ser dócil”",
-     "url": "https://www.lanacion.com.ar/sociedad/pilar-sordo-psicologa-sobre-como-afrontar-el-dolor-es-necesario-ser-docil-nid02112026/",
-     "domain": "La Nación",
-     "seendate": "20261102T080000Z"
-    },
-    {
      "title": "Javier Milei y sus medidas, en vivo: “Los que prometieron el paraíso nos terminaron conduciendo al infierno”, dijo el Presidente",
      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-los-que-prometieron-el-paraiso-nos-terminaron-conduciendo-al-nid02112026/",
+     "domain": "La Nación",
+     "seendate": "20261102T094402Z"
+    },
+    {
+     "title": "El tironeo por la salud de Konstantin Rudnev frena el avance de la causa que investiga a una presunta secta en Bariloche",
+     "url": "https://www.lanacion.com.ar/seguridad/el-tironeo-por-la-salud-de-konstantin-rudnev-entorpece-la-causa-por-presunta-trata-de-personas-en-nid02112026/",
+     "domain": "La Nación",
+     "seendate": "20261102T090001Z"
+    },
+    {
+     "title": "Los conflictos de intereses que frenan la nueva ley de Biocombustibles",
+     "url": "https://www.lanacion.com.ar/economia/los-conflictos-de-intereses-que-frenan-la-nueva-ley-de-biocombustibles-nid02112026/",
+     "domain": "La Nación",
+     "seendate": "20261102T090000Z"
+    },
+    {
+     "title": "Aduana interior: cuando una provincia cobra antes de que se venda un producto",
+     "url": "https://www.lanacion.com.ar/economia/campo/aduana-interior-cuando-una-provincia-cobra-antes-de-que-se-venda-un-producto-nid02112026/",
+     "domain": "La Nación",
+     "seendate": "20261102T090000Z"
+    },
+    {
+     "title": "Pilar Sordo, psicóloga, sobre cómo afrontar el dolor: “Es necesario ser dócil”",
+     "url": "https://www.lanacion.com.ar/sociedad/pilar-sordo-psicologa-sobre-como-afrontar-el-dolor-es-necesario-ser-docil-nid02112026/",
      "domain": "La Nación",
      "seendate": "20261102T080000Z"
     },
@@ -1391,24 +1433,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/la-semilla-que-aporta-nutrientes-y-ayuda-a-cuidar-la-masa-muscular-nid01112026/",
      "domain": "La Nación",
      "seendate": "20261101T230000Z"
-    },
-    {
-     "title": "Recreaban una batalla histórica en Marcos Paz cuando un cañón se disparó accidentalmente",
-     "url": "https://www.lanacion.com.ar/sociedad/recreaban-una-batalla-historica-en-marcos-paz-cuando-un-canon-se-disparo-accidentalmente-nid01112026/",
-     "domain": "La Nación",
-     "seendate": "20261101T222312Z"
-    },
-    {
-     "title": "Javier Milei opinó sobre el tenso cruce entre Santiago Maratea y la China Ansa: “Una emboscada por no ser kuka”",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-opino-sobre-el-tenso-cruce-entre-santiago-maratea-y-la-china-ansa-una-emboscada-por-no-nid01112026/",
-     "domain": "La Nación",
-     "seendate": "20261101T215431Z"
-    },
-    {
-     "title": "Conmoción en Santa Fe: hallaron muertos a un reconocido empresario de una compañía de montaje y a su mujer",
-     "url": "https://www.lanacion.com.ar/seguridad/conmocion-en-santa-fe-hallaron-muertos-a-un-reconocido-empresario-de-una-compania-de-montaje-y-a-su-nid01112026/",
-     "domain": "La Nación",
-     "seendate": "20261101T215257Z"
     }
    ]
   },
@@ -1437,6 +1461,12 @@
   "PRY": {
    "articles": [
     {
+     "title": "Títulos falsos: Cones minimiza escándalo y la Aneaes retruca con “caja recaudadora” en el MEC",
+     "url": "https://www.abc.com.py/nacionales/2026/11/02/titulos-falsos-cones-minimiza-escandalo-y-la-aneaes-retruca-con-caja-recaudadora-en-el-mec/",
+     "domain": "ABC Color",
+     "seendate": "20261102T093000Z"
+    },
+    {
      "title": "La Basílica de Caacupé se hermosea para recibir a los peregrinos en la festividad mariana",
      "url": "https://www.abc.com.py/nacionales/2026/11/02/la-basilica-de-caacupe-se-hermosea-para-recibir-a-los-peregrinos-en-la-festividad-mariana/",
      "domain": "ABC Color",
@@ -1453,18 +1483,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/11/01/decretan-prision-preventiva-para-conductor-que-habria-causado-la-muerte-de-un-adolescente-en-mcal-lopez/",
      "domain": "ABC Color",
      "seendate": "20261102T024318Z"
-    },
-    {
-     "title": "Contrato civil entre personas del mismo sexo: el debate sobre si existe un vacío legal real",
-     "url": "https://www.abc.com.py/nacionales/2026/11/01/contrato-civil-entre-personas-del-mismo-sexo-el-debate-sobre-si-existe-un-vacio-legal-real/",
-     "domain": "ABC Color",
-     "seendate": "20261102T020512Z"
-    },
-    {
-     "title": "Celebran a Todos los Santos en la Catedral de Villarrica",
-     "url": "https://www.abc.com.py/nacionales/2026/11/01/celebran-a-todos-los-santos-en-la-catedral-de-villarrica/",
-     "domain": "ABC Color",
-     "seendate": "20261102T014226Z"
     }
    ]
   },
