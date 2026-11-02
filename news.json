@@ -1,8 +1,14 @@
 {
- "updated": "2026-11-02T03:53:25+00:00",
+ "updated": "2026-11-02T04:57:17+00:00",
  "countries": {
   "ESP": {
    "articles": [
+    {
+     "title": "Las mudanzas y las obras en edificios de la Generalitat complican el trabajo presencial de los funcionarios",
+     "url": "https://elpais.com/espana/catalunya/2026-11-02/las-mudanzas-y-las-obras-en-edificios-de-la-generalitat-complican-el-trabajo-presencial-de-los-funcionarios.html",
+     "domain": "El País",
+     "seendate": "20261102T043001Z"
+    },
     {
      "title": "Mueren cuatro miembros de una familia, dos adultos y dos niños, al salirse de la vía el coche en el que viajaban en Zamora",
      "url": "https://elpais.com/espana/2026-11-01/mueren-dos-adultos-y-dos-ninos-al-salirse-de-la-via-el-coche-en-el-que-viajaban-en-zamora.html",
@@ -115,6 +121,24 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Asesinan a tiros a hombre en Azcapotzalco; presuntos agresores huyeron en una motocicleta",
+     "url": "https://www.eluniversal.com.mx/metropoli/asesinan-a-tiros-a-hombre-en-azcapotzalco-presuntos-agresores-huyeron-en-una-motocicleta/",
+     "domain": "El Universal",
+     "seendate": "20261102T044640Z"
+    },
+    {
+     "title": "Aseguran dos tigres de Bengala durante cateo en Magdalena de Kino, Sonora; Fiscalía mantiene investigaciones",
+     "url": "https://www.eluniversal.com.mx/estados/aseguran-dos-tigres-de-bengala-durante-cateo-en-magdalena-de-kino-sonora-fiscalia-mantiene-investigaciones/",
+     "domain": "El Universal",
+     "seendate": "20261102T044350Z"
+    },
+    {
+     "title": "Hermosillo recuerda a las 24 víctimas del incendio de Waldo’s; familias aún esperan justicia",
+     "url": "https://www.eluniversal.com.mx/estados/hermosillo-recuerda-a-las-24-victimas-del-incendio-de-waldos-familias-aun-esperan-justicia/",
+     "domain": "El Universal",
+     "seendate": "20261102T035507Z"
+    },
     {
      "title": "Tamaulipas recuerda a sus personajes ilustres en Día de Muertos; destacan su legado histórico",
      "url": "https://www.eluniversal.com.mx/estados/tamaulipas-recuerda-a-sus-personajes-ilustres-en-dia-de-muertos-destacan-su-legado-historico/",
@@ -312,12 +336,6 @@
      "url": "https://www.eluniversal.com.mx/nacion/exige-jorge-romero-castigo-a-presunta-corrupcion-en-el-ine-renuncia-de-taddei-no-es-suficiente-advierte/",
      "domain": "El Universal",
      "seendate": "20261101T175302Z"
-    },
-    {
-     "title": "Regidora de Mazatlán denuncia amenazas de muerte y privación de la libertad; es la tercera ocasión, dice",
-     "url": "https://www.eluniversal.com.mx/estados/regidora-de-mazatlan-denuncia-amenazas-de-muerte-y-privacion-de-la-libertad-es-la-tercera-ocasion-dice/",
-     "domain": "El Universal",
-     "seendate": "20261101T173845Z"
     },
     {
      "title": "De blanco y con sombreros, exigen justicia por Carlos Manzo a un año de su asesinato; \"Uruapan merece paz\", claman",
@@ -760,6 +778,18 @@
   "CRI": {
    "articles": [
     {
+     "title": "Octava marcha por la liberación animal en 15 fotos: color y muchas mascotas se manifestaron en San José",
+     "url": "https://www.nacion.com/el-pais/octava-marcha-por-la-liberacion-animal-en-15-fotos/XIO2VZYSYNF4HADKKVFRSYDW4E/story/",
+     "domain": "La Nación",
+     "seendate": "20261102T044135Z"
+    },
+    {
+     "title": "Ruta por Cambronero es reabierta tras casi dos meses cerrada",
+     "url": "https://www.nacion.com/el-pais/ruta-por-cambronero-es-reabierta-tras-casi-dos/SWPFRCRJ6BGS3CU6HUG6PSC72A/story/",
+     "domain": "La Nación",
+     "seendate": "20261102T034626Z"
+    },
+    {
      "title": "Muerte de niño de 11 años en balacera en Paraíso de Cartago: Policía detiene a cinco sospechosos del doble homicidio",
      "url": "https://www.nacion.com/sucesos/muerte-de-nino-de-11-anos-en-balacera-en-paraiso/FDMFZNTSBVFUZDUTVEFIJVRDYY/story/",
      "domain": "La Nación",
@@ -842,17 +872,23 @@
      "url": "https://www.nacion.com/el-pais/cortes-de-luz-de-jasec-afectaran-paraiso-de/7RJEOI5CQRE4BDV5L7FNS6LJIM/story/",
      "domain": "La Nación",
      "seendate": "20261101T140200Z"
-    },
-    {
-     "title": "Actividad de Marta Esquivel con publicidad comercial obliga a Yara Jiménez a cambiar controles en la Asamblea Legislativa",
-     "url": "https://www.nacion.com/politica/actividad-de-marta-esquivel-con-publicidad/K2NAL4YQD5H4PN7VMW3NXXFPFU/story/",
-     "domain": "La Nación",
-     "seendate": "20261101T111500Z"
     }
    ]
   },
   "PAN": {
    "articles": [
+    {
+     "title": "Becas del Ifarhu: miles de estudiantes esperan pagos mientras termina el año escolar",
+     "url": "https://www.prensa.com/politica/becas-del-ifarhu-miles-de-estudiantes-esperan-pagos-mientras-termina-el-ano-escolar/",
+     "domain": "La Prensa",
+     "seendate": "20261102T045429Z"
+    },
+    {
+     "title": "La mirada israelí a la crisis del agua en Azuero: más que un problema de tuberías",
+     "url": "https://www.prensa.com/sociedad/la-mirada-israeli-a-la-crisis-del-agua-en-azuero-mas-que-un-problema-de-tuberias/",
+     "domain": "La Prensa",
+     "seendate": "20261102T045429Z"
+    },
     {
      "title": "El llamado de Ulloa: no olvidar a las familias afectadas por el terremoto",
      "url": "https://www.prensa.com/sociedad/el-llamado-de-ulloa-no-olvidar-a-las-familias-afectadas-por-el-terremoto/",
@@ -918,18 +954,6 @@
      "url": "https://www.prensa.com/sociedad/sismo-de-magnitud-61-sacude-panama-usuarios-reportaron-que-google-alerto-segundos-antes/",
      "domain": "La Prensa",
      "seendate": "20261031T162757Z"
-    },
-    {
-     "title": "¿Por orden de mandato superior?",
-     "url": "https://www.prensa.com/politica/por-orden-de-mandato-superior/",
-     "domain": "La Prensa",
-     "seendate": "20261031T050200Z"
-    },
-    {
-     "title": "CIDH cierra sesiones en Panamá entre denuncias y reclamos de la sociedad civil",
-     "url": "https://www.prensa.com/sociedad/cidh-cierra-sesiones-en-panama-entre-denuncias-y-reclamos-de-la-sociedad-civil/",
-     "domain": "La Prensa",
-     "seendate": "20261031T050100Z"
     },
     {
      "title": "CSS reporta la tercera muerte por el terremoto; una mujer de 86 años",
@@ -1291,12 +1315,6 @@
      "url": "https://eluniverso.com/politica/elecciones/elecciones-seccionales-2027-consejo-nacional-electoral-simulacro-nacional-nota/",
      "domain": "El Universo",
      "seendate": "20261101T155014Z"
-    },
-    {
-     "title": "Emergencia en Santa Cruz: se restablece servicio eléctrico en zonas afectadas por inundación",
-     "url": "https://eluniverso.com/comunidad/ecuador/emergencia-en-santa-cruz-se-restablece-servicio-electrico-en-zonas-afectadas-por-inundacion-nota/",
-     "domain": "El Universo",
-     "seendate": "20261101T151357Z"
     },
     {
      "title": "Ventas de flores y visitas se anticiparon en el cementerio municipal de Esmeraldas",
