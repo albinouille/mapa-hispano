@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T02:50:04+00:00",
+ "updated": "2026-11-02T03:53:25+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -115,6 +115,18 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Tamaulipas recuerda a sus personajes ilustres en Día de Muertos; destacan su legado histórico",
+     "url": "https://www.eluniversal.com.mx/estados/tamaulipas-recuerda-a-sus-personajes-ilustres-en-dia-de-muertos-destacan-su-legado-historico/",
+     "domain": "El Universal",
+     "seendate": "20261102T033435Z"
+    },
+    {
+     "title": "Detienen en Aguascalientes a cuatro presuntos estafadores de autos; operaban en siete estados",
+     "url": "https://www.eluniversal.com.mx/estados/detienen-en-aguascalientes-a-cuatro-presuntos-estafadores-de-autos-operaban-en-siete-estados/",
+     "domain": "El Universal",
+     "seendate": "20261102T031742Z"
+    },
     {
      "title": "Riña entre indígenas tzotziles deja un muerto en Chiapas; pobladores atacan y obligan a patrulla a huir",
      "url": "https://www.eluniversal.com.mx/estados/rina-entre-indigenas-tzotziles-deja-un-muerto-en-chiapas-pobladores-atacan-y-obligan-a-patrulla-a-huir/",
@@ -296,7 +308,7 @@
      "seendate": "20261101T183128Z"
     },
     {
-     "title": "Exige Jorge Romero castigo a presunta corrupción en el INE; renuncia de Taddei no es suficiente, advierte",
+     "title": "Moreira pide investigación profunda y auditorias en el INE; una pandilla de delincuentes estropearon el sistema electoral, afirma",
      "url": "https://www.eluniversal.com.mx/nacion/exige-jorge-romero-castigo-a-presunta-corrupcion-en-el-ine-renuncia-de-taddei-no-es-suficiente-advierte/",
      "domain": "El Universal",
      "seendate": "20261101T175302Z"
@@ -306,18 +318,6 @@
      "url": "https://www.eluniversal.com.mx/estados/regidora-de-mazatlan-denuncia-amenazas-de-muerte-y-privacion-de-la-libertad-es-la-tercera-ocasion-dice/",
      "domain": "El Universal",
      "seendate": "20261101T173845Z"
-    },
-    {
-     "title": "Senadora migrante Karina Ruiz sigue sin asistir a sesiones del pleno; acumula 16 faltas por problemas legales en EU",
-     "url": "https://www.eluniversal.com.mx/nacion/senadora-migrante-karina-ruiz-sigue-sin-asistir-a-sesiones-del-pleno-acumula-16-faltas-por-problemas-legales-en-eu/",
-     "domain": "El Universal",
-     "seendate": "20261101T172042Z"
-    },
-    {
-     "title": "Violencia en Mazatlán deja dos jóvenes muertos y un herido; atacan a balazos dos viviendas",
-     "url": "https://www.eluniversal.com.mx/estados/violencia-en-mazatlan-deja-dos-jovenes-muertos-y-un-herido-atacan-a-balazos-dos-viviendas/",
-     "domain": "El Universal",
-     "seendate": "20261101T165645Z"
     },
     {
      "title": "De blanco y con sombreros, exigen justicia por Carlos Manzo a un año de su asesinato; \"Uruapan merece paz\", claman",
@@ -760,6 +760,12 @@
   "CRI": {
    "articles": [
     {
+     "title": "Muerte de niño de 11 años en balacera en Paraíso de Cartago: Policía detiene a cinco sospechosos del doble homicidio",
+     "url": "https://www.nacion.com/sucesos/muerte-de-nino-de-11-anos-en-balacera-en-paraiso/FDMFZNTSBVFUZDUTVEFIJVRDYY/story/",
+     "domain": "La Nación",
+     "seendate": "20261102T031421Z"
+    },
+    {
      "title": "Lotería Nacional: salió el PREMIO MAYOR del domingo 1.° de noviembre",
      "url": "https://www.nacion.com/el-pais/loteria-nacional-salio-el-segundo-premio-del/64W6Q76SYFFGPA3WYN647RPKGU/story/",
      "domain": "La Nación",
@@ -842,36 +848,6 @@
      "url": "https://www.nacion.com/politica/actividad-de-marta-esquivel-con-publicidad/K2NAL4YQD5H4PN7VMW3NXXFPFU/story/",
      "domain": "La Nación",
      "seendate": "20261101T111500Z"
-    },
-    {
-     "title": "Alcalde Diego Miranda habla de un ‘divorcio’ con el gobierno y lo acusa de sabotear actividades de la Municipalidad de San José",
-     "url": "https://www.nacion.com/politica/alcalde-diego-miranda-habla-de-un-divorcio-con-el/HN45OSVI6NDMZCG7KZ47L3KHPQ/story/",
-     "domain": "La Nación",
-     "seendate": "20261101T100000Z"
-    },
-    {
-     "title": "El Gordo de la lotería navideña repartirá en 2026 el premio más alto de los últimos 50 años",
-     "url": "https://www.nacion.com/el-pais/el-gordo-de-la-loteria-navidena-repartira-en-2026/LLUNMMJOPVH3LAZICVOLEXKERQ/story/",
-     "domain": "La Nación",
-     "seendate": "20261101T090000Z"
-    },
-    {
-     "title": "El trabajo sexual que sostiene hogares y encuentra espacio en las pensiones: así opera este negocio en San José",
-     "url": "https://www.nacion.com/sucesos/el-trabajo-sexual-que-sostiene-hogares-y-encuentra/GWFD6LL7DJFPTBEHAX5XTNQDZY/story/",
-     "domain": "La Nación",
-     "seendate": "20261101T081500Z"
-    },
-    {
-     "title": "Mujeres reciben el 75% de títulos STEM en salud, pero apenas el 34% en ingenierías y el 22% en informática",
-     "url": "https://www.nacion.com/el-pais/mujeres-reciben-el-75-de-titulos-stem-en-salud/7MKTQHXTVVCAPJ3X7A5KKVRF6I/story/",
-     "domain": "La Nación",
-     "seendate": "20261101T073000Z"
-    },
-    {
-     "title": "Carreras STEM en Costa Rica: qué universidades gradúan más estudiantes en ciencia, tecnología e ingeniería",
-     "url": "https://www.nacion.com/el-pais/carreras-stem-representan-un-2983-de-diplomas-de/W55HZT45ZNCPDKQK7XQIJGTKB4/story/",
-     "domain": "La Nación",
-     "seendate": "20261101T070000Z"
     }
    ]
   },
@@ -1030,12 +1006,6 @@
      "url": "https://www.14ymedio.com/cuba/jugador-club-italiano-lidera-cuba_1_1132678.html",
      "domain": "14ymedio",
      "seendate": "20261031T165011Z"
-    },
-    {
-     "title": "Condenados en Florida seis traficantes que cobraban hasta 40.000 dólares a migrantes cubanos",
-     "url": "https://www.14ymedio.com/cuba/migracion/condenados-florida-seis-traficantes-cobraban_1_1132674.html",
-     "domain": "14ymedio",
-     "seendate": "20261031T145028Z"
     },
     {
      "title": "\"Evite disgustos\", la guerra contra los billetes pequeños en Cuba",
@@ -1351,6 +1321,12 @@
   "PER": {
    "articles": [
     {
+     "title": "Lluvias en el norte y otras regiones del Perú EN VIVO: pronósticos del Senamhi y reportes por El Niño 2026",
+     "url": "https://elcomercio.pe/peru/lluvias-en-piura-tumbes-lambayeque-y-otras-regiones-del-peru-en-vivo-pronosticos-del-senamhi-reportes-y-cambios-en-el-clima-por-el-nino-2026-lbposting-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261102T031542Z"
+    },
+    {
      "title": "Tumbes: intensa lluvia se registra por segundo día consecutivo en varios distritos de la región",
      "url": "https://elcomercio.pe/peru/tumbes/tumbes-intensa-lluvia-se-registra-por-segundo-dia-consecutivo-en-varios-distritos-de-la-region-fenomeno-el-nino-senamhi-apuesplan-ultimas-noticia/",
      "domain": "El Comercio",
@@ -1367,12 +1343,6 @@
      "url": "https://elcomercio.pe/peru/la-libertad/trujillo-reyerta-en-el-penal-el-milagro-deja-tres-internos-muertos-informa-el-inpe-ultimas-noticia/",
      "domain": "El Comercio",
      "seendate": "20261102T011755Z"
-    },
-    {
-     "title": "Lluvias en el norte y otras regiones del Perú EN VIVO: pronósticos del Senamhi y reportes por El Niño 2026",
-     "url": "https://elcomercio.pe/peru/lluvias-en-piura-tumbes-lambayeque-y-otras-regiones-del-peru-en-vivo-pronosticos-del-senamhi-reportes-y-cambios-en-el-clima-por-el-nino-2026-lbposting-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261102T005022Z"
     },
     {
      "title": "Tumbes registró día extremadamente lluvioso que provocó inundaciones, informó el Senamhi",
@@ -1422,6 +1392,24 @@
   },
   "ARG": {
    "articles": [
+    {
+     "title": "Está a 350 kilómetros de Buenos Aires, tiene médanos de 30 metros de alto y un faro traído de Francia: la playa secreta que no figura en ninguna lista",
+     "url": "https://www.lanacion.com.ar/sociedad/esta-a-350-kilometros-de-buenos-aires-tiene-medanos-de-30-metros-de-alto-y-un-faro-traido-de-francia-nid02112026/",
+     "domain": "La Nación",
+     "seendate": "20261102T033300Z"
+    },
+    {
+     "title": "Solo en Off | Veinte meses después, sigue el misterio por la bandera de Malvinas que falta en la Casa Rosada",
+     "url": "https://www.lanacion.com.ar/politica/solo-en-off-veinte-meses-despues-sigue-el-misterio-por-la-bandera-de-malvinas-que-falta-en-la-casa-nid02112026/",
+     "domain": "La Nación",
+     "seendate": "20261102T030100Z"
+    },
+    {
+     "title": "Javier Milei y sus medidas, en vivo: “Los que prometieron el paraíso nos terminaron conduciendo al infierno”, dijo el Presidente",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-los-que-prometieron-el-paraiso-nos-terminaron-conduciendo-al-nid02112026/",
+     "domain": "La Nación",
+     "seendate": "20261102T030000Z"
+    },
     {
      "title": "Bariloche: la alianza oficialista se quedó con la mayoría y los libertarios salieron terceros en las elecciones para convencionales constituyentes",
      "url": "https://www.lanacion.com.ar/politica/bariloche-la-alianza-oficialista-se-quedaba-con-la-mayoria-en-las-elecciones-para-convencionales-nid01112026/",
@@ -1565,30 +1553,6 @@
      "url": "https://www.lanacion.com.ar/seguridad/cuatro-ninos-y-una-joven-murieron-en-un-incendio-en-chaco-detuvieron-a-su-pareja-nid01112026/",
      "domain": "La Nación",
      "seendate": "20261101T204835Z"
-    },
-    {
-     "title": "Con 7800 voluntarios, 13.000 policías y un costo de 10 millones de dólares, Córdoba se prepara para recibir a León XIV",
-     "url": "https://www.lanacion.com.ar/politica/con-7800-voluntarios-13000-policias-y-un-costo-de-10-millones-de-dolares-cordoba-se-prepara-para-nid01112026/",
-     "domain": "La Nación",
-     "seendate": "20261101T203708Z"
-    },
-    {
-     "title": "Se incendió un velero en el puerto de Mar del Plata: rescataron a tres canadienses y a un perro",
-     "url": "https://www.lanacion.com.ar/seguridad/se-incendio-un-velero-en-el-puerto-de-mar-del-plata-rescataron-a-tres-canadienses-y-a-un-perro-nid01112026/",
-     "domain": "La Nación",
-     "seendate": "20261101T201226Z"
-    },
-    {
-     "title": "El desafío de comprender los vínculos que plantea la psiquiatra Marian Rojas Estapé: “Nos dedicamos a ver el grueso y olvidamos los matices”",
-     "url": "https://www.lanacion.com.ar/sociedad/el-desafio-de-comprender-los-vinculos-que-plantea-la-psiquiatra-marian-rojas-estape-nos-dedicamos-a-nid01112026/",
-     "domain": "La Nación",
-     "seendate": "20261101T200000Z"
-    },
-    {
-     "title": "El pronóstico del tiempo para este lunes 2 de noviembre en el AMBA: hay un 40% de probabilidad de lluvias aisladas a la madrugada y la máxima alcanza los 26°",
-     "url": "https://www.lanacion.com.ar/sociedad/el-pronostico-del-tiempo-para-este-lunes-2-de-noviembre-en-el-amba-hay-un-40-de-probabilidad-de-nid01112026/",
-     "domain": "La Nación",
-     "seendate": "20261101T193821Z"
     }
    ]
   },
@@ -1645,12 +1609,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/11/01/video-incidentes-en-el-clasico-cerro-porteno-olimpia/",
      "domain": "ABC Color",
      "seendate": "20261101T223905Z"
-    },
-    {
-     "title": "Fuga de amoníaco en empresa avícola: una sola trabajadora sigue internada",
-     "url": "https://www.abc.com.py/nacionales/2026/11/01/fuga-de-amoniaco-en-empresa-avicola-una-sola-trabajadora-sigue-internada/",
-     "domain": "ABC Color",
-     "seendate": "20261101T210723Z"
     }
    ]
   },
