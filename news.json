@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T01:44:36+00:00",
+ "updated": "2026-11-02T02:50:04+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -115,6 +115,12 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Riña entre indígenas tzotziles deja un muerto en Chiapas; pobladores atacan y obligan a patrulla a huir",
+     "url": "https://www.eluniversal.com.mx/estados/rina-entre-indigenas-tzotziles-deja-un-muerto-en-chiapas-pobladores-atacan-y-obligan-a-patrulla-a-huir/",
+     "domain": "El Universal",
+     "seendate": "20261102T015809Z"
+    },
     {
      "title": "CDMX se prepara para el Día de Muertos; Metro anuncia cómo funcionará este lunes 2 de noviembre",
      "url": "https://www.eluniversal.com.mx/metropoli/cdmx-se-prepara-para-el-dia-de-muertos-metro-anuncia-como-funcionara-este-lunes-2-de-noviembre/",
@@ -318,18 +324,6 @@
      "url": "https://www.eluniversal.com.mx/nacion/de-blanco-y-con-sombreros-exigen-justicia-por-carlos-manzo-a-un-ano-de-su-asesinato-uruapan-merece-paz-claman/",
      "domain": "El Universal",
      "seendate": "20261101T163215Z"
-    },
-    {
-     "title": "Entra en operación nueva estructura del Distribuidor Vial Kukulcán en Cancún; mejorará acceso al aeropuerto",
-     "url": "https://www.eluniversal.com.mx/estados/entra-en-operacion-nueva-estructura-del-distribuidor-vial-kukulcan-en-cancun-mejorara-acceso-al-aeropuerto/",
-     "domain": "El Universal",
-     "seendate": "20261101T163058Z"
-    },
-    {
-     "title": "Estas son las marchas previstas para este 1 de noviembre; evita afectaciones viales",
-     "url": "https://www.eluniversal.com.mx/metropoli/estas-son-las-marchas-previstas-para-este-1-de-noviembre-evita-afectaciones-viales/",
-     "domain": "El Universal",
-     "seendate": "20261101T162924Z"
     },
     {
      "title": "Sheinbaum responde a llamado del influencer Alexis Omman; busca apoyar a Xóchitl, niña genio de Chiapas",
@@ -766,6 +760,12 @@
   "CRI": {
    "articles": [
     {
+     "title": "Lotería Nacional: salió el PREMIO MAYOR del domingo 1.° de noviembre",
+     "url": "https://www.nacion.com/el-pais/loteria-nacional-salio-el-segundo-premio-del/64W6Q76SYFFGPA3WYN647RPKGU/story/",
+     "domain": "La Nación",
+     "seendate": "20261102T014527Z"
+    },
+    {
      "title": "Niño de 11 años murió mientras era trasladado al hospital tras balacera en Llanos de Santa Lucía; hombre adulto muere en el lugar",
      "url": "https://www.nacion.com/sucesos/balacera-en-llanos-de-santa-lucia-reportan-muerte/6X6CENFILNAA7HUGGVLPA5ZQEA/story/",
      "domain": "La Nación",
@@ -1032,6 +1032,12 @@
      "seendate": "20261031T165011Z"
     },
     {
+     "title": "Condenados en Florida seis traficantes que cobraban hasta 40.000 dólares a migrantes cubanos",
+     "url": "https://www.14ymedio.com/cuba/migracion/condenados-florida-seis-traficantes-cobraban_1_1132674.html",
+     "domain": "14ymedio",
+     "seendate": "20261031T145028Z"
+    },
+    {
      "title": "\"Evite disgustos\", la guerra contra los billetes pequeños en Cuba",
      "url": "https://www.14ymedio.com/cuba/evite-disgustos-guerra-billetes-pequenos_1_1132675.html",
      "domain": "14ymedio",
@@ -1086,6 +1092,12 @@
      "seendate": "20261030T120843Z"
     },
     {
+     "title": "\"Si no tienes dinero te mueres de hambre\": la Cuba que encontró el ‘Wall Street Journal’",
+     "url": "https://www.14ymedio.com/cuba/si-no-tienes-dinero-mueres_1_1132584.html",
+     "domain": "14ymedio",
+     "seendate": "20261029T203752Z"
+    },
+    {
      "title": "Los petroleros cargados de diésel ruso podrían ir a Cuba en lugar de Estados Unidos",
      "url": "https://www.14ymedio.com/cuba/petroleros-cargados-diesel-ruso-cuba_1_1132575.html",
      "domain": "14ymedio",
@@ -1111,7 +1123,7 @@
      "seendate": "20261102T003343Z"
     },
     {
-     "title": "Atención: el músico vallenato 'Kbeto' Zuleta despertó tras el accidente y fue extubado",
+     "title": "Músico vallenato 'Kbeto' Zuleta despertó tras grave accidente de bus y fue extubado: esto se sabe",
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-musico-vallenato-kbeto-zuleta-desperto-tras-el-accidente-y-fue-extubado-3597859",
      "domain": "El Tiempo",
      "seendate": "20261102T000150Z"
@@ -1208,6 +1220,12 @@
   },
   "ECU": {
    "articles": [
+    {
+     "title": "Lavinia Valbonesi y Fundación ANA trabajan en zonas de emergencia para ayudar a familias afectadas en Santa Elena y Galápagos",
+     "url": "https://eluniverso.com/politica/ejecutivo/lavinia-valbonesi-fundacion-ana-emergencia-ayuda-familias-santa-elena-galapagos-nota/",
+     "domain": "El Universo",
+     "seendate": "20261102T014958Z"
+    },
     {
      "title": "7,6 toneladas de suministros por las inundaciones llegan a Galápagos en un segundo vuelo humanitario",
      "url": "https://eluniverso.com/politica/ejecutivo/76-toneladas-de-suministros-por-las-inundaciones-llegan-a-galapagos-en-un-segundo-vuelo-humanitario-nota/",
@@ -1333,6 +1351,18 @@
   "PER": {
    "articles": [
     {
+     "title": "Tumbes: intensa lluvia se registra por segundo día consecutivo en varios distritos de la región",
+     "url": "https://elcomercio.pe/peru/tumbes/tumbes-intensa-lluvia-se-registra-por-segundo-dia-consecutivo-en-varios-distritos-de-la-region-fenomeno-el-nino-senamhi-apuesplan-ultimas-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261102T023636Z"
+    },
+    {
+     "title": "Tumbes y Piura en alerta roja por lluvias extremas: por qué las precipitaciones podrían superar los 100 mm",
+     "url": "https://elcomercio.pe/peru/piura/tumbes-y-piura-en-alerta-roja-por-lluvias-extremas-por-que-las-precipitaciones-podrian-superar-los-100-mm-apuesplan-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261102T014350Z"
+    },
+    {
      "title": "Trujillo: Reyerta en el penal El Milagro deja tres internos muertos, informa el INPE",
      "url": "https://elcomercio.pe/peru/la-libertad/trujillo-reyerta-en-el-penal-el-milagro-deja-tres-internos-muertos-informa-el-inpe-ultimas-noticia/",
      "domain": "El Comercio",
@@ -1349,12 +1379,6 @@
      "url": "https://elcomercio.pe/peru/tumbes/tumbes-registro-dia-extremadamente-lluvioso-que-provoco-inundaciones-informo-el-senamhi-fenomeno-el-nino-apuesplan-ultimas-noticia/",
      "domain": "El Comercio",
      "seendate": "20261101T220639Z"
-    },
-    {
-     "title": "Canciller Carlos Espá viajará a Rusia para obtener información sobre 450 peruanos reclutados para combatir en Ucrania",
-     "url": "https://elcomercio.pe/peru/canciller-carlos-espa-viajara-a-rusia-para-obtener-informacion-sobre-450-peruanos-reclutados-para-combatir-en-ucrania-ultimas-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261101T204039Z"
     }
    ]
   },
@@ -1399,10 +1423,10 @@
   "ARG": {
    "articles": [
     {
-     "title": "Bariloche: la alianza oficialista se queda con la mayoría y los libertarios salen terceros en las elecciones para convencionales constituyentes",
+     "title": "Bariloche: la alianza oficialista se quedó con la mayoría y los libertarios salieron terceros en las elecciones para convencionales constituyentes",
      "url": "https://www.lanacion.com.ar/politica/bariloche-la-alianza-oficialista-se-quedaba-con-la-mayoria-en-las-elecciones-para-convencionales-nid01112026/",
      "domain": "La Nación",
-     "seendate": "20261102T011839Z"
+     "seendate": "20261102T020317Z"
     },
     {
      "title": "El Niño: anticipan focos de 200 milímetros en una región del país",
@@ -1593,6 +1617,30 @@
   "PRY": {
    "articles": [
     {
+     "title": "Incendio de gran magnitud en tanque de alcohol tras caída de un rayo y existe riesgo de más explosiones en Pastoreo",
+     "url": "https://www.abc.com.py/nacionales/2026/11/01/incendio-de-gran-magnitud-en-tanque-de-alcohol-tras-caida-de-un-rayo-y-existe-riesgo-de-mas-explosiones-en-pastoreo/",
+     "domain": "ABC Color",
+     "seendate": "20261102T024346Z"
+    },
+    {
+     "title": "Decretan prisión preventiva para conductor que habría causado la muerte de un adolescente en Mcal. López",
+     "url": "https://www.abc.com.py/nacionales/2026/11/01/decretan-prision-preventiva-para-conductor-que-habria-causado-la-muerte-de-un-adolescente-en-mcal-lopez/",
+     "domain": "ABC Color",
+     "seendate": "20261102T024318Z"
+    },
+    {
+     "title": "Contrato civil entre personas del mismo sexo: el debate sobre si existe un vacío legal real",
+     "url": "https://www.abc.com.py/nacionales/2026/11/01/contrato-civil-entre-personas-del-mismo-sexo-el-debate-sobre-si-existe-un-vacio-legal-real/",
+     "domain": "ABC Color",
+     "seendate": "20261102T020512Z"
+    },
+    {
+     "title": "Celebran a Todos los Santos en la Catedral de Villarrica",
+     "url": "https://www.abc.com.py/nacionales/2026/11/01/celebran-a-todos-los-santos-en-la-catedral-de-villarrica/",
+     "domain": "ABC Color",
+     "seendate": "20261102T014226Z"
+    },
+    {
      "title": "Video: incidentes en el clásico Cerro Porteño-Olimpia",
      "url": "https://www.abc.com.py/nacionales/2026/11/01/video-incidentes-en-el-clasico-cerro-porteno-olimpia/",
      "domain": "ABC Color",
@@ -1603,24 +1651,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/11/01/fuga-de-amoniaco-en-empresa-avicola-una-sola-trabajadora-sigue-internada/",
      "domain": "ABC Color",
      "seendate": "20261101T210723Z"
-    },
-    {
-     "title": "Pescadores de Fuerte Olimpo llegan a la veda con pocas capturas y bajos ingresos",
-     "url": "https://www.abc.com.py/nacionales/chaco/2026/11/01/pescadores-de-fuerte-olimpo-llegan-a-la-veda-con-pocas-capturas-y-bajos-ingresos/",
-     "domain": "ABC Color",
-     "seendate": "20261101T210000Z"
-    },
-    {
-     "title": "San Juan Bautista: fe, recuerdos y tradiciones marcan la jornada de Todos los Santos",
-     "url": "https://www.abc.com.py/nacionales/2026/11/01/san-juan-bautista-fe-recuerdos-y-tradiciones-marcan-la-jornada-de-todos-los-santos/",
-     "domain": "ABC Color",
-     "seendate": "20261101T203540Z"
-    },
-    {
-     "title": "La Iglesia urge abordar deudas sociales e ineficiencias del Estado en el Día de Todos los Santos",
-     "url": "https://www.abc.com.py/nacionales/2026/11/01/la-iglesia-urge-abordar-deudas-sociales-e-ineficiencias-del-estado-en-el-dia-de-todos-los-santos/",
-     "domain": "ABC Color",
-     "seendate": "20261101T163425Z"
     }
    ]
   },
