@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T05:59:00+00:00",
+ "updated": "2026-11-02T07:14:34+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -16,6 +16,12 @@
      "seendate": "20261102T043001Z"
     },
     {
+     "title": "Una reconciliación antes del final",
+     "url": "https://elpais.com/espana/madrid/2026-11-02/una-reconciliacion-antes-del-final.html",
+     "domain": "El País",
+     "seendate": "20261102T043001Z"
+    },
+    {
      "title": "La mayoría de la Diputación Permanente del Congreso exige la dimisión de Puente por el accidente de Urda",
      "url": "https://elpais.com/espana/2026-11-02/la-mayoria-de-la-diputacion-permanente-del-congreso-exige-la-dimision-de-puente-por-el-accidente-de-urda.html",
      "domain": "El País",
@@ -24,12 +30,6 @@
     {
      "title": "La tragedia empuja a la ultraderecha a una espiral de brutalidad",
      "url": "https://elpais.com/espana/2026-11-02/la-tragedia-empuja-a-la-ultraderecha-a-una-espiral-de-brutalidad.html",
-     "domain": "El País",
-     "seendate": "20261102T043001Z"
-    },
-    {
-     "title": "Una reconciliación antes del final",
-     "url": "https://elpais.com/espana/madrid/2026-11-02/una-reconciliacion-antes-del-final.html",
      "domain": "El País",
      "seendate": "20261102T043001Z"
     },
@@ -151,6 +151,18 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "”El INE está de pie, los trabajadores lo defenderemos”",
+     "url": "https://www.eluniversal.com.mx/nacion/el-ine-esta-de-pie-los-trabajadores-lo-defenderemos/",
+     "domain": "El Universal",
+     "seendate": "20261102T070100Z"
+    },
+    {
+     "title": "“Desaparición de Fabián deja dolor e impotencia”",
+     "url": "https://www.eluniversal.com.mx/nacion/desaparicion-de-fabian-deja-dolor-e-impotencia/",
+     "domain": "El Universal",
+     "seendate": "20261102T070000Z"
+    },
     {
      "title": "Asesinan a tiros a hombre en Azcapotzalco; presuntos agresores huyeron en una motocicleta",
      "url": "https://www.eluniversal.com.mx/metropoli/asesinan-a-tiros-a-hombre-en-azcapotzalco-presuntos-agresores-huyeron-en-una-motocicleta/",
@@ -332,22 +344,10 @@
      "seendate": "20261101T194008Z"
     },
     {
-     "title": "Senado ha aprobado casi 40 proyectos de decreto en periodo ordinario; sobresalen doble nacionalidad y Ley de Economía Digital",
-     "url": "https://www.eluniversal.com.mx/nacion/senado-ha-aprobado-casi-40-proyectos-de-decreto-en-periodo-ordinario-sobresalen-doble-nacionalidad-y-ley-de-economia-digital/",
-     "domain": "El Universal",
-     "seendate": "20261101T193922Z"
-    },
-    {
      "title": "Grecia Quiroz devela estatua de Carlos Manzo en la Plaza Morelos de Uruapan; exige justicia sin protegidos",
      "url": "https://www.eluniversal.com.mx/nacion/grecia-quiroz-devela-estatua-de-carlos-manzo-en-la-plaza-morelos-de-uruapan-exige-justicia-sin-protegidos/",
      "domain": "El Universal",
      "seendate": "20261101T193400Z"
-    },
-    {
-     "title": "Mega Rodada del Terror en CDMX; aseguran 514 motocicletas y un vehículo tipo razer",
-     "url": "https://www.eluniversal.com.mx/metropoli/mega-rodada-del-terror-en-cdmx-aseguran-514-motocicletas-y-un-vehiculo-tipo-razer/",
-     "domain": "El Universal",
-     "seendate": "20261101T183715Z"
     },
     {
      "title": "Moreira pide investigación profunda y auditorias en el INE; una pandilla de delincuentes estropearon el sistema electoral, afirma",
@@ -360,12 +360,6 @@
      "url": "https://www.eluniversal.com.mx/nacion/de-blanco-y-con-sombreros-exigen-justicia-por-carlos-manzo-a-un-ano-de-su-asesinato-uruapan-merece-paz-claman/",
      "domain": "El Universal",
      "seendate": "20261101T163215Z"
-    },
-    {
-     "title": "Sheinbaum responde a llamado del influencer Alexis Omman; busca apoyar a Xóchitl, niña genio de Chiapas",
-     "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-responde-a-llamado-del-influencer-alexis-omman-busca-apoyar-a-xochitl-nina-genio-de-chiapas/",
-     "domain": "El Universal",
-     "seendate": "20261101T161726Z"
     },
     {
      "title": "Choque de trenes en España: un mexicano permanece desaparecido; 11 connacionales ya fueron dados de alta",
@@ -1117,6 +1111,12 @@
   "COL": {
    "articles": [
     {
+     "title": "Nuevo atentado con explosivos en Cauca tras la detonación de una motocicleta en inmediaciones del hospital local del municipio de Balboa",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/nuevo-atentado-con-explosivos-en-cauca-tras-la-detonacion-de-una-motocicleta-en-inmediaciones-del-hospital-local-del-municipio-de-balboa-3597896",
+     "domain": "El Tiempo",
+     "seendate": "20261102T061902Z"
+    },
+    {
      "title": "Atentado en Planadas, Tolima, habría sido perpetrado con drones bomba y una volqueta cargada de explosivos en inmediaciones de una base militar",
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/atentado-en-planadas-tolima-habria-sido-perpetrado-con-drones-bomba-y-una-volqueta-cargada-de-explosivos-en-inmediaciones-de-una-base-militar-3597894",
      "domain": "El Tiempo",
@@ -1169,12 +1169,6 @@
      "url": "https://www.eltiempo.com/colombia/medellin/halloween-en-medellin-deja-mas-de-2-100-comparendos-y-536-vehiculos-inmovilizados-tras-operativos-de-control-3597812",
      "domain": "El Tiempo",
      "seendate": "20261101T151915Z"
-    },
-    {
-     "title": "Esperanzador parte médico de 'Kbeto' Zuleta: se conocen detalles sobre el estado de salud del cantante vallenato desde Barranquilla",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/cuerpo-medico-de-kbeto-zuleta-entrega-parte-esperanzador-sobre-el-estado-de-salud-del-cantante-vallenato-3597809",
-     "domain": "El Tiempo",
-     "seendate": "20261101T144545Z"
     }
    ]
   },
@@ -1417,16 +1411,28 @@
   "ARG": {
    "articles": [
     {
+     "title": "Javier Milei y sus medidas, en vivo: “Los que prometieron el paraíso nos terminaron conduciendo al infierno”, dijo el Presidente",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-los-que-prometieron-el-paraiso-nos-terminaron-conduciendo-al-nid02112026/",
+     "domain": "La Nación",
+     "seendate": "20261102T064201Z"
+    },
+    {
+     "title": "Gabriel Rolón, psicoanalista: “Muchas veces estamos sólo cumpliendo un mandato inconsciente”",
+     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-muchas-veces-estamos-solo-cumpliendo-un-mandato-inconsciente-nid02112026/",
+     "domain": "La Nación",
+     "seendate": "20261102T060000Z"
+    },
+    {
+     "title": "El poderío chino que abre oportunidades para la Argentina en un sector estratégico",
+     "url": "https://www.lanacion.com.ar/economia/campo/el-poderio-chino-que-abre-oportunidades-para-la-argentina-en-un-sector-estrategico-nid02112026/",
+     "domain": "La Nación",
+     "seendate": "20261102T060000Z"
+    },
+    {
      "title": "Dos inesperados nuevos nacimientos de elefantes marinos suman sorpresa en la costa bonaerense",
      "url": "https://www.lanacion.com.ar/sociedad/dos-inesperados-nuevos-nacimientos-de-elefantes-marinos-suman-sorpresa-en-la-costa-bonaerense-nid01112026/",
      "domain": "La Nación",
      "seendate": "20261102T054841Z"
-    },
-    {
-     "title": "Javier Milei y sus medidas, en vivo: “Los que prometieron el paraíso nos terminaron conduciendo al infierno”, dijo el Presidente",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-los-que-prometieron-el-paraiso-nos-terminaron-conduciendo-al-nid02112026/",
-     "domain": "La Nación",
-     "seendate": "20261102T051857Z"
     },
     {
      "title": "Está a 350 kilómetros de Buenos Aires, tiene médanos de 30 metros de alto y un faro traído de Francia: la playa secreta que no figura en ninguna lista",
@@ -1547,24 +1553,6 @@
      "url": "https://www.lanacion.com.ar/seguridad/conmocion-en-santa-fe-hallaron-muertos-a-un-reconocido-empresario-de-una-compania-de-montaje-y-a-su-nid01112026/",
      "domain": "La Nación",
      "seendate": "20261101T215257Z"
-    },
-    {
-     "title": "La Libertad Avanza busca ganar peso en la Justicia porteña: competirá en la elección de abogados del Consejo de la Magistratura",
-     "url": "https://www.lanacion.com.ar/politica/la-libertad-avanza-busca-ganar-peso-en-la-justicia-portena-competira-en-la-eleccion-de-abogados-del-nid01112026/",
-     "domain": "La Nación",
-     "seendate": "20261101T213048Z"
-    },
-    {
-     "title": "La paradoja de la felicidad que expone Gabriel Rolón: “Podemos alcanzar la faltacidad”",
-     "url": "https://www.lanacion.com.ar/sociedad/la-paradoja-de-la-felicidad-que-expone-gabriel-rolon-podemos-alcanzar-la-faltacidad-nid01112026/",
-     "domain": "La Nación",
-     "seendate": "20261101T210000Z"
-    },
-    {
-     "title": "Mariel Fernández: “El gobernador Kicillof se reúne con intendentes del MDF, yo quisiera que se reúna con todos”",
-     "url": "https://www.lanacion.com.ar/politica/mariel-fernandez-el-gobernador-se-reune-con-intendentes-del-mdf-yo-quisiera-que-se-reuna-con-todos-nid01112026/",
-     "domain": "La Nación",
-     "seendate": "20261101T205833Z"
     }
    ]
   },
@@ -1624,6 +1612,60 @@
   "BRA": {
    "articles": [
     {
+     "title": "Após virada impulsionada pelas redes, Ministério da Comunicação Digital ganha força para quarto mandato de Lula",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/11/02/apos-virada-impulsionada-pelas-redes-ministerio-da-comunicacao-digital-ganha-forca-para-quarto-mandato-de-lula.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261102T063001Z"
+    },
+    {
+     "title": "Finda a eleição, é hora de colocar a bola no chão e olhar para a frente na Educação",
+     "url": "https://oglobo.globo.com/brasil/antonio-gois/coluna/2026/11/finda-a-eleicao-e-hora-de-colocar-a-bola-no-chao-e-olhar-para-a-frente-na-educacao.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261102T063000Z"
+    },
+    {
+     "title": "Das tabelas e gráficos ao meio ambiente: análise em 2.500 questões dos últimos 14 anos mostra o que mais cai no Enem",
+     "url": "https://oglobo.globo.com/brasil/educacao/enem-e-vestibular/noticia/2026/11/02/das-tabelas-e-graficos-ao-meio-ambiente-analise-em-2500-questoes-dos-ultimos-14-anos-mostra-o-que-mais-cai-no-enem.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261102T063000Z"
+    },
+    {
+     "title": "Receita contra 'puxadores': sob objeção de PT e PL, Centrão aposta em racha nas siglas para emplacar voto distrital misto",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/11/02/receita-contra-puxadores-sob-objecao-de-pt-e-pl-centrao-aposta-em-racha-nas-siglas-para-emplacar-voto-distrital-misto.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261102T063000Z"
+    },
+    {
+     "title": "Entrevista: 'Aspecto descentralizado' da virada de Lula 'é inédito', diz cientista político Miguel Lago",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/11/02/entrevista-aspecto-descentralizado-da-virada-de-lula-e-inedito-diz-cientista-politico-miguel-lago.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261102T063000Z"
+    },
+    {
+     "title": "Entrevista: 'A direção do PT estava desconectada da sua base social', afirma historiador Lincoln Secco",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/11/02/entrevista-a-direcao-do-pt-estava-desconectada-da-sua-base-social-afirma-historiador-lincoln-secco.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261102T063000Z"
+    },
+    {
+     "title": "Cearense conquista ouro em competição internacional de Física e alcança 3º lugar entre universitários do mundo; saiba quem é",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/11/02/cearense-conquista-ouro-em-competicao-internacional-de-fisica-e-alcanca-3o-lugar-entre-universitarios-do-mundo-saiba-quem-e.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261102T050000Z"
+    },
+    {
+     "title": "Ex-agente do governo israelense é investigado por ajuda a Flávio Bolsonaro na fuga para os EUA",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/11/01/ex-agente-do-governo-israelense-e-investigado-por-ajuda-a-flavio-bolsonaro-na-fuga-para-os-eua.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261102T004727Z"
+    },
+    {
+     "title": "Aumento de ICMS sobre combustíveis vira nova frente de batalha entre lulistas e Tarcísio",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/11/01/aumento-de-icms-sobre-combustiveis-vira-nova-frente-de-batalha-entre-lulistas-e-tarcisio.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261101T230750Z"
+    },
+    {
      "title": "Em vídeo nas redes sociais, Lula diz que não encerrará nenhum programa social e pode criar novos",
      "url": "https://oglobo.globo.com/politica/noticia/2026/11/01/lula-incorpora-video-selfie-e-usa-redes-sociais-para-agradecer-estados-onde-teve-votacao-expressiva.ghtml",
      "domain": "O Globo",
@@ -1652,12 +1694,6 @@
      "url": "https://oglobo.globo.com/politica/noticia/2026/11/01/ministerios-do-lula-4-fonteles-camilo-santana-joao-campos-gakiya-e-outros-cotados-veja-quem-sao.ghtml",
      "domain": "O Globo",
      "seendate": "20261101T145706Z"
-    },
-    {
-     "title": "Flávio Bolsonaro pode ficar \"quanto tempo quiser\" nos EUA, diz Trump",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/11/01/flavio-bolsonaro-pode-ficar-quanto-tempo-quiser-nos-eua-diz-trump.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261101T111117Z"
     }
    ]
   }
