@@ -1,8 +1,14 @@
 {
- "updated": "2026-11-02T07:14:34+00:00",
+ "updated": "2026-11-02T08:42:54+00:00",
  "countries": {
   "ESP": {
    "articles": [
+    {
+     "title": "Los precios del alquiler bajan en Barcelona un 4,4% en los dos primeros años de aplicación de la ley de Vivienda",
+     "url": "https://elpais.com/espana/catalunya/2026-11-02/los-precios-del-alquiler-bajan-en-barcelona-un-44-en-los-dos-primeros-anos-de-aplicacion-de-la-ley-de-vivienda.html",
+     "domain": "El País",
+     "seendate": "20261102T080927Z"
+    },
     {
      "title": "La investigación del siniestro de Urda analiza si Adif usó el protocolo erróneo más veces",
      "url": "https://elpais.com/espana/2026-11-02/la-investigacion-del-siniestro-de-urda-analiza-si-adif-uso-el-protocolo-erroneo-mas-veces.html",
@@ -54,12 +60,6 @@
     {
      "title": "La veinteañera exculpada de crear una ‘academia de la yihad’: “Aún me pregunto por qué me detuvo la Policía”",
      "url": "https://elpais.com/espana/2026-11-02/la-veinteanera-exculpada-de-crear-una-academia-de-la-yihad-aun-me-pregunto-por-que-me-detuvo-la-policia.html",
-     "domain": "El País",
-     "seendate": "20261102T043001Z"
-    },
-    {
-     "title": "Los tanatorios españoles abren el duelo a las mascotas para despedirse de sus humanos",
-     "url": "https://elpais.com/espana/2026-11-02/los-tanatorios-espanoles-abren-el-duelo-a-las-mascotas-para-despedirse-de-sus-humanos.html",
      "domain": "El País",
      "seendate": "20261102T043001Z"
     },
@@ -140,17 +140,41 @@
      "url": "https://elpais.com/espana/andalucia/2026-10-31/el-plan-contra-el-fuego-andaluz-cierra-el-ejercicio-con-el-mayor-gasto-historico-y-el-peor-balance-en-30-anos.html",
      "domain": "El País",
      "seendate": "20261031T043001Z"
-    },
-    {
-     "title": "Tras las huellas de Miguel Hernández, con el Guadalquivir y el Segura como compañeros de viaje",
-     "url": "https://elpais.com/elviajero/escapadas/espana/2026-10-30/tras-las-huellas-de-miguel-hernandez-con-el-guadalquivir-y-el-segura-como-companeros-de-viaje.html",
-     "domain": "El País",
-     "seendate": "20261030T043001Z"
     }
    ]
   },
   "MEX": {
    "articles": [
+    {
+     "title": "\"Los muertos vuelven, pero el pueblo se vacía\"",
+     "url": "https://www.eluniversal.com.mx/estados/los-muertos-vuelven-pero-el-pueblo-se-vacia/",
+     "domain": "El Universal",
+     "seendate": "20261102T080600Z"
+    },
+    {
+     "title": "\"No daré ni un paso atrás, honraré tu memoria\": Grecia Quiroz; miles protestan a un año del asesinato de Carlos Manzo",
+     "url": "https://www.eluniversal.com.mx/estados/no-dare-ni-un-paso-atras-honrare-tu-memoria-grecia-quiroz-miles-protestan-a-un-ano-del-asesinato-de-carlos-manzo/",
+     "domain": "El Universal",
+     "seendate": "20261102T080500Z"
+    },
+    {
+     "title": "Clan Taddei también se despachó con 123 mdp en la elección judicial; benefició a empresas en compra de material electoral",
+     "url": "https://www.eluniversal.com.mx/nacion/clan-taddei-tambien-se-despacho-con-123-mdp-en-la-eleccion-judicial-beneficio-a-empresas-en-compra-de-material-electoral/",
+     "domain": "El Universal",
+     "seendate": "20261102T080000Z"
+    },
+    {
+     "title": "SRE: ya fueron dados de alta 11 mexicanos en España",
+     "url": "https://www.eluniversal.com.mx/nacion/sre-ya-fueron-dados-de-alta-11-mexicanos-en-espana/",
+     "domain": "El Universal",
+     "seendate": "20261102T075932Z"
+    },
+    {
+     "title": "CSP: hoy honramos a nuestros ancestros",
+     "url": "https://www.eluniversal.com.mx/nacion/csp-hoy-honramos-a-nuestros-ancestros/",
+     "domain": "El Universal",
+     "seendate": "20261102T075352Z"
+    },
     {
      "title": "”El INE está de pie, los trabajadores lo defenderemos”",
      "url": "https://www.eluniversal.com.mx/nacion/el-ine-esta-de-pie-los-trabajadores-lo-defenderemos/",
@@ -194,178 +218,10 @@
      "seendate": "20261102T031742Z"
     },
     {
-     "title": "Riña entre indígenas tzotziles deja un muerto en Chiapas; pobladores atacan y obligan a patrulla a huir",
-     "url": "https://www.eluniversal.com.mx/estados/rina-entre-indigenas-tzotziles-deja-un-muerto-en-chiapas-pobladores-atacan-y-obligan-a-patrulla-a-huir/",
-     "domain": "El Universal",
-     "seendate": "20261102T015809Z"
-    },
-    {
-     "title": "CDMX se prepara para el Día de Muertos; Metro anuncia cómo funcionará este lunes 2 de noviembre",
-     "url": "https://www.eluniversal.com.mx/metropoli/cdmx-se-prepara-para-el-dia-de-muertos-metro-anuncia-como-funcionara-este-lunes-2-de-noviembre/",
-     "domain": "El Universal",
-     "seendate": "20261102T005647Z"
-    },
-    {
-     "title": "Ecatepec rehabilita avenida Gasoducto con inversión de 16.5 millones de pesos; renueva agua potable y drenaje",
-     "url": "https://www.eluniversal.com.mx/metropoli/ecatepec-rehabilita-avenida-gasoducto-con-inversion-de-165-millones-de-pesos-renueva-agua-potable-y-drenaje/",
-     "domain": "El Universal",
-     "seendate": "20261102T004529Z"
-    },
-    {
-     "title": "Morena exige investigar irregularidades en el INE; afirma que los problemas actuales vienen de administraciones pasadas",
-     "url": "https://www.eluniversal.com.mx/nacion/morena-exige-investigar-irregularidades-en-el-ine-afirma-que-los-problemas-actuales-vienen-de-administraciones-pasadas/",
-     "domain": "El Universal",
-     "seendate": "20261102T003409Z"
-    },
-    {
-     "title": "Grupo armado ataca centro de rehabilitación en Mazatlán, Sinaloa; mueren dos pacientes y uno queda herido",
-     "url": "https://www.eluniversal.com.mx/estados/grupo-armado-ataca-centro-de-rehabilitacion-en-mazatlan-sinaloa-mueren-dos-pacientes-y-uno-queda-herido/",
-     "domain": "El Universal",
-     "seendate": "20261102T003034Z"
-    },
-    {
-     "title": "FGR aclara que suspensión concedida a Ernesto Ruffo no frena proceso penal; investigación continúa",
-     "url": "https://www.eluniversal.com.mx/nacion/fgr-aclara-que-suspension-concedida-a-ernesto-ruffo-no-frena-proceso-penal-investigacion-continua/",
-     "domain": "El Universal",
-     "seendate": "20261102T002930Z"
-    },
-    {
-     "title": "Premian a 113 artesanos de Michoacán; celebran la Noche de Muertos",
-     "url": "https://www.eluniversal.com.mx/estados/premian-a-113-artesanos-de-michoacan-celebran-la-noche-de-muertos/",
-     "domain": "El Universal",
-     "seendate": "20261102T001559Z"
-    },
-    {
-     "title": "“Sigo esperando que entres por esa puerta”; Grecia Quiroz recuerda a Carlos Manzo a un año de su asesinato",
-     "url": "https://www.eluniversal.com.mx/nacion/sigo-esperando-que-entres-por-esa-puerta-grecia-quiroz-recuerda-a-carlos-manzo-a-un-ano-de-su-asesinato/",
-     "domain": "El Universal",
-     "seendate": "20261102T001229Z"
-    },
-    {
-     "title": "Congreso alista parlamento abierto para Ley de Rentas; sesionarán en comisiones ruta de mesas, dice diputado de Morena",
-     "url": "https://www.eluniversal.com.mx/metropoli/morena-cdmx-sesionara-parlamento-abierto-de-iniciativa-de-ley-de-rentas-justas-recibiran-propuestas-hasta-el-28-de-noviembre/",
-     "domain": "El Universal",
-     "seendate": "20261101T235044Z"
-    },
-    {
-     "title": "Detienen a tres hombres por obras irregulares en Tláhuac; construían en suelo de conservación",
-     "url": "https://www.eluniversal.com.mx/metropoli/detienen-a-tres-hombres-por-obras-irregulares-en-tlahuac-construian-en-suelo-de-conservacion/",
-     "domain": "El Universal",
-     "seendate": "20261101T235036Z"
-    },
-    {
-     "title": "Activan alerta amarilla por fuertes vientos en CDMX; afectará a seis alcaldías este domingo",
-     "url": "https://www.eluniversal.com.mx/metropoli/activan-alerta-amarilla-por-fuertes-vientos-en-cdmx-afectara-a-seis-alcaldias-este-domingo/",
-     "domain": "El Universal",
-     "seendate": "20261101T234921Z"
-    },
-    {
-     "title": "Culiacán registra dos asesinatos en distintos ataques armados; una agresión ocurrió en una taquería",
-     "url": "https://www.eluniversal.com.mx/estados/culiacan-registra-dos-asesinatos-en-distintos-ataques-armados-una-agresion-ocurrio-en-una-taqueria/",
-     "domain": "El Universal",
-     "seendate": "20261101T224922Z"
-    },
-    {
-     "title": "Aláine López Briceño asume Comunicación Social de Yucatán; es la cuarta titular en el gobierno estatal",
-     "url": "https://www.eluniversal.com.mx/estados/alaine-lopez-briceno-asume-comunicacion-social-de-yucatan-es-la-cuarta-titular-en-el-gobierno-estatal/",
-     "domain": "El Universal",
-     "seendate": "20261101T224338Z"
-    },
-    {
-     "title": "Celebración de la Santa Muerte reúne a más de 2 mil devotos en Mérida, Yucatán; seguidores festejan con música y caravana",
-     "url": "https://www.eluniversal.com.mx/estados/celebracion-de-la-santa-muerte-reune-a-mas-de-2-mil-devotos-en-merida-yucatan-seguidores-festejan-con-musica-y-caravana/",
-     "domain": "El Universal",
-     "seendate": "20261101T223637Z"
-    },
-    {
-     "title": "Culiacán celebra Halloween con vigilancia de fuerzas federales y estatales; reporta saldo sin incidentes graves",
-     "url": "https://www.eluniversal.com.mx/estados/culiacan-celebra-halloween-con-vigilancia-de-fuerzas-federales-y-estatales-reporta-saldo-sin-incidentes-graves/",
-     "domain": "El Universal",
-     "seendate": "20261101T221953Z"
-    },
-    {
-     "title": "Detienen a dos conductores durante festejos de Halloween en Guasave; simulaban escenas de violencia en sus autos",
-     "url": "https://www.eluniversal.com.mx/estados/detienen-a-dos-conductores-durante-festejos-de-halloween-en-guasave-simulaban-escenas-de-violencia-en-sus-autos/",
-     "domain": "El Universal",
-     "seendate": "20261101T221722Z"
-    },
-    {
-     "title": "Fuga de agua afecta ocho viviendas en la Gustavo A. Madero; reparan tubería de 12 pulgadas",
-     "url": "https://www.eluniversal.com.mx/metropoli/fuga-de-agua-afecta-ocho-viviendas-en-la-gustavo-a-madero-reparan-tuberia-de-12-pulgadas/",
-     "domain": "El Universal",
-     "seendate": "20261101T214530Z"
-    },
-    {
-     "title": "Día de muertos: xoloitzcuintles se adueñan del Centro Histórico; caminata reúne a más de 240 perritos mexicanos",
-     "url": "https://www.eluniversal.com.mx/nacion/dia-de-muertos-xoloitzcuintles-se-aduenan-del-centro-historico-caminata-reune-a-mas-de-240-perritos-mexicanos/",
-     "domain": "El Universal",
-     "seendate": "20261101T212232Z"
-    },
-    {
-     "title": "Fiesta de disfraces en Club Campestre en Chiapas deja decenas de jóvenes intoxicados; investigan presunto alcohol adulterado",
-     "url": "https://www.eluniversal.com.mx/estados/fiesta-de-disfraces-en-club-campestre-en-chiapas-deja-decenas-de-jovenes-intoxicados-investigan-presunto-alcohol-adulterado/",
-     "domain": "El Universal",
-     "seendate": "20261101T212214Z"
-    },
-    {
-     "title": "Oaxaca detiene a 212 objetivos prioritarios del crimen organizado en cuatro años; CJNG y Cártel de Sinaloa operan en el estado",
-     "url": "https://www.eluniversal.com.mx/estados/oaxaca-detiene-a-212-objetivos-prioritarios-del-crimen-organizado-en-cuatro-anos-cjng-y-cartel-de-sinaloa-operan-en-el-estado/",
-     "domain": "El Universal",
-     "seendate": "20261101T210653Z"
-    },
-    {
-     "title": "Amparan a dueña de dos departamentos en CDMX; juzgado le permite rentar sus inmuebles a corto plazo mediante apps",
-     "url": "https://www.eluniversal.com.mx/nacion/amparan-a-duena-de-dos-departamentos-en-cdmx-juzgado-le-permite-rentar-sus-inmuebles-a-corto-plazo-mediante-apps/",
-     "domain": "El Universal",
-     "seendate": "20261101T205252Z"
-    },
-    {
-     "title": "Suprema Corte presenta libro en la Universidad de Tlaxcala; aborda nueva integración del Alto Tribunal",
-     "url": "https://www.eluniversal.com.mx/nacion/suprema-corte-presenta-libro-en-la-universidad-de-tlaxcala-aborda-nueva-integracion-del-alto-tribunal/",
-     "domain": "El Universal",
-     "seendate": "20261101T203745Z"
-    },
-    {
-     "title": "Dan cinco años de prisión a \"El Pozoles\", uno de los líderes de La Unión Tepito; lo vinculan a delitos de narcotráfico",
-     "url": "https://www.eluniversal.com.mx/nacion/dan-cinco-anos-de-prision-a-el-pozoles-uno-de-los-lideres-de-la-union-tepito-lo-vinculan-a-delitos-de-narcotrafico/",
-     "domain": "El Universal",
-     "seendate": "20261101T201700Z"
-    },
-    {
-     "title": "Ofrenda recuerda a perros envenenados en Parque España; vecinos temen que el presunto responsable quede libre",
-     "url": "https://www.eluniversal.com.mx/metropoli/ofrenda-recuerda-a-perros-envenenados-en-parque-mexico-vecinos-temen-que-el-presunto-responsable-quede-libre/",
-     "domain": "El Universal",
-     "seendate": "20261101T194239Z"
-    },
-    {
-     "title": "Advierten lluvias y descenso de temperaturas por Frente frío 4; Protección Civil llama a aplicar medidas preventivas",
-     "url": "https://www.eluniversal.com.mx/nacion/advierten-lluvias-y-descenso-de-temperaturas-por-frente-frio-4-proteccion-civil-llama-a-aplicar-medidas-preventivas/",
-     "domain": "El Universal",
-     "seendate": "20261101T194008Z"
-    },
-    {
-     "title": "Grecia Quiroz devela estatua de Carlos Manzo en la Plaza Morelos de Uruapan; exige justicia sin protegidos",
-     "url": "https://www.eluniversal.com.mx/nacion/grecia-quiroz-devela-estatua-de-carlos-manzo-en-la-plaza-morelos-de-uruapan-exige-justicia-sin-protegidos/",
-     "domain": "El Universal",
-     "seendate": "20261101T193400Z"
-    },
-    {
-     "title": "Moreira pide investigación profunda y auditorias en el INE; una pandilla de delincuentes estropearon el sistema electoral, afirma",
-     "url": "https://www.eluniversal.com.mx/nacion/exige-jorge-romero-castigo-a-presunta-corrupcion-en-el-ine-renuncia-de-taddei-no-es-suficiente-advierte/",
-     "domain": "El Universal",
-     "seendate": "20261101T175302Z"
-    },
-    {
      "title": "De blanco y con sombreros, exigen justicia por Carlos Manzo a un año de su asesinato; \"Uruapan merece paz\", claman",
      "url": "https://www.eluniversal.com.mx/nacion/de-blanco-y-con-sombreros-exigen-justicia-por-carlos-manzo-a-un-ano-de-su-asesinato-uruapan-merece-paz-claman/",
      "domain": "El Universal",
      "seendate": "20261101T163215Z"
-    },
-    {
-     "title": "Choque de trenes en España: un mexicano permanece desaparecido; 11 connacionales ya fueron dados de alta",
-     "url": "https://www.eluniversal.com.mx/nacion/choque-de-trenes-en-espana-un-mexicano-permanece-desaparecido-11-connacionales-ya-fueron-dados-de-alta/",
-     "domain": "El Universal",
-     "seendate": "20261101T155431Z"
     }
    ]
   },
@@ -1111,6 +967,12 @@
   "COL": {
    "articles": [
     {
+     "title": "Gobernadora del Tolima, Adriana Matiz, confirmó cuatro muertos por atentado en el municipio de Planadas: entre las víctimas hay una bebé de dos meses",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/gobernadora-del-tolima-adriana-matiz-confirmo-cuatro-muertos-por-atentado-en-el-municipio-de-planadas-entre-las-victimas-hay-una-bebe-de-dos-meses-3597897",
+     "domain": "El Tiempo",
+     "seendate": "20261102T070506Z"
+    },
+    {
      "title": "Nuevo atentado con explosivos en Cauca tras la detonación de una motocicleta en inmediaciones del hospital local del municipio de Balboa",
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/nuevo-atentado-con-explosivos-en-cauca-tras-la-detonacion-de-una-motocicleta-en-inmediaciones-del-hospital-local-del-municipio-de-balboa-3597896",
      "domain": "El Tiempo",
@@ -1163,12 +1025,6 @@
      "url": "https://www.eltiempo.com/colombia/santander/video-conductora-en-aparente-estado-de-embriaguez-arrollo-a-policias-en-bucaramanga-al-evadir-un-reten-durante-halloween-estas-multas-enfrentaria-3597810",
      "domain": "El Tiempo",
      "seendate": "20261101T152358Z"
-    },
-    {
-     "title": "Halloween en Medellín deja más de 2.100 comparendos y 536 vehículos inmovilizados tras operativos de control",
-     "url": "https://www.eltiempo.com/colombia/medellin/halloween-en-medellin-deja-mas-de-2-100-comparendos-y-536-vehiculos-inmovilizados-tras-operativos-de-control-3597812",
-     "domain": "El Tiempo",
-     "seendate": "20261101T151915Z"
     }
    ]
   },
@@ -1209,12 +1065,6 @@
      "url": "https://www.el-carabobeno.com/vente-venezuela-exige-liberar-a-todos-los-presos-politicos-tras-encuentro-de-machado-con-rocha/",
      "domain": "el-carabobeno.com",
      "seendate": "20261027T051500Z"
-    },
-    {
-     "title": "Asunto nuevo : N° FP11 - V - 2026 - 000572 – Correo del Caroní",
-     "url": "https://correodelcaroni.com/anuncios/publicidad/asunto-nuevo-n-fp11-v-2026-000572/",
-     "domain": "correodelcaroni.com",
-     "seendate": "20261026T050000Z"
     }
    ]
   },
@@ -1411,10 +1261,16 @@
   "ARG": {
    "articles": [
     {
+     "title": "Pilar Sordo, psicóloga, sobre cómo afrontar el dolor: “Es necesario ser dócil”",
+     "url": "https://www.lanacion.com.ar/sociedad/pilar-sordo-psicologa-sobre-como-afrontar-el-dolor-es-necesario-ser-docil-nid02112026/",
+     "domain": "La Nación",
+     "seendate": "20261102T080000Z"
+    },
+    {
      "title": "Javier Milei y sus medidas, en vivo: “Los que prometieron el paraíso nos terminaron conduciendo al infierno”, dijo el Presidente",
      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-los-que-prometieron-el-paraiso-nos-terminaron-conduciendo-al-nid02112026/",
      "domain": "La Nación",
-     "seendate": "20261102T064201Z"
+     "seendate": "20261102T080000Z"
     },
     {
      "title": "Gabriel Rolón, psicoanalista: “Muchas veces estamos sólo cumpliendo un mandato inconsciente”",
@@ -1581,6 +1437,12 @@
   "PRY": {
    "articles": [
     {
+     "title": "La Basílica de Caacupé se hermosea para recibir a los peregrinos en la festividad mariana",
+     "url": "https://www.abc.com.py/nacionales/2026/11/02/la-basilica-de-caacupe-se-hermosea-para-recibir-a-los-peregrinos-en-la-festividad-mariana/",
+     "domain": "ABC Color",
+     "seendate": "20261102T080000Z"
+    },
+    {
      "title": "Incendio de gran magnitud en tanque de alcohol tras caída de un rayo y existe riesgo de más explosiones en Pastoreo",
      "url": "https://www.abc.com.py/nacionales/2026/11/01/incendio-de-gran-magnitud-en-tanque-de-alcohol-tras-caida-de-un-rayo-y-existe-riesgo-de-mas-explosiones-en-pastoreo/",
      "domain": "ABC Color",
@@ -1676,24 +1538,6 @@
      "url": "https://oglobo.globo.com/politica/noticia/2026/11/01/agente-dos-eua-tomaram-o-controle-de-parte-de-aeroporto-na-argentina-para-viabilizar-fuga-de-flavio-diz-jornal.ghtml",
      "domain": "O Globo",
      "seendate": "20261101T194249Z"
-    },
-    {
-     "title": "Após ameaças a indígenas no MS, governo envia Força Nacional para reforçar segurança de aldeias",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/11/01/apos-ameacas-a-indigenas-no-ms-governo-envia-forca-nacional-para-reforcar-seguranca-de-aldeias.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261101T160601Z"
-    },
-    {
-     "title": "Vestibular 2027 da Fuvest começa hoje com 106 mil inscritos",
-     "url": "https://oglobo.globo.com/brasil/educacao/educacao-360/noticia/2026/11/01/vestibular-2027-da-fuvest-comeca-hoje-com-106-mil-inscritos.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261101T155721Z"
-    },
-    {
-     "title": "Ministérios do Lula 4: Fonteles, Camilo Santana, João Campos, Gakiya e outros cotados; veja quem são",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/11/01/ministerios-do-lula-4-fonteles-camilo-santana-joao-campos-gakiya-e-outros-cotados-veja-quem-sao.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261101T145706Z"
     }
    ]
   }
