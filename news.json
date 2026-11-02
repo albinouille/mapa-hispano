@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T23:06:22+00:00",
+ "updated": "2026-11-02T00:04:56+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -115,6 +115,24 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Morena CDMX sesionara parlamento abierto de iniciativa de Ley de Rentas Justas; recibirán propuestas hasta el 28 de noviembre",
+     "url": "https://www.eluniversal.com.mx/metropoli/morena-cdmx-sesionara-parlamento-abierto-de-iniciativa-de-ley-de-rentas-justas-recibiran-propuestas-hasta-el-28-de-noviembre/",
+     "domain": "El Universal",
+     "seendate": "20261101T235044Z"
+    },
+    {
+     "title": "Detienen a tres hombres por obras irregulares en Tláhuac; construían en suelo de conservación",
+     "url": "https://www.eluniversal.com.mx/metropoli/detienen-a-tres-hombres-por-obras-irregulares-en-tlahuac-construian-en-suelo-de-conservacion/",
+     "domain": "El Universal",
+     "seendate": "20261101T235036Z"
+    },
+    {
+     "title": "Activan alerta amarilla por fuertes vientos en CDMX; afectará a seis alcaldías este domingo",
+     "url": "https://www.eluniversal.com.mx/metropoli/activan-alerta-amarilla-por-fuertes-vientos-en-cdmx-afectara-a-seis-alcaldias-este-domingo/",
+     "domain": "El Universal",
+     "seendate": "20261101T234921Z"
+    },
     {
      "title": "Culiacán registra dos asesinatos en distintos ataques armados; una agresión ocurrió en una taquería",
      "url": "https://www.eluniversal.com.mx/estados/culiacan-registra-dos-asesinatos-en-distintos-ataques-armados-una-agresion-ocurrio-en-una-taqueria/",
@@ -836,12 +854,6 @@
      "url": "https://www.nacion.com/el-pais/vagoneta-quiebra-11-postes-electricos-en-zapote-y/X23UYVOBCJGJLB5JAPFHIFU734/story/",
      "domain": "La Nación",
      "seendate": "20261101T013049Z"
-    },
-    {
-     "title": "IMN pronostica un domingo con lluvias en varias regiones del país y fuertes vientos de hasta 85 km/h",
-     "url": "https://www.nacion.com/sucesos/imn-pronostica-un-domingo-con-lluvias-en-varias/AVLANKS7A5BYPEUFINPDQ2WFFI/story/",
-     "domain": "La Nación",
-     "seendate": "20261101T012139Z"
     }
    ]
   },
@@ -1191,6 +1203,12 @@
   "ECU": {
    "articles": [
     {
+     "title": "Un carril se habilita en la vía Balbanera-Pallatanga-Cumandá desde este lunes 2 hasta el domingo 8 de noviembre",
+     "url": "https://eluniverso.com/comunidad/ecuador/un-carril-habilitado-en-via-balbanera-pallatanga-cumanda-desde-este-lunes-2-hasta-el-domingo-8-de-noviembre-nota/",
+     "domain": "El Universo",
+     "seendate": "20261101T233000Z"
+    },
+    {
      "title": "Visitantes llenan atractivos turísticos en Baños durante este feriado",
      "url": "https://eluniverso.com/comunidad/ecuador/feriado-bueno-nota/",
      "domain": "El Universo",
@@ -1275,12 +1293,6 @@
      "seendate": "20261101T150000Z"
     },
     {
-     "title": "Caso Sinohydro: pedido de revisión de medidas cautelares hecho por la Fiscalía contra los 20 condenados por cohecho sigue sin juez que lo conozca",
-     "url": "https://eluniverso.com/politica/expedientes/caso-sinohydro-pedido-revision-medidas-cautelares-hecho-fiscalia-contra-20-condenados-sigue-sin-juez-conozca-nota/",
-     "domain": "El Universo",
-     "seendate": "20261101T134500Z"
-    },
-    {
      "title": "Emergencia en Santa Cruz: una persona murió y otras dos están desaparecidas por inundación en esta isla de Galápagos",
      "url": "https://eluniverso.com/comunidad/ecuador/emergencia-en-santa-cruz-una-persona-murio-y-otras-dos-estan-desaparecidas-tras-inundacion-en-esta-isla-de-galapagos-nota/",
      "domain": "El Universo",
@@ -1297,16 +1309,16 @@
   "PER": {
    "articles": [
     {
+     "title": "Lluvias en el norte y otras regiones del Perú EN VIVO: pronósticos del Senamhi y reportes por El Niño 2026",
+     "url": "https://elcomercio.pe/peru/lluvias-en-piura-tumbes-lambayeque-y-otras-regiones-del-peru-en-vivo-pronosticos-del-senamhi-reportes-y-cambios-en-el-clima-por-el-nino-2026-lbposting-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261101T233143Z"
+    },
+    {
      "title": "Tumbes registró día extremadamente lluvioso que provocó inundaciones, informó el Senamhi",
      "url": "https://elcomercio.pe/peru/tumbes/tumbes-registro-dia-extremadamente-lluvioso-que-provoco-inundaciones-informo-el-senamhi-fenomeno-el-nino-apuesplan-ultimas-noticia/",
      "domain": "El Comercio",
      "seendate": "20261101T220639Z"
-    },
-    {
-     "title": "Lluvias en el norte y otras regiones del Perú EN VIVO: pronósticos del Senamhi y reportes por El Niño 2026",
-     "url": "https://elcomercio.pe/peru/lluvias-en-piura-tumbes-lambayeque-y-otras-regiones-del-peru-en-vivo-pronosticos-del-senamhi-reportes-y-cambios-en-el-clima-por-el-nino-2026-lbposting-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261101T214521Z"
     },
     {
      "title": "Canciller Carlos Espá viajará a Rusia para obtener información sobre 450 peruanos reclutados para combatir en Ucrania",
@@ -1356,6 +1368,24 @@
   },
   "ARG": {
    "articles": [
+    {
+     "title": "Hay alerta amarilla por tormentas para este lunes 2 de noviembre: las provincias afectadas",
+     "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-tormentas-para-este-lunes-2-de-noviembre-las-provincias-afectadas-nid01112026/",
+     "domain": "La Nación",
+     "seendate": "20261101T235256Z"
+    },
+    {
+     "title": "La política, atravesada por la fe",
+     "url": "https://www.lanacion.com.ar/politica/la-politica-atravesada-por-la-fe-nid01112026/",
+     "domain": "La Nación",
+     "seendate": "20261101T234911Z"
+    },
+    {
+     "title": "Comienza el juicio a un motociclista que atropelló y mató a un niño de 7 años en Puerto Madero",
+     "url": "https://www.lanacion.com.ar/seguridad/comienza-el-juicio-a-un-motociclista-que-atropello-y-mato-a-un-nino-de-7-anos-en-puerto-madero-nid01112026/",
+     "domain": "La Nación",
+     "seendate": "20261101T234551Z"
+    },
     {
      "title": "El riesgo país argentino subió en octubre hasta seis veces lo que aumentó en la región y el Gobierno contuvo el dólar",
      "url": "https://www.lanacion.com.ar/economia/el-riesgo-pais-argentino-subio-en-octubre-hasta-seis-veces-lo-que-aumento-en-la-region-y-el-gobierno-nid01112026/",
@@ -1475,30 +1505,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/dormir-demasiada-siesta-como-puede-afectar-el-descanso-y-el-estado-de-animo-nid01112026/",
      "domain": "La Nación",
      "seendate": "20261101T180000Z"
-    },
-    {
-     "title": "Masacre en Merlo: un mensaje que presagió las cinco muertes y el misterio del origen del arma homicida",
-     "url": "https://www.lanacion.com.ar/seguridad/masacre-en-merlo-un-mensaje-que-presagio-las-cinco-muertes-y-el-misterio-del-origen-del-arma-nid01112026/",
-     "domain": "La Nación",
-     "seendate": "20261101T173614Z"
-    },
-    {
-     "title": "Radares para Malvinas y la IA soberana: los nuevos desafíos del Invap, el perro verde de las empresas públicas",
-     "url": "https://www.lanacion.com.ar/sociedad/radares-para-malvinas-y-la-ia-soberana-los-nuevos-desafios-del-invap-el-perro-verde-de-las-empresas-nid01112026/",
-     "domain": "La Nación",
-     "seendate": "20261101T172404Z"
-    },
-    {
-     "title": "Estos son los cinco lugares del mundo en los que la gente vive más",
-     "url": "https://www.lanacion.com.ar/sociedad/estos-son-los-cinco-lugares-del-mundo-en-los-que-la-gente-vive-mas-nid01112026/",
-     "domain": "La Nación",
-     "seendate": "20261101T170000Z"
-    },
-    {
-     "title": "La reflexión de Darío Sztajnszrajber sobre para qué sirve hoy la filosofía: “Para cuestionar por qué todo tiene que servir siempre”",
-     "url": "https://www.lanacion.com.ar/sociedad/la-reflexion-de-dario-sztajnszrajber-sobre-para-que-sirve-hoy-la-filosofia-para-cuestionar-por-que-nid01112026/",
-     "domain": "La Nación",
-     "seendate": "20261101T170000Z"
     }
    ]
   },
