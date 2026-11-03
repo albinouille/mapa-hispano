@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T02:48:28+00:00",
+ "updated": "2026-11-03T03:48:48+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -444,12 +444,6 @@
      "url": "https://www.eluniversal.com.mx/metropoli/defensoria-publica-suspende-atencion-en-el-zocalo-por-dia-de-muertos-reanudara-el-viernes/",
      "domain": "El Universal",
      "seendate": "20261102T171508Z"
-    },
-    {
-     "title": "Declaran de utilidad pública inmueble de alto riesgo en la colonia Tránsito; proyectan construir viviendas sociales",
-     "url": "https://www.eluniversal.com.mx/metropoli/declaran-de-utilidad-publica-inmueble-de-alto-riesgo-en-la-colonia-transito-proyectan-construir-viviendas-sociales/",
-     "domain": "El Universal",
-     "seendate": "20261102T170200Z"
     },
     {
      "title": "Avioneta de capacitación se desploma en Pachuca; mueren dos hombres tras despegar del aeropuerto",
@@ -1016,6 +1010,12 @@
   "PAN": {
    "articles": [
     {
+     "title": "‘Este país necesita más rendición de cuentas’: diputada Chong sobre el presupuesto de 2027",
+     "url": "https://www.prensa.com/politica/este-pais-necesita-mas-rendicion-de-cuentas-diputada-chong-sobre-el-presupuesto-de-2027/",
+     "domain": "La Prensa",
+     "seendate": "20261103T031319Z"
+    },
+    {
      "title": "Seis empresas muestran interés en reconstruir el edificio Juan Ramón Poll",
      "url": "https://www.prensa.com/sociedad/seis-empresas-muestran-interes-en-reconstruir-el-edificio-juan-ramon-poll/",
      "domain": "La Prensa",
@@ -1273,10 +1273,16 @@
   "COL": {
    "articles": [
     {
-     "title": "Declaran alerta roja hospitalaria en Planadas, blanco de ataque terrorista donde murieron cuatro civiles, entre ellos a una bebé de dos meses",
+     "title": "Lupa al caos vial en el norte del Valle de Aburrá: crean plan conjunto y comisión para destrabar megaobras viales",
+     "url": "https://www.eltiempo.com/colombia/medellin/lupa-al-caos-vial-en-el-norte-del-valle-de-aburra-crean-plan-conjunto-y-comision-para-destrabar-megaobras-viales-3597969",
+     "domain": "El Tiempo",
+     "seendate": "20261103T033251Z"
+    },
+    {
+     "title": "Declaran alerta roja hospitalaria en Planadas, Tolima, blanco de ataque terrorista donde murieron cuatro civiles, entre ellos una bebé de dos meses",
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/declaran-alerta-roja-hospitalaria-en-planadas-blanco-de-ataque-terrorista-donde-murieron-cuatro-civiles-entre-ellos-a-una-bebe-de-dos-meses-3598003",
      "domain": "El Tiempo",
-     "seendate": "20261103T021941Z"
+     "seendate": "20261103T032430Z"
     },
     {
      "title": "El historial del conductor de un lujoso Corvette que causó un accidente en Medellín: tenía licencia vencida y ocho multas",
@@ -1325,12 +1331,6 @@
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/botes-urgentes-y-agua-potable-los-detalles-del-drama-que-viven-500-indigenas-desplazados-en-nuqui-choco-3597925",
      "domain": "El Tiempo",
      "seendate": "20261102T154803Z"
-    },
-    {
-     "title": "Fallo ratifica la legalidad y la logística del festival naútico en Cartagena, en el marco de las Fiestas de la Independencia del 11 de noviembre",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/fallo-ratifica-la-legalidad-y-la-logistica-del-festival-nautico-en-cartagena-en-el-marco-de-las-fiestas-de-la-independencia-del-11-de-noviembre-3597921",
-     "domain": "El Tiempo",
-     "seendate": "20261102T154609Z"
     }
    ]
   },
@@ -1522,13 +1522,31 @@
      "title": "Sismos en Perú hoy, lunes 2 de noviembre: conoce el epicentro y magnitud según IGP",
      "url": "https://elcomercio.pe/peru/igp-reporta-nuevos-sismos-en-peru-hoy-conoce-donde-fue-el-epicentro-y-que-magnitud-tuvieron-el-temblor-tdpe-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261103T013148Z"
+     "seendate": "20261103T034100Z"
     },
     {
      "title": "Lluvias en el norte y otras regiones del Perú EN VIVO: pronósticos del Senamhi y reportes por Fenómeno El Niño 2026",
      "url": "https://elcomercio.pe/peru/lluvias-en-piura-tumbes-lambayeque-y-otras-regiones-del-peru-en-vivo-pronosticos-del-senamhi-reportes-y-cambios-en-el-clima-por-el-nino-2026-lbposting-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261103T010000Z"
+     "seendate": "20261103T033952Z"
+    },
+    {
+     "title": "Tingo María: huaico bloquea vía que conecta con Pucallpa y daña viviendas y camiones",
+     "url": "https://elcomercio.pe/peru/huanuco/tingo-maria-huaico-bloquea-via-que-conecta-con-pucallpa-y-dana-viviendas-y-camiones-apuesplan-ultimas-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261103T033153Z"
+    },
+    {
+     "title": "El Niño: activan “puente terrestre” para evitar que Morropón quede aislada",
+     "url": "https://elcomercio.pe/peru/piura/el-nino-activan-puente-terrestre-para-evitar-que-morropon-quede-aislada-apuesplan-ultimas-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261103T031428Z"
+    },
+    {
+     "title": "Tumbes bajo el agua: lluvias históricas de 104 litros por m² activan quebradas y alertan al norte",
+     "url": "https://elcomercio.pe/peru/tumbes/tumbes-bajo-el-agua-lluvias-historicas-de-104-litros-por-m-activan-quebradas-y-alertan-al-norte-apuesplan-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261103T024543Z"
     },
     {
      "title": "Comisión de Presupuesto aprueba predictamen de la Ley de Endeudamiento y Equilibrio Fiscal, pero reanudará sesión este martes, ¿qué faltó?",
@@ -1657,6 +1675,30 @@
   "ARG": {
    "articles": [
     {
+     "title": "Lulismo vs. trumpismo: la guerra entre los ejércitos de Milei y los de Massa",
+     "url": "https://www.lanacion.com.ar/politica/lulismo-vs-trumpismo-la-guerra-entre-los-ejercitos-de-milei-y-los-de-massa-nid03112026/",
+     "domain": "La Nación",
+     "seendate": "20261103T030500Z"
+    },
+    {
+     "title": "Hay alerta naranja y amarilla por tormentas, lluvias y vientos para este martes 3 de noviembre: las provincias afectadas",
+     "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-naranja-y-amarilla-por-tormentas-lluvias-y-vientos-para-este-martes-3-de-noviembre-las-nid03112026/",
+     "domain": "La Nación",
+     "seendate": "20261103T030100Z"
+    },
+    {
+     "title": "Pablo Quirno aseguró que la agenda del Papa en la Argentina “sigue intacta”",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-los-que-prometieron-el-paraiso-nos-terminaron-conduciendo-al-nid02112026/",
+     "domain": "La Nación",
+     "seendate": "20261103T025836Z"
+    },
+    {
+     "title": "Manejan una estancia de 33.000 hectáreas, trabajan con guanacos y venden al mundo una codiciada fibra: “Tiene que ser revolucionario”",
+     "url": "https://www.lanacion.com.ar/economia/campo/manejan-una-estancia-de-33000-hectareas-trabajan-con-guanacos-y-venden-al-mundo-una-codiciada-fibra-nid02112026/",
+     "domain": "La Nación",
+     "seendate": "20261103T025224Z"
+    },
+    {
      "title": "Por un error entre las historias clínicas de Maradona y su padre, allanaron Swiss Medical y el Sanatorio de los Arcos",
      "url": "https://www.lanacion.com.ar/seguridad/por-un-error-entre-las-historias-clinicas-de-maradona-y-su-padre-allanaron-swiss-medical-y-el-nid02112026/",
      "domain": "La Nación",
@@ -1691,12 +1733,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/donde-conseguirlo-llega-a-la-argentina-el-primer-autotest-de-vih-con-resultado-en-20-minutos-y-de-nid02112026/",
      "domain": "La Nación",
      "seendate": "20261103T013048Z"
-    },
-    {
-     "title": "Javier Milei y sus medidas, en vivo: “Los que prometieron el paraíso nos terminaron conduciendo al infierno”, dijo el Presidente",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-los-que-prometieron-el-paraiso-nos-terminaron-conduciendo-al-nid02112026/",
-     "domain": "La Nación",
-     "seendate": "20261103T012000Z"
     },
     {
      "title": "La ruta aérea argentina que encabeza un ranking mundial por sus turbulencias",
@@ -1787,60 +1823,6 @@
      "url": "https://www.lanacion.com.ar/economia/la-recaudacion-tributaria-crecio-07-en-octubre-y-acumulo-cuatro-meses-sin-caidas-nid02112026/",
      "domain": "La Nación",
      "seendate": "20261102T221312Z"
-    },
-    {
-     "title": "Tiene 450 empleados: la UOM se movilizó y advierte sobre más protestas en Pauny, la principal fábrica nacional de tractores",
-     "url": "https://www.lanacion.com.ar/economia/campo/tension-en-pauny-el-gremio-se-movilizo-y-advierte-sobre-mas-protestas-en-la-principal-fabrica-nid02112026/",
-     "domain": "La Nación",
-     "seendate": "20261102T220322Z"
-    },
-    {
-     "title": "Visec: tras un reclamo, los acopiadores podrán habilitar sin cargo sus plantas para operar con el sistema de trazabilidad",
-     "url": "https://www.lanacion.com.ar/economia/campo/visec-tras-un-reclamo-los-acopiadores-podran-habilitar-sin-cargo-sus-plantas-para-operar-con-el-nid02112026/",
-     "domain": "La Nación",
-     "seendate": "20261102T220256Z"
-    },
-    {
-     "title": "Qué se sabe de la visita del Papa León XIV a la Argentina: cuándo son los feriados, cómo es el itinerario completo y qué calles estarán cortadas",
-     "url": "https://www.lanacion.com.ar/sociedad/que-se-sabe-de-la-visita-del-papa-leon-xiv-a-la-argentina-cuando-son-los-feriados-como-es-el-nid02112026/",
-     "domain": "La Nación",
-     "seendate": "20261102T215400Z"
-    },
-    {
-     "title": "Cavallo pidió levantar el cepo y emitir pesos para comprar reservas ante los riesgos de una crisis en 2027",
-     "url": "https://www.lanacion.com.ar/economia/cavallo-pidio-levantar-el-cepo-y-emitir-pesos-para-comprar-reservas-ante-los-riesgos-de-una-crisis-nid02112026/",
-     "domain": "La Nación",
-     "seendate": "20261102T214421Z"
-    },
-    {
-     "title": "Gabriel Rolón, psicoanalista: “Muchas veces estamos sólo cumpliendo un mandato inconsciente”",
-     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-muchas-veces-estamos-solo-cumpliendo-un-mandato-inconsciente-nid02112026/",
-     "domain": "La Nación",
-     "seendate": "20261102T214000Z"
-    },
-    {
-     "title": "La reflexión de Darío Sztajnszrajber sobre para qué sirve hoy la filosofía: “Para cuestionar por qué todo tiene que servir siempre”",
-     "url": "https://www.lanacion.com.ar/sociedad/la-reflexion-de-dario-sztajnszrajber-sobre-para-que-sirve-hoy-la-filosofia-para-cuestionar-por-que-nid01112026/",
-     "domain": "La Nación",
-     "seendate": "20261102T213900Z"
-    },
-    {
-     "title": "Dólares del colchón: la UIF reglamentó los controles antilavado y completó el esquema para que los contribuyentes puedan depositar sus ahorros",
-     "url": "https://www.lanacion.com.ar/economia/dolares-del-colchon-la-uif-reglamento-los-controles-antilavado-y-completo-el-esquema-para-que-los-nid02112026/",
-     "domain": "La Nación",
-     "seendate": "20261102T213558Z"
-    },
-    {
-     "title": "El Niño: anticipan focos de 200 milímetros en una región del país",
-     "url": "https://www.lanacion.com.ar/economia/campo/el-nino-anticipan-focos-de-200-milimetros-en-una-region-del-pais-nid01112026/",
-     "domain": "La Nación",
-     "seendate": "20261102T213512Z"
-    },
-    {
-     "title": "Está en Rosario: Molinos Río de la Plata concretó la venta de parte de un histórico complejo industrial",
-     "url": "https://www.lanacion.com.ar/economia/campo/esta-en-rosario-molinos-rio-de-la-plata-concreto-la-venta-de-parte-de-un-historico-complejo-nid02112026/",
-     "domain": "La Nación",
-     "seendate": "20261102T213338Z"
     }
    ]
   },
@@ -1909,18 +1891,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/11/02/taiwan-entrega-camas-y-monitores-al-hospital-regional-de-san-juan-bautista/",
      "domain": "ABC Color",
      "seendate": "20261102T214211Z"
-    },
-    {
-     "title": "Esto dice la Dinac sobre la compra de radares meteorológicos",
-     "url": "https://www.abc.com.py/nacionales/2026/11/02/esto-dice-la-dinac-sobre-la-compra-de-radares-meteorologicos/",
-     "domain": "ABC Color",
-     "seendate": "20261102T211439Z"
-    },
-    {
-     "title": "¿Saliendo con lluvia en Asunción? Conocé los cruces peligrosos y puntos de obras que no debés usar",
-     "url": "https://www.abc.com.py/nacionales/2026/11/02/saliendo-con-lluvia-en-asuncion-conoce-los-cruces-peligrosos-y-puntos-de-obras-que-no-debes-usar/",
-     "domain": "ABC Color",
-     "seendate": "20261102T210051Z"
     }
    ]
   },
@@ -1929,6 +1899,24 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "Lula condiciona criação do Ministério da Segurança à aprovação da PEC no Congresso, e orçamento da pasta ainda é dúvida",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/11/03/lula-condiciona-criacao-do-ministerio-da-seguranca-a-aprovacao-da-pec-no-congresso-e-orcamento-da-pasta-ainda-e-duvida.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261103T030001Z"
+    },
+    {
+     "title": "Penas mais duras para integrantes de facções e novas atribuições da PF: entenda a PEC da Segurança em sete pontos",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/11/03/penas-mais-duras-para-integrantes-de-faccoes-e-novas-atribuicoes-da-pf-entenda-a-pec-da-seguranca-em-sete-pontos.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261103T030001Z"
+    },
+    {
+     "title": "Senado vota PEC da Segurança, e governo Lula atua junto a Alcolumbre para conter oposição e evitar maioridade penal",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/11/03/senado-vota-pec-da-seguranca-e-governo-lula-atua-junto-a-alcolumbre-para-conter-oposicao-e-evitar-maioridade-penal.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261103T030000Z"
+    },
     {
      "title": "‘Ejército del peronismo’: Janones chega à Argentina para se reunir com Cristina contra reeleição de Milei",
      "url": "https://oglobo.globo.com/politica/noticia/2026/11/02/ejercito-del-peronismo-janones-chega-a-argentina-para-se-reunir-com-cristina-contra-reeleicao-de-milei.ghtml",
@@ -1958,24 +1946,6 @@
      "url": "https://oglobo.globo.com/politica/noticia/2026/11/02/caso-master-vorcaro-aciona-a-comissao-interamericana-de-direitos-humanos-e-alega-violacoes-em-prisao-preventiva.ghtml",
      "domain": "O Globo",
      "seendate": "20261102T145750Z"
-    },
-    {
-     "title": "Desabamento de muro mata idosa e deixa dez feridos em São Paulo",
-     "url": "https://oglobo.globo.com/brasil/sao-paulo/noticia/2026/11/02/desabamento-de-muro-mata-idosa-e-deixa-dez-feridos-em-sao-paulo.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261102T124742Z"
-    },
-    {
-     "title": "Brasileiro de 22 anos morre em combate na guerra da Ucrânia; irmã relata dificuldades para recuperar corpo",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/11/02/brasileiro-de-22-anos-morre-em-combate-na-guerra-da-ucrania-irma-relata-dificuldades-para-recuperar-corpo.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261102T120729Z"
-    },
-    {
-     "title": "Flávio Bolsonaro vai a culto evangélico com mulher e Eduardo em primeira aparição pública após fuga para os EUA; veja vídeo",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/11/02/flavio-bolsonaro-vai-a-culto-evangelico-com-mulher-e-eduardo-em-primeira-aparicao-publica-apos-fuga-para-os-eua.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261102T115802Z"
     }
    ]
   }
