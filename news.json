@@ -1,19 +1,25 @@
 {
- "updated": "2026-11-03T09:23:55+00:00",
+ "updated": "2026-11-03T10:27:54+00:00",
  "countries": {
   "ESP": {
    "articles": [
+    {
+     "title": "Unos 150 profesores cortan durante media hora el paseo de Antonio López de Madrid en su tercera semana de huelga",
+     "url": "https://elpais.com/espana/madrid/2026-11-03/unos-150-profesores-cortan-durante-media-hora-el-paseo-de-antonio-lopez-de-madrid-en-su-tercera-semana-de-huelga.html",
+     "domain": "El País",
+     "seendate": "20261103T094747Z"
+    },
+    {
+     "title": "Feijóo pide a los sindicatos que desconvoquen la huelga general por la tragedia de Urda: “69 muertos después es un grave error”",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-03/feijoo-pide-a-los-sindicatos-que-desconvoquen-la-huelga-general-por-la-tragedia-de-urda-69-muertos-despues-es-un-grave-error.html",
+     "domain": "El País",
+     "seendate": "20261103T092941Z"
+    },
     {
      "title": "La policía desaloja la acampada de Sol sin disturbios después de que varias comisiones organizadoras anunciaran su retirada",
      "url": "https://elpais.com/espana/madrid/2026-11-03/la-policia-desaloja-la-acampada-de-sol-sin-disturbios-despues-de-que-las-comisiones-organizadoras-anunciaran-su-retirada.html",
      "domain": "El País",
      "seendate": "20261103T083516Z"
-    },
-    {
-     "title": "Unos 150 profesores cortan durante media hora el paseo de Antonio López de Madrid en su tercera semana de huelga",
-     "url": "https://elpais.com/espana/madrid/2026-11-03/unos-150-profesores-cortan-durante-media-hora-el-paseo-de-antonio-lopez-de-madrid-en-su-tercera-semana-de-huelga.html",
-     "domain": "El País",
-     "seendate": "20261103T081142Z"
     },
     {
      "title": "El Gobierno advierte de que suspender el voto de los hijos de los nacionalizados por la ‘ley de nietos’ condicionaría el escrutinio del 29-N",
@@ -152,7 +158,7 @@
      "seendate": "20261103T082000Z"
     },
     {
-     "title": "\"Vamos a impulsar los guardaparques en BJ\"",
+     "title": "“Vamos a impulsar los guardaparques en BJ”, señala alcalde Luis Mendoza",
      "url": "https://www.eluniversal.com.mx/metropoli/vamos-a-impulsar-los-guardaparques-en-bj/",
      "domain": "El Universal",
      "seendate": "20261103T081800Z"
@@ -1021,6 +1027,24 @@
   "COL": {
    "articles": [
     {
+     "title": "Temblor en Colombia este 3 de noviembre, minuto a minuto de noticias, réplicas y reacciones: SGC reportó nuevo movimiento de 3,3 en Chaparral, Tolima",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-en-colombia-durante-la-madrugada-de-este-martes-sgc-reporto-una-replica-de-magnitud-3-3-en-chaparral-tolima-3598025",
+     "domain": "El Tiempo",
+     "seendate": "20261103T100431Z"
+    },
+    {
+     "title": "Videos del temblor hoy martes 3 de noviembre en Colombia: así fue la evacuación en Bogotá, Pereira y Chaparral (Tolima)",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/videos-del-temblor-hoy-martes-3-de-noviembre-en-colombia-asi-fue-la-evacuacion-en-bogota-pereira-y-chaparral-tolima-3598024",
+     "domain": "El Tiempo",
+     "seendate": "20261103T100149Z"
+    },
+    {
+     "title": "Temblor de 5,6 sacude a Colombia en la madrugada del martes 3 de noviembre: conozca los detalles",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-de-5-6-sacude-a-colombia-en-la-madrugada-del-3-de-noviembre-conozca-los-detalles-3598022",
+     "domain": "El Tiempo",
+     "seendate": "20261103T094246Z"
+    },
+    {
      "title": "Alcaldía de Ocaña ordenó el cierre total de la vía en el puente El Líbano tras el reporte de dos cilindros y una caja con posibles explosivos",
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/alcaldia-de-ocana-ordeno-el-cierre-total-de-la-via-en-el-puente-el-libano-tras-el-reporte-de-dos-cilindros-y-una-caja-con-posibles-explosivos-3598017",
      "domain": "El Tiempo",
@@ -1037,12 +1061,6 @@
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/declaran-alerta-roja-hospitalaria-en-planadas-blanco-de-ataque-terrorista-donde-murieron-cuatro-civiles-entre-ellos-a-una-bebe-de-dos-meses-3598003",
      "domain": "El Tiempo",
      "seendate": "20261103T032430Z"
-    },
-    {
-     "title": "El historial del conductor de un lujoso Corvette que causó un accidente en Medellín: tenía licencia vencida y ocho multas",
-     "url": "https://www.eltiempo.com/colombia/medellin/con-licencia-vencida-y-8-multas-previas-el-historial-del-conductor-de-un-corvette-que-causo-un-accidente-en-medellin-3597946",
-     "domain": "El Tiempo",
-     "seendate": "20261102T223219Z"
     },
     {
      "title": "Las identidades de las víctimas del atentado con volqueta cargada de explosivos en Planadas, sur del Tolima: joven promesa del fútbol murió en su casa",
@@ -1067,18 +1085,6 @@
      "url": "https://www.eltiempo.com/colombia/santander/asesinan-a-trabajador-del-sector-petrolero-frente-a-sus-companeros-en-barrancabermeja-santander-esto-se-sabe-del-crimen-3597948",
      "domain": "El Tiempo",
      "seendate": "20261102T185031Z"
-    },
-    {
-     "title": "'Lo de Planadas es terrorismo puro y duro de las mafias que se disfrazan con brazaletes de revolucionarios', gobernadora del Tolima",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/lo-de-planadas-es-terrorismo-puro-y-duro-de-las-mafias-que-se-disfrazan-con-brazaletes-de-revolucionarios-gobernadora-del-tolima-3597937",
-     "domain": "El Tiempo",
-     "seendate": "20261102T180100Z"
-    },
-    {
-     "title": "Golpe al Frente 57 'Yair Bermúdez': caen cinco presuntos integrantes tras ataque a patrulla de la Policía en Tuluá",
-     "url": "https://www.eltiempo.com/colombia/cali/golpe-al-frente-57-yair-bermudez-caen-cinco-presuntos-integrantes-tras-ataque-a-patrulla-de-la-policia-en-tulua-3597930",
-     "domain": "El Tiempo",
-     "seendate": "20261102T161714Z"
     }
    ]
   },
@@ -1343,18 +1349,6 @@
      "url": "https://elcomercio.pe/economia/peru/refineria-talara-se-paraliza-operaciones-por-interrupcion-del-suministro-electrico-en-el-norte-del-peru-l-ultimas-noticia/",
      "domain": "El Comercio",
      "seendate": "20261102T170511Z"
-    },
-    {
-     "title": "Federación Latinoamericana de Bancos reconoce al sol peruano como una moneda fuerte: “Ya es exportable”",
-     "url": "https://elcomercio.pe/economia/peru/federacion-latinoamericana-de-bancos-reconoce-al-sol-peruano-como-una-moneda-fuerte-ya-es-exportable-l-ultimas-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261030T214452Z"
-    },
-    {
-     "title": "Keiko Fujimori sobre TLC con El Salvador: “Estamos bien encaminados”",
-     "url": "https://elcomercio.pe/economia/peru/keiko-fujimori-sobre-tlc-con-el-salvador-estamos-bien-encaminados-l-ultimas-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261030T211406Z"
     }
    ]
   },
@@ -1387,6 +1381,24 @@
   "ARG": {
    "articles": [
     {
+     "title": "Javier Milei y sus medidas, en vivo: “No defendemos a Israel por un capricho personal”, dijo el Presidente",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-no-defendemos-a-israel-por-un-capricho-personal-dijo-el-nid03112026/",
+     "domain": "La Nación",
+     "seendate": "20261103T095527Z"
+    },
+    {
+     "title": "Teo Zorraquín, consultor, sobre el momento del agro: “Se necesita financiamiento y se toma, pero pateando compras, postergando gastos o inversiones”",
+     "url": "https://www.lanacion.com.ar/economia/campo/teo-zorraquin-consultor-sobre-el-momento-del-agro-se-necesita-financiamiento-y-se-toma-pero-pateando-nid03112026/",
+     "domain": "La Nación",
+     "seendate": "20261103T093000Z"
+    },
+    {
+     "title": "Momento complejo: la producción porcina argentina registra una fuerte baja de la rentabilidad",
+     "url": "https://www.lanacion.com.ar/economia/campo/retroceso-la-produccion-porcina-argentina-registra-una-fuerte-baja-de-la-rentabilidad-nid03112026/",
+     "domain": "La Nación",
+     "seendate": "20261103T093000Z"
+    },
+    {
      "title": "Cronograma del papa León en la Argentina: días y horarios de todas sus actividades en el país",
      "url": "https://www.lanacion.com.ar/sociedad/cronograma-del-papa-leon-en-la-argentina-dias-y-horarios-de-todas-sus-actividades-en-el-pais-nid03112026/",
      "domain": "La Nación",
@@ -1417,12 +1429,6 @@
      "seendate": "20261103T070000Z"
     },
     {
-     "title": "Javier Milei y sus medidas, en vivo: “No defendemos a Israel por un capricho personal”, dijo el Presidente",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-no-defendemos-a-israel-por-un-capricho-personal-dijo-el-nid03112026/",
-     "domain": "La Nación",
-     "seendate": "20261103T063214Z"
-    },
-    {
      "title": "Milei, entre Trump y León XIV",
      "url": "https://www.lanacion.com.ar/politica/milei-entre-trump-y-leon-xiv-nid03112026/",
      "domain": "La Nación",
@@ -1435,14 +1441,14 @@
      "seendate": "20261103T060000Z"
     },
     {
-     "title": "Frase del día, Séneca, filósofo estoico: “La suerte es donde confluyen la preparación y la oportunidad”",
-     "url": "https://www.lanacion.com.ar/sociedad/frase-del-dia-seneca-filosofo-estoico-la-suerte-es-donde-confluyen-la-preparacion-y-la-oportunidad-nid03112026/",
+     "title": "Gabriel Rolón, psicoanalista: “El momento en que conviven lo que fuimos, lo que queremos ser y lo que tememos es irrepetible”",
+     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-el-momento-en-que-conviven-lo-que-fuimos-lo-que-queremos-ser-y-lo-que-nid03112026/",
      "domain": "La Nación",
      "seendate": "20261103T050000Z"
     },
     {
-     "title": "Gabriel Rolón, psicoanalista: “El momento en que conviven lo que fuimos, lo que queremos ser y lo que tememos es irrepetible”",
-     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-el-momento-en-que-conviven-lo-que-fuimos-lo-que-queremos-ser-y-lo-que-nid03112026/",
+     "title": "Frase del día, Séneca, filósofo estoico: “La suerte es donde confluyen la preparación y la oportunidad”",
+     "url": "https://www.lanacion.com.ar/sociedad/frase-del-dia-seneca-filosofo-estoico-la-suerte-es-donde-confluyen-la-preparacion-y-la-oportunidad-nid03112026/",
      "domain": "La Nación",
      "seendate": "20261103T050000Z"
     },
@@ -1505,18 +1511,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/donde-conseguirlo-llega-a-la-argentina-el-primer-autotest-de-vih-con-resultado-en-20-minutos-y-de-nid02112026/",
      "domain": "La Nación",
      "seendate": "20261103T013048Z"
-    },
-    {
-     "title": "La ruta aérea argentina que encabeza un ranking mundial por sus turbulencias",
-     "url": "https://www.lanacion.com.ar/sociedad/la-ruta-aerea-argentina-que-encabeza-un-ranking-mundial-por-sus-turbulencias-nid02112026/",
-     "domain": "La Nación",
-     "seendate": "20261103T000000Z"
-    },
-    {
-     "title": "La reflexión de Descartes sobre el pensamiento y la existencia: “Si pienso, tengo que estar existiendo”",
-     "url": "https://www.lanacion.com.ar/sociedad/la-reflexion-de-descartes-sobre-el-pensamiento-y-la-existencia-si-pienso-tengo-que-estar-existiendo-nid02112026/",
-     "domain": "La Nación",
-     "seendate": "20261103T000000Z"
     }
    ]
   },
@@ -1545,16 +1539,22 @@
   "PRY": {
    "articles": [
     {
+     "title": "Noviembre azul: baja la mortalidad por cáncer de próstata en Paraguay",
+     "url": "https://www.abc.com.py/nacionales/2026/11/03/noviembre-azul-baja-la-mortalidad-por-cancer-de-prostata-en-paraguay/",
+     "domain": "ABC Color",
+     "seendate": "20261103T100000Z"
+    },
+    {
+     "title": "Dos identidades, dos nacionalidades y dos procesos: la trama detrás del millonario oriental bajo arresto en Rakiura",
+     "url": "https://www.abc.com.py/nacionales/2026/11/03/dos-identidades-y-dos-procesos-la-trama-detras-del-extranjero-bajo-arresto-en-rakiura/",
+     "domain": "ABC Color",
+     "seendate": "20261103T100000Z"
+    },
+    {
      "title": "Soledad Núñez asume hoy en Asunción: el juramento tras la devastación colorada",
      "url": "https://www.abc.com.py/nacionales/2026/11/03/soledad-nunez-asume-hoy-en-asuncion-el-juramento-tras-la-devastacion-colorada/",
      "domain": "ABC Color",
      "seendate": "20261103T085105Z"
-    },
-    {
-     "title": "Rezo de rosarios, Santa Misa, y Chipá Apó con altares en el Día de los Fieles Difuntos",
-     "url": "https://www.abc.com.py/nacionales/2026/11/03/rezo-de-rosarios-santa-misa-y-chipa-apo-con-altares-en-el-dia-de-los-fieles-difuntos/",
-     "domain": "ABC Color",
-     "seendate": "20261103T041146Z"
     }
    ]
   },
@@ -1616,18 +1616,6 @@
      "url": "https://oglobo.globo.com/politica/noticia/2026/11/03/fachin-deve-negar-pedido-de-flavio-bolsonaro-para-afastar-moraes-de-investigacao-no-stf.ghtml",
      "domain": "O Globo",
      "seendate": "20261103T060000Z"
-    },
-    {
-     "title": "Lula condiciona criação do Ministério da Segurança à aprovação da PEC no Congresso, e orçamento da pasta ainda é dúvida",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/11/03/lula-condiciona-criacao-do-ministerio-da-seguranca-a-aprovacao-da-pec-no-congresso-e-orcamento-da-pasta-ainda-e-duvida.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261103T030001Z"
-    },
-    {
-     "title": "Penas mais duras para integrantes de facções e novas atribuições da PF: entenda a PEC da Segurança em sete pontos",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/11/03/penas-mais-duras-para-integrantes-de-faccoes-e-novas-atribuicoes-da-pf-entenda-a-pec-da-seguranca-em-sete-pontos.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261103T030001Z"
     }
    ]
   }
