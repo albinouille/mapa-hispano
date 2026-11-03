@@ -1,8 +1,20 @@
 {
- "updated": "2026-11-03T03:48:48+00:00",
+ "updated": "2026-11-03T04:51:23+00:00",
  "countries": {
   "ESP": {
    "articles": [
+    {
+     "title": "Barcelona detecta 242 infracciones en 23 supermercados 24 horas de Gràcia y ordena 11 cierres",
+     "url": "https://elpais.com/espana/catalunya/2026-11-03/barcelona-detecta-242-infracciones-en-23-supermercados-24-horas-de-gracia-y-ordena-11-cierres.html",
+     "domain": "El País",
+     "seendate": "20261103T044501Z"
+    },
+    {
+     "title": "Resonancias a las tres de la madrugada: la fórmula de los hospitales catalanes para reducir las listas de espera",
+     "url": "https://elpais.com/espana/catalunya/2026-11-03/resonancias-a-las-tres-de-la-madrugada-la-formula-de-los-hospitales-catalanes-para-reducir-las-listas-de-espera.html",
+     "domain": "El País",
+     "seendate": "20261103T043001Z"
+    },
     {
      "title": "Insultos, carreras, sillas al aire y mucha policía: el ‘show’ de Vito Quiles desata la tensión en el centro de Sevilla",
      "url": "https://elpais.com/espana/2026-11-02/insultos-carreras-sillas-al-aire-y-mucha-policia-el-show-de-vito-quiles-desata-la-tension-en-el-centro-de-sevilla.html",
@@ -124,12 +136,6 @@
      "seendate": "20261102T043001Z"
     },
     {
-     "title": "Una beca para allanar la oposición a juez: “Solo te preocupa tu familia, el temario y el dinero”",
-     "url": "https://elpais.com/espana/catalunya/2026-11-02/una-beca-para-allanar-la-oposicion-a-juez-solo-te-preocupa-tu-familia-el-temario-y-el-dinero.html",
-     "domain": "El País",
-     "seendate": "20261102T043001Z"
-    },
-    {
      "title": "Ceuta, tres meses después: entre el fin de la esperanza y las redadas policiales",
      "url": "https://elpais.com/espana/2026-11-02/ceuta-tres-meses-despues-entre-el-fin-de-la-esperanza-y-las-redadas-policiales.html",
      "domain": "El País",
@@ -181,6 +187,18 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Samuel García supervisa avances del Metro en Monterrey; estación Churubusco abrirá este noviembre",
+     "url": "https://www.eluniversal.com.mx/estados/samuel-garcia-supervisa-avances-del-metro-en-monterrey-estacion-churubusco-abrira-este-noviembre/",
+     "domain": "El Universal",
+     "seendate": "20261103T035702Z"
+    },
+    {
+     "title": "Loret presenta video donde Taddei y Casillas se reparten contratos; \"yo me llevo 1,300 y tú dos millones\", le dice el empresario",
+     "url": "https://www.eluniversal.com.mx/nacion/loret-presenta-video-donde-taddei-y-contratista-negocian-reparticion-yo-llevo-uno-300-y-tu-dos-millones-le-dice-el-empresario/",
+     "domain": "El Universal",
+     "seendate": "20261103T034006Z"
+    },
     {
      "title": "Ofrenda Monumental del Zócalo rinde homenaje a Cuauhtémoc Cárdenas, Ximena Guzmán y José Muñoz; recuerdan su legado",
      "url": "https://www.eluniversal.com.mx/metropoli/ofrenda-monumental-del-zocalo-rinde-homenaje-a-cuauhtemoc-cardenas-ximena-guzman-y-jose-munoz-recuerdan-su-legado/",
@@ -254,7 +272,7 @@
      "seendate": "20261102T223759Z"
     },
     {
-     "title": "Hallan sin vida a presunta integrante de la Guardia Nacional en Culiacán; presenta golpes y signos de estrangulamiento",
+     "title": "Mujer hallada muerta en departamento de Culiacán era integrante de la Guardia Nacional; buscan a su pareja",
      "url": "https://www.eluniversal.com.mx/estados/hallan-sin-vida-a-presunta-integrante-de-la-guardia-nacional-en-culiacan-presenta-golpes-y-signos-de-estrangulamiento/",
      "domain": "El Universal",
      "seendate": "20261102T222947Z"
@@ -422,12 +440,6 @@
      "seendate": "20261102T180010Z"
     },
     {
-     "title": "Aumenta 17.3% producción de arroz a nivel nacional; Nayarit y Campeche lideran actividad arrocera",
-     "url": "https://www.eluniversal.com.mx/nacion/aumenta-173-produccion-de-arroz-a-nivel-nacional-nayarit-y-campeche-lideran-actividad-arrocera/",
-     "domain": "El Universal",
-     "seendate": "20261102T174243Z"
-    },
-    {
      "title": "Conductor muere prensado tras chocar contra Metrobús; acompañante resulta lesionado",
      "url": "https://www.eluniversal.com.mx/metropoli/conductor-muere-prensado-tras-chocar-contra-metrobus-acompanante-resulta-lesionado/",
      "domain": "El Universal",
@@ -440,16 +452,16 @@
      "seendate": "20261102T171552Z"
     },
     {
-     "title": "Defensoría Pública suspende atención en el Zócalo por Día de Muertos; reanudará el viernes",
-     "url": "https://www.eluniversal.com.mx/metropoli/defensoria-publica-suspende-atencion-en-el-zocalo-por-dia-de-muertos-reanudara-el-viernes/",
-     "domain": "El Universal",
-     "seendate": "20261102T171508Z"
-    },
-    {
      "title": "Avioneta de capacitación se desploma en Pachuca; mueren dos hombres tras despegar del aeropuerto",
      "url": "https://www.eluniversal.com.mx/estados/se-desploma-e-incendia-avioneta-en-pachuca-reportan-dos-personas-muertas/",
      "domain": "El Universal",
      "seendate": "20261102T165005Z"
+    },
+    {
+     "title": "Violencia en Mazatlán deja cinco muertos; atacan a balazos dos centros de rehabilitación",
+     "url": "https://www.eluniversal.com.mx/estados/violencia-en-mazatlan-deja-cinco-muertos-atacan-a-balazos-dos-centros-de-rehabilitacion/",
+     "domain": "El Universal",
+     "seendate": "20261102T150938Z"
     },
     {
      "title": "Solicitud para frenar las importaciones desmedidas de carne de cerdo y proteger la producción estatal Jalisciense",
@@ -880,6 +892,12 @@
   "CRI": {
    "articles": [
     {
+     "title": "Altercado entre dos personas en clínica de La Unión: Fuerza Pública descarta presencia de arma blanca",
+     "url": "https://www.nacion.com/sucesos/fuerza-publica-descarta-ataque-con-arma-blanca/SCTMR7J3P5ATTH7KFWR52SULCI/story/",
+     "domain": "La Nación",
+     "seendate": "20261103T034418Z"
+    },
+    {
      "title": "El femicidio de Mónica Chaves dejó a dos niños sin su mamá y a una comunidad perturbada por la violencia del crimen",
      "url": "https://www.nacion.com/sucesos/el-femicidio-de-monica-chaves-dejo-a-dos-ninos-sin/MGJDNNVJSBG2VKXCFSASLTDA3Y/story/",
      "domain": "La Nación",
@@ -1118,12 +1136,6 @@
      "seendate": "20261101T050400Z"
     },
     {
-     "title": "Gabinete amplía exoneraciones para reducir costos de las obras tras el terremoto",
-     "url": "https://www.prensa.com/sociedad/gabinete-amplia-exoneraciones-para-reducir-costos-de-las-obras-tras-el-terremoto/",
-     "domain": "La Prensa",
-     "seendate": "20261101T050200Z"
-    },
-    {
      "title": "Municipios, deporte y jubilados: la Asamblea aprobó 11 proyectos en una jornada a contrarreloj",
      "url": "https://www.prensa.com/politica/municipios-deporte-y-jubilados-la-asamblea-aprobo-11-proyectos-en-una-jornada-a-contrarreloj/",
      "domain": "La Prensa",
@@ -1252,12 +1264,6 @@
      "url": "https://www.14ymedio.com/cuba/jugador-club-italiano-lidera-cuba_1_1132678.html",
      "domain": "14ymedio",
      "seendate": "20261031T165011Z"
-    },
-    {
-     "title": "\"Ni clientes ni luz\": los apagones de más de 40 horas asfixian a La Habana",
-     "url": "https://www.14ymedio.com/cuba/clientes-luz-apagones-40-horas_1_1132630.html",
-     "domain": "14ymedio",
-     "seendate": "20261030T172200Z"
     },
     {
      "title": "Los petroleros cargados de diésel ruso podrían ir a Cuba en lugar de Estados Unidos",
@@ -1519,16 +1525,22 @@
   "PER": {
    "articles": [
     {
-     "title": "Sismos en Perú hoy, lunes 2 de noviembre: conoce el epicentro y magnitud según IGP",
-     "url": "https://elcomercio.pe/peru/igp-reporta-nuevos-sismos-en-peru-hoy-conoce-donde-fue-el-epicentro-y-que-magnitud-tuvieron-el-temblor-tdpe-noticia/",
+     "title": "Alcalde de Tumbes solicita al Gobierno “ir en auxilio” de distritos afectados por lluvias",
+     "url": "https://elcomercio.pe/peru/tumbes/lluvias-en-tumbes-alcalde-provincial-solicita-al-gobierno-ir-en-auxilio-de-distritos-afectados-apuesplan-ultimas-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261103T034100Z"
+     "seendate": "20261103T043317Z"
     },
     {
      "title": "Lluvias en el norte y otras regiones del Perú EN VIVO: pronósticos del Senamhi y reportes por Fenómeno El Niño 2026",
      "url": "https://elcomercio.pe/peru/lluvias-en-piura-tumbes-lambayeque-y-otras-regiones-del-peru-en-vivo-pronosticos-del-senamhi-reportes-y-cambios-en-el-clima-por-el-nino-2026-lbposting-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261103T033952Z"
+     "seendate": "20261103T035127Z"
+    },
+    {
+     "title": "Sismos en Perú hoy, lunes 2 de noviembre: conoce el epicentro y magnitud según IGP",
+     "url": "https://elcomercio.pe/peru/igp-reporta-nuevos-sismos-en-peru-hoy-conoce-donde-fue-el-epicentro-y-que-magnitud-tuvieron-el-temblor-tdpe-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261103T034100Z"
     },
     {
      "title": "Tingo María: huaico bloquea vía que conecta con Pucallpa y daña viviendas y camiones",
@@ -1591,12 +1603,6 @@
      "seendate": "20261102T170511Z"
     },
     {
-     "title": "El Fenómeno de El Niño y la solidaridad visible",
-     "url": "https://elcomercio.pe/economia/peru/el-fenomeno-de-el-nino-y-la-solidaridad-visible-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261102T113000Z"
-    },
-    {
      "title": "Federación Latinoamericana de Bancos reconoce al sol peruano como una moneda fuerte: “Ya es exportable”",
      "url": "https://elcomercio.pe/economia/peru/federacion-latinoamericana-de-bancos-reconoce-al-sol-peruano-como-una-moneda-fuerte-ya-es-exportable-l-ultimas-noticia/",
      "domain": "El Comercio",
@@ -1637,12 +1643,6 @@
      "url": "https://elcomercio.pe/economia/peru/mef-fortalece-articulacion-publico-privada-para-destrabar-inversiones-e-impulsar-el-desarrollo-productivo-sostenible-de-la-amazonia-l-ultimas-noticia/",
      "domain": "El Comercio",
      "seendate": "20261030T153158Z"
-    },
-    {
-     "title": "MEF destaca aprobación de la Cuenta General de la República 2025 luego de 13 años",
-     "url": "https://elcomercio.pe/economia/peru/mef-destaca-aprobacion-de-la-cuenta-general-de-la-republica-2025-luego-de-13-anos-l-ultimas-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261030T140330Z"
     }
    ]
   },
@@ -1817,12 +1817,6 @@
      "url": "https://www.lanacion.com.ar/economia/campo/la-mesa-de-enlace-participara-de-un-encuentro-con-leon-xiv-junto-a-sindicalistas-y-empresarios-nid02112026/",
      "domain": "La Nación",
      "seendate": "20261102T222419Z"
-    },
-    {
-     "title": "La recaudación tributaria creció 0,7% en octubre y acumuló cuatro meses sin caídas",
-     "url": "https://www.lanacion.com.ar/economia/la-recaudacion-tributaria-crecio-07-en-octubre-y-acumulo-cuatro-meses-sin-caidas-nid02112026/",
-     "domain": "La Nación",
-     "seendate": "20261102T221312Z"
     }
    ]
   },
@@ -1851,6 +1845,12 @@
   "PRY": {
    "articles": [
     {
+     "title": "Rezo de rosarios, Santa Misa, y Chipá Apó con altares en el Día de los Fieles Difuntos",
+     "url": "https://www.abc.com.py/nacionales/2026/11/03/rezo-de-rosarios-santa-misa-y-chipa-apo-con-altares-en-el-dia-de-los-fieles-difuntos/",
+     "domain": "ABC Color",
+     "seendate": "20261103T041146Z"
+    },
+    {
      "title": "FIUNA tendrá centro de investigación para energía limpia y vehículos eléctricos",
      "url": "https://www.abc.com.py/nacionales/2026/11/02/fiuna-tendra-centro-de-investigacion-para-energia-limpia-y-vehiculos-electricos/",
      "domain": "ABC Color",
@@ -1873,24 +1873,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/11/02/no-podemos-callar-y-no-quiero-que-repercuta-en-el-pueblo-dijo-mons-escobar/",
      "domain": "ABC Color",
      "seendate": "20261102T233930Z"
-    },
-    {
-     "title": "Video: temporal causa destrozos en Amambay",
-     "url": "https://www.abc.com.py/nacionales/2026/11/02/video-temporal-causa-destrozos-en-amambay/",
-     "domain": "ABC Color",
-     "seendate": "20261102T223602Z"
-    },
-    {
-     "title": "Temporal provoca inundaciones en barrios de Coronel Oviedo tras la caída de 70 milímetros de lluvia",
-     "url": "https://www.abc.com.py/nacionales/2026/11/02/temporal-provoca-inundaciones-en-barrios-de-coronel-oviedo-tras-la-caida-de-70-milimetros-de-lluvia/",
-     "domain": "ABC Color",
-     "seendate": "20261102T214929Z"
-    },
-    {
-     "title": "Taiwán entrega camas y monitores al Hospital Regional de San Juan Bautista",
-     "url": "https://www.abc.com.py/nacionales/2026/11/02/taiwan-entrega-camas-y-monitores-al-hospital-regional-de-san-juan-bautista/",
-     "domain": "ABC Color",
-     "seendate": "20261102T214211Z"
     }
    ]
   },
