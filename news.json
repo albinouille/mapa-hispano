@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T01:42:04+00:00",
+ "updated": "2026-11-03T02:48:28+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -181,6 +181,24 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Ofrenda Monumental del Zócalo rinde homenaje a Cuauhtémoc Cárdenas, Ximena Guzmán y José Muñoz; recuerdan su legado",
+     "url": "https://www.eluniversal.com.mx/metropoli/ofrenda-monumental-del-zocalo-rinde-homenaje-a-cuauhtemoc-cardenas-ximena-guzman-y-jose-munoz-recuerdan-su-legado/",
+     "domain": "El Universal",
+     "seendate": "20261103T023102Z"
+    },
+    {
+     "title": "San Andrés Mixquic en fotos; Alumbrada llena de velas el panteón de Tláhuac",
+     "url": "https://www.eluniversal.com.mx/metropoli/san-andres-mixquic-en-fotos-alumbrada-llena-de-velas-el-panteon-de-tlahuac/",
+     "domain": "El Universal",
+     "seendate": "20261103T022508Z"
+    },
+    {
+     "title": "Consulta del Programa de Ordenación Metropolitana entra en su recta final; quedan 14 actividades para presentar propuestas",
+     "url": "https://www.eluniversal.com.mx/metropoli/consulta-del-programa-de-ordenacion-metropolitana-entra-en-su-recta-final-quedan-14-actividades-para-presentar-propuestas/",
+     "domain": "El Universal",
+     "seendate": "20261103T015120Z"
+    },
     {
      "title": "Disuelven Comisión de Protección Especial de Niñas, Niños y Adolescentes; no era viable mantener objetivo y estructura operativa",
      "url": "https://www.eluniversal.com.mx/nacion/disuelven-comision-de-proteccion-especial-de-ninas-ninos-y-adolescentes-no-era-viable-mantener-objetivo-y-estructura-operativa/",
@@ -438,24 +456,6 @@
      "url": "https://www.eluniversal.com.mx/estados/se-desploma-e-incendia-avioneta-en-pachuca-reportan-dos-personas-muertas/",
      "domain": "El Universal",
      "seendate": "20261102T165005Z"
-    },
-    {
-     "title": "Estas son las concentraciones previstas este 2 de noviembre; pondrán una ofrenda en el INPI",
-     "url": "https://www.eluniversal.com.mx/metropoli/estas-son-las-concentraciones-previstas-este-2-de-noviembre-pondran-una-ofrenda-en-el-inpi/",
-     "domain": "El Universal",
-     "seendate": "20261102T164335Z"
-    },
-    {
-     "title": "FOTOS: \"Rollo\" visita de sorpresa la ofrenda de Palacio Nacional; perrito adoptado recorre el altar en Día de Muertos",
-     "url": "https://www.eluniversal.com.mx/nacion/fotos-rollo-visita-de-sorpresa-la-ofrenda-de-palacio-nacional-perrito-adoptado-recorre-el-altar-en-dia-de-muertos/",
-     "domain": "El Universal",
-     "seendate": "20261102T162638Z"
-    },
-    {
-     "title": "¿Cómo estará el clima hoy en CDMX?; pronostican ambiente caluroso",
-     "url": "https://www.eluniversal.com.mx/metropoli/como-estara-el-clima-hoy-en-cdmx-pronostican-ambiente-caluroso/",
-     "domain": "El Universal",
-     "seendate": "20261102T161325Z"
     },
     {
      "title": "Solicitud para frenar las importaciones desmedidas de carne de cerdo y proteger la producción estatal Jalisciense",
@@ -892,7 +892,7 @@
      "seendate": "20261103T002419Z"
     },
     {
-     "title": "Plantón en defensa de la educación: jóvenes de colectivo estudiantil autónomo bloquean parcialmente avenida Segunda, a la altura del Museo Nacional",
+     "title": "Plantón en defensa de la educación: ‘Hasta que el cuerpo aguante’, estudiantes planean acampar para esperar marcha del agro este martes",
      "url": "https://www.nacion.com/el-pais/planton-por-la-educacion-publica-estudiantes/US6CODLKCRHQRCK2BI6MUI5TSA/story/",
      "domain": "La Nación",
      "seendate": "20261102T231514Z"
@@ -1010,12 +1010,6 @@
      "url": "https://www.nacion.com/sucesos/hombre-de-41-anos-fallece-en-hospital-tras-ataque/6O54N4GQRNE3BKCNN2DCSHG7IQ/story/",
      "domain": "La Nación",
      "seendate": "20261102T141419Z"
-    },
-    {
-     "title": "Lotería Nacional de Costa Rica: lista completa de ganadores y premios del sorteo N.° 4.925 de este domingo 1 de noviembre",
-     "url": "https://www.nacion.com/el-pais/loteria-nacional-de-costa-rica-lista-completa-de/BMND2MSWQFAM3K7452QGV6AKSI/story/",
-     "domain": "La Nación",
-     "seendate": "20261102T122448Z"
     }
    ]
   },
@@ -1279,6 +1273,12 @@
   "COL": {
    "articles": [
     {
+     "title": "Declaran alerta roja hospitalaria en Planadas, blanco de ataque terrorista donde murieron cuatro civiles, entre ellos a una bebé de dos meses",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/declaran-alerta-roja-hospitalaria-en-planadas-blanco-de-ataque-terrorista-donde-murieron-cuatro-civiles-entre-ellos-a-una-bebe-de-dos-meses-3598003",
+     "domain": "El Tiempo",
+     "seendate": "20261103T021941Z"
+    },
+    {
      "title": "El historial del conductor de un lujoso Corvette que causó un accidente en Medellín: tenía licencia vencida y ocho multas",
      "url": "https://www.eltiempo.com/colombia/medellin/con-licencia-vencida-y-8-multas-previas-el-historial-del-conductor-de-un-corvette-que-causo-un-accidente-en-medellin-3597946",
      "domain": "El Tiempo",
@@ -1331,12 +1331,6 @@
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/fallo-ratifica-la-legalidad-y-la-logistica-del-festival-nautico-en-cartagena-en-el-marco-de-las-fiestas-de-la-independencia-del-11-de-noviembre-3597921",
      "domain": "El Tiempo",
      "seendate": "20261102T154609Z"
-    },
-    {
-     "title": "Medellín: ciudadano británico con una pistola, silenciador y cartuchos en el Parque Lleras",
-     "url": "https://www.eltiempo.com/colombia/medellin/medellin-ciudadano-britanico-con-una-pistola-silenciador-y-cartuchos-en-el-parque-lleras-3597918",
-     "domain": "El Tiempo",
-     "seendate": "20261102T151528Z"
     }
    ]
   },
@@ -1537,12 +1531,6 @@
      "seendate": "20261103T010000Z"
     },
     {
-     "title": "Tumbes: Evacúan a familias tras inundaciones causadas por lluvias intensas",
-     "url": "https://elcomercio.pe/peru/tumbes/tumbes-evacuan-a-familias-tras-inundaciones-causadas-por-lluvias-intensas-indeci-apuesplan-ultimas-apuesplan-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261102T235122Z"
-    },
-    {
      "title": "Comisión de Presupuesto aprueba predictamen de la Ley de Endeudamiento y Equilibrio Fiscal, pero reanudará sesión este martes, ¿qué faltó?",
      "url": "https://elcomercio.pe/economia/peru/comision-de-presupuesto-aprueba-predictamen-de-la-ley-de-presupuesto-pero-reanudara-sesion-este-martes-03-de-noviembre-que-falto-noticia/",
      "domain": "El Comercio",
@@ -1583,12 +1571,6 @@
      "url": "https://elcomercio.pe/economia/peru/refineria-talara-se-paraliza-operaciones-por-interrupcion-del-suministro-electrico-en-el-norte-del-peru-l-ultimas-noticia/",
      "domain": "El Comercio",
      "seendate": "20261102T170511Z"
-    },
-    {
-     "title": "El dólar inicia la semana en S/3,46 mientras inflación en Perú alcanza el 5,25%",
-     "url": "https://elcomercio.pe/economia/peru/el-dolar-inicia-la-semana-en-s346-mientras-inflacion-en-peru-alcanza-el-525-l-cotizacion-del-dolar-l-tipo-de-cambio-l-ultimas-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261102T144615Z"
     },
     {
      "title": "El Fenómeno de El Niño y la solidaridad visible",
@@ -1675,6 +1657,36 @@
   "ARG": {
    "articles": [
     {
+     "title": "Por un error entre las historias clínicas de Maradona y su padre, allanaron Swiss Medical y el Sanatorio de los Arcos",
+     "url": "https://www.lanacion.com.ar/seguridad/por-un-error-entre-las-historias-clinicas-de-maradona-y-su-padre-allanaron-swiss-medical-y-el-nid02112026/",
+     "domain": "La Nación",
+     "seendate": "20261103T022544Z"
+    },
+    {
+     "title": "El premio científico que lleva el nombre de Einstein desembarca por primera vez en Sudamérica y lo hace en la universidad más antigua del país",
+     "url": "https://www.lanacion.com.ar/sociedad/el-premio-cientifico-que-lleva-el-nombre-de-einstein-desembarca-por-primera-vez-en-sudamerica-y-lo-nid02112026/",
+     "domain": "La Nación",
+     "seendate": "20261103T014157Z"
+    },
+    {
+     "title": "Pilar Sordo, psicóloga, sobre cómo afrontar el dolor: “Es necesario ser dócil”",
+     "url": "https://www.lanacion.com.ar/sociedad/pilar-sordo-psicologa-sobre-como-afrontar-el-dolor-es-necesario-ser-docil-nid02112026/",
+     "domain": "La Nación",
+     "seendate": "20261103T014100Z"
+    },
+    {
+     "title": "La reflexión de Mel Robbins sobre las relaciones familiares: “Tus padres no han ido a terapia, ni quieren”",
+     "url": "https://www.lanacion.com.ar/sociedad/la-reflexion-de-mel-robbins-sobre-las-relaciones-familiares-tus-padres-no-han-ido-a-terapia-ni-nid01112026/",
+     "domain": "La Nación",
+     "seendate": "20261103T014000Z"
+    },
+    {
+     "title": "Pilar Sordo, psicóloga, sobre el poder del diálogo interno para fortalecer la estabilidad emocional: “Es una herramienta brutal de autoconocimiento”",
+     "url": "https://www.lanacion.com.ar/sociedad/pilar-sordo-psicologa-sobre-el-poder-del-dialogo-interno-para-fortalecer-la-estabilidad-emocional-es-nid01112026/",
+     "domain": "La Nación",
+     "seendate": "20261103T013900Z"
+    },
+    {
      "title": "Dónde conseguirlo: llega a la Argentina el primer autotest de VIH, con resultado en 20 minutos y de venta libre en góndolas",
      "url": "https://www.lanacion.com.ar/sociedad/donde-conseguirlo-llega-a-la-argentina-el-primer-autotest-de-vih-con-resultado-en-20-minutos-y-de-nid02112026/",
      "domain": "La Nación",
@@ -1685,12 +1697,6 @@
      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-los-que-prometieron-el-paraiso-nos-terminaron-conduciendo-al-nid02112026/",
      "domain": "La Nación",
      "seendate": "20261103T012000Z"
-    },
-    {
-     "title": "Por un error entre las historias clínicas de Maradona y su padre, allanaron Swiss Medical y el Sanatorio de los Arcos",
-     "url": "https://www.lanacion.com.ar/seguridad/por-un-error-entre-las-historias-clinicas-de-maradona-y-su-padre-allanaron-swiss-medical-y-el-nid02112026/",
-     "domain": "La Nación",
-     "seendate": "20261103T002115Z"
     },
     {
      "title": "La ruta aérea argentina que encabeza un ranking mundial por sus turbulencias",
@@ -1721,12 +1727,6 @@
      "url": "https://www.lanacion.com.ar/economia/cuando-se-cobra-el-aguinaldo-de-diciembre-2026-en-la-argentina-fecha-de-pago-y-a-quienes-les-nid02112026/",
      "domain": "La Nación",
      "seendate": "20261102T233434Z"
-    },
-    {
-     "title": "El premio científico que lleva el nombre de Einstein desembarca por primera vez en Sudamérica y lo hace en la universidad más antigua del país",
-     "url": "https://www.lanacion.com.ar/sociedad/el-premio-cientifico-que-lleva-el-nombre-de-einstein-desembarca-por-primera-vez-en-sudamerica-y-lo-nid02112026/",
-     "domain": "La Nación",
-     "seendate": "20261102T230927Z"
     },
     {
      "title": "Conrado Estol, médico: “Tener 75 años no significa quedarse mirando televisión todo el día, hay que mantenerse activo”",
@@ -1841,54 +1841,6 @@
      "url": "https://www.lanacion.com.ar/economia/campo/esta-en-rosario-molinos-rio-de-la-plata-concreto-la-venta-de-parte-de-un-historico-complejo-nid02112026/",
      "domain": "La Nación",
      "seendate": "20261102T213338Z"
-    },
-    {
-     "title": "El dólar tocó el valor más alto del año y el riesgo país superó los 800 puntos",
-     "url": "https://www.lanacion.com.ar/economia/mercados-el-dolar-oficial-toca-el-valor-mas-alto-del-ano-aunque-avanzo-menos-que-la-inflacion-nid02112026/",
-     "domain": "La Nación",
-     "seendate": "20261102T211800Z"
-    },
-    {
-     "title": "En el inicio del juicio, la “Toretto” de La Plata se quebró y le pidió disculpas a la familia de la víctima",
-     "url": "https://www.lanacion.com.ar/seguridad/en-el-inicio-del-juicio-la-toretto-de-la-plata-se-quebro-y-le-pidio-disculpas-a-la-familia-de-la-nid02112026/",
-     "domain": "La Nación",
-     "seendate": "20261102T211241Z"
-    },
-    {
-     "title": "La conmovedora historia del pintor que aprendió a crear con la mano izquierda tras un ACV: “Primero sentí frustración, pero después comienza la intuición”",
-     "url": "https://www.lanacion.com.ar/sociedad/la-conmovedora-historia-del-pintor-que-aprendio-a-crear-con-la-mano-izquierda-tras-un-acv-primero-nid02112026/",
-     "domain": "La Nación",
-     "seendate": "20261102T211100Z"
-    },
-    {
-     "title": "Tragedia en Santa Fe: murió cuando volvía a su casa después de salir campeón contra su clásico rival",
-     "url": "https://www.lanacion.com.ar/seguridad/tragedia-en-santa-fe-murio-cuando-volvia-a-su-casa-despues-de-salir-campeon-contra-su-clasico-rival-nid02112026/",
-     "domain": "La Nación",
-     "seendate": "20261102T211048Z"
-    },
-    {
-     "title": "Reservas: el BCRA sobrecumplió la meta con el FMI, pero aún falta para alcanzar la última cifra que proyectó Caputo",
-     "url": "https://www.lanacion.com.ar/economia/reservas-el-bcra-sobrecumplio-la-meta-con-el-fmi-pero-aun-falta-para-alcanzar-la-cifra-que-proyecto-nid02112026/",
-     "domain": "La Nación",
-     "seendate": "20261102T210519Z"
-    },
-    {
-     "title": "Dólares: pese al récord de octubre, en 2026 las cerealeras ingresarán, con US$28.200 millones, un 10% menos que el año pasado",
-     "url": "https://www.lanacion.com.ar/economia/campo/dolares-pese-al-record-de-octubre-en-2026-las-cerealeras-ingresarian-con-us28200-millones-un-10-nid02112026/",
-     "domain": "La Nación",
-     "seendate": "20261102T210505Z"
-    },
-    {
-     "title": "Estiman que el Estado perderá cerca de US$3000 millones por el impacto del contrabando y la subfacturación en 2026",
-     "url": "https://www.lanacion.com.ar/economia/estiman-que-el-estado-perdera-cerca-de-us3000-millones-por-el-impacto-del-contrabando-y-la-nid02112026/",
-     "domain": "La Nación",
-     "seendate": "20261102T210012Z"
-    },
-    {
-     "title": "Edulcorantes: la verdad sobre el descenso de peso y los riesgos para la salud",
-     "url": "https://www.lanacion.com.ar/sociedad/edulcorantes-la-verdad-sobre-el-descenso-de-peso-y-los-riesgos-para-la-salud-nid02112026/",
-     "domain": "La Nación",
-     "seendate": "20261102T210000Z"
     }
    ]
   },
@@ -1916,6 +1868,12 @@
   },
   "PRY": {
    "articles": [
+    {
+     "title": "FIUNA tendrá centro de investigación para energía limpia y vehículos eléctricos",
+     "url": "https://www.abc.com.py/nacionales/2026/11/02/fiuna-tendra-centro-de-investigacion-para-energia-limpia-y-vehiculos-electricos/",
+     "domain": "ABC Color",
+     "seendate": "20261103T021659Z"
+    },
     {
      "title": "Mbocayaty exige reductores de velocidad tras accidente que dejó cuatro jóvenes muertos",
      "url": "https://www.abc.com.py/nacionales/2026/11/02/mbocayaty-exige-reductores-de-velocidad-tras-accidente-que-dejo-cuatro-jovenes-muertos/",
@@ -1963,18 +1921,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/11/02/saliendo-con-lluvia-en-asuncion-conoce-los-cruces-peligrosos-y-puntos-de-obras-que-no-debes-usar/",
      "domain": "ABC Color",
      "seendate": "20261102T210051Z"
-    },
-    {
-     "title": "Día de los Difuntos: Rafael Fuller, el genio que inventó el portón eléctrico, descansa en el cementerio de Pilar",
-     "url": "https://www.abc.com.py/nacionales/2026/11/02/dia-de-los-difuntos-rafael-fuller-el-genio-que-invento-el-porton-electrico-descansa-en-el-cementerio-de-pilar/",
-     "domain": "ABC Color",
-     "seendate": "20261102T205415Z"
-    },
-    {
-     "title": "Títulos falsos: la insólita defensa de las universidades privadas ante el escándalo de carreras no acreditadas",
-     "url": "https://www.abc.com.py/nacionales/2026/11/02/titulos-falsos-la-insolita-defensa-de-las-universidades-privadas-ante-el-escandalo-de-carreras-no-acreditadas/",
-     "domain": "ABC Color",
-     "seendate": "20261102T204656Z"
     }
    ]
   },
