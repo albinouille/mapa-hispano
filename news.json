@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T07:00:56+00:00",
+ "updated": "2026-11-03T08:14:14+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -46,12 +46,6 @@
      "seendate": "20261103T043001Z"
     },
     {
-     "title": "Saqueos: apetito por la destrucción... y por las marcas",
-     "url": "https://elpais.com/espana/madrid/2026-11-03/saqueos-apetito-por-la-destruccion-y-por-las-marcas.html",
-     "domain": "El País",
-     "seendate": "20261103T043001Z"
-    },
-    {
      "title": "Felipe VI se enfrenta al reto de evitar que los insultos de Milei dinamiten la cumbre de Madrid",
      "url": "https://elpais.com/espana/2026-11-03/felipe-vi-se-enfrenta-al-reto-de-evitar-que-los-insultos-de-milei-dinamiten-la-cumbre-de-madrid.html",
      "domain": "El País",
@@ -72,6 +66,12 @@
     {
      "title": "Más Madrid denuncia a la Fiscalía y la Oficina contra el Fraude los errores en la recalificación de la ciudad del Real Madrid",
      "url": "https://elpais.com/espana/madrid/2026-11-03/mas-madrid-denuncia-a-la-fiscalia-y-la-oficina-contra-el-fraude-los-errores-en-la-recalificacion-de-la-ciudad-del-real-madrid.html",
+     "domain": "El País",
+     "seendate": "20261103T043001Z"
+    },
+    {
+     "title": "Saqueos: apetito por la destrucción... y por las marcas",
+     "url": "https://elpais.com/espana/madrid/2026-11-03/saqueos-apetito-por-la-destruccion-y-por-las-marcas.html",
      "domain": "El País",
      "seendate": "20261103T043001Z"
     },
@@ -110,6 +110,12 @@
      "url": "https://elpais.com/espana/madrid/2026-11-02/ayuso-condecora-al-presidente-de-chile-el-ultraderechista-jose-antonio-kast-defendemos-lo-mismo.html",
      "domain": "El País",
      "seendate": "20261102T184654Z"
+    },
+    {
+     "title": "Hansi Flick, Judit Subirachs y la Granja Viader, Ramblistas de Honor 2026",
+     "url": "https://elpais.com/espana/catalunya/2026-11-02/hansi-flick-judit-subirachs-y-la-granja-viader-ramblistas-de-honor-2026.html",
+     "domain": "El País",
+     "seendate": "20261102T183034Z"
     },
     {
      "title": "Aspariegos llora a la familia fallecida en un accidente de tráfico",
@@ -152,190 +158,46 @@
   "MEX": {
    "articles": [
     {
-     "title": "Huiziltepec, donde cada tumba tiene al menos una vela",
-     "url": "https://www.eluniversal.com.mx/estados/huiziltepec-donde-cada-tumba-tiene-al-menos-una-vela/",
+     "title": "En 2026, 19 mil taxis más cumplirán su vida útil, dice Semovi",
+     "url": "https://www.eluniversal.com.mx/metropoli/en-2026-19-mil-taxis-mas-cumpliran-su-vida-util-dice-semovi/",
      "domain": "El Universal",
-     "seendate": "20261103T061000Z"
+     "seendate": "20261103T081000Z"
     },
     {
-     "title": "Reportan disparos en panteón de Navolato durante Día de Muertos; detienen a tres hombres",
-     "url": "https://www.eluniversal.com.mx/estados/reportan-disparos-en-panteon-de-navolato-durante-dia-de-muertos-detienen-a-tres-hombres/",
+     "title": "Detecta ASF irregularidades dentro de la nómina de IEEPO",
+     "url": "https://www.eluniversal.com.mx/estados/detecta-asf-irregularidades-dentro-de-la-nomina-de-ieepo/",
      "domain": "El Universal",
-     "seendate": "20261103T044827Z"
+     "seendate": "20261103T080100Z"
     },
     {
-     "title": "Samuel García supervisa avances del Metro en Monterrey; estación Churubusco abrirá este noviembre",
-     "url": "https://www.eluniversal.com.mx/estados/samuel-garcia-supervisa-avances-del-metro-en-monterrey-estacion-churubusco-abrira-este-noviembre/",
+     "title": "Hoy inicia la restricción de celulares en las aulas",
+     "url": "https://www.eluniversal.com.mx/nacion/hoy-inicia-la-restriccion-de-celulares-en-las-aulas/",
      "domain": "El Universal",
-     "seendate": "20261103T035702Z"
+     "seendate": "20261103T080100Z"
     },
     {
-     "title": "Loret presenta video donde Taddei y Casillas se reparten contratos; \"yo me llevo 1,300 y tú dos millones\", le dice el empresario",
-     "url": "https://www.eluniversal.com.mx/nacion/loret-presenta-video-donde-taddei-y-contratista-negocian-reparticion-yo-llevo-uno-300-y-tu-dos-millones-le-dice-el-empresario/",
+     "title": "Huehuenchada honra el legado de los que ya no están",
+     "url": "https://www.eluniversal.com.mx/estados/huehuenchada-honra-el-legado-de-los-que-ya-no-estan/",
      "domain": "El Universal",
-     "seendate": "20261103T034006Z"
+     "seendate": "20261103T080000Z"
     },
     {
-     "title": "Ofrenda Monumental del Zócalo rinde homenaje a Cuauhtémoc Cárdenas, Ximena Guzmán y José Muñoz; recuerdan su legado",
-     "url": "https://www.eluniversal.com.mx/metropoli/ofrenda-monumental-del-zocalo-rinde-homenaje-a-cuauhtemoc-cardenas-ximena-guzman-y-jose-munoz-recuerdan-su-legado/",
+     "title": "Entregan a diputados de Morena monederos por 63 mdp; evocan caso Monex",
+     "url": "https://www.eluniversal.com.mx/nacion/diputados-de-morena-replican-el-plan-monex/",
      "domain": "El Universal",
-     "seendate": "20261103T023102Z"
+     "seendate": "20261103T080000Z"
     },
     {
-     "title": "San Andrés Mixquic en fotos; Alumbrada llena de velas el panteón de Tláhuac",
-     "url": "https://www.eluniversal.com.mx/metropoli/san-andres-mixquic-en-fotos-alumbrada-llena-de-velas-el-panteon-de-tlahuac/",
+     "title": "Proceso interno da a Morena cobertura positiva en medios",
+     "url": "https://www.eluniversal.com.mx/nacion/proceso-interno-da-a-morena-cobertura-positiva-en-medios/",
      "domain": "El Universal",
-     "seendate": "20261103T022508Z"
+     "seendate": "20261103T074651Z"
     },
     {
-     "title": "Consulta del Programa de Ordenación Metropolitana entra en su recta final; quedan 14 actividades para presentar propuestas",
-     "url": "https://www.eluniversal.com.mx/metropoli/consulta-del-programa-de-ordenacion-metropolitana-entra-en-su-recta-final-quedan-14-actividades-para-presentar-propuestas/",
+     "title": "Propuesta de fortalecer Talleres Gráficos, inviable; expertos ven ejemplo en Megafarmacia",
+     "url": "https://www.eluniversal.com.mx/nacion/propuesta-de-fortalecer-talleres-graficos-inviable-expertos-ven-ejemplo-en-megafarmacia/",
      "domain": "El Universal",
-     "seendate": "20261103T015120Z"
-    },
-    {
-     "title": "Disuelven Comisión de Protección Especial de Niñas, Niños y Adolescentes; no era viable mantener objetivo y estructura operativa",
-     "url": "https://www.eluniversal.com.mx/nacion/disuelven-comision-de-proteccion-especial-de-ninas-ninos-y-adolescentes-no-era-viable-mantener-objetivo-y-estructura-operativa/",
-     "domain": "El Universal",
-     "seendate": "20261103T010509Z"
-    },
-    {
-     "title": "INE declara desiertas consejerías electorales de Guerrero y Oaxaca; perfiles propuestos no generaron confianza",
-     "url": "https://www.eluniversal.com.mx/nacion/ine-declara-desiertas-consejerias-electorales-de-guerrero-y-oaxaca-perfiles-propuestos-no-generaron-confianza/",
-     "domain": "El Universal",
-     "seendate": "20261103T010155Z"
-    },
-    {
-     "title": "Diputada Candelaria Ochoa denuncia a Jorge García Orozco por violencia política de género; el periodista acusa intimidación",
-     "url": "https://www.eluniversal.com.mx/nacion/diputada-candelaria-ochoa-denuncia-a-jorge-garcia-orozco-por-violencia-politica-de-genero-el-periodista-acusa-intimidacion/",
-     "domain": "El Universal",
-     "seendate": "20261103T005337Z"
-    },
-    {
-     "title": "Chocan en redes Ariadna Montiel y Maru Campos; polémica inicia por foto con Alejandro Moreno",
-     "url": "https://www.eluniversal.com.mx/nacion/chocan-en-redes-ariadna-montiel-y-maru-campos-polemica-inicia-por-foto-con-alejandro-moreno/",
-     "domain": "El Universal",
-     "seendate": "20261103T003519Z"
-    },
-    {
-     "title": "Explota puesto de pirotecnia en panteón de Xilitla, San Luis Potosí; reportan varios lesionados, entre ellos un menor",
-     "url": "https://www.eluniversal.com.mx/estados/explota-puesto-de-pirotecnia-en-panteon-de-xilitla-san-luis-potosi-reportan-varios-lesionados-entre-ellos-un-menor/",
-     "domain": "El Universal",
-     "seendate": "20261102T234952Z"
-    },
-    {
-     "title": "Madres buscadoras colocan ofrenda por desaparecidos en León, Guanajuato; recuerdan a quienes fueron hallados sin vida",
-     "url": "https://www.eluniversal.com.mx/estados/madres-buscadoras-colocan-ofrenda-por-desaparecidos-en-leon-guanajuato-recuerdan-a-quienes-fueron-hallados-sin-vida/",
-     "domain": "El Universal",
-     "seendate": "20261102T232508Z"
-    },
-    {
-     "title": "Comité de la ONU exige buscar a dos indígenas desaparecidos en julio del 2023 en Chiapas; señala omisiones de la Fiscalía",
-     "url": "https://www.eluniversal.com.mx/estados/comite-de-la-onu-exige-buscar-a-dos-indigenas-desaparecidos-en-julio-del-2023-en-chiapas-senala-omisiones-de-la-fiscalia/",
-     "domain": "El Universal",
-     "seendate": "20261102T232500Z"
-    },
-    {
-     "title": "Hoteles de Yucatán comienzan a recuperarse tras nueve meses de baja actividad; congresos y convenciones reactivan demanda",
-     "url": "https://www.eluniversal.com.mx/estados/hoteles-de-yucatan-comienzan-a-recuperarse-tras-nueve-meses-de-baja-actividad-congresos-y-convenciones-reactivan-demanda/",
-     "domain": "El Universal",
-     "seendate": "20261102T224135Z"
-    },
-    {
-     "title": "UAM anuncia venta de seis autos eléctricos tras críticas por su compra de 4.9 mdp; estudiantes reclamaron falta de recursos",
-     "url": "https://www.eluniversal.com.mx/nacion/uam-anuncia-venta-de-seis-autos-electricos-tras-criticas-por-su-compra-de-49-mdp-estudiantes-reclamaron-falta-de-recursos/",
-     "domain": "El Universal",
-     "seendate": "20261102T223759Z"
-    },
-    {
-     "title": "Mujer hallada muerta en departamento de Culiacán era integrante de la Guardia Nacional; buscan a su pareja",
-     "url": "https://www.eluniversal.com.mx/estados/hallan-sin-vida-a-presunta-integrante-de-la-guardia-nacional-en-culiacan-presenta-golpes-y-signos-de-estrangulamiento/",
-     "domain": "El Universal",
-     "seendate": "20261102T222947Z"
-    },
-    {
-     "title": "Taxistas bloquean carretera Mérida-Tizimín en Yucatán; exigen frenar transporte sin concesiones",
-     "url": "https://www.eluniversal.com.mx/estados/taxistas-bloquean-carretera-merida-tizimin-en-yucatan-exigen-frenar-transporte-sin-concesiones/",
-     "domain": "El Universal",
-     "seendate": "20261102T222501Z"
-    },
-    {
-     "title": "Yucatán acumula más de 13 mil casos históricos de VIH; llaman a combatir estigmas y prejuicios",
-     "url": "https://www.eluniversal.com.mx/estados/yucatan-acumula-mas-de-13-mil-casos-historicos-de-vih-llaman-a-combatir-estigmas-y-prejuicios/",
-     "domain": "El Universal",
-     "seendate": "20261102T222240Z"
-    },
-    {
-     "title": "Detienen a dos hombres tras ataque armado contra militares en Uruapan, Michoacán; aseguran armas y droga",
-     "url": "https://www.eluniversal.com.mx/estados/detienen-a-dos-hombres-tras-ataque-armado-contra-militares-en-uruapan-michoacan-aseguran-armas-y-droga/",
-     "domain": "El Universal",
-     "seendate": "20261102T221858Z"
-    },
-    {
-     "title": "PAN critica propuesta de Brugada de reforma a Ley de Cultura Cívica; cuestiona que \"robar poquito\" no sea delito",
-     "url": "https://www.eluniversal.com.mx/metropoli/pan-critica-propuesta-de-brugada-de-reforma-a-ley-de-cultura-civica-cuestiona-que-robar-poquito-no-sea-delito/",
-     "domain": "El Universal",
-     "seendate": "20261102T215309Z"
-    },
-    {
-     "title": "Choque en Viaducto Río de la Piedad deja un motociclista muerto; su acompañante es hospitalizado",
-     "url": "https://www.eluniversal.com.mx/metropoli/choque-en-viaducto-rio-de-la-piedad-deja-un-motociclista-muerto-su-acompanante-es-hospitalizado/",
-     "domain": "El Universal",
-     "seendate": "20261102T212546Z"
-    },
-    {
-     "title": "Rodadas del Terror dejan 762 motocicletas remitidas en Ciudad de México; Secretaría de Seguridad refuerza vigilancia vial",
-     "url": "https://www.eluniversal.com.mx/metropoli/rodadas-del-terror-dejan-762-motocicletas-remitidas-en-ciudad-de-mexico-secretaria-de-seguridad-refuerza-vigilancia-vial/",
-     "domain": "El Universal",
-     "seendate": "20261102T211910Z"
-    },
-    {
-     "title": "FGR espera deportación de Inés Gómez Mont; enfrenta acusaciones por lavado de dinero y evasión de más de 13 mdp en impuestos",
-     "url": "https://www.eluniversal.com.mx/nacion/fgr-espera-deportacion-de-ines-gomez-mont-enfrenta-acusaciones-por-lavado-de-dinero-y-evasion-de-mas-de-13-mdp-en-impuestos/",
-     "domain": "El Universal",
-     "seendate": "20261102T211310Z"
-    },
-    {
-     "title": "Motociclista menor de edad muere tras accidente en Iztapalapa; presuntamente iba a exceso de velocidad sin portar casco",
-     "url": "https://www.eluniversal.com.mx/metropoli/motociclista-menor-de-edad-muere-tras-accidente-en-iztapalapa-presuntamente-iba-a-exceso-de-velocidad-sin-portar-casco/",
-     "domain": "El Universal",
-     "seendate": "20261102T210718Z"
-    },
-    {
-     "title": "Alcaldía Coyoacán recibe a más de 150 mil visitantes por Día de Muertos; reporta saldo blanco",
-     "url": "https://www.eluniversal.com.mx/metropoli/alcaldia-coyoacan-recibe-a-mas-de-150-mil-visitantes-por-dia-de-muertos-reporta-saldo-blanco/",
-     "domain": "El Universal",
-     "seendate": "20261102T205520Z"
-    },
-    {
-     "title": "Alito acusa a Morena de negar a Guadalupe Taddei; afirma que impulsó su nombramiento",
-     "url": "https://www.eluniversal.com.mx/nacion/alito-acusa-a-morena-de-negar-a-guadalupe-taddei-afirma-que-impulso-su-nombramiento/",
-     "domain": "El Universal",
-     "seendate": "20261102T204951Z"
-    },
-    {
-     "title": "Catean bodega vinculada a padre de Meghan Markle en Tijuana; Fiscalía investiga presunto almacenamiento de pornografía infantil",
-     "url": "https://www.eluniversal.com.mx/estados/catean-bodega-en-tijuana-vinculada-a-thomas-markle-investigan-presunto-almacenamiento-de-pornografia-infantil/",
-     "domain": "El Universal",
-     "seendate": "20261102T191811Z"
-    },
-    {
-     "title": "Punto cannábico de Glorieta Violeta será reubicado, indica secretario de Gobierno de CDMX; vecinos solicitaron su retiro, explica",
-     "url": "https://www.eluniversal.com.mx/metropoli/punto-cannabico-de-glorieta-violeta-sera-reubicado-vecinos-solicitaron-su-retiro/",
-     "domain": "El Universal",
-     "seendate": "20261102T171552Z"
-    },
-    {
-     "title": "Violencia en Mazatlán deja cinco muertos; atacan a balazos dos centros de rehabilitación",
-     "url": "https://www.eluniversal.com.mx/estados/violencia-en-mazatlan-deja-cinco-muertos-atacan-a-balazos-dos-centros-de-rehabilitacion/",
-     "domain": "El Universal",
-     "seendate": "20261102T150938Z"
-    },
-    {
-     "title": "Solicitud para frenar las importaciones desmedidas de carne de cerdo y proteger la producción estatal Jalisciense",
-     "url": "https://www.eluniversal.com.mx/nacion/solicitud-para-frenar-las-importaciones-desmedidas-de-carne-de-cerdo-y-proteger-la-produccion-estatal-jalisciense/",
-     "domain": "El Universal",
-     "seendate": "20261102T080000Z"
+     "seendate": "20261103T073000Z"
     }
    ]
   },
@@ -759,6 +621,12 @@
   },
   "CRI": {
    "articles": [
+    {
+     "title": "Siete grandes sindicatos denuncian asedio, presiones y hostilidades por parte del gobierno de Laura Fernández",
+     "url": "https://www.nacion.com/el-pais/siete-grandes-sindicatos-denuncian-asedio/DUNEAJGKYBBJLO3XO6V3YGWGQE/story/",
+     "domain": "La Nación",
+     "seendate": "20261103T070000Z"
+    },
     {
      "title": "Altercado entre dos personas en clínica de La Unión: Fuerza Pública descarta presencia de arma blanca",
      "url": "https://www.nacion.com/sucesos/fuerza-publica-descarta-ataque-con-arma-blanca/SCTMR7J3P5ATTH7KFWR52SULCI/story/",
@@ -1193,40 +1061,40 @@
   "VEN": {
    "articles": [
     {
-     "title": "Aragua se consolida como potencia en aviturismo",
-     "url": "https://elsiglo.com.ve/aragua-se-consolida-como-potencia-en-aviturismo/",
-     "domain": "elsiglo.com.ve",
-     "seendate": "20261027T051500Z"
+     "title": "Lo bueno y lo malo del baremo para evaluar candidatos al TSJ , según Acceso a la Justicia",
+     "url": "https://talcualdigital.com/noticias/lo-bueno-y-lo-malo-del-baremo-para-evaluar-candidatos-al-tsj-segun-acceso-a-la-justicia/",
+     "domain": "talcualdigital.com",
+     "seendate": "20261103T021500Z"
     },
     {
-     "title": "Cuatro municipios se unieron la marcha para Jesús",
-     "url": "https://elsiglo.com.ve/cuatro-municipios-se-unieron-la-marcha-para-jesus/",
-     "domain": "elsiglo.com.ve",
-     "seendate": "20261027T051500Z"
+     "title": "Capriles cuestiona encendido de la Navidad en medio de fallas eléctricas en todo el país",
+     "url": "https://talcualdigital.com/noticias/capriles-cuestiona-encendido-de-la-navidad-en-medio-de-fallas-electricas-en-todo-el-pais/",
+     "domain": "talcualdigital.com",
+     "seendate": "20261103T021500Z"
     },
     {
-     "title": "Inicio | Periódico CiudadCCS",
-     "url": "http://www.ciudadccs.info/publicacion/52598-casa-museo-de-la-pastora-celebro-el-natalicio-del-medico-de-los-pobres",
-     "domain": "ciudadccs.info",
-     "seendate": "20261027T051500Z"
+     "title": "La censura en campaña , por Teodoro Petkoff",
+     "url": "https://talcualdigital.com/teodoro/la-censura-en-campana-por-teodoro-petkoff/",
+     "domain": "talcualdigital.com",
+     "seendate": "20261103T021500Z"
     },
     {
-     "title": "CIDH : El Estado debe garantizar los derechos a la vida e integridad de María Corina Machado",
-     "url": "https://www.el-carabobeno.com/cidh-el-estado-debe-garantizar-los-derechos-a-la-vida-e-integridad-de-maria-corina-machado/",
-     "domain": "el-carabobeno.com",
-     "seendate": "20261027T051500Z"
+     "title": "Rubio se reunió con Blanco y se desconocen temas hablados",
+     "url": "https://talcualdigital.com/noticias/rubio-se-reunio-con-oliver-blanco-no-hubo-declaraciones-y-se-desconocen-temas-abordados/",
+     "domain": "talcualdigital.com",
+     "seendate": "20261103T021500Z"
     },
     {
-     "title": "Parque La Estación suma 60 especies de aves",
-     "url": "https://elsiglo.com.ve/parque-la-estacion-suma-60-especies-de-aves/",
-     "domain": "elsiglo.com.ve",
-     "seendate": "20261027T051500Z"
+     "title": "Ejecutivo reglamenta Ley contra violencia hacia las mujeres con 19 años de retraso",
+     "url": "https://talcualdigital.com/noticias/ejecutivo-reglamenta-ley-contra-violencia-hacia-las-mujeres-con-19-anos-de-retraso/",
+     "domain": "talcualdigital.com",
+     "seendate": "20261103T021500Z"
     },
     {
-     "title": "Vente Venezuela exige liberar a todos los presos políticos",
-     "url": "https://www.el-carabobeno.com/vente-venezuela-exige-liberar-a-todos-los-presos-politicos-tras-encuentro-de-machado-con-rocha/",
-     "domain": "el-carabobeno.com",
-     "seendate": "20261027T051500Z"
+     "title": "Repararon muelle pesquero de Playa Verde tras los terremotos en La Guaira",
+     "url": "https://noticierodigital.com/2026/11/repararon-muelle-pesquero-de-playa-verde-tras-los-terremotos-en-la-guaira/",
+     "domain": "noticierodigital.com",
+     "seendate": "20261103T021500Z"
     }
    ]
   },
@@ -1375,10 +1243,10 @@
   "PER": {
    "articles": [
     {
-     "title": "Lluvias en el norte y otras regiones del Perú EN VIVO: pronósticos del Senamhi y reportes por Fenómeno El Niño 2026",
+     "title": "Lluvias Perú EN VIVO: pronósticos y alertas del SENAMHI por Fenómeno El Niño 2026",
      "url": "https://elcomercio.pe/peru/lluvias-en-piura-tumbes-lambayeque-y-otras-regiones-del-peru-en-vivo-pronosticos-del-senamhi-reportes-y-cambios-en-el-clima-por-el-nino-2026-lbposting-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261103T051456Z"
+     "seendate": "20261103T072203Z"
     },
     {
      "title": "Alcalde de Tumbes solicita al Gobierno “ir en auxilio” de distritos afectados por lluvias",
@@ -1501,6 +1369,18 @@
   "ARG": {
    "articles": [
     {
+     "title": "Conrado Estol, neurólogo: “Cuando la ansiedad no se puede controlar, es importante consultar”",
+     "url": "https://www.lanacion.com.ar/sociedad/conrado-estol-neurologo-cuando-la-ansiedad-no-se-puede-controlar-es-importante-consultar-nid03112026/",
+     "domain": "La Nación",
+     "seendate": "20261103T080000Z"
+    },
+    {
+     "title": "Pilar Sordo, psicóloga: “Sentir incomodidad es necesario para poder crecer”",
+     "url": "https://www.lanacion.com.ar/sociedad/pilar-sordo-psicologa-sentir-incomodidad-es-necesario-para-poder-crecer-nid03112026/",
+     "domain": "La Nación",
+     "seendate": "20261103T070000Z"
+    },
+    {
      "title": "Javier Milei y sus medidas, en vivo: “No defendemos a Israel por un capricho personal”, dijo el Presidente",
      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-no-defendemos-a-israel-por-un-capricho-personal-dijo-el-nid03112026/",
      "domain": "La Nación",
@@ -1619,24 +1499,6 @@
      "url": "https://www.lanacion.com.ar/economia/cuando-se-cobra-el-aguinaldo-de-diciembre-2026-en-la-argentina-fecha-de-pago-y-a-quienes-les-nid02112026/",
      "domain": "La Nación",
      "seendate": "20261102T233434Z"
-    },
-    {
-     "title": "Conrado Estol, médico: “Tener 75 años no significa quedarse mirando televisión todo el día, hay que mantenerse activo”",
-     "url": "https://www.lanacion.com.ar/sociedad/conrado-estol-medico-tener-75-anos-no-significa-quedarse-mirando-television-todo-el-dia-hay-que-nid02112026/",
-     "domain": "La Nación",
-     "seendate": "20261102T230000Z"
-    },
-    {
-     "title": "El poderío chino que abre oportunidades para la Argentina en un sector estratégico",
-     "url": "https://www.lanacion.com.ar/economia/campo/el-poderio-chino-que-abre-oportunidades-para-la-argentina-en-un-sector-estrategico-nid02112026/",
-     "domain": "La Nación",
-     "seendate": "20261102T225633Z"
-    },
-    {
-     "title": "El Renatre ya certificó a 17 empresas por sus prácticas laborales y otras 15 buscan obtener el sello",
-     "url": "https://www.lanacion.com.ar/economia/campo/el-renatre-ya-certifico-a-17-empresas-por-sus-practicas-laborales-y-otras-15-buscan-obtener-el-sello-nid02112026/",
-     "domain": "La Nación",
-     "seendate": "20261102T225551Z"
     }
    ]
   },
@@ -1681,12 +1543,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/11/02/mbocayaty-exige-reductores-de-velocidad-tras-accidente-que-dejo-cuatro-jovenes-muertos/",
      "domain": "ABC Color",
      "seendate": "20261103T003237Z"
-    },
-    {
-     "title": "Santaní: a tres años del tornado, recuerdan la trágica muerte de Abigail",
-     "url": "https://www.abc.com.py/nacionales/2026/11/02/santani-a-tres-anos-del-tornado-recuerdan-la-tragica-muerte-de-abigail/",
-     "domain": "ABC Color",
-     "seendate": "20261103T003057Z"
     }
    ]
   },
@@ -1695,6 +1551,54 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "Enem: entenda por que acertar questões difíceis e errar fáceis pode reduzir sua nota",
+     "url": "https://oglobo.globo.com/brasil/educacao/enem-e-vestibular/noticia/2026/11/03/enem-entenda-por-que-acertar-questoes-dificeis-e-errar-faceis-pode-reduzir-sua-nota.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261103T070000Z"
+    },
+    {
+     "title": "Enem: está pronto para a redação? Treine o tema desinformação e redes sociais com correção da IA do GLOBO",
+     "url": "https://oglobo.globo.com/brasil/educacao/noticia/2026/11/03/enem-esta-pronto-para-a-redacao-treine-o-tema-desinformacao-e-redes-sociais-com-correcao-da-ia-do-globo.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261103T063002Z"
+    },
+    {
+     "title": "Grupos extremistas buscam plataformas menores para fugir da fiscalização após restrições impostas ao Discord",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/11/03/grupos-extremistas-buscam-plataformas-menores-para-fugir-da-fiscalizacao-apos-restricoes-impostas-ao-discord.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261103T063001Z"
+    },
+    {
+     "title": "Com promessa de foco em facções e roubos, Ministério da Segurança deve herdar PF e PRF, reduzindo estrutura da Justiça",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/11/03/com-promessa-de-foco-em-faccoes-e-roubos-ministerio-da-seguranca-deve-herdar-pf-e-prf-reduzindo-estrutura-da-justica.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261103T063001Z"
+    },
+    {
+     "title": "Entrevista: 'Vitória não foi do PT', e sucessor de Lula terá que se provar 'governando ou liderando', diz José Dirceu",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/11/03/entrevista-vitoria-nao-foi-do-pt-e-sucessor-de-lula-tera-que-se-provar-governando-ou-liderando-diz-jose-dirceu.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261103T063001Z"
+    },
+    {
+     "title": "Lideranças evangélicas marcam distância estratégica do bolsonarismo após revés nas urnas e carta golpista de Flávio",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/11/03/liderancas-evangelicas-marcam-distancia-estrategica-do-bolsonarismo-apos-reves-nas-urnas-e-carta-golpista-de-flavio.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261103T063001Z"
+    },
+    {
+     "title": "PL avança por Marinho à frente do Senado e pressiona parlamentares a abrir voto para reduzir base de Alcolumbre",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/11/03/pl-avanca-por-marinho-a-frente-do-senado-e-pressiona-parlamentares-a-abrir-voto-para-reduzir-base-de-alcolumbre.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261103T063001Z"
+    },
+    {
+     "title": "Fachin deve negar pedido de Flávio Bolsonaro para afastar Moraes de investigação no STF",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/11/03/fachin-deve-negar-pedido-de-flavio-bolsonaro-para-afastar-moraes-de-investigacao-no-stf.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261103T060000Z"
+    },
     {
      "title": "Lula condiciona criação do Ministério da Segurança à aprovação da PEC no Congresso, e orçamento da pasta ainda é dúvida",
      "url": "https://oglobo.globo.com/politica/noticia/2026/11/03/lula-condiciona-criacao-do-ministerio-da-seguranca-a-aprovacao-da-pec-no-congresso-e-orcamento-da-pasta-ainda-e-duvida.ghtml",
@@ -1718,30 +1622,6 @@
      "url": "https://oglobo.globo.com/politica/noticia/2026/11/02/ejercito-del-peronismo-janones-chega-a-argentina-para-se-reunir-com-cristina-contra-reeleicao-de-milei.ghtml",
      "domain": "O Globo",
      "seendate": "20261102T210212Z"
-    },
-    {
-     "title": "Pesquisadores encontram sangue em fóssil de 115 milhões de anos no Ceará e revelam semelhança entre dinossauros e humanos",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/11/02/pesquisadores-encontram-sangue-em-fossil-de-115-milhoes-de-anos-no-ceara-e-revelam-semelhanca-entre-dinossauros-e-humanos.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261102T200000Z"
-    },
-    {
-     "title": "Enem: faça uma redação sobre o direito dos animais e veja sua nota com IA do GLOBO",
-     "url": "https://oglobo.globo.com/brasil/educacao/noticia/2026/11/02/enem-faca-uma-redacao-sobre-o-direito-dos-animais-e-veja-sua-nota-com-ia-do-globo.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261102T184625Z"
-    },
-    {
-     "title": "Defesa de Flávio pede Mendonça como relator de investigação no lugar de Moraes e fim de proibição de contato com Willer Tomaz",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/11/02/defesa-de-flavio-pede-mendonca-como-relator-de-investigacao-no-lugar-de-moraes-e-fim-de-proibicao-de-contato-com-willer-tomaz.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261102T183921Z"
-    },
-    {
-     "title": "Caso Master: Vorcaro aciona a Comissão Interamericana de Direitos Humanos e alega violações em prisão preventiva",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/11/02/caso-master-vorcaro-aciona-a-comissao-interamericana-de-direitos-humanos-e-alega-violacoes-em-prisao-preventiva.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261102T145750Z"
     }
    ]
   }
