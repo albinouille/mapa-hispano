@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T07:04:36+00:00",
+ "updated": "2026-11-04T08:24:55+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -16,12 +16,6 @@
      "seendate": "20261104T043001Z"
     },
     {
-     "title": "Hugo Morenilla, director de cine con 16 años: “No hace falta tener 25 años para perseguir un sueño”",
-     "url": "https://elpais.com/espana/catalunya/2026-11-04/hugo-morenilla-director-de-cine-con-16-anos-no-hace-falta-tener-25-anos-para-perseguir-un-sueno.html",
-     "domain": "El País",
-     "seendate": "20261104T043001Z"
-    },
-    {
      "title": "“Deja sin oxígeno a la extrema derecha”: la izquierda levanta un ‘ejército’ de 95.000 usuarios en WhatsApp con memes de Belén Esteban",
      "url": "https://elpais.com/espana/elecciones-generales/2026-11-04/deja-sin-oxigeno-a-la-extrema-derecha-la-izquierda-levanta-un-ejercito-de-95000-usuarios-en-whatsapp-con-memes-de-belen-esteban.html",
      "domain": "El País",
@@ -34,7 +28,7 @@
      "seendate": "20261104T043001Z"
     },
     {
-     "title": "El mayor casero de Madrid, la agencia de vivienda social de la Comunidad, acelera los desalojos mientras mantiene pisos vacíos durante años",
+     "title": "El mayor casero de Madrid, el Gobierno autonómico, acelera los desalojos mientras mantiene pisos vacíos",
      "url": "https://elpais.com/espana/madrid/2026-11-04/el-mayor-casero-de-madrid-la-agencia-de-vivienda-social-de-la-comunidad-acelera-los-desalojos-mientras-mantiene-pisos-vacios-durante-anos.html",
      "domain": "El País",
      "seendate": "20261104T043001Z"
@@ -54,6 +48,12 @@
     {
      "title": "La actriz Stella Schnabel, esposa del activista millonario encarcelado en España: “La persecución a propalestinos es una obsesión de Trump”",
      "url": "https://elpais.com/espana/2026-11-04/la-actriz-stella-schnabel-esposa-del-activista-millonario-encarcelado-en-espana-la-persecucion-a-propalestinos-es-una-obsesion-de-trump.html",
+     "domain": "El País",
+     "seendate": "20261104T043001Z"
+    },
+    {
+     "title": "Hugo Morenilla, director de cine con 16 años: “No hace falta tener 25 años para perseguir un sueño”",
+     "url": "https://elpais.com/espana/catalunya/2026-11-04/hugo-morenilla-director-de-cine-con-16-anos-no-hace-falta-tener-25-anos-para-perseguir-un-sueno.html",
      "domain": "El País",
      "seendate": "20261104T043001Z"
     },
@@ -94,22 +94,10 @@
      "seendate": "20261103T211555Z"
     },
     {
-     "title": "Óscar Puente dimite “por dignidad”: “Quiero estar a la altura de mi país”",
-     "url": "https://elpais.com/espana/2026-11-03/oscar-puente-dimite-por-dignidad-quiero-estar-a-la-altura-de-mi-pais.html",
-     "domain": "El País",
-     "seendate": "20261103T210830Z"
-    },
-    {
      "title": "Cuatro profesores en huelga irrumpen en el programa de Christian Gálvez de Telemadrid",
      "url": "https://elpais.com/espana/madrid/2026-11-03/cuatro-profesores-en-huelga-irrumpen-en-el-programa-de-christian-galvez-de-telemadrid.html",
      "domain": "El País",
      "seendate": "20261103T210637Z"
-    },
-    {
-     "title": "La acampada dice adiós con una manifestación que acaba con disparos de pelotas de goma de los antidisturbios",
-     "url": "https://elpais.com/espana/madrid/2026-11-03/madrid-se-despide-de-la-acampada-de-sol.html",
-     "domain": "El País",
-     "seendate": "20261103T205336Z"
     },
     {
      "title": "El alcalde de Móstoles declarará el 26 de febrero por la denuncia de acoso sexual y laboral de una exconcejala",
@@ -148,12 +136,6 @@
      "seendate": "20261103T102410Z"
     },
     {
-     "title": "Más Madrid denuncia a la Fiscalía y la Oficina contra el Fraude los errores en la recalificación de la ciudad del Real Madrid",
-     "url": "https://elpais.com/espana/madrid/2026-11-03/mas-madrid-denuncia-a-la-fiscalia-y-la-oficina-contra-el-fraude-los-errores-en-la-recalificacion-de-la-ciudad-del-real-madrid.html",
-     "domain": "El País",
-     "seendate": "20261103T043001Z"
-    },
-    {
      "title": "Las vidas truncadas en el tren: “Gracias por quererme, por entenderme, por ser el mejor padre del mundo”",
      "url": "https://elpais.com/espana/2026-11-01/las-vidas-truncadas-en-el-tren-gracias-por-quererme-por-entenderme-por-ser-el-mejor-padre-del-mundo.html",
      "domain": "El País",
@@ -163,6 +145,18 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Nuevo León logra un sistema hídrico más fuerte y eficiente",
+     "url": "https://www.eluniversal.com.mx/estados/nuevo-leon-logra-un-sistema-hidrico-mas-fuerte-y-eficiente/",
+     "domain": "El Universal",
+     "seendate": "20261104T081031Z"
+    },
+    {
+     "title": "Oposición exige abrir investigación de monederos; Morena dice que son legales",
+     "url": "https://www.eluniversal.com.mx/nacion/oposicion-exige-abrir-investigacion-de-monederos-morena-dice-que-son-legales/",
+     "domain": "El Universal",
+     "seendate": "20261104T074749Z"
+    },
     {
      "title": "Vinculan a proceso a funcionaria del ayuntamiento de Uruapan; está acusada de encubrimiento en asesinato de Carlos Manzo",
      "url": "https://www.eluniversal.com.mx/estados/vinculan-a-proceso-a-funcionaria-del-ayuntamiento-de-uruapan-esta-acusada-de-encubrimiento-en-asesinato-de-carlos-manzo/",
@@ -420,18 +414,6 @@
      "url": "https://www.eluniversal.com.mx/nacion/aseguran-303-mil-litros-de-posible-hidrocarburo-por-presunto-huachicol-en-nuevo-leon-no-hay-detenidos/",
      "domain": "El Universal",
      "seendate": "20261103T221051Z"
-    },
-    {
-     "title": "Brugada pide a oposición no promover mentiras sobre iniciativa de Ley de Rentas Justas; \"no atenta contra la propiedad privada\", enfatiza",
-     "url": "https://www.eluniversal.com.mx/metropoli/brugada-pide-a-oposicion-no-promover-mentiras-sobre-iniciativa-de-ley-de-rentas-justas-no-atenta-contra-la-propiedad-privada-enfatiza/",
-     "domain": "El Universal",
-     "seendate": "20261103T220420Z"
-    },
-    {
-     "title": "Vinculan a proceso a 3 influencers por promover productos de cannabis en Hermosillo; deben acudir semanalmente al juzgado",
-     "url": "https://www.eluniversal.com.mx/estados/vinculan-a-proceso-a-3-influencers-por-promover-productos-de-cannabis-en-hermosillo-deben-acudir-semanalmente-al-juzgado/",
-     "domain": "El Universal",
-     "seendate": "20261103T215837Z"
     },
     {
      "title": "Detecta ASF irregularidades dentro de la nómina de IEEPO",
@@ -950,12 +932,6 @@
      "url": "https://www.nacion.com/el-pais/cortes-de-luz-del-ice-afectaran-zonas-de/WHY6MZ6HNVFYRGC7NXWJNWJKBI/story/",
      "domain": "La Nación",
      "seendate": "20261103T165508Z"
-    },
-    {
-     "title": "Impiden ingreso de Yorgina Alvarado a sede del SEC; Fuerza Pública llega al lugar",
-     "url": "https://www.nacion.com/politica/impiden-ingreso-de-yorgina-alvarado-a-sede-del-sec/RK2KRPKOKFG43PHQMYSKNPPHV4/story/",
-     "domain": "La Nación",
-     "seendate": "20261103T155801Z"
     }
    ]
   },
@@ -1645,6 +1621,30 @@
   "ARG": {
    "articles": [
     {
+     "title": "Conrado Estol, neurólogo, advirtió sobre los riesgos de la pasividad en la vejez: “Estamos experimentando una transición sin precedentes”",
+     "url": "https://www.lanacion.com.ar/sociedad/conrado-estol-neurologo-advirtio-sobre-los-riesgos-de-la-pasividad-en-la-vejez-estamos-nid04112026/",
+     "domain": "La Nación",
+     "seendate": "20261104T080000Z"
+    },
+    {
+     "title": "Javier Milei y sus medidas, en vivo: el Presidente viaja a España y guarda silencio tras la elección intermedia en EE.UU.",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-viaja-a-espana-y-guarda-silencio-tras-la-eleccion-nid04112026/",
+     "domain": "La Nación",
+     "seendate": "20261104T070845Z"
+    },
+    {
+     "title": "¿Cuál es la mejor posición para dormir? Lo que aconsejan los expertos sobre la “higiene del sueño”",
+     "url": "https://www.lanacion.com.ar/sociedad/cual-es-la-mejor-posicion-para-dormir-lo-que-aconsejan-los-expertos-sobre-la-higiene-del-sueno-nid04112026/",
+     "domain": "La Nación",
+     "seendate": "20261104T070000Z"
+    },
+    {
+     "title": "La reflexión de Gabriel Rolón sobre la esperanza: “Puede dejarnos incapacitados de jugar un deseo a la espera de que ocurran cosas que son más mágicas que personales”",
+     "url": "https://www.lanacion.com.ar/sociedad/la-reflexion-de-gabriel-rolon-sobre-la-esperanza-puede-dejarnos-incapacitados-de-jugar-un-deseo-a-la-nid04112026/",
+     "domain": "La Nación",
+     "seendate": "20261104T070000Z"
+    },
+    {
      "title": "Marta Beatriz Echaúl, la empresaria de 101 años que revela su secreto: “Tomo vino y mate todos los días”",
      "url": "https://www.lanacion.com.ar/sociedad/marta-beatriz-echaul-la-empresaria-de-101-anos-que-revela-su-secreto-tomo-vino-y-mate-todos-los-dias-nid04112026/",
      "domain": "La Nación",
@@ -1661,12 +1661,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/santa-fe-investigan-un-posible-femicidio-seguido-de-suicidio-tras-la-muerte-de-una-docente-nid04112026/",
      "domain": "La Nación",
      "seendate": "20261104T054214Z"
-    },
-    {
-     "title": "Javier Milei y sus medidas, en vivo: el Presidente viaja a España y guarda silencio tras la elección intermedia en EE.UU.",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-viaja-a-espana-y-guarda-silencio-tras-la-eleccion-nid04112026/",
-     "domain": "La Nación",
-     "seendate": "20261104T053000Z"
     },
     {
      "title": "Daniel López Rosetti, médico, sobre el ritmo de vida actual: “Estamos a velocidad digital y somos analógicos”",
@@ -1745,24 +1739,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/la-reflexion-de-daniel-lopez-rosetti-sobre-la-actividad-fisica-el-movimiento-no-es-solo-salud-nid03112026/",
      "domain": "La Nación",
      "seendate": "20261104T010000Z"
-    },
-    {
-     "title": "Gabriel Rolón, psicoanalista: “Muchas veces estamos sólo cumpliendo un mandato inconsciente”",
-     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-muchas-veces-estamos-solo-cumpliendo-un-mandato-inconsciente-nid02112026/",
-     "domain": "La Nación",
-     "seendate": "20261104T004900Z"
-    },
-    {
-     "title": "Abogado de una de las empresas de Trump sostuvo que Cristina Kirchner “seguirá el camino de Lula” para recuperar sus derechos políticos",
-     "url": "https://www.lanacion.com.ar/politica/abogado-de-una-de-las-empresas-de-trump-opino-sobre-la-entrevista-a-cristina-kirchner-en-el-nid03112026/",
-     "domain": "La Nación",
-     "seendate": "20261104T001439Z"
-    },
-    {
-     "title": "Gabriel Rolón explica por qué el deseo puede incomodarnos: “Se desea lo que no se tiene”",
-     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-explica-por-que-el-deseo-puede-incomodarnos-se-desea-lo-que-no-se-tiene-nid03112026/",
-     "domain": "La Nación",
-     "seendate": "20261104T000000Z"
     }
    ]
   },
@@ -1813,12 +1789,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/11/04/embajador-de-azerbaiyan-diserto-en-paraguay-para-fortalecer-los-vinculos-comerciales-bilaterales/",
      "domain": "ABC Color",
      "seendate": "20261104T030717Z"
-    },
-    {
-     "title": "Teletón posterga su maratón tras incertidumbre generada por la situación de Ueno Bank",
-     "url": "https://www.abc.com.py/nacionales/2026/11/03/teleton-posterga-su-maraton-tras-incertidumbre-generada-por-la-situacion-de-ueno-bank/",
-     "domain": "ABC Color",
-     "seendate": "20261104T013511Z"
     }
    ]
   },
