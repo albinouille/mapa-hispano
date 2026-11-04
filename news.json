@@ -1,10 +1,22 @@
 {
- "updated": "2026-11-04T15:23:50+00:00",
+ "updated": "2026-11-04T16:28:06+00:00",
  "countries": {
   "ESP": {
    "articles": [
     {
-     "title": "Abascal convierte el relevo de Puente en un ataque al presidente: “Siempre tiene un fusible que desconectar”",
+     "title": "Un camión invade la acera y arrolla a cinco operarios junto a Mercamadrid",
+     "url": "https://elpais.com/espana/madrid/2026-11-04/cinco-operarios-heridos-uno-grave-al-invadir-un-camion-la-acera-junto-a-mercamadrid.html",
+     "domain": "El País",
+     "seendate": "20261104T161503Z"
+    },
+    {
+     "title": "Zelenski aterriza en España para mantener encuentros de alto nivel durante la cumbre iberoamericana",
+     "url": "https://elpais.com/espana/2026-11-04/zelenski-aterriza-en-espana-para-mantener-encuentros-de-alto-nivel-durante-la-cumbre-iberoamericana.html",
+     "domain": "El País",
+     "seendate": "20261104T153703Z"
+    },
+    {
+     "title": "Santiago Abascal convierte el relevo de Óscar Puente en un ataque al presidente: “Siempre tiene un fusible que desconectar”",
      "url": "https://elpais.com/espana/2026-11-04/abascal-convierte-el-relevo-de-puente-en-un-ataque-al-presidente-siempre-tiene-un-fusible-que-desconectar.html",
      "domain": "El País",
      "seendate": "20261104T150857Z"
@@ -56,12 +68,6 @@
      "url": "https://elpais.com/espana/2026-11-04/feijoo-apunta-a-sanchez-y-acusa-a-puente-de-dimitir-de-forma-indigna.html",
      "domain": "El País",
      "seendate": "20261104T120654Z"
-    },
-    {
-     "title": "El Supremo confirma 36 años de cárcel para el autor del triple crimen de Morata de Tajuña",
-     "url": "https://elpais.com/espana/2026-11-04/el-supremo-confirma-36-anos-de-carcel-para-el-autor-del-triple-crimen-de-morata-de-tajuna.html",
-     "domain": "El País",
-     "seendate": "20261104T111701Z"
     },
     {
      "title": "Los médicos de Madrid retoman la huelga tras el accidente de Toledo: “Sanidad de calidad, basta ya de bla, bla, bla”",
@@ -118,12 +124,6 @@
      "seendate": "20261104T043001Z"
     },
     {
-     "title": "Audio | La abogada de Koldo García advirtió a la fiscal de la “sorpresa” que se llevaría al saber que ‘Okdiario’ pagaba la defensa: “No tengo nada que ver con el PSOE”",
-     "url": "https://elpais.com/espana/2026-11-04/audio-la-abogada-de-koldo-garcia-advirtio-a-la-fiscal-de-la-sorpresa-que-se-llevaria-al-saber-que-okdiario-pagaba-la-defensa-no-tengo-nada-que-ver-con-el-psoe.html",
-     "domain": "El País",
-     "seendate": "20261104T043001Z"
-    },
-    {
      "title": "El Supremo marca la senda para recuperar miles de vías pecuarias usurpadas por los agricultores",
      "url": "https://elpais.com/espana/2026-11-04/el-supremo-marca-la-senda-para-recuperar-miles-de-vias-pecuarias-usurpadas-por-los-agricultores.html",
      "domain": "El País",
@@ -148,12 +148,6 @@
      "seendate": "20261104T043001Z"
     },
     {
-     "title": "El mayor casero de Madrid, el Gobierno autonómico, acelera los desalojos mientras mantiene pisos vacíos",
-     "url": "https://elpais.com/espana/madrid/2026-11-04/el-mayor-casero-de-madrid-la-agencia-de-vivienda-social-de-la-comunidad-acelera-los-desalojos-mientras-mantiene-pisos-vacios-durante-anos.html",
-     "domain": "El País",
-     "seendate": "20261104T043001Z"
-    },
-    {
      "title": "Los seis detenidos por Blocus en Cataluña: administradores o agitadores en redes, sin relación entre sí",
      "url": "https://elpais.com/espana/catalunya/2026-11-04/los-seis-detenidos-por-blocus-en-cataluna-administradores-o-agitadores-en-redes-sin-relacion-entre-si.html",
      "domain": "El País",
@@ -168,6 +162,12 @@
     {
      "title": "Hugo Morenilla, director de cine con 16 años: “No hace falta tener 25 años para perseguir un sueño”",
      "url": "https://elpais.com/espana/catalunya/2026-11-04/hugo-morenilla-director-de-cine-con-16-anos-no-hace-falta-tener-25-anos-para-perseguir-un-sueno.html",
+     "domain": "El País",
+     "seendate": "20261104T043001Z"
+    },
+    {
+     "title": "Audio | La abogada de Koldo García advirtió a la fiscal de la “sorpresa” que se llevaría al saber que ‘Okdiario’ pagaba la defensa: “No tengo nada que ver con el PSOE”",
+     "url": "https://elpais.com/espana/2026-11-04/audio-la-abogada-de-koldo-garcia-advirtio-a-la-fiscal-de-la-sorpresa-que-se-llevaria-al-saber-que-okdiario-pagaba-la-defensa-no-tengo-nada-que-ver-con-el-psoe.html",
      "domain": "El País",
      "seendate": "20261104T043001Z"
     },
@@ -193,6 +193,42 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "¿Con qué homicidios relacionan a “El Chopersito”?; lo vinculan con al menos 10 asesinatos en Iztapalapa",
+     "url": "https://www.eluniversal.com.mx/metropoli/con-que-homicidios-relacionan-a-el-chopersito-lo-vinculan-con-al-menos-10-asesinatos-en-iztapalapa/",
+     "domain": "El Universal",
+     "seendate": "20261104T162022Z"
+    },
+    {
+     "title": "Lorenzo Córdova no hizo nada contra duopolio en el INE, acusa Sheinbaum; pide a la ASF revisar contrataciones",
+     "url": "https://www.eluniversal.com.mx/nacion/lorenzo-cordova-no-hizo-nada-contra-duopolio-en-el-ine-acusa-sheinbaum-pide-a-la-asf-revisar-contrataciones/",
+     "domain": "El Universal",
+     "seendate": "20261104T161825Z"
+    },
+    {
+     "title": "La SSEM despliega 12 unidades para apoyar a usuarios afectados por incendio en la Línea B; Mexibús mantiene servicio gratuito",
+     "url": "https://www.eluniversal.com.mx/metropoli/edomex-despliega-12-unidades-para-apoyar-a-usuarios-afectados-por-incendio-en-la-linea-b-mexibus-mantiene-servicio-gratuito/",
+     "domain": "El Universal",
+     "seendate": "20261104T161135Z"
+    },
+    {
+     "title": "Reportan segunda muerte de un interno en penal de Culiacán en 15 días; Fiscalía investigará las causas del deceso",
+     "url": "https://www.eluniversal.com.mx/estados/reportan-segunda-muerte-de-un-interno-en-penal-de-culiacan-en-15-dias-fiscalia-investigara-las-causas-del-deceso/",
+     "domain": "El Universal",
+     "seendate": "20261104T155704Z"
+    },
+    {
+     "title": "Prevén tres manifestaciones en CDMX este miércoles; protestas se concentrarán en el Metro y distintos puntos de la capital",
+     "url": "https://www.eluniversal.com.mx/metropoli/preven-tres-manifestaciones-en-cdmx-este-miercoles-protestas-se-concentraran-en-el-metro-y-distintos-puntos-de-la-capital/",
+     "domain": "El Universal",
+     "seendate": "20261104T154221Z"
+    },
+    {
+     "title": "Sheinbaum celebra triunfo de políticos de origen mexicano en elecciones de EU; \"nos da mucho gusto\" esa participación, dice",
+     "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-destaca-triunfo-de-politicos-de-origen-mexicano-en-elecciones-de-eu-nos-da-mucho-gusto-esa-participacion-dice/",
+     "domain": "El Universal",
+     "seendate": "20261104T152721Z"
+    },
     {
      "title": "Senado aprueba nuevos nombramientos en comisiones ordinarias; Noroña presidirá Relaciones Exteriores",
      "url": "https://www.eluniversal.com.mx/nacion/senado-aprueba-nuevos-nombramientos-en-comisiones-ordinarias-norona-presidira-relaciones-exteriores/",
@@ -712,6 +748,12 @@
   "CRI": {
    "articles": [
     {
+     "title": "Pueblo Soberano consolida viraje sobre reelección de magistrados con respaldo a Roxana Chacón",
+     "url": "https://www.nacion.com/politica/pueblo-soberano-consolida-viraje-sobre-reeleccion/AKTDRUQLQVHYPAXTZ7TSAUR6HE/story/",
+     "domain": "La Nación",
+     "seendate": "20261104T155820Z"
+    },
+    {
      "title": "Hace 50 años: despiden en funeral al presidente ejecutivo de la CCSS",
      "url": "https://www.nacion.com/el-pais/hace-50-anos-despiden-en-funeral-al-presidente/4K3IGIET3JFCDNWZMSLEZAWFRI/story/",
      "domain": "La Nación",
@@ -770,12 +812,6 @@
      "url": "https://www.nacion.com/sucesos/cne-declara-alerta-verde-en-todo-costa-rica-por/24WSQZ3ZGRCWTHLHHO67HSTCHQ/story/",
      "domain": "La Nación",
      "seendate": "20261103T214727Z"
-    },
-    {
-     "title": "Cosevi realizó contrataciones directas por más de ¢3.200 millones en tres años, Contraloría halló deficiencias en la mayoría de procesos",
-     "url": "https://www.nacion.com/el-pais/cosevi-realizo-contrataciones-directas-por-mas-de/WJUU52ICFVBBNPAMOPZ3PB7XLE/story/",
-     "domain": "La Nación",
-     "seendate": "20261103T194646Z"
     }
    ]
   },
@@ -870,12 +906,6 @@
      "url": "https://www.prensa.com/sociedad/minsa-confirma-un-tercer-caso-de-malaria-en-los-santos/",
      "domain": "La Prensa",
      "seendate": "20261102T215504Z"
-    },
-    {
-     "title": "Libertad Ciudadana advierte sobre riesgos al aumentar excepciones en contrataciones públicas",
-     "url": "https://www.prensa.com/politica/libertad-ciudadana-advierte-sobre-riesgos-al-aumentar-excepciones-en-contrataciones-publicas/",
-     "domain": "La Prensa",
-     "seendate": "20261102T211835Z"
     },
     {
      "title": "Ciudadanos de estas nacionalidades siguen desafiando la travesía de cruzar el tapón de Darién",
@@ -1015,6 +1045,42 @@
   "COL": {
    "articles": [
     {
+     "title": "El sueño de estudiar en el exterior comienza para 200 jóvenes de Santa Marta que recibieron su primer pasaporte",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-sueno-de-estudiar-en-el-exterior-comienza-para-200-jovenes-de-santa-marta-que-recibieron-su-primer-pasaporte-3598393",
+     "domain": "El Tiempo",
+     "seendate": "20261104T160841Z"
+    },
+    {
+     "title": "Un policía de 27 años fue asesinado en Medellín tras intervenir en un episodio de sicariato entre grupos delincuenciales organizados",
+     "url": "https://www.eltiempo.com/colombia/medellin/un-policia-de-27-anos-fue-asesinado-en-medellin-tras-intervenir-en-un-episodio-de-sicariato-entre-grupos-delincuenciales-organizados-3598383",
+     "domain": "El Tiempo",
+     "seendate": "20261104T155600Z"
+    },
+    {
+     "title": "Denuncian ingreso de vehículos al Páramo de Siscunsí en Boyacá: estarían parqueando sobre vegetación nativa y cerca de frailejones",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/denuncian-ingreso-de-vehiculos-al-paramo-de-siscunsi-en-boyaca-estarian-parqueando-sobre-vegetacion-nativa-y-cerca-de-frailejones-3598378",
+     "domain": "El Tiempo",
+     "seendate": "20261104T153505Z"
+    },
+    {
+     "title": "La carta del director de la cárcel de Villahermosa de Cali sobre amenazas de muerte contra él y su familia: 'El próximo comunicado no es con nota'",
+     "url": "https://www.eltiempo.com/colombia/cali/la-carta-del-director-de-la-carcel-de-villahermosa-de-cali-sobre-amenazas-de-muerte-contra-el-y-su-familia-el-proximo-comunicado-no-es-con-nota-3598336",
+     "domain": "El Tiempo",
+     "seendate": "20261104T152921Z"
+    },
+    {
+     "title": "Revelan video de hombre de 63 años que ataca con cuchillo a joven a la que supuestamente acosaba: la víctima murió y el sujeto fue enviado a la cárcel",
+     "url": "https://www.eltiempo.com/colombia/santander/revelan-video-de-hombre-de-63-anos-que-ataca-con-cuchillo-a-joven-a-la-que-supuestamente-acosaba-la-victima-murio-y-el-sujeto-fue-enviado-a-la-carcel-3598372",
+     "domain": "El Tiempo",
+     "seendate": "20261104T151732Z"
+    },
+    {
+     "title": "Seguridad aérea: operar un dron cerca del aeropuerto de Cartagena acarrea multas de cerca de $100 millones e imputaciones penales y cárcel",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/seguridad-aerea-operar-un-dron-cerca-del-aeropuerto-de-cartagena-acarrea-multas-de-cerca-de-100-millones-e-imputaciones-penales-con-penas-de-carcel-3598368",
+     "domain": "El Tiempo",
+     "seendate": "20261104T151422Z"
+    },
+    {
      "title": "¿Sirve de algo? Esto es lo que queman en las esquinas de Barranquilla para alejar los mosquitos que llegaron con los aguaceros y el calor",
      "url": "https://www.eltiempo.com/colombia/barranquilla/sirve-de-algo-esto-es-lo-que-queman-en-las-esquinas-de-barranquilla-para-alejar-los-mosquitos-que-llegaron-con-los-aguaceros-y-el-calor-3598330",
      "domain": "El Tiempo",
@@ -1027,12 +1093,6 @@
      "seendate": "20261104T145239Z"
     },
     {
-     "title": "La carta del director de la cárcel de Villahermosa de Cali sobre amenazas de muerte contra él y su familia: 'El próximo comunicado no es con nota'",
-     "url": "https://www.eltiempo.com/colombia/cali/la-carta-del-director-de-la-carcel-de-villahermosa-de-cali-sobre-amenazas-de-muerte-contra-el-y-su-familia-el-proximo-comunicado-no-es-con-nota-3598336",
-     "domain": "El Tiempo",
-     "seendate": "20261104T144929Z"
-    },
-    {
      "title": "Cartagena Cómo vamos: gracias al mercado laboral informal, la pobreza monetaria en la ciudad bajó 6,5 puntos porcentuales entre el 2024 y el 2025",
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/cartagena-como-vamos-gracias-al-mercado-laboral-informal-la-pobreza-monetaria-en-la-ciudad-bajo-6-5-puntos-porcentuales-entre-el-2024-y-el-3598353",
      "domain": "El Tiempo",
@@ -1043,36 +1103,6 @@
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/investigan-venta-de-33-bienes-de-valledupar-por-31-millones-una-toyota-prado-2013-habria-sido-rematada-en-2-500-000-millones-y-equipos-oficiales-3598360",
      "domain": "El Tiempo",
      "seendate": "20261104T143705Z"
-    },
-    {
-     "title": "Tres muertos y dos policías heridos tras persecución de homicidas en Valledupar: se eleva a 105 el registro de muertes violentas en lo corrido de 2026",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/tres-muertos-y-dos-policias-heridos-tras-persecucion-de-homicidas-en-valledupar-se-eleva-a-105-el-registro-de-muertes-violentas-en-lo-corrido-de-3598343",
-     "domain": "El Tiempo",
-     "seendate": "20261104T141000Z"
-    },
-    {
-     "title": "Ojo lo estafan: Conmebol alerta por venta de entradas no autorizadas para la final entre Boca Juniors y Atlético Mineiro en Barranquilla",
-     "url": "https://www.eltiempo.com/colombia/barranquilla/ojo-lo-estafan-conmebol-alerta-por-venta-de-entradas-no-autorizadas-para-la-final-entre-boca-juniors-y-atletico-mineiro-en-barranquilla-3598334",
-     "domain": "El Tiempo",
-     "seendate": "20261104T140100Z"
-    },
-    {
-     "title": "Cartagena tendrá contraflujo en la avenida Santander hasta el 16 de noviembre por montaje de palcos: conozca los desvíos y rutas alternas",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/cartagena-tendra-contraflujo-en-la-avenida-santander-hasta-el-16-de-noviembre-por-montaje-de-palcos-conozca-los-desvios-y-rutas-alternas-3598340",
-     "domain": "El Tiempo",
-     "seendate": "20261104T135319Z"
-    },
-    {
-     "title": "Fuerte accidente en el Anillo Vial de Floridablanca genera caos vehicular: un camión se volcó y mantiene cerrado un corredor",
-     "url": "https://www.eltiempo.com/colombia/santander/fuerte-accidente-en-el-anillo-vial-de-floridablanca-genera-caos-vehicular-un-camion-se-accidento-y-mantiene-cerrado-un-corredor-3598329",
-     "domain": "El Tiempo",
-     "seendate": "20261104T133932Z"
-    },
-    {
-     "title": "Accidentes eléctricos dejaron 58 muertos en tres departamentos del Caribe en 2025: Atlántico, Bolívar y Cesar figuran entre los más afectados del país",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/accidentes-electricos-dejaron-58-muertos-en-tres-departamentos-del-caribe-en-2025-atlantico-bolivar-y-cesar-figuran-entre-los-mas-afectados-del-pais-3598332",
-     "domain": "El Tiempo",
-     "seendate": "20261104T133858Z"
     }
    ]
   },
@@ -1167,13 +1197,37 @@
   "ECU": {
    "articles": [
     {
+     "title": "Asamblea tramitará proyecto de ley para regular los activos virtuales en Ecuador",
+     "url": "https://eluniverso.com/politica/asamblea-nacional/asamblea-tramitara-proyecto-para-regular-los-activos-virtuales-en-ecuador-nota/",
+     "domain": "El Universo",
+     "seendate": "20261104T161500Z"
+    },
+    {
+     "title": "Cuatro personas fueron aprehendidas por presunta simulación de secuestro en Salinas",
+     "url": "https://eluniverso.com/politica/seguridad/cuatro-personas-fueron-aprehendidas-por-presunta-simulacion-de-secuestro-en-salinas-nota/",
+     "domain": "El Universo",
+     "seendate": "20261104T155908Z"
+    },
+    {
+     "title": "Municipios de Tungurahua deberán regular quemas agrícolas tras aumento de incendios forestales",
+     "url": "https://eluniverso.com/comunidad/ecuador/afectacion-de-los-paramos-nota/",
+     "domain": "El Universo",
+     "seendate": "20261104T153000Z"
+    },
+    {
+     "title": "Atención gratuita de salud se da en la sede de la Universidad Central en Santa Cruz",
+     "url": "https://eluniverso.com/comunidad/ecuador/atencion-gratuita-de-salud-en-la-sede-de-la-universidad-central-en-santa-cruz-nota/",
+     "domain": "El Universo",
+     "seendate": "20261104T152121Z"
+    },
+    {
      "title": "Entre cinco aspirantes, 20 puntos y tribunales de calificación se definirá al próximo fiscal general",
      "url": "https://eluniverso.com/politica/seguridad/fiscalia-general-del-estado-consejo-de-participacion-ciudadana-concurso-publico-meritos-oposicion-examen-oral-examen-escrito-nota/",
      "domain": "El Universo",
      "seendate": "20261104T151500Z"
     },
     {
-     "title": "Consejo de la Judicatura pasa a modalidad teletrabajo en Milagro por anegaciones en ese cantón",
+     "title": "Consejo de la Judicatura pasa a modalidad de teletrabajo en Milagro por anegaciones en ese cantón",
      "url": "https://eluniverso.com/politica/transparencia/consejo-de-la-judicatura-pasa-a-modalidad-teletrabajo-en-milagro-por-anegaciones-en-ese-canton-nota/",
      "domain": "El Universo",
      "seendate": "20261104T144905Z"
@@ -1215,14 +1269,14 @@
      "seendate": "20261104T121000Z"
     },
     {
-     "title": "Las lluvias frenaron un poco las reservas anticipadas y redujeron la permanencia de los turistas en el feriado, según balance de empresarios",
-     "url": "https://eluniverso.com/comunidad/ecuador/feriado-en-ecuador-turistas-viajaron-menos-dias-por-las-lluvias-y-el-nino-nota/",
+     "title": "Lavado de activos, el delito denominador común en casos de connotación nacional que el Estado combate desde varios frentes",
+     "url": "https://eluniverso.com/politica/expedientes/lavado-de-activos-delito-denominador-comun-casos-connotacion-nacional-estado-combate-desde-varios-frentes-nota/",
      "domain": "El Universo",
      "seendate": "20261104T110000Z"
     },
     {
-     "title": "Lavado de activos, el delito denominador común en casos de connotación nacional que el Estado combate desde varios frentes",
-     "url": "https://eluniverso.com/politica/expedientes/lavado-de-activos-delito-denominador-comun-casos-connotacion-nacional-estado-combate-desde-varios-frentes-nota/",
+     "title": "Las lluvias frenaron un poco las reservas anticipadas y redujeron la permanencia de los turistas en el feriado, según balance de empresarios",
+     "url": "https://eluniverso.com/comunidad/ecuador/feriado-en-ecuador-turistas-viajaron-menos-dias-por-las-lluvias-y-el-nino-nota/",
      "domain": "El Universo",
      "seendate": "20261104T110000Z"
     },
@@ -1245,34 +1299,10 @@
      "seendate": "20261103T230000Z"
     },
     {
-     "title": "Cinco comunidades de Puerto López permanecen aisladas por las lluvias y el desbordamiento de ríos",
-     "url": "https://eluniverso.com/comunidad/ecuador/puerto-lopez-cinco-comunidades-aisladas-por-las-lluvias-nota/",
-     "domain": "El Universo",
-     "seendate": "20261103T213402Z"
-    },
-    {
-     "title": "Comerciantes reportan buenas ventas en la Feria de Finados de Ambato: estiman más de 100.000 visitantes",
-     "url": "https://eluniverso.com/comunidad/ecuador/la-gente-llega-nota/",
-     "domain": "El Universo",
-     "seendate": "20261103T213000Z"
-    },
-    {
      "title": "Primer debate del proyecto de reformas a la Ley de Personal y Disciplina de las Fuerzas Armadas será este jueves en la Asamblea",
      "url": "https://eluniverso.com/politica/asamblea-nacional/primer-debate-proyecto-reformas-ley-personal-disciplina-fuerzas-armadas-jueves-nota/",
      "domain": "El Universo",
      "seendate": "20261103T205246Z"
-    },
-    {
-     "title": "Controles e intervenciones se replicaron en la tercera jornada del toque de queda en cinco provincias de Ecuador",
-     "url": "https://eluniverso.com/politica/seguridad/controles-e-intervenciones-se-replicaron-en-tercera-jornada-de-toque-de-queda-en-cinco-provincias-de-ecuador-nota/",
-     "domain": "El Universo",
-     "seendate": "20261103T202150Z"
-    },
-    {
-     "title": "Visitas a cementerios y paseos dentro de la provincia marcan feriado en Los Ríos",
-     "url": "https://eluniverso.com/comunidad/ecuador/visitas-a-cementerios-y-paseos-dentro-de-la-provincia-marcan-feriado-en-los-rios-nota/",
-     "domain": "El Universo",
-     "seendate": "20261103T202003Z"
     },
     {
      "title": "Ferias, chocolate y actos conmemorativos: la agenda de Cuenca para este martes, 3 de noviembre",
@@ -1321,40 +1351,40 @@
   "PER": {
    "articles": [
     {
+     "title": "Piura bajo el agua: gobernador no aclara si corrigió las deficiencias advertidas por Contraloría ante El Niño",
+     "url": "https://elcomercio.pe/peru/piura-bajo-el-agua-gobernador-no-aclara-si-corrigio-las-deficiencias-advertidas-por-contraloria-ante-el-nino-apuesplan-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261104T161500Z"
+    },
+    {
+     "title": "Diego Díaz, socio de Macroconsult: “La única protección que tenemos como país es el gas natural”",
+     "url": "https://elcomercio.pe/economia/peru/la-unica-proteccion-que-tenemos-como-pais-es-el-gas-natural-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261104T161113Z"
+    },
+    {
      "title": "Lluvias en Perú por El Niño en vivo hoy: regiones en alerta, lluvias y pronóstico de Senamhi",
      "url": "https://elcomercio.pe/peru/lluvias-en-peru-por-el-nino-en-vivo-hoy-regiones-en-alerta-lluvias-y-pronostico-de-senamhi-lbposting-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261104T151301Z"
+     "seendate": "20261104T160804Z"
+    },
+    {
+     "title": "El dólar abre a la baja en S/3,45 tras resultados electorales en Estados Unidos",
+     "url": "https://elcomercio.pe/economia/peru/el-dolar-abre-a-la-baja-en-s345-tras-resultados-electorales-en-estados-unidos-l-ultimas-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261104T160445Z"
+    },
+    {
+     "title": "Sismos en Perú hoy, 4 de noviembre: revisa los reportes del IGP, epicentro y magnitud",
+     "url": "https://elcomercio.pe/peru/sismos-de-hoy-en-peru-revisa-los-reportes-del-igp-y-donde-se-localizaron-los-epicentros-magnitud-y-mas-tdpe-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261104T152850Z"
     },
     {
      "title": "Consorcio Camisea evaluará si hay más gas por explotar en dos nuevas áreas en Cusco",
      "url": "https://elcomercio.pe/economia/peru/consorcio-camisea-evaluara-si-hay-mas-gas-por-explotar-en-dos-nuevas-areas-en-cusco-l-ultimas-noticia/",
      "domain": "El Comercio",
      "seendate": "20261104T150318Z"
-    },
-    {
-     "title": "Piloto oficial de Tapp, la plataforma de pagos del BCR, inicia el 23 de diciembre: así funcionará y esto debe tener en cuenta",
-     "url": "https://elcomercio.pe/economia/peru/bcr-piloto-oficial-de-tapp-inicia-el-23-de-diciembre-como-funcionara-y-que-debe-tener-en-cuenta-el-futuro-usuario-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261104T141547Z"
-    },
-    {
-     "title": "Diego Díaz, socio de Macroconsult: “La única protección que tenemos como país es el gas natural”",
-     "url": "https://elcomercio.pe/economia/peru/la-unica-proteccion-que-tenemos-como-pais-es-el-gas-natural-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261104T140405Z"
-    },
-    {
-     "title": "Bernie Navarro, embajador estadounidense en el Perú: “Negociaciones entre EE.UU. y Perú avanzan hacia un ‘término medio’”",
-     "url": "https://elcomercio.pe/economia/peru/bernie-navarro-negociaciones-entre-estados-unidos-y-peru-avanzan-hacia-un-termino-medio-l-ultimas-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261104T135847Z"
-    },
-    {
-     "title": "Lluvias en el Perú: noticias, pronósticos y alertas del SENAMHI por Fenómeno El Niño",
-     "url": "https://elcomercio.pe/peru/lluvias-en-piura-tumbes-lambayeque-y-otras-regiones-del-peru-en-vivo-pronosticos-del-senamhi-reportes-y-cambios-en-el-clima-por-el-nino-2026-lbposting-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261104T120000Z"
     }
    ]
   },
@@ -1453,16 +1483,106 @@
   "ARG": {
    "articles": [
     {
-     "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este miércoles 4 de noviembre, minuto a minuto",
-     "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid04112026/",
+     "title": "Se aproxima el “Pampero”, un fenómeno que traerá frío invernal con temperaturas mínimas de hasta 7°: las zonas afectadas",
+     "url": "https://www.lanacion.com.ar/sociedad/se-aproxima-el-pampero-un-fenomeno-que-traera-frio-invernal-con-temperaturas-minimas-de-hasta-7-las-nid04112026/",
      "domain": "La Nación",
-     "seendate": "20261104T151943Z"
+     "seendate": "20261104T162208Z"
+    },
+    {
+     "title": "Quién era Fernando “Nano” Villarnovo, el exrugbier cordobés que murió en Australia",
+     "url": "https://www.lanacion.com.ar/sociedad/un-rugbier-argentino-de-34-anos-murio-en-australia-y-su-familia-organiza-una-colecta-para-despedirlo-nid04112026/",
+     "domain": "La Nación",
+     "seendate": "20261104T162147Z"
+    },
+    {
+     "title": "Mareos y desmayos: cuándo son una señal de alarma y qué hacer, según Jorge Tartaglione",
+     "url": "https://www.lanacion.com.ar/sociedad/mareos-y-desmayos-cuando-son-una-senal-de-alarma-y-que-hacer-segun-jorge-tartaglione-nid04112026/",
+     "domain": "La Nación",
+     "seendate": "20261104T161657Z"
+    },
+    {
+     "title": "La guía definitiva para la visita del Papa: qué cambia en la ciudad y cómo afectará a vecinos y viajeros",
+     "url": "https://www.lanacion.com.ar/sociedad/la-guia-definitiva-para-la-visita-del-papa-que-cambia-en-la-ciudad-y-como-afectara-a-vecinos-y-nid04112026/",
+     "domain": "La Nación",
+     "seendate": "20261104T161430Z"
     },
     {
      "title": "Javier Milei y sus medidas, en vivo: el Presidente viaja a España y guarda silencio tras la elección intermedia en EE.UU.",
      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-viaja-a-espana-y-guarda-silencio-tras-la-eleccion-nid04112026/",
      "domain": "La Nación",
-     "seendate": "20261104T151938Z"
+     "seendate": "20261104T160931Z"
+    },
+    {
+     "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este miércoles 4 de noviembre, minuto a minuto",
+     "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid04112026/",
+     "domain": "La Nación",
+     "seendate": "20261104T160723Z"
+    },
+    {
+     "title": "El insólito recorrido de un proyecto de ley que Milei firmó de madrugada y pidió retirar tres días después",
+     "url": "https://www.lanacion.com.ar/politica/el-insolito-recorrido-de-un-proyecto-de-ley-que-milei-firmo-de-madrugada-y-pidio-retirar-tres-dias-nid04112026/",
+     "domain": "La Nación",
+     "seendate": "20261104T160217Z"
+    },
+    {
+     "title": "Viaje del papa León XIV a la Argentina: cuándo llega, las misas confirmadas y las últimas noticias",
+     "url": "https://www.lanacion.com.ar/sociedad/viaje-del-papa-leon-xiv-a-la-argentina-cuando-llega-las-misas-confirmadas-y-las-ultimas-noticias-nid04112026/",
+     "domain": "La Nación",
+     "seendate": "20261104T155003Z"
+    },
+    {
+     "title": "Ley de semillas: los multiplicadores reclaman un lugar en la mesa de debate con el Gobierno",
+     "url": "https://www.lanacion.com.ar/economia/campo/ley-de-semillas-los-multiplicadores-reclaman-un-lugar-en-la-mesa-de-debate-con-el-gobierno-nid04112026/",
+     "domain": "La Nación",
+     "seendate": "20261104T154905Z"
+    },
+    {
+     "title": "En medio de la interna del PJ, Kicillof y Máximo Kirchner dialogaron y dieron signos de acercamiento",
+     "url": "https://www.lanacion.com.ar/politica/en-medio-de-la-interna-del-pj-kicillof-y-maximo-kirchner-dialogaron-y-dieron-signos-de-acercamiento-nid04112026/",
+     "domain": "La Nación",
+     "seendate": "20261104T154711Z"
+    },
+    {
+     "title": "Qué pasó con Ueno Bank en Paraguay: todos los detalles del colapso que puso en alerta el sistema financiero",
+     "url": "https://www.lanacion.com.ar/economia/que-paso-con-ueno-bank-en-paraguay-todos-los-detalles-del-colapso-que-puso-en-alerta-el-sistema-nid04112026/",
+     "domain": "La Nación",
+     "seendate": "20261104T154424Z"
+    },
+    {
+     "title": "Javier Milei llegó otra vez a España para la Cumbre Iberoamericana y no tiene en agenda una cita con el rey",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-llega-otra-vez-a-espana-y-pidio-reunirse-con-el-rey-nid04112026/",
+     "domain": "La Nación",
+     "seendate": "20261104T154308Z"
+    },
+    {
+     "title": "Shock chino, energía cara y menos trabajadores, el diagnóstico europeo que deja lecciones más allá del Viejo Continente",
+     "url": "https://www.lanacion.com.ar/economia/shock-chino-energia-cara-y-menos-trabajadores-el-diagnostico-europeo-que-deja-lecciones-mas-alla-del-nid04112026/",
+     "domain": "La Nación",
+     "seendate": "20261104T153759Z"
+    },
+    {
+     "title": "Quiénes son las personas que agredieron a mujeres trans en los Bosques de Palermo y cómo sigue la investigación",
+     "url": "https://www.lanacion.com.ar/seguridad/quienes-son-las-personas-que-agredieron-a-mujeres-trans-en-los-bosques-de-palermo-y-como-sigue-la-nid04112026/",
+     "domain": "La Nación",
+     "seendate": "20261104T153329Z"
+    },
+    {
+     "title": "El escándalo de un banco digital ligado al presidente amenaza la reputación de Paraguay como polo de inversiones",
+     "url": "https://www.lanacion.com.ar/economia/el-escandalo-de-un-banco-digital-ligado-al-presidente-amenaza-la-reputacion-de-paraguay-como-polo-de-nid04112026/",
+     "domain": "La Nación",
+     "seendate": "20261104T153143Z"
+    },
+    {
+     "title": "Cómo sigue la salud de las dos jóvenes baleadas tras escapar de un control policial en Arrecifes",
+     "url": "https://www.lanacion.com.ar/seguridad/como-sigue-la-salud-de-las-dos-jovenes-baleadas-tras-escapar-de-un-control-policial-en-arrecifes-nid04112026/",
+     "domain": "La Nación",
+     "seendate": "20261104T153045Z"
+    },
+    {
+     "title": "Ataque homofóbico en Palermo: una fiscal pidió los registros fílmicos y busca testigos de las agresiones a mujeres trans",
+     "url": "https://www.lanacion.com.ar/seguridad/ataque-homofobico-en-palermo-una-fiscal-pidio-los-registros-filmicos-y-busca-testigos-de-las-nid04112026/",
+     "domain": "La Nación",
+     "seendate": "20261104T152123Z"
     },
     {
      "title": "Conrado Estol, neurólogo, advirtió sobre los riesgos de la pasividad en la vejez: “Estamos experimentando una transición sin precedentes”",
@@ -1549,18 +1669,6 @@
      "seendate": "20261104T151550Z"
     },
     {
-     "title": "Viaje del papa León XIV a la Argentina: cuándo llega, las misas confirmadas y las últimas noticias",
-     "url": "https://www.lanacion.com.ar/sociedad/viaje-del-papa-leon-xiv-a-la-argentina-cuando-llega-las-misas-confirmadas-y-las-ultimas-noticias-nid04112026/",
-     "domain": "La Nación",
-     "seendate": "20261104T151532Z"
-    },
-    {
-     "title": "Cómo sigue la salud de las dos jóvenes baleadas tras escapar de un control policial en Arrecifes",
-     "url": "https://www.lanacion.com.ar/seguridad/como-sigue-la-salud-de-las-dos-jovenes-baleadas-tras-escapar-de-un-control-policial-en-arrecifes-nid04112026/",
-     "domain": "La Nación",
-     "seendate": "20261104T151259Z"
-    },
-    {
      "title": "Patricia Bullrich reconoció los reclamos del campo por las retenciones y las leyes pendientes",
      "url": "https://www.lanacion.com.ar/economia/campo/patricia-bullrich-reconocio-los-reclamos-del-campo-por-las-retenciones-y-las-leyes-pendientes-nid04112026/",
      "domain": "La Nación",
@@ -1613,90 +1721,6 @@
      "url": "https://www.lanacion.com.ar/economia/sacude-a-paraguay-un-escandalo-financiero-que-le-impide-a-casi-tres-millones-de-personas-acceder-a-nid04112026/",
      "domain": "La Nación",
      "seendate": "20261104T143252Z"
-    },
-    {
-     "title": "Expectativa por la posibilidad de que un poderoso grupo peruano reactive dos plantas lácteas",
-     "url": "https://www.lanacion.com.ar/economia/campo/expectativa-por-la-posibilidad-de-que-un-poderoso-grupo-peruano-reactive-dos-plantas-lacteas-nid04112026/",
-     "domain": "La Nación",
-     "seendate": "20261104T142848Z"
-    },
-    {
-     "title": "Una exministra provincial renunció a Argentinos por la Educación tras la reunión de la ONG con Milei",
-     "url": "https://www.lanacion.com.ar/politica/una-exministra-provincial-renuncio-a-argentinos-por-la-educacion-tras-la-reunion-de-la-ong-con-milei-nid04112026/",
-     "domain": "La Nación",
-     "seendate": "20261104T142821Z"
-    },
-    {
-     "title": "Del cajero al QR: las extracciones de efectivo cayeron a un mínimo histórico en la Argentina",
-     "url": "https://www.lanacion.com.ar/economia/del-cajero-al-qr-las-extracciones-de-efectivo-cayeron-a-un-minimo-historico-en-la-argentina-nid04112026/",
-     "domain": "La Nación",
-     "seendate": "20261104T142805Z"
-    },
-    {
-     "title": "Indagaron a los hermanos Kovalivker, de la droguería Suizo Argentina: se negaron a declarar y presentaron escritos",
-     "url": "https://www.lanacion.com.ar/politica/indagan-a-jonathan-kovalivker-uno-de-los-duenos-de-la-drogueria-suizo-argentina-nid04112026/",
-     "domain": "La Nación",
-     "seendate": "20261104T140938Z"
-    },
-    {
-     "title": "Súper Niño: entró en alerta naranja una de las zonas más castigadas por las crecidas del Paraná",
-     "url": "https://www.lanacion.com.ar/sociedad/super-nino-entro-en-alerta-naranja-una-de-las-zonas-mas-castigadas-por-las-crecidas-del-parana-nid04112026/",
-     "domain": "La Nación",
-     "seendate": "20261104T140934Z"
-    },
-    {
-     "title": "Javier Álvarez Bento denuncia la pérdida de más de 5000 hectáreas por un basural a cielo abierto: “Paren de tirar”",
-     "url": "https://www.lanacion.com.ar/economia/campo/javier-alvarez-bento-denuncia-la-perdida-de-mas-de-5000-hectareas-por-un-basural-a-cielo-abierto-nid04112026/",
-     "domain": "La Nación",
-     "seendate": "20261104T140349Z"
-    },
-    {
-     "title": "Es oficial: el mapa de cortes de ruta por la visita del Papa León XIV a la Argentina",
-     "url": "https://www.lanacion.com.ar/sociedad/es-oficial-el-mapa-de-cortes-de-ruta-por-la-visita-del-papa-leon-xiv-a-la-argentina-nid04112026/",
-     "domain": "La Nación",
-     "seendate": "20261104T140221Z"
-    },
-    {
-     "title": "Encontraron un video de las torturas a las que fueron sometidas las víctimas del triple crimen de Florencio Varela",
-     "url": "https://www.lanacion.com.ar/seguridad/encontraron-un-video-de-las-torturas-a-las-que-fueron-sometidas-las-victimas-del-triple-crimen-de-nid04112026/",
-     "domain": "La Nación",
-     "seendate": "20261104T140043Z"
-    },
-    {
-     "title": "Hay alerta naranja y amarilla por tormentas para este miércoles 4 de noviembre: las provincias afectadas",
-     "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-naranja-y-amarilla-por-tormentas-para-este-miercoles-4-de-noviembre-las-provincias-nid04112026/",
-     "domain": "La Nación",
-     "seendate": "20261104T135959Z"
-    },
-    {
-     "title": "El irónico posteo de Cristina Kirchner tras los resultados de las elecciones en Estados Unidos: “Beautiful morning”",
-     "url": "https://www.lanacion.com.ar/politica/el-posteo-de-cristina-kirchner-tras-los-resultados-de-las-elecciones-en-estados-unidos-beautiful-nid04112026/",
-     "domain": "La Nación",
-     "seendate": "20261104T135755Z"
-    },
-    {
-     "title": "Jorge Macri condenó el ataque contra mujeres trans en Palermo y la oposición atribuyó la agresión a “discursos de odio”",
-     "url": "https://www.lanacion.com.ar/politica/referentes-de-la-politica-repudiaron-el-ataque-a-las-mujeres-trans-en-los-bosques-de-palermo-lo-nid03112026/",
-     "domain": "La Nación",
-     "seendate": "20261104T135226Z"
-    },
-    {
-     "title": "Cortes, desvíos y restricciones: se amplía el operativo por la visita de León XIV y cierran más calles en Palermo",
-     "url": "https://www.lanacion.com.ar/sociedad/cortes-desvios-y-restricciones-se-amplia-el-operativo-por-la-visita-de-leon-xiv-y-cierran-mas-calles-nid04112026/",
-     "domain": "La Nación",
-     "seendate": "20261104T134618Z"
-    },
-    {
-     "title": "“No hay una sola Argentina”: Sica y Malamud analizan cómo llega la economía a 2027, el impacto de Brasil y la “apuesta” de Milei",
-     "url": "https://www.lanacion.com.ar/economia/no-hay-una-sola-argentina-sica-y-malamud-analizan-como-llega-la-economia-a-2027-el-impacto-de-brasil-nid01112026/",
-     "domain": "La Nación",
-     "seendate": "20261104T134152Z"
-    },
-    {
-     "title": "Un rugbier argentino de 34 años murió en Australia y su familia organiza una colecta para despedirlo",
-     "url": "https://www.lanacion.com.ar/sociedad/un-rugbier-argentino-de-34-anos-murio-en-australia-y-su-familia-organiza-una-colecta-para-despedirlo-nid04112026/",
-     "domain": "La Nación",
-     "seendate": "20261104T133039Z"
     }
    ]
   },
@@ -1731,16 +1755,34 @@
   "PRY": {
    "articles": [
     {
+     "title": "Caso Ueno Bank: abogado apunta a Peña como responsable del “mayor saqueo”",
+     "url": "https://www.abc.com.py/nacionales/2026/11/04/caso-ueno-bank-abogado-apunta-a-pena-como-responsable-del-mayor-saqueo/",
+     "domain": "ABC Color",
+     "seendate": "20261104T161103Z"
+    },
+    {
+     "title": "Miguel Vázquez, el unicornio que no pudo ser: una mansión, vehículos de alta gama y un mundo de lujos",
+     "url": "https://www.abc.com.py/nacionales/2026/11/04/miguel-vazquez-el-unicornio-que-no-pudo-ser-una-mansion-vehiculos-de-alta-gama-y-un-mundo-de-lujos/",
+     "domain": "ABC Color",
+     "seendate": "20261104T155344Z"
+    },
+    {
+     "title": "Alto Paraguay: cuatro intendentes colorados, un mismo desafío tras décadas de abandono",
+     "url": "https://www.abc.com.py/nacionales/chaco/2026/11/04/alto-paraguay-cuatro-intendentes-colorados-un-mismo-desafio-tras-decadas-de-abandono/",
+     "domain": "ABC Color",
+     "seendate": "20261104T154415Z"
+    },
+    {
+     "title": "Sancionan al juez Osmar Legal por hacer “infidencias” en programa de TV",
+     "url": "https://www.abc.com.py/nacionales/2026/11/04/sancionan-al-juez-osmar-legal-por-contar-infidencias-en-programa-de-tv/",
+     "domain": "ABC Color",
+     "seendate": "20261104T153312Z"
+    },
+    {
      "title": "IPS pide calma a jubilados: “Ueno Bank solo tiene el 9% de los activos”",
      "url": "https://www.abc.com.py/nacionales/2026/11/04/ips-pide-calma-a-jubilados-ueno-bank-solo-tiene-el-9-de-los-activos/",
      "domain": "ABC Color",
      "seendate": "20261104T144723Z"
-    },
-    {
-     "title": "Guillermo Moral: frenan sobreseimiento de supuesto financista del sicariato",
-     "url": "https://www.abc.com.py/nacionales/2026/11/04/guillermo-moral-frenan-sobreseimiento-de-supuesto-financista-del-sicariato/",
-     "domain": "ABC Color",
-     "seendate": "20261104T140431Z"
     }
    ]
   },
