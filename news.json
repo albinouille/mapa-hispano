@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-05T07:08:04+00:00",
+ "updated": "2026-11-05T08:37:48+00:00",
  "countries": {
   "ESP": {
    "articles": [
     {
-     "title": "El Instituto Catalán de Finanzas vehiculará líneas de crédito del ICO",
-     "url": "https://elpais.com/espana/catalunya/2026-11-05/el-instituto-catalan-de-finanzas-vehiculara-lineas-de-credito-del-ico.html",
+     "title": "Última hora de la Cumbre Iberoamericana, en directo | Sánchez saluda con frialdad a Milei a su llegada a la reunión",
+     "url": "https://elpais.com/espana/2026-11-05/ultima-hora-de-la-cumbre-iberoamericana-de-madrid-en-directo.html",
      "domain": "El País",
-     "seendate": "20261105T050000Z"
+     "seendate": "20261105T083024Z"
     },
     {
      "title": "Las vidas que se pararon para siempre en Urda",
@@ -58,16 +58,22 @@
      "seendate": "20261104T230100Z"
     },
     {
-     "title": "El Rey inaugura la XXX Cumbre Iberoamericana alabando que la comunidad de naciones “franquea el acceso a un espacio de mayor libertad y prosperidad”",
-     "url": "https://elpais.com/espana/2026-11-04/el-rey-inaugura-la-primera-jornada-de-la-xxx-cumbre-iberoamericana-en-madrid.html",
+     "title": "El DHub dedica una retrospectiva a Asunción Bastida, la desconocida “Chanel española”",
+     "url": "https://elpais.com/espana/catalunya/2026-11-04/el-dhub-dedica-una-retrospectiva-a-asuncion-bastida-la-desconocida-chanel-espanola.html",
      "domain": "El País",
-     "seendate": "20261104T201715Z"
+     "seendate": "20261104T190544Z"
     },
     {
      "title": "Adif advierte de que la vía en el punto del siniestro de Adamuz vuelve a presentar deformaciones",
      "url": "https://elpais.com/espana/2026-11-04/adif-advierte-de-que-la-via-en-el-punto-del-siniestro-de-adamuz-vuelve-a-presentar-deformaciones.html",
      "domain": "El País",
      "seendate": "20261104T182025Z"
+    },
+    {
+     "title": "Madrid encara la fase final de las obras de la A-5: unir el túnel nuevo con la M-30 para abrirlo el 23 de diciembre",
+     "url": "https://elpais.com/espana/madrid/2026-11-04/madrid-encara-la-fase-final-de-las-obras-de-la-a-5-unir-el-tunel-nuevo-con-la-m-30-para-abrir-el-23-de-diciembre.html",
+     "domain": "El País",
+     "seendate": "20261104T172555Z"
     },
     {
      "title": "Un camión invade la acera y arrolla a cinco operarios junto a Mercamadrid",
@@ -330,12 +336,6 @@
      "url": "https://www.eluniversal.com.mx/estados/bloqueos-retrasan-llegada-de-750-animales-a-feria-yucatan-xmatkuil-2026-habilitan-rancho-para-resguardarlos/",
      "domain": "El Universal",
      "seendate": "20261104T223520Z"
-    },
-    {
-     "title": "Secretaría de las Mujeres de CDMX denunciará a jueces que no actúen con perspectiva de género; harán uso del Tribunal de Disciplina Judicial, dice",
-     "url": "https://www.eluniversal.com.mx/metropoli/secretaria-de-las-mujeres-de-cdmx-denunciara-a-jueces-que-no-actuen-con-perspectiva-de-genero-haran-uso-del-tribunal-de-disciplina-judicial-dice/",
-     "domain": "El Universal",
-     "seendate": "20261104T223302Z"
     },
     {
      "title": "Semovi planea extender Ecobici a Tláhuac y Xochimilco; no se cubrirá la totalidad de las demarcaciones, aclara",
@@ -778,6 +778,12 @@
   "CRI": {
    "articles": [
     {
+     "title": "Laura Fernández prioriza reformas constitucionales para permitir la reelección presidencial consecutiva y eliminar el control previo de la Contraloría",
+     "url": "https://www.nacion.com/politica/laura-fernandez-prioriza-reformas-constitucionales/ZFF326XA4NADXKILWRGYKFRV6U/story/",
+     "domain": "La Nación",
+     "seendate": "20261105T073000Z"
+    },
+    {
      "title": "Vicepresidente estaba plenamente enterado de la reunión por la que Laura Fernández despidió al excanciller Manuel Tovar; hasta ayudó a redactar la declaración",
      "url": "https://www.nacion.com/politica/vicepresidente-estaba-plenamente-enterado-de-la/SGBHSZY7OVAN3IR4GLZGBJV5XA/story/",
      "domain": "La Nación",
@@ -1141,16 +1147,34 @@
   "COL": {
    "articles": [
     {
+     "title": "¡Pilas, conductor! Pico y placa en Cali para el jueves 5 de noviembre de 2026: así opera la medida de movilidad",
+     "url": "https://www.eltiempo.com/colombia/cali/pilas-conductor-pico-y-placa-en-cali-para-el-jueves-5-de-noviembre-de-2026-asi-opera-la-medida-de-movilidad-3598384",
+     "domain": "El Tiempo",
+     "seendate": "20261105T073100Z"
+    },
+    {
+     "title": "¡Evite multas, conductor! Pico y placa en Bucaramanga para este jueves 5 de noviembre de 2026: estos vehículos no pueden circular",
+     "url": "https://www.eltiempo.com/colombia/santander/evite-multas-conductor-pico-y-placa-en-bucaramanga-para-este-jueves-5-de-noviembre-de-2026-estos-vehiculos-no-pueden-circular-3598389",
+     "domain": "El Tiempo",
+     "seendate": "20261105T073000Z"
+    },
+    {
+     "title": "Pico y placa en Pereira para este jueves 5 de noviembre de 2026: estos carros y motos tienen restricción",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/pico-y-placa-en-pereira-para-este-jueves-5-de-noviembre-de-2026-estos-carros-y-motos-tienen-restriccion-3598387",
+     "domain": "El Tiempo",
+     "seendate": "20261105T073000Z"
+    },
+    {
+     "title": "Pico y placa en Medellín para el jueves 5 de noviembre de 2026: placas que tienen restricción y horarios",
+     "url": "https://www.eltiempo.com/colombia/medellin/pico-y-placa-en-medellin-para-el-jueves-5-de-noviembre-de-2026-placas-que-tienen-restriccion-y-horarios-3598381",
+     "domain": "El Tiempo",
+     "seendate": "20261105T073000Z"
+    },
+    {
      "title": "Indignación por caso de adulto mayor que fue hallado atado de pies y manos en un lote en Manizales: víctima presentaba heridas en la cara y los brazos",
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/indignacion-por-caso-de-adulto-mayor-que-fue-hallado-atado-de-pies-y-manos-en-un-lote-en-manizales-victima-presentaba-heridas-en-la-cara-y-los-brazos-3598460",
      "domain": "El Tiempo",
      "seendate": "20261105T034000Z"
-    },
-    {
-     "title": "Cada mes desaparecen 14 mujeres en Cali: ¿por qué este es un flagelo que no da tregua en la capital del Valle del Cauca?",
-     "url": "https://www.eltiempo.com/colombia/cali/cada-mes-desaparecen-14-mujeres-en-cali-por-que-este-es-un-flagelo-que-no-da-tregua-en-la-capital-del-valle-del-cauca-3598524",
-     "domain": "El Tiempo",
-     "seendate": "20261105T030443Z"
     },
     {
      "title": "Banco de Occidente celebró el Premio Planeta Azul 2026: estos son los proyectos que transforman la gestión del agua en Colombia",
@@ -1171,12 +1195,6 @@
      "seendate": "20261105T020036Z"
     },
     {
-     "title": "Avión privado se salió de la pista al aterrizar en el Aeropuerto Ernesto Cortissoz de Barranquilla: Aerocivil confirmó que fue retirado",
-     "url": "https://www.eltiempo.com/colombia/barranquilla/avion-privado-se-salio-de-la-pista-al-aterrizar-en-el-aeropuerto-ernesto-cortissoz-de-barranquilla-aerocivil-confirmo-que-fue-retirado-3598527",
-     "domain": "El Tiempo",
-     "seendate": "20261104T233115Z"
-    },
-    {
      "title": "Así era el millonario negocio del oro ilegal del que se lucraban las disidencias en Tolima: destruyeron 12 excavadoras utilizadas en la extracción",
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/asi-era-el-millonario-negocio-del-oro-ilegal-del-que-se-lucran-las-disidencias-en-tolima-destruyeron-12-excavadoras-utilizadas-en-la-extraccion-3598530",
      "domain": "El Tiempo",
@@ -1187,18 +1205,6 @@
      "url": "https://www.eltiempo.com/colombia/barranquilla/rosario-heins-regresa-a-barranquilla-por-sus-50-anos-de-carrera-trae-una-exposicion-que-recorre-la-evolucion-de-su-mirada-entre-el-caribe-y-francia-3598504",
      "domain": "El Tiempo",
      "seendate": "20261104T230100Z"
-    },
-    {
-     "title": "¡Peajes en el Eje Cafetero a 700 pesos! Ya empezó a operar el descuento y así funcionará",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/peajes-en-el-eje-cafetero-a-700-pesos-ya-empezo-a-operar-el-descuento-y-asi-funcionara-3598520",
-     "domain": "El Tiempo",
-     "seendate": "20261104T220920Z"
-    },
-    {
-     "title": "Tragedia en Soledad, Atlántico: rescatan a niña arrastrada por el arroyo El Salao; su abuelo y una menor de 3 años siguen desaparecidos",
-     "url": "https://www.eltiempo.com/colombia/barranquilla/tragedia-en-soledad-atlantico-rescatan-a-nina-arrastrada-por-el-arroyo-el-salao-su-abuelo-y-una-menor-de-3-anos-siguen-desaparecidos-3598510",
-     "domain": "El Tiempo",
-     "seendate": "20261104T215308Z"
     }
    ]
   },
@@ -1438,7 +1444,7 @@
      "title": "Lluvias en Perú EN VIVO: Regiones en alerta roja y pronóstico del Senamhi para hoy",
      "url": "https://elcomercio.pe/peru/lluvias-en-peru-por-el-nino-en-vivo-hoy-regiones-en-alerta-lluvias-y-pronostico-de-senamhi-lbposting-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261105T050006Z"
+     "seendate": "20261105T080106Z"
     },
     {
      "title": "Temblor en Perú hoy, miércoles 4 de noviembre: dónde fue el sismo y magnitud según IGP",
@@ -1555,16 +1561,28 @@
   "ARG": {
    "articles": [
     {
+     "title": "Javier Milei y sus medidas, en vivo: el Presidente le envió un mensaje al papa León XIV antes de su viaje a la Argentina",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-le-envio-un-mensaje-al-papa-leon-xiv-antes-de-su-nid05112026/",
+     "domain": "La Nación",
+     "seendate": "20261105T080000Z"
+    },
+    {
+     "title": "Daniel López Rosetti, médico: “La resiliencia no es cicatrizar”",
+     "url": "https://www.lanacion.com.ar/sociedad/daniel-lopez-rosetti-medico-la-resiliencia-no-es-cicatrizar-nid05112026/",
+     "domain": "La Nación",
+     "seendate": "20261105T080000Z"
+    },
+    {
+     "title": "Gabriel Rolón, sobre la felicidad y el pasado: “A veces uno desea más haber sido feliz que ser feliz”",
+     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-sobre-la-felicidad-y-el-pasado-a-veces-uno-desea-mas-haber-sido-feliz-que-ser-feliz-nid05112026/",
+     "domain": "La Nación",
+     "seendate": "20261105T080000Z"
+    },
+    {
      "title": "Por qué las siestas largas no compensan la falta de sueño, según los neurólogos",
      "url": "https://www.lanacion.com.ar/sociedad/por-que-las-siestas-largas-no-compensan-la-falta-de-sueno-segun-los-neurologos-nid05112026/",
      "domain": "La Nación",
      "seendate": "20261105T070000Z"
-    },
-    {
-     "title": "Javier Milei y sus medidas, en vivo: el Presidente le envió un mensaje al papa León XIV antes de su viaje a la Argentina",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-le-envio-un-mensaje-al-papa-leon-xiv-antes-de-su-nid05112026/",
-     "domain": "La Nación",
-     "seendate": "20261105T065811Z"
     },
     {
      "title": "Se complica la chequera de Estados Unidos",
@@ -1729,18 +1747,6 @@
      "url": "https://www.abc.com.py/nacionales/2026/11/04/video-policia-reprime-con-gas-pimienta-y-balines-a-manifestantes-en-asuncion/",
      "domain": "ABC Color",
      "seendate": "20261105T004001Z"
-    },
-    {
-     "title": "Central: asumieron los 19 intendentes y estos son los desafíos que enfrentarán en sus municipios",
-     "url": "https://www.abc.com.py/nacionales/2026/11/04/central-asumieron-los-19-intendentes-y-estos-son-los-desafios-que-enfrentaran-en-sus-municipios/",
-     "domain": "ABC Color",
-     "seendate": "20261105T002650Z"
-    },
-    {
-     "title": "Caso Ueno Bank: ciudadanos exigen juicio a Peña y Alliana en segundo día de protesta",
-     "url": "https://www.abc.com.py/nacionales/2026/11/04/caso-ueno-bank-ciudadanos-exigen-juicio-a-pena-y-alliana-en-segundo-dia-de-protesta/",
-     "domain": "ABC Color",
-     "seendate": "20261104T224732Z"
     }
    ]
   },
@@ -1808,36 +1814,6 @@
      "url": "https://oglobo.globo.com/politica/noticia/2026/11/05/aliados-de-lula-fazem-rodada-de-conversas-com-centrao-por-espaco-no-governo-e-cobram-maior-fidelidade-no-congresso.ghtml",
      "domain": "O Globo",
      "seendate": "20261105T063000Z"
-    },
-    {
-     "title": "Relator admite negociar crimes abrangidos pela redução da maioridade penal e defende prisão separada para adolescentes",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/11/05/relator-admite-negociar-crimes-abrangidos-pela-reducao-da-maioridade-penal-e-defende-prisao-separada-para-adolescentes.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261105T030001Z"
-    },
-    {
-     "title": "Flávio discursará nos EUA em evento de aliados de Trump ao lado de ator que interpreta Bolsonaro em ‘Dark Horse’",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/11/05/flavio-discursara-nos-eua-em-evento-de-aliados-de-trump-ao-lado-de-ator-que-interpreta-bolsonaro-em-dark-horse.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261105T030001Z"
-    },
-    {
-     "title": "Alcolumbre e Marinho intensificam campanha à presidência do Senado com indiretas e troca de farpas",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/11/05/alcolumbre-e-marinho-intensificam-campanha-a-presidencia-do-senado-com-indiretas-e-troca-de-farpas.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261105T030001Z"
-    },
-    {
-     "title": "PGR deve recomendar que STF recuse pedido de revisão criminal de Bolsonaro e refutar argumentos que citam caso Master",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/11/05/pgr-deve-recomendar-que-stf-recuse-pedido-de-revisao-criminal-de-bolsonaro-e-refutar-argumentos-que-citam-caso-master.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261105T030000Z"
-    },
-    {
-     "title": "TSE volta a julgar candidaturas laranjas e pode fixar tese para preservar mandato de mulheres quando há fraude em chapas",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/11/05/tse-volta-a-julgar-candidaturas-laranjas-e-pode-fixar-tese-para-preservar-mandato-de-mulheres-quando-ha-fraude-em-chapas.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261105T030000Z"
     }
    ]
   }
