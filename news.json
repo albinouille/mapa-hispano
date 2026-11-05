@@ -1,19 +1,19 @@
 {
- "updated": "2026-11-05T15:29:09+00:00",
+ "updated": "2026-11-05T16:37:58+00:00",
  "countries": {
   "ESP": {
    "articles": [
+    {
+     "title": "Los últimos presupuestos del Gobierno de Almeida destinarán 248 millones a vivienda, un 3,6% del total",
+     "url": "https://elpais.com/espana/madrid/2026-11-05/los-ultimos-presupuestos-del-gobierno-de-almeida-destinaran-248-millones-a-vivienda-un-36-del-gasto-total.html",
+     "domain": "El País",
+     "seendate": "20261105T154454Z"
+    },
     {
      "title": "La Junta Electoral permite tachar el nombre de Puente de la papeleta del PSOE en Valladolid para el 29-N",
      "url": "https://elpais.com/espana/2026-11-05/la-junta-electoral-permite-tachar-el-nombre-de-puente-de-la-papeleta-del-psoe-en-valladolid-para-el-29-n.html",
      "domain": "El País",
      "seendate": "20261105T150340Z"
-    },
-    {
-     "title": "Los últimos presupuestos del Gobierno de Almeida destinarán 248 millones a vivienda, un 3,6% del total",
-     "url": "https://elpais.com/espana/madrid/2026-11-05/los-ultimos-presupuestos-del-gobierno-de-almeida-destinaran-248-millones-a-vivienda-un-36-del-gasto-total.html",
-     "domain": "El País",
-     "seendate": "20261105T145533Z"
     },
     {
      "title": "Milei homologa el socialismo con el fascismo pero evita el ataque personal contra Pedro Sánchez",
@@ -34,7 +34,7 @@
      "seendate": "20261105T142014Z"
     },
     {
-     "title": "Localizados en Portugal dos de los menores supuestamente vendidos por una trama en Badajoz",
+     "title": "Dos de los menores vendidos por la presunta trama de compraventa en Badajoz y Jaén son localizados en Portugal",
      "url": "https://elpais.com/espana/2026-11-05/localizados-en-portugal-dos-de-los-menores-supuestamente-vendidos-por-una-trama-en-badajoz.html",
      "domain": "El País",
      "seendate": "20261105T140158Z"
@@ -140,6 +140,54 @@
   "MEX": {
    "articles": [
     {
+     "title": "Sheinbaum no descarta recorte al presupuesto del INE para 2027; reducción depende del Congreso, explica",
+     "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-no-descarta-recorte-al-presupuesto-del-ine-para-2027-reduccion-depende-del-congreso-explica/",
+     "domain": "El Universal",
+     "seendate": "20261105T162112Z"
+    },
+    {
+     "title": "Así estará el clima hoy en CDMX; pronostican ambiente caluroso",
+     "url": "https://www.eluniversal.com.mx/metropoli/asi-estara-el-clima-hoy-en-cdmx-pronostican-ambiente-caluroso/",
+     "domain": "El Universal",
+     "seendate": "20261105T160727Z"
+    },
+    {
+     "title": "Descubren a hombre pescando ilegalmente pulpos en sistema arrecifal de Veracruz; aseguran 25 ejemplares",
+     "url": "https://www.eluniversal.com.mx/estados/descubren-a-hombre-pescando-ilegalmente-pulpos-en-sistema-arrecifal-de-veracruz-aseguran-25-ejemplares/",
+     "domain": "El Universal",
+     "seendate": "20261105T155243Z"
+    },
+    {
+     "title": "Sheinbaum presume que clan Taddei sigue en México; descarta que hermanos Casillas laven dinero para el crimen organizado",
+     "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-presume-que-clan-taddei-sigue-en-mexico-descarta-que-hermanos-casillas-laven-dinero-para-el-crimen-organizado/",
+     "domain": "El Universal",
+     "seendate": "20261105T155218Z"
+    },
+    {
+     "title": "Duopolio en el INE no surgió con Taddei, asegura Sheinbaum; \"¿por qué no hizo nada Lorenzo Córdova?\", vuelve a cuestionar",
+     "url": "https://www.eluniversal.com.mx/nacion/duopolio-en-el-ine-no-surgio-con-taddei-asegura-sheinbaum-por-que-no-hizo-nada-lorenzo-cordova-vuelve-a-cuestionar/",
+     "domain": "El Universal",
+     "seendate": "20261105T155040Z"
+    },
+    {
+     "title": "Estas son las marchas previstas para este 5 de noviembre; exigen localización de joven desaparecida en 2017",
+     "url": "https://www.eluniversal.com.mx/metropoli/estas-son-las-marchas-previstas-para-este-5-de-noviembre-exigen-localizacion-de-joven-desaparecida-en-2017/",
+     "domain": "El Universal",
+     "seendate": "20261105T154908Z"
+    },
+    {
+     "title": "Detienen en la GAM a presunto integrante de una banda dedicada al robo de vehículos; lo vinculan con dos asaltos en Tlalnepantla",
+     "url": "https://www.eluniversal.com.mx/metropoli/detienen-en-la-gam-a-presunto-integrante-de-una-banda-dedicada-al-robo-de-vehiculos-lo-vinculan-con-dos-asaltos-en-tlalnepantla/",
+     "domain": "El Universal",
+     "seendate": "20261105T154651Z"
+    },
+    {
+     "title": "Sheinbaum plantea encuentro con Trump en cumbre de la APEC en China; presidente de EU no ha confirmado asistencia",
+     "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-plantea-encuentro-con-trump-en-cumbre-de-la-apec-en-china-presidente-de-eu-no-ha-confirmado-asistencia/",
+     "domain": "El Universal",
+     "seendate": "20261105T152834Z"
+    },
+    {
      "title": "Muere futbolista durante partido amateur en Los Cabos; investigan las causas",
      "url": "https://www.eluniversal.com.mx/estados/muere-futbolista-durante-partido-amateur-en-los-cabos-investigan-las-causas/",
      "domain": "El Universal",
@@ -240,12 +288,6 @@
      "url": "https://www.eluniversal.com.mx/metropoli/hotel-novit-un-caso-de-despojo-que-no-es-despojo/",
      "domain": "El Universal",
      "seendate": "20261105T102513Z"
-    },
-    {
-     "title": "Busca INE auditorías externas y de la propia ASF",
-     "url": "https://www.eluniversal.com.mx/nacion/busca-ine-auditorias-externas-y-de-la-propia-asf/",
-     "domain": "El Universal",
-     "seendate": "20261105T094417Z"
     }
    ]
   },
@@ -670,6 +712,12 @@
   "CRI": {
    "articles": [
     {
+     "title": "MEP hace ajuste de cinco puntos a calificaciones de pruebas nacionales en colegios técnicos: qué se sabe de la medida",
+     "url": "https://www.nacion.com/el-pais/mep-hace-ajuste-de-cinco-puntos-a-calificaciones/PYLY62LNPZCN3E3T3HPMV7ASWI/story/",
+     "domain": "La Nación",
+     "seendate": "20261105T153045Z"
+    },
+    {
      "title": "Lanamme confirma: peatones evitan reciente puente que une Hatillo 7 y Hatillo 8 y cruzan Circunvalación a nivel de calle",
      "url": "https://www.nacion.com/el-pais/lanamme-confirma-peatones-evitan-reciente-puente/6MSFMBEGTZG6PECE3LPGAUGATU/story/",
      "domain": "La Nación",
@@ -776,18 +824,6 @@
      "url": "https://www.nacion.com/politica/fiscalia-abre-investigacion-por-compra-a-dedo-de/7CZNCHDBVJA5DA3T5RSXDJCYDQ/story/",
      "domain": "La Nación",
      "seendate": "20261104T215832Z"
-    },
-    {
-     "title": "Iglesia católica advierte que falta de ¢492,9 millones amenaza continuidad del TEC en Limón",
-     "url": "https://www.nacion.com/el-pais/iglesia-catolica-advierte-que-falta-de-4929/SMO6VEAQ4JB2TLB23ALTQBPH5Y/story/",
-     "domain": "La Nación",
-     "seendate": "20261104T202456Z"
-    },
-    {
-     "title": "Financistas de campaña de Laura Fernández están vinculados a empresa brasileña que ganó millonario contrato a dedo para suministrar ambulancias",
-     "url": "https://www.nacion.com/politica/representante-y-fiscal-de-la-empresa-brasilena-que/UQLJHPJZOVG3DPYAQQ632SYW3Y/story/",
-     "domain": "La Nación",
-     "seendate": "20261104T190245Z"
     }
    ]
   },
@@ -890,18 +926,6 @@
      "seendate": "20261103T182254Z"
     },
     {
-     "title": "Monseñor Ulloa pide no abandonar a los afectados por el terremoto: ‘las necesidades no tienen calendario electoral’",
-     "url": "https://www.prensa.com/politica/monsenor-ulloa-pide-no-abandonar-a-los-afectados-por-el-terremoto/",
-     "domain": "La Prensa",
-     "seendate": "20261103T152002Z"
-    },
-    {
-     "title": "Seis empresas muestran interés en reconstruir el edificio Juan Ramón Poll",
-     "url": "https://www.prensa.com/sociedad/seis-empresas-muestran-interes-en-reconstruir-el-edificio-juan-ramon-poll/",
-     "domain": "La Prensa",
-     "seendate": "20261103T042500Z"
-    },
-    {
      "title": "Ciudadanos de estas nacionalidades siguen desafiando la travesía de cruzar el tapón de Darién",
      "url": "https://www.prensa.com/sociedad/ciudadanos-de-estas-nacionalidades-siguen-desafiando-la-travesia-de-cruzar-el-tapon-de-darien/",
      "domain": "La Prensa",
@@ -911,6 +935,12 @@
   },
   "CUB": {
    "articles": [
+    {
+     "title": "Una victoria judicial de Chen Zhi, el socio de Habanos S.A. detenido en China, complica la situación",
+     "url": "https://www.14ymedio.com/cuba/victoria-judicial-chen-zhi-socio_1_1132863.html",
+     "domain": "14ymedio",
+     "seendate": "20261105T160916Z"
+    },
     {
      "title": "Yoani Sánchez, secuestrada por la policía política en La Habana",
      "url": "https://www.14ymedio.com/cuba/yoani-sanchez-secuestrada-policia-politica-habana_1_1132860.html",
@@ -1002,6 +1032,12 @@
      "seendate": "20261101T142439Z"
     },
     {
+     "title": "Trump ya no tiene tanta prisa para acabar con el régimen cubano: \"dos años y medio o menos\"",
+     "url": "https://www.14ymedio.com/cuba/trump-no-prisa-acabar-regimen_1_1132680.html",
+     "domain": "14ymedio",
+     "seendate": "20261031T171803Z"
+    },
+    {
      "title": "Un jugador de un club italiano lidera a Cuba en el Mundial Sub 15 de fútbol",
      "url": "https://www.14ymedio.com/cuba/jugador-club-italiano-lidera-cuba_1_1132678.html",
      "domain": "14ymedio",
@@ -1015,16 +1051,52 @@
   "COL": {
    "articles": [
     {
+     "title": "Imágenes de Volare Mare, megaproyecto urbanístico que se cayó por segunda vez; así se iba a ver la isla artificial, estilo Dubái, en Cartagena",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/imagenes-de-volare-mare-megaproyecto-urbanistico-que-se-cayo-por-segunda-vez-asi-se-iba-a-ver-la-isla-artificial-estilo-dubai-en-cartagena-3598698",
+     "domain": "El Tiempo",
+     "seendate": "20261105T161647Z"
+    },
+    {
+     "title": "Así se alista Barranquilla para recibir la final de la Copa Sudamericana entre Boca Juniors y Atlético Mineiro en el renovado estadio Metropolitano",
+     "url": "https://www.eltiempo.com/colombia/barranquilla/asi-se-alista-barranquilla-para-recibir-la-final-de-la-copa-sudamericana-entre-boca-juniors-y-atletico-mineiro-en-el-renovado-estadio-metropolitano-3598708",
+     "domain": "El Tiempo",
+     "seendate": "20261105T161334Z"
+    },
+    {
+     "title": "Identifican a las dos víctimas mortales de un ataque sicarial en un hotel del norte de Cali; una joven de 19 años y un hombre de 61 resultaron heridos",
+     "url": "https://www.eltiempo.com/colombia/cali/identifican-a-las-dos-victimas-mortales-de-un-ataque-sicarial-en-un-hotel-del-norte-de-cali-una-joven-de-19-anos-y-un-hombre-de-61-resultaron-heridos-3598696",
+     "domain": "El Tiempo",
+     "seendate": "20261105T155854Z"
+    },
+    {
+     "title": "Festival de la Leyenda Vallenata 2027: polémica por decisión de cambiar el diseño del afiche elegido para sus 60 años después de una convocatoria",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/festival-de-la-leyenda-vallenata-2027-polemica-por-decision-de-cambiar-el-diseno-del-afiche-elegido-para-sus-60-anos-despues-de-una-convocatoria-3598706",
+     "domain": "El Tiempo",
+     "seendate": "20261105T155632Z"
+    },
+    {
+     "title": "El Hospital Alma Máter de Antioquia enfrenta una grave crisis por deudas de más de 455.000 millones de pesos: 522 profesionales han renunciado",
+     "url": "https://www.eltiempo.com/colombia/medellin/el-hospital-alma-mater-de-antioquia-enfrenta-una-grave-crisis-por-deudas-de-mas-de-455-000-millones-de-pesos-522-profesionales-han-renunciado-3598665",
+     "domain": "El Tiempo",
+     "seendate": "20261105T153812Z"
+    },
+    {
+     "title": "Comisión Primera del Senado aprueba por unanimidad la creación de la Región Entidad Territorial, RET, Caribe",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/comision-primera-del-senado-aprueba-por-unanimidad-la-creacion-de-la-region-entidad-territorial-ret-caribe-3598689",
+     "domain": "El Tiempo",
+     "seendate": "20261105T153707Z"
+    },
+    {
+     "title": "Poncho Zuleta recibe incapacidad médica de 21 días y suspende sus presentaciones para acompañar a su hijo Kbeto tras el accidente",
+     "url": "https://www.eltiempo.com/colombia/barranquilla/poncho-zuleta-recibe-incapacidad-medica-de-21-dias-y-suspende-sus-presentaciones-para-acompanar-a-su-hijo-kbeto-tras-el-accidente-3598675",
+     "domain": "El Tiempo",
+     "seendate": "20261105T151526Z"
+    },
+    {
      "title": "¿Cómo sigue Kbeto Zuleta? Entre oraciones, homenajes y mensajes de apoyo, el vallenato sigue de cerca la recuperación del artista en Barranquilla",
      "url": "https://www.eltiempo.com/colombia/barranquilla/como-sigue-kbeto-zuleta-entre-oraciones-homenajes-y-mensajes-de-apoyo-el-vallenato-sigue-de-cerca-la-recuperacion-del-artista-en-barranquilla-3598667",
      "domain": "El Tiempo",
      "seendate": "20261105T150546Z"
-    },
-    {
-     "title": "'Poncho' Zuleta suspende sus presentaciones musicales tras el accidente de su hijo 'Kbeto' Zuleta: 'Necesito acompañar a mi familia'",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/poncho-zuleta-suspende-sus-presentaciones-musicales-tras-el-accidente-de-su-hijo-kbeto-zuleta-necesito-acompanar-a-mi-familia-3598659",
-     "domain": "El Tiempo",
-     "seendate": "20261105T150305Z"
     },
     {
      "title": "Empezó a boxear a los 9 años en Barranquilla y la pandemia lo bajó del ring: el patrullero que enseña a pelear a niños de pueblos del Atlántico",
@@ -1033,46 +1105,10 @@
      "seendate": "20261105T150100Z"
     },
     {
-     "title": "Operación Iron 2.0: cerca de 2.000 integrantes de la Policía, el Ejército y la Fiscalía participaron en ofensiva contra estructuras criminales en Cali",
-     "url": "https://www.eltiempo.com/colombia/cali/operacion-iron-2-0-cerca-de-2-000-uniformados-de-la-policia-el-ejercito-y-la-fiscalia-participan-en-ofensiva-contra-estructuras-criminales-en-cali-3598614",
-     "domain": "El Tiempo",
-     "seendate": "20261105T145106Z"
-    },
-    {
-     "title": "El Hospital Alma Mater de Antioquia enfrenta una grave crisis por deudas de mas de 455.000 millones de pesos: 522 profesionales han renunciado",
-     "url": "https://www.eltiempo.com/colombia/medellin/el-hospital-alma-mater-de-antioquia-enfrenta-una-grave-crisis-por-deudas-de-mas-de-455-000-millones-de-pesos-522-profesionales-han-renunciado-3598665",
-     "domain": "El Tiempo",
-     "seendate": "20261105T143249Z"
-    },
-    {
      "title": "Capturan a dos implicados en el crimen de María Camila Potosí en la Operación Iron 2.0, coordinada por el presidente Abelardo De La Espriella en Cali",
      "url": "https://www.eltiempo.com/colombia/cali/capturan-a-dos-implicados-en-el-crimen-de-maria-camila-potosi-en-la-operacion-iron-2-0-coordinada-por-el-presidente-abelardo-de-la-espriella-en-cali-3598644",
      "domain": "El Tiempo",
      "seendate": "20261105T143139Z"
-    },
-    {
-     "title": "El crimen de una joven colombiana en Noruega a manos de su futuro esposo: familia clama al Gobierno De La Espriella repatriar el cuerpo",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-crimen-de-una-joven-colombiana-en-noruega-a-manos-de-su-futuro-esposo-familia-clama-al-gobierno-de-la-espriella-repatriar-el-cuerpo-3598622",
-     "domain": "El Tiempo",
-     "seendate": "20261105T134943Z"
-    },
-    {
-     "title": "Envían a prisión a exsecretario de Hacienda de Sabanalarga, Antioquia, acusado de apropiarse de $2.376 millones: habría inflado su propia nómina",
-     "url": "https://www.eltiempo.com/colombia/medellin/envian-a-prision-a-exsecretario-de-hacienda-de-antioquia-acusado-de-apropiarse-de-2-376-millones-habria-inflado-su-propia-nomina-3598636",
-     "domain": "El Tiempo",
-     "seendate": "20261105T134127Z"
-    },
-    {
-     "title": "Arroyos desbordados, víctimas fatales y una menor desaparecida: el impacto de un aguacero que podría repetirse en Barranquilla y el Atlántico",
-     "url": "https://www.eltiempo.com/colombia/barranquilla/arroyos-desbordados-victimas-fatales-y-una-menor-desaparecida-el-impacto-de-un-aguacero-que-podria-repetirse-en-barranquilla-y-el-atlantico-3598645",
-     "domain": "El Tiempo",
-     "seendate": "20261105T133500Z"
-    },
-    {
-     "title": "¡Pilas, conductor! Pico y placa en Cali para el jueves 5 de noviembre de 2026: así opera la medida de movilidad",
-     "url": "https://www.eltiempo.com/colombia/cali/pilas-conductor-pico-y-placa-en-cali-para-el-jueves-5-de-noviembre-de-2026-asi-opera-la-medida-de-movilidad-3598384",
-     "domain": "El Tiempo",
-     "seendate": "20261105T073100Z"
     }
    ]
   },
@@ -1173,6 +1209,30 @@
   "ECU": {
    "articles": [
     {
+     "title": "A once días de que Juan Carlos Larrea acabe su periodo, el Consejo de Participación Ciudadana aprueba reglamento para elegir un nuevo procurador",
+     "url": "https://eluniverso.com/politica/ejecutivo/procuraduria-general-del-estado-consejo-de-participacion-ciudadana-y-control-social-nota/",
+     "domain": "El Universo",
+     "seendate": "20261105T162424Z"
+    },
+    {
+     "title": "Juez del caso Magnicidio FV continúa con la lectura de su resolución desde otra sala; amenaza de bomba suspedió temporalmente la diligencia",
+     "url": "https://eluniverso.com/politica/expedientes/juez-del-caso-magnicidio-continua-con-la-lectura-de-su-resolucion-desde-otra-sala-amenaza-de-bomba-suspedio-temporalmente-la-diligencia-nota/",
+     "domain": "El Universo",
+     "seendate": "20261105T161335Z"
+    },
+    {
+     "title": "Daniel Noboa comparte almuerzo con candidatos de ADN en Los Ríos",
+     "url": "https://eluniverso.com/politica/elecciones/daniel-noboa-comparte-almuerzo-con-candidatos-de-adn-en-los-rios-nota/",
+     "domain": "El Universo",
+     "seendate": "20261105T161259Z"
+    },
+    {
+     "title": "Fuertes vientos arrancan techos y derriban árboles y postes en La Libertad",
+     "url": "https://eluniverso.com/comunidad/ecuador/fuertes-vientos-arrancan-techos-y-derriban-arboles-y-postes-en-la-libertad-nota/",
+     "domain": "El Universo",
+     "seendate": "20261105T161039Z"
+    },
+    {
      "title": "Amenaza de bomba en el Complejo Judicial Norte de Quito genera suspensión momentánea de audiencia en el caso Magnicidio FV",
      "url": "https://eluniverso.com/politica/expedientes/amenaza-de-bomba-en-el-complejo-judicial-norte-de-quito-genera-suspension-de-audiencia-en-el-caso-magnicidio-fv-nota/",
      "domain": "El Universo",
@@ -1209,7 +1269,7 @@
      "seendate": "20261105T141443Z"
     },
     {
-     "title": "Entrega de viviendas sube a 130 al mes en plan estatal Casa 100",
+     "title": "Entrega de viviendas sube a 130 al mes en el plan estatal Casa 100",
      "url": "https://eluniverso.com/politica/ejecutivo/vivienda-programa-casa-100-avances-inscritos-ecuador-2026-nota/",
      "domain": "El Universo",
      "seendate": "20261105T140000Z"
@@ -1335,24 +1395,6 @@
      "seendate": "20261105T021645Z"
     },
     {
-     "title": "Quién es Jacobo Bucaram Pulley, el hijo del expresidente Abdalá Bucaram Ortiz que será extraditado a Estados Unidos",
-     "url": "https://eluniverso.com/politica/seguridad/quien-es-jacobo-bucaram-pulley-el-hijo-del-expresidente-abdala-bucaram-ortiz-que-sera-extraditado-a-estados-unidos-nota/",
-     "domain": "El Universo",
-     "seendate": "20261105T003000Z"
-    },
-    {
-     "title": "Jacobo Bucaram y otros cuatro ecuatorianos serán extraditados a Estados Unidos por presuntos delitos de narcotráfico",
-     "url": "https://eluniverso.com/politica/seguridad/jacobo-bucaram-y-otros-cuatro-ecuatorianos-seran-extraditados-a-estados-unidos-por-presuntos-delitos-de-narcotrafico-nota/",
-     "domain": "El Universo",
-     "seendate": "20261104T235759Z"
-    },
-    {
-     "title": "Jacobo Bucaram Pulley es detenido por la Policía Nacional, anuncia el ministro del Interior",
-     "url": "https://eluniverso.com/politica/seguridad/jacobo-bucaram-pulley-es-detenido-por-la-policia-nacional-anuncia-el-ministro-del-interior-nota/",
-     "domain": "El Universo",
-     "seendate": "20261104T235614Z"
-    },
-    {
      "title": "Los Estrada, padre e hijo, fueron detenidos en Panamá; se anuncia su extradición a Estados Unidos",
      "url": "https://eluniverso.com/politica/expedientes/los-estrada-padre-e-hijo-fueron-detenidos-en-panama-se-anuncia-su-extradicion-a-estados-unidos-nota/",
      "domain": "El Universo",
@@ -1372,31 +1414,31 @@
      "title": "Lluvias en Perú EN VIVO: distritos de Lima inundados, Regiones en alerta roja y pronóstico del Senamhi hoy",
      "url": "https://elcomercio.pe/peru/lluvias-en-peru-por-el-nino-en-vivo-hoy-regiones-en-alerta-lluvias-y-pronostico-de-senamhi-lbposting-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261105T152333Z"
+     "seendate": "20261105T162754Z"
+    },
+    {
+     "title": "Comisión Bicameral de Presupuesto aprobó por mayoría el predictamen de la Ley de presupuesto 2027 pero con cambios, ¿cuáles son?",
+     "url": "https://elcomercio.pe/economia/peru/comision-bicameral-aprobo-por-mayoria-el-predictamen-de-la-ley-de-presupuesto-2027-pero-con-cambios-cuales-son-l-ultimas-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261105T155651Z"
+    },
+    {
+     "title": "Último temblor hoy, jueves 5 de noviembre: reporte del epicentro del sismo y magnitud según IGP",
+     "url": "https://elcomercio.pe/peru/sismos-de-hoy-en-peru-revisa-los-reportes-del-igp-y-donde-se-localizaron-los-epicentros-magnitud-y-mas-tdpe-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261105T153200Z"
+    },
+    {
+     "title": "Cenco Malls, dueña de Cenco Lima Sur: ¿Cómo avanzan sus proyectos de centros comerciales en Miraflores y San Juan de Lurigancho?",
+     "url": "https://elcomercio.pe/economia/peru/cenco-malls-duena-de-cenco-lima-sur-como-avanzan-sus-proyectos-de-centros-comerciales-en-miraflores-y-san-juan-de-lurigancho-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261105T153057Z"
     },
     {
      "title": "El dólar abre a la baja en S/3,44 mientras el oro y el cobre mantienen sus ganancias",
      "url": "https://elcomercio.pe/economia/peru/el-dolar-abre-a-la-baja-en-s344-mientras-el-oro-y-el-cobre-mantienen-sus-ganancias-l-ultimas-noticia/",
      "domain": "El Comercio",
      "seendate": "20261105T143155Z"
-    },
-    {
-     "title": "Tumbes: lluvias y descargas eléctricas afectan varias ciudades y aíslan al distrito de Casitas",
-     "url": "https://elcomercio.pe/peru/tumbes/tumbes-lluvias-y-descargas-electricas-afectan-varias-ciudades-y-aislan-al-distrito-de-casitas-apuesplan-ultimas-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261105T133934Z"
-    },
-    {
-     "title": "Temblor hoy, jueves 5 de noviembre: reporte del epicentro del sismo y magnitud según IGP",
-     "url": "https://elcomercio.pe/peru/sismos-de-hoy-en-peru-revisa-los-reportes-del-igp-y-donde-se-localizaron-los-epicentros-magnitud-y-mas-tdpe-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261105T132817Z"
-    },
-    {
-     "title": "Piura bajo el agua: gobernador no aclara si corrigió las deficiencias advertidas por Contraloría ante El Niño",
-     "url": "https://elcomercio.pe/peru/piura-bajo-el-agua-gobernador-no-aclara-si-corrigio-las-deficiencias-advertidas-por-contraloria-ante-el-nino-apuesplan-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261105T130000Z"
     }
    ]
   },
@@ -1495,34 +1537,232 @@
   "ARG": {
    "articles": [
     {
+     "title": "Qué se sabe de la visita del papa León XIV a la Argentina: la agenda completa, los feriados y las últimas noticias",
+     "url": "https://www.lanacion.com.ar/sociedad/que-se-sabe-de-la-visita-del-papa-leon-xiv-a-la-argentina-la-agenda-completa-los-feriados-y-las-nid05112026/",
+     "domain": "La Nación",
+     "seendate": "20261105T163025Z"
+    },
+    {
+     "title": "Javier Milei y sus medidas, en vivo: el Presidente le envió un mensaje al papa León XIV antes de su viaje a la Argentina",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-le-envio-un-mensaje-al-papa-leon-xiv-antes-de-su-nid05112026/",
+     "domain": "La Nación",
+     "seendate": "20261105T162710Z"
+    },
+    {
+     "title": "La agenda de León XIV: la vigilia con los jóvenes en Palermo, el único acto que pidió especialmente el Papa",
+     "url": "https://www.lanacion.com.ar/politica/la-agenda-de-leon-xiv-la-vigilia-con-los-jovenes-en-palermo-el-unico-acto-que-pidio-especialmente-el-nid05112026/",
+     "domain": "La Nación",
+     "seendate": "20261105T162406Z"
+    },
+    {
+     "title": "Cómo se organizan los colegios católicos para la llegada de papa León XIV a la Argentina: la participación de los jóvenes",
+     "url": "https://www.lanacion.com.ar/sociedad/como-se-organizan-los-colegios-catolicos-para-la-llegada-de-papa-leon-xiv-a-la-argentina-la-nid05112026/",
+     "domain": "La Nación",
+     "seendate": "20261105T162326Z"
+    },
+    {
+     "title": "Maíz tardío: genética para sostener los pisos y empujar los techos",
+     "url": "https://www.lanacion.com.ar/economia/campo/maiz-tardio-genetica-para-sostener-los-pisos-y-empujar-los-techos-nid05112026/",
+     "domain": "La Nación",
+     "seendate": "20261105T161640Z"
+    },
+    {
+     "title": "Se aproxima el “Pampero”, un fenómeno que traerá frío invernal con temperaturas mínimas de hasta 7°: las zonas afectadas",
+     "url": "https://www.lanacion.com.ar/sociedad/se-aproxima-el-pampero-un-fenomeno-que-traera-frio-invernal-con-temperaturas-minimas-de-hasta-7-las-nid04112026/",
+     "domain": "La Nación",
+     "seendate": "20261105T161634Z"
+    },
+    {
+     "title": "Súper Niño: cuándo llegan las lluvias fuertes a la Argentina y qué regiones van a estar más expuestas",
+     "url": "https://www.lanacion.com.ar/sociedad/super-nino-cuando-llegan-las-lluvias-fuertes-a-la-argentina-y-que-regiones-van-a-estar-mas-expuestas-nid05112026/",
+     "domain": "La Nación",
+     "seendate": "20261105T161050Z"
+    },
+    {
+     "title": "Daniel López Rosetti, médico: “La resiliencia no es cicatrizar”",
+     "url": "https://www.lanacion.com.ar/sociedad/daniel-lopez-rosetti-medico-la-resiliencia-no-es-cicatrizar-nid05112026/",
+     "domain": "La Nación",
+     "seendate": "20261105T161044Z"
+    },
+    {
+     "title": "Gabriel Rolón, sobre la felicidad y el pasado: “A veces uno desea más haber sido feliz que ser feliz”",
+     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-sobre-la-felicidad-y-el-pasado-a-veces-uno-desea-mas-haber-sido-feliz-que-ser-feliz-nid05112026/",
+     "domain": "La Nación",
+     "seendate": "20261105T161041Z"
+    },
+    {
+     "title": "Por qué las siestas largas no compensan la falta de sueño, según los neurólogos",
+     "url": "https://www.lanacion.com.ar/sociedad/por-que-las-siestas-largas-no-compensan-la-falta-de-sueno-segun-los-neurologos-nid05112026/",
+     "domain": "La Nación",
+     "seendate": "20261105T161036Z"
+    },
+    {
+     "title": "Cómo reducir la ansiedad en cinco minutos: el ejercicio que recomienda una experta para recuperar la calma",
+     "url": "https://www.lanacion.com.ar/sociedad/como-reducir-la-ansiedad-en-cinco-minutos-el-ejercicio-que-recomienda-una-experta-para-recuperar-la-nid05112026/",
+     "domain": "La Nación",
+     "seendate": "20261105T161025Z"
+    },
+    {
+     "title": "Tony Robbins, referente del desarrollo personal: “La mente busca lo que está mal”",
+     "url": "https://www.lanacion.com.ar/sociedad/tony-robbins-referente-del-desarrollo-personal-la-mente-busca-lo-que-esta-mal-nid03112026/",
+     "domain": "La Nación",
+     "seendate": "20261105T161020Z"
+    },
+    {
+     "title": "Frase del día, Séneca, filósofo estoico: “La suerte es donde confluyen la preparación y la oportunidad”",
+     "url": "https://www.lanacion.com.ar/sociedad/frase-del-dia-seneca-filosofo-estoico-la-suerte-es-donde-confluyen-la-preparacion-y-la-oportunidad-nid03112026/",
+     "domain": "La Nación",
+     "seendate": "20261105T161015Z"
+    },
+    {
+     "title": "Inti Bonomo, experto en Ciencias Ambientales, sobre el impacto que tendrá el fenómeno del Súper Niño: “El pico va a ser en diciembre”",
+     "url": "https://www.lanacion.com.ar/sociedad/inti-bonomo-experto-en-ciencias-ambientales-sobre-el-impacto-que-tendra-el-fenomeno-del-super-nino-nid31102026/",
+     "domain": "La Nación",
+     "seendate": "20261105T161008Z"
+    },
+    {
+     "title": "Qué pasó en Paraguay con la intervención del Ueno Bank: ¿Es un corralito?",
+     "url": "https://www.lanacion.com.ar/economia/sacude-a-paraguay-un-escandalo-financiero-que-le-impide-a-casi-tres-millones-de-personas-acceder-a-nid04112026/",
+     "domain": "La Nación",
+     "seendate": "20261105T160940Z"
+    },
+    {
+     "title": "Gabriel Rolón, psicoanalista: “El momento en que conviven lo que fuimos, lo que queremos ser y lo que tememos es irrepetible”",
+     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-el-momento-en-que-conviven-lo-que-fuimos-lo-que-queremos-ser-y-lo-que-nid03112026/",
+     "domain": "La Nación",
+     "seendate": "20261105T160937Z"
+    },
+    {
+     "title": "Arthur Brooks, experto en felicidad de Harvard, y su consejo para la segunda mitad de la vida: “Pasar de sumar a restar”",
+     "url": "https://www.lanacion.com.ar/sociedad/arthur-brooks-experto-en-felicidad-de-harvard-y-su-consejo-para-la-segunda-mitad-de-la-vida-pasar-de-nid04112026/",
+     "domain": "La Nación",
+     "seendate": "20261105T160926Z"
+    },
+    {
+     "title": "Pilar Sordo, psicóloga, sobre el poder del diálogo interno para fortalecer la estabilidad emocional: “Es una herramienta brutal de autoconocimiento”",
+     "url": "https://www.lanacion.com.ar/sociedad/pilar-sordo-psicologa-sobre-el-poder-del-dialogo-interno-para-fortalecer-la-estabilidad-emocional-es-nid01112026/",
+     "domain": "La Nación",
+     "seendate": "20261105T160922Z"
+    },
+    {
+     "title": "La reflexión de Descartes sobre el pensamiento y la existencia: “Si pienso, tengo que estar existiendo”",
+     "url": "https://www.lanacion.com.ar/sociedad/la-reflexion-de-descartes-sobre-el-pensamiento-y-la-existencia-si-pienso-tengo-que-estar-existiendo-nid02112026/",
+     "domain": "La Nación",
+     "seendate": "20261105T160912Z"
+    },
+    {
+     "title": "La reflexión de Darío Sztajnszrajber sobre para qué sirve hoy la filosofía: “Para cuestionar por qué todo tiene que servir siempre”",
+     "url": "https://www.lanacion.com.ar/sociedad/la-reflexion-de-dario-sztajnszrajber-sobre-para-que-sirve-hoy-la-filosofia-para-cuestionar-por-que-nid01112026/",
+     "domain": "La Nación",
+     "seendate": "20261105T160908Z"
+    },
+    {
+     "title": "Gabriel Rolón, psicoanalista: “Muchas veces estamos sólo cumpliendo un mandato inconsciente”",
+     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-muchas-veces-estamos-solo-cumpliendo-un-mandato-inconsciente-nid02112026/",
+     "domain": "La Nación",
+     "seendate": "20261105T160744Z"
+    },
+    {
+     "title": "Quiénes son los que se anotaron para ser voluntarios de la visita del Papa León XIV a la Argentina",
+     "url": "https://www.lanacion.com.ar/sociedad/quienes-son-los-que-se-anotaron-para-ser-voluntarios-de-la-visita-del-papa-leon-xiv-a-la-argentina-nid05112026/",
+     "domain": "La Nación",
+     "seendate": "20261105T160742Z"
+    },
+    {
+     "title": "Daniel López Rosetti, médico, sobre el ritmo de vida actual: “Estamos a velocidad digital y somos analógicos”",
+     "url": "https://www.lanacion.com.ar/sociedad/daniel-lopez-rosetti-medico-sobre-el-ritmo-de-vida-actual-estamos-a-velocidad-digital-y-somos-nid04112026/",
+     "domain": "La Nación",
+     "seendate": "20261105T160740Z"
+    },
+    {
+     "title": "La reflexión de Gabriel Rolón sobre la esperanza: “Puede dejarnos incapacitados de jugar un deseo a la espera de que ocurran cosas que son más mágicas que personales”",
+     "url": "https://www.lanacion.com.ar/sociedad/la-reflexion-de-gabriel-rolon-sobre-la-esperanza-puede-dejarnos-incapacitados-de-jugar-un-deseo-a-la-nid04112026/",
+     "domain": "La Nación",
+     "seendate": "20261105T160736Z"
+    },
+    {
+     "title": "Seguro contra default: el costo para cubrirse de un incumplimiento de la Argentina alcanzó su nivel más alto en un año",
+     "url": "https://www.lanacion.com.ar/economia/seguro-contra-default-el-costo-para-cubrirse-de-un-incumplimiento-de-la-argentina-alcanzo-su-nivel-nid05112026/",
+     "domain": "La Nación",
+     "seendate": "20261105T160633Z"
+    },
+    {
+     "title": "Papa León XIV en la Argentina: el médico Jorge Tartaglione explicó cómo influye la fe en la salud",
+     "url": "https://www.lanacion.com.ar/sociedad/papa-leon-xiv-en-la-argentina-el-medico-jorge-tartaglione-explico-como-influye-la-fe-en-la-salud-nid05112026/",
+     "domain": "La Nación",
+     "seendate": "20261105T160621Z"
+    },
+    {
      "title": "Murió Patricia Walsh, histórica dirigente de la izquierda y una de las impulsoras de los juicios por los crímenes de la dictadura",
      "url": "https://www.lanacion.com.ar/politica/murio-patricia-walsh-historica-dirigente-de-la-izquierda-y-una-de-las-impulsoras-de-los-juicios-por-nid05112026/",
      "domain": "La Nación",
-     "seendate": "20261105T152117Z"
+     "seendate": "20261105T155925Z"
+    },
+    {
+     "title": "Caen los bonos argentinos y se dispara el riesgo país por encima de los 900 puntos",
+     "url": "https://www.lanacion.com.ar/economia/se-dispara-el-riesgo-pais-por-encima-de-los-900-puntos-y-caen-los-bonos-argentinos-nid05112026/",
+     "domain": "La Nación",
+     "seendate": "20261105T155832Z"
+    },
+    {
+     "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este jueves 5 de noviembre, minuto a minuto",
+     "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid05112026/",
+     "domain": "La Nación",
+     "seendate": "20261105T155824Z"
+    },
+    {
+     "title": "Milei saludó a Sánchez en la Cumbre Iberoamericana de Madrid y luego atacó al socialismo",
+     "url": "https://www.lanacion.com.ar/politica/milei-saludo-a-sanchez-en-la-cumbre-iberoamericana-de-madrid-y-luego-ataco-al-socialismo-nid05112026/",
+     "domain": "La Nación",
+     "seendate": "20261105T155029Z"
+    },
+    {
+     "title": "Qué es el Cottolengo de Don Orione, el hogar para personas con discapacidad que visitará el papa León XIV este lunes",
+     "url": "https://www.lanacion.com.ar/sociedad/que-es-el-cottolengo-de-don-orione-el-hogar-para-personas-con-discapacidad-que-visitara-el-papa-leon-nid05112026/",
+     "domain": "La Nación",
+     "seendate": "20261105T154440Z"
+    },
+    {
+     "title": "Conrado Estol, médico: “Tener 75 años no significa quedarse mirando televisión todo el día, hay que mantenerse activo”",
+     "url": "https://www.lanacion.com.ar/sociedad/conrado-estol-medico-tener-75-anos-no-significa-quedarse-mirando-television-todo-el-dia-hay-que-nid02112026/",
+     "domain": "La Nación",
+     "seendate": "20261105T154154Z"
+    },
+    {
+     "title": "Jorge Tartaglione, médico, alertó sobre el brote que viene por el avance del Súper Niño en la Argentina: “Es una tormenta perfecta con presencia de enfermedades”",
+     "url": "https://www.lanacion.com.ar/sociedad/jorge-tartaglione-medico-alerto-sobre-el-brote-que-viene-por-el-avance-del-super-nino-en-la-nid04112026/",
+     "domain": "La Nación",
+     "seendate": "20261105T154151Z"
+    },
+    {
+     "title": "Conrado Estol, neurólogo, advirtió sobre los riesgos de la pasividad en la vejez: “Estamos experimentando una transición sin precedentes”",
+     "url": "https://www.lanacion.com.ar/sociedad/conrado-estol-neurologo-advirtio-sobre-los-riesgos-de-la-pasividad-en-la-vejez-estamos-nid04112026/",
+     "domain": "La Nación",
+     "seendate": "20261105T154149Z"
+    },
+    {
+     "title": "Retenciones: la Argentina quedó última en un ranking mundial de apoyo al campo y revelan cuánto pierde por los impuestos",
+     "url": "https://www.lanacion.com.ar/economia/campo/retenciones-la-argentina-quedo-ultima-en-un-ranking-mundial-de-apoyo-al-campo-y-revelan-cuanto-nid05112026/",
+     "domain": "La Nación",
+     "seendate": "20261105T153612Z"
+    },
+    {
+     "title": "Suspendieron al juez de San Isidro denunciado por acoso sexual y le embargan el 40% del sueldo",
+     "url": "https://www.lanacion.com.ar/seguridad/suspendieron-al-juez-de-san-isidro-denunciado-por-acoso-sexual-y-le-embargan-el-40-del-sueldo-nid05112026/",
+     "domain": "La Nación",
+     "seendate": "20261105T153050Z"
+    },
+    {
+     "title": "El escándalo de Ueno Bank llegó a la Argentina: suspenden empleados y admiten que no tienen fondos para pagar salarios",
+     "url": "https://www.lanacion.com.ar/economia/el-escandalo-de-ueno-bank-llego-a-la-argentina-suspenden-empleados-y-admiten-que-no-tienen-fondos-nid05112026/",
+     "domain": "La Nación",
+     "seendate": "20261105T152453Z"
     },
     {
      "title": "“Pasaporte digital de la vaca”: una revolucionaria tecnología ayuda a estimar la grasa de la carne desde el celular y registrar datos clave",
      "url": "https://www.lanacion.com.ar/economia/campo/pasaporte-digital-de-la-vaca-una-revolucionaria-tecnologia-ayuda-a-estimar-la-grasa-de-la-carne-nid05112026/",
      "domain": "La Nación",
      "seendate": "20261105T151827Z"
-    },
-    {
-     "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este jueves 5 de noviembre, minuto a minuto",
-     "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid05112026/",
-     "domain": "La Nación",
-     "seendate": "20261105T151646Z"
-    },
-    {
-     "title": "Papa León XIV en la Argentina: el médico Jorge Tartaglione explicó cómo influye la fe en la salud",
-     "url": "https://www.lanacion.com.ar/sociedad/papa-leon-xiv-en-la-argentina-el-medico-jorge-tartaglione-explico-como-influye-la-fe-en-la-salud-nid05112026/",
-     "domain": "La Nación",
-     "seendate": "20261105T151500Z"
-    },
-    {
-     "title": "Se aproxima el “Pampero”, un fenómeno que traerá frío invernal con temperaturas mínimas de hasta 7°: las zonas afectadas",
-     "url": "https://www.lanacion.com.ar/sociedad/se-aproxima-el-pampero-un-fenomeno-que-traera-frio-invernal-con-temperaturas-minimas-de-hasta-7-las-nid04112026/",
-     "domain": "La Nación",
-     "seendate": "20261105T151442Z"
     },
     {
      "title": "Sin intervenir el dólar desde 2021, el ministro de Economía de Uruguay explicó la receta detrás de la estabilidad",
@@ -1549,118 +1789,10 @@
      "seendate": "20261105T150807Z"
     },
     {
-     "title": "Javier Milei y sus medidas, en vivo: el Presidente le envió un mensaje al papa León XIV antes de su viaje a la Argentina",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-le-envio-un-mensaje-al-papa-leon-xiv-antes-de-su-nid05112026/",
-     "domain": "La Nación",
-     "seendate": "20261105T150800Z"
-    },
-    {
      "title": "Caso $LIBRA: una decisión del juez Rafecas enfrenta a dos fiscales con posturas opuestas sobre el sobreseimiento de Milei",
      "url": "https://www.lanacion.com.ar/politica/caso-libra-una-decision-del-juez-rafecas-enfrenta-a-dos-fiscales-con-posturas-opuestas-sobre-el-nid05112026/",
      "domain": "La Nación",
      "seendate": "20261105T145706Z"
-    },
-    {
-     "title": "Suspendieron al juez de San Isidro denunciado por acoso sexual y le embargan el 40% del sueldo",
-     "url": "https://www.lanacion.com.ar/seguridad/suspendieron-al-juez-de-san-isidro-denunciado-por-acoso-sexual-y-le-embargan-el-40-del-sueldo-nid05112026/",
-     "domain": "La Nación",
-     "seendate": "20261105T145426Z"
-    },
-    {
-     "title": "Súper Niño: cuándo llegan las lluvias fuertes a la Argentina y qué regiones van a estar más expuestas",
-     "url": "https://www.lanacion.com.ar/sociedad/super-nino-cuando-llegan-las-lluvias-fuertes-a-la-argentina-y-que-regiones-van-a-estar-mas-expuestas-nid05112026/",
-     "domain": "La Nación",
-     "seendate": "20261105T145338Z"
-    },
-    {
-     "title": "Daniel López Rosetti, médico: “La resiliencia no es cicatrizar”",
-     "url": "https://www.lanacion.com.ar/sociedad/daniel-lopez-rosetti-medico-la-resiliencia-no-es-cicatrizar-nid05112026/",
-     "domain": "La Nación",
-     "seendate": "20261105T145334Z"
-    },
-    {
-     "title": "Gabriel Rolón, sobre la felicidad y el pasado: “A veces uno desea más haber sido feliz que ser feliz”",
-     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-sobre-la-felicidad-y-el-pasado-a-veces-uno-desea-mas-haber-sido-feliz-que-ser-feliz-nid05112026/",
-     "domain": "La Nación",
-     "seendate": "20261105T145331Z"
-    },
-    {
-     "title": "Por qué las siestas largas no compensan la falta de sueño, según los neurólogos",
-     "url": "https://www.lanacion.com.ar/sociedad/por-que-las-siestas-largas-no-compensan-la-falta-de-sueno-segun-los-neurologos-nid05112026/",
-     "domain": "La Nación",
-     "seendate": "20261105T145327Z"
-    },
-    {
-     "title": "Cómo reducir la ansiedad en cinco minutos: el ejercicio que recomienda una experta para recuperar la calma",
-     "url": "https://www.lanacion.com.ar/sociedad/como-reducir-la-ansiedad-en-cinco-minutos-el-ejercicio-que-recomienda-una-experta-para-recuperar-la-nid05112026/",
-     "domain": "La Nación",
-     "seendate": "20261105T145324Z"
-    },
-    {
-     "title": "Tony Robbins, referente del desarrollo personal: “La mente busca lo que está mal”",
-     "url": "https://www.lanacion.com.ar/sociedad/tony-robbins-referente-del-desarrollo-personal-la-mente-busca-lo-que-esta-mal-nid03112026/",
-     "domain": "La Nación",
-     "seendate": "20261105T145321Z"
-    },
-    {
-     "title": "Frase del día, Séneca, filósofo estoico: “La suerte es donde confluyen la preparación y la oportunidad”",
-     "url": "https://www.lanacion.com.ar/sociedad/frase-del-dia-seneca-filosofo-estoico-la-suerte-es-donde-confluyen-la-preparacion-y-la-oportunidad-nid03112026/",
-     "domain": "La Nación",
-     "seendate": "20261105T145316Z"
-    },
-    {
-     "title": "Inti Bonomo, experto en Ciencias Ambientales, sobre el impacto que tendrá el fenómeno del Súper Niño: “El pico va a ser en diciembre”",
-     "url": "https://www.lanacion.com.ar/sociedad/inti-bonomo-experto-en-ciencias-ambientales-sobre-el-impacto-que-tendra-el-fenomeno-del-super-nino-nid31102026/",
-     "domain": "La Nación",
-     "seendate": "20261105T145310Z"
-    },
-    {
-     "title": "Gabriel Rolón, psicoanalista: “El momento en que conviven lo que fuimos, lo que queremos ser y lo que tememos es irrepetible”",
-     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-el-momento-en-que-conviven-lo-que-fuimos-lo-que-queremos-ser-y-lo-que-nid03112026/",
-     "domain": "La Nación",
-     "seendate": "20261105T145249Z"
-    },
-    {
-     "title": "Arthur Brooks, experto en felicidad de Harvard, y su consejo para la segunda mitad de la vida: “Pasar de sumar a restar”",
-     "url": "https://www.lanacion.com.ar/sociedad/arthur-brooks-experto-en-felicidad-de-harvard-y-su-consejo-para-la-segunda-mitad-de-la-vida-pasar-de-nid04112026/",
-     "domain": "La Nación",
-     "seendate": "20261105T145238Z"
-    },
-    {
-     "title": "Pilar Sordo, psicóloga, sobre el poder del diálogo interno para fortalecer la estabilidad emocional: “Es una herramienta brutal de autoconocimiento”",
-     "url": "https://www.lanacion.com.ar/sociedad/pilar-sordo-psicologa-sobre-el-poder-del-dialogo-interno-para-fortalecer-la-estabilidad-emocional-es-nid01112026/",
-     "domain": "La Nación",
-     "seendate": "20261105T145235Z"
-    },
-    {
-     "title": "La reflexión de Descartes sobre el pensamiento y la existencia: “Si pienso, tengo que estar existiendo”",
-     "url": "https://www.lanacion.com.ar/sociedad/la-reflexion-de-descartes-sobre-el-pensamiento-y-la-existencia-si-pienso-tengo-que-estar-existiendo-nid02112026/",
-     "domain": "La Nación",
-     "seendate": "20261105T145231Z"
-    },
-    {
-     "title": "La reflexión de Darío Sztajnszrajber sobre para qué sirve hoy la filosofía: “Para cuestionar por qué todo tiene que servir siempre”",
-     "url": "https://www.lanacion.com.ar/sociedad/la-reflexion-de-dario-sztajnszrajber-sobre-para-que-sirve-hoy-la-filosofia-para-cuestionar-por-que-nid01112026/",
-     "domain": "La Nación",
-     "seendate": "20261105T145228Z"
-    },
-    {
-     "title": "Gabriel Rolón, psicoanalista: “Muchas veces estamos sólo cumpliendo un mandato inconsciente”",
-     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-muchas-veces-estamos-solo-cumpliendo-un-mandato-inconsciente-nid02112026/",
-     "domain": "La Nación",
-     "seendate": "20261105T145221Z"
-    },
-    {
-     "title": "Daniel López Rosetti, médico, sobre el ritmo de vida actual: “Estamos a velocidad digital y somos analógicos”",
-     "url": "https://www.lanacion.com.ar/sociedad/daniel-lopez-rosetti-medico-sobre-el-ritmo-de-vida-actual-estamos-a-velocidad-digital-y-somos-nid04112026/",
-     "domain": "La Nación",
-     "seendate": "20261105T145217Z"
-    },
-    {
-     "title": "La reflexión de Gabriel Rolón sobre la esperanza: “Puede dejarnos incapacitados de jugar un deseo a la espera de que ocurran cosas que son más mágicas que personales”",
-     "url": "https://www.lanacion.com.ar/sociedad/la-reflexion-de-gabriel-rolon-sobre-la-esperanza-puede-dejarnos-incapacitados-de-jugar-un-deseo-a-la-nid04112026/",
-     "domain": "La Nación",
-     "seendate": "20261105T145215Z"
     },
     {
      "title": "Basura espacial: tras un fallido intento de rescate, un telescopio de la NASA cayó ayer tras dos décadas estudiando explosiones cósmicas",
@@ -1675,12 +1807,6 @@
      "seendate": "20261105T145132Z"
     },
     {
-     "title": "Qué se sabe de la visita del papa León XIV a la Argentina: la agenda completa, los feriados y las últimas noticias",
-     "url": "https://www.lanacion.com.ar/sociedad/que-se-sabe-de-la-visita-del-papa-leon-xiv-a-la-argentina-la-agenda-completa-los-feriados-y-las-nid05112026/",
-     "domain": "La Nación",
-     "seendate": "20261105T145121Z"
-    },
-    {
      "title": "Para el Santander, el Gobierno está “muchísimo mejor preparado” que en 2025 para enfrentar una corrida hacia el dólar",
      "url": "https://www.lanacion.com.ar/economia/las-cuatro-megatendencias-que-marcaran-a-la-economia-mundial-en-los-proximos-anos-nid05112026/",
      "domain": "La Nación",
@@ -1693,24 +1819,6 @@
      "seendate": "20261105T144508Z"
     },
     {
-     "title": "Conrado Estol, médico: “Tener 75 años no significa quedarse mirando televisión todo el día, hay que mantenerse activo”",
-     "url": "https://www.lanacion.com.ar/sociedad/conrado-estol-medico-tener-75-anos-no-significa-quedarse-mirando-television-todo-el-dia-hay-que-nid02112026/",
-     "domain": "La Nación",
-     "seendate": "20261105T143747Z"
-    },
-    {
-     "title": "Jorge Tartaglione, médico, alertó sobre el brote que viene por el avance del Súper Niño en la Argentina: “Es una tormenta perfecta con presencia de enfermedades”",
-     "url": "https://www.lanacion.com.ar/sociedad/jorge-tartaglione-medico-alerto-sobre-el-brote-que-viene-por-el-avance-del-super-nino-en-la-nid04112026/",
-     "domain": "La Nación",
-     "seendate": "20261105T143744Z"
-    },
-    {
-     "title": "Conrado Estol, neurólogo, advirtió sobre los riesgos de la pasividad en la vejez: “Estamos experimentando una transición sin precedentes”",
-     "url": "https://www.lanacion.com.ar/sociedad/conrado-estol-neurologo-advirtio-sobre-los-riesgos-de-la-pasividad-en-la-vejez-estamos-nid04112026/",
-     "domain": "La Nación",
-     "seendate": "20261105T143740Z"
-    },
-    {
      "title": "Un hombre murió en Entre Ríos tras pelearse con un vecino en medio de la calle",
      "url": "https://www.lanacion.com.ar/seguridad/un-hombre-murio-en-entre-rios-tras-pelearse-con-un-vecino-en-medio-de-la-calle-nid05112026/",
      "domain": "La Nación",
@@ -1721,48 +1829,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/cientificos-afirman-haber-hallado-la-prueba-mas-solida-hasta-la-fecha-de-presencia-de-globulos-rojos-nid05112026/",
      "domain": "La Nación",
      "seendate": "20261105T140249Z"
-    },
-    {
-     "title": "Día cambia de manos: GDN, el dueño de ChangoMás, se quedó con la cadena",
-     "url": "https://www.lanacion.com.ar/economia/negocios/dia-cambia-de-manos-gdn-el-dueno-de-changomas-se-quedo-con-la-cadena-nid05112026/",
-     "domain": "La Nación",
-     "seendate": "20261105T134447Z"
-    },
-    {
-     "title": "Por qué no hay bancos mañana, viernes 6 de noviembre, en la Argentina",
-     "url": "https://www.lanacion.com.ar/economia/por-que-no-hay-bancos-manana-viernes-6-de-noviembre-en-la-argentina-nid05112026/",
-     "domain": "La Nación",
-     "seendate": "20261105T134012Z"
-    },
-    {
-     "title": "Por los desmarques de Bullrich, en el Gobierno ya evalúan otros nombres para acompañar a Milei en la boleta presidencial",
-     "url": "https://www.lanacion.com.ar/politica/por-los-desmarques-de-bullrich-en-el-gobierno-ya-evaluan-otros-nombres-para-acompanar-a-milei-en-la-nid05112026/",
-     "domain": "La Nación",
-     "seendate": "20261105T133854Z"
-    },
-    {
-     "title": "Dos motochorros quisieron huir de un control policial, pero chocaron y fueron detenidos",
-     "url": "https://www.lanacion.com.ar/seguridad/dos-motochorros-quisieron-huir-de-un-control-policial-pero-chocaron-y-fueron-detenidos-nid05112026/",
-     "domain": "La Nación",
-     "seendate": "20261105T132924Z"
-    },
-    {
-     "title": "“El capital es escaso”: el desafío para la economía hacia las elecciones de 2027 y los desafíos de la “segunda etapa” del plan",
-     "url": "https://www.lanacion.com.ar/economia/el-capital-es-escaso-el-desafio-para-la-economia-hacia-las-elecciones-de-2027-y-los-desafios-de-la-nid05112026/",
-     "domain": "La Nación",
-     "seendate": "20261105T132727Z"
-    },
-    {
-     "title": "Mapa de cortes en CABA por la visita del papa: cómo es el trámite para circular dentro del vallado",
-     "url": "https://www.lanacion.com.ar/sociedad/mapa-de-cortes-en-caba-por-la-visita-del-papa-como-es-el-tramite-para-circular-dentro-del-vallado-nid03112026/",
-     "domain": "La Nación",
-     "seendate": "20261105T131946Z"
-    },
-    {
-     "title": "Itinerario del papa León XIV en la Argentina: días y horarios de la agenda del Sumo Pontífice",
-     "url": "https://www.lanacion.com.ar/sociedad/itinerario-del-papa-leon-xiv-en-la-argentina-dias-y-horarios-de-la-agenda-del-sumo-pontifice-nid05112026/",
-     "domain": "La Nación",
-     "seendate": "20261105T131200Z"
     }
    ]
   },
@@ -1797,6 +1863,30 @@
   "PRY": {
    "articles": [
     {
+     "title": "Soledad Núñez define a su equipo: los primeros directores confirmados en la Municipalidad de Asunción",
+     "url": "https://www.abc.com.py/nacionales/2026/11/05/soledad-nunez-define-a-su-equipo-los-primeros-directores-confirmados-en-la-municipalidad-de-asuncion/",
+     "domain": "ABC Color",
+     "seendate": "20261105T162515Z"
+    },
+    {
+     "title": "Caso Ueno: juez envía a prisión a Miguel Vázquez y principales exdirectivos del banco",
+     "url": "https://www.abc.com.py/nacionales/2026/11/05/caso-ueno-juez-envia-a-prision-a-miguel-vazquez-y-principales-exdirectivos/",
+     "domain": "ABC Color",
+     "seendate": "20261105T161949Z"
+    },
+    {
+     "title": "Preparan quinta edición de la Fiesta Nacional del Sombrero de Jata’i",
+     "url": "https://www.abc.com.py/nacionales/2026/11/05/preparan-quinta-edicion-de-la-fiesta-nacional-del-sombrero-de-jatai/",
+     "domain": "ABC Color",
+     "seendate": "20261105T161517Z"
+    },
+    {
+     "title": "Plazos de procesos judiciales que involucran a Ueno Bank quedan “interrumpidos”",
+     "url": "https://www.abc.com.py/nacionales/2026/11/05/plazos-de-procesos-judiciales-que-involucran-a-ueno-bank-quedan-interrumpidos/",
+     "domain": "ABC Color",
+     "seendate": "20261105T155220Z"
+    },
+    {
      "title": "Fuerte Olimpo: aulas modelo, pero a oscuras por el pésimo servicio de la ANDE",
      "url": "https://www.abc.com.py/nacionales/chaco/2026/11/05/fuerte-olimpo-aulas-modelo-pero-a-oscuras-por-el-pesimo-servicio-de-la-ande/",
      "domain": "ABC Color",
@@ -1815,28 +1905,10 @@
      "seendate": "20261105T144229Z"
     },
     {
-     "title": "Títulos falsos: el MEC busca justificar su gestión con 1.000 carreras cerradas en 3 años",
-     "url": "https://www.abc.com.py/nacionales/2026/11/05/titulos-falsos-el-mec-busca-justificar-su-gestion-con-1000-carreras-cerradas-en-3-anos/",
-     "domain": "ABC Color",
-     "seendate": "20261105T144120Z"
-    },
-    {
      "title": "Ueno Bank inmoviliza G. 2 mil millones de la colecta nacional y pone en jaque a los bomberos voluntarios",
      "url": "https://www.abc.com.py/nacionales/2026/11/05/ueno-bank-inmoviliza-g-2-mil-millones-de-la-colecta-nacional-y-pone-en-jaque-a-los-bomberos-voluntarios/",
      "domain": "ABC Color",
      "seendate": "20261105T143722Z"
-    },
-    {
-     "title": "Policía bloquea acceso a la mansión de Santi Peña en Sanber",
-     "url": "https://www.abc.com.py/nacionales/2026/11/05/policia-bloquea-acceso-a-la-mansion-de-santi-pena-en-sanber/",
-     "domain": "ABC Color",
-     "seendate": "20261105T131824Z"
-    },
-    {
-     "title": "Caso Ueno: imputado plantea habeas corpus y pide su libertad por exceso del plazo procesal",
-     "url": "https://www.abc.com.py/nacionales/2026/11/05/caso-ueno-imputado-plantea-habeas-corpus-y-pide-su-libertad-por-exceso-del-plazo-procesal/",
-     "domain": "ABC Color",
-     "seendate": "20261105T120506Z"
     }
    ]
   },
