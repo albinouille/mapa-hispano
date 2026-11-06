@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T05:33:34+00:00",
+ "updated": "2026-11-06T06:36:28+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -18,6 +18,12 @@
     {
      "title": "El tren de Iryo de Urda pasó una revisión a fondo dos días antes del siniestro",
      "url": "https://elpais.com/espana/2026-11-06/el-tren-de-iryo-de-urda-paso-una-revision-a-fondo-dos-dias-antes-del-siniestro.html",
+     "domain": "El País",
+     "seendate": "20261106T043001Z"
+    },
+    {
+     "title": "Un grupo de parapentistas fuerza en los tribunales la demolición de un chalé con 11 dormitorios en la mejor atalaya de Zarautz",
+     "url": "https://elpais.com/espana/2026-11-06/un-grupo-de-parapentistas-fuerza-en-los-tribunales-la-demolicion-de-un-chale-con-11-dormitorios-en-la-mejor-atalaya-de-zarautz.html",
      "domain": "El País",
      "seendate": "20261106T043001Z"
     },
@@ -42,12 +48,6 @@
     {
      "title": "Asustaviejas: la palabra que Cádiz popularizó para señalar el acoso inmobiliario",
      "url": "https://elpais.com/espana/2026-11-06/asustaviejas-la-palabra-que-cadiz-popularizo-para-senalar-el-acoso-inmobiliario.html",
-     "domain": "El País",
-     "seendate": "20261106T043001Z"
-    },
-    {
-     "title": "Un grupo de parapentistas fuerza en los tribunales la demolición de un chalé con 11 dormitorios en la mejor atalaya de Zarautz",
-     "url": "https://elpais.com/espana/2026-11-06/un-grupo-de-parapentistas-fuerza-en-los-tribunales-la-demolicion-de-un-chale-con-11-dormitorios-en-la-mejor-atalaya-de-zarautz.html",
      "domain": "El País",
      "seendate": "20261106T043001Z"
     },
@@ -82,12 +82,6 @@
      "seendate": "20261106T043000Z"
     },
     {
-     "title": "El vicepresidente colombiano da un mitin en la iglesia de “la pastora del PP”",
-     "url": "https://elpais.com/espana/madrid/2026-11-05/el-vicepresidente-colombiano-da-un-mitin-en-la-iglesia-de-la-pastora-del-pp.html",
-     "domain": "El País",
-     "seendate": "20261105T195625Z"
-    },
-    {
      "title": "La UCO registra la casa de Ábalos en Valencia en un nuevo operativo del ‘caso Koldo’ con seis detenidos",
      "url": "https://elpais.com/espana/2026-11-05/la-uco-despliega-un-nuevo-operativo-tras-entregar-un-informe-sobre-amanos-en-el-caso-koldo.html",
      "domain": "El País",
@@ -104,6 +98,12 @@
      "url": "https://elpais.com/espana/elecciones-generales/2026-11-05/colau-propone-aumentar-los-impuestos-a-ultrarricos-y-grandes-empresas-para-recaudar-10000-millones-de-euros.html",
      "domain": "El País",
      "seendate": "20261105T102848Z"
+    },
+    {
+     "title": "El ‘caso Pérgamo’ llega a su fin: los gestores aceptan devolver la marca a las dueñas de la librería tras registrarla a sus espaldas",
+     "url": "https://elpais.com/espana/madrid/2026-11-05/el-caso-pergamo-llega-a-su-fin-los-gestores-aceptan-devolver-la-marca-a-las-duenas-de-la-libreria-tras-registrarla-a-sus-espaldas.html",
+     "domain": "El País",
+     "seendate": "20261105T043001Z"
     },
     {
      "title": "Las vidas que se pararon para siempre en Urda",
@@ -348,12 +348,6 @@
      "url": "https://www.eluniversal.com.mx/estados/gobernadora-interina-de-sinaloa-destaca-que-corrupcion-en-el-ine-tiene-historia-altas-autoridades-del-instituto-lo-sabian-dice/",
      "domain": "El Universal",
      "seendate": "20261105T215228Z"
-    },
-    {
-     "title": "Instituto Electoral de Yucatán investiga cinco denuncias por presuntas infracciones; advierte que no son tiempos de precampaña",
-     "url": "https://www.eluniversal.com.mx/estados/instituto-electoral-de-yucatan-investiga-cinco-denuncias-por-presuntas-infracciones-advierte-que-no-son-tiempos-de-precampana/",
-     "domain": "El Universal",
-     "seendate": "20261105T213834Z"
     },
     {
      "title": "VIDEO: Se calientan los ánimos en la SCJN por proyecto de Batres; ministra busca proteger al ISSSTE en muertes por negligencia",
@@ -1645,10 +1639,10 @@
   "PER": {
    "articles": [
     {
-     "title": "Lluvias en Perú EN VIVO: distritos de Lima inundados, Regiones en alerta roja y pronóstico del Senamhi hoy",
+     "title": "Lluvias en Perú EN VIVO: pronostico y alertas del Senamhi por lluvias en Tumbes, Piura y Lima",
      "url": "https://elcomercio.pe/peru/lluvias-en-peru-por-el-nino-en-vivo-hoy-regiones-en-alerta-lluvias-y-pronostico-de-senamhi-lbposting-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261106T051602Z"
+     "seendate": "20261106T054409Z"
     },
     {
      "title": "El Comercio se embarcó con el papa León XIV en el inicio de su gira por América Latina",
@@ -1830,6 +1824,12 @@
   },
   "ARG": {
    "articles": [
+    {
+     "title": "Javier Milei y sus medidas, en vivo: “El espíritu liberal sigue vivo”, dijo el Presidente en la Cumbre Iberoamericana",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-espiritu-liberal-sigue-vivo-dijo-el-presidente-en-la-cumbre-nid06112026/",
+     "domain": "La Nación",
+     "seendate": "20261106T061143Z"
+    },
     {
      "title": "León vs. león: una coincidencia y muchas diferencias: así piensan Milei y el Papa",
      "url": "https://www.lanacion.com.ar/politica/leon-vs-leon-una-coincidencia-y-muchas-diferencias-asi-piensan-milei-y-el-papa-nid06112026/",
@@ -2027,12 +2027,6 @@
      "url": "https://www.lanacion.com.ar/seguridad/detuvieron-en-moreno-al-gordo-tilin-el-azote-de-fuerte-apache-nid05112026/",
      "domain": "La Nación",
      "seendate": "20261105T233225Z"
-    },
-    {
-     "title": "Sedaron a una perra para bañarla y murió: en un fallo sin precedentes, tuvieron que pagarle 17 millones de pesos a su dueña",
-     "url": "https://www.lanacion.com.ar/sociedad/sedaron-a-una-perra-para-banarla-y-murio-en-un-fallo-sin-precedentes-tuvieron-que-pagarle-17-nid04112026/",
-     "domain": "La Nación",
-     "seendate": "20261105T232920Z"
     }
    ]
   },
@@ -2145,6 +2139,12 @@
   "PRY": {
    "articles": [
     {
+     "title": "Ueno Bank: la esposa de Tim Payne habló de la crisis que golpea a Paraguay",
+     "url": "https://www.abc.com.py/nacionales/2026/11/06/ueno-bank-la-esposa-de-tim-payne-hablo-de-la-crisis-que-golpea-a-paraguay/",
+     "domain": "ABC Color",
+     "seendate": "20261106T054430Z"
+    },
+    {
      "title": "Video: Manifestantes siguen en el centro tras ataque a un local de Ueno",
      "url": "https://www.abc.com.py/nacionales/2026/11/06/video-manifestantes-siguen-en-el-centro-tras-ataque-a-un-local-de-ueno/",
      "domain": "ABC Color",
@@ -2252,42 +2252,6 @@
      "url": "https://oglobo.globo.com/brasil/noticia/2026/11/05/modelo-brasileiro-e-encontrado-morto-no-apartamento-que-vivia-na-franca-afirma-familia.ghtml",
      "domain": "O Globo",
      "seendate": "20261105T205940Z"
-    },
-    {
-     "title": "Visto americano: espera por entrevista chega a cinco meses em São Paulo; veja prazos e como tentar antecipar",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/11/05/visto-americano-espera-por-entrevista-chega-a-cinco-meses-em-sao-paulo-veja-prazos-e-como-tentar-antecipar.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261105T194935Z"
-    },
-    {
-     "title": "União analisa lacunas em parecer de órgão federal sobre mansão disputada por Richarlison e Willer Tomaz",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/11/05/uniao-analisa-lacunas-em-parecer-de-orgao-federal-sobre-mansao-disputada-por-richarlison-e-willer-tomaz.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261105T194835Z"
-    },
-    {
-     "title": "Fim da escala 6x1: Dino marca audiência de conciliação no STF para discutir implementação da nova jornada de trabalho",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/11/05/dino-marca-audiencia-de-conciliacao-apos-entidades-questionarem-fim-da-escala-6x1-no-stf.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261105T194145Z"
-    },
-    {
-     "title": "Caso Porsche: MP pede investigação de namorada de Fernando Sastre por falso testemunho",
-     "url": "https://oglobo.globo.com/brasil/sao-paulo/noticia/2026/11/05/mp-pede-investigacao-de-ex-namorada-de-empresario-do-porsche-por-falso-testemunho.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261105T193859Z"
-    },
-    {
-     "title": "Fuga de Flávio Bolsonaro para os Estados Unidos teve ajuda de assessor de Milei, diz NYT",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/11/05/fuga-de-flavio-bolsonaro-para-os-estados-unidos-teve-ajuda-de-assessor-de-milei-diz-nyt.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261105T191904Z"
-    },
-    {
-     "title": "Flávio nomeia dois assessores para gabinete no Senado após fugir para os Estados Unidos",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/11/05/flavio-nomeia-dois-assessores-para-gabinete-no-senado-apos-fugir-para-os-estados-unidos.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261105T190614Z"
     }
    ]
   }
