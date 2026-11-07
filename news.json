@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T08:49:02+00:00",
+ "updated": "2026-11-07T09:45:10+00:00",
  "countries": {
   "ESP": {
    "articles": [
@@ -30,6 +30,12 @@
     {
      "title": "Tumbado un contrato valorado en 50 millones para 18 centros de atención a mujeres víctimas de violencia machista en Madrid",
      "url": "https://elpais.com/espana/madrid/2026-11-07/tumbado-un-contrato-valorado-en-50-millones-para-18-centros-de-atencion-a-mujeres-victimas-de-violencia-machista-en-madrid.html",
+     "domain": "El País",
+     "seendate": "20261107T043001Z"
+    },
+    {
+     "title": "En la fiesta de Bultaco me colé",
+     "url": "https://elpais.com/espana/catalunya/2026-11-07/en-la-fiesta-de-bultaco-me-cole.html",
      "domain": "El País",
      "seendate": "20261107T043001Z"
     },
@@ -109,6 +115,24 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Alcanzan la mejor calificación crediticia en la historia",
+     "url": "https://www.eluniversal.com.mx/estados/alcanzan-la-mejor-calificacion-crediticia-en-la-historia/",
+     "domain": "El Universal",
+     "seendate": "20261107T090529Z"
+    },
+    {
+     "title": "Estado acumula inversiones privadas por 9 mil 800 mdd",
+     "url": "https://www.eluniversal.com.mx/estados/estado-acumula-inversiones-privadas-por-9-mil-800-mdd/",
+     "domain": "El Universal",
+     "seendate": "20261107T090115Z"
+    },
+    {
+     "title": "Titular de Protección Civil ofrece disculpas por la represión",
+     "url": "https://www.eluniversal.com.mx/estados/titular-de-proteccion-civil-ofrece-disculpas-por-la-represion/",
+     "domain": "El Universal",
+     "seendate": "20261107T085122Z"
+    },
     {
      "title": "En Jalisco llega agua transparente; tiene plomo y restos fecales",
      "url": "https://www.eluniversal.com.mx/estados/en-jalisco-llega-agua-transparente-tiene-plomo-y-restos-fecales/",
@@ -302,40 +326,16 @@
      "seendate": "20261106T230828Z"
     },
     {
-     "title": "Activan alerta amarilla por bajas temperaturas en 6 alcaldías de CDMX para este sábado 7 de noviembre; termómetro podría alcanzar los 4 grados",
-     "url": "https://www.eluniversal.com.mx/metropoli/activan-alerta-amarilla-por-bajas-temperaturas-en-6-alcaldias-de-cdmx-para-este-sabado-7-de-noviembre-termometro-podria-alcanzar-los-4-grados/",
-     "domain": "El Universal",
-     "seendate": "20261106T224821Z"
-    },
-    {
-     "title": "David Monreal solicitará a Fiscalía de Zacatecas investigar al Instituto Electoral local; buscan determinar presencia de presunta red de corrupción",
-     "url": "https://www.eluniversal.com.mx/estados/david-monreal-solicitara-a-fiscalia-de-zacatecas-investigar-al-instituto-electoral-local-buscan-determinar-presencia-de-presunta-red-de-corrupcion/",
-     "domain": "El Universal",
-     "seendate": "20261106T223646Z"
-    },
-    {
      "title": "Yucatán arranca proceso electoral 2026-2027; se elegirán 106 alcaldías y 35 diputados locales",
      "url": "https://www.eluniversal.com.mx/metropoli/yucatan-arranca-proceso-electoral-2026-2027-se-elegiran-106-alcaldias-y-35-diputados-locales/",
      "domain": "El Universal",
      "seendate": "20261106T222131Z"
     },
     {
-     "title": "Fiscalía CDMX confirma investigación a Vadhir Derbez por violación; asegura contar con datos de prueba suficientes",
-     "url": "https://www.eluniversal.com.mx/metropoli/fiscalia-cdmx-confirma-investigacion-a-vadhir-derbez-por-violacion-asegura-contar-con-datos-de-prueba-suficientes/",
-     "domain": "El Universal",
-     "seendate": "20261106T221325Z"
-    },
-    {
      "title": "Trabajadores del Poder Judicial realizan bloqueos, marchas y paro de labores en distintos estados; rechazan evaluación",
      "url": "https://www.eluniversal.com.mx/estados/trabajadores-del-poder-judicial-realizan-bloqueos-marchas-y-paro-de-labores-en-distintos-estados-rechazan-evaluacion/",
      "domain": "El Universal",
      "seendate": "20261106T185642Z"
-    },
-    {
-     "title": "Tribunal de Disciplina investiga a juez que liberó a colaborador de Ryan Wedding y fue detenido en Colombia; recibió sobornos",
-     "url": "https://www.eluniversal.com.mx/nacion/tribunal-de-disciplina-investiga-a-juez-que-libero-a-ryan-weddin-y-fue-detenido-en-colombia-es-acusado-de-recibir-sobornos/",
-     "domain": "El Universal",
-     "seendate": "20261106T030724Z"
     }
    ]
   },
@@ -1235,6 +1235,12 @@
   "VEN": {
    "articles": [
     {
+     "title": "Inicio | Periódico CiudadCCS",
+     "url": "http://ciudadccs.info/publicacion/53240-el-tren-de-carga-david-peralta-llega-a-su-destino-final-en-la-lvbp",
+     "domain": "ciudadccs.info",
+     "seendate": "20261107T070000Z"
+    },
+    {
      "title": "William Contreras , el receptor con más victoria en el ABS",
      "url": "https://www.liderendeportes.com/venezolanos-mlb/william-contreras-el-receptor-con-mas-victorias-en-el-abs/",
      "domain": "liderendeportes.com",
@@ -1262,12 +1268,6 @@
      "title": "María Corina Machado : No descansaremos hasta que el último preso político obtenga libertad plena",
      "url": "https://www.el-carabobeno.com/maria-corina-machado-no-descansaremos-hasta-que-el-ultimo-preso-politico-obtenga-libertad-plena/",
      "domain": "el-carabobeno.com",
-     "seendate": "20261107T000000Z"
-    },
-    {
-     "title": "Inicio | Periódico CiudadCCS",
-     "url": "http://www.ciudadccs.info/publicacion/53282-formacion-en-luteria-abre-caminos-de-inclusion-productiva-en-el-rodeo",
-     "domain": "ciudadccs.info",
      "seendate": "20261107T000000Z"
     },
     {
@@ -1537,24 +1537,6 @@
     {
      "title": "Defensoría del Pueblo de Venezuela acude a la FIO",
      "url": "https://radiomundial.com.ve/defensoria-del-pueblo-congreso-fio-buenos-aires-2026/",
-     "domain": "radiomundial.com.ve",
-     "seendate": "20261106T023000Z"
-    },
-    {
-     "title": "Vinotinto femenina avanza a semifinales en Dakar 2026",
-     "url": "https://radiomundial.com.ve/vinotinto-femenina-futsal-semifinales-dakar-2026/",
-     "domain": "radiomundial.com.ve",
-     "seendate": "20261106T023000Z"
-    },
-    {
-     "title": "Venezuela y México abordan asuntos bilaterales",
-     "url": "https://radiomundial.com.ve/venezuela-mexico-abordan-asunto-bilaterales-encuentro-cancilleres-2026/",
-     "domain": "radiomundial.com.ve",
-     "seendate": "20261106T023000Z"
-    },
-    {
-     "title": "Venezuela participa en la CIIE 2026 en Shanghái",
-     "url": "https://radiomundial.com.ve/venezuela-participa-ciie-2026-shanghai-exportaciones-42-empresas/",
      "domain": "radiomundial.com.ve",
      "seendate": "20261106T023000Z"
     }
@@ -2401,6 +2383,42 @@
   "ARG": {
    "articles": [
     {
+     "title": "Envases vacíos de agroquímicos: el 44% del plástico recuperado se usa para fabricar caños de fibra óptica",
+     "url": "https://www.lanacion.com.ar/economia/campo/envases-vacios-de-agroquimicos-el-44-del-plastico-recuperado-se-usa-para-fabricar-canos-de-fibra-nid06112026/",
+     "domain": "La Nación",
+     "seendate": "20261107T093500Z"
+    },
+    {
+     "title": "Ramona Casas tiene 74 años, fue elegida para hacer quesillos para el papa León XIV y sigue una conmovedora tradición familiar",
+     "url": "https://www.lanacion.com.ar/economia/campo/ramona-casas-tiene-74-anos-fue-elegida-para-hacer-quesillos-para-el-papa-leon-xiv-y-sigue-una-nid07112026/",
+     "domain": "La Nación",
+     "seendate": "20261107T093126Z"
+    },
+    {
+     "title": "Día del Canillita: por qué se celebra hoy, 7 de noviembre",
+     "url": "https://www.lanacion.com.ar/sociedad/dia-del-canillita-por-que-se-celebra-hoy-7-de-noviembre-nid07112026/",
+     "domain": "La Nación",
+     "seendate": "20261107T090200Z"
+    },
+    {
+     "title": "Maíz tardío: las claves del nitrógeno para destrabar el rinde",
+     "url": "https://www.lanacion.com.ar/economia/campo/agricultura/maiz-tardio-las-claves-del-nitrogeno-para-destrabar-el-rinde-nid07112026/",
+     "domain": "La Nación",
+     "seendate": "20261107T090001Z"
+    },
+    {
+     "title": "El femicidio de Nancy Godoy: un circuito de cotos de caza domina el escenario de un crimen que aún no tiene un móvil preciso",
+     "url": "https://www.lanacion.com.ar/seguridad/femicidio-de-nancy-godoy-las-sospechas-sobre-un-circuito-ilegal-de-caza-en-corrientes-nid07112026/",
+     "domain": "La Nación",
+     "seendate": "20261107T090000Z"
+    },
+    {
+     "title": "Un país que no le es ajeno: una por una, las veces que León XIV visitó la Argentina antes de ser Papa",
+     "url": "https://www.lanacion.com.ar/sociedad/un-pais-que-no-le-es-ajeno-una-por-una-las-veces-que-leon-xiv-visito-la-argentina-antes-de-ser-papa-nid07112026/",
+     "domain": "La Nación",
+     "seendate": "20261107T090000Z"
+    },
+    {
      "title": "Anuncian un cambio en el clima en Buenos Aires durante la visita del papa León XIV: llega un “veranito” con temperaturas de hasta 30°",
      "url": "https://www.lanacion.com.ar/sociedad/anuncian-un-cambio-en-el-clima-en-buenos-aires-durante-la-visita-del-papa-leon-xiv-llega-un-veranito-nid07112026/",
      "domain": "La Nación",
@@ -2411,12 +2429,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/visita-del-papa-leon-xiv-en-vivo-su-paso-por-uruguay-y-las-ultimas-noticias-de-su-agenda-en-buenos-nid07112026/",
      "domain": "La Nación",
      "seendate": "20261107T070000Z"
-    },
-    {
-     "title": "Ramona Casas tiene 74 años, fue elegida para hacer quesillos para el papa León XIV y sigue una conmovedora tradición familiar",
-     "url": "https://www.lanacion.com.ar/economia/campo/ramona-casas-tiene-74-anos-fue-elegida-para-hacer-quesillos-para-el-papa-leon-xiv-y-sigue-una-nid07112026/",
-     "domain": "La Nación",
-     "seendate": "20261107T060000Z"
     },
     {
      "title": "¿En qué creen los argentinos? Nuevas identidades religiosas y una tendencia incipiente que ilusiona al catolicismo",
@@ -2828,6 +2840,12 @@
   },
   "PRY": {
    "articles": [
+    {
+     "title": "La incertidumbre laboral tras el colapso de Ueno Bank activó la solidaridad empresarial",
+     "url": "https://www.abc.com.py/nacionales/2026/11/07/la-incertidumbre-laboral-tras-el-colapso-de-ueno-bank-activa-la-solidaridad-empresarial/",
+     "domain": "ABC Color",
+     "seendate": "20261107T090000Z"
+    },
     {
      "title": "PJC: fallece la mujer que había despertado en una funeraria tras declararse su muerte por error",
      "url": "https://www.abc.com.py/nacionales/2026/11/07/pjc-fallece-la-mujer-que-habia-despertado-en-una-funeraria-tras-declararse-su-muerte-por-error/",
