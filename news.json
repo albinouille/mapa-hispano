@@ -1,8 +1,20 @@
 {
- "updated": "2026-11-07T10:40:08+00:00",
+ "updated": "2026-11-07T11:34:09+00:00",
  "countries": {
   "ESP": {
    "articles": [
+    {
+     "title": "Última hora de la actualidad política, en directo | Sánchez: “No vamos a permitir que España sea el patio trasero de la internacional ultraderechista”",
+     "url": "https://elpais.com/espana/2026-11-07/ultima-hora-de-la-actualidad-politica-en-directo.html",
+     "domain": "El País",
+     "seendate": "20261107T112843Z"
+    },
+    {
+     "title": "Detenidas 50 personas, de ellas 43 empresarios, por la entrada irregular de migrantes",
+     "url": "https://elpais.com/espana/catalunya/2026-11-07/detenidas-50-personas-de-ellas-43-empresarios-por-la-entrada-irregular-de-migrantes.html",
+     "domain": "El País",
+     "seendate": "20261107T101246Z"
+    },
     {
      "title": "¿Se mueven las encuestas? Desde la convocatoria y tras el accidente de tren",
      "url": "https://elpais.com/espana/2026-11-07/se-mueven-las-encuestas-que-ha-cambiado-desde-la-convocatoria-y-tras-el-accidente-de-tren.html",
@@ -88,12 +100,6 @@
      "seendate": "20261106T043001Z"
     },
     {
-     "title": "Unos 600 alumnos de 20 escuelas testan el nuevo modelo de pruebas diagnósticas de la Generalitat",
-     "url": "https://elpais.com/espana/catalunya/2026-11-06/unos-300-alumnos-de-20-escuelas-testan-el-nuevo-modelo-de-pruebas-diagnosticas-de-la-generalitat.html",
-     "domain": "El País",
-     "seendate": "20261106T043001Z"
-    },
-    {
      "title": "Un grupo de parapentistas fuerza en los tribunales la demolición de un chalé con 11 dormitorios en la mejor atalaya de Zarautz",
      "url": "https://elpais.com/espana/2026-11-06/un-grupo-de-parapentistas-fuerza-en-los-tribunales-la-demolicion-de-un-chale-con-11-dormitorios-en-la-mejor-atalaya-de-zarautz.html",
      "domain": "El País",
@@ -174,12 +180,6 @@
      "url": "https://www.eluniversal.com.mx/nacion/titulares-del-sector-salud-culpan-al-pasado-de-problemas/",
      "domain": "El Universal",
      "seendate": "20261107T072547Z"
-    },
-    {
-     "title": "Morena impone reunión a modo para sector salud",
-     "url": "https://www.eluniversal.com.mx/nacion/morena-impone-reunion-a-modo-para-sector-salud/",
-     "domain": "El Universal",
-     "seendate": "20261107T070932Z"
     },
     {
      "title": "Truenan contra “examen punitivo” del Poder Judicial; gremio se suma en 20 estados",
@@ -332,10 +332,16 @@
      "seendate": "20261106T233829Z"
     },
     {
-     "title": "Trabajadores del Poder Judicial acusan evaluación \"arbitraria y subjetiva\"; \"trabajo en equipo\", entre los criterios",
-     "url": "https://www.eluniversal.com.mx/nacion/trabajadores-del-poder-judicial-acusan-evaluacion-arbitraria-y-subjetiva-trabajo-en-equipo-entre-los-criterios/",
+     "title": "VIDEO Trabajadores del Poder Judicial en Durango encaran a presidente del OAJ; termina en el suelo",
+     "url": "https://www.eluniversal.com.mx/estados/video-trabajadores-del-poder-judicial-en-durango-encaran-a-presidente-del-oaj-termina-en-el-suelo/",
      "domain": "El Universal",
-     "seendate": "20261106T233544Z"
+     "seendate": "20261106T231818Z"
+    },
+    {
+     "title": "Secretaría de Pueblos y Barrios Originarios asegura que trabajan en consultas para impulsar líneas 5 y 6 del Cablebús; destaca construcción de obras",
+     "url": "https://www.eluniversal.com.mx/metropoli/secretaria-de-pueblos-y-barrios-originarios-asegura-que-trabajan-en-consultas-para-impulsar-lineas-5-y-6-del-cablebus-destaca-construccion-de-obras/",
+     "domain": "El Universal",
+     "seendate": "20261106T230828Z"
     },
     {
      "title": "Yucatán arranca proceso electoral 2026-2027; se elegirán 106 alcaldías y 35 diputados locales",
@@ -718,6 +724,12 @@
   "HND": {
    "articles": [
     {
+     "title": "Confianza en bancos también se protege con información",
+     "url": "https://www.laprensa.hn/opinion/columnas/confianza-en-bancos-tambien-se-protege-con-informacion-JD32570977",
+     "domain": "laprensa.hn",
+     "seendate": "20261107T070000Z"
+    },
+    {
      "title": "Los subsidios , ¿ impulso social o freno al desarrollo ?",
      "url": "https://www.laprensa.hn/opinion/columnas/los-subsidios-impulso-social-o-freno-al-desarrollo-ID32570866",
      "domain": "laprensa.hn",
@@ -726,12 +738,6 @@
     {
      "title": "Patada de burro para Trump",
      "url": "http://www.laprensa.hn/opinion/columnas/patada-de-burro-para-trump-JD32570768",
-     "domain": "laprensa.hn",
-     "seendate": "20261107T070000Z"
-    },
-    {
-     "title": "Confianza en bancos también se protege con información",
-     "url": "https://www.laprensa.hn/opinion/columnas/confianza-en-bancos-tambien-se-protege-con-informacion-JD32570977",
      "domain": "laprensa.hn",
      "seendate": "20261107T070000Z"
     },
@@ -789,6 +795,12 @@
   },
   "CRI": {
    "articles": [
+    {
+     "title": "Presas en San José condicionan decisiones laborales: uno de cada cuatro trabajadores ha pensado cambiar de empleo",
+     "url": "https://www.nacion.com/el-pais/rechazaria-un-buen-trabajo-por-las-presas-cada-vez/SVJKNW2DEBAKFFLNJUMSY7U6TA/story/",
+     "domain": "La Nación",
+     "seendate": "20261107T111500Z"
+    },
     {
      "title": "Yara Jiménez rechaza necesidad de 38 votos para aprobar normas que congelan ¢30.000 millones al Poder Judicial; oposición apela y PPSO aplasta reclamo",
      "url": "https://www.nacion.com/politica/yara-jimenez-rechaza-necesidad-de-38-votos-para/VW27TFNRXJCL3MJ7MT2FKJCYLE/story/",
@@ -950,18 +962,6 @@
      "url": "https://www.nacion.com/el-pais/ruta-32-reabre-este-viernes-tras-inspeccion-por/6DN2S25YKNDYRAW2AELRCQX424/story/",
      "domain": "La Nación",
      "seendate": "20261106T125856Z"
-    },
-    {
-     "title": "IMN pronostica sistema de baja presión que traerá lluvias, nubosidad y baja temperatura",
-     "url": "https://www.nacion.com/sucesos/imn-pronostica-nubosidad-y-baja-temperatura-este/WEDEHE6ULRGXXHFE2J4FAIIM2E/story/",
-     "domain": "La Nación",
-     "seendate": "20261106T121734Z"
-    },
-    {
-     "title": "Costa Rica tendrá un viernes de aguaceros y tormentas eléctricas: este es el pronóstico del IMN",
-     "url": "https://www.nacion.com/sucesos/costa-rica-tendra-un-viernes-de-aguaceros-y/H56WZYBQRZDFZG2PFBQBVGV664/story/",
-     "domain": "La Nación",
-     "seendate": "20261106T121700Z"
     }
    ]
   },
@@ -1689,12 +1689,6 @@
      "seendate": "20261106T154849Z"
     },
     {
-     "title": "Fiscalía interviene dependencias del Municipio de Guayaquil para recabar indicios por presunto peculado",
-     "url": "https://eluniverso.com/politica/expedientes/fiscalia-interviene-dependencias-del-municipio-de-guayaquil-para-recabar-indicios-por-presunto-peculado-nota/",
-     "domain": "El Universo",
-     "seendate": "20261106T154155Z"
-    },
-    {
      "title": "Rioverde y las islas de Esmeraldas nuevamente fueron afectados por los desbordamientos de los ríos",
      "url": "https://eluniverso.com/comunidad/ecuador/rioverde-y-las-islas-de-esmeraldas-nuevamente-fueron-afectadas-por-los-desbordamientos-de-rios-nota/",
      "domain": "El Universo",
@@ -1735,34 +1729,28 @@
   "PER": {
    "articles": [
     {
+     "title": "Balance de los primeros 100 días del gobierno de la presidenta Keiko Fujimori",
+     "url": "https://elcomercio.pe/economia/peru/balance-de-los-primeros-100-dias-del-gobierno-de-la-presidenta-keiko-fujimori-peru-100-dias-de-keiko-fujimori-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261107T110100Z"
+    },
+    {
+     "title": "“El King kong del Papa’, ‘Papaletas’, viajes y polos: estas son las cifras que bendecirán la economía por la visita de León XIV",
+     "url": "https://elcomercio.pe/economia/peru/papa-king-kones-y-papaletas-asi-se-mueve-la-economia-peruana-por-la-visita-de-leon-xiv-apuesplan-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261107T110001Z"
+    },
+    {
      "title": "Lluvias en Perú por Fenómeno El Niño en vivo: regiones en alerta y pronóstico de Senamhi",
      "url": "https://elcomercio.pe/peru/lluvias-en-peru-por-el-nino-en-vivo-hoy-regiones-en-alerta-posibles-desbordes-y-pronostico-de-senamhi-lbposting-noticia/",
      "domain": "El Comercio",
      "seendate": "20261107T082252Z"
     },
     {
-     "title": "“El King kong del Papa’, ‘Papaletas’, viajes y polos: estas son las cifras que bendecirán la economía por la visita de León XIV",
-     "url": "https://elcomercio.pe/economia/peru/papa-king-kones-y-papaletas-asi-se-mueve-la-economia-peruana-por-la-visita-de-leon-xiv-apuesplan-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261107T031800Z"
-    },
-    {
      "title": "Elmer Cuba, ministro de Economía: “Este año Petro-Perú va a ganar dinero”",
      "url": "https://elcomercio.pe/economia/peru/petroperu-keiko-elmer-cuba-este-ano-petroperu-va-a-ganar-dinero-noticia/",
      "domain": "El Comercio",
      "seendate": "20261107T014916Z"
-    },
-    {
-     "title": "Lluvias en Perú: pronóstico y alertas del Senamhi por lluvias en Tumbes, Piura y Lima",
-     "url": "https://elcomercio.pe/peru/lluvias-en-peru-por-el-nino-en-vivo-hoy-regiones-en-alerta-lluvias-y-pronostico-de-senamhi-lbposting-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261107T002549Z"
-    },
-    {
-     "title": "Crisis eléctrica en el norte: el gas de Piura sería la solución, pero ¿por qué hoy es más caro?",
-     "url": "https://elcomercio.pe/economia/peru/gas-piura-la-crisis-electrica-que-sufre-el-norte-peruano-se-puede-solucionar-con-el-gas-de-piura-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261106T233700Z"
     },
     {
      "title": "El dólar cierra en S/3,42 y sol peruano lidera ganancias frente a monedas de la región",
@@ -1799,12 +1787,6 @@
      "url": "https://elcomercio.pe/economia/peru/sunat-recaudacion-tributaria-crece-146-en-octubre-de-2026-l-ultimas-noticia/",
      "domain": "El Comercio",
      "seendate": "20261106T141134Z"
-    },
-    {
-     "title": "Juliaca inicia la modernización integral de su aeropuerto con una inversión superior a los US$200 millones",
-     "url": "https://elcomercio.pe/economia/peru/juliaca-inicia-la-modernizacion-integral-de-su-aeropuerto-con-una-inversion-superior-a-los-us200-millones-l-ultimas-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261106T010253Z"
     }
    ]
   },
@@ -2395,6 +2377,48 @@
   "ARG": {
    "articles": [
     {
+     "title": "Cronograma oficial del Viaje Apostólico del Santo Padre León XIV a la Argentina",
+     "url": "https://www.lanacion.com.ar/sociedad/cronograma-oficial-del-viaje-apostolico-del-santo-padre-leon-xiv-a-la-argentina-nid07112026/",
+     "domain": "La Nación",
+     "seendate": "20261107T112900Z"
+    },
+    {
+     "title": "Hay alerta naranja y amarilla por tormentas y vientos para este sábado 7 de noviembre: las provincias afectadas",
+     "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-naranja-y-amarilla-por-tormentas-y-vientos-para-este-sabado-7-de-noviembre-las-provincias-nid07112026/",
+     "domain": "La Nación",
+     "seendate": "20261107T112852Z"
+    },
+    {
+     "title": "Visita del Papa León XIV, EN VIVO: su paso por Uruguay y las últimas noticias de su agenda en Buenos Aires, Córdoba y Luján",
+     "url": "https://www.lanacion.com.ar/sociedad/visita-del-papa-leon-xiv-en-vivo-su-paso-por-uruguay-y-las-ultimas-noticias-de-su-agenda-en-buenos-nid07112026/",
+     "domain": "La Nación",
+     "seendate": "20261107T111820Z"
+    },
+    {
+     "title": "Dólar hoy y dólar blue hoy: a cuánto cotiza este sábado 7 de noviembre",
+     "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-hoy-a-cuanto-cotiza-este-sabado-7-de-noviembre-nid07112026/",
+     "domain": "La Nación",
+     "seendate": "20261107T111648Z"
+    },
+    {
+     "title": "Fin de semana largo: por qué es feriado el lunes 9 de noviembre",
+     "url": "https://www.lanacion.com.ar/sociedad/fin-de-semana-largo-por-que-es-feriado-el-lunes-9-de-noviembre-nid07112026/",
+     "domain": "La Nación",
+     "seendate": "20261107T110200Z"
+    },
+    {
+     "title": "Un médico cardiólogo advirtió sobre el consumo de anabólicos: “Es muy riesgoso y puede generar complicaciones graves en nuestro organismo”",
+     "url": "https://www.lanacion.com.ar/sociedad/un-medico-cardiologo-advirtio-sobre-el-consumo-de-anabolicos-es-muy-riesgoso-y-puede-generar-nid07112026/",
+     "domain": "La Nación",
+     "seendate": "20261107T110000Z"
+    },
+    {
+     "title": "Ramona Casas tiene 74 años, fue elegida para hacer quesillos para el papa León XIV y sigue una conmovedora tradición familiar",
+     "url": "https://www.lanacion.com.ar/economia/campo/ramona-casas-tiene-74-anos-fue-elegida-para-hacer-quesillos-para-el-papa-leon-xiv-y-sigue-una-nid07112026/",
+     "domain": "La Nación",
+     "seendate": "20261107T105501Z"
+    },
+    {
      "title": "La historia de Mercedes Fariña, la artista argentina cuya obra llegará a manos de León XIV: “Es un honor poner el arte al servicio de su mensaje de fe”",
      "url": "https://www.lanacion.com.ar/sociedad/la-historia-de-mercedes-farina-la-artista-argentina-cuya-obra-llegara-a-manos-de-leon-xiv-es-un-nid05112026/",
      "domain": "La Nación",
@@ -2437,12 +2461,6 @@
      "seendate": "20261107T102302Z"
     },
     {
-     "title": "Visita del Papa León XIV, EN VIVO: su paso por Uruguay y las últimas noticias de su agenda en Buenos Aires, Córdoba y Luján",
-     "url": "https://www.lanacion.com.ar/sociedad/visita-del-papa-leon-xiv-en-vivo-su-paso-por-uruguay-y-las-ultimas-noticias-de-su-agenda-en-buenos-nid07112026/",
-     "domain": "La Nación",
-     "seendate": "20261107T102242Z"
-    },
-    {
      "title": "De dónde es el papa León XIV: la historia del Sumo Pontífice",
      "url": "https://www.lanacion.com.ar/sociedad/de-donde-es-el-papa-leon-xiv-la-historia-del-sumo-pontifice-nid04112026/",
      "domain": "La Nación",
@@ -2467,12 +2485,6 @@
      "seendate": "20261107T100410Z"
     },
     {
-     "title": "Dólar hoy y dólar blue hoy: a cuánto cotiza este sábado 7 de noviembre",
-     "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-hoy-a-cuanto-cotiza-este-sabado-7-de-noviembre-nid07112026/",
-     "domain": "La Nación",
-     "seendate": "20261107T100300Z"
-    },
-    {
      "title": "Itinerario del papa León XIV en la Argentina: días y horarios de la agenda del Sumo Pontífice",
      "url": "https://www.lanacion.com.ar/sociedad/itinerario-del-papa-leon-xiv-en-la-argentina-dias-y-horarios-de-la-agenda-del-sumo-pontifice-nid05112026/",
      "domain": "La Nación",
@@ -2489,12 +2501,6 @@
      "url": "https://www.lanacion.com.ar/economia/campo/envases-vacios-de-agroquimicos-el-44-del-plastico-recuperado-se-usa-para-fabricar-canos-de-fibra-nid06112026/",
      "domain": "La Nación",
      "seendate": "20261107T093500Z"
-    },
-    {
-     "title": "Ramona Casas tiene 74 años, fue elegida para hacer quesillos para el papa León XIV y sigue una conmovedora tradición familiar",
-     "url": "https://www.lanacion.com.ar/economia/campo/ramona-casas-tiene-74-anos-fue-elegida-para-hacer-quesillos-para-el-papa-leon-xiv-y-sigue-una-nid07112026/",
-     "domain": "La Nación",
-     "seendate": "20261107T093126Z"
     },
     {
      "title": "Día del Canillita: por qué se celebra hoy, 7 de noviembre",
@@ -2555,24 +2561,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/la-reflexion-de-gabriel-rolon-sobre-la-esperanza-puede-dejarnos-incapacitados-de-jugar-un-deseo-a-la-nid04112026/",
      "domain": "La Nación",
      "seendate": "20261107T024800Z"
-    },
-    {
-     "title": "El Niño: anticipan temperaturas de más de 40 grados, riesgo de heladas y tormentas intensas",
-     "url": "https://www.lanacion.com.ar/economia/campo/el-nino-anticipan-temperaturas-de-mas-de-40-grados-riesgo-de-heladas-y-tormentas-intensas-nid05112026/",
-     "domain": "La Nación",
-     "seendate": "20261107T022014Z"
-    },
-    {
-     "title": "Qué pasó con Ueno Bank y cómo sigue la crisis en Paraguay hoy, viernes 6 de noviembre",
-     "url": "https://www.lanacion.com.ar/economia/que-paso-con-ueno-bank-y-como-sigue-la-crisis-en-paraguay-hoy-viernes-6-de-noviembre-nid06112026/",
-     "domain": "La Nación",
-     "seendate": "20261107T021429Z"
-    },
-    {
-     "title": "Una mujer se cayó en la calle por una baldosa faltante y el Estado deberá pagarle una indemnización millonaria",
-     "url": "https://www.lanacion.com.ar/sociedad/una-mujer-se-cayo-en-la-calle-por-una-baldosa-faltante-y-el-estado-debera-pagarle-una-indemnizacion-nid05112026/",
-     "domain": "La Nación",
-     "seendate": "20261107T021415Z"
     }
    ]
   },
@@ -2847,8 +2835,8 @@
      "seendate": "20261107T100000Z"
     },
     {
-     "title": "La incertidumbre laboral tras el colapso de Ueno Bank activó la solidaridad empresarial",
-     "url": "https://www.abc.com.py/nacionales/2026/11/07/la-incertidumbre-laboral-tras-el-colapso-de-ueno-bank-activa-la-solidaridad-empresarial/",
+     "title": "La incertidumbre laboral tras el colapso de Ueno Bank activó una ola de solidaridad",
+     "url": "https://www.abc.com.py/nacionales/2026/11/07/la-incertidumbre-laboral-tras-el-colapso-de-ueno-bank-activo-una-ola-de-solidaridad/",
      "domain": "ABC Color",
      "seendate": "20261107T090000Z"
     },
