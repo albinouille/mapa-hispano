@@ -1,13 +1,19 @@
 {
- "updated": "2026-11-08T14:13:02+00:00",
+ "updated": "2026-11-08T19:02:47+00:00",
  "countries": {
   "ESP": {
    "articles": [
     {
-     "title": "Última hora de la actualidad política, en directo | Sánchez se compromete a blindar la revalorización de las pensiones conforme al IPC en la Constitución",
-     "url": "https://elpais.com/espana/2026-11-08/ultima-hora-de-la-actualidad-politica-en-directo.html",
+     "title": "Diez de los detenidos de Núcleo Nacional quedan en libertad con medidas cautelares",
+     "url": "https://elpais.com/espana/2026-11-08/diez-de-los-detenidos-de-nucleo-nacional-quedan-en-libertad-con-medidas-cautelares.html",
      "domain": "El País",
-     "seendate": "20261108T134725Z"
+     "seendate": "20261108T151024Z"
+    },
+    {
+     "title": "Sánchez reenfoca la campaña del PSOE en la gestión y asegura que blindará las pensiones en la Constitución",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-08/sanchez-reenfoca-la-campana-del-psoe-en-la-gestion-y-asegura-que-blindara-las-pensiones-en-la-constitucion.html",
+     "domain": "El País",
+     "seendate": "20261108T150200Z"
     },
     {
      "title": "Puigdemont acude por sorpresa a Prats de Molló (Francia) para inaugurar la Casa Macià",
@@ -70,12 +76,6 @@
      "seendate": "20261108T043001Z"
     },
     {
-     "title": "Las ‘ranas’ de Aguirre y otros acusados de corrupción del PP se benefician del colapso de la Audiencia Nacional",
-     "url": "https://elpais.com/espana/2026-11-08/las-ranas-de-aguirre-y-otros-acusados-de-corrupcion-del-pp-se-benefician-del-colapso-de-la-audiencia-nacional.html",
-     "domain": "El País",
-     "seendate": "20261108T043001Z"
-    },
-    {
      "title": "Albiol, el modelo de Feijóo",
      "url": "https://elpais.com/espana/catalunya/2026-11-08/albiol-el-modelo-de-feijoo.html",
      "domain": "El País",
@@ -94,12 +94,6 @@
      "seendate": "20261108T043000Z"
     },
     {
-     "title": "El Hierro pide más ayuda al Estado ante la llegada de más cayucos a Canarias",
-     "url": "https://elpais.com/espana/2026-11-07/el-hierro-pide-mas-ayuda-al-estado-ante-la-llegada-de-mas-cayucos-a-canarias.html",
-     "domain": "El País",
-     "seendate": "20261107T160033Z"
-    },
-    {
      "title": "Un profesor buscado por la Audiencia Nacional recluta soldados y espías españoles para Rusia",
      "url": "https://elpais.com/espana/2026-11-07/un-profesor-buscado-por-la-audiencia-nacional-recluta-soldados-y-espias-espanoles-para-rusia.html",
      "domain": "El País",
@@ -115,6 +109,126 @@
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Hallan sin vida a joven de 23 años en Xalapa; detienen a su pareja como principal sospechoso",
+     "url": "https://www.eluniversal.com.mx/estados/hallan-sin-vida-a-joven-de-23-anos-en-xalapa-detienen-a-su-pareja-como-principal-sospechoso/",
+     "domain": "El Universal",
+     "seendate": "20261108T185256Z"
+    },
+    {
+     "title": "Desfile de modas en la Catedral de Puebla desata polémica; comunidad católica cuestiona uso del recinto religioso",
+     "url": "https://www.eluniversal.com.mx/estados/desfile-de-modas-en-la-catedral-de-puebla-desata-polemica-comunidad-catolica-cuestiona-uso-del-recinto-religioso/",
+     "domain": "El Universal",
+     "seendate": "20261108T184228Z"
+    },
+    {
+     "title": "Desmantelan laboratorio clandestino de drogas sintéticas en Puebla; detienen a dos hombres",
+     "url": "https://www.eluniversal.com.mx/estados/desmantelan-laboratorio-clandestino-de-drogas-sinteticas-en-puebla-detienen-a-dos-hombres/",
+     "domain": "El Universal",
+     "seendate": "20261108T182500Z"
+    },
+    {
+     "title": "Localizan con vida a Miguel Ángel Almaraz, presidente municipal de Río Bravo; edil había sido privado de la libertad rumbo a SLP",
+     "url": "https://www.eluniversal.com.mx/nacion/localizan-con-vida-a-miguel-angel-almaraz-presidente-municipal-de-rio-bravo-edil-habia-sido-privado-de-la-libertad-rumbo-a-slp/",
+     "domain": "El Universal",
+     "seendate": "20261108T180206Z"
+    },
+    {
+     "title": "Luis Carlos Ugalde, expresidente del IFE, rechaza acusaciones de fraude en 2006; exige pruebas ante señalamientos",
+     "url": "https://www.eluniversal.com.mx/nacion/luis-carlos-ugalde-expresidente-del-ife-rechaza-acusaciones-de-fraude-en-2006-exige-pruebas-ante-senalamientos/",
+     "domain": "El Universal",
+     "seendate": "20261108T175910Z"
+    },
+    {
+     "title": "Detienen formalmente a Óscar “N” por doble feminicidio en Tláhuac; también enfrenta cargos por tentativa de homicidio",
+     "url": "https://www.eluniversal.com.mx/metropoli/detienen-formalmente-a-oscar-n-por-doble-feminicidio-en-tlahuac-tambien-enfrenta-cargos-por-tentativa-de-homicidio/",
+     "domain": "El Universal",
+     "seendate": "20261108T173658Z"
+    },
+    {
+     "title": "Caen “La Pocha” y su hijo “El Nazi” en Tamaulipas, del Cártel del Noreste; uno es jefe de sicarios de “Las Tropas del Infierno”",
+     "url": "https://www.eluniversal.com.mx/nacion/caen-la-pocha-y-su-hijo-el-nazi-en-tamaulipas-del-cartel-del-noreste-uno-es-jefe-de-sicarios-de-las-tropas-del-infierno/",
+     "domain": "El Universal",
+     "seendate": "20261108T173035Z"
+    },
+    {
+     "title": "Caravana de más de mil hondureños llega a Tapachula; busca avanzar hacia Estados Unidos",
+     "url": "https://www.eluniversal.com.mx/estados/caravana-de-mas-de-mil-hondurenos-llega-a-tapachula-busca-avanzar-hacia-estados-unidos/",
+     "domain": "El Universal",
+     "seendate": "20261108T172708Z"
+    },
+    {
+     "title": "Fiscalía de Zacatecas aclara que alcalde de Río Bravo fue privado de la libertad en San Luis Potosí; coordinan búsqueda entre tres estados",
+     "url": "https://www.eluniversal.com.mx/estados/fiscalia-de-zacatecas-aclara-que-alcalde-de-rio-bravo-fue-privado-de-la-libertad-en-san-luis-potosi-coordinan-busqueda-entre-tres-estados/",
+     "domain": "El Universal",
+     "seendate": "20261108T171910Z"
+    },
+    {
+     "title": "Gabinete de Seguridad investiga paradero de presidente municipal de Río Bravo; coordina búsqueda con Fiscalía de SLP",
+     "url": "https://www.eluniversal.com.mx/nacion/gabinete-de-seguridad-investiga-paradero-de-presidente-municipal-de-rio-bravo-coordina-busqueda-con-fiscalia-de-slp/",
+     "domain": "El Universal",
+     "seendate": "20261108T171349Z"
+    },
+    {
+     "title": "PAN Tamaulipas condena privación ilegal de la libertad del alcalde de Río Bravo; exige su liberación inmediata",
+     "url": "https://www.eluniversal.com.mx/estados/pan-tamaulipas-condena-privacion-ilegal-de-la-libertad-del-alcalde-de-rio-bravo-exige-su-liberacion-inmediata/",
+     "domain": "El Universal",
+     "seendate": "20261108T170303Z"
+    },
+    {
+     "title": "Tamaulipas coordina búsqueda del alcalde de Río Bravo con San Luis Potosí y Zacatecas; Fiscalía estatal mantiene contacto con personas cercanas al edil",
+     "url": "https://www.eluniversal.com.mx/estados/tamaulipas-coordina-busqueda-del-alcalde-de-rio-bravo-con-san-luis-potosi-y-zacatecas-fiscalia-estatal-mantiene-contacto-con-personas-cercanas-al-edil/",
+     "domain": "El Universal",
+     "seendate": "20261108T165144Z"
+    },
+    {
+     "title": "Pide Coppal \"restauración institucional\" en el INE; plantea que OEA ayude a autoridades mexicanas",
+     "url": "https://www.eluniversal.com.mx/nacion/pide-coppal-restauracion-institucional-en-el-ine-plantea-que-oea-ayude-a-autoridades-mexicanas/",
+     "domain": "El Universal",
+     "seendate": "20261108T163409Z"
+    },
+    {
+     "title": "Citlalli Hernández reconoce lucha de Sasha Sokol contra Luis de Llano; ¡basta de justificar el abuso sexual infantil!, dice",
+     "url": "https://www.eluniversal.com.mx/nacion/citlalli-hernandez-reconoce-lucha-de-sasha-sokol-contra-luis-de-llano-basta-de-justificar-el-abuso-sexual-infantil-dice/",
+     "domain": "El Universal",
+     "seendate": "20261108T161212Z"
+    },
+    {
+     "title": "Américo Villarreal refrenda compromiso para localizar al alcalde de Río Bravo; coordinan acciones con autoridades de San Luis Potosí",
+     "url": "https://www.eluniversal.com.mx/estados/americo-villarreal-refrenda-compromiso-para-localizar-al-alcalde-de-rio-bravo-coordinan-acciones-con-autoridades-de-san-luis-potosi/",
+     "domain": "El Universal",
+     "seendate": "20261108T160033Z"
+    },
+    {
+     "title": "Prevén lluvias ligeras y temperatura máxima de 24 grados en CDMX este domingo; alertan por frío en zonas altas",
+     "url": "https://www.eluniversal.com.mx/metropoli/preven-lluvias-ligeras-y-temperatura-maxima-de-24-grados-en-cdmx-este-domingo-alertan-por-frio-en-zonas-altas/",
+     "domain": "El Universal",
+     "seendate": "20261108T155031Z"
+    },
+    {
+     "title": "Se esperan cinco movilizaciones en CDMX este domingo; prevén afectaciones viales",
+     "url": "https://www.eluniversal.com.mx/metropoli/se-esperan-cinco-movilizaciones-en-cdmx-este-domingo-preven-afectaciones-viales/",
+     "domain": "El Universal",
+     "seendate": "20261108T154512Z"
+    },
+    {
+     "title": "Cozumel recibe a 3 mil ciclistas de 40 países en el Gran Fondo New York; Mara Lezama inaugura la edición 13 de la competencia",
+     "url": "https://www.eluniversal.com.mx/estados/cozumel-recibe-a-3-mil-ciclistas-de-40-paises-en-el-gran-fondo-new-york-mara-lezama-inaugura-la-edicion-13-de-la-competencia/",
+     "domain": "El Universal",
+     "seendate": "20261108T153008Z"
+    },
+    {
+     "title": "Recapturan en Oaxaca a madre de “El Cromo” al salir del penal de Tanivet; la investigan por homicidio",
+     "url": "https://www.eluniversal.com.mx/estados/recapturan-en-oaxaca-a-madre-de-el-cromo-al-salir-del-penal-de-tanivet-la-investigan-por-homicidio/",
+     "domain": "El Universal",
+     "seendate": "20261108T150200Z"
+    },
+    {
+     "title": "Jornada violenta en Culiacán deja seis hombres asesinados y dos heridos; reportan ataques armados en varias colonias",
+     "url": "https://www.eluniversal.com.mx/estados/jornada-violenta-en-culiacan-deja-seis-hombres-asesinados-y-dos-heridos-reportan-ataques-armados-en-varias-colonias/",
+     "domain": "El Universal",
+     "seendate": "20261108T145317Z"
+    },
     {
      "title": "Convocan a manifestación en Río Bravo para exigir liberación del alcalde Miguel Ángel Almaraz; ciudadanos amenazan con bloquear carreteras",
      "url": "https://www.eluniversal.com.mx/estados/convocan-a-manifestacion-en-rio-bravo-para-exigir-liberacion-del-alcalde-miguel-angel-almaraz-ciudadanos-amenazan-con-bloquear-carreteras/",
@@ -138,18 +252,6 @@
      "url": "https://www.eluniversal.com.mx/metropoli/inician-la-rehabilitacion-de-plazas-publicas/",
      "domain": "El Universal",
      "seendate": "20261108T102438Z"
-    },
-    {
-     "title": "Gobernadora presenta 5 años de resultados",
-     "url": "https://www.eluniversal.com.mx/estados/gobernadora-presenta-5-anos-de-resultados/",
-     "domain": "El Universal",
-     "seendate": "20261108T093345Z"
-    },
-    {
-     "title": "Movart, iniciativa para dignificar a los mototaxistas",
-     "url": "https://www.eluniversal.com.mx/estados/movart-iniciativa-para-dignificar-a-los-mototaxistas/",
-     "domain": "El Universal",
-     "seendate": "20261108T092328Z"
     }
    ]
   },
@@ -616,6 +718,18 @@
   "CRI": {
    "articles": [
     {
+     "title": "Marcha por la CCSS reúne a manifestantes en San José para exigir al gobierno de Laura Fernández el pago de deuda estatal",
+     "url": "https://www.nacion.com/el-pais/marcha-por-la-ccss-reune-a-manifestantes-en-san/6TE6MY2J3NBFDMXB7ZRFIPKEH4/story/",
+     "domain": "La Nación",
+     "seendate": "20261108T164433Z"
+    },
+    {
+     "title": "Asesinan a balazos a adolescente de 16 años",
+     "url": "https://www.nacion.com/sucesos/asesinan-a-balazos-a-adolescente-de-16-anos-en/PJG6423VQJDQXEJFQYMMXSWUYA/story/",
+     "domain": "La Nación",
+     "seendate": "20261108T155259Z"
+    },
+    {
      "title": "Conozca el calendario escolar de los 10 centros educativos privados con más matrícula de Costa Rica",
      "url": "https://www.nacion.com/el-pais/conozca-el-calendario-escolar-de-los-10-centros/VDW76YV7VNBHLHXKERGRAYGCRU/story/",
      "domain": "La Nación",
@@ -686,35 +800,17 @@
      "url": "https://www.nacion.com/el-pais/donde-estan-las-peores-presas-de-centroamerica-san/AMN5GPQD2NFUZLLCGNRX2TY7QQ/story/",
      "domain": "La Nación",
      "seendate": "20261107T164157Z"
-    },
-    {
-     "title": "El colapso vial empieza a incidir en el mercado laboral de Costa Rica",
-     "url": "https://www.nacion.com/el-pais/rechazaria-un-buen-trabajo-por-las-presas-cada-vez/SVJKNW2DEBAKFFLNJUMSY7U6TA/story/",
-     "domain": "La Nación",
-     "seendate": "20261107T164009Z"
-    },
-    {
-     "title": "Violento asalto en La Unión: Sujetos interceptaron a hombre en un cafetal, lo golpearon, apuñalaron y dispararon",
-     "url": "https://www.nacion.com/sucesos/violento-asalto-en-la-union-sujetos-interceptaron/P74XXLLNCVBQHM6EKSHPWKBQ3A/story/",
-     "domain": "La Nación",
-     "seendate": "20261107T162947Z"
-    },
-    {
-     "title": "Seis accidentes de motocicleta dejaron un fallecido y cuatro pacientes críticos durante la noche",
-     "url": "https://www.nacion.com/sucesos/seis-accidentes-de-motocicleta-dejaron-un/IDQEGVZB2BCGZEMIMZOTRRD7UQ/story/",
-     "domain": "La Nación",
-     "seendate": "20261107T150735Z"
-    },
-    {
-     "title": "Cortes de luz de la CNFL afectarán San José y Cartago este martes 10 de noviembre: conozca los lugares con suspensiones",
-     "url": "https://www.nacion.com/el-pais/cortes-de-luz-de-la-cnfl-afectaran-san-jose-y/ZNAVCWVQCRAIVKJQAPMUZQY5TQ/story/",
-     "domain": "La Nación",
-     "seendate": "20261107T140900Z"
     }
    ]
   },
   "PAN": {
    "articles": [
+    {
+     "title": "Un mes después del terremoto: ¿cómo avanza la reconstrucción de viviendas en Azuero?",
+     "url": "https://www.prensa.com/politica/un-mes-despues-del-terremoto-como-avanza-la-reconstruccion-de-viviendas-en-azuero/",
+     "domain": "La Prensa",
+     "seendate": "20261108T175456Z"
+    },
     {
      "title": "El día que Penonomé respaldó la separación de Panamá",
      "url": "https://www.prensa.com/sociedad/el-dia-que-penonome-respaldo-la-separacion-de-panama/",
@@ -800,12 +896,6 @@
      "seendate": "20261106T211003Z"
     },
     {
-     "title": "Clara Elvira Ospina es designada directora asociada de La Prensa",
-     "url": "https://www.prensa.com/sociedad/clara-elvira-ospina-es-designada-directora-asociada-de-la-prensa/",
-     "domain": "La Prensa",
-     "seendate": "20261106T195235Z"
-    },
-    {
      "title": "Ernesto Cedeño demanda el presupuesto 2027 ante la Corte Suprema",
      "url": "https://www.prensa.com/politica/ernesto-cedeno-demanda-el-presupuesto-2027-ante-la-corte-suprema/",
      "domain": "La Prensa",
@@ -821,6 +911,12 @@
   },
   "CUB": {
    "articles": [
+    {
+     "title": "Cadena perpetua para tres hombres por un asesinato durante un robo de ganado en Santiago de Cuba",
+     "url": "https://www.14ymedio.com/cuba/cadena-perpetua-tres-hombres-asesinato_1_1132955.html",
+     "domain": "14ymedio",
+     "seendate": "20261108T160632Z"
+    },
     {
      "title": "Cuba repara 20 ómnibus con ayuda china, pero el combustible sigue siendo una incógnita",
      "url": "https://www.14ymedio.com/cuba/cuba-repara-20-omnibus-ayuda_1_1132951.html",
@@ -924,28 +1020,16 @@
      "seendate": "20261106T164444Z"
     },
     {
-     "title": "La Arquidiócesis de Camagüey recibe el segundo envío de ayuda humanitaria de EE UU",
-     "url": "https://www.14ymedio.com/cuba/arquidiocesis-camagueey-recibe-segundo-envio_1_1132893.html",
-     "domain": "14ymedio",
-     "seendate": "20261106T133124Z"
-    },
-    {
      "title": "Pekín rechaza las sanciones de EE UU a dos empresas chinas por su cooperación con Cuba",
      "url": "https://www.14ymedio.com/cuba/pekin-rechaza-sanciones-ee-uu_1_1132887.html",
      "domain": "14ymedio",
      "seendate": "20261106T131619Z"
     },
     {
-     "title": "EE UU sanciona al hermano del ex jefe de Gaesa y a la hija de su actual presidenta",
-     "url": "https://www.14ymedio.com/cuba/ee-uu-sanciona-hermano-ex_1_1132873.html",
+     "title": "Secuestrada durante nueve horas por la policía política, Yoani Sánchez es acusada de propaganda contra el orden constitucional",
+     "url": "https://www.14ymedio.com/cuba/yoani-sanchez-secuestrada-policia-politica-habana_1_1132860.html",
      "domain": "14ymedio",
-     "seendate": "20261105T220844Z"
-    },
-    {
-     "title": "Las compras de Cuba a EE UU ya superan los 1.000 millones de dólares este año",
-     "url": "https://www.14ymedio.com/cuba/compras-cuba-ee-uu-superan_1_1132868.html",
-     "domain": "14ymedio",
-     "seendate": "20261105T201240Z"
+     "seendate": "20261105T151545Z"
     },
     {
      "title": "Muere en Cuba Orlando Manrufo, el humorista que dio vida a Mariconchi",
@@ -973,64 +1057,64 @@
   "COL": {
    "articles": [
     {
-     "title": "Mutilaron estatua de Diomedes Díaz en Valledupar: creencia de mujeres lo dejaron sin un brazo; autoridades rechazan el hecho",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-cacique-quedo-manco-la-creencia-de-las-mujeres-que-quieren-ser-madres-termino-pasandole-factura-a-diomedes-diaz-3599365",
+     "title": "Salwa Maloof y Andrea Valdiri se unen para darle una nueva oportunidad a un campeón de boxeo en Barranquilla",
+     "url": "https://www.eltiempo.com/colombia/barranquilla/salwa-maloof-y-andrea-valdiri-se-unen-para-darle-una-nueva-oportunidad-a-un-campeon-de-boxeo-en-barranquilla-3599395",
      "domain": "El Tiempo",
-     "seendate": "20261108T140405Z"
+     "seendate": "20261108T173727Z"
     },
     {
-     "title": "Accidente de Kbeto Zuleta cobra una tercera vida: murió Radamel Uribe tras 13 días hospitalizado en Valledupar",
+     "title": "Hospital Departamental de San Andrés lanza SOS por falta de presupuesto para equipos básicos de salud y deudas con contratistas",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/hospital-departamental-de-san-andres-lanza-sos-por-falta-de-presupuesto-para-equipos-basicos-de-salud-y-deudas-con-contratistas-3599392",
+     "domain": "El Tiempo",
+     "seendate": "20261108T171804Z"
+    },
+    {
+     "title": "Incendio en almacén de zapatos provoca cierre del Centro Histórico de Cartagena: 30 bomberos atienden la emergencia",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/incendio-en-almacen-de-zapatos-provoca-cierre-del-centro-historico-de-cartagena-30-bomberos-atienden-la-emergencia-3599389",
+     "domain": "El Tiempo",
+     "seendate": "20261108T170236Z"
+    },
+    {
+     "title": "Alcaldía de Barranquilla entregó la cuarta fase del mercado El Playón: 205 locales nuevos y una inversión total de más de $41.000 millones en la obra",
+     "url": "https://www.eltiempo.com/colombia/barranquilla/alcaldia-de-barranquilla-entrego-la-cuarta-fase-del-mercado-el-playon-205-locales-nuevos-y-una-inversion-total-de-mas-de-41-000-millones-en-la-obra-3599383",
+     "domain": "El Tiempo",
+     "seendate": "20261108T163130Z"
+    },
+    {
+     "title": "Los presuntos responsables del asesinato de un patrullero de 27 años en medio de un tiroteo en el centro de Medellín fueron capturados",
+     "url": "https://www.eltiempo.com/colombia/medellin/los-presuntos-responsables-del-asesinato-de-un-patrullero-de-27-anos-en-medio-de-un-tiroteo-en-el-centro-de-medellin-fueron-capturados-3599372",
+     "domain": "El Tiempo",
+     "seendate": "20261108T154744Z"
+    },
+    {
+     "title": "‘Se fueron las dos ruedas y la barra pequeña... pero pa'lante’: drama de un hombre al que le amputaron tres extremidades tras llevar ayudas al Chocó",
+     "url": "https://www.eltiempo.com/colombia/cali/se-fueron-las-dos-ruedas-y-la-barra-pequena-pero-pa-lante-drama-de-un-hombre-al-que-le-amputaron-tres-extremidades-tras-llevar-ayudas-al-choco-3599199",
+     "domain": "El Tiempo",
+     "seendate": "20261108T153745Z"
+    },
+    {
+     "title": "Revelan preocupante parte médico de algunos militares heridos tras atentado terrorista en Bolívar: varios heridos fueron trasladados a Santander",
+     "url": "https://www.eltiempo.com/colombia/santander/revelan-preocupante-parte-medico-de-algunos-militares-heridos-tras-atentado-terrorista-en-bolivar-varios-heridos-fueron-trasladados-a-santander-3599378",
+     "domain": "El Tiempo",
+     "seendate": "20261108T152939Z"
+    },
+    {
+     "title": "Radamel Uribe, la primera voz de Kbeto Zuleta que murió tras 13 días hospitalizado: el accidente que sigue cobrando vidas en el mundo vallenato",
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/accidente-de-kbeto-zuleta-cobra-una-tercera-vida-murio-radamel-uribe-tras-13-dias-hospitalizado-en-valledupar-3599369",
      "domain": "El Tiempo",
-     "seendate": "20261108T135959Z"
+     "seendate": "20261108T152646Z"
+    },
+    {
+     "title": "¿Quién era Radamel Uribe, el corista que murió tras el accidente de Kbeto Zuleta? El dolor de una familia y del vallenato",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/quien-era-radamel-uribe-el-corista-que-murio-tras-el-accidente-de-kbeto-zuleta-el-dolor-de-una-familia-y-del-vallenato-3599376",
+     "domain": "El Tiempo",
+     "seendate": "20261108T152301Z"
     },
     {
      "title": "Alerta en el Cauca: reportan detonación de artefacto explosivo en la vía que comunica Suárez con Betulia",
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/alerta-en-el-cauca-reportan-detonacion-de-artefacto-explosivo-en-la-via-que-comunica-suarez-con-betulia-3599367",
      "domain": "El Tiempo",
      "seendate": "20261108T134128Z"
-    },
-    {
-     "title": "Estas son las identidades de los tres soldados asesinados en el atentado terrorista con drones en Santa Rosa, Bolívar: Ejército se pronunció",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/estas-son-las-identidades-de-los-tres-soldados-asesinados-en-el-atentado-terrorista-con-drones-en-santa-rosa-bolivar-ejercito-se-pronuncio-3599362",
-     "domain": "El Tiempo",
-     "seendate": "20261108T131903Z"
-    },
-    {
-     "title": "Mujer que llegó de Miami fue capturada en el aeropuerto de Palmira, Valle del Cauca, señalada de traficar armas desde Estados Unidos a Colombia",
-     "url": "https://www.eltiempo.com/colombia/cali/mujer-que-llego-de-miami-fue-capturada-en-el-aeropuerto-de-palmira-valle-del-cauca-senalada-de-traficar-armas-desde-estados-unidos-a-colombia-3599323",
-     "domain": "El Tiempo",
-     "seendate": "20261108T131546Z"
-    },
-    {
-     "title": "El miedo que dejó el terremoto en Pereira y las heridas emocionales que aún buscan sanar: los tres meses tras el fuerte sismo del siglo",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-miedo-que-dejo-el-terremoto-en-pereira-y-las-heridas-emocionales-que-aun-buscan-sanar-los-tres-meses-tras-el-fuerte-sismo-del-siglo-3599177",
-     "domain": "El Tiempo",
-     "seendate": "20261108T103500Z"
-    },
-    {
-     "title": "Video | La lucha de una damnificada por no poder caminar, con duelo por muerte de la mamá en el terremoto y atrapada en ‘papeleo’ para ayudas",
-     "url": "https://www.eltiempo.com/colombia/cali/video-la-lucha-de-una-damnificada-por-no-poder-caminar-con-duelo-por-muerte-de-la-mama-en-el-terremoto-y-atrapada-en-papeleo-para-ayudas-3599227",
-     "domain": "El Tiempo",
-     "seendate": "20261108T051500Z"
-    },
-    {
-     "title": "Tres meses después del terremoto: la crisis de la salud mental por consultas de casi 60.000 personas y el dolor por 155 vidas desvanecidas en Cali",
-     "url": "https://www.eltiempo.com/colombia/cali/tres-meses-despues-del-terremoto-la-crisis-de-la-salud-mental-por-consultas-de-casi-60-000-personas-y-el-dolor-por-155-vidas-desvanecidas-en-cali-3599314",
-     "domain": "El Tiempo",
-     "seendate": "20261108T040100Z"
-    },
-    {
-     "title": "La reconstrucción de la esperanza y del hogar de Nancy Copete en Chocó: ‘Es muy duro cuando uno no se puede valer por sí mismo’",
-     "url": "https://www.eltiempo.com/colombia/cali/la-reconstruccion-de-la-esperanza-y-del-hogar-de-nancy-copete-en-choco-es-muy-duro-cuando-uno-no-se-puede-valer-por-si-mismo-3599261",
-     "domain": "El Tiempo",
-     "seendate": "20261108T031500Z"
-    },
-    {
-     "title": "La valentía de una madre para salvar a su hija y su anhelo de volver a levantarse con prótesis tras tres meses del devastador terremoto en Cali",
-     "url": "https://www.eltiempo.com/colombia/cali/la-valentia-de-una-madre-para-salvar-a-su-hija-y-su-anhelo-de-volver-a-levantarse-con-protesis-tras-tres-meses-del-devastador-terremoto-en-cali-3599275",
-     "domain": "El Tiempo",
-     "seendate": "20261108T031000Z"
     }
    ]
   },
@@ -1377,6 +1461,42 @@
   "ECU": {
    "articles": [
     {
+     "title": "Visor ciudadano Alístate Ecuador se incorpora al aplicativo Data 593 con información sobre el fenómeno de El Niño",
+     "url": "https://eluniverso.com/politica/ejecutivo/visor-ciudadano-alistate-ecuador-se-incorpora-al-aplicativo-data-593-con-informacion-sobre-el-fenomeno-de-el-nino-nota/",
+     "domain": "El Universo",
+     "seendate": "20261108T181431Z"
+    },
+    {
+     "title": "Milagro recibe asistencia humanitaria tras severas inundaciones que dejan 750 personas afectadas",
+     "url": "https://eluniverso.com/comunidad/ecuador/milagro-recibe-asistencia-humanitaria-tras-severas-inundaciones-que-dejan-750-personas-afectadas-nota/",
+     "domain": "El Universo",
+     "seendate": "20261108T175558Z"
+    },
+    {
+     "title": "La marea alta alcanzará 4,55 metros la noche de este domingo en Guayaquil",
+     "url": "https://eluniverso.com/comunidad/ecuador/la-marea-alta-alcanzara-455-metros-la-noche-de-este-domingo-en-guayaquil-nota/",
+     "domain": "El Universo",
+     "seendate": "20261108T171047Z"
+    },
+    {
+     "title": "2.292 detenidos suman las operaciones de fuerzas del orden durante toque de queda en cinco provincias de Ecuador",
+     "url": "https://eluniverso.com/politica/seguridad/2292-detenidos-suman-las-operaciones-de-fuerzas-del-orden-durante-toque-de-queda-en-cinco-provincias-de-ecuador-nota/",
+     "domain": "El Universo",
+     "seendate": "20261108T164825Z"
+    },
+    {
+     "title": "Un trágico accidente de cuadrón deja un fallecido y un herido en Baños",
+     "url": "https://eluniverso.com/comunidad/ecuador/visitantes-nota/",
+     "domain": "El Universo",
+     "seendate": "20261108T153757Z"
+    },
+    {
+     "title": "Ministerio de Salud ha desplegado profesionales y habilitado puntos de atención tras inundaciones en Galápagos",
+     "url": "https://eluniverso.com/politica/ejecutivo/ministerio-de-salud-ha-desplegado-profesionales-y-habilitado-puntos-de-atencion-tras-inundaciones-en-galapagos-nota/",
+     "domain": "El Universo",
+     "seendate": "20261108T150000Z"
+    },
+    {
      "title": "Voto cruzado, nulo y blanco: las combinaciones de voto que definirán la elección de los siete vocales del Consejo de Participación Ciudadana en noviembre",
      "url": "https://eluniverso.com/politica/elecciones/elecciones-seccionales-2027-consejo-nacional-electoral-consejo-de-participacion-ciudadana-nota/",
      "domain": "El Universo",
@@ -1443,48 +1563,6 @@
      "seendate": "20261107T230200Z"
     },
     {
-     "title": "Inamhi prevé lluvias este domingo, 8 de noviembre: estas son las zonas con mayor probabilidad",
-     "url": "https://eluniverso.com/comunidad/ecuador/inamhi-pronostico-de-lluvias-en-ecuador-este-8-de-noviembre-nota/",
-     "domain": "El Universo",
-     "seendate": "20261107T225133Z"
-    },
-    {
-     "title": "Diez operativos policiales contra la extorsión y el secuestro permiten liberar a tres víctimas y aprehender a 31 personas",
-     "url": "https://eluniverso.com/politica/seguridad/diez-operativos-policiales-contra-extorsion-secuestro-permiten-liberar-tres-victimas-aprehender-31-personas-nota/",
-     "domain": "El Universo",
-     "seendate": "20261107T210049Z"
-    },
-    {
-     "title": "Jaime Estrada Bonilla, procesado por narcotráfico en EE. UU., apareció en uno de los ‘pativideos’ comprometiendo su voto en el Congreso a favor de la Constituyente de Correa",
-     "url": "https://eluniverso.com/politica/expedientes/jaime-estrada-bonilla-procesado-por-narcotrafico-en-ee-uu-aparecio-en-uno-de-los-pativideos-comprometiendo-su-voto-en-el-congreso-a-favor-de-la-constituyente-de-correa-nota/",
-     "domain": "El Universo",
-     "seendate": "20261107T210000Z"
-    },
-    {
-     "title": "¿Por qué El Niño podría ser similar a los episodios de 1982-1983 y 1997-1998? Cinco datos para entender lo que sucede",
-     "url": "https://eluniverso.com/comunidad/ecuador/por-que-el-nino-podria-ser-similar-a-los-episodios-de-1982-1983-y-1997-1998-cinco-datos-para-entender-lo-que-sucede-nota/",
-     "domain": "El Universo",
-     "seendate": "20261107T203342Z"
-    },
-    {
-     "title": "Inocar descarta alerta de tsunami tras sismo frente a costas de Puerto López",
-     "url": "https://eluniverso.com/comunidad/ecuador/inocar-descarta-alerta-de-tsunami-tras-sismo-frente-a-costas-de-puerto-lopez-nota/",
-     "domain": "El Universo",
-     "seendate": "20261107T175013Z"
-    },
-    {
-     "title": "Sismo de magnitud 4,7 se registró este sábado frente a las costas de Puerto López",
-     "url": "https://eluniverso.com/comunidad/ecuador/sismo-de-magnitud-47-se-registro-este-sabado-frente-a-las-costas-de-puerto-lopez-nota/",
-     "domain": "El Universo",
-     "seendate": "20261107T173043Z"
-    },
-    {
-     "title": "‘Patucho Celso’, cabecilla de Los Choneros, el vínculo clave que conecta a los Estrada y Jacobo Bucaram en investigación por narcotráfico en EE. UU.",
-     "url": "https://eluniverso.com/politica/expedientes/patucho-celso-cabecilla-de-los-choneros-el-vinculo-clave-que-conecta-a-los-estrada-y-jacobo-bucaram-en-investigacion-por-narcotrafico-en-eeuu-nota/",
-     "domain": "El Universo",
-     "seendate": "20261107T173000Z"
-    },
-    {
      "title": "Pronóstico del clima en Guayaquil hoy, 7 de noviembre: siga en vivo cómo avanza para la tarde y noche",
      "url": "https://eluniverso.com/comunidad/ecuador/pronostico-del-clima-en-guayaquil-hoy-7-de-noviembre-siga-en-vivo-como-avanza-para-la-tarde-y-noche-nota/",
      "domain": "El Universo",
@@ -1498,31 +1576,37 @@
      "title": "Lluvias en Perú por Fenómeno El Niño en vivo hoy: lluvias, inundaciones, activaciones de quebradas y pronóstico de Senamhi",
      "url": "https://elcomercio.pe/peru/lluvias-en-peru-por-fenomeno-el-nino-en-vivo-hoy-regiones-en-alerta-lluvias-inundaciones-y-pronostico-de-senamhi-lbposting-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261108T135613Z"
+     "seendate": "20261108T180756Z"
     },
     {
-     "title": "Tumbes bajo intensas lluvias: ¿qué vías han sido afectadas y cuáles son las más de 10 quebradas activadas?",
-     "url": "https://elcomercio.pe/peru/tumbes/tumbes-oficina-regional-de-gestion-del-riesgo-reporta-vias-afectadas-y-mas-de-10-quebradas-activadas-por-intensas-lluvias-apuesplan-noticia/",
+     "title": "Temblor en Perú hoy, 8 de noviembre: reporte del IGP, epicentro y magnitud de sismos",
+     "url": "https://elcomercio.pe/peru/temblor-en-peru-hoy-reporte-del-igp-epicentro-y-magnitud-de-sismos-donde-fue-tdpe-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261108T124923Z"
+     "seendate": "20261108T175239Z"
     },
     {
-     "title": "Empresarios frente a la crisis institucional: ¿por qué el sector privado debe dejar de guardar silencio?",
-     "url": "https://elcomercio.pe/economia/peru/empresarios-frente-a-la-crisis-institucional-por-que-el-sector-privado-debe-dejar-de-guardar-silencio-capitalismo-consciente-noticia/",
+     "title": "Visita del papa León XIV daría un impulso al retail: ventas crecerían 14,5% y superarían los S/60.000 millones en 2026",
+     "url": "https://elcomercio.pe/economia/peru/visita-del-papa-leon-xiv-daria-un-impulso-al-retail-ventas-crecerian-145-y-superarian-los-s60000-millones-en-2026-apuesplan-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261108T105700Z"
+     "seendate": "20261108T170005Z"
     },
     {
-     "title": "MTC descarta supuesto desabastecimiento de combustible en Ucayali previo a la llegada del Papa León XIV",
-     "url": "https://elcomercio.pe/peru/papa-leon-xiv-en-peru-mtc-descarta-supuesto-desabastecimiento-de-combustible-en-ucayali-previo-a-la-llegada-sumo-pontifice-apuesplan-ulltimas-noticia/",
+     "title": "MEF establece lineamientos para actualización y determinación de forma de pago de bonos de la deuda agraria",
+     "url": "https://elcomercio.pe/economia/peru/mef-establece-lineamientos-para-actualizacion-y-determinacion-de-forma-de-pago-de-bonos-de-la-deuda-agraria-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261108T034749Z"
+     "seendate": "20261108T165521Z"
     },
     {
-     "title": "Lluvias en Perú por el FEN 2026-2027 en vivo: pronóstico y alertas del Senamhi por lluvias en Tumbes, Piura y Lima",
-     "url": "https://elcomercio.pe/peru/lluvias-en-peru-por-el-nino-en-vivo-hoy-regiones-en-alerta-lluvias-y-pronostico-de-senamhi-lbposting-noticia/",
+     "title": "Chiclayo acelera preparativos para recibir al papa León XIV",
+     "url": "https://elcomercio.pe/peru/chiclayo-acelera-preparativos-para-recibir-al-papa-leon-xiv-ultimas-apuesplan-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261108T031641Z"
+     "seendate": "20261108T154942Z"
+    },
+    {
+     "title": "Sismos reportados en Perú este 7 de noviembre",
+     "url": "https://elcomercio.pe/peru/temblor-en-peru-hoy-revisa-donde-se-registraron-los-ultimos-sismos-y-magnitud-segun-igp-tdpe-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261108T023000Z"
     }
    ]
   },
@@ -2149,10 +2233,88 @@
   "ARG": {
    "articles": [
     {
-     "title": "Visita del Papa León XIV, EN VIVO: su llegada a la Argentina y las últimas noticias de su agenda en Buenos Aires, Córdoba y Luján",
+     "title": "Los regalos que Milei preparó para darle al papa León XIV cuando visite la Casa Rosada",
+     "url": "https://www.lanacion.com.ar/politica/los-regalos-que-milei-preparo-para-darle-al-papa-leon-xiv-cuando-visite-la-casa-rosada-nid08112026/",
+     "domain": "La Nación",
+     "seendate": "20261108T185413Z"
+    },
+    {
+     "title": "Papa León XIV en la Argentina, EN VIVO: el viaje al país, la agenda del domingo y las últimas noticias hoy",
      "url": "https://www.lanacion.com.ar/sociedad/visita-del-papa-leon-xiv-en-vivo-su-llegada-a-la-argentina-y-las-ultimas-noticias-de-su-agenda-en-nid08112026/",
      "domain": "La Nación",
-     "seendate": "20261108T134519Z"
+     "seendate": "20261108T185248Z"
+    },
+    {
+     "title": "Calendario semanal de Anses: qué pasa con los pagos de jubilaciones y AUH durante los feriados por la visita del papa León XIV a la Argentina",
+     "url": "https://www.lanacion.com.ar/economia/calendario-semanal-de-anses-que-pasa-con-los-pagos-de-jubilaciones-y-auh-durante-los-feriados-por-la-nid08112026/",
+     "domain": "La Nación",
+     "seendate": "20261108T184530Z"
+    },
+    {
+     "title": "A qué hora llega el papa León XIV a la Argentina hoy, domingo 8 de noviembre",
+     "url": "https://www.lanacion.com.ar/sociedad/a-que-hora-llega-el-papa-leon-xiv-a-la-argentina-hoy-domingo-8-de-noviembre-nid08112026/",
+     "domain": "La Nación",
+     "seendate": "20261108T183833Z"
+    },
+    {
+     "title": "Cómo se prepara Luján para recibir al Papa: la “ciudad peatonal”, corte total del Acceso Oeste y 11.000 policías",
+     "url": "https://www.lanacion.com.ar/sociedad/como-se-prepara-lujan-para-recibir-al-papa-la-ciudad-peatonal-corte-total-del-acceso-oeste-y-11000-nid08112026/",
+     "domain": "La Nación",
+     "seendate": "20261108T183754Z"
+    },
+    {
+     "title": "León XIV: quién es Ramona Casas, elegida para hacer quesillos para el papa",
+     "url": "https://www.lanacion.com.ar/economia/campo/leon-xiv-quien-es-ramona-casas-elegida-para-hacer-quesillos-para-el-papa-nid08112026/",
+     "domain": "La Nación",
+     "seendate": "20261108T181214Z"
+    },
+    {
+     "title": "Detuvieron cerca del escenario del Papa en Palermo a un falso bombero con un permiso de circulación apócrifo",
+     "url": "https://www.lanacion.com.ar/seguridad/detuvieron-cerca-del-escenario-del-papa-en-palermo-a-un-falso-bombero-con-un-permiso-de-circulacion-nid08112026/",
+     "domain": "La Nación",
+     "seendate": "20261108T175326Z"
+    },
+    {
+     "title": "Súper Niño: pronostican más de 40 grados y tormentas intensas en una región",
+     "url": "https://www.lanacion.com.ar/economia/campo/super-nino-pronostican-mas-de-40-grados-y-tormentas-intensas-en-una-region-nid07112026/",
+     "domain": "La Nación",
+     "seendate": "20261108T175029Z"
+    },
+    {
+     "title": "Ya está disponible: una plataforma pública permite hacer un mapeo del campo",
+     "url": "https://www.lanacion.com.ar/economia/campo/lanzamiento-una-plataforma-publica-permitira-hacer-un-mapeo-del-campo-nid08112026/",
+     "domain": "La Nación",
+     "seendate": "20261108T174859Z"
+    },
+    {
+     "title": "Los detalles de la misa. Un recorrido de 3 kilómetros y 120 obispos sobre el escenario: así será la celebración del lunes",
+     "url": "https://www.lanacion.com.ar/sociedad/los-detalles-de-la-misa-un-recorrido-de-3-km-y-120-obispos-sobre-el-escenario-asi-sera-la-nid08112026/",
+     "domain": "La Nación",
+     "seendate": "20261108T170734Z"
+    },
+    {
+     "title": "Operaron con éxito en el Garrahan a una niña de 10 años con un tumor en la cabeza: la tecnología que utilizaron",
+     "url": "https://www.lanacion.com.ar/sociedad/operaron-con-exito-en-el-garrahan-a-una-nina-de-10-anos-con-un-tumor-en-la-cabeza-la-tecnologia-que-nid08112026/",
+     "domain": "La Nación",
+     "seendate": "20261108T170000Z"
+    },
+    {
+     "title": "Uno a uno, los puntos sensibles de la visita del Papa para el gobierno de Javier Milei",
+     "url": "https://www.lanacion.com.ar/politica/uno-a-uno-los-puntos-sensibles-de-la-visita-del-papa-para-el-gobierno-de-javier-milei-nid08112026/",
+     "domain": "La Nación",
+     "seendate": "20261108T165419Z"
+    },
+    {
+     "title": "Servicio en “espejo”, blindaje aéreo y equipos especiales: así se prepara la ciudad de Buenos Aires para recibir al Papa",
+     "url": "https://www.lanacion.com.ar/sociedad/servicio-en-espejo-blindaje-aereo-y-equipos-especiales-asi-se-prepara-la-ciudad-de-buenos-aires-para-nid08112026/",
+     "domain": "La Nación",
+     "seendate": "20261108T163946Z"
+    },
+    {
+     "title": "Marcelo Longobardi contó que se sintió amenazado en una reunión con Sergio Berni durante el gobierno de Cristina",
+     "url": "https://www.lanacion.com.ar/politica/marcelo-longobardi-conto-que-se-sintio-amenazado-en-una-reunion-con-sergio-berni-durante-el-gobierno-nid08112026/",
+     "domain": "La Nación",
+     "seendate": "20261108T141837Z"
     },
     {
      "title": "Cómo funcionará el transporte durante la visita del papa León XIV a la Argentina: trenes nocturnos, colectivos reforzados y restricciones",
@@ -2377,135 +2539,183 @@
      "seendate": "20261108T124321Z"
     },
     {
-     "title": "A qué hora llega el papa León XIV a la Argentina hoy, domingo 8 de noviembre",
-     "url": "https://www.lanacion.com.ar/sociedad/a-que-hora-llega-el-papa-leon-xiv-a-la-argentina-hoy-domingo-8-de-noviembre-nid08112026/",
-     "domain": "La Nación",
-     "seendate": "20261108T124217Z"
-    },
-    {
      "title": "Un motociclista circulaba a contramano por Panamericana y fue embestido por un auto: murió tras caer en el carril opuesto",
      "url": "https://www.lanacion.com.ar/seguridad/un-motociclista-circulaba-a-contramano-por-panamericana-y-fue-embestido-por-un-auto-murio-tras-caer-nid08112026/",
      "domain": "La Nación",
      "seendate": "20261108T123535Z"
-    },
-    {
-     "title": "Mapa de cortes de calles por la visita del papa León XIV en la Ciudad de Buenos Aires: cierres, desvíos y horarios",
-     "url": "https://www.lanacion.com.ar/sociedad/mapa-de-cortes-de-calles-por-la-visita-del-papa-leon-xiv-en-la-ciudad-de-buenos-aires-cierres-nid06112026-2/",
-     "domain": "La Nación",
-     "seendate": "20261108T123444Z"
-    },
-    {
-     "title": "Fin de semana largo: por qué es feriado el lunes 9 de noviembre",
-     "url": "https://www.lanacion.com.ar/sociedad/fin-de-semana-largo-por-que-es-feriado-el-lunes-9-de-noviembre-nid07112026/",
-     "domain": "La Nación",
-     "seendate": "20261108T123431Z"
-    },
-    {
-     "title": "Cronograma oficial del Viaje Apostólico del Santo Padre León XIV a la Argentina",
-     "url": "https://www.lanacion.com.ar/sociedad/cronograma-oficial-del-viaje-apostolico-del-santo-padre-leon-xiv-a-la-argentina-nid07112026/",
-     "domain": "La Nación",
-     "seendate": "20261108T123416Z"
-    },
-    {
-     "title": "Fin de semana largo: dónde es feriado el lunes 9 de noviembre",
-     "url": "https://www.lanacion.com.ar/sociedad/fin-de-semana-largo-donde-es-feriado-el-lunes-9-de-noviembre-nid07112026/",
-     "domain": "La Nación",
-     "seendate": "20261108T123402Z"
-    },
-    {
-     "title": "¿Es feriado el lunes 9 de noviembre por la visita del papa León XIV a la Argentina?",
-     "url": "https://www.lanacion.com.ar/sociedad/es-feriado-el-lunes-9-de-noviembre-por-la-visita-del-papa-leon-xiv-a-la-argentina-nid06112026/",
-     "domain": "La Nación",
-     "seendate": "20261108T123249Z"
-    },
-    {
-     "title": "Radiografía de uno de los números que más le preocupan al papa León XIV",
-     "url": "https://www.lanacion.com.ar/economia/radiografia-de-uno-de-los-numeros-que-mas-le-preocupan-al-papa-leon-xiv-nid08112026/",
-     "domain": "La Nación",
-     "seendate": "20261108T112052Z"
-    },
-    {
-     "title": "Qué es la glucemia, cómo influye en el organismo y por qué es importante controlarla",
-     "url": "https://www.lanacion.com.ar/sociedad/que-es-la-glucemia-como-influye-en-el-organismo-y-por-que-es-importante-controlarla-nid08112026/",
-     "domain": "La Nación",
-     "seendate": "20261108T110000Z"
-    },
-    {
-     "title": "Hay alerta amarilla por vientos fuertes para este domingo 8 de noviembre: las provincias afectadas",
-     "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-fuertes-vientos-para-este-domingo-8-de-noviembre-las-provincias-afectadas-nid08112026/",
-     "domain": "La Nación",
-     "seendate": "20261108T103418Z"
-    },
-    {
-     "title": "“Borrá todo”. Los mensajes de trasnoche en la financiera ligada a la AFA, antes de la llegada de la policía",
-     "url": "https://www.lanacion.com.ar/politica/borra-todo-los-mensajes-de-trasnoche-en-la-financiera-ligada-a-la-afa-antes-de-la-llegada-de-la-nid08112026/",
-     "domain": "La Nación",
-     "seendate": "20261108T103102Z"
-    },
-    {
-     "title": "Pese al fallo de la Corte, podría demorarse el envío de veedores a la AFA",
-     "url": "https://www.lanacion.com.ar/politica/pese-al-fallo-de-la-corte-podria-demorarse-el-envio-de-veedores-a-la-afa-nid08112026/",
-     "domain": "La Nación",
-     "seendate": "20261108T102625Z"
-    },
-    {
-     "title": "Bullrich lleva al límite la interna con Menem y Karina: incómodos y leales en LLA",
-     "url": "https://www.lanacion.com.ar/politica/bullrich-lleva-al-limite-la-interna-con-menem-y-karina-incomodos-y-leales-en-lla-nid08112026/",
-     "domain": "La Nación",
-     "seendate": "20261108T102430Z"
-    },
-    {
-     "title": "¿Un giro hacia la moderación? Luego de la derrota de los aliados, expertos piden a Milei un replanteo de su política exterior",
-     "url": "https://www.lanacion.com.ar/politica/un-giro-hacia-la-moderacion-luego-de-la-derrota-de-los-aliados-expertos-piden-a-milei-un-replanteo-nid08112026/",
-     "domain": "La Nación",
-     "seendate": "20261108T102106Z"
-    },
-    {
-     "title": "Uno a uno, los puntos sensibles de la visita del Papa para el gobierno de Javier Milei",
-     "url": "https://www.lanacion.com.ar/politica/uno-a-uno-los-puntos-sensibles-de-la-visita-del-papa-para-el-gobierno-de-javier-milei-nid08112026/",
-     "domain": "La Nación",
-     "seendate": "20261108T100342Z"
-    },
-    {
-     "title": "Mundo laboral, inteligencia artificial y justicia social, según la mirada de León XIV",
-     "url": "https://www.lanacion.com.ar/economia/mundo-laboral-inteligencia-artificial-y-justicia-social-segun-la-mirada-de-leon-xiv-nid08112026/",
-     "domain": "La Nación",
-     "seendate": "20261108T100302Z"
-    },
-    {
-     "title": "Dólar hoy y dólar blue hoy: a cuánto cotiza este domingo 8 de noviembre",
-     "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-hoy-a-cuanto-cotiza-este-domingo-8-de-noviembre-nid08112026/",
-     "domain": "La Nación",
-     "seendate": "20261108T100200Z"
-    },
-    {
-     "title": "¿Está en riesgo el maíz en el norte argentino? El comportamiento de la soja puede tener una respuesta",
-     "url": "https://www.lanacion.com.ar/economia/campo/agricultura/esta-en-riesgo-el-maiz-en-el-norte-argentino-el-comportamiento-de-la-soja-puede-tener-una-respuesta-nid08112026/",
-     "domain": "La Nación",
-     "seendate": "20261108T100000Z"
-    },
-    {
-     "title": "Del impacto político a los relatos íntimos: así fueron las dos visitas papales a la Argentina, según las crónicas de LA NACION",
-     "url": "https://www.lanacion.com.ar/sociedad/del-impacto-politico-a-los-relatos-intimos-asi-fueron-las-dos-visitas-papales-a-la-argentina-segun-nid08112026/",
-     "domain": "La Nación",
-     "seendate": "20261108T090000Z"
-    },
-    {
-     "title": "Se viene un “veranito” en la Argentina: dónde se esperan temperaturas de hasta 40°C y cómo seguirá el tiempo",
-     "url": "https://www.lanacion.com.ar/sociedad/se-viene-un-veranito-en-la-argentina-donde-se-esperan-temperaturas-de-hasta-40c-y-como-seguira-el-nid08112026/",
-     "domain": "La Nación",
-     "seendate": "20261108T080000Z"
-    },
-    {
-     "title": "Daniel López Rosetti explicó cómo influye la filosofía de vida en la manera de afrontar el estrés crónico",
-     "url": "https://www.lanacion.com.ar/sociedad/daniel-lopez-rosetti-explico-como-influye-la-filosofia-de-vida-en-la-manera-de-afrontar-el-estres-nid08112026/",
-     "domain": "La Nación",
-     "seendate": "20261108T080000Z"
     }
    ]
   },
   "URY": {
    "articles": [
+    {
+     "title": "Las 10 frases que dejó la visita del papa León XIV a Uruguay",
+     "url": "https://www.carasycaretas.com.uy/politica/las-10-frases-que-dejo-la-visita-del-papa-leon-xiv-uruguay-n100889",
+     "domain": "carasycaretas.com.uy",
+     "seendate": "20261108T183000Z"
+    },
+    {
+     "title": "León XIV les envió telegramas a Lula y Macron desde el avión rumbo a Uruguay : qué dicen y la curiosa tradición",
+     "url": "https://www.elpais.com.uy/informacion/sociedad/leon-xiv-le-envio-un-telegrama-a-lula-desde-el-avion-que-lo-trajo-a-uruguay-que-dice-y-la-curiosa-tradicion",
+     "domain": "elpais.com.uy",
+     "seendate": "20261108T183000Z"
+    },
+    {
+     "title": "¿ A qué hora llega el papa a Argentina ? Detalles del vuelo de León XIV hoy 8 de noviembre y su itinerario",
+     "url": "https://www.elpais.com.uy/mundo/argentina/a-que-hora-llega-el-papa-a-argentina-detalles-del-vuelo-de-leon-xiv-hoy-8-de-noviembre-y-su-itinerario",
+     "domain": "elpais.com.uy",
+     "seendate": "20261108T183000Z"
+    },
+    {
+     "title": "Lucas Sugo se quebró tras cantarle al papa León XIV : Es una de esas noches que uno va a guardar en el corazón",
+     "url": "https://www.elpais.com.uy/tvshow/musica/lucas-sugo-se-quebro-tras-cantarle-al-papa-leon-xiv-es-una-de-esas-noches-que-uno-va-a-guardar-en-el-corazon",
+     "domain": "elpais.com.uy",
+     "seendate": "20261108T183000Z"
+    },
+    {
+     "title": "Nelson Castro reveló qué fue lo que más sorprendió al papa León XIV en Uruguay : Es el gesto de un misionero",
+     "url": "https://www.elpais.com.uy/informacion/sociedad/nelson-castro-revelo-que-fue-lo-que-mas-sorprendio-al-papa-leon-xiv-en-uruguay-es-el-gesto-de-un-misionero",
+     "domain": "elpais.com.uy",
+     "seendate": "20261108T183000Z"
+    },
+    {
+     "title": "Cobertura internacional : cómo informaron los medios del mundo el último día del papa León XIV en Uruguay",
+     "url": "https://www.elpais.com.uy/mundo/cobertura-internacional-como-informaron-los-medios-del-mundo-el-ultimo-dia-del-papa-leon-xiv-en-uruguay",
+     "domain": "elpais.com.uy",
+     "seendate": "20261108T183000Z"
+    },
+    {
+     "title": "En la previa de Florida , el papa León XIV visitó Juanicó : Es un momento de agradecimiento",
+     "url": "https://www.subrayado.com.uy/en-la-previa-florida-el-papa-leon-xiv-visito-juanico-es-un-momento-agradecimiento-n1022968",
+     "domain": "subrayado.com.uy",
+     "seendate": "20261108T170000Z"
+    },
+    {
+     "title": "Papa León XIV en Uruguay en vivo hoy 8 de noviembre : santa misa en Florida y su última visita antes de partir",
+     "url": "https://www.elpais.com.uy/papa-leon-xiv-en-vivo-uruguay-domingo-8-noviembre-2026",
+     "domain": "elpais.com.uy",
+     "seendate": "20261108T153000Z"
+    },
+    {
+     "title": "Uruguay bajo la lupa internacional : El humanismo laico frente al mensaje de León XIV",
+     "url": "https://www.carasycaretas.com.uy/sociedad/uruguay-la-lupa-internacional-el-humanismo-laico-frente-al-mensaje-leon-xiv-n100888",
+     "domain": "carasycaretas.com.uy",
+     "seendate": "20261108T143000Z"
+    },
+    {
+     "title": "La historia de la Virgen de los Treinta y Tres : cómo una pequeña imagen se convirtió en patrona de Uruguay",
+     "url": "https://www.elpais.com.uy/informacion/sociedad/la-historia-de-la-virgen-de-los-treinta-y-tres-como-una-pequena-imagen-se-convirtio-en-la-patrona-de-uruguay",
+     "domain": "elpais.com.uy",
+     "seendate": "20261108T140000Z"
+    },
+    {
+     "title": "El papa León XIV se despide de Uruguay con una histórica misa multitudinaria en Florida",
+     "url": "https://www.carasycaretas.com.uy/sociedad/el-papa-leon-xiv-se-despide-uruguay-una-historica-misa-multitudinaria-florida-n100885",
+     "domain": "carasycaretas.com.uy",
+     "seendate": "20261108T133000Z"
+    },
+    {
+     "title": "El cristianismo original era laico y antirreligioso",
+     "url": "https://www.carasycaretas.com.uy/columnas-opinion/el-cristianismo-original-era-laico-y-antirreligioso-n100883",
+     "domain": "carasycaretas.com.uy",
+     "seendate": "20261108T133000Z"
+    },
+    {
+     "title": "Los enemigos que tus amos te inventaron",
+     "url": "https://www.carasycaretas.com.uy/columna-destacada/los-enemigos-que-tus-amos-te-inventaron-n100882",
+     "domain": "carasycaretas.com.uy",
+     "seendate": "20261108T133000Z"
+    },
+    {
+     "title": "Una genética teñida de odio y lodo",
+     "url": "https://www.carasycaretas.com.uy/columna-destacada/una-genetica-tenida-odio-y-lodo-n100884",
+     "domain": "carasycaretas.com.uy",
+     "seendate": "20261108T133000Z"
+    },
+    {
+     "title": "Todo lo que tenés que saber sobre la vigilia de oración de León XIV en el Estadio Centenario",
+     "url": "https://www.elpais.com.uy/informacion/sociedad/todo-lo-que-tenes-que-saber-sobre-la-vigilia-de-oracion-de-leon-xiv-en-el-estadio-centenario",
+     "domain": "elpais.com.uy",
+     "seendate": "20261107T173000Z"
+    },
+    {
+     "title": "Hoy se juegan dos partidos y mañana el resto",
+     "url": "https://www.diariocambio.com.uy/hoy-se-juegan-dos-partidos-y-manana-el-resto",
+     "domain": "diariocambio.com.uy",
+     "seendate": "20261107T173000Z"
+    },
+    {
+     "title": "Latidos : Una realidad a diario , amenazas en el contenedor y más ....",
+     "url": "https://www.diariocambio.com.uy/latidos-una-realidad-diario-amenazas-en-el-contenedor-y-mas",
+     "domain": "diariocambio.com.uy",
+     "seendate": "20261107T173000Z"
+    },
+    {
+     "title": "Ganó en Europa , hizo historia con Nacional y dijo adiós : James Feldeine se retiró del básquetbol a los 38 años",
+     "url": "https://www.elpais.com.uy/ovacion/futbol/gano-en-europa-hizo-historia-con-nacional-y-dijo-adios-james-feldeine-se-retiro-del-basquetbol-a-los-38-anos",
+     "domain": "elpais.com.uy",
+     "seendate": "20261107T173000Z"
+    },
+    {
+     "title": "Cómo ver al papa León XIV en el Estadio Centenario : entradas agotadas y pantalla gigante",
+     "url": "https://www.elpais.com.uy/informacion/sociedad/como-ver-al-papa-leon-xiv-en-el-estadio-centenario-entradas-agotadas-y-pantalla-gigante",
+     "domain": "elpais.com.uy",
+     "seendate": "20261107T173000Z"
+    },
+    {
+     "title": "Rosario artesanal y un poncho teñido con flores nativas : los regalos del intendente Olivera al papa León XIV",
+     "url": "https://www.elpais.com.uy/informacion/sociedad/rosario-artesanal-y-un-poncho-tenido-con-flores-nativas-los-regalos-del-intendente-olivera-al-papa-leon-xiv",
+     "domain": "elpais.com.uy",
+     "seendate": "20261107T173000Z"
+    },
+    {
+     "title": "El exjugador de Nacional que custodió al papa León XIV en su visita a Paysandú : Sentí algo que no sé explicar",
+     "url": "https://www.elpais.com.uy/ovacion/futbol/el-exjugador-de-nacional-que-custodio-al-papa-leon-xiv-en-su-visita-a-paysandu-senti-algo-que-no-se-explicar",
+     "domain": "elpais.com.uy",
+     "seendate": "20261107T173000Z"
+    },
+    {
+     "title": "León XIV viaja este sábado a Paysandú y dará una misa en el Parque París Londres",
+     "url": "https://www.carasycaretas.com.uy/sociedad/leon-xiv-viaja-este-sabado-paysandu-y-dara-una-misa-el-parque-paris-londres-n100869",
+     "domain": "carasycaretas.com.uy",
+     "seendate": "20261107T093000Z"
+    },
+    {
+     "title": "Lucas Cary vuelve con su mejor disco : el deseo de vivir en estado de poesía y la canción que le pidió su padre",
+     "url": "https://www.elpais.com.uy/tvshow/musica/lucas-cary-vuelve-con-su-mejor-disco-el-deseo-de-vivir-en-estado-de-poesia-y-la-cancion-que-le-pidio-su-padre",
+     "domain": "elpais.com.uy",
+     "seendate": "20261107T060000Z"
+    },
+    {
+     "title": "Los Teros enfrentan a España por la Nations Cup",
+     "url": "https://www.eltelegrafo.com/2026/11/los-teros-enfrentan-a-espana-por-la-nations-cup/",
+     "domain": "eltelegrafo.com",
+     "seendate": "20261107T050000Z"
+    },
+    {
+     "title": "Otro remate histórico : Indarte vendió lote de terneros en U$S 7 , 11 por kilo en Plaza Rural",
+     "url": "https://www.eltelegrafo.com/2026/11/otro-remate-historico-indarte-vendio-lote-de-terneros-en-us-711-por-kilo-en-plaza-rural/",
+     "domain": "eltelegrafo.com",
+     "seendate": "20261107T050000Z"
+    },
+    {
+     "title": "Un campeón en Estados Unidos con raíces sanduceras",
+     "url": "https://www.eltelegrafo.com/2026/11/un-campeon-en-estados-unidos-con-raices-sanduceras/",
+     "domain": "eltelegrafo.com",
+     "seendate": "20261107T050000Z"
+    },
+    {
+     "title": "Vacunación contra fiebre aftosa de terneros nacidos este año finaliza el 15 de noviembre",
+     "url": "https://www.eltelegrafo.com/2026/11/vacunacion-contra-fiebre-aftosa-de-terneros-nacidos-este-ano-finaliza-el-15-de-noviembre/",
+     "domain": "eltelegrafo.com",
+     "seendate": "20261107T050000Z"
+    },
+    {
+     "title": "León XIV hizo referencia a la salud mental y la desigualdad en su primer discurso",
+     "url": "https://www.carasycaretas.com.uy/politica/leon-xiv-hizo-referencia-la-salud-mental-y-la-desigualdad-su-primer-discurso-n100863",
+     "domain": "carasycaretas.com.uy",
+     "seendate": "20261107T020000Z"
+    },
     {
      "title": "Paraguay , por suerte , está mejor , decía Lacalle Pou días antes del colapso financiero",
      "url": "https://www.carasycaretas.com.uy/politica/paraguay-suerte-esta-mejor-decia-lacalle-pou-dias-antes-del-colapso-financiero-n100823",
@@ -2685,130 +2895,58 @@
      "url": "https://www.elpais.com.uy/informacion/servicios/bancos-modifican-su-atencion-por-la-llegada-del-papa-leon-xiv-que-sucursales-cambian-su-horario",
      "domain": "elpais.com.uy",
      "seendate": "20261106T003000Z"
-    },
-    {
-     "title": "El pronóstico para el viernes 6 de noviembre de 2026 : cómo estará el tiempo en cada zona del país , según Inumet",
-     "url": "https://www.elpais.com.uy/informacion/servicios/el-pronostico-para-el-viernes-6-de-noviembre-de-2026-como-estara-el-tiempo-en-cada-zona-del-pais-segun-inumet",
-     "domain": "elpais.com.uy",
-     "seendate": "20261106T003000Z"
-    },
-    {
-     "title": "Voy a ejercer mi derecho a la defensa : Peña reapareció tras su renuncia y dijo que enfrentará juicio político",
-     "url": "https://www.elpais.com.uy/mundo/voy-a-ejercer-mi-derecho-a-la-defensa-pena-reaparecio-tras-su-renuncia-y-dijo-que-enfrentara-juicio-politico",
-     "domain": "elpais.com.uy",
-     "seendate": "20261106T003000Z"
-    },
-    {
-     "title": "Esposa de Moratorio pidió que la ayuden a que su hija Abril conozca a su padre y sepa cuánto la amó",
-     "url": "https://www.elpais.com.uy/informacion/sociedad/esposa-de-moratorio-pidio-que-la-ayuden-a-que-su-hija-abril-conozca-a-su-padre-y-sepa-cuanto-la-amo",
-     "domain": "elpais.com.uy",
-     "seendate": "20261106T003000Z"
-    },
-    {
-     "title": "Uruguay Sub 200 compartirá en Salto los descubrimientos de su histórica expedición científica marina",
-     "url": "https://ladiaria.com.uy/salto/articulo/2026/11/uruguay-sub-200-compartira-en-salto-los-descubrimientos-de-su-historica-expedicion-cientifica-marina/",
-     "domain": "ladiaria.com.uy",
-     "seendate": "20261105T233000Z"
-    },
-    {
-     "title": "Gobierno decreta dos días de duelo nacional tras la muerte del científico Gonzalo Moratorio",
-     "url": "https://www.elpais.com.uy/informacion/sociedad/gobierno-decreta-dos-dias-de-duelo-nacional-tras-la-muerte-del-cientifico-gonzalo-moratorio",
-     "domain": "elpais.com.uy",
-     "seendate": "20261105T220000Z"
-    },
-    {
-     "title": "Artistas visuales canarios abrirán las puertas de sus talleres éste sábado 7 y domingo 8 de noviembre",
-     "url": "https://hoycanelones.com.uy/?p=75002",
-     "domain": "hoycanelones.com.uy",
-     "seendate": "20261105T220000Z"
-    },
-    {
-     "title": "ACIR presentó propuestas para mejorar la competitividad comercial a la Junta Deptal .",
-     "url": "https://diarionorte.com.uy/sociedad/acir-presento-propuestas-para-mejorar-la-competitividad-comercial-a-la-junta-deptal-79080.html",
-     "domain": "diarionorte.com.uy",
-     "seendate": "20261105T220000Z"
-    },
-    {
-     "title": "Radi destacó aporte excepcional de Moratorio en la pandemia , un colaborador permanente , generoso , amplio en el GACH",
-     "url": "https://www.subrayado.com.uy/radi-destaco-aporte-excepcional-moratorio-la-pandemia-un-colaborador-permanente-generoso-amplio-el-gach-n1022803",
-     "domain": "subrayado.com.uy",
-     "seendate": "20261105T220000Z"
-    },
-    {
-     "title": "Jorge Armentano , el comunicador de Paysandú que conquistó las redes , está internado y recibe asistencia con oxígeno",
-     "url": "https://www.elpais.com.uy/tvshow/tv-y-radio/jorge-armentano-el-comunicador-de-paysandu-que-conquisto-las-redes-esta-internado-y-recibe-asistencia-con-oxigeno",
-     "domain": "elpais.com.uy",
-     "seendate": "20261105T220000Z"
-    },
-    {
-     "title": "Defensa recibió informe de urgencia con elementos de relevancia sobre la muerte de los buzos",
-     "url": "https://www.carasycaretas.com.uy/politica/defensa-recibio-informe-urgencia-elementos-relevancia-la-muerte-los-buzos-n100746",
-     "domain": "carasycaretas.com.uy",
-     "seendate": "20261104T013000Z"
-    },
-    {
-     "title": "Empresa uruguaya desarrolla nanopartículas que logran reducir hasta 40 % los tumores en ensayos preliminares",
-     "url": "https://ladiaria.com.uy/futuro/articulo/2026/11/empresa-uruguaya-desarrolla-nanoparticulas-que-logran-reducir-hasta-40-los-tumores-en-ensayos-preliminares/",
-     "domain": "ladiaria.com.uy",
-     "seendate": "20261103T021500Z"
-    },
-    {
-     "title": "De impacto incipiente a crecimiento notorio : ¿ qué dicen los sectores exportadores a seis meses del acuerdo con la UE ? | la diaria",
-     "url": "https://ladiaria.com.uy/politica/articulo/2026/11/de-impacto-incipiente-a-crecimiento-notorio-que-dicen-los-sectores-exportadores-a-seis-meses-del-acuerdo-con-la-ue/",
-     "domain": "ladiaria.com.uy",
-     "seendate": "20261103T021500Z"
-    },
-    {
-     "title": "Instituto Antártico Uruguayo impulsa la formación de docentes para llevar la Antártida a las aulas | la diaria",
-     "url": "https://ladiaria.com.uy/educacion/articulo/2026/11/instituto-antartico-uruguayo-impulsa-la-formacion-de-docentes-para-llevar-la-antartida-a-las-aulas/",
-     "domain": "ladiaria.com.uy",
-     "seendate": "20261103T021500Z"
     }
    ]
   },
   "PRY": {
    "articles": [
     {
-     "title": "Caraguatay: avanzan obras de rescate del legado de la iglesia Virgen de las Mercedes",
-     "url": "https://www.abc.com.py/nacionales/2026/11/08/caraguatay-avanzan-obras-de-rescate-del-legado-de-la-iglesia-virgen-de-las-mercedes/",
+     "title": "Sin clases este lunes: Docentes llevan la crisis de Ueno Bank a Pedro Alliana",
+     "url": "https://www.abc.com.py/nacionales/2026/11/08/sin-clases-por-crisis-de-ueno-bank-docentes-llevan-la-crisis-a-pedro-alliana/",
      "domain": "ABC Color",
-     "seendate": "20261108T134154Z"
+     "seendate": "20261108T173654Z"
     },
     {
-     "title": "Santiago Peña, libre para recibir visitas y usar un teléfono celular durante su reclusión",
+     "title": "Caso Ueno: inmovilizan unos US$ 10 millones en bienes de Miguel Vázquez",
+     "url": "https://www.abc.com.py/nacionales/2026/11/08/caso-ueno-inmovilizan-unos-us-10-millones-en-bienes-de-miguel-vazquez/",
+     "domain": "ABC Color",
+     "seendate": "20261108T163214Z"
+    },
+    {
+     "title": "Iglesia pide justicia y reparación para las familias afectadas por Ueno Bank",
+     "url": "https://www.abc.com.py/nacionales/2026/11/08/iglesia-pide-justicia-y-reparacion-para-las-familias-afectadas-por-ueno-bank/",
+     "domain": "ABC Color",
+     "seendate": "20261108T162709Z"
+    },
+    {
+     "title": "Ueno Bank: asegurados exigen destitución y cárcel para miembros del Consejo de IPS",
+     "url": "https://www.abc.com.py/nacionales/2026/11/08/ueno-bank-asegurados-exigen-destitucion-y-carcel-para-miembros-del-consejo-de-ips/",
+     "domain": "ABC Color",
+     "seendate": "20261108T162239Z"
+    },
+    {
+     "title": "Caso Ueno Bank: expresidente del BCP afirma que teme por su vida",
+     "url": "https://www.abc.com.py/nacionales/2026/11/08/caso-ueno-bank-expresidente-del-bcp-afirma-que-teme-por-su-vida/",
+     "domain": "ABC Color",
+     "seendate": "20261108T154244Z"
+    },
+    {
+     "title": "Calles destrozadas y basura: el reclamo de vecinos de Cañada Itá Enramada",
+     "url": "https://www.abc.com.py/nacionales/2026/11/08/calles-destrozadas-y-basura-el-reclamo-de-vecinos-de-canada-ita-enramada/",
+     "domain": "ABC Color",
+     "seendate": "20261108T151447Z"
+    },
+    {
+     "title": "“Jugó con el futuro de los jóvenes”: Fuertes críticas de estudiantes contra gestión de Ramírez en el MEC",
+     "url": "https://www.abc.com.py/nacionales/2026/11/08/jugo-con-el-futuro-de-los-jovenes-fuertes-criticas-de-estudiantes-contra-gestion-de-ramirez-en-el-mec/",
+     "domain": "ABC Color",
+     "seendate": "20261108T151209Z"
+    },
+    {
+     "title": "Peña cumple reclusión en habitación común, con libre visita y uso de celular",
      "url": "https://www.abc.com.py/nacionales/2026/11/08/pena-libre-para-recibir-visitas-y-usar-un-telefono-celular-durante-su-reclusion/",
      "domain": "ABC Color",
      "seendate": "20261108T130807Z"
-    },
-    {
-     "title": "Esto detalla la agenda de Gobierno de Pedro Alliana de este domingo",
-     "url": "https://www.abc.com.py/nacionales/2026/11/08/esto-detalla-la-agenda-de-gobierno-de-pedro-alliana-de-este-domingo/",
-     "domain": "ABC Color",
-     "seendate": "20261108T121423Z"
-    },
-    {
-     "title": "Duro golpe a la Educación Superior: Aneaes propone la absorción del Cones y habla de “institución fallida”",
-     "url": "https://www.abc.com.py/nacionales/2026/11/08/duro-golpe-a-la-educacion-superior-aneaes-propone-la-absorcion-del-cones-y-habla-de-institucion-fallida/",
-     "domain": "ABC Color",
-     "seendate": "20261108T120000Z"
-    },
-    {
-     "title": "Meteorología anuncia domingo fresco a cálido y sin lluvias",
-     "url": "https://www.abc.com.py/nacionales/2026/11/08/meteorologia-anuncia-domingo-fresco-a-calido-y-sin-lluvias/",
-     "domain": "ABC Color",
-     "seendate": "20261108T095741Z"
-    },
-    {
-     "title": "Santiago Peña queda preso en el Regimiento Escolta Presidencial",
-     "url": "https://www.abc.com.py/nacionales/2026/11/07/santiago-pena-queda-preso-en-el-regimiento-escolta-presidencial/",
-     "domain": "ABC Color",
-     "seendate": "20261107T212341Z"
-    },
-    {
-     "title": "Ueno Bank: Para la Fiscalía, Peña se puede fugar y Carvallo, ocultar pruebas",
-     "url": "https://www.abc.com.py/nacionales/2026/11/07/ueno-bank-para-la-fiscalia-pena-se-puede-fugar-y-carvallo-ocultar-pruebas/",
-     "domain": "ABC Color",
-     "seendate": "20261107T205951Z"
     }
    ]
   },
@@ -2817,6 +2955,66 @@
   },
   "BRA": {
    "articles": [
+    {
+     "title": "Enem 2026 volta a ter 'textão' e traz questões como IA, terras raras e ECA Digital",
+     "url": "https://oglobo.globo.com/brasil/educacao/noticia/2026/11/08/enem-2026-volta-a-ter-textao-e-traz-questoes-como-ia-terras-raras-e-eca-digital.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261108T184247Z"
+    },
+    {
+     "title": "Enem 2026: tema da redação é 'A valorização do Sistema Único de Saúde (SUS) como direito universal'; siga ao vivo e confira o gabarito extraoficial",
+     "url": "https://oglobo.globo.com/brasil/educacao/enem-e-vestibular/ao-vivo/enem-2026-acompanhe-ao-vivo-o-primeiro-dia-de-provas-e-o-gabarito-extraoficial.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261108T183843Z"
+    },
+    {
+     "title": "‘Viva o SUS’ vira um dos assuntos mais comentados nas redes sociais após tema da redação do Enem",
+     "url": "https://oglobo.globo.com/brasil/educacao/noticia/2026/11/08/viva-o-sus-vira-um-dos-assuntos-mais-comentados-nas-redes-sociais-apos-tema-da-redacao-do-enem.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261108T173227Z"
+    },
+    {
+     "title": "Quando saem as notas do Enem 2026? Veja data da divulgação do resultado",
+     "url": "https://oglobo.globo.com/brasil/educacao/enem-e-vestibular/noticia/2026/11/08/quando-saem-as-notas-do-enem-2026-veja-data-da-divulgacao-do-resultado.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261108T173001Z"
+    },
+    {
+     "title": "Enem 2026 muda estilo de tema da redação depois de focar em minorias sociais em dez das últimas 11 edições",
+     "url": "https://oglobo.globo.com/brasil/educacao/noticia/2026/11/08/enem-2026-muda-estilo-de-tema-da-redacao-depois-de-focar-em-minorias-sociais-em-dez-das-ultimas-11-edicoes.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261108T170703Z"
+    },
+    {
+     "title": "Redação Enem 2026: tema é 'A valorização do Sistema Único de Saúde (SUS) como direito universal'",
+     "url": "https://oglobo.globo.com/brasil/educacao/noticia/2026/11/08/redacao-enem-2026-tema-e-a-valorizacao-do-sistema-unico-de-saude-sus-como-direito-universal.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261108T164142Z"
+    },
+    {
+     "title": "Ministro da Educação diz que estudantes que perderem Enem por questões climáticas terão nova chance em dezembro",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/11/08/ministro-da-educacao-diz-que-estudantes-que-perderem-enem-por-questoes-climaticas-terao-nova-chance-em-dezembro.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261108T163245Z"
+    },
+    {
+     "title": "Enem 2026: como consultar o local de prova",
+     "url": "https://oglobo.globo.com/brasil/educacao/enem-e-vestibular/noticia/2026/11/08/enem-2026-como-consultar-o-local-de-prova.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261108T144319Z"
+    },
+    {
+     "title": "Lula visita sala de monitoramento do Enem em Brasília e exalta a participação feminina na prova",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/11/08/lula-visita-sala-de-monitoramento-do-enem-em-brasilia.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261108T143613Z"
+    },
+    {
+     "title": "Que horas acaba o Enem 2026? Veja horário da prova",
+     "url": "https://oglobo.globo.com/brasil/educacao/enem-e-vestibular/noticia/2026/11/08/que-horas-termina-o-enem-2026.ghtml",
+     "domain": "O Globo",
+     "seendate": "20261108T140000Z"
+    },
     {
      "title": "Gabarito oficial Enem 2026: veja cronograma e quando sai a correção",
      "url": "https://oglobo.globo.com/brasil/educacao/enem-e-vestibular/noticia/2026/11/08/gabarito-oficial-enem-2026-veja-cronograma-e-quando-sai-a-correcao.ghtml",
@@ -2828,12 +3026,6 @@
      "url": "https://oglobo.globo.com/brasil/educacao/enem-e-vestibular/noticia/2026/11/08/lula-e-ministro-da-educacao-publicam-mensagens-de-incentivo-a-candidatos-do-enem-boa-prova.ghtml",
      "domain": "O Globo",
      "seendate": "20261108T130811Z"
-    },
-    {
-     "title": "Enem 2026: acompanhe ao vivo o primeiro dia de provas e o gabarito extraoficial",
-     "url": "https://oglobo.globo.com/brasil/educacao/enem-e-vestibular/ao-vivo/enem-2026-acompanhe-ao-vivo-o-primeiro-dia-de-provas-e-o-gabarito-extraoficial.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261108T121204Z"
     },
     {
      "title": "Quais documentos devo levar para o Enem 2026?",
@@ -2858,54 +3050,6 @@
      "url": "https://oglobo.globo.com/brasil/educacao/enem-e-vestibular/noticia/2026/11/08/horario-do-enem-2026-que-horas-comeca-a-prova-nos-dias-8-e-15.ghtml",
      "domain": "O Globo",
      "seendate": "20261108T075800Z"
-    },
-    {
-     "title": "Gênero textual, Brasil colonial e urbanização: veja o que deve cair no primeiro dia do Enem",
-     "url": "https://oglobo.globo.com/brasil/educacao/noticia/2026/11/08/genero-textual-brasil-colonial-e-urbanizacao-veja-o-que-deve-cair-no-primeiro-dia-do-enem.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261108T063000Z"
-    },
-    {
-     "title": "Da Segurança à Fazenda: Alckmin vira nome 'coringa' em montagem de ministérios do Lula 4",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/11/08/da-seguranca-a-fazenda-alckmin-vira-nome-coringa-em-montagem-de-ministerios-do-lula-4.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261108T063000Z"
-    },
-    {
-     "title": "Entrevista: 'PEC da Segurança acaba com ilhas de informação ao padronizar e compartilhar dados', diz Ricardo Saadi, presidente do Coaf",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/11/08/entrevista-pec-da-seguranca-acaba-com-ilhas-de-informacao-ao-padronizar-e-compartilhar-dados-diz-ricardo-saadi-presidente-do-coaf.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261108T063000Z"
-    },
-    {
-     "title": "Gabarito Enem 2026: como acompanhar correção extraoficial da prova ao vivo",
-     "url": "https://oglobo.globo.com/brasil/educacao/enem-e-vestibular/noticia/2026/11/08/gabarito-enem-2026-como-acompanhar-correcao-extraoficial-da-prova-ao-vivo.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261108T063000Z"
-    },
-    {
-     "title": "No ritmo dos livros: ‘raves’ e retiros literários viram opção para desacelerar e compartilhar histórias",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/11/08/no-ritmo-dos-livros-raves-e-retiros-literarios-viram-opcao-para-desacelerar-e-compartilhar-historias.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261108T063000Z"
-    },
-    {
-     "title": "Vitória de Lula reforça isolamento de Mendonça e Nunes Marques no STF",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/11/08/vitoria-de-lula-reforca-isolamento-de-mendonca-e-nunes-marques-no-stf.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261108T063000Z"
-    },
-    {
-     "title": "Você acertaria questões do Enem? Faça o teste",
-     "url": "https://oglobo.globo.com/brasil/educacao/noticia/2026/11/08/voce-acertaria-questoes-do-enem-faca-o-teste.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261108T063000Z"
-    },
-    {
-     "title": "Enem tem alta de 29% nas necessidades especiais declaradas por candidatos",
-     "url": "https://oglobo.globo.com/brasil/educacao/enem-e-vestibular/noticia/2026/11/08/enem-tem-alta-de-29percent-nas-necessidades-especiais-declaradas-por-candidatos.ghtml",
-     "domain": "O Globo",
-     "seendate": "20261108T063000Z"
     }
    ]
   }
