@@ -1,8 +1,50 @@
 {
- "updated": "2026-11-20T01:10:51+00:00",
+ "updated": "2026-11-20T09:03:22+00:00",
  "countries": {
   "ESP": {
    "articles": [
+    {
+     "title": "Herida muy grave una conductora en la M-50 al embestir un camión a su coche averiado",
+     "url": "https://elpais.com/espana/madrid/2026-11-20/herida-muy-grave-una-conductora-en-la-m-50-al-embestir-un-camion-a-su-coche-averiado.html",
+     "domain": "El País",
+     "seendate": "20261120T081749Z"
+    },
+    {
+     "title": "El Ayuntamiento de Madrid prescindirá de vigilantes de seguridad en los nuevos centros para víctimas de violencia de género",
+     "url": "https://elpais.com/espana/madrid/2026-11-20/el-ayuntamiento-de-madrid-prescindira-de-vigilantes-de-seguridad-en-los-nuevos-centros-para-victimas-de-violencia-de-genero.html",
+     "domain": "El País",
+     "seendate": "20261120T070254Z"
+    },
+    {
+     "title": "Los ‘pinchazos’ a la ideóloga del grupo neonazi Núcleo Nacional: “Me gustaría tener un niño para que apalee a negros”",
+     "url": "https://elpais.com/espana/2026-11-20/los-pinchazos-a-la-ideologa-del-grupo-neonazi-nucleo-nacional-me-gustaria-tener-un-nino-para-que-apalee-a-negros.html",
+     "domain": "El País",
+     "seendate": "20261120T043001Z"
+    },
+    {
+     "title": "Zahara: “¿La gente está saturada de la campaña? Yo estoy dentrísimo”",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-20/zahara-la-gente-esta-saturada-de-la-campana-yo-estoy-dentrisimo.html",
+     "domain": "El País",
+     "seendate": "20261120T043001Z"
+    },
+    {
+     "title": "El nuevo metro donostiarra será más ‘topo’ que nunca y comienza a rodar después de nueve años de obras",
+     "url": "https://elpais.com/espana/pais-vasco/2026-11-20/el-nuevo-metro-donostiarra-sera-mas-topo-que-nunca-y-comienza-a-rodar-despues-de-nueve-anos-de-obras.html",
+     "domain": "El País",
+     "seendate": "20261120T043001Z"
+    },
+    {
+     "title": "Cómo el candidato del PP ha intentado acercarse a Vox sin asustar al votante de izquierda",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-20/como-el-candidato-del-pp-ha-intentado-acercarse-a-vox-sin-asustar-al-votante-de-izquierda.html",
+     "domain": "El País",
+     "seendate": "20261120T013736Z"
+    },
+    {
+     "title": "El debate más extraño que difícilmente va a dar la vuelta a las encuestas",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-20/el-debate-mas-extrano-que-dificilmente-va-a-dar-la-vuelta-a-las-encuestas.html",
+     "domain": "El País",
+     "seendate": "20261120T005945Z"
+    },
     {
      "title": "El debate que se cerró con María Casado descalza y sus tacones encima del atril",
      "url": "https://elpais.com/espana/elecciones-generales/2026-11-20/el-debate-que-se-cerro-con-maria-casado-descalza-y-sus-tacones-encima-del-atril.html",
@@ -34,6 +76,12 @@
      "seendate": "20261119T234036Z"
     },
     {
+     "title": "¿Quién ha ganado el debate para los lectores de EL PAÍS?",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/quien-ha-ganado-el-debate-para-los-lectores-de-el-pais.html",
+     "domain": "El País",
+     "seendate": "20261119T233731Z"
+    },
+    {
      "title": "Perro de marrón, poco mordedor y la inesperada web sorpresa del PP: el debate en las redes",
      "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/perro-de-marron-poco-mordedor-y-la-inesperada-web-sorpresa-del-pp-el-debate-en-las-redes.html",
      "domain": "El País",
@@ -58,18 +106,6 @@
      "seendate": "20261119T231355Z"
     },
     {
-     "title": "El extraño momento en el que ambos candidatos se pasaron la palabra: “Hable”; “Le estoy escuchando”",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/el-momento-del-silencio-de-los-cadidatos-en-el-que-los-dos-se-pasaron-la-palabra.html",
-     "domain": "El País",
-     "seendate": "20261119T231053Z"
-    },
-    {
-     "title": "El debate integro entre Pedro Sánchez y Alberto Núñez Feijóo",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/el-debate-integro-entre-pedro-sanchez-y-alberto-nunez-feijoo.html",
-     "domain": "El País",
-     "seendate": "20261119T225335Z"
-    },
-    {
      "title": "Sánchez y Feijóo no se miran porque no pueden ni verse",
      "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/sanchez-y-feijoo-ni-se-miran-porque-no-pueden-ni-verse.html",
      "domain": "El País",
@@ -80,30 +116,6 @@
      "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/mentiras-y-medias-verdades-del-debate-cara-a-cara-entre-pedro-sanchez-y-alberto-nunez-feijoo.html",
      "domain": "El País",
      "seendate": "20261119T221720Z"
-    },
-    {
-     "title": "Abascal advierte de que Sánchez “no se irá de rositas” si pierde las elecciones",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/abascal-advierte-de-que-sanchez-no-se-ira-de-rositas-si-pierde-las-elecciones.html",
-     "domain": "El País",
-     "seendate": "20261119T201239Z"
-    },
-    {
-     "title": "La Junta Electoral rechaza el recurso del PSOE contra el vídeo del PP sobre Sánchez hecho con el “novedoso instrumento” de la IA",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/la-junta-electoral-rechaza-el-recurso-del-psoe-contra-el-video-del-pp-sobre-sanchez-hecho-con-el-novedoso-instrumento-de-la-ia.html",
-     "domain": "El País",
-     "seendate": "20261119T193233Z"
-    },
-    {
-     "title": "La Policía sanciona a un delegado sindical por publicar en redes una imagen suya sujetando por los grilletes a dos detenidos",
-     "url": "https://elpais.com/espana/2026-11-19/la-policia-sanciona-a-un-delegado-sindical-por-publicar-en-redes-una-imagen-suya-sujetando-por-los-grilletes-a-dos-detenidos.html",
-     "domain": "El País",
-     "seendate": "20261119T191912Z"
-    },
-    {
-     "title": "La encuesta antes del debate: ligera ventaja del PP y muy clara del bloque derechista",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/la-encuesta-antes-del-debate-ligera-ventaja-del-pp-y-muy-clara-del-bloque-derechista.html",
-     "domain": "El País",
-     "seendate": "20261119T190002Z"
     },
     {
      "title": "La defensora del pueblo en funciones elimina el área de Igualdad y diluye la de Migraciones un día después de asumir el cargo",
@@ -124,52 +136,16 @@
      "seendate": "20261119T161524Z"
     },
     {
-     "title": "Detenido un hombre tras acuchillar a su pareja y tirarse desde un primer piso en Villarejo de Salvanés",
-     "url": "https://elpais.com/espana/madrid/2026-11-19/detenido-un-hombre-tras-acuchillar-a-su-pareja-y-tirarse-desde-un-primer-piso-en-villarejo-de-salvanes.html",
-     "domain": "El País",
-     "seendate": "20261119T161003Z"
-    },
-    {
      "title": "Un exdirectivo de la SEPI niega presiones para el rescate de Plus Ultra",
      "url": "https://elpais.com/espana/2026-11-19/un-directivo-de-la-sepi-niega-presiones-para-el-rescate-de-plus-ultra.html",
      "domain": "El País",
      "seendate": "20261119T155141Z"
     },
     {
-     "title": "“Volarle la cabeza a Sánchez”: la conversación que convenció al PSOE de personarse en la causa contra Núcleo Nacional",
-     "url": "https://elpais.com/espana/2026-11-19/no-es-una-simple-provocacion-es-una-amenaza-real-asi-el-psoe-decidio-personarse-en-la-causa-contra-nucleo-nacional.html",
-     "domain": "El País",
-     "seendate": "20261119T125821Z"
-    },
-    {
      "title": "La Comunidad de Madrid refuerza los servicios mínimos de la huelga de educación y cifra en 413.076 las clases no impartidas",
      "url": "https://elpais.com/espana/madrid/2026-11-19/la-comunidad-de-madrid-refuerza-los-servicios-minimos-de-la-huelga-indefinida-de-educacion-y-cifra-en-413076-las-horas-lectivas-no-impartidas.html",
      "domain": "El País",
      "seendate": "20261119T122351Z"
-    },
-    {
-     "title": "El primer gran bulo de la campaña se derrumba: Alvise, un garaje en Burgos y un “ataque violento” en un domicilio",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/el-primer-gran-bulo-de-la-campana-se-derrumba-alvise-un-garaje-en-burgos-y-un-ataque-violento-en-un-domicilio.html",
-     "domain": "El País",
-     "seendate": "20261119T122258Z"
-    },
-    {
-     "title": "Tráfico apuesta por los colores para informar del estado de las carreteras a causa del tiempo",
-     "url": "https://elpais.com/espana/2026-11-19/trafico-apuesta-por-los-colores-para-informar-del-estado-de-las-carreteras-a-causa-del-tiempo.html",
-     "domain": "El País",
-     "seendate": "20261119T121006Z"
-    },
-    {
-     "title": "Emilio Delgado llama “cobarde” a Ayuso por criticarlo por ir con su pareja a la sanidad privada: “Ustedes destruyen lo público”",
-     "url": "https://elpais.com/espana/madrid/2026-11-19/emilio-delgado-llama-cobarde-a-ayuso-por-criticarle-por-ir-con-su-pareja-a-la-sanidad-privada-ustedes-destruyen-lo-publico.html",
-     "domain": "El País",
-     "seendate": "20261119T114143Z"
-    },
-    {
-     "title": "El Constitucional absuelve al tuitero que culpó al “Estado policial” de la muerte de un ‘mantero’ en Madrid",
-     "url": "https://elpais.com/espana/2026-11-19/el-constitucional-absuelve-al-tuitero-que-culpo-al-estado-policial-de-la-muerte-de-un-mantero-en-madrid.html",
-     "domain": "El País",
-     "seendate": "20261119T110433Z"
     },
     {
      "title": "Ferran Adrià desembarca este viernes en Netflix con ‘Génesis’: “No éramos nadie cuando empezamos”",
@@ -184,20 +160,8 @@
      "seendate": "20261119T045000Z"
     },
     {
-     "title": "Ninguna región se suma al plan de Ayuso para financiar el acceso de sus estudiantes y trabajadores a la tarjeta de transporte de Madrid",
-     "url": "https://elpais.com/espana/madrid/2026-11-19/ninguna-region-se-suma-al-plan-de-ayuso-para-copagar-el-acceso-de-sus-estudiantes-y-trabajadores-a-la-tarjeta-de-transporte-de-madrid.html",
-     "domain": "El País",
-     "seendate": "20261119T043001Z"
-    },
-    {
      "title": "La tasa de basuras subirá en 18 de los 21 distritos de Madrid en 2027, según un análisis del PSOE",
      "url": "https://elpais.com/espana/madrid/2026-11-19/la-tasa-de-basuras-subira-en-18-de-los-21-distritos-de-madrid-en-2027-segun-un-analisis-del-psoe.html",
-     "domain": "El País",
-     "seendate": "20261119T043001Z"
-    },
-    {
-     "title": "Gibraltar levanta 2.162 pisos protegidos y los dueños solo pagarán la mitad de su precio",
-     "url": "https://elpais.com/espana/2026-11-19/gibraltar-levanta-2162-pisos-protegidos-y-los-duenos-solo-pagaran-la-mitad-del-precio.html",
      "domain": "El País",
      "seendate": "20261119T043001Z"
     },
@@ -208,33 +172,177 @@
      "seendate": "20261118T170221Z"
     },
     {
-     "title": "CC OO se querellará por injurias contra Ayuso por llamar “basura sindical” y “mafia” a los sindicatos",
-     "url": "https://elpais.com/espana/madrid/2026-11-18/comisiones-obreras-se-querellara-por-injurias-contra-ayuso-por-llamar-basura-sindical-y-mafia-a-los-sindicatos.html",
-     "domain": "El País",
-     "seendate": "20261118T155345Z"
-    },
-    {
-     "title": "Una operación antidroga termina con un centro social del Ayuntamiento de Madrid precintado",
-     "url": "https://elpais.com/espana/madrid/2026-11-18/una-operacion-antidroga-termina-con-el-cierre-de-un-centro-social-del-ayuntamiento-de-madrid.html",
-     "domain": "El País",
-     "seendate": "20261118T145712Z"
-    },
-    {
      "title": "Un parking, un viaje a Portugal y los cordones de un zapato: la investigación que dio con los ‘topos’ del CNI",
      "url": "https://elpais.com/espana/2026-11-16/un-parking-un-viaje-a-portugal-y-los-cordones-de-un-zapato-la-investigacion-que-dio-con-los-topos-del-cni.html",
      "domain": "El País",
      "seendate": "20261116T043001Z"
-    },
-    {
-     "title": "La derecha recupera la idea de la repetición de curso para los rezagados: al revés que los 10 mejores países del Informe PISA",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/la-derecha-recupera-la-idea-de-la-repeticion-de-curso-para-los-rezagados.html",
-     "domain": "El País",
-     "seendate": "20261115T081730Z"
     }
    ]
   },
   "MEX": {
    "articles": [
+    {
+     "title": "Parque del Agua une naturaleza e innovación",
+     "url": "https://www.eluniversal.com.mx/estados/parque-del-agua-une-naturaleza-e-innovacion/",
+     "domain": "El Universal",
+     "seendate": "20261120T082936Z"
+    },
+    {
+     "title": "Detienen a 4 presuntos integrantes de Los Cromos en Juchitán",
+     "url": "https://www.eluniversal.com.mx/estados/detienen-a-4-presuntos-integrantes-de-los-cromos-en-juchitan/",
+     "domain": "El Universal",
+     "seendate": "20261120T081628Z"
+    },
+    {
+     "title": "INE rechaza exhorto para nombrar nueva presidencia",
+     "url": "https://www.eluniversal.com.mx/nacion/ine-rechaza-exhorto-para-nombrar-nueva-presidencia/",
+     "domain": "El Universal",
+     "seendate": "20261120T080629Z"
+    },
+    {
+     "title": "Analizan drogas para salvar vidas; buscan detectar fentanilo y otras sustancias adulterantes",
+     "url": "https://www.eluniversal.com.mx/estados/analizan-drogas-para-salvar-vidas-buscan-detectar-fentanilo-y-otras-sustancias-adulterantes/",
+     "domain": "El Universal",
+     "seendate": "20261120T075744Z"
+    },
+    {
+     "title": "México y China refuerzan relación bilateral; acuerdan cooperación sin un tratado comercial",
+     "url": "https://www.eluniversal.com.mx/nacion/mexico-y-china-refuerzan-relacion-bilateral-acuerdan-cooperacion-sin-un-tratado-comercial/",
+     "domain": "El Universal",
+     "seendate": "20261120T074827Z"
+    },
+    {
+     "title": "Advierten riesgo de pérdida de autonomía en universidades; seis instituciones reforman elección de rectores",
+     "url": "https://www.eluniversal.com.mx/nacion/advierten-riesgo-de-perdida-de-autonomia-en-universidades-seis-instituciones-reforman-eleccion-de-rectores/",
+     "domain": "El Universal",
+     "seendate": "20261120T070428Z"
+    },
+    {
+     "title": "Cantería, un arte para preservar",
+     "url": "https://www.eluniversal.com.mx/metropoli/canteria-un-arte-para-preservar/",
+     "domain": "El Universal",
+     "seendate": "20261120T063051Z"
+    },
+    {
+     "title": "Claudia Sheinbaum se viraliza en redes sociales de China; captan a taxista escuchando su discurso",
+     "url": "https://www.eluniversal.com.mx/nacion/claudia-sheinbaum-se-viraliza-en-redes-sociales-de-china-captan-a-taxista-escuchando-su-discurso/",
+     "domain": "El Universal",
+     "seendate": "20261120T062233Z"
+    },
+    {
+     "title": "Sheinbaum llega a México tras visita de trabajo en China; sostuvo reuniones con Trump y Xi Jinping",
+     "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-llega-a-mexico-tras-visita-de-trabajo-en-china-sostuvo-reuniones-con-trump-y-xi-jinping/",
+     "domain": "El Universal",
+     "seendate": "20261120T062217Z"
+    },
+    {
+     "title": "Jubilados de la Cámara de Diputados liberan San Lázaro tras diálogo con Mesa Directiva; reagendan reunión para atender demandas",
+     "url": "https://www.eluniversal.com.mx/nacion/jubilados-de-la-camara-de-diputados-liberan-san-lazaro-tras-dialogo-con-mesa-directiva-reagendan-reunion-para-atender-demandas/",
+     "domain": "El Universal",
+     "seendate": "20261120T052022Z"
+    },
+    {
+     "title": "Por Corona Capital y NFL, Metro amplía su horario en 4 Líneas; conoce los detalles del servicio",
+     "url": "https://www.eluniversal.com.mx/metropoli/por-corona-capital-y-nfl-metro-amplia-su-horario-en-4-lineas-conoce-los-detalles-del-servicio/",
+     "domain": "El Universal",
+     "seendate": "20261120T051908Z"
+    },
+    {
+     "title": "Migrantes continúan su trayecto hacia Oaxaca; dejan Pijijiapan tras petición de autoridades",
+     "url": "https://www.eluniversal.com.mx/estados/migrantes-continuan-su-trayecto-hacia-oaxaca-dejan-pijijiapan-tras-peticion-de-autoridades/",
+     "domain": "El Universal",
+     "seendate": "20261120T051839Z"
+    },
+    {
+     "title": "Segob presume localización de 18 mil personas con estrategia de búsqueda; detecta perfiles de reclutamiento",
+     "url": "https://www.eluniversal.com.mx/nacion/segob-presume-localizacion-de-18-mil-personas-con-estrategia-de-busqueda-detecta-perfiles-de-reclutamiento/",
+     "domain": "El Universal",
+     "seendate": "20261120T034431Z"
+    },
+    {
+     "title": "Vinculan a proceso a \"La Pocha\" y \"El Nazi\", presuntos líderes del Cártel del Noreste; se les decomisaron armas del Ejército",
+     "url": "https://www.eluniversal.com.mx/nacion/vinculan-a-proceso-a-la-pocha-y-el-nazi-presuntos-lideres-del-cartel-del-noreste-se-les-decomisaron-armas-del-ejercito/",
+     "domain": "El Universal",
+     "seendate": "20261120T034317Z"
+    },
+    {
+     "title": "Cae en Jalisco \"El Playboy\", presunto integrante de red de pornografía infantil liderada por \"Chucky 69\"; era buscado por EU",
+     "url": "https://www.eluniversal.com.mx/estados/cae-en-jalisco-el-playboy-presunto-integrante-de-red-de-pornografia-infantil-liderada-por-chucky-69-era-buscado-por-eu/",
+     "domain": "El Universal",
+     "seendate": "20261120T033528Z"
+    },
+    {
+     "title": "Nombran a Rigoberto Mares precandidato del PAN en La Paz; buscan recuperar Baja California Sur en 2027",
+     "url": "https://www.eluniversal.com.mx/nacion/nombran-a-rigoberto-mares-precandidato-del-pan-en-la-paz-buscan-recuperar-baja-california-sur-en-2027/",
+     "domain": "El Universal",
+     "seendate": "20261120T031515Z"
+    },
+    {
+     "title": "Embajada de EU en México sigue tirando contra China; es la fuente de precursores químicos, asegura",
+     "url": "https://www.eluniversal.com.mx/nacion/embajada-de-eu-en-mexico-sigue-tirando-contra-china-es-la-fuente-de-precursores-quimicos-asegura/",
+     "domain": "El Universal",
+     "seendate": "20261120T030834Z"
+    },
+    {
+     "title": "Samuel García supervisa obras de Línea 6 del Metro en Nuevo León; siete de 21 trenes ya llegaron al estado",
+     "url": "https://www.eluniversal.com.mx/estados/samuel-garcia-supervisa-obras-de-linea-6-del-metro-en-nuevo-leon-siete-de-21-trenes-ya-llegaron-al-estado/",
+     "domain": "El Universal",
+     "seendate": "20261120T022411Z"
+    },
+    {
+     "title": "PAN anuncia denuncias penales contra AMLO y Gatell por crisis de vacunación; acusa abandono de política sanitaria",
+     "url": "https://www.eluniversal.com.mx/nacion/pan-anuncia-denuncias-penales-contra-amlo-y-gatell-por-crisis-de-vacunacion-acusa-abandono-de-politica-sanitaria/",
+     "domain": "El Universal",
+     "seendate": "20261120T021307Z"
+    },
+    {
+     "title": "Familias de víctimas de feminicidio y desaparición denuncian exclusión de actualización de protocolo de orfandad; exigen participar",
+     "url": "https://www.eluniversal.com.mx/nacion/familias-de-victimas-de-feminicidio-y-desaparicion-denuncian-exclusion-de-actualizacion-de-protocolo-de-orfandad-exigen-participar/",
+     "domain": "El Universal",
+     "seendate": "20261120T021156Z"
+    },
+    {
+     "title": "Sentencian a extesorero de Gómez Palacio, Durango, por pago ilegal; deberá saldar 174 mil pesos por reparación del daño",
+     "url": "https://www.eluniversal.com.mx/estados/sentencian-a-extesorero-de-gomez-palacio-durango-por-pago-ilegal-debera-pagar-174-mil-pesos-por-reparacion-del-dano/",
+     "domain": "El Universal",
+     "seendate": "20261120T020116Z"
+    },
+    {
+     "title": "Detienen a sujeto con dos armas en el equipaje en el AICM; llegó de Estados Unidos",
+     "url": "https://www.eluniversal.com.mx/nacion/detienen-a-sujeto-con-dos-armas-en-el-equipaje-en-el-aicm-llego-de-estados-unidos/",
+     "domain": "El Universal",
+     "seendate": "20261120T020005Z"
+    },
+    {
+     "title": "Habilitan Fiscanet, plataforma para denunciar delitos federales en línea; FGR promete facilitar procesos",
+     "url": "https://www.eluniversal.com.mx/nacion/habilitan-fiscanet-plataforma-para-denunciar-delitos-federales-en-linea-promete-facilitar-procesos/",
+     "domain": "El Universal",
+     "seendate": "20261120T015505Z"
+    },
+    {
+     "title": "Américo Villarreal celebra que Sheinbaum destaque el campo petrolero Trion en Foro APEC; \"representa un gran orgullo tamaulipeco\", dice",
+     "url": "https://www.eluniversal.com.mx/estados/americo-villarreal-celebra-que-sheinbaum-destaque-el-campo-petrolero-trion-en-foro-apec-representa-un-gran-orgullo-tamaulipeco-dice/",
+     "domain": "El Universal",
+     "seendate": "20261120T014516Z"
+    },
+    {
+     "title": "Corte valida sistema de “cremallera” para repartir plurinominales en Zacatecas; rechaza impugnaciones de partidos",
+     "url": "https://www.eluniversal.com.mx/nacion/corte-valida-sistema-de-cremallera-para-repartir-plurinominales-en-zacatecas-rechaza-impugnaciones-de-partidos/",
+     "domain": "El Universal",
+     "seendate": "20261120T014513Z"
+    },
+    {
+     "title": "Congreso de Sonora nombra a Lyzeth Salcedo como magistrada del Poder Judicial del estado; oposición cuestiona afiliación a Morena",
+     "url": "https://www.eluniversal.com.mx/estados/congreso-de-sonora-nombra-a-lyzeth-salcedo-como-magistrada-del-poder-judicial-del-estado-oposicion-cuestiona-afiliacion-a-morena/",
+     "domain": "El Universal",
+     "seendate": "20261120T013449Z"
+    },
+    {
+     "title": "\"Irresponsable e insostenible\", continuar pago a jubilados, dice secretario general de San Lázaro; estudiantes saltan rejas",
+     "url": "https://www.eluniversal.com.mx/nacion/irresponsable-e-insostenible-continuar-pagos-a-jubilados-dice-secretario-general-de-san-lazaro-continua-bloqueo-en-diputados/",
+     "domain": "El Universal",
+     "seendate": "20261120T012113Z"
+    },
     {
      "title": "Alcalde Luis Mendoza supervisa reparación de socavón en colonia Del Valle; \"desgraciadamente, la Ciudad ya envejeció\", señala",
      "url": "https://www.eluniversal.com.mx/metropoli/alcalde-luis-mendoza-supervisa-reparacion-de-socavon-en-colonia-del-valle-desgraciadamente-la-ciudad-ya-envejecio-senala/",
@@ -350,7 +458,7 @@
      "seendate": "20261119T222634Z"
     },
     {
-     "title": "Jubilados de la Cámara de Diputados vuelven a bloquear San Lázaro; personal y periodistas quedan encerrados",
+     "title": "Jubilados de la Cámara de Diputados vuelven a bloquear San Lázaro; personal, estudiantes y periodistas quedan encerrados",
      "url": "https://www.eluniversal.com.mx/nacion/trabajadores-jubilados-de-la-camara-de-diputados-vuelven-a-bloquear-san-lazaro-exigen-restituir-apoyo-economico/",
      "domain": "El Universal",
      "seendate": "20261119T220808Z"
@@ -366,132 +474,6 @@
      "url": "https://www.eluniversal.com.mx/estados/diputado-de-sinaloa-se-disfraza-de-policia-para-promover-uso-de-camaras-corporales-plantea-suspender-a-quien-las-apague/",
      "domain": "El Universal",
      "seendate": "20261119T220624Z"
-    },
-    {
-     "title": "IECM pospone discusión de lineamientos para postulación de candidaturas a diputaciones, alcaldías y concejalías; oposición había pedido retirarlos",
-     "url": "https://www.eluniversal.com.mx/metropoli/iecm-pospone-discusion-de-lineamientos-para-postulacion-de-candidaturas-a-diputaciones-alcaldias-y-concejalias-oposicion-habia-pedido-retirarlos/",
-     "domain": "El Universal",
-     "seendate": "20261119T215559Z"
-    },
-    {
-     "title": "Cualquier responsabilidad que se acredite por muerte de motociclista debe tener consecuencias: Brugada; \"familia merece conocer la verdad\"",
-     "url": "https://www.eluniversal.com.mx/metropoli/cualquier-responsabilidad-que-se-acredite-por-muerte-de-motociclista-debe-tener-consecuencias-brugada-familia-merece-conocer-la-verdad/",
-     "domain": "El Universal",
-     "seendate": "20261119T214410Z"
-    },
-    {
-     "title": "Contralor de Hidalgo respalda eliminar autorización de cabildos en firma de contratos municipales; ha provocado retrasos en obras, dice",
-     "url": "https://www.eluniversal.com.mx/estados/contralor-de-hidalgo-respalda-eliminar-autorizacion-de-cabildos-en-firma-de-contratos-municipales-han-provocado-retrasos-en-obras-dice/",
-     "domain": "El Universal",
-     "seendate": "20261119T212733Z"
-    },
-    {
-     "title": "Caen tres integrantes de \"Los Chapitos\"; inhabilitan un narcocampamento en Sinaloa",
-     "url": "https://www.eluniversal.com.mx/nacion/caen-tres-integrantes-de-los-chapitos-inhabilitan-un-narcocampamento-en-sinaloa/",
-     "domain": "El Universal",
-     "seendate": "20261119T211621Z"
-    },
-    {
-     "title": "Militares se enfrentan a civiles en Badiraguato, Sinaloa; detienen a cuatro personas en Mazatlán",
-     "url": "https://www.eluniversal.com.mx/estados/militares-se-enfrentan-a-civiles-en-badiraguato-sinaloa-detienen-a-cuatro-personas-en-mazatlan/",
-     "domain": "El Universal",
-     "seendate": "20261119T211535Z"
-    },
-    {
-     "title": "Denuncian a Vadhir Derbez ante la FGR por presunta violación a menor; tiene orden de aprehensión vigente",
-     "url": "https://www.eluniversal.com.mx/nacion/denuncian-a-vadhir-derbez-ante-la-fgr-por-presunta-violacion-a-menor-tiene-orden-de-aprehension-vigente/",
-     "domain": "El Universal",
-     "seendate": "20261119T211334Z"
-    },
-    {
-     "title": "Protegen más de 10 mil hectáreas en la cuenca del lago de Pátzcuaro; entregan 10 certificados de conservación",
-     "url": "https://www.eluniversal.com.mx/estados/protegen-mas-de-10-mil-hectareas-en-la-cuenca-del-lago-de-patzcuaro-entregan-10-certificados-de-conservacion/",
-     "domain": "El Universal",
-     "seendate": "20261119T211315Z"
-    },
-    {
-     "title": "Familia de motociclista fallecido tras caer en socavón de VC exige justicia; \"si alguien omitió tapar esos hoyos, que le caiga una responsabilidad\"",
-     "url": "https://www.eluniversal.com.mx/metropoli/familia-de-motociclista-fallecido-tras-caer-en-socavon-de-vc-exige-justicia-si-alguien-omitio-tapar-esos-hoyos-que-le-caiga-una-responsabilidad/",
-     "domain": "El Universal",
-     "seendate": "20261119T210619Z"
-    },
-    {
-     "title": "México y Cuba alistan Interparlamentaria; Higinio Martínez busca reactivar reuniones con EU y Canadá",
-     "url": "https://www.eluniversal.com.mx/nacion/mexico-y-cuba-alistan-interparlamentaria-higinio-martinez-busca-reactivar-reuniones-con-eu-y-canada/",
-     "domain": "El Universal",
-     "seendate": "20261119T195845Z"
-    },
-    {
-     "title": "Caen cuatro presuntos responsables del asesinato de dos policías durante ataque a edil en Hidalgo; un robo sería el móvil",
-     "url": "https://www.eluniversal.com.mx/estados/caen-cuatro-presuntos-responsables-del-asesinato-de-dos-policias-durante-ataque-a-edil-en-hidalgo-un-robo-seria-el-movil/",
-     "domain": "El Universal",
-     "seendate": "20261119T195727Z"
-    },
-    {
-     "title": "Aseguran dos pericos extraídos ilegalmente de reserva de la biosfera en Veracruz; detienen a dos",
-     "url": "https://www.eluniversal.com.mx/estados/aseguran-dos-pericos-extraidos-ilegalmente-de-reserva-de-la-biosfera-en-veracruz-detienen-a-dos/",
-     "domain": "El Universal",
-     "seendate": "20261119T194551Z"
-    },
-    {
-     "title": "PAN advierte posible aprobación del IECM de lineamientos sobre plurinominales; Morena podría tener sobrerrepresentación en diputados",
-     "url": "https://www.eluniversal.com.mx/metropoli/pan-advierte-posible-sobrerrepresentacion-de-morena-en-cdmx-amenaza-con-impugnar-lineamientos-del-iecm/",
-     "domain": "El Universal",
-     "seendate": "20261119T194408Z"
-    },
-    {
-     "title": "Monreal ve \"protagonismo fugaz\" en denuncia del PAN sobre presidencia del INE; no logrará ningún propósito, dice",
-     "url": "https://www.eluniversal.com.mx/nacion/monreal-ve-protagonismo-fugaz-en-denuncia-del-pan-sobre-presidencia-del-ine-no-lograra-ningun-proposito-dice/",
-     "domain": "El Universal",
-     "seendate": "20261119T194323Z"
-    },
-    {
-     "title": "Publican nueva Ley de Inversión Extranjera; instituciones de seguridad tendrán voz, pero no voto",
-     "url": "https://www.eluniversal.com.mx/nacion/publican-nueva-ley-de-inversion-extranjera-instituciones-de-seguridad-tendran-voz-pero-no-voto/",
-     "domain": "El Universal",
-     "seendate": "20261119T193403Z"
-    },
-    {
-     "title": "Gobierno de la CDMX espera peritajes por muerte de motociclista en socavón; Fiscalía investiga responsabilidades",
-     "url": "https://www.eluniversal.com.mx/metropoli/gobierno-de-la-cdmx-espera-peritajes-por-muerte-de-motociclista-en-socavon-fiscalia-investiga-responsabilidades/",
-     "domain": "El Universal",
-     "seendate": "20261119T193038Z"
-    },
-    {
-     "title": "Casi 30 millones de mexicanos viven en casas con rezago habitacional, reporta Conavi; llaman a reducir desigualdad urbana",
-     "url": "https://www.eluniversal.com.mx/nacion/casi-30-millones-de-mexicanos-viven-en-casas-con-rezago-habitacional-reporta-conavi-llaman-a-reducir-desigualdad-urbana/",
-     "domain": "El Universal",
-     "seendate": "20261119T192550Z"
-    },
-    {
-     "title": "Cae en Sinaloa \"El Pagador\", líder de célula criminal ligada a \"Los Mayos\"; es jefe del grupo \"Fuerzas Especiales Avendaño\"",
-     "url": "https://www.eluniversal.com.mx/nacion/cae-en-sinaloa-el-pagador-lider-de-celula-criminal-ligada-a-los-mayos-es-jefe-del-grupo-fuerzas-especiales-avendano/",
-     "domain": "El Universal",
-     "seendate": "20261119T192423Z"
-    },
-    {
-     "title": "Mario Alberto Rodríguez, exdirector del IPN, busca regresar al cargo; avanza proceso de elección",
-     "url": "https://www.eluniversal.com.mx/nacion/mario-alberto-rodriguez-exdirector-del-ipn-busca-regresar-al-cargo-avanza-proceso-de-eleccion/",
-     "domain": "El Universal",
-     "seendate": "20261119T192120Z"
-    },
-    {
-     "title": "Caso Ayotzinapa: dan 60 años de prisión a José Luis Abarca por ataque armado a \"Los Avispones\"; lo acusan de tentativa de homicidio",
-     "url": "https://www.eluniversal.com.mx/nacion/caso-ayotzinapa-dan-60-anos-de-prision-a-jose-luis-abarca-por-ataque-armado-a-los-avispones-lo-acusan-de-tentativa-de-homicidio/",
-     "domain": "El Universal",
-     "seendate": "20261119T191947Z"
-    },
-    {
-     "title": "Manifestantes contra el POZMVM y PGD retiran bloqueo en Reforma e Insurgentes; acuerdan reunión con autoridades",
-     "url": "https://www.eluniversal.com.mx/metropoli/ciudadanos-protestan-contra-el-programa-de-ordenacion-y-el-plan-general-de-desarrollo-de-la-cdmx-bloquean-reforma-e-insurgentes/",
-     "domain": "El Universal",
-     "seendate": "20261119T171951Z"
-    },
-    {
-     "title": "Contraloría investigará si hubo cobros a proveedores",
-     "url": "https://www.eluniversal.com.mx/metropoli/contraloria-investigara-si-hubo-cobros-a-proveedores/",
-     "domain": "El Universal",
-     "seendate": "20261119T092728Z"
     }
    ]
   },
@@ -862,110 +844,98 @@
   "HND": {
    "articles": [
     {
+     "title": "OACNUDH condena masacres en Yorito que dejaron 12 personas muertas",
+     "url": "https://www.laprensa.hn/honduras/oacnudh-condena-masacres-yorito-dejaron-12-personas-muertas-EO32696442",
+     "domain": "laprensa.hn",
+     "seendate": "20261120T001500Z"
+    },
+    {
+     "title": "Banco Mundial lanza advertencia sobre Honduras",
+     "url": "https://www.laprensa.hn/honduras/honduras-depende-remesas-banco-mundial-economia-empleo-FO32696065",
+     "domain": "laprensa.hn",
+     "seendate": "20261120T001500Z"
+    },
+    {
+     "title": "Poder Judicial concede asueto por el Día del Hombre , pero mantiene servicios esenciales",
+     "url": "https://www.laprensa.hn/honduras/dia-hombre-poder-judicial-otorga-asueto-funcionarios-empleados-IO32693946",
+     "domain": "laprensa.hn",
+     "seendate": "20261120T001500Z"
+    },
+    {
+     "title": "Conferencia Episcopal condena masacre en Yoro y pide una respuesta efectiva",
+     "url": "https://www.laprensa.hn/honduras/conferencia-episcopal-condena-masacre-en-yoro-y-pide-una-respuesta-efectiva-DO32694711",
+     "domain": "laprensa.hn",
+     "seendate": "20261120T001500Z"
+    },
+    {
+     "title": "Capturan al Manchado , presunto gatillero de la MS en Tela",
+     "url": "https://www.laprensa.hn/sucesos/capturan-alias-el-manchado-presunto-gatillero-ms-tela-BO32693525",
+     "domain": "laprensa.hn",
+     "seendate": "20261120T001500Z"
+    },
+    {
+     "title": "Discurso del secretario de Guerra de EEUU durante su visita a Honduras",
+     "url": "https://www.laprensa.hn/honduras/discurso-secretario-guerra-eeuu-pete-hegseth-nasry-asfura-HO32696818",
+     "domain": "laprensa.hn",
+     "seendate": "20261120T001500Z"
+    },
+    {
+     "title": "Carlos Handal : Se han sentado bases en 2026 para que 2027 sea mejor",
+     "url": "https://www.elheraldo.hn/economia/carlos-handal-gonzalez-presidente-ejecutivo-bac-honduras-sentado-bases-2026-para-que-2027-sea-mejor-EO32691027",
+     "domain": "elheraldo.hn",
+     "seendate": "20261119T171500Z"
+    },
+    {
+     "title": "Honduras : lluvias y temperaturas para este 18 de noviembre",
+     "url": "https://www.elheraldo.hn/honduras/vaguada-prefrontal-dejara-lluvias-chubascos-varias-zonas-honduras-AA32676886",
+     "domain": "elheraldo.hn",
+     "seendate": "20261118T011500Z"
+    },
+    {
+     "title": "Honduras en el Top 30 de las más votadas del Miss Universo",
+     "url": "https://www.elheraldo.hn/entretenimiento/miss-universo-2026-top-30-mas-votadas-miss-honduras-luisa-pineda-GA32674277",
+     "domain": "elheraldo.hn",
+     "seendate": "20261118T011500Z"
+    },
+    {
+     "title": "Es de las peores selecciones en el ranking FIFA , pero ya se clasificó a Copa Oro 2027",
+     "url": "https://www.elheraldo.hn/fotogalerias/deportes/santa-lucia-primer-vez-copa-oro-concacaf-peores-selecciones-ranking-fifa-AA32675588",
+     "domain": "elheraldo.hn",
+     "seendate": "20261118T011500Z"
+    },
+    {
+     "title": "Así operaban los hijos de la excónsul Ada Serrano arrestada en EE UU",
+     "url": "https://www.elheraldo.hn/fotogalerias/honduras/blanqueaban-dinero-asi-operaban-hijos-exconsul-hondurena-ada-serrano-nunez-arrestada-ee-uu-EA32675122",
+     "domain": "elheraldo.hn",
+     "seendate": "20261118T011500Z"
+    },
+    {
      "title": "Agua y saneamiento ( I )",
      "url": "https://www.laprensa.hn/opinion/columnas/agua-y-saneamiento-i-BC32651752",
      "domain": "laprensa.hn",
      "seendate": "20261116T081500Z"
-    },
-    {
-     "title": "Trooko se lleva la estatuilla en los Latin Grammy 2026",
-     "url": "https://www.laprensa.hn/espectaculos/estados-unidos-honduras-conquista-otro-grammy-trooko-lleva-estatuilla-latin-grammy-2026-GF32625627",
-     "domain": "laprensa.hn",
-     "seendate": "20261113T004500Z"
-    },
-    {
-     "title": "Pacific Place : Diunsa abre sus puertas en Choluteca",
-     "url": "https://www.laprensa.hn/economia/marketingempresas/pacific-place-diunsa-abre-sus-puertas-choluteca-NF32623619",
-     "domain": "laprensa.hn",
-     "seendate": "20261113T004500Z"
-    },
-    {
-     "title": "Migración trabajará este fin de semana en emisión de pasaportes",
-     "url": "https://www.elheraldo.hn/honduras/migracion-emitira-pasaportes-este-fin-de-semana-previo-cambio-sistema-HG32617437",
-     "domain": "elheraldo.hn",
-     "seendate": "20261112T064500Z"
-    },
-    {
-     "title": "Policía Nacional prevé sumar 30 , 000 agentes tras reformas al Código Penal",
-     "url": "https://www.elheraldo.hn/honduras/policia-nacional-proyecta-sumar-30-000-agentes-reformas-al-codigo-penal-FG32616773",
-     "domain": "elheraldo.hn",
-     "seendate": "20261112T064500Z"
-    },
-    {
-     "title": "Jóvenes sin educación , sin futuro",
-     "url": "https://www.elheraldo.hn/opinion/editorial/jovenes-sin-educacion-sin-futuro-BG32617475",
-     "domain": "elheraldo.hn",
-     "seendate": "20261112T064500Z"
-    },
-    {
-     "title": "Fundaniquem reporta segundo niño quemado por pólvora en Honduras ; menor de 12 años sufrió lesiones en su mano derecha",
-     "url": "https://abriendobrecha.tv/nacionales/fundaniquem-reporta-segundo-nino-quemado-por-polvora-en-honduras-menor-de-12-anos-sufrio-lesiones-en-su-mano-derecha/",
-     "domain": "abriendobrecha.tv",
-     "seendate": "20261112T030000Z"
-    },
-    {
-     "title": "Honduras declara emergencia ambiental por 36 meses en la Biosfera del Río Plátano y destinará L1 , 500 millones para su recuperación",
-     "url": "https://abriendobrecha.tv/nacionales/honduras-declara-emergencia-ambiental-por-36-meses-en-la-biosfera-del-rio-platano-y-destinara-l1500-millones-para-su-recuperacion/",
-     "domain": "abriendobrecha.tv",
-     "seendate": "20261112T030000Z"
-    },
-    {
-     "title": "UN HONDUREÑO HISTÓRICO - ABRIENDO BRECHA",
-     "url": "https://abriendobrecha.tv/editorial/un-hondureno-historico/",
-     "domain": "abriendobrecha.tv",
-     "seendate": "20261112T030000Z"
-    },
-    {
-     "title": "Mujeres ocupan apenas el 37 . 7 % del empleo en Honduras y enfrentan mayores obstáculos para acceder al mercado laboral",
-     "url": "https://abriendobrecha.tv/nacionales/mujeres-ocupan-apenas-el-37-7-del-empleo-en-honduras-y-enfrentan-mayores-obstaculos-para-acceder-al-mercado-laboral/",
-     "domain": "abriendobrecha.tv",
-     "seendate": "20261112T030000Z"
-    },
-    {
-     "title": "Nasry Asfura nombra nuevas autoridades del INA para agilizar titulación de tierras",
-     "url": "http://www.laprensa.hn/honduras/nasry-asfura-nombra-nuevas-autoridades-ina-agilizar-titulacion-tierras-AH32606215",
-     "domain": "laprensa.hn",
-     "seendate": "20261111T053000Z"
-    },
-    {
-     "title": "Hondureños condecorados por Congreso Nacional este 10 de noviembre",
-     "url": "https://www.elheraldo.hn/fotogalerias/honduras/hondurenos-condecorados-gran-cruz-comendador-congreso-nacional-10-noviembre-IH32603290",
-     "domain": "elheraldo.hn",
-     "seendate": "20261111T030000Z"
-    },
-    {
-     "title": "Ministerio Público sobre el tema de supuestos amaños en el fútbol hondureño",
-     "url": "https://www.elheraldo.hn/deportes/dice-ministerio-publico-sobre-tema-supuestos-amanos-futbol-hondureno-GH32603371",
-     "domain": "elheraldo.hn",
-     "seendate": "20261111T030000Z"
-    },
-    {
-     "title": "Dereck Moncada gana el premio del gol del mes de octubre con el Lugano de Suiza",
-     "url": "https://www.elheraldo.hn/deportes/dereck-moncada-gana-premio-gol-del-mes-octubre-lugano-de-suiza-AH32604895",
-     "domain": "elheraldo.hn",
-     "seendate": "20261111T030000Z"
     }
    ]
   },
   "SLV": {
    "articles": [
     {
-     "title": "WAREHOUSELIFT llega a El Salvador con soluciones para el manejo de carga y operación de bodegas",
-     "url": "https://diario1.com/nacionales/2026/11/warehouselift-llega-a-el-salvador-con-soluciones-para-el-manejo-de-carga-y-operacion-de-bodegas/",
-     "domain": "diario1.com",
-     "seendate": "20261111T050000Z"
+     "title": "Diario Co Latino - Informándote con Credibilidad",
+     "url": "https://www.diariocolatino.com/a-44-anos-de-la-masacre-de-el-calabozo-la-familia-bolanos-vuelve-al-lugar-para-mantener-viva-la-memoria/",
+     "domain": "diariocolatino.com",
+     "seendate": "20261120T061500Z"
     },
     {
-     "title": "Inicia la época seca en El Salvador acompañada de vientos nortes",
-     "url": "https://diario1.com/nacionales/2026/11/inicia-la-epoca-seca-en-el-salvador-acompanada-de-vientos-nortes/",
+     "title": "Lanzan DNERO , una nueva experiencia para que los salvadoreños reciban dinero de Estados Unidos",
+     "url": "https://diario1.com/nacionales/2026/11/lanzan-dnero-una-nueva-experiencia-para-que-los-salvadorenos-reciban-dinero-de-estados-unidos/",
      "domain": "diario1.com",
-     "seendate": "20261111T050000Z"
+     "seendate": "20261120T013000Z"
     },
     {
-     "title": "Ordaz baja en la Selecta para la fecha FIFA de noviembre",
-     "url": "https://diario1.com/deportes/2026/11/09/ordaz-baja-en-la-selecta-para-la-fecha-fifa-de-noviembre/",
+     "title": "Al menos 34 miembros de una banda armada mueren en una operación de la Policía de Haití",
+     "url": "https://diario1.com/mundo/al-menos-34-miembros-de-una-banda-armada-mueren-en-una-operacion-de-la-policia-de-haiti/",
      "domain": "diario1.com",
-     "seendate": "20261110T060000Z"
+     "seendate": "20261120T013000Z"
     }
    ]
   },
@@ -987,6 +957,18 @@
   },
   "CRI": {
    "articles": [
+    {
+     "title": "Presidenta del INS responsabiliza a Bomberos por el método escogido para comprar 40 ambulancias",
+     "url": "https://www.nacion.com/politica/presidenta-del-ins-responsabiliza-a-bomberos-por/3W37GDH7MFC5JLJ3Z5NM63BVKU/story/",
+     "domain": "La Nación",
+     "seendate": "20261120T081500Z"
+    },
+    {
+     "title": "Solidaridad permitió a 21 escolares de Tirrases disfrutar de su baile de graduación tras la desaparición de ¢4 millones",
+     "url": "https://www.nacion.com/sucesos/solidaridad-permitio-a-21-escolares-de-tirrases/2GJKO5ZQVBGN3B6GL2FA3CUVAQ/story/",
+     "domain": "La Nación",
+     "seendate": "20261120T023759Z"
+    },
     {
      "title": "Expertos en seguridad llaman a unir esfuerzos para combatir el crimen organizado",
      "url": "https://www.nacion.com/sucesos/expertos-en-seguridad-llaman-a-unir-esfuerzos-para/F5LNUWM4KFEH3AWQT74VAN2BRA/story/",
@@ -1124,36 +1106,6 @@
      "url": "https://www.nacion.com/el-pais/tuasa-pide-alzas-de-hasta-60-en-pasajes-pero/C763NR52YFDPBC4BYBHWNSPIWY/story/",
      "domain": "La Nación",
      "seendate": "20261119T142622Z"
-    },
-    {
-     "title": "Hace 50 años: el primer vicepresidente de la República indicó que había que reformar el Estado ante retos futuros",
-     "url": "https://www.nacion.com/el-pais/hace-50-anos-el-primer-vicepresidente-de-la/R4YAX7ORBVDVXA6FAH3LT7HKJM/story/",
-     "domain": "La Nación",
-     "seendate": "20261119T133000Z"
-    },
-    {
-     "title": "Cortes de luz del ICE afectarán una zona de Alajuela este jueves: conozca el lugar con suspensión",
-     "url": "https://www.nacion.com/el-pais/cortes-de-luz-del-ice-afectaran-una-zona-de/F43WE4G5TNFPBCF6NR6PKKONL4/story/",
-     "domain": "La Nación",
-     "seendate": "20261119T130000Z"
-    },
-    {
-     "title": "Cortes de luz de la CNFL impactarán San José este jueves 19 de noviembre: conozca los lugares afectados",
-     "url": "https://www.nacion.com/el-pais/cortes-de-luz-de-la-cnfl-impactaran-san-jose-este/S6CREZEBCBGTBO35AERYZ6Z7SM/story/",
-     "domain": "La Nación",
-     "seendate": "20261119T123000Z"
-    },
-    {
-     "title": "Costa Rica tendrá un jueves caluroso y ventoso: estas zonas registrarán lluvias",
-     "url": "https://www.nacion.com/sucesos/costa-rica-tendra-un-jueves-caluroso-y-ventoso/BLWAY27QTFAS7GGEKCP2KK2Y5A/story/",
-     "domain": "La Nación",
-     "seendate": "20261119T121500Z"
-    },
-    {
-     "title": "Cortes de luz de la ESPH afectarán zonas de Heredia este jueves 19 de noviembre",
-     "url": "https://www.nacion.com/el-pais/cortes-de-luz-de-la-esph-afectaran-zonas-de/VQ4R5FGVYFFVRKBEW6DODY4EHI/story/",
-     "domain": "La Nación",
-     "seendate": "20261119T121500Z"
     }
    ]
   },
@@ -1399,64 +1351,64 @@
   "COL": {
    "articles": [
     {
+     "title": "Fuerte explosión cerca de un CAI de la Policía generó preocupación en Cali durante la noche del jueves 19 de noviembre: esto se sabe",
+     "url": "https://www.eltiempo.com/colombia/cali/fuerte-explosion-cerca-de-un-cai-de-la-policia-genero-preocupacion-en-cali-durante-la-noche-del-jueves-19-de-noviembre-esto-se-sabe-3602611",
+     "domain": "El Tiempo",
+     "seendate": "20261120T075928Z"
+    },
+    {
+     "title": "¡Ojo, conductor! Pico y placa en Bucaramanga para el viernes 20 de noviembre de 2026: estas son las placas que no pueden circular",
+     "url": "https://www.eltiempo.com/colombia/santander/ojo-conductor-pico-y-placa-en-bucaramanga-para-el-viernes-20-de-noviembre-de-2026-estas-son-las-placas-que-no-pueden-circular-3602405",
+     "domain": "El Tiempo",
+     "seendate": "20261120T073000Z"
+    },
+    {
+     "title": "¡Ojo, conductor! Pico y placa en Pereira para el viernes 20 de noviembre de 2026: estos carros y motos no pueden circular durante 14 horas",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/ojo-conductor-pico-y-placa-en-pereira-para-el-viernes-20-de-noviembre-de-2026-estos-carros-y-motos-no-pueden-circular-durante-14-horas-3602377",
+     "domain": "El Tiempo",
+     "seendate": "20261120T073000Z"
+    },
+    {
+     "title": "¡Evite multas! Pico y placa en Cali para el viernes 20 de noviembre de 2026: consulte qué carros no pueden circular",
+     "url": "https://www.eltiempo.com/colombia/cali/evite-multas-pico-y-placa-en-cali-para-el-viernes-20-de-noviembre-de-2026-consulte-que-carros-no-pueden-circular-3602303",
+     "domain": "El Tiempo",
+     "seendate": "20261120T073000Z"
+    },
+    {
+     "title": "Pico y placa en Medellín para el viernes 20 de noviembre de 2026: placas que tienen restricción para carros, motos y taxis",
+     "url": "https://www.eltiempo.com/colombia/medellin/pico-y-placa-en-medellin-para-el-viernes-20-de-noviembre-de-2026-placas-que-tienen-restriccion-para-carros-motos-y-taxis-3602302",
+     "domain": "El Tiempo",
+     "seendate": "20261120T073000Z"
+    },
+    {
+     "title": "Marchas en las principales ciudades del país dejaron un balance de contrastes",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/marchas-en-las-principales-ciudades-del-pais-dejaron-un-balance-de-contrastes-3602595",
+     "domain": "El Tiempo",
+     "seendate": "20261120T041859Z"
+    },
+    {
+     "title": "La ejemplar historia de Reynaldo, el vendedor informal de Cartagena que exaltó la honestidad en la ciudad durante el Festival Náutico",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-distrito-de-cartagena-premio-a-reynaldo-el-vendedor-informal-que-dio-ejemplo-de-honradez-durante-el-festival-nautico-3602582",
+     "domain": "El Tiempo",
+     "seendate": "20261120T024954Z"
+    },
+    {
+     "title": "El presidente Abelardo De La Espriella confirma captura en Cali de alias Blue en movilización: es señalada de presunto terrorismo en protestas",
+     "url": "https://www.eltiempo.com/colombia/cali/el-presidente-abelardo-de-la-espriella-confirma-captura-en-cali-de-alias-blue-en-movilizacion-es-senalada-de-presunto-terrorismo-en-protestas-3602590",
+     "domain": "El Tiempo",
+     "seendate": "20261120T024627Z"
+    },
+    {
+     "title": "Concurso de más de mil vacantes para trabajar en la Dian: anuncian fechas clave de resultados de pruebas escritas; detalles de convocatoria de empleo",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/concurso-de-mas-de-mil-vacantes-para-trabajar-en-la-dian-anuncian-fechas-clave-de-resultados-de-pruebas-escritas-detalles-de-convocatoria-de-empleo-3602516",
+     "domain": "El Tiempo",
+     "seendate": "20261120T013831Z"
+    },
+    {
      "title": "Policía desmiente fotos de movilizaciones en Colombia este 19 de noviembre: advierte que publicaciones fueron hechas con IA y están fuera de contexto",
      "url": "https://www.eltiempo.com/colombia/otras-ciudades/policia-desmiente-fotos-de-movilizaciones-en-colombia-este-19-de-noviembre-advierte-que-publicaciones-fueron-hechas-con-ia-y-estan-fuera-de-contexto-3602570",
      "domain": "El Tiempo",
      "seendate": "20261120T004640Z"
-    },
-    {
-     "title": "25 años transformando vidas en Cali: la Fundación Jeison Aristizábal realizará la 'Maratón de sueños' por más de 600 niños y jóvenes con discapacidad",
-     "url": "https://www.eltiempo.com/colombia/cali/25-anos-transformando-vidas-en-cali-la-fundacion-jeison-aristizabal-realizara-la-maraton-de-suenos-por-mas-de-600-ninos-y-jovenes-con-discapacidad-3602566",
-     "domain": "El Tiempo",
-     "seendate": "20261120T003452Z"
-    },
-    {
-     "title": "Final de la Sudamericana movería US$60 millones en Barranquilla: hoteles llenos, 9.000 trabajadores y comercio a la expectativa",
-     "url": "https://www.eltiempo.com/colombia/barranquilla/final-de-la-sudamericana-moveria-us-60-millones-en-barranquilla-hoteles-llenos-9-000-trabajadores-y-comercio-a-la-expectativa-3602559",
-     "domain": "El Tiempo",
-     "seendate": "20261120T000821Z"
-    },
-    {
-     "title": "Universidad de Antioquia aclara que no expidió diploma de Ingeniería de Minas a Luz Verónica Estrada Holguín",
-     "url": "https://www.eltiempo.com/colombia/medellin/universidad-de-antioquia-aclara-que-no-expidio-diploma-de-ingenieria-de-minas-a-luz-veronica-estrada-holguin-3602558",
-     "domain": "El Tiempo",
-     "seendate": "20261119T235240Z"
-    },
-    {
-     "title": "'Es un crimen gravísimo que debe castigarse con todo el rigor de la ley': presidente De La Espriella sobre el reclutamiento de niños en Colombia",
-     "url": "https://www.eltiempo.com/colombia/cali/es-un-crimen-gravisimo-que-debe-castigarse-con-todo-el-rigor-de-la-ley-presidente-de-la-espriella-sobre-el-reclutamiento-de-ninos-en-colombia-3602541",
-     "domain": "El Tiempo",
-     "seendate": "20261119T234548Z"
-    },
-    {
-     "title": "Familiares de mujer asesinada por su expareja claman por la recaptura del victimario en Armenia: esta fue la historia",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/familiares-de-mujer-asesinada-por-su-expareja-claman-por-la-recaptura-del-victimario-en-armenia-esta-fue-la-historia-3602547",
-     "domain": "El Tiempo",
-     "seendate": "20261119T233504Z"
-    },
-    {
-     "title": "Disturbios en la Universidad de Antioquia empañan el cierre de las marchas en Medellín: reportan explosiones y hay presencia del Esmad",
-     "url": "https://www.eltiempo.com/colombia/medellin/disturbios-en-la-universidad-de-antioquia-empanan-el-cierre-de-las-marchas-en-medellin-reportan-explosiones-y-hay-presencia-del-esmad-3602545",
-     "domain": "El Tiempo",
-     "seendate": "20261119T233301Z"
-    },
-    {
-     "title": "Ojo con las boletas falsas: así puede evitar las estafas para la final de la Sudamericana entre Boca Juniors y Atlético Mineiro en Barranquilla",
-     "url": "https://www.eltiempo.com/colombia/barranquilla/ojo-con-las-boletas-falsas-asi-puede-evitar-las-estafas-para-la-final-de-la-sudamericana-entre-boca-juniors-y-atletico-mineiro-en-barranquilla-3602555",
-     "domain": "El Tiempo",
-     "seendate": "20261119T233000Z"
-    },
-    {
-     "title": "Concejo de Bucaramanga avala vigencias futuras por más de $544.000 millones para proyectos estratégicos de ciudad",
-     "url": "https://www.eltiempo.com/colombia/santander/concejo-de-bucaramanga-avala-vigencias-futuras-por-mas-de-544-000-millones-para-proyectos-estrategicos-de-ciudad-3602530",
-     "domain": "El Tiempo",
-     "seendate": "20261119T232434Z"
-    },
-    {
-     "title": "Fuertes disturbios entre encapuchados y policías en inmediaciones de la Universidad del Cauca en Popayán durante movilizaciones",
-     "url": "https://www.eltiempo.com/colombia/cali/fuertes-disturbios-entre-encapuchados-y-policias-en-inmediaciones-de-la-universidad-del-cauca-en-popayan-durante-movilizaciones-3602528",
-     "domain": "El Tiempo",
-     "seendate": "20261119T230249Z"
     }
    ]
   },
@@ -1544,6 +1496,60 @@
   },
   "ECU": {
    "articles": [
+    {
+     "title": "Debate por la Alcaldía de Milagro: candidatos expusieron sus propuestas sobre agua, seguridad y obras",
+     "url": "https://eluniverso.com/politica/elecciones/debate-por-la-alcaldia-de-milagro-candidatos-expusieron-sus-propuestas-sobre-agua-seguridad-y-obras-nota/",
+     "domain": "El Universo",
+     "seendate": "20261120T040615Z"
+    },
+    {
+     "title": "Caso Goleada: Fiscalía pide llamar a juicio a Aquiles Alvarez, su madre, sus dos hermanos y nueve personas más procesadas por lavado de activos",
+     "url": "https://eluniverso.com/politica/expedientes/caso-goleada-fiscalia-pide-llamar-juicio-aquiles-alvarez-madre-dos-hermanos-nueve-personas-mas-procesadas-lavado-de-activos-nota/",
+     "domain": "El Universo",
+     "seendate": "20261120T035524Z"
+    },
+    {
+     "title": "Bono de contingencia llega a 15.225 familias damnificadas por las lluvias",
+     "url": "https://eluniverso.com/comunidad/ecuador/bono-de-contingencia-llega-a-15225-familias-damnificadas-por-las-lluvias-nota/",
+     "domain": "El Universo",
+     "seendate": "20261120T031253Z"
+    },
+    {
+     "title": "Lotto, sorteo 3493: estos son los números ganadores del 19 de noviembre",
+     "url": "https://eluniverso.com/comunidad/ecuador/lotto-sorteo-3493-estos-son-los-numeros-ganadores-del-19-de-noviembre-nota/",
+     "domain": "El Universo",
+     "seendate": "20261120T030225Z"
+    },
+    {
+     "title": "Capturan en Ecuador a uno de los delincuentes más buscados de Perú",
+     "url": "https://eluniverso.com/politica/seguridad/capturan-en-ecuador-a-uno-de-los-delincuentes-mas-buscados-de-peru-nota/",
+     "domain": "El Universo",
+     "seendate": "20261120T024913Z"
+    },
+    {
+     "title": "Sismo de magnitud 3,5 se registró cerca de Riobamba la noche de este jueves",
+     "url": "https://eluniverso.com/comunidad/ecuador/sismo-de-magnitud-35-se-registro-cerca-de-riobamba-la-noche-de-este-jueves-nota/",
+     "domain": "El Universo",
+     "seendate": "20261120T021532Z"
+    },
+    {
+     "title": "Pronóstico de lluvias para este viernes, 20 de noviembre: Guayas y Los Ríos concentrarán las precipitaciones fuertes",
+     "url": "https://eluniverso.com/comunidad/ecuador/pronostico-de-lluvias-para-este-viernes-20-de-noviembre-guayas-y-los-rios-concentraran-las-precipitaciones-fuertes-nota/",
+     "domain": "El Universo",
+     "seendate": "20261120T020000Z"
+    },
+    {
+     "title": "Lluvia anega calles del norte de Cuenca",
+     "url": "https://eluniverso.com/comunidad/ecuador/lluvia-anega-calles-del-norte-de-cuenca-nota/",
+     "domain": "El Universo",
+     "seendate": "20261120T015844Z"
+    },
+    {
+     "title": "Doce personas fueron aprehendidas en seis operativos contra la extorsión en Manabí, Guayas y Napo",
+     "url": "https://eluniverso.com/politica/seguridad/doce-personas-fueron-aprehendidas-en-seis-operativos-contra-la-extorsion-en-manabi-guayas-y-napo-nota/",
+     "domain": "El Universo",
+     "seendate": "20261120T013638Z"
+    },
     {
      "title": "Lluvias fuertes se esperan en 26 localidades de la Costa para esta noche y madrugada del viernes 20 de noviembre",
      "url": "https://eluniverso.com/comunidad/ecuador/lluvias-fuertes-se-esperan-en-26-localidades-de-la-costa-para-esta-noche-y-madrugada-del-viernes-20-de-noviembre-nota/",
@@ -1647,30 +1653,6 @@
      "seendate": "20261119T161910Z"
     },
     {
-     "title": "Capturan en Machala a presunto cabecilla de grupo delictivo colombiano requerido por la justicia de ese país",
-     "url": "https://eluniverso.com/politica/seguridad/capturan-en-machala-a-presunto-cabecilla-de-grupo-delictivo-colombiano-requerido-por-la-justicia-de-ese-pais-nota/",
-     "domain": "El Universo",
-     "seendate": "20261119T153200Z"
-    },
-    {
-     "title": "Policía rescata en Santa Elena a niña venezolana que tenía alerta amarilla de la Interpol por desaparición y aprehendió a presunta responsable",
-     "url": "https://eluniverso.com/politica/seguridad/policia-rescata-en-santa-elena-a-nina-venezolana-que-tenia-alerta-amarilla-de-interpol-por-desaparicion-y-aprehendio-a-presunta-responsable-nota/",
-     "domain": "El Universo",
-     "seendate": "20261119T151936Z"
-    },
-    {
-     "title": "Reorganización penitenciaria en Ecuador incluye el traslado de 326 personas privadas de libertad",
-     "url": "https://eluniverso.com/politica/seguridad/reorganizacion-penitenciaria-en-ecuador-incluye-el-traslado-de-326-personas-privadas-de-libertad-nota/",
-     "domain": "El Universo",
-     "seendate": "20261119T150947Z"
-    },
-    {
-     "title": "Incumplimiento de medida cautelar genera que se emita orden de prisión preventiva contra exmagistrado de la Corte Nacional procesado por acoso sexual",
-     "url": "https://eluniverso.com/politica/expedientes/incumplimiento-de-medida-cautelar-genera-que-se-emita-orden-de-prision-preventiva-contra-exmagistrado-de-la-corte-nacional-proceso-por-acoso-sexual-nota/",
-     "domain": "El Universo",
-     "seendate": "20261119T150843Z"
-    },
-    {
      "title": "Resoluciones del COE provincial regulan el tránsito en la vía Alóag–Santo Domingo por emergencia en el km 83",
      "url": "https://eluniverso.com/comunidad/ecuador/resoluciones-del-coe-provincial-regulan-el-transito-en-la-via-aloagsanto-domingo-por-emergencia-en-el-km-83-nota/",
      "domain": "El Universo",
@@ -1689,34 +1671,10 @@
      "seendate": "20261119T133922Z"
     },
     {
-     "title": "Productores agroecológicos de Tungurahua reciben certificación por cultivar alimentos limpios",
-     "url": "https://eluniverso.com/comunidad/ecuador/produccion-limpia-nota/",
-     "domain": "El Universo",
-     "seendate": "20261119T130000Z"
-    },
-    {
-     "title": "Candidatos a las prefecturas de Guayas y Pichincha debatirán este viernes",
-     "url": "https://eluniverso.com/politica/elecciones/candidatos-prefecturas-guayas-pichincha-debatiran-este-viernes-nota/",
-     "domain": "El Universo",
-     "seendate": "20261119T130000Z"
-    },
-    {
      "title": "Fiscalía realiza allanamientos en Samborondón por presunto lavado de activos en caso relacionado con Xavier Jordán",
      "url": "https://eluniverso.com/politica/seguridad/fiscalia-allana-vivienda-en-samborondon-y-oficinas-de-13-empresas-por-presunto-lavado-de-activos-nota/",
      "domain": "El Universo",
      "seendate": "20261119T125946Z"
-    },
-    {
-     "title": "Más de un millón de personas recibieron atención en brigadas sociales del Gobierno entre 2024 y 2026",
-     "url": "https://eluniverso.com/politica/ejecutivo/mas-de-un-millon-de-personas-recibieron-atencion-en-brigadas-sociales-del-gobierno-entre-2024-y-2026-nota/",
-     "domain": "El Universo",
-     "seendate": "20261119T125016Z"
-    },
-    {
-     "title": "Noviembre ‘golpea’ con fuerza a Manabí: más de 4.000 afectados por lluvias en 17 días",
-     "url": "https://eluniverso.com/comunidad/ecuador/lluvias-en-manabi-noviembre-concentra-el-85-de-afectados-nota/",
-     "domain": "El Universo",
-     "seendate": "20261119T120000Z"
     },
     {
      "title": "Fiscalía ejecuta operativo en cuatro provincias por presunta delincuencia organizada: hay ocho detenidos",
@@ -1729,30 +1687,6 @@
      "url": "https://eluniverso.com/politica/transparencia/pleno-del-consejo-de-la-judicatura-designo-a-163-jueces-temporales-para-unidades-judiciales-del-pais-nota/",
      "domain": "El Universo",
      "seendate": "20261119T111858Z"
-    },
-    {
-     "title": "Inocar descarta amenaza de tsunami en Ecuador tras sismo de magnitud 5,1 cerca de Durán",
-     "url": "https://eluniverso.com/comunidad/ecuador/inocar-descarta-amenaza-de-tsunami-en-ecuador-tras-sismo-de-magnitud-51-cerca-de-duran-nota/",
-     "domain": "El Universo",
-     "seendate": "20261119T061931Z"
-    },
-    {
-     "title": "Sismo de magnitud 5,1 se registró cerca de Durán la madrugada de este jueves",
-     "url": "https://eluniverso.com/comunidad/ecuador/sismo-de-magnitud-51-se-registro-cerca-de-duran-la-madrugada-de-este-jueves-nota/",
-     "domain": "El Universo",
-     "seendate": "20261119T060124Z"
-    },
-    {
-     "title": "Pronóstico de lluvias para este jueves, 19 de noviembre: las zonas donde se esperan lluvias de mayor intensidad",
-     "url": "https://eluniverso.com/comunidad/ecuador/pronostico-de-lluvias-para-este-jueves-19-de-noviembre-las-zonas-donde-se-esperan-lluvias-de-mayor-intensidad-nota/",
-     "domain": "El Universo",
-     "seendate": "20261119T033717Z"
-    },
-    {
-     "title": "Pete Hegseth tendrá una reunión bilateral este jueves con Daniel Noboa en Ecuador",
-     "url": "https://eluniverso.com/politica/ejecutivo/pete-hegseth-se-reunira-este-jueves-con-daniel-noboa-en-ecuador-nota/",
-     "domain": "El Universo",
-     "seendate": "20261119T013401Z"
     },
     {
      "title": "Loja vive la campaña electoral con actividades de candidatos en territorio y visita de Daniel Noboa",
@@ -1768,7 +1702,31 @@
      "title": "Lluvias, calor extremo y oleaje anómalo en Perú por El Niño EN VIVO: últimas noticias y pronósticos del Senamhi",
      "url": "https://elcomercio.pe/peru/lluvias-calor-extremo-y-oleaje-anomalo-en-regiones-peru-por-el-nino-en-vivo-ultimas-noticias-pronosticos-y-alertas-del-senamhi-lbposting-noticia/",
      "domain": "El Comercio",
-     "seendate": "20261120T005250Z"
+     "seendate": "20261120T042418Z"
+    },
+    {
+     "title": "Piura: sismo de magnitud 3.5 sacude la región la noche de este jueves",
+     "url": "https://elcomercio.pe/peru/piura/piura-sismo-de-magnitud-35-sacuden-la-region-durante-la-noche-ultimas-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261120T032912Z"
+    },
+    {
+     "title": "Papa León XIV movilizó a más de 1 millón de visitantes y generó un impacto económico de S/ 680 millones",
+     "url": "https://elcomercio.pe/economia/peru/papa-leon-xiv-movilizo-a-mas-de-1-millon-de-visitantes-y-genero-un-impacto-economico-de-s-680-millones-apuesplan-ultimas-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261120T024018Z"
+    },
+    {
+     "title": "Fenómeno El Niño: Arequipa se prepara ante el riesgo de activación de torrenteras por lluvias intensas",
+     "url": "https://elcomercio.pe/peru/arequipa/fenomeno-el-nino-arequipa-se-prepara-ante-el-riesgo-de-activacion-de-torrenteras-por-lluvias-intensas-apuesplan-ultimas-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261120T015218Z"
+    },
+    {
+     "title": "Kiko Milano, la gigante italiana de la belleza, llegó al Perú, ¿cuánto invertirá y qué otras tiendas planea abrir?",
+     "url": "https://elcomercio.pe/economia/peru/kiko-milano-la-gigante-italiana-de-la-belleza-llego-al-peru-cuanto-invertira-y-que-otras-tiendas-planea-abrir-mercado-de-belleza-dbs-beauty-store-noticia/",
+     "domain": "El Comercio",
+     "seendate": "20261120T012212Z"
     },
     {
      "title": "Temblor hoy, 19 de noviembre: epicentro y magnitud del sismo en Perú",
@@ -1811,12 +1769,6 @@
      "url": "https://elcomercio.pe/economia/peru/nuevos-retiros-de-afp-y-cts-es-el-nino-una-razon-suficiente-para-liberar-los-fondos-noticia/",
      "domain": "El Comercio",
      "seendate": "20261119T231954Z"
-    },
-    {
-     "title": "Kiko Milano, la gigante italiana de la belleza, llegó al Perú, ¿cuánto invertirá y qué otras tiendas planea abrir?",
-     "url": "https://elcomercio.pe/economia/peru/kiko-milano-la-gigante-italiana-de-la-belleza-llego-al-peru-cuanto-invertira-y-que-otras-tiendas-planea-abrir-mercado-de-belleza-dbs-beauty-store-noticia/",
-     "domain": "El Comercio",
-     "seendate": "20261119T231143Z"
     },
     {
      "title": "Exportaciones peruanas romperían la barrera de los US$110.000 millones en 2026: CCL proyecta crecimiento de 21,16%",
@@ -2317,28 +2269,112 @@
   "ARG": {
    "articles": [
     {
-     "title": "Javier Milei y sus medidas, en vivo: el Presidente reveló que pudo haber sido una de las víctimas del atentado a la AMIA",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-nid19112026/",
+     "title": "Várices: qué son, cómo se originan y cuándo es necesario hacer tratamiento",
+     "url": "https://www.lanacion.com.ar/sociedad/varices-que-son-como-se-originan-y-cuando-es-necesario-hacer-tratamiento-nid20112026/",
      "domain": "La Nación",
-     "seendate": "20261120T010302Z"
+     "seendate": "20261120T080000Z"
+    },
+    {
+     "title": "Javier Milei y sus medidas, en vivo: “Los responsables van a ser juzgados”, dijo el Presidente sobre el atentado a la AMIA",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-senado-aprobo-la-nueva-ley-de-discapacidad-y-la-adhesion-al-nid20112026/",
+     "domain": "La Nación",
+     "seendate": "20261120T073000Z"
+    },
+    {
+     "title": "Qué podría pasar tras el fallo de la Corte Suprema sobre las cuotas de las prepagas y cuál fue la reacción del sector",
+     "url": "https://www.lanacion.com.ar/economia/que-podria-pasar-tras-el-fallo-de-la-corte-sobre-las-cuotas-de-las-prepagas-y-como-reacciono-el-nid19112026/",
+     "domain": "La Nación",
+     "seendate": "20261120T060839Z"
+    },
+    {
+     "title": "La causa que nació alrededor de la mansión de Pilar hoy alcanza a los negocios de la AFA",
+     "url": "https://www.lanacion.com.ar/politica/la-causa-que-nacio-alrededor-de-la-mansion-de-pilar-hoy-alcanza-a-los-negocios-de-la-afa-nid19112026/",
+     "domain": "La Nación",
+     "seendate": "20261120T060641Z"
     },
     {
      "title": "Aprueban la nueva ley de Discapacidad y reclaman que el Gobierno cumpla con su reglamentación",
      "url": "https://www.lanacion.com.ar/politica/el-senado-sanciono-la-ley-de-discapacidad-y-la-oposicion-reclamo-al-gobierno-que-cumpla-con-su-nid19112026/",
      "domain": "La Nación",
-     "seendate": "20261120T005831Z"
+     "seendate": "20261120T060441Z"
+    },
+    {
+     "title": "Milei y Macri, el triunfo de las debilidades",
+     "url": "https://www.lanacion.com.ar/politica/milei-y-macri-el-triunfo-de-las-debilidades-nid19112026/",
+     "domain": "La Nación",
+     "seendate": "20261120T060339Z"
+    },
+    {
+     "title": "Asesinaron a puñaladas a una mujer en el interior de un bar de Córdoba: su novio fue detenido",
+     "url": "https://www.lanacion.com.ar/sociedad/asesinaron-a-punaladas-a-una-mujer-en-el-interior-de-un-bar-de-cordoba-su-novio-fue-detenido-nid20112026/",
+     "domain": "La Nación",
+     "seendate": "20261120T054704Z"
+    },
+    {
+     "title": "Qué relación tiene el café con las enfermedades cardíacas y qué riesgos analizó un estudio",
+     "url": "https://www.lanacion.com.ar/sociedad/que-relacion-tiene-el-cafe-con-las-enfermedades-cardiacas-y-que-riesgos-analizo-un-estudio-nid17112026/",
+     "domain": "La Nación",
+     "seendate": "20261120T050000Z"
+    },
+    {
+     "title": "Luego de una maratónica sesión, el Senado aprobó el Régimen de cabotaje y marina mercante",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-nid19112026/",
+     "domain": "La Nación",
+     "seendate": "20261120T044135Z"
+    },
+    {
+     "title": "El Senado aprobó la reforma del régimen de propiedad privada que restablece la Ley de Tierras",
+     "url": "https://www.lanacion.com.ar/politica/el-senado-aprobo-la-reforma-del-regimen-de-propiedad-privada-que-restablece-la-ley-de-tierras-nid19112026/",
+     "domain": "La Nación",
+     "seendate": "20261120T034501Z"
+    },
+    {
+     "title": "Riesgos y consecuencias: el 37% de los chicos de 4 años ya usan un teléfono celular",
+     "url": "https://www.lanacion.com.ar/sociedad/riesgos-y-consecuencias-el-37-de-los-chicos-de-4-anos-ya-usan-un-telefono-celular-nid20112026/",
+     "domain": "La Nación",
+     "seendate": "20261120T030100Z"
+    },
+    {
+     "title": "Hay alerta naranja y amarilla por tormentas y lluvias para este viernes 20 de noviembre: las provincias afectadas",
+     "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-naranja-y-amarilla-por-tormentas-y-lluvias-para-este-viernes-20-de-noviembre-las-nid20112026/",
+     "domain": "La Nación",
+     "seendate": "20261120T030100Z"
+    },
+    {
+     "title": "Gabriel Rolón, sobre cómo recordamos a nuestros padres: “Se transforman en personas por ahí más nobles de lo que fueron”",
+     "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-sobre-como-recordamos-a-nuestros-padres-se-transforman-en-personas-por-ahi-mas-nobles-nid16112026/",
+     "domain": "La Nación",
+     "seendate": "20261120T024200Z"
+    },
+    {
+     "title": "Daniel López Rosetti, especialista en medicina del estrés, sobre el bienestar: “Cada persona tiene que encontrar su fórmula para la buena vida, porque depende de nuestros deseos y de nuestra historia”",
+     "url": "https://www.lanacion.com.ar/sociedad/daniel-lopez-rosetti-especialista-en-medicina-del-estres-sobre-el-bienestar-cada-persona-tiene-que-nid19112026/",
+     "domain": "La Nación",
+     "seendate": "20261120T024100Z"
+    },
+    {
+     "title": "Sus padres no podían pagarle el viaje de egresados, pero recibió una noticia que lo hizo llorar de emoción",
+     "url": "https://www.lanacion.com.ar/sociedad/sus-padres-no-podian-pagarle-el-viaje-de-egresados-pero-recibio-una-noticia-que-lo-hizo-llorar-de-nid19112026/",
+     "domain": "La Nación",
+     "seendate": "20261120T022753Z"
+    },
+    {
+     "title": "Fibromialgia: qué es, cómo se manifiesta y por qué afecta más a las mujeres",
+     "url": "https://www.lanacion.com.ar/sociedad/fibromialgia-que-es-como-se-manifiesta-y-por-que-afecta-mas-a-las-mujeres-nid17112026/",
+     "domain": "La Nación",
+     "seendate": "20261120T014200Z"
+    },
+    {
+     "title": "Cuánto café por día se puede tomar sin pasarse",
+     "url": "https://www.lanacion.com.ar/sociedad/cuanto-cafe-por-dia-se-puede-tomar-sin-pasarse-nid18112026/",
+     "domain": "La Nación",
+     "seendate": "20261120T014100Z"
     },
     {
      "title": "El oficialismo aprobó la adhesión al tratado sobre patentes, un proyecto clave en la alianza de Milei con Estados Unidos",
      "url": "https://www.lanacion.com.ar/politica/el-oficialismo-aprobo-la-adhesion-al-tratado-sobre-patentes-acordado-con-estados-unidos-nid19112026/",
      "domain": "La Nación",
      "seendate": "20261120T005826Z"
-    },
-    {
-     "title": "Milei y Macri, el triunfo de las debilidades",
-     "url": "https://www.lanacion.com.ar/politica/milei-y-macri-el-triunfo-de-las-debilidades-nid19112026/",
-     "domain": "La Nación",
-     "seendate": "20261120T002303Z"
     },
     {
      "title": "El detrás de escena del encuentro que encabezó Milei con personajes políticos de alto perfil en Puerto Madero",
@@ -2389,12 +2425,6 @@
      "seendate": "20261119T234531Z"
     },
     {
-     "title": "La causa que nació alrededor de la mansión de Pilar hoy alcanza a los negocios de la AFA",
-     "url": "https://www.lanacion.com.ar/politica/la-causa-que-nacio-alrededor-de-la-mansion-de-pilar-hoy-alcanza-a-los-negocios-de-la-afa-nid19112026/",
-     "domain": "La Nación",
-     "seendate": "20261119T234201Z"
-    },
-    {
      "title": "Mario Alonso Puig, médico cirujano especializado en emociones, revela cuál es el factor más importante para alcanzar la felicidad",
      "url": "https://www.lanacion.com.ar/sociedad/mario-alonso-puig-medico-cirujano-especializado-en-emociones-revela-cual-es-el-factor-mas-importante-nid19112026/",
      "domain": "La Nación",
@@ -2411,156 +2441,6 @@
      "url": "https://www.lanacion.com.ar/sociedad/el-homenaje-mas-inesperado-un-escarabajo-descubierto-en-el-norte-del-pais-lleva-el-nombre-del-indio-nid19112026/",
      "domain": "La Nación",
      "seendate": "20261119T233738Z"
-    },
-    {
-     "title": "Vino de Napoli por amor, fundó un bar en honor al argentino más famoso y ahora quiere enseñar a comer la verdadera pizza italiana: “Me siento como en casa”",
-     "url": "https://www.lanacion.com.ar/sociedad/vino-de-napoli-por-amor-fundo-un-bar-en-honor-al-argentino-mas-famoso-y-ahora-quiere-ensenar-a-comer-nid18112026/",
-     "domain": "La Nación",
-     "seendate": "20261119T231842Z"
-    },
-    {
-     "title": "Milei versus Milei: el rival no es solo la oposición",
-     "url": "https://www.lanacion.com.ar/economia/milei-versus-milei-el-rival-no-es-solo-la-oposicion-nid19112026/",
-     "domain": "La Nación",
-     "seendate": "20261119T231634Z"
-    },
-    {
-     "title": "Mario Alonso Puig explicó por qué el amor es clave para alcanzar la felicidad: “Cuanto mayor sea tu capacidad de amar, más feliz vas a ser”",
-     "url": "https://www.lanacion.com.ar/sociedad/mario-alonso-puig-explico-por-que-el-amor-es-clave-para-alcanzar-la-felicidad-cuanto-mayor-sea-tu-nid19112026/",
-     "domain": "La Nación",
-     "seendate": "20261119T230000Z"
-    },
-    {
-     "title": "Súper Niño en Argentina: un especialista en emergencias detalló el mega operativo previsto para contrarrestar los efectos que provocará el fenómeno",
-     "url": "https://www.lanacion.com.ar/sociedad/super-nino-en-argentina-un-especialista-en-emergencias-detallo-el-mega-operativo-previsto-para-nid19112026/",
-     "domain": "La Nación",
-     "seendate": "20261119T224300Z"
-    },
-    {
-     "title": "Qué hace que las personas cambien con los años y cómo influyen las experiencias, según la psicología",
-     "url": "https://www.lanacion.com.ar/sociedad/que-hace-que-las-personas-cambien-con-los-anos-y-como-influyen-las-experiencias-segun-la-psicologia-nid17112026/",
-     "domain": "La Nación",
-     "seendate": "20261119T224200Z"
-    },
-    {
-     "title": "Se aproximan 96 horas de calor, tormentas severas, “episodios húmedos” y ráfagas de más de 90 km/h: las zonas afectadas",
-     "url": "https://www.lanacion.com.ar/sociedad/se-aproximan-96-horas-de-calor-tormentas-severas-episodios-humedos-y-rafagas-de-mas-de-90-kmh-las-nid18112026/",
-     "domain": "La Nación",
-     "seendate": "20261119T224200Z"
-    },
-    {
-     "title": "Por ley, Neuquén prohibió que las tierras productivas bajo riego se puedan lotear, construir hoteles o instalar industrias",
-     "url": "https://www.lanacion.com.ar/economia/campo/por-ley-neuquen-prohibio-que-las-tierras-productivas-bajo-riego-se-puedan-lotear-construir-hoteles-o-nid19112026/",
-     "domain": "La Nación",
-     "seendate": "20261119T224144Z"
-    },
-    {
-     "title": "Estupor en La Plata: investigan la muerte de un docente que cayó de la cúpula del observatorio dependiente de la universidad",
-     "url": "https://www.lanacion.com.ar/sociedad/la-plata-investigan-la-muerte-de-un-docente-que-cayo-de-la-cupula-del-observatorio-de-la-universidad-nid19112026/",
-     "domain": "La Nación",
-     "seendate": "20261119T223636Z"
-    },
-    {
-     "title": "Fábrica paralizada: Pauny ofrece cancelar deudas en cuotas y el gobierno de Córdoba pagará $300.000 por empleado",
-     "url": "https://www.lanacion.com.ar/economia/campo/fabrica-paralizada-pauny-ofrece-reiniciar-la-actividad-y-pagar-deudas-en-cuotas-y-el-gobierno-de-nid19112026/",
-     "domain": "La Nación",
-     "seendate": "20261119T222419Z"
-    },
-    {
-     "title": "Subte F: nuevo paso clave para iniciar la obra de la línea que tendrá conexiones con las otras seis",
-     "url": "https://www.lanacion.com.ar/sociedad/subte-f-otro-paso-clave-para-iniciar-la-obra-de-la-linea-que-tendra-conexiones-con-las-otras-seis-nid19112026/",
-     "domain": "La Nación",
-     "seendate": "20261119T222030Z"
-    },
-    {
-     "title": "El diputado que abandonó el bloque de La Libertad Avanza dijo que “le gustaría” que Patricia Bullrich sea candidata a presidenta",
-     "url": "https://www.lanacion.com.ar/politica/el-diputado-que-abandono-el-bloque-de-la-libertad-avanza-dijo-que-le-gustaria-que-patricia-bullrich-nid19112026/",
-     "domain": "La Nación",
-     "seendate": "20261119T221911Z"
-    },
-    {
-     "title": "Tensión por las Malvinas: el embajador británico reconoció “días no tan buenos” en el vínculo bilateral y anunció un homenaje a los caídos",
-     "url": "https://www.lanacion.com.ar/politica/tension-por-las-malvinas-el-embajador-britanico-reconocio-dias-no-tan-buenos-en-el-vinculo-bilateral-nid19112026/",
-     "domain": "La Nación",
-     "seendate": "20261119T221628Z"
-    },
-    {
-     "title": "Qué podría pasar tras el fallo de la Corte Suprema sobre las cuotas de las prepagas y cuál fue la reacción del sector",
-     "url": "https://www.lanacion.com.ar/economia/que-podria-pasar-tras-el-fallo-de-la-corte-sobre-las-cuotas-de-las-prepagas-y-como-reacciono-el-nid19112026/",
-     "domain": "La Nación",
-     "seendate": "20261119T221615Z"
-    },
-    {
-     "title": "La esposa del exterrorista italiano Leonardo Bertulazzi declaró que se enteró de la fuga al despertarse",
-     "url": "https://www.lanacion.com.ar/seguridad/la-esposa-del-exterrorista-italiano-leonardo-bertulazzi-declaro-que-se-entero-de-la-fuga-al-nid19112026/",
-     "domain": "La Nación",
-     "seendate": "20261119T221204Z"
-    },
-    {
-     "title": "La Corte Suprema ordenó al Gobierno entregar los resultados de las pruebas Aprender por escuela",
-     "url": "https://www.lanacion.com.ar/politica/la-corte-suprema-ordeno-al-gobierno-entregar-los-resultados-de-las-pruebas-aprender-por-escuela-nid19112026/",
-     "domain": "La Nación",
-     "seendate": "20261119T220909Z"
-    },
-    {
-     "title": "Cáncer de pulmón: qué estudio deben realizarse los fumadores y exfumadores para controlar su salud",
-     "url": "https://www.lanacion.com.ar/sociedad/cancer-de-pulmon-que-estudio-deben-realizarse-los-fumadores-y-exfumadores-para-controlar-su-salud-nid19112026/",
-     "domain": "La Nación",
-     "seendate": "20261119T220000Z"
-    },
-    {
-     "title": "El riesgo país trepó hasta los 930 puntos y el dólar alcanzó su valor más alto del año",
-     "url": "https://www.lanacion.com.ar/economia/el-dolar-volvio-a-subir-hasta-su-valor-mas-alto-del-ano-y-el-riesgo-pais-roza-los-900-puntos-nid19112026/",
-     "domain": "La Nación",
-     "seendate": "20261119T215517Z"
-    },
-    {
-     "title": "Qué se sabe de la explosión en Remedios de Escalada: nuevas víctimas y cómo sigue la investigación",
-     "url": "https://www.lanacion.com.ar/sociedad/que-se-sabe-de-la-explosion-en-remedios-de-escalada-nuevas-victimas-y-como-sigue-la-investigacion-nid19112026/",
-     "domain": "La Nación",
-     "seendate": "20261119T214200Z"
-    },
-    {
-     "title": "En una nueva redada contra la pedofilia detuvieron a 16 personas e identificaron a ocho víctimas",
-     "url": "https://www.lanacion.com.ar/seguridad/en-una-nueva-redada-contra-la-pedofilia-detuvieron-a-16-personas-e-identificaron-a-ocho-victimas-nid19112026/",
-     "domain": "La Nación",
-     "seendate": "20261119T214150Z"
-    },
-    {
-     "title": "Qué hace Bill Gates en Argentina: el misterio detrás de su desembarco y las fotos en los lugares que visitó",
-     "url": "https://www.lanacion.com.ar/sociedad/que-hace-bill-gates-en-ushuaia-el-misterio-detras-de-su-desembarco-y-una-foto-en-el-puerto-que-se-nid19112026/",
-     "domain": "La Nación",
-     "seendate": "20261119T214111Z"
-    },
-    {
-     "title": "Súper Niño en Argentina: el fenómeno se intensifica y rigen alertas meteorológicas en varias provincias",
-     "url": "https://www.lanacion.com.ar/sociedad/super-nino-en-argentina-el-fenomeno-se-intensifica-y-rigen-alertas-meteorologicas-en-varias-nid18112026/",
-     "domain": "La Nación",
-     "seendate": "20261119T214100Z"
-    },
-    {
-     "title": "La devaluación del real amenaza las exportaciones de las economías regionales argentinas a Brasil",
-     "url": "https://www.lanacion.com.ar/economia/campo/la-devaluacion-del-real-amenaza-las-exportaciones-de-las-economias-regionales-argentinas-a-brasil-nid19112026/",
-     "domain": "La Nación",
-     "seendate": "20261119T213754Z"
-    },
-    {
-     "title": "Axel Kicillof, en modo campaña: “Cuatro años más de Milei serían una calamidad”",
-     "url": "https://www.lanacion.com.ar/politica/axel-kicillof-en-modo-campana-cuatro-anos-mas-de-milei-serian-una-calamidad-nid19112026/",
-     "domain": "La Nación",
-     "seendate": "20261119T212814Z"
-    },
-    {
-     "title": "Villarruel volvió a distanciarse del Gobierno ante el cierre de una fábrica: “Sin industria no hay trabajo”",
-     "url": "https://www.lanacion.com.ar/politica/villarruel-volvio-a-distanciarse-del-gobierno-ante-el-cierre-de-una-fabrica-sin-industria-no-hay-nid19112026/",
-     "domain": "La Nación",
-     "seendate": "20261119T211449Z"
-    },
-    {
-     "title": "“Shacá la bashura de 18 a 20”: la curiosa campaña de la Municipalidad de “Shan Ishidro” y las primeras reacciones",
-     "url": "https://www.lanacion.com.ar/sociedad/shaca-la-bashura-de-18-a-20-la-curiosa-campana-de-la-municipalidad-de-shan-ishidro-y-las-primeras-nid19112026/",
-     "domain": "La Nación",
-     "seendate": "20261119T211039Z"
     }
    ]
   },
@@ -2704,70 +2584,70 @@
   "BRA": {
    "articles": [
     {
-     "title": "Caso Master: Fachin manda para a PGR relatórios com citações a Moraes, Kassio, Toffoli e Mendonça",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/11/19/caso-master-fachin-manda-arquivar-relatorios-da-pf-sobre-mencao-a-6-ministros-por-entender-nao-ter-relevancia-juridica-quatro-serao-enviados-a-pgr.ghtml",
+     "title": "Negros são quase metade dos candidatos, mas apenas 29% foram eleitos em 2026",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/11/20/negros-sao-quase-metade-dos-candidatos-mas-apenas-29percent-foram-eleitos-em-2026.ghtml",
      "domain": "O Globo",
-     "seendate": "20261119T223951Z"
+     "seendate": "20261120T063001Z"
     },
     {
-     "title": "Mulher morre e 16 ficam feridos em tumulto durante inauguração de loja em Bacabal (MA)",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/11/19/mulher-morre-e-16-ficam-feridos-em-tumulto-durante-inauguracao-de-loja-em-bacabal-ma.ghtml",
+     "title": "Queda de granizo bate recorde no Brasil sob influência do El Niño com pedras que podem até matar uma pessoa",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/11/20/queda-de-granizo-bate-recorde-no-brasil-sob-influencia-do-el-nino-com-pedras-que-podem-ate-matar-uma-pessoa.ghtml",
      "domain": "O Globo",
-     "seendate": "20261119T213149Z"
+     "seendate": "20261120T063000Z"
     },
     {
-     "title": "Moraes libera análise de lei que pode reduzir pena de Bolsonaro, e julgamento no STF deve começar em 4 de dezembro",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/11/19/moraes-pauta-julgamento-da-lei-da-dosimetria-que-pode-reduzir-pena-de-bolsonaro.ghtml",
+     "title": "De olho na capilaridade do Minha Casa, Minha Vida: PT, MDB, PSD, PP e Republicanos disputam Ministério das Cidades",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/11/20/de-olho-na-capilaridade-do-minha-casa-minha-vida-pt-mdb-psd-pp-e-republicanos-disputam-ministerio-das-cidades.ghtml",
      "domain": "O Globo",
-     "seendate": "20261119T212325Z"
+     "seendate": "20261120T063000Z"
     },
     {
-     "title": "Caso Master: Fachin envia relatórios da PF a ministros do STF",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/11/19/caso-master-fachin-envia-relatorios-da-pf-a-ministros-do-stf.ghtml",
+     "title": "Idosos, Segurança e Direitos Humanos: com fusões e novos ministérios, Lula redesenha a Esplanada",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/11/20/idosos-seguranca-e-direitos-humanos-com-fusoes-e-novos-ministerios-lula-redesenha-a-esplanada.ghtml",
      "domain": "O Globo",
-     "seendate": "20261119T205818Z"
+     "seendate": "20261120T063000Z"
     },
     {
-     "title": "Lula visita cacique Raoni e deseja boa recuperação a liderança indígena após alta hospitalar",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/11/19/lula-visita-cacique-raoni-e-deseja-boa-recuperacao-a-lideranca-indigena-apos-alta-hospitalar.ghtml",
+     "title": "Federação entre PSB e PDT reaquece disputas familiares entre João Campos e senadora Marília Arraes",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/11/20/federacao-entre-psb-e-pdt-reaquece-disputas-familiares-entre-joao-campos-e-senadora-marilia-arraes.ghtml",
      "domain": "O Globo",
-     "seendate": "20261119T203922Z"
+     "seendate": "20261120T063000Z"
     },
     {
-     "title": "Bombeiros resgatam jacaré que circulava por ruas de Governador Valadares, em Minas Gerais",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/11/19/bombeiros-resgatam-jacare-que-circulava-por-ruas-de-governador-valadares-em-minas-gerais.ghtml",
+     "title": "Voices 2026: especialistas debatem efeitos das telas em crianças e listam impactos da hiperconexão no desenvolvimento",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/11/20/voices-2026-especialistas-debatem-efeitos-das-telas-em-criancas-e-listam-impactos-da-hiperconexao-no-desenvolvimento.ghtml",
      "domain": "O Globo",
-     "seendate": "20261119T203455Z"
+     "seendate": "20261120T063000Z"
     },
     {
-     "title": "Brasileiros são investigados por atentado contra ex-promotor preso em penitenciária de segurança máxima na Bolívia",
-     "url": "https://oglobo.globo.com/brasil/noticia/2026/11/19/brasileiros-sao-investigados-por-atentado-contra-ex-promotor-preso-em-penitenciaria-de-seguranca-maxima-na-bolivia.ghtml",
+     "title": "Entenda o que acontece depois de Fachin mandar à PGR menções a Moraes, Nunes Marques, Toffoli e Mendonça no caso Master",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/11/20/entenda-o-que-acontece-depois-de-fachin-mandar-a-pgr-mencoes-a-moraes-nunes-marques-toffoli-e-mendonca-no-caso-master.ghtml",
      "domain": "O Globo",
-     "seendate": "20261119T194620Z"
+     "seendate": "20261120T063000Z"
     },
     {
-     "title": "PSD recorre de decisão de Zanin e volta a defender segundo turno no Rio entre Paes e Ruas",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/11/19/psd-recorre-de-decisao-de-zanin-e-volta-a-defender-segundo-turno-no-rio-entre-paes-e-ruas.ghtml",
+     "title": "Professores apontam diferenças entre práticas antirracistas e as que reforçam estereótipos em sala de aula",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/11/20/professores-apontam-diferencas-entre-praticas-antirracistas-e-as-que-reforcam-estereotipos-em-sala-de-aula.ghtml",
      "domain": "O Globo",
-     "seendate": "20261119T192657Z"
+     "seendate": "20261120T063000Z"
     },
     {
-     "title": "Welligton Dias é exonerado do governo para voltar ao Senado e indicar emendas",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/11/19/welligton-dias-e-exonerado-do-governo-para-voltar-ao-senado-e-indicar-emendas.ghtml",
+     "title": "Quem faz a xepa sabe fazer contas",
+     "url": "https://oglobo.globo.com/politica/renato-meirelles/coluna/2026/11/quem-faz-a-xepa-sabe-fazer-contas.ghtml",
      "domain": "O Globo",
-     "seendate": "20261119T180907Z"
+     "seendate": "20261120T063000Z"
     },
     {
-     "title": "Bolsonaro pede a Moraes que reconsidere decisão que barrou visita de Rogério Marinho",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/11/19/bolsonaro-pede-a-moraes-que-reconsidere-decisao-que-barrou-visitas-de-rogerio-marinho-e-tereza-cristina.ghtml",
+     "title": "Voices 2026: Felipe Nunes revela que Quaest desenvolve ferramenta de IA para monitorar redes e simular perfis políticos",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/11/20/voices-2026-felipe-nunes-revela-que-quaest-desenvolve-ferramenta-de-ia-para-monitorar-redes-e-simular-perfis-politicos.ghtml",
      "domain": "O Globo",
-     "seendate": "20261119T175758Z"
+     "seendate": "20261120T063000Z"
     },
     {
-     "title": "Caso Master: relatórios da PF sobre ministros do STF ainda não chegaram à PGR e prazo de 15 dias pode ser ultrapassado",
-     "url": "https://oglobo.globo.com/politica/noticia/2026/11/19/caso-master-relatorios-da-pf-sobre-ministros-do-stf-ainda-nao-chegaram-a-pgr-e-prazo-de-15-dias-pode-ser-ultrapassado.ghtml",
+     "title": "Consciência Negra e Zumbi dos Palmares: conheça a história do feriado celebrado em 20 de novembro",
+     "url": "https://oglobo.globo.com/brasil/noticia/2026/11/20/consciencia-negra-e-zumbi-dos-palmares-conheca-a-historia-do-feriado-celebrado-em-20-de-novembro.ghtml",
      "domain": "O Globo",
-     "seendate": "20261119T174643Z"
+     "seendate": "20261120T030000Z"
     }
    ]
   }
